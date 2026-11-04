@@ -1,5 +1,5 @@
 // Çevrimdışı çalışma: önce ağ, olmazsa önbellek.
-const CACHE = 'gul-v20';
+const CACHE = 'gul-v21';
 const CORE = [
   './',
   'index.html',
@@ -138,8 +138,10 @@ self.addEventListener('activate', e => {
 
 self.addEventListener('fetch', e => {
   if (e.request.method !== 'GET') return;
+  // Kendi dosyalarımızda tarayıcı önbelleğini atla (güncellemede eski ve yeni dosyalar karışmasın)
+  const same = new URL(e.request.url).origin === self.location.origin;
   e.respondWith(
-    fetch(e.request)
+    (same ? fetch(e.request.url, { cache: 'no-cache' }) : fetch(e.request))
       .then(res => {
         const copy = res.clone();
         caches.open(CACHE).then(c => c.put(e.request, copy));
