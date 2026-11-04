@@ -1,0 +1,803 @@
+{
+ "week": 5,
+ "day": 1,
+ "titleTr": "Hayat deneyimleri: Have you ever...?",
+ "theme": "experience",
+ "morning": {
+  "grammar": {
+   "topic": "Present Perfect: ever / never",
+   "explainTr": [
+    "Hayatında bir zamanda yaptığın (ya da hiç yapmadığın) şeyleri 'have/has + fiilin 3. hali' ile anlatırsın: I have visited Texas. (Texas'a gittim, ne zaman olduğu önemli değil.)",
+    "Deneyim sormak için 'Have you ever...?' denir: Have you ever worked in a school? Cevap: Yes, I have. / No, I haven't. Hiç yapmadıysan 'never' kullan: I have never taught a class.",
+    "'Gitmek' için 'have been to' kullanılır: I have been to Boston. Mülakatlarda en çok bu soruyu duyarsın."
+   ],
+   "compareTr": "Türkçede 'Hiç ... yaptın mı?' tek ek (-dı mı?) ile kurulur. İngilizcede 'Have you ever + 3. hal?' diye kalıp kullanılır; 'ever' hiç demektir.",
+   "table": [
+    [
+     "I / you / we / they",
+     "have + V3",
+     "I have worked."
+    ],
+    [
+     "he / she / it",
+     "has + V3",
+     "She has worked."
+    ],
+    [
+     "Olumsuz",
+     "have not / never + V3",
+     "I have never flown."
+    ],
+    [
+     "Soru",
+     "Have + özne + ever + V3?",
+     "Have you ever flown?"
+    ],
+    [
+     "Kısa cevap",
+     "Yes, I have. / No, I haven't.",
+     "Have you? No, I haven't."
+    ],
+    [
+     "be (3. hal)",
+     "been (to)",
+     "I have been to Texas."
+    ]
+   ],
+   "examples": [
+    {
+     "en": "I have worked in a school library.",
+     "tr": "Okul kütüphanesinde çalıştım."
+    },
+    {
+     "en": "She has never taught a class.",
+     "tr": "O hiç ders vermedi."
+    },
+    {
+     "en": "Have you ever been to Boston?",
+     "tr": "Hiç Boston'a gittin mi?"
+    },
+    {
+     "en": "Yes, I have. / No, I haven't.",
+     "tr": "Evet, gittim. / Hayır, gitmedim."
+    },
+    {
+     "en": "They have never eaten sushi.",
+     "tr": "Onlar hiç suşi yemedi."
+    }
+   ],
+   "exercises": [
+    {
+     "type": "mcq",
+     "q": "I have ___ to Texas once.",
+     "options": [
+      "been",
+      "be",
+      "was",
+      "went"
+     ],
+     "answer": 0,
+     "whyTr": "Present Perfect: have + been (be'nin V3'ü).",
+     "tag": "present-perfect",
+     "level": "A2"
+    },
+    {
+     "type": "mcq",
+     "q": "She has never ___ sushi.",
+     "options": [
+      "ate",
+      "eaten",
+      "eat",
+      "eating"
+     ],
+     "answer": 1,
+     "whyTr": "has never + V3: eaten.",
+     "tag": "present-perfect",
+     "level": "A2"
+    },
+    {
+     "type": "order",
+     "promptTr": "Soruyu sırala:",
+     "words": [
+      "worked",
+      "in",
+      "a",
+      "school?",
+      "Have",
+      "you",
+      "ever"
+     ],
+     "answer": "Have you ever worked in a school?",
+     "whyTr": "Soru: Have + özne + ever + V3.",
+     "tag": "present-perfect",
+     "level": "A2"
+    },
+    {
+     "type": "mcq",
+     "q": "___ you ever met a famous person?",
+     "options": [
+      "Has",
+      "Do",
+      "Have",
+      "Are"
+     ],
+     "answer": 2,
+     "whyTr": "You ile 'Have you ever...?' kullanılır.",
+     "tag": "question-form",
+     "level": "A2"
+    },
+    {
+     "type": "mcq",
+     "q": "He ___ never driven a bus.",
+     "options": [
+      "have",
+      "is",
+      "does",
+      "has"
+     ],
+     "answer": 3,
+     "whyTr": "He ile 'has' gelir: has never driven.",
+     "tag": "present-perfect",
+     "level": "A2"
+    },
+    {
+     "type": "mcq",
+     "q": "Which sentence is correct?",
+     "options": [
+      "I have never seen snow.",
+      "I have never see snow.",
+      "I am never seen snow.",
+      "I never have saw snow."
+     ],
+     "answer": 0,
+     "whyTr": "Have never + V3: seen.",
+     "tag": "present-perfect",
+     "level": "A2"
+    },
+    {
+     "type": "order",
+     "promptTr": "Cümleyi sırala:",
+     "words": [
+      "taught",
+      "a",
+      "class.",
+      "Hafsa",
+      "has",
+      "never"
+     ],
+     "answer": "Hafsa has never taught a class.",
+     "whyTr": "Özne + has + never + V3 + gerisi.",
+     "tag": "present-perfect",
+     "level": "A2"
+    },
+    {
+     "type": "mcq",
+     "q": "Have you ever been ___ Florida?",
+     "options": [
+      "in",
+      "at",
+      "to"
+     ],
+     "answer": 2,
+     "whyTr": "'Been' ile yön için 'to' kullanılır: been to.",
+     "tag": "prepositions-place",
+     "level": "A2"
+    },
+    {
+     "type": "mcq",
+     "q": "\"Have you ever used a computer at work?\" \"Yes, I ___.\"",
+     "options": [
+      "do",
+      "did",
+      "have",
+      "am"
+     ],
+     "answer": 2,
+     "whyTr": "Present Perfect sorusuna 'Yes, I have.' diye cevap verilir.",
+     "tag": "present-perfect",
+     "level": "A2"
+    },
+    {
+     "type": "mcq",
+     "q": "Last year, I ___ to Chicago.",
+     "options": [
+      "have gone",
+      "go",
+      "going",
+      "went"
+     ],
+     "answer": 3,
+     "whyTr": "'Last year' bitmiş zamandır; Past Simple: went.",
+     "tag": "past-simple",
+     "level": "A2"
+    },
+    {
+     "type": "fill",
+     "q": "She has ___ been to California.",
+     "accept": [
+      "never"
+     ],
+     "hintTr": "hiç (olumsuz)",
+     "whyTr": "'Never' ile hiç yapmadığın bir deneyimi anlatırsın.",
+     "tag": "present-perfect",
+     "level": "A2"
+    },
+    {
+     "type": "mcq",
+     "q": "My son ___ pizza every Friday.",
+     "options": [
+      "eats",
+      "eat",
+      "is eat",
+      "eating"
+     ],
+     "answer": 0,
+     "whyTr": "Alışkanlık için Present Simple; he/she/it'te -s gelir.",
+     "tag": "present-simple",
+     "level": "A2"
+    }
+   ]
+  },
+  "vocab": [
+   {
+    "id": "experience",
+    "en": "experience",
+    "tr": "deneyim, tecrübe",
+    "pos": "noun",
+    "example": "She has a lot of experience with children.",
+    "exampleTr": "Çocuklarla çok tecrübesi var.",
+    "syn": [],
+    "ant": [],
+    "level": "A2"
+   },
+   {
+    "id": "interview",
+    "en": "interview",
+    "tr": "iş görüşmesi, mülakat",
+    "pos": "noun",
+    "example": "I have a job interview on Friday.",
+    "exampleTr": "Cuma günü bir iş görüşmem var.",
+    "syn": [],
+    "ant": [],
+    "level": "A2"
+   },
+   {
+    "id": "travel",
+    "en": "travel",
+    "tr": "seyahat etmek",
+    "pos": "verb",
+    "example": "I love to travel.",
+    "exampleTr": "Seyahat etmeyi seviyorum.",
+    "syn": [],
+    "ant": [],
+    "level": "A2"
+   },
+   {
+    "id": "visit",
+    "en": "visit",
+    "tr": "ziyaret etmek",
+    "pos": "verb",
+    "example": "We visited my cousin in Texas.",
+    "exampleTr": "Texas'ta kuzenimi ziyaret ettik.",
+    "syn": [],
+    "ant": [],
+    "level": "A2"
+   },
+   {
+    "id": "try",
+    "en": "try",
+    "tr": "denemek",
+    "pos": "verb",
+    "example": "Have you ever tried Mexican food?",
+    "exampleTr": "Hiç Meksika yemeği denedin mi?",
+    "syn": [
+     "attempt"
+    ],
+    "ant": [],
+    "level": "A2"
+   },
+   {
+    "id": "meet",
+    "en": "meet",
+    "tr": "tanışmak, buluşmak",
+    "pos": "verb",
+    "example": "I met the principal last week.",
+    "exampleTr": "Geçen hafta müdürle tanıştım.",
+    "syn": [],
+    "ant": [],
+    "level": "A2"
+   },
+   {
+    "id": "famous",
+    "en": "famous",
+    "tr": "ünlü",
+    "pos": "adjective",
+    "example": "He is a famous teacher.",
+    "exampleTr": "O ünlü bir öğretmen.",
+    "syn": [],
+    "ant": [],
+    "level": "A2"
+   },
+   {
+    "id": "once",
+    "en": "once",
+    "tr": "bir kez",
+    "pos": "adverb",
+    "example": "I have been to Boston once.",
+    "exampleTr": "Boston'a bir kez gittim.",
+    "syn": [],
+    "ant": [],
+    "level": "A2"
+   },
+   {
+    "id": "volunteer",
+    "en": "volunteer",
+    "tr": "gönüllü olarak çalışmak; gönüllü",
+    "pos": "verb",
+    "example": "I volunteer at the school library.",
+    "exampleTr": "Okul kütüphanesinde gönüllü çalışıyorum.",
+    "syn": [],
+    "ant": [],
+    "level": "A2"
+   },
+   {
+    "id": "trip",
+    "en": "trip",
+    "tr": "gezi, yolculuk",
+    "pos": "noun",
+    "example": "We took a trip to Florida.",
+    "exampleTr": "Florida'ya bir gezi yaptık.",
+    "syn": [
+     "journey"
+    ],
+    "ant": [],
+    "level": "A2"
+   },
+   {
+    "id": "job",
+    "en": "job",
+    "tr": "iş",
+    "pos": "noun",
+    "example": "She has a new job at a school.",
+    "exampleTr": "Bir okulda yeni bir işi var.",
+    "syn": [
+     "work"
+    ],
+    "ant": [],
+    "level": "A2"
+   },
+   {
+    "id": "resume",
+    "en": "resume",
+    "tr": "özgeçmiş",
+    "pos": "noun",
+    "example": "Please send your resume to the school.",
+    "exampleTr": "Lütfen özgeçmişini okula gönder.",
+    "syn": [],
+    "ant": [],
+    "level": "A2"
+   },
+   {
+    "id": "abroad",
+    "en": "abroad",
+    "tr": "yurt dışında",
+    "pos": "adverb",
+    "example": "He has never lived abroad.",
+    "exampleTr": "O hiç yurt dışında yaşamadı.",
+    "syn": [],
+    "ant": [],
+    "level": "A2"
+   },
+   {
+    "id": "boring",
+    "en": "boring",
+    "tr": "sıkıcı",
+    "pos": "adjective",
+    "example": "The movie was boring.",
+    "exampleTr": "Film sıkıcıydı.",
+    "syn": [],
+    "ant": [
+     "exciting"
+    ],
+    "level": "A2"
+   },
+   {
+    "id": "exciting",
+    "en": "exciting",
+    "tr": "heyecan verici",
+    "pos": "adjective",
+    "example": "Moving to a new country is exciting.",
+    "exampleTr": "Yeni bir ülkeye taşınmak heyecan verici.",
+    "syn": [],
+    "ant": [
+     "boring"
+    ],
+    "level": "A2"
+   }
+  ],
+  "reading": {
+   "title": "Practice for the interview",
+   "text": "Hafsa has a job interview at Lincoln Elementary School on Friday. She is nervous, so she practices at home with her son Emre.\n\nEmre plays the principal. \"Have you ever worked with children?\" he asks. Hafsa thinks for a moment. \"Yes, I have. I have volunteered in a school library for two years.\" Emre smiles. \"Good! Have you ever taught a class?\" \"No, I haven't,\" says Hafsa. \"I have never taught a class alone, but I have helped many teachers.\"\n\n\"Have you ever lived abroad?\" Emre asks. \"Yes, I have. I have lived in two countries, and I have visited three. I think that is a good experience for a teacher.\"\n\nEmre claps. \"Great answers! Have you ever felt this ready?\" Hafsa laughs. \"No, never!\"",
+   "glossary": [
+    {
+     "en": "nervous",
+     "tr": "gergin"
+    },
+    {
+     "en": "for a moment",
+     "tr": "bir an için"
+    },
+    {
+     "en": "clap",
+     "tr": "alkışlamak"
+    },
+    {
+     "en": "ready",
+     "tr": "hazır"
+    }
+   ],
+   "questions": [
+    {
+     "type": "mcq",
+     "q": "When is Hafsa's interview?",
+     "options": [
+      "On Monday",
+      "On Friday",
+      "On Sunday",
+      "Tomorrow morning"
+     ],
+     "answer": 1,
+     "whyTr": "Metin: 'on Friday'.",
+     "tag": "reading",
+     "level": "A2"
+    },
+    {
+     "type": "mcq",
+     "q": "Who plays the principal?",
+     "options": [
+      "Linda",
+      "Mr. Brown",
+      "Emre",
+      "Ms. Carter"
+     ],
+     "answer": 2,
+     "whyTr": "Metin: 'Emre plays the principal.'",
+     "tag": "reading",
+     "level": "A2"
+    },
+    {
+     "type": "mcq",
+     "q": "What has Hafsa never done?",
+     "options": [
+      "Helped teachers",
+      "Volunteered in a library",
+      "Visited three countries",
+      "Taught a class alone"
+     ],
+     "answer": 3,
+     "whyTr": "Metin: 'I have never taught a class alone'.",
+     "tag": "reading",
+     "level": "A2"
+    },
+    {
+     "type": "mcq",
+     "q": "How long has Hafsa volunteered in a school library?",
+     "options": [
+      "For two years",
+      "For two months",
+      "For ten years",
+      "For one week"
+     ],
+     "answer": 0,
+     "whyTr": "Metin: 'for two years'.",
+     "tag": "reading",
+     "level": "A2"
+    }
+   ]
+  }
+ },
+ "evening": {
+  "listening": {
+   "title": "The interview",
+   "script": [
+    {
+     "speaker": "Principal Davis",
+     "text": "Welcome, Hafsa. Please sit down."
+    },
+    {
+     "speaker": "Hafsa",
+     "text": "Thank you, Principal Davis."
+    },
+    {
+     "speaker": "Principal Davis",
+     "text": "Have you ever worked in a school?"
+    },
+    {
+     "speaker": "Hafsa",
+     "text": "Yes, I have. I have volunteered in a library for two years."
+    },
+    {
+     "speaker": "Principal Davis",
+     "text": "Wonderful. Have you ever taught a class?"
+    },
+    {
+     "speaker": "Hafsa",
+     "text": "No, I haven't. But I have helped children with reading many times."
+    },
+    {
+     "speaker": "Principal Davis",
+     "text": "Have you ever used a computer program for attendance?"
+    },
+    {
+     "speaker": "Hafsa",
+     "text": "No, I never have. But I learn fast."
+    },
+    {
+     "speaker": "Principal Davis",
+     "text": "Have you ever lived in another country?"
+    },
+    {
+     "speaker": "Hafsa",
+     "text": "Yes, I have. I lived in Turkey for many years, and now I live here."
+    },
+    {
+     "speaker": "Principal Davis",
+     "text": "That is a big experience. Do you have any questions?"
+    },
+    {
+     "speaker": "Hafsa",
+     "text": "Yes. Can I visit a classroom again next week?"
+    },
+    {
+     "speaker": "Principal Davis",
+     "text": "Of course. Please call Mr. Brown."
+    }
+   ],
+   "questions": [
+    {
+     "type": "mcq",
+     "q": "Where has Hafsa volunteered?",
+     "options": [
+      "In a bank",
+      "In a library",
+      "In a hospital",
+      "In a restaurant"
+     ],
+     "answer": 1,
+     "whyTr": "Hafsa: 'I have volunteered in a library'.",
+     "tag": "listening",
+     "level": "A2"
+    },
+    {
+     "type": "mcq",
+     "q": "Has Hafsa ever taught a class?",
+     "options": [
+      "Yes, many times.",
+      "Yes, once.",
+      "No, she hasn't.",
+      "Yes, last year."
+     ],
+     "answer": 2,
+     "whyTr": "Hafsa: 'No, I haven't.'",
+     "tag": "listening",
+     "level": "A2"
+    },
+    {
+     "type": "mcq",
+     "q": "What has Hafsa never used?",
+     "options": [
+      "A phone",
+      "A library book",
+      "An email",
+      "An attendance program"
+     ],
+     "answer": 3,
+     "whyTr": "Hafsa: 'No, I never have' (attendance program).",
+     "tag": "listening",
+     "level": "A2"
+    },
+    {
+     "type": "mcq",
+     "q": "What does Hafsa ask at the end?",
+     "options": [
+      "To visit a classroom again",
+      "To start work today",
+      "To change the day",
+      "To get a job form"
+     ],
+     "answer": 0,
+     "whyTr": "Hafsa: 'Can I visit a classroom again next week?'",
+     "tag": "listening",
+     "level": "A2"
+    }
+   ]
+  },
+  "writing": {
+   "promptTr": "Hayatında yaptığın 3 şeyi ve hiç yapmadığın 1 şeyi yaz (4 cümle).",
+   "promptEn": "Write about three things you have done and one thing you have never done.",
+   "frames": [
+    "I have ...",
+    "I have also ...",
+    "I have been to ...",
+    "I have never ..."
+   ],
+   "model": "I have worked in a school library. I have lived in two countries. I have cooked for many people. I have never driven a school bus.",
+   "checklistTr": [
+    "Her cümlede have + V3 var mı (I have work değil, I have worked)?",
+    "En az bir 'never' cümlen var mı?",
+    "Cümleler büyük harfle başlıyor ve noktayla bitiyor mu?"
+   ],
+   "minWords": 25
+  },
+  "examSet": [
+   {
+    "type": "mcq",
+    "q": "She ___ been to Chicago twice.",
+    "options": [
+     "have",
+     "has",
+     "is",
+     "did"
+    ],
+    "answer": 1,
+    "whyTr": "She ile 'has' kullanılır.",
+    "tag": "present-perfect",
+    "level": "A2"
+   },
+   {
+    "type": "mcq",
+    "q": "I have never ___ a horse.",
+    "options": [
+     "rode",
+     "ride",
+     "ridden",
+     "riding"
+    ],
+    "answer": 2,
+    "whyTr": "Have never + V3: ridden.",
+    "tag": "present-perfect",
+    "level": "A2"
+   },
+   {
+    "type": "mcq",
+    "q": "Emre ___ to school yesterday.",
+    "options": [
+     "has gone",
+     "goes",
+     "go",
+     "went"
+    ],
+    "answer": 3,
+    "whyTr": "'Yesterday' ile Past Simple kullanılır.",
+    "tag": "past-simple",
+    "level": "A2"
+   },
+   {
+    "type": "mcq",
+    "q": "My neighbor ___ speak Spanish very well.",
+    "options": [
+     "can",
+     "cans",
+     "is can",
+     "does can"
+    ],
+    "answer": 0,
+    "whyTr": "'Can' -s almaz; yalın fiil gelir.",
+    "tag": "modals",
+    "level": "A2"
+   },
+   {
+    "type": "mcq",
+    "q": "Which word means almost the same as \"trip\"?",
+    "options": [
+     "meal",
+     "journey",
+     "lesson",
+     "desk"
+    ],
+    "answer": 1,
+    "whyTr": "Trip ve journey benzer anlamlı.",
+    "tag": "synonym",
+    "level": "A2"
+   },
+   {
+    "type": "mcq",
+    "q": "What is the opposite of \"boring\"?",
+    "options": [
+     "famous",
+     "abroad",
+     "exciting",
+     "quiet"
+    ],
+    "answer": 2,
+    "whyTr": "Boring'in zıttı exciting.",
+    "tag": "antonym",
+    "level": "A2"
+   },
+   {
+    "type": "mcq",
+    "q": "She has a lot of work ___. She has worked in three schools.",
+    "options": [
+     "interview",
+     "resume",
+     "trip",
+     "experience"
+    ],
+    "answer": 3,
+    "whyTr": "İş deneyimi = work experience.",
+    "tag": "vocab",
+    "level": "A2"
+   },
+   {
+    "type": "mcq",
+    "q": "Please send your ___ before the interview.",
+    "options": [
+     "resume",
+     "trip",
+     "once",
+     "journey"
+    ],
+    "answer": 0,
+    "whyTr": "Özgeçmiş = resume.",
+    "tag": "vocab",
+    "level": "A2"
+   },
+   {
+    "type": "mcq",
+    "q": "She ___ at the school office every day.",
+    "options": [
+     "work",
+     "works",
+     "is work",
+     "working"
+    ],
+    "answer": 1,
+    "whyTr": "Alışkanlık: Present Simple; she + works.",
+    "tag": "present-simple",
+    "level": "A2"
+   },
+   {
+    "type": "mcq",
+    "q": "___ you ever tried Turkish coffee?",
+    "options": [
+     "Has",
+     "Did you",
+     "Have",
+     "Are"
+    ],
+    "answer": 2,
+    "whyTr": "'Have you ever + V3?' deneyim sorusu.",
+    "tag": "question-form",
+    "level": "A2"
+   },
+   {
+    "type": "mcq",
+    "q": "Mark has a new job at a school. He has worked with children before, but he has never lived abroad. Next year he wants to travel to Spain.\n\nWhat has Mark never done?",
+    "options": [
+     "Worked with children",
+     "Had a job",
+     "Found a new job",
+     "Lived abroad"
+    ],
+    "answer": 3,
+    "whyTr": "Metin: 'he has never lived abroad'.",
+    "tag": "reading",
+    "level": "A2"
+   },
+   {
+    "type": "mcq",
+    "q": "Rosa is a volunteer at a library. She has helped many children read. She has never been late.\n\nWhat has Rosa done?",
+    "options": [
+     "Helped children read",
+     "Lived abroad",
+     "Been late",
+     "Taught a class"
+    ],
+    "answer": 0,
+    "whyTr": "Metin: 'She has helped many children read.'",
+    "tag": "reading",
+    "level": "A2"
+   }
+  ]
+ }
+}

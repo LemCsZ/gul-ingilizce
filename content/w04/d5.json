@@ -1,0 +1,769 @@
+{
+ "week": 4,
+ "day": 5,
+ "titleTr": "Yemek tarifi: sayılabilir ve sayılamayan",
+ "theme": "food",
+ "morning": {
+  "grammar": {
+   "topic": "countable / uncountable; some, any, much, many, a lot of, a few, a little",
+   "explainTr": [
+    "Sayabildiğin şeyler sayılabilirdir: one egg, two eggs. Sayamadıkların sayılamazdır ve çoğul almaz: rice, sugar, salt, water, bread. Sayılamayanı saymak için kap ya da ölçü kullanırsın: a cup of tea, two loaves of bread.",
+    "'Some' olumlu cümlede, 'any' olumsuz ve soruda kullanılır. 'Much' sayılamayanla, 'many' sayılabilirle: How much rice? How many eggs? 'A lot of' ikisiyle de olur.",
+    "'A few' sayılabilir çoğulla (a few eggs), 'a little' sayılamayanla (a little salt) kullanılır; ikisi de 'az ama yeterli' demektir."
+   ],
+   "compareTr": "Türkçede 'iki su, üç ekmek' diyebilirsin. İngilizcede water, bread, rice, sugar gibi kelimeler sayılamaz: 'two waters' yerine 'two glasses of water', 'two breads' yerine 'two loaves of bread' dersin.",
+   "table": [
+    [
+     "Sayılabilir",
+     "a/an, çoğul -s, many, a few",
+     "an egg, two eggs, many eggs"
+    ],
+    [
+     "Sayılamayan",
+     "çoğul yok, much, a little",
+     "some rice, much sugar"
+    ],
+    [
+     "Olumlu",
+     "some",
+     "We have some butter."
+    ],
+    [
+     "Olumsuz / soru",
+     "any",
+     "Do we have any flour?"
+    ],
+    [
+     "Her ikisi",
+     "a lot of",
+     "a lot of eggs / a lot of rice"
+    ]
+   ],
+   "examples": [
+    {
+     "en": "I need some eggs and some rice.",
+     "tr": "Biraz yumurtaya ve pirince ihtiyacım var."
+    },
+    {
+     "en": "We don't have any sugar.",
+     "tr": "Hiç şekerimiz yok."
+    },
+    {
+     "en": "How many onions do you need?",
+     "tr": "Kaç soğana ihtiyacın var?"
+    },
+    {
+     "en": "How much salt do I add? Just a little.",
+     "tr": "Ne kadar tuz ekleyeyim? Sadece biraz."
+    },
+    {
+     "en": "There are a few cups on the table.",
+     "tr": "Masada birkaç bardak var."
+    }
+   ],
+   "exercises": [
+    {
+     "type": "mcq",
+     "q": "I need ___ eggs for the cake.",
+     "options": [
+      "some",
+      "a",
+      "an",
+      "much"
+     ],
+     "answer": 0,
+     "whyTr": "Olumlu cümlede çoğul sayılabilir isimle 'some' kullanılır.",
+     "tag": "countable",
+     "level": "A1"
+    },
+    {
+     "type": "mcq",
+     "q": "We don't have ___ sugar.",
+     "options": [
+      "a",
+      "any",
+      "many",
+      "an"
+     ],
+     "answer": 1,
+     "whyTr": "Olumsuz cümlede 'any' kullanılır.",
+     "tag": "countable",
+     "level": "A1"
+    },
+    {
+     "type": "mcq",
+     "q": "How ___ rice do you need?",
+     "options": [
+      "many",
+      "a few",
+      "much",
+      "an"
+     ],
+     "answer": 2,
+     "whyTr": "Rice sayılamaz; 'How much'.",
+     "tag": "countable",
+     "level": "A2"
+    },
+    {
+     "type": "mcq",
+     "q": "How ___ onions do you need?",
+     "options": [
+      "much",
+      "a little",
+      "a",
+      "many"
+     ],
+     "answer": 3,
+     "whyTr": "Onion sayılabilir; 'How many'.",
+     "tag": "countable",
+     "level": "A2"
+    },
+    {
+     "type": "mcq",
+     "q": "Add ___ salt, but not too much.",
+     "options": [
+      "a few",
+      "a little",
+      "many",
+      "an"
+     ],
+     "answer": 1,
+     "whyTr": "Sayılamayan salt ile 'a little'.",
+     "tag": "countable",
+     "level": "A2"
+    },
+    {
+     "type": "mcq",
+     "q": "There are ___ cups on the table.",
+     "options": [
+      "a little",
+      "much",
+      "a few",
+      "a"
+     ],
+     "answer": 2,
+     "whyTr": "Sayılabilir çoğul cups ile 'a few'.",
+     "tag": "countable",
+     "level": "A2"
+    },
+    {
+     "type": "mcq",
+     "q": "Which is correct?",
+     "options": [
+      "I need two breads.",
+      "I need two loaf of bread.",
+      "I need a breads.",
+      "I need two loaves of bread."
+     ],
+     "answer": 3,
+     "whyTr": "Bread sayılamaz; 'loaf of' ile sayarız.",
+     "tag": "countable",
+     "level": "A2"
+    },
+    {
+     "type": "mcq",
+     "q": "Add ___ egg to the bowl.",
+     "options": [
+      "an",
+      "a",
+      "some",
+      "much"
+     ],
+     "answer": 0,
+     "whyTr": "Tek bir egg: sesli harfle başladığı için 'an'.",
+     "tag": "articles",
+     "level": "A2"
+    },
+    {
+     "type": "mcq",
+     "q": "The soup needs ___ of water.",
+     "options": [
+      "many",
+      "much",
+      "a lot",
+      "a few"
+     ],
+     "answer": 2,
+     "whyTr": "'A lot of' hem sayılabilir hem sayılamayan isimle kullanılır.",
+     "tag": "countable",
+     "level": "A2"
+    },
+    {
+     "type": "order",
+     "promptTr": "Cümleyi sırala:",
+     "words": [
+      "many",
+      "need?",
+      "do",
+      "How",
+      "eggs",
+      "we"
+     ],
+     "answer": "How many eggs do we need?",
+     "whyTr": "Sayılabilir isimle 'How many' sorulur.",
+     "tag": "countable",
+     "level": "A2"
+    },
+    {
+     "type": "fill",
+     "q": "We are going ___ make soup tonight.",
+     "accept": [
+      "to"
+     ],
+     "hintTr": "going ... ?",
+     "whyTr": "Plan: be going to + fiil.",
+     "tag": "future",
+     "level": "A2"
+    },
+    {
+     "type": "fill",
+     "q": "Yesterday Linda ___ some rice for dinner. (eat)",
+     "accept": [
+      "ate"
+     ],
+     "hintTr": "eat fiilinin geçmişi",
+     "whyTr": "Eat düzensiz fiildir: ate.",
+     "tag": "past-simple",
+     "level": "A2"
+    }
+   ]
+  },
+  "vocab": [
+   {
+    "id": "recipe",
+    "en": "recipe",
+    "tr": "yemek tarifi",
+    "pos": "noun",
+    "example": "Do you have a recipe for soup?",
+    "exampleTr": "Çorba için bir tarifin var mı?",
+    "syn": [],
+    "ant": [],
+    "level": "A2"
+   },
+   {
+    "id": "ingredient",
+    "en": "ingredient",
+    "tr": "malzeme",
+    "pos": "noun",
+    "example": "Salt is an important ingredient.",
+    "exampleTr": "Tuz önemli bir malzeme.",
+    "syn": [],
+    "ant": [],
+    "level": "B1"
+   },
+   {
+    "id": "flour",
+    "en": "flour",
+    "tr": "un",
+    "pos": "noun",
+    "example": "I need a cup of flour.",
+    "exampleTr": "Bir bardak una ihtiyacım var.",
+    "syn": [],
+    "ant": [],
+    "level": "A2"
+   },
+   {
+    "id": "sugar",
+    "en": "sugar",
+    "tr": "şeker",
+    "pos": "noun",
+    "example": "I don't put sugar in my tea.",
+    "exampleTr": "Çayıma şeker koymam.",
+    "syn": [],
+    "ant": [],
+    "level": "A2"
+   },
+   {
+    "id": "salt",
+    "en": "salt",
+    "tr": "tuz",
+    "pos": "noun",
+    "example": "Add a little salt.",
+    "exampleTr": "Biraz tuz ekle.",
+    "syn": [],
+    "ant": [],
+    "level": "A2"
+   },
+   {
+    "id": "butter",
+    "en": "butter",
+    "tr": "tereyağı",
+    "pos": "noun",
+    "example": "Put some butter in the pan.",
+    "exampleTr": "Tavaya biraz tereyağı koy.",
+    "syn": [],
+    "ant": [],
+    "level": "A2"
+   },
+   {
+    "id": "egg",
+    "en": "egg",
+    "tr": "yumurta",
+    "pos": "noun",
+    "example": "I eat an egg for breakfast.",
+    "exampleTr": "Kahvaltıda bir yumurta yerim.",
+    "syn": [],
+    "ant": [],
+    "level": "A2"
+   },
+   {
+    "id": "onion",
+    "en": "onion",
+    "tr": "soğan",
+    "pos": "noun",
+    "example": "Slice one onion.",
+    "exampleTr": "Bir soğanı dilimle.",
+    "syn": [],
+    "ant": [],
+    "level": "A2"
+   },
+   {
+    "id": "rice",
+    "en": "rice",
+    "tr": "pirinç, pilav",
+    "pos": "noun",
+    "example": "We have rice with the chicken.",
+    "exampleTr": "Tavukla pilav yiyoruz.",
+    "syn": [],
+    "ant": [],
+    "level": "A2"
+   },
+   {
+    "id": "cup",
+    "en": "cup",
+    "tr": "bardak, fincan",
+    "pos": "noun",
+    "example": "I'd like a cup of tea.",
+    "exampleTr": "Bir fincan çay istiyorum.",
+    "syn": [],
+    "ant": [],
+    "level": "A2"
+   },
+   {
+    "id": "spoon",
+    "en": "spoon",
+    "tr": "kaşık",
+    "pos": "noun",
+    "example": "Use a spoon to mix the soup.",
+    "exampleTr": "Çorbayı karıştırmak için kaşık kullan.",
+    "syn": [],
+    "ant": [],
+    "level": "A2"
+   },
+   {
+    "id": "mix",
+    "en": "mix",
+    "tr": "karıştırmak",
+    "pos": "verb",
+    "example": "Mix the eggs and the sugar.",
+    "exampleTr": "Yumurtaları ve şekeri karıştır.",
+    "syn": [
+     "stir"
+    ],
+    "ant": [],
+    "level": "A2"
+   },
+   {
+    "id": "boil",
+    "en": "boil",
+    "tr": "kaynatmak, kaynamak",
+    "pos": "verb",
+    "example": "Boil the water for ten minutes.",
+    "exampleTr": "Suyu on dakika kaynat.",
+    "syn": [],
+    "ant": [],
+    "level": "A2"
+   },
+   {
+    "id": "slice",
+    "en": "slice",
+    "tr": "dilimlemek; dilim",
+    "pos": "verb",
+    "example": "Slice the onion first.",
+    "exampleTr": "Önce soğanı dilimle.",
+    "syn": [],
+    "ant": [],
+    "level": "A2"
+   },
+   {
+    "id": "add",
+    "en": "add",
+    "tr": "eklemek",
+    "pos": "verb",
+    "example": "Add the rice to the pot.",
+    "exampleTr": "Pilavı tencereye ekle.",
+    "syn": [],
+    "ant": [
+     "remove"
+    ],
+    "level": "A2"
+   }
+  ],
+  "reading": {
+   "title": "A recipe from Hafsa",
+   "text": "Hafsa shares a recipe with Linda. It is for Turkish lentil soup. \"You need a cup of red lentils, one onion, a little butter, some salt and water,\" she says. \"It isn't hard.\"\n\n\"First, slice the onion. Then put the butter in a pot and add the onion. Cook for five minutes. Next, add the lentils and a lot of water. Boil for twenty minutes. Add a little salt at the end.\"\n\nLinda asks, \"How many onions do I need?\" \"Just one,\" says Hafsa. \"And don't add too much salt. A little is enough.\"\n\nOn Sunday, Linda makes a big pot of soup. She eats it with bread. \"It's delicious!\" she says. \"Can I have the recipe for your cake, too?\"",
+   "glossary": [
+    {
+     "en": "lentil",
+     "tr": "mercimek"
+    },
+    {
+     "en": "pot",
+     "tr": "tencere"
+    },
+    {
+     "en": "enough",
+     "tr": "yeterli"
+    },
+    {
+     "en": "pan",
+     "tr": "tava"
+    }
+   ],
+   "questions": [
+    {
+     "type": "mcq",
+     "q": "What kind of soup is it?",
+     "options": [
+      "Chicken soup",
+      "Lentil soup",
+      "Tomato soup"
+     ],
+     "answer": 1,
+     "whyTr": "Metin: 'Turkish lentil soup'.",
+     "tag": "reading",
+     "level": "A2"
+    },
+    {
+     "type": "mcq",
+     "q": "How many onions does Linda need?",
+     "options": [
+      "Two",
+      "Five",
+      "One"
+     ],
+     "answer": 2,
+     "whyTr": "Hafsa: 'Just one.'",
+     "tag": "reading",
+     "level": "A2"
+    },
+    {
+     "type": "mcq",
+     "q": "How long does the soup boil?",
+     "options": [
+      "Five minutes",
+      "Twenty minutes",
+      "One hour"
+     ],
+     "answer": 1,
+     "whyTr": "Metin: 'Boil for twenty minutes.'",
+     "tag": "reading",
+     "level": "A2"
+    },
+    {
+     "type": "mcq",
+     "q": "What does Hafsa say about salt?",
+     "options": [
+      "Add a lot.",
+      "Don't use salt.",
+      "A little is enough."
+     ],
+     "answer": 2,
+     "whyTr": "Hafsa: 'A little is enough.'",
+     "tag": "reading",
+     "level": "A2"
+    }
+   ]
+  }
+ },
+ "evening": {
+  "listening": {
+   "title": "Planning a school party",
+   "script": [
+    {
+     "speaker": "Linda",
+     "text": "What are you making for the school party, Hafsa?"
+    },
+    {
+     "speaker": "Hafsa",
+     "text": "I'm making a chocolate cake. Do you have a recipe?"
+    },
+    {
+     "speaker": "Linda",
+     "text": "Yes, I do. How many eggs do you have?"
+    },
+    {
+     "speaker": "Hafsa",
+     "text": "I have only two eggs. Is that enough?"
+    },
+    {
+     "speaker": "Linda",
+     "text": "No, you need four eggs. Do you have any flour?"
+    },
+    {
+     "speaker": "Hafsa",
+     "text": "Yes, I have a lot of flour, but I don't have much sugar."
+    },
+    {
+     "speaker": "Linda",
+     "text": "You need a cup of sugar and a little butter."
+    },
+    {
+     "speaker": "Hafsa",
+     "text": "I have some butter. I'll go to the store now."
+    },
+    {
+     "speaker": "Linda",
+     "text": "I'm going to the store, too. I'll buy the eggs and the sugar for you."
+    },
+    {
+     "speaker": "Hafsa",
+     "text": "Oh, thank you! I'll pay you back tonight."
+    },
+    {
+     "speaker": "Linda",
+     "text": "No problem. How many people are coming to the party?"
+    },
+    {
+     "speaker": "Hafsa",
+     "text": "About twenty. So I'm going to make two cakes!"
+    }
+   ],
+   "questions": [
+    {
+     "type": "mcq",
+     "q": "How many eggs does Hafsa need?",
+     "options": [
+      "Four",
+      "Two",
+      "Twenty"
+     ],
+     "answer": 0,
+     "whyTr": "Linda: 'you need four eggs'.",
+     "tag": "listening",
+     "level": "A2"
+    },
+    {
+     "type": "mcq",
+     "q": "What doesn't Hafsa have much of?",
+     "options": [
+      "Flour",
+      "Butter",
+      "Sugar"
+     ],
+     "answer": 2,
+     "whyTr": "Hafsa: 'I don't have much sugar.'",
+     "tag": "listening",
+     "level": "A2"
+    },
+    {
+     "type": "mcq",
+     "q": "Who will buy the eggs and the sugar?",
+     "options": [
+      "Linda",
+      "Hafsa",
+      "Emre"
+     ],
+     "answer": 0,
+     "whyTr": "Linda: 'I'll buy the eggs and the sugar for you.'",
+     "tag": "listening",
+     "level": "A2"
+    },
+    {
+     "type": "mcq",
+     "q": "How many cakes is Hafsa going to make?",
+     "options": [
+      "One",
+      "Two",
+      "Twenty"
+     ],
+     "answer": 1,
+     "whyTr": "Hafsa: 'I'm going to make two cakes!'",
+     "tag": "listening",
+     "level": "A2"
+    }
+   ]
+  },
+  "writing": {
+   "promptTr": "Basit bir yemeğin tarifini 4-6 cümleyle yaz.",
+   "promptEn": "Write a simple recipe in 4-6 sentences.",
+   "frames": [
+    "To make ..., you need ...",
+    "First, ...",
+    "Then, add ...",
+    "Add a little ... / some ..."
+   ],
+   "model": "To make pancakes, you need two eggs, a cup of flour, some milk and a little salt. First, mix the eggs and the milk. Then add the flour and the salt. Cook the pancakes in a pan with a little butter. They are easy and delicious!",
+   "checklistTr": [
+    "Sayılabilir isimlerde many / a few, sayılamayanlarda much / a little kullandın mı?",
+    "'Some' ve 'a lot of' kullandın mı?",
+    "Cümleler büyük harfle başlıyor ve noktayla bitiyor mu?"
+   ],
+   "minWords": 35
+  },
+  "examSet": [
+   {
+    "type": "mcq",
+    "q": "Is there ___ milk in the fridge?",
+    "options": [
+     "a",
+     "an",
+     "any",
+     "many"
+    ],
+    "answer": 2,
+    "whyTr": "Soruda 'any' kullanılır.",
+    "tag": "countable",
+    "level": "A2"
+   },
+   {
+    "type": "mcq",
+    "q": "How ___ sugar do you want in your tea?",
+    "options": [
+     "many",
+     "a few",
+     "an",
+     "much"
+    ],
+    "answer": 3,
+    "whyTr": "Sugar sayılamaz: How much.",
+    "tag": "countable",
+    "level": "A2"
+   },
+   {
+    "type": "mcq",
+    "q": "I have ___ friends in this city, so I'm not alone.",
+    "options": [
+     "a little",
+     "a few",
+     "much",
+     "a"
+    ],
+    "answer": 1,
+    "whyTr": "Friends sayılabilir: a few.",
+    "tag": "countable",
+    "level": "A2"
+   },
+   {
+    "type": "mcq",
+    "q": "We don't have ___ chairs for the party.",
+    "options": [
+     "much",
+     "a little",
+     "many",
+     "an"
+    ],
+    "answer": 2,
+    "whyTr": "Chairs sayılabilir; olumsuzda 'many'.",
+    "tag": "countable",
+    "level": "A2"
+   },
+   {
+    "type": "mcq",
+    "q": "I need ___ onion for the soup.",
+    "options": [
+     "a",
+     "some",
+     "the",
+     "an"
+    ],
+    "answer": 3,
+    "whyTr": "Onion sesli harfle başlar: 'an'.",
+    "tag": "articles",
+    "level": "A2"
+   },
+   {
+    "type": "mcq",
+    "q": "Hafsa speaks ___ English every day at the library.",
+    "options": [
+     "no article",
+     "the",
+     "an"
+    ],
+    "answer": 0,
+    "whyTr": "Dil adlarıyla artikel kullanılmaz.",
+    "tag": "articles",
+    "level": "A2"
+   },
+   {
+    "type": "mcq",
+    "q": "I ___ make a salad tonight. I have all the ingredients.",
+    "options": [
+     "will to",
+     "going",
+     "am going to"
+    ],
+    "answer": 2,
+    "whyTr": "Önceden planlı: am going to.",
+    "tag": "future",
+    "level": "A2"
+   },
+   {
+    "type": "mcq",
+    "q": "Last night, Hafsa ___ a big pot of soup.",
+    "options": [
+     "maked",
+     "makes",
+     "make",
+     "made"
+    ],
+    "answer": 3,
+    "whyTr": "Make düzensiz fiildir: made.",
+    "tag": "past-simple",
+    "level": "A2"
+   },
+   {
+    "type": "mcq",
+    "q": "Please ___ the onion into small pieces.",
+    "options": [
+     "boil",
+     "slice",
+     "add"
+    ],
+    "answer": 1,
+    "whyTr": "Dilimlemek = slice.",
+    "tag": "vocab",
+    "level": "A2"
+   },
+   {
+    "type": "mcq",
+    "q": "Put the water in a pot and ___ it for ten minutes.",
+    "options": [
+     "boil",
+     "mix",
+     "order"
+    ],
+    "answer": 0,
+    "whyTr": "Suyu kaynatmak = boil.",
+    "tag": "vocab",
+    "level": "A2"
+   },
+   {
+    "type": "mcq",
+    "q": "What is the opposite of \"add\"?",
+    "options": [
+     "mix",
+     "remove",
+     "slice"
+    ],
+    "answer": 1,
+    "whyTr": "Add'in zıttı remove.",
+    "tag": "antonym",
+    "level": "A2"
+   },
+   {
+    "type": "mcq",
+    "q": "Anna makes a salad. She needs two tomatoes, one onion and a little salt. She slices the onion first.\n\nWhat does Anna do first?",
+    "options": [
+     "She adds the salt.",
+     "She boils the water.",
+     "She slices the onion."
+    ],
+    "answer": 2,
+    "whyTr": "Metin: 'She slices the onion first.'",
+    "tag": "reading",
+    "level": "A2"
+   }
+  ]
+ }
+}

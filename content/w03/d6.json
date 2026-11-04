@@ -1,0 +1,759 @@
+{
+ "week": 3,
+ "day": 6,
+ "titleTr": "Arkadaşına e-posta: zamanların tekrarı",
+ "theme": "email",
+ "morning": {
+  "grammar": {
+   "topic": "Dört temel zamanın tekrarı: Present Simple, Present Continuous, Past Simple, was / were",
+   "explainTr": [
+    "Present Simple alışkanlık ve gerçekleri anlatır: I drink tea every morning. Present Continuous şu an olanı anlatır: I am drinking tea now. Past Simple bitmiş geçmişi anlatır: I drank tea yesterday. Was / were ise geçmişte olmak: I was tired.",
+    "Zaman ifadeleri yol gösterir: every day, usually, on Saturdays (Present Simple); now, right now, at the moment (Present Continuous); yesterday, last week, two days ago (Past Simple ve was/were).",
+    "Her cümlede iki kontrol yap: 1) Ne zaman? 2) Fiil doğru formda mı? Present Simple: he/she/it için -s. Present Continuous: am/is/are + fiil-ing. Past Simple: -ed veya düzensiz fiil; olumsuz ve soruda 'did' + yalın fiil."
+   ],
+   "compareTr": "Türkçede 'içiyorum' hem 'şu an içiyorum' hem 'her gün içiyorum' anlamında olabilir. İngilizcede ikisi ayrıdır: I drink (her gün), I am drinking (şu an). Geçmişte de 'içtim' tek ek ama İngilizcede drank veya did you drink?",
+   "table": [
+    [
+     "Present Simple",
+     "fiil / fiil + s",
+     "She writes emails every day."
+    ],
+    [
+     "Present Continuous",
+     "am / is / are + fiil-ing",
+     "She is writing an email now."
+    ],
+    [
+     "Past Simple",
+     "fiil-ed / düzensiz",
+     "She wrote an email yesterday."
+    ],
+    [
+     "Past: olumsuz / soru",
+     "didn't / Did + yalın fiil",
+     "She didn't write. Did she write?"
+    ],
+    [
+     "was / were",
+     "geçmişte olmak",
+     "I was at home. They were tired."
+    ]
+   ],
+   "examples": [
+    {
+     "en": "Hafsa usually drinks tea in the morning.",
+     "tr": "Hafsa genellikle sabahları çay içer."
+    },
+    {
+     "en": "She is writing an email now.",
+     "tr": "Şu an bir e-posta yazıyor."
+    },
+    {
+     "en": "She wrote to her friend yesterday.",
+     "tr": "Dün arkadaşına yazdı."
+    },
+    {
+     "en": "She didn't write last week.",
+     "tr": "Geçen hafta yazmadı."
+    },
+    {
+     "en": "I was tired last night.",
+     "tr": "Dün gece yorgundum."
+    }
+   ],
+   "exercises": [
+    {
+     "type": "mcq",
+     "q": "Hafsa usually ___ tea in the morning.",
+     "options": [
+      "drinks",
+      "is drinking",
+      "drank"
+     ],
+     "answer": 0,
+     "whyTr": "Usually alışkanlık anlatır; present simple, she ile -s.",
+     "tag": "present-simple",
+     "level": "A2"
+    },
+    {
+     "type": "mcq",
+     "q": "Right now she ___ an email.",
+     "options": [
+      "writes",
+      "is writing",
+      "wrote"
+     ],
+     "answer": 1,
+     "whyTr": "Right now şu anı anlatır; present continuous.",
+     "tag": "present-continuous",
+     "level": "A2"
+    },
+    {
+     "type": "mcq",
+     "q": "Yesterday I ___ to the bank.",
+     "options": [
+      "go",
+      "am going",
+      "went"
+     ],
+     "answer": 2,
+     "whyTr": "Yesterday geçmiş zaman; go - went.",
+     "tag": "past-simple",
+     "level": "A2"
+    },
+    {
+     "type": "mcq",
+     "q": "I ___ tired last night.",
+     "options": [
+      "was",
+      "am",
+      "were"
+     ],
+     "answer": 0,
+     "whyTr": "Last night geçmiş; I ile 'was'.",
+     "tag": "to-be",
+     "level": "A2"
+    },
+    {
+     "type": "order",
+     "promptTr": "Cümleyi sırala:",
+     "words": [
+      "I",
+      "am",
+      "writing",
+      "to",
+      "you",
+      "now"
+     ],
+     "answer": "I am writing to you now",
+     "whyTr": "Present continuous: özne + am + fiil-ing.",
+     "tag": "word-order",
+     "level": "A2"
+    },
+    {
+     "type": "order",
+     "promptTr": "Cümleyi sırala:",
+     "words": [
+      "She",
+      "didn't",
+      "answer",
+      "my",
+      "message"
+     ],
+     "answer": "She didn't answer my message",
+     "whyTr": "Geçmişte olumsuz: didn't + yalın fiil.",
+     "tag": "word-order",
+     "level": "A2"
+    },
+    {
+     "type": "mcq",
+     "q": "Look! It ___ outside.",
+     "options": [
+      "snows",
+      "is snowing",
+      "snowed"
+     ],
+     "answer": 1,
+     "whyTr": "'Look!' şu an olanı anlatır; present continuous.",
+     "tag": "present-continuous",
+     "level": "A2"
+    },
+    {
+     "type": "mcq",
+     "q": "Emre ___ soccer on Saturdays.",
+     "options": [
+      "is playing",
+      "played",
+      "plays"
+     ],
+     "answer": 2,
+     "whyTr": "On Saturdays alışkanlık; present simple, -s gerekir.",
+     "tag": "present-simple",
+     "level": "A2"
+    },
+    {
+     "type": "mcq",
+     "q": "Which sentence is correct?",
+     "options": [
+      "I'm not working today.",
+      "I don't working today.",
+      "I not working today."
+     ],
+     "answer": 0,
+     "whyTr": "Present continuous olumsuz: am not + fiil-ing.",
+     "tag": "present-continuous",
+     "level": "A2"
+    },
+    {
+     "type": "mcq",
+     "q": "___ you write to your friend last week?",
+     "options": [
+      "Do",
+      "Did",
+      "Are"
+     ],
+     "answer": 1,
+     "whyTr": "Last week geçmiş; soru 'Did' ile başlar.",
+     "tag": "question-form",
+     "level": "A2"
+    },
+    {
+     "type": "fill",
+     "q": "Linda ___ to the park every morning.",
+     "accept": [
+      "walks"
+     ],
+     "hintTr": "walk, alışkanlık",
+     "whyTr": "Every morning alışkanlık: present simple, -s gerekir.",
+     "tag": "present-simple",
+     "level": "A2"
+    },
+    {
+     "type": "fill",
+     "q": "Hafsa isn't cooking now. She ___ writing an email.",
+     "accept": [
+      "is",
+      "'s"
+     ],
+     "hintTr": "şu an, she ile",
+     "whyTr": "Şu an olan eylem: is + fiil-ing.",
+     "tag": "present-continuous",
+     "level": "A2"
+    }
+   ]
+  },
+  "vocab": [
+   {
+    "id": "news",
+    "en": "news",
+    "tr": "haber",
+    "pos": "noun",
+    "example": "I have good news for you.",
+    "exampleTr": "Sana iyi bir haberim var.",
+    "syn": [],
+    "ant": [],
+    "level": "A2"
+   },
+   {
+    "id": "reply",
+    "en": "reply",
+    "tr": "cevap vermek",
+    "pos": "verb",
+    "example": "Please reply to my email soon.",
+    "exampleTr": "Lütfen e-postama yakında cevap ver.",
+    "syn": [
+     "answer"
+    ],
+    "ant": [],
+    "level": "A2"
+   },
+   {
+    "id": "regards",
+    "en": "regards",
+    "tr": "saygılar, selamlar",
+    "pos": "noun",
+    "example": "Best regards, Hafsa.",
+    "exampleTr": "Saygılarımla, Hafsa.",
+    "syn": [],
+    "ant": [],
+    "level": "A2"
+   },
+   {
+    "id": "subject",
+    "en": "subject",
+    "tr": "konu (e-postada)",
+    "pos": "noun",
+    "example": "The subject of the email is \"School visit\".",
+    "exampleTr": "E-postanın konusu \"Okul ziyareti\".",
+    "syn": [],
+    "ant": [],
+    "level": "A2"
+   },
+   {
+    "id": "attach",
+    "en": "attach",
+    "tr": "eklemek (dosya)",
+    "pos": "verb",
+    "example": "I attached a photo to the email.",
+    "exampleTr": "E-postaya bir fotoğraf ekledim.",
+    "syn": [],
+    "ant": [],
+    "level": "A2"
+   },
+   {
+    "id": "update",
+    "en": "update",
+    "tr": "güncelleme; güncellemek",
+    "pos": "noun",
+    "example": "Please send me an update.",
+    "exampleTr": "Lütfen bana bir güncelleme gönder.",
+    "syn": [],
+    "ant": [],
+    "level": "A2"
+   },
+   {
+    "id": "hope",
+    "en": "hope",
+    "tr": "ummak",
+    "pos": "verb",
+    "example": "I hope you are well.",
+    "exampleTr": "Umarım iyisindir.",
+    "syn": [],
+    "ant": [],
+    "level": "A2"
+   },
+   {
+    "id": "spend",
+    "en": "spend",
+    "tr": "harcamak; geçirmek",
+    "pos": "verb",
+    "example": "We spent the weekend at home.",
+    "exampleTr": "Hafta sonunu evde geçirdik.",
+    "syn": [],
+    "ant": [],
+    "level": "A2"
+   },
+   {
+    "id": "plan",
+    "en": "plan",
+    "tr": "plan; planlamak",
+    "pos": "noun",
+    "example": "Do you have a plan for tomorrow?",
+    "exampleTr": "Yarın için bir planın var mı?",
+    "syn": [],
+    "ant": [],
+    "level": "A2"
+   },
+   {
+    "id": "soon",
+    "en": "soon",
+    "tr": "yakında",
+    "pos": "adverb",
+    "example": "Please write back soon.",
+    "exampleTr": "Lütfen yakında geri yaz.",
+    "syn": [],
+    "ant": [],
+    "level": "A2"
+   },
+   {
+    "id": "favorite",
+    "en": "favorite",
+    "tr": "en sevilen",
+    "pos": "adjective",
+    "example": "Tea is my favorite drink.",
+    "exampleTr": "Çay en sevdiğim içecek.",
+    "syn": [],
+    "ant": [],
+    "level": "A2"
+   },
+   {
+    "id": "weather",
+    "en": "weather",
+    "tr": "hava durumu",
+    "pos": "noun",
+    "example": "The weather is cold today.",
+    "exampleTr": "Bugün hava soğuk.",
+    "syn": [],
+    "ant": [],
+    "level": "A2"
+   },
+   {
+    "id": "snow",
+    "en": "snow",
+    "tr": "kar; kar yağmak",
+    "pos": "noun",
+    "example": "There is a lot of snow today.",
+    "exampleTr": "Bugün çok kar var.",
+    "syn": [],
+    "ant": [],
+    "level": "A2"
+   },
+   {
+    "id": "decide",
+    "en": "decide",
+    "tr": "karar vermek",
+    "pos": "verb",
+    "example": "We decided to stay home.",
+    "exampleTr": "Evde kalmaya karar verdik.",
+    "syn": [
+     "choose"
+    ],
+    "ant": [],
+    "level": "A2"
+   },
+   {
+    "id": "remind",
+    "en": "remind",
+    "tr": "hatırlatmak",
+    "pos": "verb",
+    "example": "Please remind me about the form.",
+    "exampleTr": "Lütfen bana formu hatırlat.",
+    "syn": [],
+    "ant": [],
+    "level": "A2"
+   }
+  ],
+  "reading": {
+   "title": "Hafsa's email to a friend",
+   "text": "Subject: News from America\n\nDear Zeynep,\n\nHow are you? I hope you are well. I am writing from my kitchen. It is snowing outside, and I am drinking hot tea.\n\nFirst, my news. Last month I visited a school and met the secretary, Mr. Brown. He is very kind. Now I am preparing to work as a substitute teacher. I study English every day, and I read short stories before bed.\n\nEmre is fine. He plays soccer on Saturdays, and yesterday he made a new friend at school. I don't have much free time, but I am happy. I miss the roses of Isparta, and I often think about our garden.\n\nPlease reply soon and send me a photo.\n\nBest regards,\nHafsa",
+   "glossary": [
+    {
+     "en": "preparing",
+     "tr": "hazırlanıyor"
+    },
+    {
+     "en": "free time",
+     "tr": "boş zaman"
+    },
+    {
+     "en": "often",
+     "tr": "sık sık"
+    },
+    {
+     "en": "short story",
+     "tr": "kısa hikaye"
+    }
+   ],
+   "questions": [
+    {
+     "type": "mcq",
+     "q": "What is the weather like?",
+     "options": [
+      "It is sunny.",
+      "It is raining.",
+      "It is snowing."
+     ],
+     "answer": 2,
+     "whyTr": "Metin: 'It is snowing outside'.",
+     "tag": "reading",
+     "level": "A2"
+    },
+    {
+     "type": "mcq",
+     "q": "What is Hafsa doing now?",
+     "options": [
+      "She is writing an email and drinking tea.",
+      "She is visiting a school.",
+      "She is playing soccer."
+     ],
+     "answer": 0,
+     "whyTr": "Metin: 'I am writing... I am drinking hot tea.'",
+     "tag": "reading",
+     "level": "A2"
+    },
+    {
+     "type": "mcq",
+     "q": "What is Hafsa preparing for?",
+     "options": [
+      "A trip to Isparta",
+      "Work as a substitute teacher",
+      "A soccer game"
+     ],
+     "answer": 1,
+     "whyTr": "Metin: 'I am preparing to work as a substitute teacher'.",
+     "tag": "reading",
+     "level": "A2"
+    },
+    {
+     "type": "mcq",
+     "q": "What does Emre do on Saturdays?",
+     "options": [
+      "He studies English.",
+      "He visits Mr. Brown.",
+      "He plays soccer."
+     ],
+     "answer": 2,
+     "whyTr": "Metin: 'He plays soccer on Saturdays'.",
+     "tag": "reading",
+     "level": "A2"
+    }
+   ]
+  }
+ },
+ "evening": {
+  "listening": {
+   "title": "Emre helps with the email",
+   "script": [
+    {
+     "speaker": "Hafsa",
+     "text": "Emre, I'm writing an email to my friend in Isparta. Can you help me?"
+    },
+    {
+     "speaker": "Emre",
+     "text": "Sure, Mom. What do you want to do?"
+    },
+    {
+     "speaker": "Hafsa",
+     "text": "I want to attach a photo. I took it yesterday in the park."
+    },
+    {
+     "speaker": "Emre",
+     "text": "Okay. Click this button. Now choose the photo."
+    },
+    {
+     "speaker": "Hafsa",
+     "text": "Oh, I see it. It's the picture with the snow."
+    },
+    {
+     "speaker": "Emre",
+     "text": "Yes. What is the subject of the email?"
+    },
+    {
+     "speaker": "Hafsa",
+     "text": "News from America."
+    },
+    {
+     "speaker": "Emre",
+     "text": "Good. Is the email finished?"
+    },
+    {
+     "speaker": "Hafsa",
+     "text": "Not yet. I'm writing about my school visit. I also wrote that you play soccer every Saturday."
+    },
+    {
+     "speaker": "Emre",
+     "text": "Mom! Please don't tell everything."
+    },
+    {
+     "speaker": "Hafsa",
+     "text": "I'm only telling the good news. Now press send."
+    },
+    {
+     "speaker": "Emre",
+     "text": "Done. Your friend is going to be happy."
+    }
+   ],
+   "questions": [
+    {
+     "type": "mcq",
+     "q": "What does Hafsa want to attach?",
+     "options": [
+      "A photo",
+      "A map",
+      "A receipt"
+     ],
+     "answer": 0,
+     "whyTr": "Hafsa: 'I want to attach a photo'.",
+     "tag": "listening",
+     "level": "A2"
+    },
+    {
+     "type": "mcq",
+     "q": "When did Hafsa take the photo?",
+     "options": [
+      "Last year",
+      "Yesterday",
+      "This morning"
+     ],
+     "answer": 1,
+     "whyTr": "Hafsa: 'I took it yesterday in the park'.",
+     "tag": "listening",
+     "level": "A2"
+    },
+    {
+     "type": "mcq",
+     "q": "What is the subject of the email?",
+     "options": [
+      "School visit",
+      "Good morning",
+      "News from America"
+     ],
+     "answer": 2,
+     "whyTr": "Hafsa: 'News from America'.",
+     "tag": "listening",
+     "level": "A2"
+    },
+    {
+     "type": "mcq",
+     "q": "What does Emre do every Saturday?",
+     "options": [
+      "He plays soccer.",
+      "He goes to school.",
+      "He writes emails."
+     ],
+     "answer": 0,
+     "whyTr": "Hafsa: 'you play soccer every Saturday'.",
+     "tag": "listening",
+     "level": "A2"
+    }
+   ]
+  },
+  "writing": {
+   "promptTr": "Bir arkadaşına kısa e-posta yaz (40-60 kelime). Şu an ne yaptığını, dün ne yaptığını ve her gün ne yaptığını yaz.",
+   "promptEn": "Write a short email to a friend. Use the present and the past.",
+   "frames": [
+    "Dear ...,",
+    "How are you? I hope ...",
+    "Now I am ...",
+    "Yesterday I ...",
+    "Every day I ...",
+    "Best regards,"
+   ],
+   "model": "Dear Linda, How are you? I hope you are well. Yesterday I visited a school. It was great! Now I am studying English at home. The weather is cold, and I am drinking tea. Emre plays soccer every Saturday. I miss you. Please reply soon. Best regards, Hafsa",
+   "checklistTr": [
+    "Şu an için am/is/are + fiil-ing, alışkanlık için yalın fiil (+s), dün için geçmiş fiil var mı?",
+    "Başta 'Dear ...' ve sonda 'Best regards' yazdın mı?",
+    "Cümleler büyük harfle başlıyor ve noktayla bitiyor mu?"
+   ],
+   "minWords": 40
+  },
+  "examSet": [
+   {
+    "type": "mcq",
+    "q": "Linda ___ the news every morning.",
+    "options": [
+     "is reading",
+     "reads",
+     "read"
+    ],
+    "answer": 1,
+    "whyTr": "Every morning alışkanlık; present simple.",
+    "tag": "present-simple",
+    "level": "A2"
+   },
+   {
+    "type": "mcq",
+    "q": "Please be quiet. Emre ___ on the phone.",
+    "options": [
+     "talks",
+     "talked",
+     "is talking"
+    ],
+    "answer": 2,
+    "whyTr": "Şu an olan eylem: present continuous.",
+    "tag": "present-continuous",
+    "level": "A2"
+   },
+   {
+    "type": "mcq",
+    "q": "Last Friday we ___ a movie.",
+    "options": [
+     "watched",
+     "watch",
+     "are watching"
+    ],
+    "answer": 0,
+    "whyTr": "Last Friday geçmiş; fiile -ed gelir.",
+    "tag": "past-simple",
+    "level": "A2"
+   },
+   {
+    "type": "mcq",
+    "q": "We ___ very happy last weekend.",
+    "options": [
+     "are",
+     "were",
+     "did"
+    ],
+    "answer": 1,
+    "whyTr": "Last weekend geçmiş; we ile 'were'.",
+    "tag": "to-be",
+    "level": "A2"
+   },
+   {
+    "type": "mcq",
+    "q": "At the end of an email you write \"Best ___.\"",
+    "options": [
+     "subject",
+     "news",
+     "regards"
+    ],
+    "answer": 2,
+    "whyTr": "E-posta sonunda 'Best regards' yazılır.",
+    "tag": "vocab",
+    "level": "A2"
+   },
+   {
+    "type": "mcq",
+    "q": "The ___ of the email tells you what it is about.",
+    "options": [
+     "subject",
+     "weather",
+     "snow"
+    ],
+    "answer": 0,
+    "whyTr": "E-postanın konusu: subject.",
+    "tag": "vocab",
+    "level": "A2"
+   },
+   {
+    "type": "mcq",
+    "q": "Which word means almost the same as \"reply\"?",
+    "options": [
+     "attach",
+     "answer",
+     "spend"
+    ],
+    "answer": 1,
+    "whyTr": "Reply ve answer benzer anlamlı.",
+    "tag": "synonym",
+    "level": "A2"
+   },
+   {
+    "type": "mcq",
+    "q": "What is the opposite of \"remember\"?",
+    "options": [
+     "decide",
+     "reply",
+     "forget"
+    ],
+    "answer": 2,
+    "whyTr": "Remember'ın zıttı forget.",
+    "tag": "antonym",
+    "level": "A2"
+   },
+   {
+    "type": "mcq",
+    "q": "Emre ___ me a photo yesterday.",
+    "options": [
+     "gave",
+     "gived",
+     "gives"
+    ],
+    "answer": 0,
+    "whyTr": "Yesterday geçmiş; give - gave.",
+    "tag": "past-simple",
+    "level": "A2"
+   },
+   {
+    "type": "mcq",
+    "q": "I ___ see the message. My phone was off.",
+    "options": [
+     "don't",
+     "didn't",
+     "wasn't"
+    ],
+    "answer": 1,
+    "whyTr": "Geçmişte olumsuz: didn't + yalın fiil.",
+    "tag": "negative-form",
+    "level": "A2"
+   },
+   {
+    "type": "mcq",
+    "q": "Hafsa is writing an email now. She attached a photo of the park. In the email she says, \"I am fine. Emre is at school. I miss Isparta.\"\n\nWhat did Hafsa attach?",
+    "options": [
+     "A map of Isparta",
+     "A message from Emre",
+     "A photo of the park"
+    ],
+    "answer": 2,
+    "whyTr": "Metin: 'She attached a photo of the park'.",
+    "tag": "reading",
+    "level": "A2"
+   },
+   {
+    "type": "mcq",
+    "q": "Emre usually does his homework at five. Yesterday he didn't do it because he played soccer. Today he is doing it now, and he is not happy.\n\nWhy didn't Emre do his homework yesterday?",
+    "options": [
+     "He played soccer.",
+     "He was sick.",
+     "He forgot his book."
+    ],
+    "answer": 0,
+    "whyTr": "Metin: 'he didn't do it because he played soccer'.",
+    "tag": "reading",
+    "level": "A2"
+   }
+  ]
+ }
+}

@@ -1,0 +1,929 @@
+{
+ "week": 13,
+ "day": 3,
+ "titleTr": "Pişmanlıklar: wish ve if only",
+ "theme": "regrets",
+ "morning": {
+  "grammar": {
+   "topic": "wish / if only (present and past)",
+   "explainTr": [
+    "Şimdi gerçek olmayan bir şeyi istemek için 'wish + past simple' kullanırız: I wish I had more time. (Aslında yok.) Be fiilinde 'were' kullanılır: I wish I were taller.",
+    "Geçmişteki pişmanlık için 'wish + had + V3': I wish I had called her. 'If only' aynı anlamdadır ama daha güçlüdür: If only I had called!",
+    "Başkasının can sıkıcı davranışının değişmesini istersen 'wish + would': I wish he would stop talking. Kendi davranışın için would kullanılmaz."
+   ],
+   "compareTr": "Türkçede 'keşke' tek kelimedir: Keşke zamanım olsa / Keşke aramış olsaydım. İngilizcede zamana göre yapı değişir: şimdi için wish + past, geçmiş için wish + had + V3.",
+   "table": [
+    [
+     "Şimdi (gerçek değil)",
+     "wish + past simple (were)",
+     "I wish I were more patient."
+    ],
+    [
+     "Geçmiş pişmanlık",
+     "wish + had + V3",
+     "I wish I hadn't shouted."
+    ],
+    [
+     "Sinir bozan davranış",
+     "wish + would",
+     "I wish he would listen."
+    ],
+    [
+     "Güçlü pişmanlık",
+     "If only + past / had + V3",
+     "If only I had apologized."
+    ]
+   ],
+   "examples": [
+    {
+     "en": "I wish I spoke Spanish.",
+     "tr": "Keşke İspanyolca konuşabilsem."
+    },
+    {
+     "en": "I wish I hadn't lost my temper.",
+     "tr": "Keşke sinirlenmeseydim."
+    },
+    {
+     "en": "The teacher wishes the students would listen.",
+     "tr": "Öğretmen öğrencilerin dinlemesini istiyor."
+    }
+   ],
+   "exercises": [
+    {
+     "type": "mcq",
+     "q": "I don't speak Spanish. I wish I ___ Spanish.",
+     "options": [
+      "spoke",
+      "speak",
+      "had spoken",
+      "would speak"
+     ],
+     "answer": 0,
+     "whyTr": "Şimdiki istek: wish + past simple.",
+     "tag": "modals",
+     "level": "B2"
+    },
+    {
+     "type": "mcq",
+     "q": "I forgot the sub plans yesterday. I wish I ___ them.",
+     "options": [
+      "remembered",
+      "had remembered",
+      "would remember",
+      "remember"
+     ],
+     "answer": 1,
+     "whyTr": "Geçmiş pişmanlık: wish + had + V3.",
+     "tag": "modals",
+     "level": "B2"
+    },
+    {
+     "type": "order",
+     "promptTr": "Cümleyi sırala:",
+     "words": [
+      "my",
+      "I",
+      "listened",
+      "had",
+      "son",
+      "wish",
+      "to",
+      "I"
+     ],
+     "answer": "I wish I had listened to my son",
+     "whyTr": "Geçmiş pişmanlık: wish + had + V3.",
+     "tag": "modals",
+     "level": "B2"
+    },
+    {
+     "type": "mcq",
+     "q": "It rains every day this month. I wish it ___ raining.",
+     "options": [
+      "had stopped",
+      "stopping",
+      "stops",
+      "would stop"
+     ],
+     "answer": 3,
+     "whyTr": "Sinir bozucu durum/değişmesini istediğin şey: wish + would.",
+     "tag": "modals",
+     "level": "B2"
+    },
+    {
+     "type": "mcq",
+     "q": "If only I ___ taller! I can't reach the whiteboard.",
+     "options": [
+      "were",
+      "am",
+      "had been",
+      "would be"
+     ],
+     "answer": 0,
+     "whyTr": "Şimdiki istek: if only + past (were).",
+     "tag": "modals",
+     "level": "B2"
+    },
+    {
+     "type": "mcq",
+     "q": "If only we ___ the bus. Now we are late.",
+     "options": [
+      "didn't miss",
+      "hadn't missed",
+      "wouldn't miss",
+      "haven't missed"
+     ],
+     "answer": 1,
+     "whyTr": "Geçmiş pişmanlık: if only + had + V3.",
+     "tag": "modals",
+     "level": "B2"
+    },
+    {
+     "type": "order",
+     "promptTr": "Cümleyi sırala:",
+     "words": [
+      "were",
+      "more",
+      "at",
+      "work",
+      "I",
+      "confident",
+      "I",
+      "wish"
+     ],
+     "answer": "I wish I were more confident at work",
+     "whyTr": "Şimdiki istek: wish + were.",
+     "tag": "modals",
+     "level": "B2"
+    },
+    {
+     "type": "mcq",
+     "q": "He talks during every lesson. The teacher wishes he ___ talking.",
+     "options": [
+      "had stopped",
+      "stopping",
+      "stops",
+      "would stop"
+     ],
+     "answer": 3,
+     "whyTr": "Başkasının davranışı için: wish + would.",
+     "tag": "modals",
+     "level": "B2"
+    },
+    {
+     "type": "mcq",
+     "q": "Which sentence is correct?",
+     "options": [
+      "I wish I had more free time.",
+      "I wish I have more free time.",
+      "I wish I will have more free time.",
+      "I wish I would have more free time."
+     ],
+     "answer": 0,
+     "whyTr": "Şimdiki istek: wish + past simple (had).",
+     "tag": "modals",
+     "level": "B2"
+    },
+    {
+     "type": "mcq",
+     "q": "She wishes she ___ so harsh with the student yesterday.",
+     "options": [
+      "wasn't",
+      "hadn't been",
+      "weren't",
+      "wouldn't be"
+     ],
+     "answer": 1,
+     "whyTr": "Geçmiş pişmanlık için hadn't been.",
+     "tag": "modals",
+     "level": "B2"
+    },
+    {
+     "type": "fill",
+     "q": "I wish I ___ speak English better. (şimdiki istek, could)",
+     "accept": [
+      "could"
+     ],
+     "hintTr": "yapabilmek",
+     "whyTr": "Wish + could ile yetenek isteği: I wish I could.",
+     "tag": "modals",
+     "level": "B2"
+    },
+    {
+     "type": "fill",
+     "q": "If only I ___ known about the test!",
+     "accept": [
+      "had"
+     ],
+     "hintTr": "yardımcı fiil",
+     "whyTr": "Geçmiş pişmanlık: if only + had + V3.",
+     "tag": "modals",
+     "level": "B2"
+    }
+   ]
+  },
+  "vocab": [
+   {
+    "id": "remorse",
+    "en": "remorse",
+    "tr": "vicdan azabı, pişmanlık",
+    "pos": "noun",
+    "example": "He felt deep remorse for his harsh words.",
+    "exampleTr": "Sert sözleri için derin pişmanlık duydu.",
+    "syn": [],
+    "ant": [],
+    "level": "B2"
+   },
+   {
+    "id": "resent",
+    "en": "resent",
+    "tr": "içerlemek, kızgınlık duymak",
+    "pos": "verb",
+    "example": "She resented his rude comment.",
+    "exampleTr": "Onun kaba yorumuna içerledi.",
+    "syn": [],
+    "ant": [],
+    "level": "B2"
+   },
+   {
+    "id": "sympathetic",
+    "en": "sympathetic",
+    "tr": "anlayışlı, empati kuran",
+    "pos": "adjective",
+    "example": "Linda was sympathetic and listened to me.",
+    "exampleTr": "Linda anlayışlıydı ve beni dinledi.",
+    "syn": [
+     "understanding"
+    ],
+    "ant": [
+     "unsympathetic"
+    ],
+    "level": "B2"
+   },
+   {
+    "id": "envy",
+    "en": "envy",
+    "tr": "kıskançlık, imrenme",
+    "pos": "noun",
+    "example": "I felt envy when I saw her new classroom.",
+    "exampleTr": "Yeni sınıfını görünce imrendim.",
+    "syn": [
+     "jealousy"
+    ],
+    "ant": [],
+    "level": "B2"
+   },
+   {
+    "id": "humble",
+    "en": "humble",
+    "tr": "alçakgönüllü",
+    "pos": "adjective",
+    "example": "She is a humble teacher who never brags.",
+    "exampleTr": "O hiç övünmeyen alçakgönüllü bir öğretmen.",
+    "syn": [
+     "modest"
+    ],
+    "ant": [
+     "arrogant"
+    ],
+    "level": "B2"
+   },
+   {
+    "id": "arrogant",
+    "en": "arrogant",
+    "tr": "kibirli",
+    "pos": "adjective",
+    "example": "He was too arrogant to say sorry.",
+    "exampleTr": "Özür dilemek için fazla kibirliydi.",
+    "syn": [
+     "conceited"
+    ],
+    "ant": [
+     "humble"
+    ],
+    "level": "B2"
+   },
+   {
+    "id": "sincere",
+    "en": "sincere",
+    "tr": "samimi, içten",
+    "pos": "adjective",
+    "example": "Please accept my sincere apology.",
+    "exampleTr": "Lütfen içten özrümü kabul et.",
+    "syn": [
+     "honest"
+    ],
+    "ant": [
+     "insincere"
+    ],
+    "level": "B2"
+   },
+   {
+    "id": "reluctant",
+    "en": "reluctant",
+    "tr": "isteksiz",
+    "pos": "adjective",
+    "example": "He was reluctant to speak in front of the class.",
+    "exampleTr": "Sınıfın önünde konuşmaya isteksizdi.",
+    "syn": [
+     "unwilling"
+    ],
+    "ant": [
+     "willing"
+    ],
+    "level": "B2"
+   },
+   {
+    "id": "bitter",
+    "en": "bitter",
+    "tr": "kırgın, acı",
+    "pos": "adjective",
+    "example": "She felt bitter about the unfair decision.",
+    "exampleTr": "Haksız karar yüzünden kırgındı.",
+    "syn": [],
+    "ant": [],
+    "level": "B2"
+   },
+   {
+    "id": "gloomy",
+    "en": "gloomy",
+    "tr": "kasvetli, karamsar",
+    "pos": "adjective",
+    "example": "It was a gloomy, rainy afternoon.",
+    "exampleTr": "Kasvetli, yağmurlu bir öğleden sonraydı.",
+    "syn": [],
+    "ant": [
+     "cheerful"
+    ],
+    "level": "B2"
+   },
+   {
+    "id": "hopeless",
+    "en": "hopeless",
+    "tr": "umutsuz",
+    "pos": "adjective",
+    "example": "Don't feel hopeless; you can still improve.",
+    "exampleTr": "Umutsuz hissetme; hâlâ gelişebilirsin.",
+    "syn": [],
+    "ant": [
+     "hopeful"
+    ],
+    "level": "B2"
+   },
+   {
+    "id": "content",
+    "en": "content",
+    "tr": "memnun, hoşnut",
+    "pos": "adjective",
+    "example": "The students were content with their results.",
+    "exampleTr": "Öğrenciler sonuçlarından memnundu.",
+    "syn": [
+     "satisfied"
+    ],
+    "ant": [],
+    "level": "B2"
+   },
+   {
+    "id": "thoughtful",
+    "en": "thoughtful",
+    "tr": "düşünceli",
+    "pos": "adjective",
+    "example": "It was thoughtful of you to call.",
+    "exampleTr": "Aramış olman çok düşünceliydi.",
+    "syn": [
+     "considerate"
+    ],
+    "ant": [
+     "thoughtless"
+    ],
+    "level": "B2"
+   },
+   {
+    "id": "tactful",
+    "en": "tactful",
+    "tr": "nazik, ince düşünceli",
+    "pos": "adjective",
+    "example": "A tactful teacher chooses words carefully.",
+    "exampleTr": "İnce düşünceli bir öğretmen kelimelerini dikkatle seçer.",
+    "syn": [
+     "diplomatic"
+    ],
+    "ant": [
+     "tactless"
+    ],
+    "level": "B2"
+   },
+   {
+    "id": "considerate",
+    "en": "considerate",
+    "tr": "saygılı, başkalarını düşünen",
+    "pos": "adjective",
+    "example": "He is always considerate of his neighbors.",
+    "exampleTr": "Komşularına karşı hep saygılıdır.",
+    "syn": [
+     "thoughtful"
+    ],
+    "ant": [
+     "inconsiderate"
+    ],
+    "level": "B2"
+   }
+  ],
+  "reading": {
+   "title": "A day Hafsa wished were different",
+   "text": "On Wednesday afternoon, Hafsa came home from Lincoln Elementary and dropped her bag on the sofa. She was tired, and she felt something heavier than tiredness. She felt regret.\n\nThat morning, she had been a substitute in a third-grade class. The students were loud, and one boy, Jacob, kept talking during the reading lesson. Hafsa asked him politely to stop three times. He did not stop. Finally, she lost her patience and said, \"Jacob, be quiet right now!\" in a sharp voice. The room became silent. Jacob looked at the floor, and a few children looked frightened.\n\n\"I wish I had stayed calm,\" she told Linda over the fence. \"I wish I hadn't shouted. I'm not that kind of teacher.\"\n\nLinda listened and nodded. \"Everyone has bad days. If only we could take back some words, right? But you can still fix it.\"\n\n\"How?\"\n\n\"Apologize. Children are more forgiving than we think.\"\n\nHafsa thought about it. She wished she were more experienced. She wished the children would listen the first time. And she wished she had prepared a quiet activity for the end of the lesson. Then she realized that wishing was not enough. She opened her notebook and wrote three lines: \"1. Apologize to Jacob. 2. Make a plan for noisy moments. 3. Ask Ms. Carter for advice.\"\n\nThe next morning, she arrived early. Jacob was already at his desk. \"Jacob,\" she said quietly, \"I'm sorry I shouted yesterday. I was impatient, and that was not fair.\" Jacob was surprised. \"It's okay,\" he whispered. \"I wish I hadn't talked so much.\"\n\nLater, Ms. Carter heard the story and smiled. \"Every new teacher has a day like that,\" she said. \"The important thing is that you apologized. I'm grateful to have you here.\"\n\nThat evening, Hafsa wrote in her journal: \"I wish yesterday had been different, but I am glad I learned something from it.\" She closed the notebook and finally felt lighter.",
+   "glossary": [
+    {
+     "en": "lose your patience",
+     "tr": "sabrını kaybetmek"
+    },
+    {
+     "en": "sharp voice",
+     "tr": "sert ses"
+    },
+    {
+     "en": "take back",
+     "tr": "geri almak"
+    },
+    {
+     "en": "journal",
+     "tr": "günlük"
+    },
+    {
+     "en": "frightened",
+     "tr": "korkmuş"
+    }
+   ],
+   "questions": [
+    {
+     "type": "mcq",
+     "q": "Why did Hafsa feel regret on Wednesday?",
+     "options": [
+      "She lost her bag.",
+      "She missed the bus.",
+      "She shouted at a student.",
+      "She forgot a lesson plan."
+     ],
+     "answer": 2,
+     "whyTr": "Metin: she lost her patience and shouted at Jacob.",
+     "tag": "reading",
+     "level": "B2"
+    },
+    {
+     "type": "mcq",
+     "q": "What advice did Linda give?",
+     "options": [
+      "Quit the job.",
+      "Ignore the problem.",
+      "Shout again.",
+      "Apologize to Jacob."
+     ],
+     "answer": 3,
+     "whyTr": "Linda: Apologize.",
+     "tag": "reading",
+     "level": "B2"
+    },
+    {
+     "type": "mcq",
+     "q": "What was NOT on Hafsa's list?",
+     "options": [
+      "Call Jacob's parents",
+      "Apologize to Jacob",
+      "Make a plan for noisy moments",
+      "Ask Ms. Carter for advice"
+     ],
+     "answer": 0,
+     "whyTr": "Listede ebeveyn arama yoktu.",
+     "tag": "reading",
+     "level": "B2"
+    },
+    {
+     "type": "mcq",
+     "q": "How did Jacob react the next morning?",
+     "options": [
+      "He was angry.",
+      "He accepted the apology and said he talked too much.",
+      "He stayed home.",
+      "He did not answer."
+     ],
+     "answer": 1,
+     "whyTr": "Jacob: It's okay. I wish I hadn't talked so much.",
+     "tag": "reading",
+     "level": "B2"
+    }
+   ]
+  }
+ },
+ "evening": {
+  "listening": {
+   "title": "A rough day",
+   "script": [
+    {
+     "speaker": "Linda",
+     "text": "You look sad today, Hafsa. What happened?"
+    },
+    {
+     "speaker": "Hafsa",
+     "text": "I had a rough day at school. I wish I hadn't lost my temper with a student."
+    },
+    {
+     "speaker": "Linda",
+     "text": "Oh no. What did you say?"
+    },
+    {
+     "speaker": "Hafsa",
+     "text": "I shouted at him because he wouldn't stop talking. Now I feel guilty."
+    },
+    {
+     "speaker": "Linda",
+     "text": "I understand. I wish I could say it never happens, but even good teachers get frustrated."
+    },
+    {
+     "speaker": "Hafsa",
+     "text": "I wish I were more patient. My son Emre says I am stubborn when I'm tired."
+    },
+    {
+     "speaker": "Linda",
+     "text": "Ha! Maybe you both are. But you care, and that matters."
+    },
+    {
+     "speaker": "Hafsa",
+     "text": "If only I had counted to ten first. I always tell Emre to do that."
+    },
+    {
+     "speaker": "Linda",
+     "text": "Then tomorrow you can do it yourself. Will you apologize to the boy?"
+    },
+    {
+     "speaker": "Hafsa",
+     "text": "Yes. I'll talk to him before class. I don't want him to feel ashamed or afraid."
+    },
+    {
+     "speaker": "Linda",
+     "text": "That's a kind plan. I'm sure he will forgive you."
+    },
+    {
+     "speaker": "Hafsa",
+     "text": "Thank you, Linda. I'm so grateful that you are my neighbor."
+    }
+   ],
+   "questions": [
+    {
+     "type": "mcq",
+     "q": "What does Hafsa regret?",
+     "options": [
+      "Forgetting a meeting",
+      "Arriving late",
+      "Losing her temper with a student",
+      "Changing jobs"
+     ],
+     "answer": 2,
+     "whyTr": "Hafsa: I wish I hadn't lost my temper.",
+     "tag": "listening",
+     "level": "B2"
+    },
+    {
+     "type": "mcq",
+     "q": "What does Hafsa say about Emre?",
+     "options": [
+      "He is a teacher.",
+      "He shouted at her.",
+      "He is jealous of Linda.",
+      "He says she is stubborn when she is tired."
+     ],
+     "answer": 3,
+     "whyTr": "Hafsa: Emre says I am stubborn when I'm tired.",
+     "tag": "listening",
+     "level": "B2"
+    },
+    {
+     "type": "mcq",
+     "q": "What does Hafsa wish she had done?",
+     "options": [
+      "Counted to ten first",
+      "Called the principal",
+      "Stayed home",
+      "Brought a snack"
+     ],
+     "answer": 0,
+     "whyTr": "Hafsa: If only I had counted to ten first.",
+     "tag": "listening",
+     "level": "B2"
+    },
+    {
+     "type": "mcq",
+     "q": "What will Hafsa do tomorrow?",
+     "options": [
+      "Quit teaching",
+      "Apologize to the boy before class",
+      "Move to another school",
+      "Write a test"
+     ],
+     "answer": 1,
+     "whyTr": "Hafsa: I'll talk to him before class.",
+     "tag": "listening",
+     "level": "B2"
+    }
+   ]
+  },
+  "writing": {
+   "promptTr": "Öğretmen arkadaşına bir e-posta yaz: bir pişmanlığını ve şu an farklı olmasını istediğin bir şeyi anlat. En az üç wish / if only cümlesi kullan (şimdi için past simple, geçmiş için had + V3). 120-180 kelime.",
+   "promptEn": "Write an email to a teacher friend about something you regret and something you wish were different. Use at least three wish or if only sentences (120-180 words).",
+   "frames": [
+    "Dear ..., I had a difficult day.",
+    "I wish I had ...",
+    "If only I were ...",
+    "I wish my students would ..."
+   ],
+   "model": "Dear Ms. Carter, I had a difficult day yesterday, and I want to tell you about it. During the reading lesson, one student kept talking, and I became impatient. I shouted at him, and the whole class became silent. I wish I had stayed calm. I wish I hadn't used such a sharp voice. I felt guilty all evening. If only I were more experienced, I would know how to handle noisy moments. I also wish the children would listen the first time, but I know that is not realistic. This morning I apologized to the student, and he forgave me. I am grateful for that. I wish I had prepared a quiet activity for the end of the lesson. Next time, I will make a better plan. Could you give me some advice about classroom management? I would really appreciate it. Thank you for always being so kind and patient with me. Best wishes, Hafsa",
+   "checklistTr": [
+    "En az üç wish / if only cümlen var mı?",
+    "Şimdi için wish + past simple (were), geçmiş için wish + had + V3 kullandın mı?",
+    "Wish + would'u başkasının davranışı için kullandın mı?",
+    "E-postanda selam, konu ve kapanış var mı?"
+   ],
+   "minWords": 120
+  },
+  "examSet": [
+   {
+    "type": "mcq",
+    "q": "I wish I ___ a car. I have to take the bus every day.",
+    "options": [
+     "have",
+     "would have",
+     "had",
+     "had had"
+    ],
+    "answer": 2,
+    "whyTr": "Şimdiki istek: wish + past simple.",
+    "tag": "modals",
+    "level": "B2"
+   },
+   {
+    "type": "mcq",
+    "q": "She wishes she ___ the test last week. She failed.",
+    "options": [
+     "studied",
+     "would study",
+     "has studied",
+     "had studied"
+    ],
+    "answer": 3,
+    "whyTr": "Geçmiş pişmanlık: had studied.",
+    "tag": "modals",
+    "level": "B2"
+   },
+   {
+    "type": "mcq",
+    "q": "Jacob never listens. His mother wishes he ___ more carefully.",
+    "options": [
+     "would listen",
+     "listening",
+     "had listened",
+     "listens"
+    ],
+    "answer": 0,
+    "whyTr": "Başkasının davranışı: wish + would.",
+    "tag": "modals",
+    "level": "B2"
+   },
+   {
+    "type": "mcq",
+    "q": "If only I ___ the answer! I can't remember it now.",
+    "options": [
+     "know",
+     "knew",
+     "had known",
+     "would know"
+    ],
+    "answer": 1,
+    "whyTr": "Şimdiki istek: knew.",
+    "tag": "modals",
+    "level": "B2"
+   },
+   {
+    "type": "mcq",
+    "q": "If it had snowed, school ___ canceled.",
+    "options": [
+     "would be",
+     "will be",
+     "would have been",
+     "had been"
+    ],
+    "answer": 2,
+    "whyTr": "Üçüncü koşul: would have been.",
+    "tag": "modals",
+    "level": "B2"
+   },
+   {
+    "type": "mcq",
+    "q": "If I were the principal, I ___ more field trips.",
+    "options": [
+     "would have planned",
+     "will plan",
+     "had planned",
+     "would plan"
+    ],
+    "answer": 3,
+    "whyTr": "İkinci koşul: would plan.",
+    "tag": "modals",
+    "level": "B2"
+   },
+   {
+    "type": "mcq",
+    "q": "They said they ___ the class the next day.",
+    "options": [
+     "would visit",
+     "will visit",
+     "visit",
+     "visited"
+    ],
+    "answer": 0,
+    "whyTr": "Dolaylı anlatımda will, would olur.",
+    "tag": "future",
+    "level": "B2"
+   },
+   {
+    "type": "mcq",
+    "q": "The test ___ by the teacher before the class began.",
+    "options": [
+     "has checked",
+     "had been checked",
+     "checked",
+     "was check"
+    ],
+    "answer": 1,
+    "whyTr": "Edilgen past perfect: had been checked.",
+    "tag": "past-simple",
+    "level": "B2"
+   },
+   {
+    "type": "mcq",
+    "q": "She felt deep ___ for shouting at the child.",
+    "options": [
+     "envy",
+     "content",
+     "remorse",
+     "gloomy"
+    ],
+    "answer": 2,
+    "whyTr": "Vicdan azabı: remorse.",
+    "tag": "vocab",
+    "level": "B2"
+   },
+   {
+    "type": "mcq",
+    "q": "Please accept my ___ apology. I really mean it.",
+    "options": [
+     "arrogant",
+     "bitter",
+     "hopeless",
+     "sincere"
+    ],
+    "answer": 3,
+    "whyTr": "Samimi: sincere.",
+    "tag": "vocab",
+    "level": "B2"
+   },
+   {
+    "type": "mcq",
+    "q": "He was ___ to apologize, so he waited a long time.",
+    "options": [
+     "reluctant",
+     "sympathetic",
+     "tactful",
+     "content"
+    ],
+    "answer": 0,
+    "whyTr": "İsteksiz: reluctant.",
+    "tag": "vocab",
+    "level": "B2"
+   },
+   {
+    "type": "mcq",
+    "q": "What is the opposite of \"humble\"?",
+    "options": [
+     "sincere",
+     "arrogant",
+     "content",
+     "bitter"
+    ],
+    "answer": 1,
+    "whyTr": "Humble'ın zıttı arrogant.",
+    "tag": "antonym",
+    "level": "B2"
+   },
+   {
+    "type": "mcq",
+    "q": "What is the opposite of \"gloomy\"?",
+    "options": [
+     "bitter",
+     "hopeless",
+     "cheerful",
+     "reluctant"
+    ],
+    "answer": 2,
+    "whyTr": "Gloomy kasvetli, cheerful neşeli.",
+    "tag": "antonym",
+    "level": "B2"
+   },
+   {
+    "type": "mcq",
+    "q": "Which word is closest in meaning to \"thoughtful\"?",
+    "options": [
+     "arrogant",
+     "bitter",
+     "gloomy",
+     "considerate"
+    ],
+    "answer": 3,
+    "whyTr": "Thoughtful ≈ considerate.",
+    "tag": "synonym",
+    "level": "B2"
+   },
+   {
+    "type": "mcq",
+    "q": "Which word is closest in meaning to \"sympathetic\"?",
+    "options": [
+     "understanding",
+     "arrogant",
+     "gloomy",
+     "bitter"
+    ],
+    "answer": 0,
+    "whyTr": "Sympathetic ≈ understanding.",
+    "tag": "synonym",
+    "level": "B2"
+   },
+   {
+    "type": "mcq",
+    "q": "Which sentence expresses a PAST regret?",
+    "options": [
+     "I wish I called him.",
+     "I wish I had called him.",
+     "I wish I would call him.",
+     "I wish I call him."
+    ],
+    "answer": 1,
+    "whyTr": "Geçmiş pişmanlık: wish + had + V3.",
+    "tag": "modals",
+    "level": "B2"
+   },
+   {
+    "type": "mcq",
+    "q": "My neighbor plays loud music every night. I wish she ___.",
+    "options": [
+     "had stopped",
+     "stopping",
+     "would stop",
+     "stops"
+    ],
+    "answer": 2,
+    "whyTr": "Sinir bozucu alışkanlık: wish + would.",
+    "tag": "modals",
+    "level": "B2"
+   },
+   {
+    "type": "mcq",
+    "q": "If I ___ you, I would apologize to him.",
+    "options": [
+     "am",
+     "had been",
+     "would be",
+     "were"
+    ],
+    "answer": 3,
+    "whyTr": "Tavsiye verirken If I were you.",
+    "tag": "modals",
+    "level": "B2"
+   },
+   {
+    "type": "mcq",
+    "q": "Tina arrived at the exam late and could not finish. She told her friend, \"If only I had left home earlier!\"\n\nWhat does Tina regret?",
+    "options": [
+     "Leaving home late",
+     "Studying too much",
+     "Taking the exam",
+     "Talking to her friend"
+    ],
+    "answer": 0,
+    "whyTr": "Daha erken çıkmadığına pişman.",
+    "tag": "reading",
+    "level": "B2"
+   },
+   {
+    "type": "mcq",
+    "q": "Mr. Brown was in a hurry and forgot to lock the office. Someone took a laptop. He thought, \"I wish I had checked the door.\"\n\nWhat can we say about Mr. Brown?",
+    "options": [
+     "He locked the door.",
+     "He didn't check the door.",
+     "He took the laptop.",
+     "He enjoys hurrying."
+    ],
+    "answer": 1,
+    "whyTr": "Wish + had + V3: kapıyı kontrol etmemiş.",
+    "tag": "reading",
+    "level": "B2"
+   }
+  ]
+ }
+}

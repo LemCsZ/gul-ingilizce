@@ -1,0 +1,864 @@
+{
+ "titleTr": "14. hafta deneme sınavı",
+ "introTr": "Bu hafta aktarma fiillerini, kısaltılmış cümlecikleri ve alışkanlık kalıplarını çalıştın. Bu deneme, bunları rahatça denemen için; yanlış yapmaktan korkma, her cevap öğretir.",
+ "sections": [
+  {
+   "id": "grammar",
+   "titleTr": "Dil bilgisi",
+   "items": [
+    {
+     "type": "mcq",
+     "q": "The principal suggested ___ the meeting to Thursday.",
+     "options": [
+      "to move",
+      "moving",
+      "move",
+      "moved"
+     ],
+     "answer": 1,
+     "whyTr": "'Suggest' fiilinden sonra -ing gelir.",
+     "tag": "reported-speech",
+     "level": "B2"
+    },
+    {
+     "type": "mcq",
+     "q": "She admitted ___ the files by mistake.",
+     "options": [
+      "to delete",
+      "delete",
+      "that deleting",
+      "deleting"
+     ],
+     "answer": 3,
+     "whyTr": "'Admit' fiilinden sonra -ing gelir.",
+     "tag": "reported-speech",
+     "level": "B2"
+    },
+    {
+     "type": "mcq",
+     "q": "The nurse advised me ___ more water.",
+     "options": [
+      "to drink",
+      "drinking",
+      "drink",
+      "that drink"
+     ],
+     "answer": 0,
+     "whyTr": "'Advise + kişi + to + fiil' kalıbı kullanılır.",
+     "tag": "reported-speech",
+     "level": "B2"
+    },
+    {
+     "type": "mcq",
+     "q": "He denied ___ the test answers.",
+     "options": [
+      "to see",
+      "see",
+      "seeing",
+      "to seeing"
+     ],
+     "answer": 2,
+     "whyTr": "'Deny' fiilinden sonra -ing gelir.",
+     "tag": "reported-speech",
+     "level": "B2"
+    },
+    {
+     "type": "mcq",
+     "q": "Mr. Brown, ___ has worked here for twenty years, is retiring.",
+     "options": [
+      "that",
+      "whom",
+      "who",
+      "which"
+     ],
+     "answer": 2,
+     "whyTr": "Virgüllü (non-defining) cümlecikte 'that' kullanılmaz; kişi için 'who'.",
+     "tag": "relative-clauses",
+     "level": "B2"
+    },
+    {
+     "type": "mcq",
+     "q": "Lincoln Elementary, ___ opened in 1962, has 400 students.",
+     "options": [
+      "which",
+      "that",
+      "where",
+      "who"
+     ],
+     "answer": 0,
+     "whyTr": "Virgüllü cümlecikte nesne için 'which' kullanılır.",
+     "tag": "relative-clauses",
+     "level": "B2"
+    },
+    {
+     "type": "mcq",
+     "q": "My neighbor, ___ car was stolen, called the police.",
+     "options": [
+      "who",
+      "which",
+      "that",
+      "whose"
+     ],
+     "answer": 3,
+     "whyTr": "Sahiplik bildirdiği için 'whose' kullanılır.",
+     "tag": "relative-clauses",
+     "level": "B1"
+    },
+    {
+     "type": "mcq",
+     "q": "The students ___ in the back row are the new ones.",
+     "options": [
+      "sits",
+      "sitting",
+      "to sit",
+      "who sitting"
+     ],
+     "answer": 1,
+     "whyTr": "Kısaltılmış cümlecik: the students sitting = the students who are sitting.",
+     "tag": "relative-clauses",
+     "level": "B2"
+    },
+    {
+     "type": "mcq",
+     "q": "The form ___ by parents must be returned on Monday.",
+     "options": [
+      "signed",
+      "signing",
+      "to sign",
+      "sign"
+     ],
+     "answer": 0,
+     "whyTr": "Edilgen anlamlı kısaltılmış cümlecik: the form signed by parents.",
+     "tag": "passive",
+     "level": "B2"
+    },
+    {
+     "type": "mcq",
+     "q": "___ tired after the long day, Hafsa went to bed early.",
+     "options": [
+      "Felt",
+      "To feel",
+      "Feeling",
+      "Feels"
+     ],
+     "answer": 2,
+     "whyTr": "Aynı özneli kısaltılmış cümlecikte -ing kullanılır.",
+     "tag": "gerund-infinitive",
+     "level": "B2"
+    },
+    {
+     "type": "mcq",
+     "q": "When I first came to the USA, I ___ driving on the right.",
+     "options": [
+      "didn't use to",
+      "wasn't used to",
+      "wasn't use to",
+      "don't used to"
+     ],
+     "answer": 1,
+     "whyTr": "'Be used to + -ing': alışkın olmak.",
+     "tag": "gerund-infinitive",
+     "level": "B2"
+    },
+    {
+     "type": "mcq",
+     "q": "It took a while, but I finally ___ living in Ohio.",
+     "options": [
+      "used to",
+      "am use to",
+      "got use to",
+      "got used to"
+     ],
+     "answer": 3,
+     "whyTr": "'Get used to + -ing': alışmak.",
+     "tag": "gerund-infinitive",
+     "level": "B2"
+    },
+    {
+     "type": "mcq",
+     "q": "In Isparta, we ___ have dinner at nine, but now we eat at six.",
+     "options": [
+      "are used to",
+      "used to",
+      "got used to",
+      "use to"
+     ],
+     "answer": 1,
+     "whyTr": "Geçmişteki bırakılmış alışkanlık: used to + fiil.",
+     "tag": "gerund-infinitive",
+     "level": "B1"
+    },
+    {
+     "type": "mcq",
+     "q": "I remember ___ my keys on the desk this morning, so they must be there.",
+     "options": [
+      "to put",
+      "put",
+      "to putting",
+      "putting"
+     ],
+     "answer": 3,
+     "whyTr": "Remember + -ing: yapıldığını hatırlamak.",
+     "tag": "gerund-infinitive",
+     "level": "B2"
+    },
+    {
+     "type": "mcq",
+     "q": "Please remember ___ the lights before you leave.",
+     "options": [
+      "to turn off",
+      "turning off",
+      "turned off",
+      "turn off"
+     ],
+     "answer": 0,
+     "whyTr": "Remember + to: yapılması gerekeni unutmamak.",
+     "tag": "gerund-infinitive",
+     "level": "B2"
+    },
+    {
+     "type": "mcq",
+     "q": "The students stopped ___ when the principal came in.",
+     "options": [
+      "to talk",
+      "talk",
+      "talking",
+      "to talking"
+     ],
+     "answer": 2,
+     "whyTr": "Stop + -ing: bir eylemi bırakmak.",
+     "tag": "gerund-infinitive",
+     "level": "B2"
+    },
+    {
+     "type": "mcq",
+     "q": "If the printer doesn't work, try ___ it off and on again.",
+     "options": [
+      "to turn",
+      "turn",
+      "turning",
+      "turned"
+     ],
+     "answer": 2,
+     "whyTr": "Try + -ing: bir yöntemi denemek.",
+     "tag": "gerund-infinitive",
+     "level": "B2"
+    },
+    {
+     "type": "mcq",
+     "q": "I wish I ___ more patient with my students yesterday.",
+     "options": [
+      "had been",
+      "was",
+      "were",
+      "would be"
+     ],
+     "answer": 0,
+     "whyTr": "Geçmiş pişmanlık için wish + past perfect.",
+     "tag": "conditionals",
+     "level": "B2"
+    },
+    {
+     "type": "mcq",
+     "q": "The reports ___ before Friday.",
+     "options": [
+      "must submit",
+      "must be submit",
+      "must been submitted",
+      "must be submitted"
+     ],
+     "answer": 3,
+     "whyTr": "Modal passive: must be + V3.",
+     "tag": "passive",
+     "level": "B1"
+    },
+    {
+     "type": "mcq",
+     "q": "She asked me ___ I had finished the report.",
+     "options": [
+      "that",
+      "whether",
+      "what",
+      "which"
+     ],
+     "answer": 1,
+     "whyTr": "Evet/hayır sorusunu aktarırken if / whether kullanılır.",
+     "tag": "reported-speech",
+     "level": "B1"
+    }
+   ]
+  },
+  {
+   "id": "vocab",
+   "titleTr": "Kelime",
+   "items": [
+    {
+     "type": "mcq",
+     "q": "Which phrase is closest in meaning to 'policy'?",
+     "options": [
+      "a set of official rules",
+      "a short meeting",
+      "a type of test",
+      "a school bus"
+     ],
+     "answer": 0,
+     "whyTr": "Policy, resmî kurallar bütünüdür.",
+     "tag": "vocab",
+     "level": "B1"
+    },
+    {
+     "type": "mcq",
+     "q": "What is the opposite of 'permit'?",
+     "options": [
+      "allow",
+      "offer",
+      "forbid",
+      "agree"
+     ],
+     "answer": 2,
+     "whyTr": "Permit (izin vermek) kelimesinin zıttı forbid (yasaklamak).",
+     "tag": "antonym",
+     "level": "B2"
+    },
+    {
+     "type": "mcq",
+     "q": "'All visitors must comply with the safety rules.' Comply means:",
+     "options": [
+      "ignore",
+      "follow",
+      "explain",
+      "change"
+     ],
+     "answer": 1,
+     "whyTr": "Comply with, kurallara uymak demektir.",
+     "tag": "vocab",
+     "level": "B2"
+    },
+    {
+     "type": "mcq",
+     "q": "Her ___ to the new school was easy. (adjust)",
+     "options": [
+      "adjust",
+      "adjusted",
+      "adjustable",
+      "adjustment"
+     ],
+     "answer": 3,
+     "whyTr": "'Her' sonrası isim gerekir: adjustment.",
+     "tag": "word-formation",
+     "level": "B2"
+    },
+    {
+     "type": "mcq",
+     "q": "The principal wants to ___ the rules fairly.",
+     "options": [
+      "enjoy",
+      "enforce",
+      "expect",
+      "exchange"
+     ],
+     "answer": 1,
+     "whyTr": "Enforce, kuralı uygulatmak demektir.",
+     "tag": "vocab",
+     "level": "B2"
+    },
+    {
+     "type": "mcq",
+     "q": "'Attendance at the training is optional.' Optional means:",
+     "options": [
+      "required for everyone",
+      "very long",
+      "free of charge",
+      "you can choose to do it"
+     ],
+     "answer": 3,
+     "whyTr": "Optional, isteğe bağlı demektir.",
+     "tag": "vocab",
+     "level": "B1"
+    },
+    {
+     "type": "mcq",
+     "q": "Which word means the same as 'adapt'?",
+     "options": [
+      "adjust",
+      "forget",
+      "refuse",
+      "delay"
+     ],
+     "answer": 0,
+     "whyTr": "Adapt ve adjust: uyum sağlamak.",
+     "tag": "synonym",
+     "level": "B2"
+    },
+    {
+     "type": "mcq",
+     "q": "What is the opposite of 'vague'?",
+     "options": [
+      "uncertain",
+      "brief",
+      "specific",
+      "hidden"
+     ],
+     "answer": 2,
+     "whyTr": "Vague (belirsiz) kelimesinin zıttı specific (net).",
+     "tag": "antonym",
+     "level": "B2"
+    },
+    {
+     "type": "mcq",
+     "q": "Teachers should be ___ to students' cultural differences. (sense)",
+     "options": [
+      "sensible",
+      "sensitivity",
+      "sensitive",
+      "sensibly"
+     ],
+     "answer": 2,
+     "whyTr": "Sensitive: duyarlı; sensible: makul. Burada 'duyarlı' anlamı gerekir.",
+     "tag": "word-formation",
+     "level": "B2"
+    },
+    {
+     "type": "mcq",
+     "q": "I can't ___ up with the noise in the cafeteria any longer.",
+     "options": [
+      "put",
+      "give",
+      "come",
+      "keep"
+     ],
+     "answer": 0,
+     "whyTr": "'Put up with' katlanmak demektir.",
+     "tag": "phrasal-verbs",
+     "level": "B2"
+    },
+    {
+     "type": "mcq",
+     "q": "'Our school is a diverse community.' Diverse means:",
+     "options": [
+      "very small",
+      "very old",
+      "expensive",
+      "made up of many different kinds of people"
+     ],
+     "answer": 3,
+     "whyTr": "Diverse, çeşitli, farklı insanlardan oluşan demektir.",
+     "tag": "vocab",
+     "level": "B2"
+    },
+    {
+     "type": "mcq",
+     "q": "Which word means the same as 'conduct' in 'student conduct'?",
+     "options": [
+      "grades",
+      "behavior",
+      "clothing",
+      "schedule"
+     ],
+     "answer": 1,
+     "whyTr": "Conduct (davranış) ve behavior aynı anlamdadır.",
+     "tag": "synonym",
+     "level": "B2"
+    }
+   ]
+  },
+  {
+   "id": "reading",
+   "titleTr": "Okuma",
+   "passages": [
+    {
+     "title": "Getting used to Ohio",
+     "level": "B1",
+     "text": "When Hafsa first moved to Ohio, nothing felt normal. In Isparta, she used to walk to the market every morning, buy fresh bread and talk with her neighbors for an hour. In Ohio, she had to drive to a big supermarket, and nobody wanted to talk. 'I'm not used to eating dinner at six,' she told Emre. 'At home, we ate at nine.'\n\nThe winter was the hardest part. Hafsa wasn't used to the snow, and she was afraid to drive. Her neighbor Linda, who has lived in Ohio all her life, taught her how to clean the car and drive slowly on ice. 'You'll get used to it,' Linda said.\n\nTwo years later, Hafsa still misses Isparta, but she has found new habits. She has started going to a Saturday farmers market, and she knows the names of five neighbors. Last week she even stopped to help a stranger push his car out of the snow.",
+     "questions": [
+      {
+       "type": "mcq",
+       "q": "What did Hafsa use to do in Isparta?",
+       "options": [
+        "She walked to the market and talked with neighbors.",
+        "She drove to a supermarket.",
+        "She ate dinner at six.",
+        "She worked at a school."
+       ],
+       "answer": 0,
+       "whyTr": "Isparta'da her sabah pazara yürüyüp komşularla konuşurdu.",
+       "tag": "reading",
+       "level": "B1"
+      },
+      {
+       "type": "mcq",
+       "q": "Who helped Hafsa with winter driving?",
+       "options": [
+        "Emre",
+        "Mr. Brown",
+        "Linda",
+        "A stranger"
+       ],
+       "answer": 2,
+       "whyTr": "Linda arabayı temizlemeyi ve buzda yavaş sürmeyi öğretti.",
+       "tag": "reading",
+       "level": "B1"
+      },
+      {
+       "type": "mcq",
+       "q": "What does the last paragraph suggest?",
+       "options": [
+        "Hafsa wants to leave Ohio.",
+        "Hafsa has adapted to life in Ohio, but she still misses home.",
+        "Hafsa dislikes her neighbors.",
+        "Hafsa stopped driving."
+       ],
+       "answer": 1,
+       "whyTr": "Yeni alışkanlıklar edinmiş ama Isparta'yı özlüyor.",
+       "tag": "reading",
+       "level": "B2"
+      }
+     ]
+    },
+    {
+     "title": "Attendance policy",
+     "level": "B1",
+     "text": "Attendance Policy - Oakridge Middle School\n\nStudents arriving after 8:00 a.m. must check in at the front office, where they will receive a late pass. Students arriving without a pass will not be admitted to class. Parents who know in advance that their child will miss school are asked to call the office before 9:00 a.m.\n\nAbsences are recorded as excused or unexcused. Absences caused by illness, medical appointments or family emergencies are excused when a note signed by a parent is submitted within three days. Students who miss more than ten days in a semester, excused or not, will be referred to the school counselor. The counselor may suggest a meeting with the family to discuss ways to improve attendance.\n\nTeachers, including substitutes, are required to take attendance during the first ten minutes of class. Names of students arriving after the roll call must be sent to the office. Substitutes finding a mistake in the attendance list should report it to the front office immediately.",
+     "questions": [
+      {
+       "type": "mcq",
+       "q": "What must a student arriving at 8:15 do?",
+       "options": [
+        "Go straight to class",
+        "Call a parent",
+        "Wait for the counselor",
+        "Get a late pass at the front office"
+       ],
+       "answer": 3,
+       "whyTr": "8:00'den sonra gelenler ofisten geç kalma kağıdı alır.",
+       "tag": "reading",
+       "level": "B1"
+      },
+      {
+       "type": "mcq",
+       "q": "When is an absence excused?",
+       "options": [
+        "When the student is late",
+        "When a signed parent note arrives within three days",
+        "When a teacher forgets it",
+        "When the counselor calls"
+       ],
+       "answer": 1,
+       "whyTr": "Hastalık gibi sebeplerde, üç gün içinde imzalı not verilirse mazeretlidir.",
+       "tag": "reading",
+       "level": "B1"
+      },
+      {
+       "type": "mcq",
+       "q": "What happens after more than ten missed days in a semester?",
+       "options": [
+        "The student must leave school.",
+        "The parents pay a fee.",
+        "The teacher gives extra homework.",
+        "The student is referred to the counselor."
+       ],
+       "answer": 3,
+       "whyTr": "Counselor'a yönlendirilirler.",
+       "tag": "reading",
+       "level": "B1"
+      },
+      {
+       "type": "mcq",
+       "q": "What should a substitute do if the attendance list has a mistake?",
+       "options": [
+        "Report it to the front office",
+        "Correct it alone",
+        "Ignore it",
+        "Tell the students"
+       ],
+       "answer": 0,
+       "whyTr": "Hatayı hemen ön ofise bildirmeli.",
+       "tag": "reading",
+       "level": "B2"
+      }
+     ]
+    },
+    {
+     "title": "Teachers from abroad",
+     "level": "B2",
+     "text": "Every year, thousands of teachers from abroad come to work in American schools, attracted by higher salaries and new experiences. Most of them are surprised by how different the classroom culture is. In many countries, students stand when the teacher enters the room and rarely question what they are told. American students, on the other hand, are encouraged to speak up, to disagree politely and to work in groups.\n\n'The hardest part was not the language,' said Maria, a math teacher from Spain, who joined a Texas school two years ago. 'It was learning that students call you by your last name, but they might also interrupt you with questions. At first I thought they were being rude. Now I understand they are showing interest.'\n\nSchools that employ international teachers often provide mentors, helping newcomers understand local customs, discipline systems and paperwork. Administrators admit that the adjustment takes time. 'We advise new teachers not to expect perfection in the first semester,' one principal said. 'Within a year, most of them stop worrying and start enjoying the job.'",
+     "questions": [
+      {
+       "type": "mcq",
+       "q": "What surprises many international teachers?",
+       "options": [
+        "Students never ask questions.",
+        "Salaries are lower.",
+        "American students are encouraged to speak up.",
+        "Classes are always silent."
+       ],
+       "answer": 2,
+       "whyTr": "Amerikan öğrenciler konuşmaya ve itiraza teşvik ediliyor.",
+       "tag": "reading",
+       "level": "B2"
+      },
+      {
+       "type": "mcq",
+       "q": "Why did Maria first think students were rude?",
+       "options": [
+        "They called her by her first name.",
+        "They arrived late.",
+        "They interrupted her with questions.",
+        "They did not do homework."
+       ],
+       "answer": 2,
+       "whyTr": "Sözünü kesip soru soruyorlardı; sonra bunun ilgi olduğunu anladı.",
+       "tag": "reading",
+       "level": "B2"
+      },
+      {
+       "type": "mcq",
+       "q": "What does the principal advise new teachers?",
+       "options": [
+        "Not to expect perfection early",
+        "To avoid mentors",
+        "To change schools often",
+        "To speak less in class"
+       ],
+       "answer": 0,
+       "whyTr": "'We advise new teachers not to expect perfection.'",
+       "tag": "reading",
+       "level": "B2"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "listening",
+   "titleTr": "Dinleme",
+   "passages": [
+    {
+     "title": "In the teachers' lounge",
+     "level": "B2",
+     "script": [
+      {
+       "speaker": "Mr. Reyes",
+       "text": "Were you at the staff meeting yesterday, Hafsa?"
+      },
+      {
+       "speaker": "Hafsa",
+       "text": "I was. The principal announced that substitutes must now sign in electronically."
+      },
+      {
+       "speaker": "Mr. Reyes",
+       "text": "I heard that too. She also warned everyone not to share passwords with students."
+      },
+      {
+       "speaker": "Hafsa",
+       "text": "Yes. And Mrs. Lee suggested printing the sign-in sheets for people who don't have tablets."
+      },
+      {
+       "speaker": "Mr. Reyes",
+       "text": "That's helpful. I've never been good with technology. I'm still not used to the new system."
+      },
+      {
+       "speaker": "Hafsa",
+       "text": "Don't worry, you'll get used to it. I can show you after lunch."
+      },
+      {
+       "speaker": "Mr. Reyes",
+       "text": "Thanks. I'd appreciate that."
+      }
+     ],
+     "questions": [
+      {
+       "type": "mcq",
+       "q": "What must substitutes do now?",
+       "options": [
+        "Print every form",
+        "Share a password",
+        "Attend a weekly meeting",
+        "Sign in electronically"
+       ],
+       "answer": 3,
+       "whyTr": "Müdür substitute'lerin elektronik giriş yapması gerektiğini duyurdu.",
+       "tag": "listening",
+       "level": "B1"
+      },
+      {
+       "type": "mcq",
+       "q": "What did the principal warn about?",
+       "options": [
+        "Arriving late",
+        "Sharing passwords with students",
+        "Losing tablets",
+        "Skipping meetings"
+       ],
+       "answer": 1,
+       "whyTr": "Parolaları öğrencilerle paylaşmama uyarısı.",
+       "tag": "listening",
+       "level": "B2"
+      },
+      {
+       "type": "mcq",
+       "q": "What does Hafsa offer to do?",
+       "options": [
+        "Show Mr. Reyes the system after lunch",
+        "Print the sheets for him",
+        "Talk to the principal",
+        "Buy him a tablet"
+       ],
+       "answer": 0,
+       "whyTr": "Hafsa öğle yemeğinden sonra sistemi göstermeyi teklif ediyor.",
+       "tag": "listening",
+       "level": "B2"
+      }
+     ]
+    },
+    {
+     "title": "A call to a parent",
+     "level": "B1",
+     "script": [
+      {
+       "speaker": "Mrs. Davis",
+       "text": "Hello, this is Karen Davis, Ben's mother. His teacher said you had a problem with him yesterday?"
+      },
+      {
+       "speaker": "Hafsa",
+       "text": "Yes, Mrs. Davis. I'm the substitute. Ben was talking during the test, and I asked him to stop."
+      },
+      {
+       "speaker": "Mrs. Davis",
+       "text": "What did he say?"
+      },
+      {
+       "speaker": "Hafsa",
+       "text": "He denied talking, but two other students told me they heard him."
+      },
+      {
+       "speaker": "Mrs. Davis",
+       "text": "He tends to talk when he is nervous. I'll speak to him tonight."
+      },
+      {
+       "speaker": "Hafsa",
+       "text": "I appreciate that. I'd also suggest that he sit near the front. It might help him concentrate."
+      },
+      {
+       "speaker": "Mrs. Davis",
+       "text": "That's a good idea. I'll mention it to his regular teacher."
+      }
+     ],
+     "questions": [
+      {
+       "type": "mcq",
+       "q": "Why did Hafsa speak to Ben?",
+       "options": [
+        "He was late for class.",
+        "He lost his test.",
+        "He was talking during the test.",
+        "He was fighting."
+       ],
+       "answer": 2,
+       "whyTr": "Ben test sırasında konuşuyordu.",
+       "tag": "listening",
+       "level": "B1"
+      },
+      {
+       "type": "mcq",
+       "q": "How did Ben react?",
+       "options": [
+        "He apologized immediately.",
+        "He denied talking.",
+        "He left the room.",
+        "He blamed the teacher."
+       ],
+       "answer": 1,
+       "whyTr": "Ben konuştuğunu inkâr etti.",
+       "tag": "listening",
+       "level": "B1"
+      },
+      {
+       "type": "mcq",
+       "q": "What does Hafsa suggest?",
+       "options": [
+        "Ben should change schools.",
+        "Ben should take the test again.",
+        "Mrs. Davis should call the principal.",
+        "Ben should sit near the front."
+       ],
+       "answer": 3,
+       "whyTr": "Hafsa Ben'in öne oturmasını öneriyor.",
+       "tag": "listening",
+       "level": "B1"
+      }
+     ]
+    },
+    {
+     "title": "A lost form",
+     "level": "A2",
+     "script": [
+      {
+       "speaker": "Linda",
+       "text": "Did you remember to mail the form, Hafsa?"
+      },
+      {
+       "speaker": "Hafsa",
+       "text": "Oh no, I forgot to mail it! I remember putting it in my bag this morning."
+      },
+      {
+       "speaker": "Linda",
+       "text": "Try looking in your car."
+      },
+      {
+       "speaker": "Hafsa",
+       "text": "Here it is, on the back seat. Thank you!"
+      },
+      {
+       "speaker": "Linda",
+       "text": "The post office closes at five, so hurry."
+      }
+     ],
+     "questions": [
+      {
+       "type": "mcq",
+       "q": "What did Hafsa forget to do?",
+       "options": [
+        "Call Linda",
+        "Mail the form",
+        "Buy stamps",
+        "Sign the paper"
+       ],
+       "answer": 1,
+       "whyTr": "Hafsa formu postalamayı unuttu.",
+       "tag": "listening",
+       "level": "A2"
+      },
+      {
+       "type": "mcq",
+       "q": "Where was the form?",
+       "options": [
+        "In her bag",
+        "At the post office",
+        "At school",
+        "In her car"
+       ],
+       "answer": 3,
+       "whyTr": "Form arabanın arka koltuğundaydı.",
+       "tag": "listening",
+       "level": "A2"
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "writing": {
+  "promptTr": "Bir arkadaşına ABD'de hayata alışmayı anlatan e-posta yaz. Türkiye'de eskiden ne yapardın (used to), şimdi neye alıştın (be used to) ve neye henüz alışmaya çalışıyorsun (get used to)? Ayrıca bir toplantıda duyduğun bir tavsiyeyi aktar (suggested, advised, warned).",
+  "promptEn": "Write an email to a friend about getting used to life in the USA. Say what you used to do in Turkey, what you are used to now, and what you are still getting used to. Also report a piece of advice you heard (suggested, advised, warned).",
+  "minWords": 110,
+  "checklistTr": [
+   "'Used to' ile eski bir alışkanlığı anlattım mı?",
+   "'Be used to / get used to' + -ing kullandım mı?",
+   "En az bir aktarma fiili kullandım mı (suggested ...ing, advised me to ...)?",
+   "Virgüllü bir ilgi cümleciği kullandım mı (Linda, who ...)?",
+   "Selamlama ve kapanış var mı?"
+  ],
+  "model": "Dear Ayse,\n\nHow are you? I have lived in Ohio for two years now, and I want to tell you how life has changed.\n\nIn Isparta, I used to walk to the market every morning and talk with my neighbors for an hour. Here, I have to drive everywhere, and people are usually in a hurry. I'm still not used to eating dinner at six, but I'm getting used to the quiet evenings. The winter was hard for me. I wasn't used to driving on snow, but my neighbor Linda, who has lived here all her life, taught me how to do it safely.\n\nLast week at a school meeting, the principal advised substitute teachers to arrive thirty minutes early, and a teacher suggested making a seating chart on the first day. I think both ideas are very useful.\n\nI miss Turkey, but I also love my new life. Please write to me soon!\n\nLove,\nHafsa"
+ }
+}

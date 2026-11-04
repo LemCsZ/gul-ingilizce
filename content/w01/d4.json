@@ -1,0 +1,765 @@
+{
+ "week": 1,
+ "day": 4,
+ "titleTr": "Doktor randevusu",
+ "theme": "doctor",
+ "morning": {
+  "grammar": {
+   "topic": "have / has + possessive adjectives + 's",
+   "explainTr": [
+    "'have' sahip olmak demektir; I / you / we / they ile 'have', he / she / it ile 'has' kullanılır: I have an appointment. She has a fever. Olumsuz: don't have / doesn't have. Soru: Do you have ...? Does she have ...?",
+    "Sahiplik için my, your, his, her, our, their kullanılır ve isimden önce gelir: my son, her card. Kişinin adıyla: Emre's cough (Emre'nin öksürüğü). Dikkat: doesn't / does geldiğinde 'have' hep 'have' kalır, 'has' olmaz."
+   ],
+   "compareTr": "Türkçede 'Randevum var' ve 'Ateşim var' dersin; 'var' kullanırsın. İngilizcede bunun karşılığı 'have': 'I have an appointment', 'I have a fever'. Türkçede 'benim' eki isme yapışır (kitabım); İngilizcede ayrı kelime olur: 'my book'.",
+   "table": [
+    [
+     "I / you / we / they",
+     "have",
+     "I don't have a fever."
+    ],
+    [
+     "he / she / it",
+     "has",
+     "She doesn't have a fever."
+    ],
+    [
+     "soru",
+     "Do ... have? / Does ... have?",
+     "Does he have an appointment?"
+    ],
+    [
+     "my / your / his / her",
+     "benim / senin / onun (erkek) / onun (kadın)",
+     "her insurance card"
+    ],
+    [
+     "our / their",
+     "bizim / onların",
+     "their daughter"
+    ],
+    [
+     "'s",
+     "Emre'nin / Linda'nın",
+     "Emre's cough"
+    ]
+   ],
+   "examples": [
+    {
+     "en": "I have an appointment at 3:00.",
+     "tr": "Saat 3'te randevum var."
+    },
+    {
+     "en": "She has a headache.",
+     "tr": "Onun başı ağrıyor (baş ağrısı var)."
+    },
+    {
+     "en": "He doesn't have a fever.",
+     "tr": "Onun ateşi yok."
+    },
+    {
+     "en": "Do you have your insurance card?",
+     "tr": "Sigorta kartın yanında mı?"
+    }
+   ],
+   "exercises": [
+    {
+     "type": "mcq",
+     "q": "I ___ an appointment at 3:00.",
+     "options": [
+      "has",
+      "have",
+      "am"
+     ],
+     "answer": 1,
+     "whyTr": "I ile 'have' kullanılır.",
+     "tag": "present-simple",
+     "level": "A1"
+    },
+    {
+     "type": "mcq",
+     "q": "She ___ a headache.",
+     "options": [
+      "have",
+      "has",
+      "haves"
+     ],
+     "answer": 1,
+     "whyTr": "She ile 'has' kullanılır.",
+     "tag": "present-simple",
+     "level": "A1"
+    },
+    {
+     "type": "mcq",
+     "q": "They ___ health insurance.",
+     "options": [
+      "has",
+      "have",
+      "is"
+     ],
+     "answer": 1,
+     "whyTr": "They ile 'have' kullanılır.",
+     "tag": "present-simple",
+     "level": "A1"
+    },
+    {
+     "type": "mcq",
+     "q": "He ___ have a fever.",
+     "options": [
+      "don't",
+      "doesn't",
+      "hasn't"
+     ],
+     "answer": 1,
+     "whyTr": "He ile olumsuz 'doesn't have' olur.",
+     "tag": "negative-form",
+     "level": "A1"
+    },
+    {
+     "type": "mcq",
+     "q": "___ you have an insurance card?",
+     "options": [
+      "Does",
+      "Are",
+      "Do"
+     ],
+     "answer": 2,
+     "whyTr": "You ile soru 'Do you have ...?' diye kurulur.",
+     "tag": "question-form",
+     "level": "A1"
+    },
+    {
+     "type": "mcq",
+     "q": "Emre has a cough. ___ cough is bad.",
+     "options": [
+      "He",
+      "Her",
+      "His"
+     ],
+     "answer": 2,
+     "whyTr": "Emre erkek; sahiplik için 'his' kullanılır.",
+     "tag": "possessive",
+     "level": "A1"
+    },
+    {
+     "type": "mcq",
+     "q": "Hafsa and Murat have a daughter. ___ daughter is eight.",
+     "options": [
+      "Their",
+      "Her",
+      "Our"
+     ],
+     "answer": 0,
+     "whyTr": "Hafsa and Murat = they; sahiplik 'their'.",
+     "tag": "possessive",
+     "level": "A1"
+    },
+    {
+     "type": "mcq",
+     "q": "This is ___ insurance card.",
+     "options": [
+      "Hafsa",
+      "Hafsa's",
+      "Hafsas"
+     ],
+     "answer": 1,
+     "whyTr": "Kişi adına 's ekleyerek sahiplik yaparız.",
+     "tag": "possessive",
+     "level": "A1"
+    },
+    {
+     "type": "order",
+     "promptTr": "Cümleyi sırala:",
+     "words": [
+      "My",
+      "son",
+      "has",
+      "a",
+      "fever"
+     ],
+     "answer": "My son has a fever",
+     "whyTr": "My son = he; bu yüzden 'has'.",
+     "tag": "word-order",
+     "level": "A1"
+    },
+    {
+     "type": "order",
+     "promptTr": "Cümleyi sırala:",
+     "words": [
+      "I",
+      "don't",
+      "have",
+      "any",
+      "pain"
+     ],
+     "answer": "I don't have any pain",
+     "whyTr": "Olumsuzda 'don't have' ve 'any' kullanılır.",
+     "tag": "negative-form",
+     "level": "A1"
+    },
+    {
+     "type": "order",
+     "promptTr": "Soruyu sırala:",
+     "words": [
+      "Does",
+      "she",
+      "have",
+      "an",
+      "appointment"
+     ],
+     "answer": "Does she have an appointment",
+     "whyTr": "Does + özne + have (has değil).",
+     "tag": "question-form",
+     "level": "A1"
+    },
+    {
+     "type": "fill",
+     "q": "I have a headache. ___ head hurts.",
+     "accept": [
+      "my",
+      "My"
+     ],
+     "hintTr": "benim",
+     "whyTr": "I'nın sahiplik hali 'my'dır.",
+     "tag": "possessive",
+     "level": "A1"
+    }
+   ]
+  },
+  "vocab": [
+   {
+    "id": "appointment",
+    "en": "appointment",
+    "tr": "randevu",
+    "pos": "noun",
+    "example": "I have an appointment at 4:00.",
+    "exampleTr": "Saat 4'te randevum var.",
+    "syn": [],
+    "ant": [],
+    "level": "A1"
+   },
+   {
+    "id": "insurance",
+    "en": "insurance",
+    "tr": "sigorta",
+    "pos": "noun",
+    "example": "Do you have health insurance?",
+    "exampleTr": "Sağlık sigortan var mı?",
+    "syn": [],
+    "ant": [],
+    "level": "A2"
+   },
+   {
+    "id": "symptom",
+    "en": "symptom",
+    "tr": "belirti, semptom",
+    "pos": "noun",
+    "example": "A fever is a symptom.",
+    "exampleTr": "Ateş bir belirtidir.",
+    "syn": [],
+    "ant": [],
+    "level": "A2"
+   },
+   {
+    "id": "headache",
+    "en": "headache",
+    "tr": "baş ağrısı",
+    "pos": "noun",
+    "example": "I have a bad headache today.",
+    "exampleTr": "Bugün kötü bir baş ağrım var.",
+    "syn": [],
+    "ant": [],
+    "level": "A1"
+   },
+   {
+    "id": "fever",
+    "en": "fever",
+    "tr": "ateş",
+    "pos": "noun",
+    "example": "Emre has a fever.",
+    "exampleTr": "Emre'nin ateşi var.",
+    "syn": [],
+    "ant": [],
+    "level": "A1"
+   },
+   {
+    "id": "cough",
+    "en": "cough",
+    "tr": "öksürük",
+    "pos": "noun",
+    "example": "She has a cough and a sore throat.",
+    "exampleTr": "Öksürüğü ve boğaz ağrısı var.",
+    "syn": [],
+    "ant": [],
+    "level": "A2"
+   },
+   {
+    "id": "throat",
+    "en": "throat",
+    "tr": "boğaz",
+    "pos": "noun",
+    "example": "My throat hurts.",
+    "exampleTr": "Boğazım ağrıyor.",
+    "syn": [],
+    "ant": [],
+    "level": "A2"
+   },
+   {
+    "id": "stomach",
+    "en": "stomach",
+    "tr": "mide, karın",
+    "pos": "noun",
+    "example": "His stomach hurts after lunch.",
+    "exampleTr": "Öğle yemeğinden sonra karnı ağrıyor.",
+    "syn": [],
+    "ant": [],
+    "level": "A1"
+   },
+   {
+    "id": "medicine",
+    "en": "medicine",
+    "tr": "ilaç",
+    "pos": "noun",
+    "example": "Take this medicine two times a day.",
+    "exampleTr": "Bu ilacı günde iki kez al.",
+    "syn": [],
+    "ant": [],
+    "level": "A1"
+   },
+   {
+    "id": "sick",
+    "en": "sick",
+    "tr": "hasta",
+    "pos": "adjective",
+    "example": "My son is sick today.",
+    "exampleTr": "Oğlum bugün hasta.",
+    "syn": [
+     "ill"
+    ],
+    "ant": [
+     "healthy"
+    ],
+    "level": "A1"
+   },
+   {
+    "id": "healthy",
+    "en": "healthy",
+    "tr": "sağlıklı",
+    "pos": "adjective",
+    "example": "Fruit and water are healthy.",
+    "exampleTr": "Meyve ve su sağlıklıdır.",
+    "syn": [],
+    "ant": [
+     "sick"
+    ],
+    "level": "A2"
+   },
+   {
+    "id": "hurt",
+    "en": "hurt",
+    "tr": "ağrımak, acımak",
+    "pos": "verb",
+    "example": "My arm hurts.",
+    "exampleTr": "Kolum ağrıyor.",
+    "syn": [],
+    "ant": [],
+    "level": "A1"
+   },
+   {
+    "id": "arm",
+    "en": "arm",
+    "tr": "kol",
+    "pos": "noun",
+    "example": "He has a pain in his arm.",
+    "exampleTr": "Kolunda bir ağrı var.",
+    "syn": [],
+    "ant": [],
+    "level": "A1"
+   },
+   {
+    "id": "leg",
+    "en": "leg",
+    "tr": "bacak",
+    "pos": "noun",
+    "example": "Her leg hurts when she walks.",
+    "exampleTr": "Yürürken bacağı ağrıyor.",
+    "syn": [],
+    "ant": [],
+    "level": "A1"
+   },
+   {
+    "id": "pain",
+    "en": "pain",
+    "tr": "ağrı, acı",
+    "pos": "noun",
+    "example": "I don't have any pain today.",
+    "exampleTr": "Bugün hiç ağrım yok.",
+    "syn": [
+     "ache"
+    ],
+    "ant": [],
+    "level": "A2"
+   }
+  ],
+  "reading": {
+   "title": "Emre is sick",
+   "text": "Today Emre is sick. He has a fever and a bad cough. His throat hurts, too. Hafsa calls Dr. Lee's office. The receptionist says, \"We have an appointment at 4:00 today.\"\n\nAt 3:45, Hafsa and Emre are at the office. Hafsa has her insurance card in her bag. The receptionist takes the card and writes Emre's name.\n\nThen Dr. Lee asks, \"Emre, do you have a headache?\" \"No, I don't,\" Emre says. \"But my stomach hurts a little.\" Dr. Lee says, \"You don't have a serious problem. Take this medicine and drink water. You have school on Monday.\" Emre is happy, and Hafsa is happy, too.",
+   "glossary": [
+    {
+     "en": "receptionist",
+     "tr": "resepsiyon görevlisi"
+    },
+    {
+     "en": "bag",
+     "tr": "çanta"
+    },
+    {
+     "en": "serious",
+     "tr": "ciddi"
+    },
+    {
+     "en": "a little",
+     "tr": "biraz"
+    }
+   ],
+   "questions": [
+    {
+     "type": "mcq",
+     "q": "What time is the appointment?",
+     "options": [
+      "3:45",
+      "4:00",
+      "Monday"
+     ],
+     "answer": 1,
+     "whyTr": "'We have an appointment at 4:00 today.'",
+     "tag": "reading",
+     "level": "A1"
+    },
+    {
+     "type": "mcq",
+     "q": "Which problem does Emre NOT have?",
+     "options": [
+      "A fever",
+      "A cough",
+      "A headache"
+     ],
+     "answer": 2,
+     "whyTr": "Emre 'No, I don't' diyor; baş ağrısı yok.",
+     "tag": "reading",
+     "level": "A2"
+    },
+    {
+     "type": "mcq",
+     "q": "Who has the insurance card?",
+     "options": [
+      "Hafsa",
+      "Emre",
+      "Dr. Lee"
+     ],
+     "answer": 0,
+     "whyTr": "'Hafsa has her insurance card in her bag.'",
+     "tag": "reading",
+     "level": "A1"
+    },
+    {
+     "type": "mcq",
+     "q": "What does Dr. Lee say?",
+     "options": [
+      "Go to the hospital.",
+      "Take medicine and drink water.",
+      "Stay home next week."
+     ],
+     "answer": 1,
+     "whyTr": "'Take this medicine and drink water.'",
+     "tag": "reading",
+     "level": "A2"
+    }
+   ]
+  }
+ },
+ "evening": {
+  "listening": {
+   "title": "At the clinic desk",
+   "script": [
+    {
+     "speaker": "Receptionist",
+     "text": "Good morning. Valley Health Clinic. How can I help you?"
+    },
+    {
+     "speaker": "Hafsa",
+     "text": "Hello. I have an appointment with Dr. Lee at 10:30."
+    },
+    {
+     "speaker": "Receptionist",
+     "text": "What is your name, please?"
+    },
+    {
+     "speaker": "Hafsa",
+     "text": "My name is Hafsa. H-A-F-S-A."
+    },
+    {
+     "speaker": "Receptionist",
+     "text": "Yes, I see it. Do you have your insurance card?"
+    },
+    {
+     "speaker": "Hafsa",
+     "text": "Yes, I do. Here it is."
+    },
+    {
+     "speaker": "Receptionist",
+     "text": "Thank you. What is the problem today?"
+    },
+    {
+     "speaker": "Hafsa",
+     "text": "I have a bad headache, and my stomach hurts."
+    },
+    {
+     "speaker": "Receptionist",
+     "text": "Do you have a fever?"
+    },
+    {
+     "speaker": "Hafsa",
+     "text": "No, I don't. But I have a cough."
+    },
+    {
+     "speaker": "Receptionist",
+     "text": "OK. Please sit down. The nurse is ready in ten minutes."
+    },
+    {
+     "speaker": "Hafsa",
+     "text": "Thank you very much."
+    }
+   ],
+   "questions": [
+    {
+     "type": "mcq",
+     "q": "What time is Hafsa's appointment?",
+     "options": [
+      "10:30",
+      "10:00",
+      "3:30"
+     ],
+     "answer": 0,
+     "whyTr": "'I have an appointment with Dr. Lee at 10:30.'",
+     "tag": "listening",
+     "level": "A1"
+    },
+    {
+     "type": "mcq",
+     "q": "Does Hafsa have her insurance card?",
+     "options": [
+      "No, she doesn't.",
+      "Yes, she does.",
+      "Her husband has it."
+     ],
+     "answer": 1,
+     "whyTr": "'Yes, I do. Here it is.'",
+     "tag": "listening",
+     "level": "A1"
+    },
+    {
+     "type": "mcq",
+     "q": "What problems does Hafsa have?",
+     "options": [
+      "A headache and a stomachache",
+      "A fever and a cough",
+      "A sore arm and a sore leg"
+     ],
+     "answer": 0,
+     "whyTr": "Baş ağrısı var ve karnı ağrıyor.",
+     "tag": "listening",
+     "level": "A2"
+    },
+    {
+     "type": "mcq",
+     "q": "Does Hafsa have a fever?",
+     "options": [
+      "Yes, she does.",
+      "No, she doesn't.",
+      "She doesn't know."
+     ],
+     "answer": 1,
+     "whyTr": "'No, I don't.'",
+     "tag": "listening",
+     "level": "A1"
+    }
+   ]
+  },
+  "writing": {
+   "promptTr": "Doktor randevun var. Resepsiyondaki kişiye 4-5 cümleyle durumunu anlat.",
+   "promptEn": "You have a doctor's appointment. Tell the receptionist about your problem in 4-5 sentences.",
+   "frames": [
+    "I have an appointment at ...",
+    "I have a ...",
+    "My ... hurts.",
+    "I don't have a ...",
+    "I have my insurance card."
+   ],
+   "model": "Hello. I have an appointment at 2:00. I have a headache and a cough. My throat hurts. I don't have a fever. I have my insurance card.",
+   "checklistTr": [
+    "I have / she has doğru mu?",
+    "En az bir olumsuz cümle (don't have / doesn't have) yazdın mı?",
+    "my, his, her gibi sahiplik kelimeleri doğru mu?"
+   ],
+   "minWords": 20
+  },
+  "examSet": [
+   {
+    "type": "mcq",
+    "q": "My daughter ___ a fever.",
+    "options": [
+     "have",
+     "has",
+     "haves"
+    ],
+    "answer": 1,
+    "whyTr": "My daughter = she; 'has' gelir.",
+    "tag": "present-simple",
+    "level": "A1"
+   },
+   {
+    "type": "mcq",
+    "q": "My parents ___ a doctor in Isparta.",
+    "options": [
+     "has",
+     "have",
+     "is"
+    ],
+    "answer": 1,
+    "whyTr": "My parents = they; 'have' gelir.",
+    "tag": "present-simple",
+    "level": "A1"
+   },
+   {
+    "type": "mcq",
+    "q": "Linda ___ have a cough today.",
+    "options": [
+     "don't",
+     "isn't",
+     "doesn't"
+    ],
+    "answer": 2,
+    "whyTr": "Linda = she; olumsuz 'doesn't have'.",
+    "tag": "negative-form",
+    "level": "A1"
+   },
+   {
+    "type": "mcq",
+    "q": "___ your son have a headache?",
+    "options": [
+     "Do",
+     "Does",
+     "Is"
+    ],
+    "answer": 1,
+    "whyTr": "Your son = he; soru 'Does ... have?' olur.",
+    "tag": "question-form",
+    "level": "A1"
+   },
+   {
+    "type": "mcq",
+    "q": "Hafsa has a son. ___ name is Emre.",
+    "options": [
+     "His",
+     "Her",
+     "Their"
+    ],
+    "answer": 0,
+    "whyTr": "Emre erkek; 'onun' için his kullanılır.",
+    "tag": "possessive",
+    "level": "A1"
+   },
+   {
+    "type": "mcq",
+    "q": "___ office is on Main Street.",
+    "options": [
+     "Dr. Lee's",
+     "Dr. Lees",
+     "Dr. Lee"
+    ],
+    "answer": 0,
+    "whyTr": "Sahiplik için ismin sonuna 's gelir.",
+    "tag": "possessive",
+    "level": "A1"
+   },
+   {
+    "type": "mcq",
+    "q": "I need an ___ with the doctor.",
+    "options": [
+     "insurance",
+     "appointment",
+     "symptom"
+    ],
+    "answer": 1,
+    "whyTr": "Doktorla görüşmek için randevu (appointment) gerekir.",
+    "tag": "vocab",
+    "level": "A1"
+   },
+   {
+    "type": "mcq",
+    "q": "Take this ___ two times a day.",
+    "options": [
+     "medicine",
+     "throat",
+     "arm"
+    ],
+    "answer": 0,
+    "whyTr": "Günde iki kez ilaç (medicine) alınır.",
+    "tag": "vocab",
+    "level": "A1"
+   },
+   {
+    "type": "mcq",
+    "q": "Which word means the same as 'sick'?",
+    "options": [
+     "ill",
+     "healthy",
+     "tired"
+    ],
+    "answer": 0,
+    "whyTr": "sick ve ill eş anlamlıdır (hasta).",
+    "tag": "synonym",
+    "level": "A2"
+   },
+   {
+    "type": "mcq",
+    "q": "Which word is the opposite of 'healthy'?",
+    "options": [
+     "young",
+     "sick",
+     "clean"
+    ],
+    "answer": 1,
+    "whyTr": "healthy (sağlıklı) ↔ sick (hasta).",
+    "tag": "antonym",
+    "level": "A2"
+   },
+   {
+    "type": "mcq",
+    "q": "Tom has a bad cough. He doesn't have a fever. His wife has an appointment for him at 2:00.\n\nWho has a cough?",
+    "options": [
+     "Tom",
+     "Tom's wife",
+     "Nobody"
+    ],
+    "answer": 0,
+    "whyTr": "'Tom has a bad cough.'",
+    "tag": "reading",
+    "level": "A1"
+   },
+   {
+    "type": "mcq",
+    "q": "Anna is at the clinic. Her throat hurts. She has her insurance card, but she doesn't have a pen. The receptionist has a pen and gives it to Anna.\n\nWhat doesn't Anna have?",
+    "options": [
+     "An insurance card",
+     "A pen",
+     "A sore throat"
+    ],
+    "answer": 1,
+    "whyTr": "'She doesn't have a pen.'",
+    "tag": "reading",
+    "level": "A2"
+   }
+  ]
+ }
+}

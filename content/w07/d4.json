@@ -1,0 +1,811 @@
+{
+ "week": 7,
+ "day": 4,
+ "titleTr": "İşte bir gizem: must ve can't ile tahmin",
+ "theme": "workplace-mystery",
+ "morning": {
+  "grammar": {
+   "topic": "must / can't (çıkarım)",
+   "explainTr": [
+    "'Must' sadece zorunluluk için değildir: bir şeyin büyük ihtimalle doğru olduğunu da gösterir. Bir ipucu görüp 'eminim' dersen must be kullanırsın: The light is on. Someone must be here.",
+    "'Can't' ise 'olamaz, imkânsız' anlamında kullanılır: She can't be at home. I saw her at school. Olumlu çıkarım için must, olumsuz çıkarım için can't kullanırsın; 'mustn't' bunun için kullanılmaz.",
+    "İkisinden sonra da yalın fiil gelir, özne ne olursa olsun -s eklenmez: He must be tired. It can't be true. Emin değilsen might kullan."
+   ],
+   "compareTr": "Türkçede çıkarım 'olmalı' ve 'olamaz' ile yapılır: 'Yorgun olmalı' = He must be tired. 'O olamaz' = It can't be him. İngilizcede 'must' kuvvetli olumlu tahmin, 'can't' kuvvetli olumsuz tahmin; zayıf tahmin için might kullan.",
+   "table": [
+    [
+     "Kesin olumlu tahmin",
+     "must + yalın fiil",
+     "She must be tired."
+    ],
+    [
+     "Kesin olumsuz tahmin",
+     "can't + yalın fiil",
+     "He can't be at home."
+    ],
+    [
+     "Zayıf tahmin",
+     "might + yalın fiil",
+     "It might be a mistake."
+    ],
+    [
+     "Yanlış kullanım",
+     "mustn't ≠ olamaz",
+     "Yasak için: You mustn't run."
+    ],
+    [
+     "Fiil",
+     "must / can't + be + sıfat",
+     "He must be hungry."
+    ]
+   ],
+   "examples": [
+    {
+     "en": "The lights are on. Someone must be here.",
+     "tr": "Işıklar açık. Biri burada olmalı."
+    },
+    {
+     "en": "She can't be sick. I saw her car.",
+     "tr": "Hasta olamaz. Arabasını gördüm."
+    },
+    {
+     "en": "He must be very tired after work.",
+     "tr": "İşten sonra çok yorgun olmalı."
+    },
+    {
+     "en": "That can't be the right key.",
+     "tr": "Bu doğru anahtar olamaz."
+    }
+   ],
+   "exercises": [
+    {
+     "type": "mcq",
+     "q": "The lights are on. Someone ___ be in the office.",
+     "options": [
+      "must",
+      "can't",
+      "must to",
+      "musts"
+     ],
+     "answer": 0,
+     "whyTr": "Kuvvetli çıkarım (eminim): must be.",
+     "tag": "modals",
+     "level": "B1"
+    },
+    {
+     "type": "mcq",
+     "q": "Mr. Brown ___ be at home. I just saw him in the hall.",
+     "options": [
+      "must",
+      "can't",
+      "might to",
+      "has"
+     ],
+     "answer": 1,
+     "whyTr": "Kesin olarak değil (imkânsız): can't be.",
+     "tag": "modals",
+     "level": "B1"
+    },
+    {
+     "type": "mcq",
+     "q": "She worked all night. She ___ be very tired.",
+     "options": [
+      "can't",
+      "mustn't",
+      "must",
+      "don't"
+     ],
+     "answer": 2,
+     "whyTr": "Gece boyunca çalışmış; yorgun olduğundan eminiz: must be.",
+     "tag": "modals",
+     "level": "B1"
+    },
+    {
+     "type": "order",
+     "promptTr": "Cümleyi sırala:",
+     "words": [
+      "very",
+      "hungry",
+      "must",
+      "He",
+      "be"
+     ],
+     "answer": "He must be very hungry",
+     "whyTr": "Çıkarım: must + yalın fiil (be).",
+     "tag": "modals",
+     "level": "B1"
+    },
+    {
+     "type": "order",
+     "promptTr": "Cümleyi sırala:",
+     "words": [
+      "can't",
+      "That",
+      "be",
+      "key",
+      "right",
+      "the"
+     ],
+     "answer": "That can't be the right key",
+     "whyTr": "Çıkarım olumsuzu: can't + be.",
+     "tag": "modals",
+     "level": "B1"
+    },
+    {
+     "type": "mcq",
+     "q": "The classroom is empty. The students ___ be at recess.",
+     "options": [
+      "can't",
+      "mustn't",
+      "don't",
+      "must"
+     ],
+     "answer": 3,
+     "whyTr": "Sınıf boş; çıkarım: must be.",
+     "tag": "modals",
+     "level": "B1"
+    },
+    {
+     "type": "mcq",
+     "q": "Which sentence is correct?",
+     "options": [
+      "It must be Linda at the door.",
+      "It musts be Linda at the door.",
+      "It must to be Linda at the door.",
+      "It must is Linda at the door."
+     ],
+     "answer": 0,
+     "whyTr": "Must -s almaz, to almaz; ardından yalın fiil gelir.",
+     "tag": "modals",
+     "level": "B1"
+    },
+    {
+     "type": "mcq",
+     "q": "\"He can't be home.\" This means:",
+     "options": [
+      "He is not allowed to be home.",
+      "I am sure he is not home.",
+      "Maybe he is home.",
+      "He doesn't like home."
+     ],
+     "answer": 1,
+     "whyTr": "Çıkarımda can't be = olamaz, eminim değil.",
+     "tag": "modals",
+     "level": "B1"
+    },
+    {
+     "type": "mcq",
+     "q": "I'm not sure, but it ___ be a mistake. Let's ask.",
+     "options": [
+      "must",
+      "can't",
+      "might",
+      "has to"
+     ],
+     "answer": 2,
+     "whyTr": "Emin değilsen 'might' kullanılır; 'must' kuvvetli çıkarımdır.",
+     "tag": "modals",
+     "level": "B1"
+    },
+    {
+     "type": "mcq",
+     "q": "As soon as the students ___, I will start the lesson.",
+     "options": [
+      "will sit down",
+      "sat down",
+      "sitting down",
+      "sit down"
+     ],
+     "answer": 3,
+     "whyTr": "Zaman bağlacından sonra Present Simple.",
+     "tag": "future",
+     "level": "B1"
+    },
+    {
+     "type": "fill",
+     "q": "That ___ be Ms. Rivera. She is on vacation this week.",
+     "accept": [
+      "can't",
+      "cannot"
+     ],
+     "hintTr": "kesinlikle olamaz",
+     "whyTr": "Tatilde olduğu için o olamaz: can't be.",
+     "tag": "modals",
+     "level": "B1"
+    },
+    {
+     "type": "mcq",
+     "q": "By the time Mr. Brown arrived, Hafsa ___ the problem.",
+     "options": [
+      "had found",
+      "has found",
+      "finds",
+      "was find"
+     ],
+     "answer": 0,
+     "whyTr": "Önce olan iş Past Perfect: had found.",
+     "tag": "past-simple",
+     "level": "B1"
+    }
+   ]
+  },
+  "vocab": [
+   {
+    "id": "missing",
+    "en": "missing",
+    "tr": "kayıp, eksik",
+    "pos": "adjective",
+    "example": "The sub plan is missing.",
+    "exampleTr": "Vekil öğretmen planı kayıp.",
+    "syn": [
+     "lost"
+    ],
+    "ant": [],
+    "level": "B1"
+   },
+   {
+    "id": "strange",
+    "en": "strange",
+    "tr": "garip, tuhaf",
+    "pos": "adjective",
+    "example": "I heard a strange noise.",
+    "exampleTr": "Garip bir ses duydum.",
+    "syn": [
+     "odd"
+    ],
+    "ant": [
+     "normal"
+    ],
+    "level": "B1"
+   },
+   {
+    "id": "lock",
+    "en": "lock",
+    "tr": "kilitlemek; kilit",
+    "pos": "verb",
+    "example": "Please lock the door at night.",
+    "exampleTr": "Lütfen geceleri kapıyı kilitle.",
+    "syn": [],
+    "ant": [
+     "unlock"
+    ],
+    "level": "B1"
+   },
+   {
+    "id": "key",
+    "en": "key",
+    "tr": "anahtar",
+    "pos": "noun",
+    "example": "I lost my car key.",
+    "exampleTr": "Araba anahtarımı kaybettim.",
+    "syn": [],
+    "ant": [],
+    "level": "B1"
+   },
+   {
+    "id": "empty",
+    "en": "empty",
+    "tr": "boş",
+    "pos": "adjective",
+    "example": "The hallway was empty.",
+    "exampleTr": "Koridor boştu.",
+    "syn": [],
+    "ant": [
+     "full"
+    ],
+    "level": "B1"
+   },
+   {
+    "id": "evidence",
+    "en": "evidence",
+    "tr": "kanıt, delil",
+    "pos": "noun",
+    "example": "There is no evidence of a problem.",
+    "exampleTr": "Bir sorun olduğuna dair kanıt yok.",
+    "syn": [
+     "proof"
+    ],
+    "ant": [],
+    "level": "B1"
+   },
+   {
+    "id": "explain",
+    "en": "explain",
+    "tr": "açıklamak",
+    "pos": "verb",
+    "example": "Can you explain this rule?",
+    "exampleTr": "Bu kuralı açıklayabilir misin?",
+    "syn": [],
+    "ant": [],
+    "level": "B1"
+   },
+   {
+    "id": "reason",
+    "en": "reason",
+    "tr": "sebep",
+    "pos": "noun",
+    "example": "What is the reason for the delay?",
+    "exampleTr": "Gecikmenin sebebi ne?",
+    "syn": [
+     "cause"
+    ],
+    "ant": [],
+    "level": "B1"
+   },
+   {
+    "id": "mistake",
+    "en": "mistake",
+    "tr": "hata",
+    "pos": "noun",
+    "example": "I made a mistake on the form.",
+    "exampleTr": "Formda bir hata yaptım.",
+    "syn": [
+     "error"
+    ],
+    "ant": [],
+    "level": "B1"
+   },
+   {
+    "id": "notice",
+    "en": "notice",
+    "tr": "fark etmek",
+    "pos": "verb",
+    "example": "Did you notice the open window?",
+    "exampleTr": "Açık pencereyi fark ettin mi?",
+    "syn": [
+     "see"
+    ],
+    "ant": [],
+    "level": "B1"
+   },
+   {
+    "id": "disappear",
+    "en": "disappear",
+    "tr": "kaybolmak",
+    "pos": "verb",
+    "example": "My pen disappeared from the desk.",
+    "exampleTr": "Kalemim masadan kayboldu.",
+    "syn": [
+     "vanish"
+    ],
+    "ant": [
+     "appear"
+    ],
+    "level": "B1"
+   },
+   {
+    "id": "certain",
+    "en": "certain",
+    "tr": "emin, kesin",
+    "pos": "adjective",
+    "example": "I am certain it was a mistake.",
+    "exampleTr": "Bunun bir hata olduğundan eminim.",
+    "syn": [
+     "sure"
+    ],
+    "ant": [
+     "uncertain"
+    ],
+    "level": "B1"
+   },
+   {
+    "id": "obvious",
+    "en": "obvious",
+    "tr": "açık, bariz",
+    "pos": "adjective",
+    "example": "The answer is obvious.",
+    "exampleTr": "Cevap çok açık.",
+    "syn": [
+     "clear"
+    ],
+    "ant": [],
+    "level": "B1"
+   },
+   {
+    "id": "clue",
+    "en": "clue",
+    "tr": "ipucu",
+    "pos": "noun",
+    "example": "The wet floor was a clue.",
+    "exampleTr": "Islak zemin bir ipucuydu.",
+    "syn": [
+     "hint"
+    ],
+    "ant": [],
+    "level": "B1"
+   },
+   {
+    "id": "solve",
+    "en": "solve",
+    "tr": "çözmek",
+    "pos": "verb",
+    "example": "They solved the mystery quickly.",
+    "exampleTr": "Gizemi çabucak çözdüler.",
+    "syn": [],
+    "ant": [],
+    "level": "B1"
+   }
+  ],
+  "reading": {
+   "title": "The mystery in room 12",
+   "text": "On Tuesday morning, something strange happened at Lincoln Elementary School. Hafsa arrived early to work as a substitute for Ms. Lopez, the art teacher. But the sub plan was not on the desk, and the room was empty.\n\n\"The lights are on,\" Hafsa thought. \"Someone must be here.\" She noticed a coffee cup on the desk. It was still warm, so the person can't be far away. Then she noticed something else: the supply closet was locked, and the key was missing.\n\nShe went to the front office. Mr. Brown listened to her story and frowned. \"That's odd. Ms. Lopez is never late, so she must be somewhere in the building. And she can't be sick. I saw her car in the parking lot.\" He looked at the clock. \"It's eight o'clock. The students will arrive in thirty minutes.\"\n\nTogether they walked back to the classroom. Suddenly they heard a noise from the closet. Someone was knocking from the inside! Mr. Brown found a spare key and opened the door. It was Ms. Lopez. \"I went in to get some paint,\" she explained, \"and the lock closed behind me. I had my bag and the sub plan in my hands, so they must be in there too.\" She laughed. \"I have been in that closet for twenty minutes!\"\n\nHafsa was relieved. The mystery was solved, and her first day already had a good story to tell.",
+   "glossary": [
+    {
+     "en": "frown",
+     "tr": "kaşlarını çatmak"
+    },
+    {
+     "en": "supply closet",
+     "tr": "malzeme dolabı"
+    },
+    {
+     "en": "knock",
+     "tr": "kapıyı çalmak"
+    },
+    {
+     "en": "relieved",
+     "tr": "rahatlamış"
+    }
+   ],
+   "questions": [
+    {
+     "type": "mcq",
+     "q": "Why did Hafsa think someone must be in the room?",
+     "options": [
+      "The door was open.",
+      "The lights were on and the coffee was warm.",
+      "She heard a loud voice.",
+      "The students were there."
+     ],
+     "answer": 1,
+     "whyTr": "Metin: lights on, warm coffee cup, 'Someone must be here.'",
+     "tag": "reading",
+     "level": "B1"
+    },
+    {
+     "type": "mcq",
+     "q": "What did Hafsa notice about the supply closet?",
+     "options": [
+      "It was open and empty.",
+      "It was full of paint.",
+      "It was locked and the key was missing.",
+      "It was broken."
+     ],
+     "answer": 2,
+     "whyTr": "Metin: 'the supply closet was locked, and the key was missing.'",
+     "tag": "reading",
+     "level": "B1"
+    },
+    {
+     "type": "mcq",
+     "q": "How did Mr. Brown know Ms. Lopez was not sick?",
+     "options": [
+      "She called him.",
+      "She sent an email.",
+      "Hafsa told him.",
+      "He saw her car in the parking lot."
+     ],
+     "answer": 3,
+     "whyTr": "Metin: 'she can't be sick. I saw her car in the parking lot.'",
+     "tag": "reading",
+     "level": "B1"
+    },
+    {
+     "type": "mcq",
+     "q": "Where was Ms. Lopez?",
+     "options": [
+      "Inside the supply closet",
+      "In the front office",
+      "At home",
+      "In the parking lot"
+     ],
+     "answer": 0,
+     "whyTr": "Metin: 'It was Ms. Lopez' knocking from inside the closet.",
+     "tag": "reading",
+     "level": "B1"
+    }
+   ]
+  }
+ },
+ "evening": {
+  "listening": {
+   "title": "The missing laptop",
+   "script": [
+    {
+     "speaker": "Hafsa",
+     "text": "Mr. Brown, the class laptop is missing from my cart."
+    },
+    {
+     "speaker": "Mr. Brown",
+     "text": "That's strange. When did you see it last?"
+    },
+    {
+     "speaker": "Hafsa",
+     "text": "Yesterday afternoon. It was there when I left."
+    },
+    {
+     "speaker": "Mr. Brown",
+     "text": "Someone must be using it. Maybe another teacher."
+    },
+    {
+     "speaker": "Hafsa",
+     "text": "It can't be a teacher. All the teachers are in the meeting right now."
+    },
+    {
+     "speaker": "Mr. Brown",
+     "text": "True. Then it must be in the library. The librarian often borrows them."
+    },
+    {
+     "speaker": "Hafsa",
+     "text": "She can't be there today. The library is closed for painting."
+    },
+    {
+     "speaker": "Mr. Brown",
+     "text": "Hmm. Wait, look. There is a light in the computer lab. Someone must be in there."
+    },
+    {
+     "speaker": "Hafsa",
+     "text": "Let's go and check."
+    },
+    {
+     "speaker": "Mr. Brown",
+     "text": "Oh, it's Mr. Hill, the technology teacher. He must be updating the laptops."
+    },
+    {
+     "speaker": "Hafsa",
+     "text": "That explains it! It was an easy mystery to solve."
+    },
+    {
+     "speaker": "Mr. Brown",
+     "text": "Yes. But he should tell us next time."
+    }
+   ],
+   "questions": [
+    {
+     "type": "mcq",
+     "q": "What is missing?",
+     "options": [
+      "A key",
+      "A class laptop",
+      "A sub plan",
+      "A coffee cup"
+     ],
+     "answer": 1,
+     "whyTr": "Hafsa: 'the class laptop is missing from my cart.'",
+     "tag": "listening",
+     "level": "B1"
+    },
+    {
+     "type": "mcq",
+     "q": "Why can't a teacher have it?",
+     "options": [
+      "The teachers are on vacation.",
+      "The teachers don't like laptops.",
+      "All the teachers are in a meeting.",
+      "The teachers are at lunch."
+     ],
+     "answer": 2,
+     "whyTr": "Hafsa: 'All the teachers are in the meeting right now.'",
+     "tag": "listening",
+     "level": "B1"
+    },
+    {
+     "type": "mcq",
+     "q": "Why must someone be in the computer lab?",
+     "options": [
+      "The door is open.",
+      "Mr. Brown has a key.",
+      "Someone is talking.",
+      "There is a light on."
+     ],
+     "answer": 3,
+     "whyTr": "Mr. Brown: 'There is a light in the computer lab. Someone must be in there.'",
+     "tag": "listening",
+     "level": "B1"
+    },
+    {
+     "type": "mcq",
+     "q": "Who has the laptop?",
+     "options": [
+      "Mr. Hill, the technology teacher",
+      "The librarian",
+      "Mr. Brown",
+      "Emre"
+     ],
+     "answer": 0,
+     "whyTr": "Mr. Brown: 'it's Mr. Hill... He must be updating the laptops.'",
+     "tag": "listening",
+     "level": "B1"
+    }
+   ]
+  },
+  "writing": {
+   "promptTr": "İşte ya da okulda yaşadığın küçük bir gizemi anlat. must, can't ve might ile çıkarım yap (80-120 kelime).",
+   "promptEn": "Write about a small mystery at work or at school. Use must, can't and might to make guesses.",
+   "frames": [
+    "Something strange happened: ...",
+    "Someone must be ... because ...",
+    "It can't be ... because ...",
+    "Maybe it might be ..."
+   ],
+   "model": "Yesterday I noticed a strange problem at the school. The coffee machine was empty, and my pen was missing from the desk. First I thought, someone must be using the machine. But it can't be a teacher, because everyone was in a meeting. Maybe the student helper took the pen, or it might be a simple mistake. I looked for clues. In the end, I found my pen in my bag! It was obvious, and I felt silly. Now I always check before I ask.",
+   "checklistTr": [
+    "En az bir 'must be' ve bir 'can't be' kullandın mı?",
+    "Çıkarımın nedenini 'because' ile yazdın mı?",
+    "Emin olmadığın bir fikirde 'might' kullandın mı?",
+    "Must / can't'ten sonra yalın fiil var mı?"
+   ],
+   "minWords": 80
+  },
+  "examSet": [
+   {
+    "type": "mcq",
+    "q": "The classroom light is on. Someone ___ be inside.",
+    "options": [
+     "can't",
+     "must",
+     "mustn't",
+     "don't"
+    ],
+    "answer": 1,
+    "whyTr": "Kuvvetli çıkarım: must be.",
+    "tag": "modals",
+    "level": "B1"
+   },
+   {
+    "type": "mcq",
+    "q": "Linda ___ be at work. I saw her at the park a minute ago.",
+    "options": [
+     "must",
+     "might to",
+     "can't",
+     "has"
+    ],
+    "answer": 2,
+    "whyTr": "Az önce parkta gördüm; işte olamaz.",
+    "tag": "modals",
+    "level": "B1"
+   },
+   {
+    "type": "mcq",
+    "q": "As soon as the bell ___, the students will line up.",
+    "options": [
+     "will ring",
+     "rang",
+     "ringing",
+     "rings"
+    ],
+    "answer": 3,
+    "whyTr": "Zaman bağlacından sonra Present Simple.",
+    "tag": "future",
+    "level": "B1"
+   },
+   {
+    "type": "mcq",
+    "q": "Which sentence is correct?",
+    "options": [
+     "He must be the new principal.",
+     "He musts be the new principal.",
+     "He must is the new principal.",
+     "He must to be the new principal."
+    ],
+    "answer": 0,
+    "whyTr": "Must + yalın fiil.",
+    "tag": "modals",
+    "level": "B1"
+   },
+   {
+    "type": "mcq",
+    "q": "I can't open the door. I lost my ___.",
+    "options": [
+     "clue",
+     "key",
+     "reason",
+     "mistake"
+    ],
+    "answer": 1,
+    "whyTr": "Kapıyı açan şey anahtardır (key).",
+    "tag": "vocab",
+    "level": "B1"
+   },
+   {
+    "type": "mcq",
+    "q": "The box is ___. There is nothing inside.",
+    "options": [
+     "strange",
+     "missing",
+     "empty",
+     "certain"
+    ],
+    "answer": 2,
+    "whyTr": "İçinde bir şey yok = empty.",
+    "tag": "vocab",
+    "level": "B1"
+   },
+   {
+    "type": "mcq",
+    "q": "Please ___ this rule again. I don't understand it.",
+    "options": [
+     "lock",
+     "notice",
+     "solve",
+     "explain"
+    ],
+    "answer": 3,
+    "whyTr": "Kuralı açıklamak = explain.",
+    "tag": "vocab",
+    "level": "B1"
+   },
+   {
+    "type": "mcq",
+    "q": "Which word means almost the same as \"strange\"?",
+    "options": [
+     "odd",
+     "clear",
+     "empty",
+     "certain"
+    ],
+    "answer": 0,
+    "whyTr": "Strange ve odd: garip.",
+    "tag": "synonym",
+    "level": "B2"
+   },
+   {
+    "type": "mcq",
+    "q": "What is the opposite of \"disappear\"?",
+    "options": [
+     "lose",
+     "appear",
+     "hide",
+     "leave"
+    ],
+    "answer": 1,
+    "whyTr": "Disappear'in zıttı appear.",
+    "tag": "antonym",
+    "level": "B2"
+   },
+   {
+    "type": "mcq",
+    "q": "By the time we found the key, the office ___.",
+    "options": [
+     "has closed",
+     "closing",
+     "had closed",
+     "was close"
+    ],
+    "answer": 2,
+    "whyTr": "Anahtarı bulmadan önce ofis kapanmıştı.",
+    "tag": "past-simple",
+    "level": "B1"
+   },
+   {
+    "type": "mcq",
+    "q": "Sam's classroom is very quiet. The students are looking down at their desks, and nobody is talking. They must be taking a test.\n\nWhat does the writer think?",
+    "options": [
+     "The students are on a field trip.",
+     "The students are in the library.",
+     "The class is empty.",
+     "The students are probably taking a test."
+    ],
+    "answer": 3,
+    "whyTr": "Metin: 'They must be taking a test' = tahmin.",
+    "tag": "reading",
+    "level": "B1"
+   },
+   {
+    "type": "mcq",
+    "q": "The principal's door is closed, and the light is off. Her car isn't in the parking lot. She can't be in the building.\n\nWhat is the writer sure about?",
+    "options": [
+     "The principal is not in the building.",
+     "The principal is sick.",
+     "The principal is at lunch.",
+     "The principal is on vacation."
+    ],
+    "answer": 0,
+    "whyTr": "Metin: 'She can't be in the building.'",
+    "tag": "reading",
+    "level": "B1"
+   }
+  ]
+ }
+}

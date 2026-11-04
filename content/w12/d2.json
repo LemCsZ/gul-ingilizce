@@ -1,0 +1,937 @@
+{
+ "week": 12,
+ "day": 2,
+ "titleTr": "Uzun bir sabah: had been + V-ing",
+ "theme": "school-day",
+ "morning": {
+  "grammar": {
+   "topic": "Past Perfect Continuous (had been + V-ing)",
+   "explainTr": [
+    "Geçmişteki bir andan önce başlayıp o ana kadar süren eylemi anlatır: had been + V-ing. Genellikle for (süre) ve since (başlangıç) ile gelir: She had been waiting for an hour when the bus came.",
+    "İkinci kullanımı sebep göstermektir: Her eyes were red because she had been crying. Burada eylemin kendisi (süreç) önemlidir. Past perfect ise sonucu ya da sayıyı vurgular: She had finished three worksheets.",
+    "Durum fiilleri (know, like, have, want) continuous yapılmaz: I had known him for years (had been knowing değil). Soru: How long had she been working? Olumsuz: She hadn't been sleeping well."
+   ],
+   "compareTr": "Türkçede 'Bir saattir bekliyordu' cümlesi tek bir yapıdır. İngilizcede geçmişteki bir anı da vermen gerekir: She had been waiting for an hour when I arrived (Ben geldiğimde bir saattir bekliyordu).",
+   "table": [
+    [
+     "Olumlu",
+     "had been + V-ing",
+     "She had been working."
+    ],
+    [
+     "Olumsuz",
+     "hadn't been + V-ing",
+     "They hadn't been listening."
+    ],
+    [
+     "Soru",
+     "Had + özne + been + V-ing?",
+     "Had you been waiting long?"
+    ],
+    [
+     "Süre / başlangıç",
+     "for / since",
+     "for two hours / since six"
+    ]
+   ],
+   "examples": [
+    {
+     "en": "Hafsa had been preparing since five a.m.",
+     "tr": "Hafsa sabah beşten beri hazırlanıyordu."
+    },
+    {
+     "en": "The students had been waiting for fifteen minutes.",
+     "tr": "Öğrenciler on beş dakikadır bekliyordu."
+    },
+    {
+     "en": "Her feet hurt because she had been standing all morning.",
+     "tr": "Ayakları ağrıyordu çünkü bütün sabah ayakta durmuştu."
+    },
+    {
+     "en": "How long had you been teaching when you moved?",
+     "tr": "Taşındığında ne kadar zamandır öğretmenlik yapıyordun?"
+    }
+   ],
+   "exercises": [
+    {
+     "type": "mcq",
+     "q": "Hafsa was exhausted because she ___ since five a.m.",
+     "options": [
+      "had been working",
+      "had worked",
+      "was worked",
+      "has been working"
+     ],
+     "answer": 0,
+     "whyTr": "Geçmişteki bir ana kadar süren eylem ve sebep: had been + V-ing.",
+     "tag": "past-simple",
+     "level": "B2"
+    },
+    {
+     "type": "mcq",
+     "q": "When Mr. Brown called, Hafsa ___ for the sub plan for twenty minutes.",
+     "options": [
+      "has been looking",
+      "was look",
+      "had been looking",
+      "looked"
+     ],
+     "answer": 2,
+     "whyTr": "Aramaya aramadan önce başlamış, arama sırasında sürüyordu: had been looking.",
+     "tag": "past-simple",
+     "level": "B2"
+    },
+    {
+     "type": "order",
+     "promptTr": "Cümleyi sırala:",
+     "words": [
+      "had",
+      "The",
+      "waiting",
+      "for",
+      "minutes",
+      "ten",
+      "children",
+      "outside",
+      "been"
+     ],
+     "answer": "The children had been waiting outside for ten minutes",
+     "whyTr": "Had been + V-ing + for + süre sırası.",
+     "tag": "past-simple",
+     "level": "B2"
+    },
+    {
+     "type": "mcq",
+     "q": "Her hands were covered in ink. She ___ the copier.",
+     "options": [
+      "has been fixing",
+      "had been fixing",
+      "would fix",
+      "fixes"
+     ],
+     "answer": 1,
+     "whyTr": "Elleri mürekkepli: süreç sebep oluyor, had been fixing.",
+     "tag": "past-simple",
+     "level": "B2"
+    },
+    {
+     "type": "mcq",
+     "q": "Hafsa ___ three worksheets by nine o'clock.",
+     "options": [
+      "had been finishing",
+      "was finishing",
+      "had finished",
+      "has finished"
+     ],
+     "answer": 2,
+     "whyTr": "Sayı (three worksheets) sonucu gösterir: past perfect.",
+     "tag": "past-simple",
+     "level": "B2"
+    },
+    {
+     "type": "order",
+     "promptTr": "Soruyu sırala:",
+     "words": [
+      "standing",
+      "bell",
+      "when",
+      "been",
+      "there",
+      "long",
+      "the",
+      "she",
+      "rang?",
+      "had",
+      "How"
+     ],
+     "answer": "How long had she been standing there when the bell rang?",
+     "whyTr": "Soru: How long + had + özne + been + V-ing?",
+     "tag": "question-form",
+     "level": "B2"
+    },
+    {
+     "type": "mcq",
+     "q": "I ___ Linda for ten years before she moved away.",
+     "options": [
+      "had been knowing",
+      "was knowing",
+      "had known",
+      "have known"
+     ],
+     "answer": 2,
+     "whyTr": "Know durum fiilidir, continuous yapılmaz: had known.",
+     "tag": "past-simple",
+     "level": "B2"
+    },
+    {
+     "type": "fill",
+     "q": "She had been ___ for the bus for an hour. (wait)",
+     "accept": [
+      "waiting"
+     ],
+     "hintTr": "wait + -ing",
+     "whyTr": "had been'den sonra V-ing gelir: waiting.",
+     "tag": "past-simple",
+     "level": "B2"
+    },
+    {
+     "type": "mcq",
+     "q": "I ___ English for two years, and it is getting easier.",
+     "options": [
+      "have been studying",
+      "had been studying",
+      "study",
+      "am studied"
+     ],
+     "answer": 0,
+     "whyTr": "Şimdiye kadar süren eylem: present perfect continuous.",
+     "tag": "present-perfect",
+     "level": "B1"
+    },
+    {
+     "type": "mcq",
+     "q": "Hafsa found the key that she ___ in her coat.",
+     "options": [
+      "has left",
+      "had left",
+      "was leaving",
+      "leaves"
+     ],
+     "answer": 1,
+     "whyTr": "Bulmadan önce bırakılmış: had left.",
+     "tag": "past-simple",
+     "level": "B1"
+    },
+    {
+     "type": "mcq",
+     "q": "She was late ___ she had been waiting for a delayed bus.",
+     "options": [
+      "although",
+      "but",
+      "unless",
+      "because"
+     ],
+     "answer": 3,
+     "whyTr": "Sebep bildirir: because.",
+     "tag": "linkers",
+     "level": "B1"
+    },
+    {
+     "type": "mcq",
+     "q": "Which sentence focuses on the long activity, not the result?",
+     "options": [
+      "She had graded thirty papers.",
+      "She had been grading papers all morning.",
+      "She graded thirty papers.",
+      "She has graded thirty papers."
+     ],
+     "answer": 1,
+     "whyTr": "Süreci vurgulayan yapı: had been + V-ing.",
+     "tag": "past-simple",
+     "level": "B2"
+    }
+   ]
+  },
+  "vocab": [
+   {
+    "id": "overwhelmed",
+    "en": "overwhelmed",
+    "tr": "bunalmış",
+    "pos": "adjective",
+    "example": "She felt overwhelmed by the noise in the hallway.",
+    "exampleTr": "Koridordaki gürültüden bunalmış hissetti.",
+    "syn": [
+     "swamped"
+    ],
+    "ant": [],
+    "level": "B2"
+   },
+   {
+    "id": "rush",
+    "en": "rush",
+    "tr": "acele etmek; telaş",
+    "pos": "verb",
+    "example": "Don't rush; read every question carefully.",
+    "exampleTr": "Acele etme; her soruyu dikkatle oku.",
+    "syn": [
+     "hurry"
+    ],
+    "ant": [
+     "dawdle"
+    ],
+    "level": "B2"
+   },
+   {
+    "id": "search",
+    "en": "search",
+    "tr": "aramak",
+    "pos": "verb",
+    "example": "I searched my bag for the room key.",
+    "exampleTr": "Oda anahtarı için çantamı aradım.",
+    "syn": [
+     "look for"
+    ],
+    "ant": [],
+    "level": "B2"
+   },
+   {
+    "id": "frustrated",
+    "en": "frustrated",
+    "tr": "bıkmış, sinirlenmiş",
+    "pos": "adjective",
+    "example": "He felt frustrated when the printer stopped.",
+    "exampleTr": "Yazıcı durunca sinirlendi.",
+    "syn": [
+     "annoyed"
+    ],
+    "ant": [],
+    "level": "B2"
+   },
+   {
+    "id": "stack",
+    "en": "stack",
+    "tr": "yığın; üst üste koymak",
+    "pos": "noun",
+    "example": "A stack of papers sat on the desk.",
+    "exampleTr": "Masanın üstünde bir yığın kâğıt duruyordu.",
+    "syn": [
+     "pile"
+    ],
+    "ant": [],
+    "level": "B2"
+   },
+   {
+    "id": "photocopy",
+    "en": "photocopy",
+    "tr": "fotokopi çekmek",
+    "pos": "verb",
+    "example": "Please photocopy the worksheet for each student.",
+    "exampleTr": "Lütfen çalışma kâğıdını her öğrenci için fotokopi çek.",
+    "syn": [],
+    "ant": [],
+    "level": "B2"
+   },
+   {
+    "id": "tidy",
+    "en": "tidy",
+    "tr": "derli toplu; toplamak",
+    "pos": "adjective",
+    "example": "A tidy classroom helps children focus.",
+    "exampleTr": "Derli toplu bir sınıf çocukların odaklanmasına yardım eder.",
+    "syn": [
+     "neat"
+    ],
+    "ant": [
+     "messy"
+    ],
+    "level": "B2"
+   },
+   {
+    "id": "panic",
+    "en": "panic",
+    "tr": "paniğe kapılmak; panik",
+    "pos": "verb",
+    "example": "Don't panic if the lesson goes wrong.",
+    "exampleTr": "Ders ters giderse paniğe kapılma.",
+    "syn": [],
+    "ant": [],
+    "level": "B2"
+   },
+   {
+    "id": "locate",
+    "en": "locate",
+    "tr": "yerini bulmak",
+    "pos": "verb",
+    "example": "Can you locate the nurse's office?",
+    "exampleTr": "Hemşire odasının yerini bulabilir misin?",
+    "syn": [
+     "find"
+    ],
+    "ant": [],
+    "level": "B2"
+   },
+   {
+    "id": "arrange",
+    "en": "arrange",
+    "tr": "düzenlemek, ayarlamak",
+    "pos": "verb",
+    "example": "She arranged the desks in a circle.",
+    "exampleTr": "Sıraları daire şeklinde düzenledi.",
+    "syn": [
+     "organize"
+    ],
+    "ant": [],
+    "level": "B2"
+   },
+   {
+    "id": "prepare",
+    "en": "prepare",
+    "tr": "hazırlamak, hazırlanmak",
+    "pos": "verb",
+    "example": "Teachers prepare their lessons the night before.",
+    "exampleTr": "Öğretmenler derslerini bir gece önceden hazırlar.",
+    "syn": [],
+    "ant": [],
+    "level": "B2"
+   },
+   {
+    "id": "urgent",
+    "en": "urgent",
+    "tr": "acil",
+    "pos": "adjective",
+    "example": "The office sent an urgent message.",
+    "exampleTr": "Ofis acil bir mesaj gönderdi.",
+    "syn": [
+     "pressing"
+    ],
+    "ant": [],
+    "level": "B2"
+   },
+   {
+    "id": "nervous",
+    "en": "nervous",
+    "tr": "gergin, tedirgin",
+    "pos": "adjective",
+    "example": "Everyone feels nervous on the first day.",
+    "exampleTr": "İlk gün herkes tedirgin olur.",
+    "syn": [
+     "anxious"
+    ],
+    "ant": [
+     "relaxed"
+    ],
+    "level": "B2"
+   },
+   {
+    "id": "rely",
+    "en": "rely",
+    "tr": "güvenmek, dayanmak",
+    "pos": "verb",
+    "example": "Students rely on their teacher for clear rules.",
+    "exampleTr": "Öğrenciler açık kurallar için öğretmenlerine güvenir.",
+    "syn": [
+     "depend"
+    ],
+    "ant": [],
+    "level": "B2"
+   },
+   {
+    "id": "cope",
+    "en": "cope",
+    "tr": "başa çıkmak",
+    "pos": "verb",
+    "example": "She coped well with the long day.",
+    "exampleTr": "Uzun günle iyi başa çıktı.",
+    "syn": [
+     "manage"
+    ],
+    "ant": [],
+    "level": "B2"
+   }
+  ],
+  "reading": {
+   "title": "A very long morning",
+   "text": "By eleven o'clock, Hafsa felt as if she had been working for an entire day. Her alarm had gone off at 5:00 a.m., and she had been preparing ever since. At 5:30 Mr. Brown had called and asked her to cover a sixth-grade class at Jefferson Middle School because the regular teacher had a family emergency. Hafsa had never been to that school, so she had been searching the map on her phone for ten minutes before she finally found the right entrance.\n\nWhen she arrived, the front office was crowded. A woman had been talking to the secretary for so long that Hafsa had to wait twenty minutes for her badge. By the time she reached Room 22, the students had been waiting in the hallway for almost fifteen minutes, and a few of them had been pushing each other. \"Good morning,\" Hafsa said, trying to sound calm. \"Please come in and find your seats.\"\n\nThen she discovered that the sub plan asked her to hand out a worksheet, but the copier was jammed. She had been pressing buttons for ten minutes when a young teacher named Mr. Alvarez came by. \"I have been fighting with this machine all year,\" he laughed, and he fixed it in seconds. Hafsa thanked him, and he added, \"Come to my room at lunch. I have been saving some coffee for you.\"\n\nAround ten thirty, the class had finally settled into silent reading. Hafsa sat down for the first time since she had left home. Her feet hurt, her throat was dry, and her tea had gone cold. A girl in the front row looked at her and whispered, \"Ms. Hafsa, you look tired.\" Hafsa smiled. \"I have been running since five o'clock,\" she said, \"but I am fine.\"\n\nLater she realized that the hardest part had not been the copier or the crowded office. It had been the fear of failing. Once the children started reading, that fear had quietly disappeared.",
+   "glossary": [
+    {
+     "en": "emergency",
+     "tr": "acil durum"
+    },
+    {
+     "en": "badge",
+     "tr": "yaka kartı"
+    },
+    {
+     "en": "jammed",
+     "tr": "sıkışmış"
+    },
+    {
+     "en": "settle into",
+     "tr": "oturmak, yerleşmek"
+    },
+    {
+     "en": "out of breath",
+     "tr": "nefes nefese"
+    }
+   ],
+   "questions": [
+    {
+     "type": "mcq",
+     "q": "Why did Hafsa go to Jefferson Middle School?",
+     "options": [
+      "She wanted a new job there.",
+      "Mr. Alvarez invited her.",
+      "Her son studied there.",
+      "The regular teacher had a family emergency."
+     ],
+     "answer": 3,
+     "whyTr": "Metin: 'the regular teacher had a family emergency'.",
+     "tag": "reading",
+     "level": "B2"
+    },
+    {
+     "type": "mcq",
+     "q": "What had the students been doing before Hafsa arrived?",
+     "options": [
+      "Waiting in the hallway",
+      "Reading in silence",
+      "Cleaning the room",
+      "Playing outside"
+     ],
+     "answer": 0,
+     "whyTr": "Metin: 'had been waiting in the hallway'.",
+     "tag": "reading",
+     "level": "B2"
+    },
+    {
+     "type": "mcq",
+     "q": "What was the problem with the worksheet?",
+     "options": [
+      "It had no answers.",
+      "Hafsa had lost it.",
+      "The copier was jammed.",
+      "It was too difficult."
+     ],
+     "answer": 2,
+     "whyTr": "Metin: 'the copier was jammed'.",
+     "tag": "reading",
+     "level": "B2"
+    },
+    {
+     "type": "mcq",
+     "q": "Why did Hafsa feel so tired at 10:30?",
+     "options": [
+      "She had slept badly.",
+      "She had taught all day.",
+      "She had been waiting for lunch.",
+      "She had been running around since five."
+     ],
+     "answer": 3,
+     "whyTr": "Metin: 'I have been running since five o'clock.'",
+     "tag": "reading",
+     "level": "B2"
+    }
+   ]
+  }
+ },
+ "evening": {
+  "listening": {
+   "title": "A phone call home",
+   "script": [
+    {
+     "speaker": "Emre",
+     "text": "Mom, finally! I had been calling you since noon. Is everything okay?"
+    },
+    {
+     "speaker": "Hafsa",
+     "text": "Yes, sorry. My phone was in my bag, and I had been working without a break."
+    },
+    {
+     "speaker": "Emre",
+     "text": "Without a break? What happened?"
+    },
+    {
+     "speaker": "Hafsa",
+     "text": "Mr. Brown called me at five thirty. A teacher at Jefferson Middle School had an emergency, so I had to cover her class."
+    },
+    {
+     "speaker": "Emre",
+     "text": "At the last minute? Did you find the school?"
+    },
+    {
+     "speaker": "Hafsa",
+     "text": "Eventually. I had been looking at the map for ten minutes before I saw the entrance."
+    },
+    {
+     "speaker": "Emre",
+     "text": "Ha! And the students?"
+    },
+    {
+     "speaker": "Hafsa",
+     "text": "They had been waiting in the hallway, so they were a little noisy at first. But after that they read quietly."
+    },
+    {
+     "speaker": "Emre",
+     "text": "Did you eat anything?"
+    },
+    {
+     "speaker": "Hafsa",
+     "text": "Only a granola bar. Another teacher had been saving some coffee for me, and that helped a lot."
+    },
+    {
+     "speaker": "Emre",
+     "text": "Then I'll make dinner tonight. You rest."
+    },
+    {
+     "speaker": "Hafsa",
+     "text": "Thank you, canim. I really need it."
+    }
+   ],
+   "questions": [
+    {
+     "type": "mcq",
+     "q": "How long had Emre been calling?",
+     "options": [
+      "Since five thirty",
+      "Since noon",
+      "For ten minutes",
+      "Since last night"
+     ],
+     "answer": 1,
+     "whyTr": "Emre: 'I had been calling you since noon.'",
+     "tag": "listening",
+     "level": "B2"
+    },
+    {
+     "type": "mcq",
+     "q": "Why didn't Hafsa answer?",
+     "options": [
+      "She was sleeping.",
+      "Her phone was broken.",
+      "Her phone was in her bag.",
+      "She was talking to Mr. Brown."
+     ],
+     "answer": 2,
+     "whyTr": "Hafsa: 'My phone was in my bag.'",
+     "tag": "listening",
+     "level": "B2"
+    },
+    {
+     "type": "mcq",
+     "q": "What had Hafsa been looking at for ten minutes?",
+     "options": [
+      "A map",
+      "The sub plan",
+      "Her phone messages",
+      "The school badge"
+     ],
+     "answer": 0,
+     "whyTr": "Hafsa: 'I had been looking at the map.'",
+     "tag": "listening",
+     "level": "B2"
+    },
+    {
+     "type": "mcq",
+     "q": "What will Emre do tonight?",
+     "options": [
+      "Call Mr. Brown",
+      "Visit the school",
+      "Make dinner",
+      "Drive Hafsa to work"
+     ],
+     "answer": 2,
+     "whyTr": "Emre: 'I'll make dinner tonight.'",
+     "tag": "listening",
+     "level": "B2"
+    }
+   ]
+  },
+  "writing": {
+   "promptTr": "Uzun ve yorucu geçen bir sabahı anlat. Neden yorgun olduğunu açıklarken en az üç yerde had been + V-ing kullan.",
+   "promptEn": "Write a paragraph (120-180 words) about a long, tiring morning. Explain why you felt that way, using the past perfect continuous.",
+   "frames": [
+    "By ten o'clock, I had been ... for ... hours.",
+    "I was tired because I had been ...",
+    "When ..., I had already been ... for ...",
+    "In the end, ..."
+   ],
+   "model": "Yesterday morning felt endless. By ten o'clock, I had been working for five hours, and I was completely exhausted. I had been getting ready since six, because Mr. Brown had asked me to arrive early. When I reached the school, the students had been waiting in the hallway for a long time, and they were quite noisy. I had been trying to stay calm, but my voice was getting weaker. I was also frustrated because the copier had been jamming all morning, so I had to write the worksheet on the whiteboard. My feet hurt because I had been standing without a break. Finally, at lunchtime, a friendly teacher gave me a cup of coffee. I had never been so grateful for a small thing. After lunch, everything was easier, and I realized that I could cope with a difficult day.",
+   "checklistTr": [
+    "En az üç yerde had been + V-ing var mı?",
+    "For veya since ile süre ya da başlangıç belirttin mi?",
+    "Know, like, have gibi durum fiillerini continuous yapmadın mı?",
+    "Cümleler büyük harfle başlıyor ve noktayla bitiyor mu?"
+   ],
+   "minWords": 120
+  },
+  "examSet": [
+   {
+    "type": "mcq",
+    "q": "My eyes hurt because I ___ at the screen all morning.",
+    "options": [
+     "had been looking",
+     "have looked",
+     "was looked",
+     "would look"
+    ],
+    "answer": 0,
+    "whyTr": "Sebep olan süreç: had been looking.",
+    "tag": "past-simple",
+    "level": "B2"
+   },
+   {
+    "type": "mcq",
+    "q": "How long ___ the children ___ when the teacher arrived?",
+    "options": [
+     "did / waited",
+     "had / been waiting",
+     "have / waited",
+     "were / waited"
+    ],
+    "answer": 1,
+    "whyTr": "Soru: had + özne + been + V-ing.",
+    "tag": "question-form",
+    "level": "B2"
+   },
+   {
+    "type": "order",
+    "promptTr": "Cümleyi sırala:",
+    "words": [
+     "had",
+     "for",
+     "promoted",
+     "three",
+     "She",
+     "at",
+     "years",
+     "working",
+     "she",
+     "been",
+     "when",
+     "the",
+     "got",
+     "school"
+    ],
+    "answer": "She had been working at the school for three years when she got promoted",
+    "whyTr": "Süre + when + past simple.",
+    "tag": "past-simple",
+    "level": "B2"
+   },
+   {
+    "type": "fill",
+    "q": "He had been ___ the floor all morning. (clean)",
+    "accept": [
+     "cleaning"
+    ],
+    "hintTr": "clean + -ing",
+    "whyTr": "had been'den sonra V-ing gelir.",
+    "tag": "past-simple",
+    "level": "B2"
+   },
+   {
+    "type": "mcq",
+    "q": "When I arrived, Linda ___ a cake, so the kitchen smelled wonderful.",
+    "options": [
+     "bakes",
+     "had been baking",
+     "is baking",
+     "bake"
+    ],
+    "answer": 1,
+    "whyTr": "Geliş anında hâlâ süren/yeni biten eylemin sonucu: had been baking.",
+    "tag": "past-simple",
+    "level": "B2"
+   },
+   {
+    "type": "mcq",
+    "q": "A(n) ___ message needs an answer right now.",
+    "options": [
+     "tidy",
+     "calm",
+     "nervous",
+     "urgent"
+    ],
+    "answer": 3,
+    "whyTr": "Hemen cevap gerektiren: urgent.",
+    "tag": "vocab",
+    "level": "B2"
+   },
+   {
+    "type": "mcq",
+    "q": "Please ___ the desks in rows before the students come.",
+    "options": [
+     "arrange",
+     "rely",
+     "cope",
+     "rush"
+    ],
+    "answer": 0,
+    "whyTr": "Sıraları düzenlemek: arrange.",
+    "tag": "vocab",
+    "level": "B2"
+   },
+   {
+    "type": "mcq",
+    "q": "Which word is closest in meaning to \"frustrated\"?",
+    "options": [
+     "delighted",
+     "relaxed",
+     "annoyed",
+     "curious"
+    ],
+    "answer": 2,
+    "whyTr": "Frustrated ve annoyed benzer anlamlıdır.",
+    "tag": "synonym",
+    "level": "B2"
+   },
+   {
+    "type": "mcq",
+    "q": "What is the opposite of \"tidy\"?",
+    "options": [
+     "clean",
+     "small",
+     "quiet",
+     "messy"
+    ],
+    "answer": 3,
+    "whyTr": "Tidy'nin zıddı messy.",
+    "tag": "antonym",
+    "level": "B2"
+   },
+   {
+    "type": "mcq",
+    "q": "Which word is closest in meaning to \"locate\"?",
+    "options": [
+     "lose",
+     "find",
+     "hide",
+     "break"
+    ],
+    "answer": 1,
+    "whyTr": "Locate ve find benzer anlamlıdır.",
+    "tag": "synonym",
+    "level": "B2"
+   },
+   {
+    "type": "mcq",
+    "q": "Linda had been gardening since eight, and her hands were covered in soil. When Hafsa knocked, Linda was surprised. \"I forgot we had a lunch date!\" she said.\n\nWhy were Linda's hands dirty?",
+    "options": [
+     "She had been cooking.",
+     "She had been painting.",
+     "She had been gardening.",
+     "She had been cleaning."
+    ],
+    "answer": 2,
+    "whyTr": "Metin: 'had been gardening since eight'.",
+    "tag": "reading",
+    "level": "B2"
+   },
+   {
+    "type": "mcq",
+    "q": "The test was supposed to start at ten, but the proctor was missing. The students had been sitting in silence for fifteen minutes when she rushed in, out of breath.\n\nHow long had the students been waiting?",
+    "options": [
+     "For fifteen minutes",
+     "For ten minutes",
+     "For an hour",
+     "Since ten o'clock"
+    ],
+    "answer": 0,
+    "whyTr": "Metin: 'for fifteen minutes'.",
+    "tag": "reading",
+    "level": "B2"
+   },
+   {
+    "type": "mcq",
+    "q": "Which sentence is correct?",
+    "options": [
+     "I had been knowing him for years.",
+     "I was knowing him for years.",
+     "I had known him for years.",
+     "I had knowing him for years."
+    ],
+    "answer": 2,
+    "whyTr": "Know durum fiilidir, continuous yapılmaz.",
+    "tag": "past-simple",
+    "level": "B2"
+   },
+   {
+    "type": "mcq",
+    "q": "When I was little, we ___ in a small house near an orchard in Isparta.",
+    "options": [
+     "used to live",
+     "use to live",
+     "are used to live",
+     "had been lived"
+    ],
+    "answer": 0,
+    "whyTr": "Eski durum için used to + yalın fiil.",
+    "tag": "past-simple",
+    "level": "B1"
+   },
+   {
+    "type": "mcq",
+    "q": "While Hafsa was grading papers, the lights ___.",
+    "options": [
+     "had been going",
+     "went out",
+     "go out",
+     "going out"
+    ],
+    "answer": 1,
+    "whyTr": "Araya giren kısa olay: past simple.",
+    "tag": "past-simple",
+    "level": "B2"
+   },
+   {
+    "type": "mcq",
+    "q": "She ___ for the sub test for three weeks, and she feels ready.",
+    "options": [
+     "had been studying",
+     "studies",
+     "is studied",
+     "has been studying"
+    ],
+    "answer": 3,
+    "whyTr": "Şimdiye kadar süren eylem: present perfect continuous.",
+    "tag": "present-perfect",
+    "level": "B1"
+   },
+   {
+    "type": "mcq",
+    "q": "I ___ my phone at home, so I couldn't call you.",
+    "options": [
+     "leave",
+     "had left",
+     "was leaving",
+     "am leaving"
+    ],
+    "answer": 1,
+    "whyTr": "Önce olmuş eylem: had left.",
+    "tag": "past-simple",
+    "level": "B2"
+   },
+   {
+    "type": "mcq",
+    "q": "She was exhausted, ___ she kept smiling at the students.",
+    "options": [
+     "so",
+     "because",
+     "unless",
+     "but"
+    ],
+    "answer": 3,
+    "whyTr": "Zıtlık: but.",
+    "tag": "linkers",
+    "level": "B1"
+   },
+   {
+    "type": "mcq",
+    "q": "You look tired. You ___ drink more water.",
+    "options": [
+     "should",
+     "can",
+     "will",
+     "may"
+    ],
+    "answer": 0,
+    "whyTr": "Tavsiye için should kullanılır.",
+    "tag": "modals",
+    "level": "B1"
+   },
+   {
+    "type": "mcq",
+    "q": "Which sentence explains a past situation by its cause?",
+    "options": [
+     "Her eyes are red because she cries.",
+     "Her eyes red because she has cried.",
+     "Her eyes were red because she had been crying.",
+     "Her eyes were red so she has been crying."
+    ],
+    "answer": 2,
+    "whyTr": "Sebep: had been crying.",
+    "tag": "past-simple",
+    "level": "B2"
+   }
+  ]
+ }
+}

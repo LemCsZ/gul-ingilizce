@@ -1,0 +1,798 @@
+{
+ "week": 5,
+ "day": 4,
+ "titleTr": "Sağlık tavsiyesi: can, could, should",
+ "theme": "health-advice",
+ "morning": {
+  "grammar": {
+   "topic": "can / could / should (tavsiye)",
+   "explainTr": [
+    "Tavsiye vermek için 'should' kullanılır: You should rest. (Dinlenmelisin.) Olumsuzu 'shouldn't': You shouldn't drink so much coffee. 'Should'dan sonra 'to' gelmez, fiil yalın kalır.",
+    "'Could' bir seçenek önerir: You could take a walk. (İstersen yürüyüşe çıkabilirsin.) 'Could you...?' kibar rica içindir; geçmişte yapabildiğin şeyleri de anlatır: I could swim when I was young.",
+    "'Can' şimdiki yetenek ve izin içindir. Tavsiye sormak için 'Should I...?' denir: Should I see a doctor?"
+   ],
+   "compareTr": "Türkçede tavsiye fiilin sonuna eklenir (dinlenmelisin). İngilizcede 'should' ayrı bir kelimedir ve her özneyle aynı kalır: I / she / they should rest.",
+   "table": [
+    [
+     "Tavsiye",
+     "should + fiil",
+     "You should sleep more."
+    ],
+    [
+     "Olumsuz",
+     "shouldn't + fiil",
+     "You shouldn't work late."
+    ],
+    [
+     "Soru",
+     "Should + özne + fiil?",
+     "Should I see a doctor?"
+    ],
+    [
+     "Öneri",
+     "could + fiil",
+     "You could walk to work."
+    ],
+    [
+     "Kibar rica",
+     "Could you + fiil?",
+     "Could you help me?"
+    ],
+    [
+     "Geçmiş yetenek",
+     "could + fiil",
+     "I could run fast."
+    ]
+   ],
+   "examples": [
+    {
+     "en": "You should sleep eight hours.",
+     "tr": "Sekiz saat uyumalısın."
+    },
+    {
+     "en": "You shouldn't drink so much coffee.",
+     "tr": "Bu kadar çok kahve içmemelisin."
+    },
+    {
+     "en": "You could take a walk after work.",
+     "tr": "İşten sonra yürüyüşe çıkabilirsin."
+    },
+    {
+     "en": "Should I see a doctor?",
+     "tr": "Doktora gitmeli miyim?"
+    },
+    {
+     "en": "Could you help me, please?",
+     "tr": "Bana yardım eder misin lütfen?"
+    }
+   ],
+   "exercises": [
+    {
+     "type": "mcq",
+     "q": "You are tired. You ___ rest.",
+     "options": [
+      "should",
+      "should to",
+      "shoulds",
+      "are should"
+     ],
+     "answer": 0,
+     "whyTr": "Tavsiye: should + yalın fiil.",
+     "tag": "modals",
+     "level": "A2"
+    },
+    {
+     "type": "mcq",
+     "q": "He ___ drink more water.",
+     "options": [
+      "shoulds",
+      "should",
+      "should to",
+      "is should"
+     ],
+     "answer": 1,
+     "whyTr": "'Should' her özneyle aynı kalır; -s almaz.",
+     "tag": "modals",
+     "level": "A2"
+    },
+    {
+     "type": "order",
+     "promptTr": "Cümleyi sırala:",
+     "words": [
+      "to",
+      "bed",
+      "early.",
+      "You",
+      "should",
+      "go"
+     ],
+     "answer": "You should go to bed early.",
+     "whyTr": "Özne + should + fiil + gerisi.",
+     "tag": "modals",
+     "level": "A2"
+    },
+    {
+     "type": "mcq",
+     "q": "You ___ eat so much sugar. It is not good for you.",
+     "options": [
+      "don't should",
+      "not should",
+      "shouldn't",
+      "shouldn't to"
+     ],
+     "answer": 2,
+     "whyTr": "Tavsiye olumsuzu: shouldn't + fiil.",
+     "tag": "modals",
+     "level": "A2"
+    },
+    {
+     "type": "mcq",
+     "q": "___ I take a walk after dinner? Is it a good idea?",
+     "options": [
+      "Do",
+      "Am",
+      "Have",
+      "Should"
+     ],
+     "answer": 3,
+     "whyTr": "Tavsiye sormak: Should I...?",
+     "tag": "question-form",
+     "level": "A2"
+    },
+    {
+     "type": "mcq",
+     "q": "My son can't sleep. You ___ try warm milk.",
+     "options": [
+      "could",
+      "coulds",
+      "are could",
+      "can to"
+     ],
+     "answer": 0,
+     "whyTr": "Öneri sunmak için 'could' kullanılır: You could try...",
+     "tag": "modals",
+     "level": "A2"
+    },
+    {
+     "type": "order",
+     "promptTr": "Cümleyi sırala:",
+     "words": [
+      "work",
+      "too",
+      "late.",
+      "You",
+      "shouldn't"
+     ],
+     "answer": "You shouldn't work too late.",
+     "whyTr": "Olumsuz tavsiye: shouldn't + fiil.",
+     "tag": "modals",
+     "level": "A2"
+    },
+    {
+     "type": "mcq",
+     "q": "When I was young, I ___ run very fast.",
+     "options": [
+      "can",
+      "could",
+      "am able",
+      "coulds"
+     ],
+     "answer": 1,
+     "whyTr": "Geçmişte yapabildiğin için 'could' kullanılır.",
+     "tag": "modals",
+     "level": "A2"
+    },
+    {
+     "type": "mcq",
+     "q": "Which sentence is correct?",
+     "options": [
+      "You should to eat more vegetables.",
+      "You should eating more vegetables.",
+      "You should eat more vegetables.",
+      "You shoulds eat more vegetables."
+     ],
+     "answer": 2,
+     "whyTr": "Should'dan sonra 'to' gelmez.",
+     "tag": "modals",
+     "level": "A2"
+    },
+    {
+     "type": "mcq",
+     "q": "___ you tell me the way to the pharmacy, please?",
+     "options": [
+      "Should",
+      "Are",
+      "Do",
+      "Could"
+     ],
+     "answer": 3,
+     "whyTr": "Kibar rica: Could you...?",
+     "tag": "modals",
+     "level": "A2"
+    },
+    {
+     "type": "fill",
+     "q": "You are very tired. You ___ rest today.",
+     "accept": [
+      "should"
+     ],
+     "hintTr": "tavsiye: -meli",
+     "whyTr": "Tavsiye için 'should' kullanılır.",
+     "tag": "modals",
+     "level": "A2"
+    },
+    {
+     "type": "mcq",
+     "q": "Hafsa has ___ finished her work. She is going home.",
+     "options": [
+      "already",
+      "yet",
+      "ever",
+      "never"
+     ],
+     "answer": 0,
+     "whyTr": "Olumlu cümlede 'already' kullanılır.",
+     "tag": "present-perfect",
+     "level": "A2"
+    }
+   ]
+  },
+  "vocab": [
+   {
+    "id": "advice",
+    "en": "advice",
+    "tr": "tavsiye, öğüt",
+    "pos": "noun",
+    "example": "Thank you for your advice.",
+    "exampleTr": "Tavsiyen için teşekkürler.",
+    "syn": [
+     "tip"
+    ],
+    "ant": [],
+    "level": "A2"
+   },
+   {
+    "id": "rest",
+    "en": "rest",
+    "tr": "dinlenmek; dinlenme",
+    "pos": "verb",
+    "example": "You should rest this weekend.",
+    "exampleTr": "Bu hafta sonu dinlenmelisin.",
+    "syn": [
+     "relax"
+    ],
+    "ant": [],
+    "level": "A2"
+   },
+   {
+    "id": "exercise",
+    "en": "exercise",
+    "tr": "egzersiz yapmak; egzersiz",
+    "pos": "noun",
+    "example": "I exercise three times a week.",
+    "exampleTr": "Haftada üç kez egzersiz yapıyorum.",
+    "syn": [],
+    "ant": [],
+    "level": "A2"
+   },
+   {
+    "id": "sleep",
+    "en": "sleep",
+    "tr": "uyumak; uyku",
+    "pos": "verb",
+    "example": "I sleep seven hours every night.",
+    "exampleTr": "Her gece yedi saat uyuyorum.",
+    "syn": [],
+    "ant": [],
+    "level": "A2"
+   },
+   {
+    "id": "tired",
+    "en": "tired",
+    "tr": "yorgun",
+    "pos": "adjective",
+    "example": "I am very tired after work.",
+    "exampleTr": "İşten sonra çok yorgunum.",
+    "syn": [],
+    "ant": [],
+    "level": "A2"
+   },
+   {
+    "id": "stress",
+    "en": "stress",
+    "tr": "stres",
+    "pos": "noun",
+    "example": "Too much work gives me stress.",
+    "exampleTr": "Çok iş bana stres veriyor.",
+    "syn": [],
+    "ant": [],
+    "level": "A2"
+   },
+   {
+    "id": "relax",
+    "en": "relax",
+    "tr": "rahatlamak",
+    "pos": "verb",
+    "example": "I relax with a cup of tea.",
+    "exampleTr": "Bir fincan çayla rahatlarım.",
+    "syn": [
+     "rest"
+    ],
+    "ant": [],
+    "level": "A2"
+   },
+   {
+    "id": "diet",
+    "en": "diet",
+    "tr": "beslenme düzeni; diyet",
+    "pos": "noun",
+    "example": "A healthy diet has many vegetables.",
+    "exampleTr": "Sağlıklı bir beslenmede çok sebze vardır.",
+    "syn": [],
+    "ant": [],
+    "level": "A2"
+   },
+   {
+    "id": "vitamin",
+    "en": "vitamin",
+    "tr": "vitamin",
+    "pos": "noun",
+    "example": "Oranges have a lot of vitamin C.",
+    "exampleTr": "Portakalda çok C vitamini vardır.",
+    "syn": [],
+    "ant": [],
+    "level": "A2"
+   },
+   {
+    "id": "energy",
+    "en": "energy",
+    "tr": "enerji",
+    "pos": "noun",
+    "example": "Breakfast gives me energy.",
+    "exampleTr": "Kahvaltı bana enerji verir.",
+    "syn": [],
+    "ant": [],
+    "level": "A2"
+   },
+   {
+    "id": "habit",
+    "en": "habit",
+    "tr": "alışkanlık",
+    "pos": "noun",
+    "example": "Drinking water is a good habit.",
+    "exampleTr": "Su içmek iyi bir alışkanlık.",
+    "syn": [],
+    "ant": [],
+    "level": "A2"
+   },
+   {
+    "id": "walk",
+    "en": "walk",
+    "tr": "yürümek; yürüyüş",
+    "pos": "verb",
+    "example": "I walk to school every morning.",
+    "exampleTr": "Her sabah okula yürüyorum.",
+    "syn": [],
+    "ant": [],
+    "level": "A2"
+   },
+   {
+    "id": "vegetable",
+    "en": "vegetable",
+    "tr": "sebze",
+    "pos": "noun",
+    "example": "Eat more vegetables.",
+    "exampleTr": "Daha çok sebze ye.",
+    "syn": [],
+    "ant": [],
+    "level": "A2"
+   },
+   {
+    "id": "sugar",
+    "en": "sugar",
+    "tr": "şeker",
+    "pos": "noun",
+    "example": "Don't put sugar in your tea.",
+    "exampleTr": "Çayına şeker koyma.",
+    "syn": [],
+    "ant": [],
+    "level": "A2"
+   },
+   {
+    "id": "water",
+    "en": "water",
+    "tr": "su",
+    "pos": "noun",
+    "example": "You should drink eight glasses of water a day.",
+    "exampleTr": "Günde sekiz bardak su içmelisin.",
+    "syn": [],
+    "ant": [],
+    "level": "A2"
+   }
+  ],
+  "reading": {
+   "title": "Advice from a friend",
+   "text": "Hafsa is tired. She works all day, studies English at night, and sleeps only five hours. On Saturday, her neighbor Linda comes for tea and says, \"You look very tired. Can I give you some advice?\"\n\n\"Please,\" says Hafsa.\n\n\"First, you should sleep more. Seven or eight hours is better. You shouldn't study English after eleven o'clock. Second, you should eat more vegetables and drink more water. You shouldn't put so much sugar in your tea!\" Hafsa laughs. \"Third, you should take a short walk every day. It gives you energy and helps with stress.\"\n\n\"I can walk to the park after work,\" says Hafsa. \"Good idea,\" says Linda. \"You could invite me. I need exercise, too!\" Hafsa smiles. Now she has a plan and a new walking friend.",
+   "glossary": [
+    {
+     "en": "look tired",
+     "tr": "yorgun görünmek"
+    },
+    {
+     "en": "plan",
+     "tr": "plan"
+    },
+    {
+     "en": "invite",
+     "tr": "davet etmek"
+    },
+    {
+     "en": "helps with",
+     "tr": "... konusunda yardımcı olur"
+    }
+   ],
+   "questions": [
+    {
+     "type": "mcq",
+     "q": "How many hours does Hafsa sleep?",
+     "options": [
+      "Seven hours",
+      "Five hours",
+      "Eight hours",
+      "Three hours"
+     ],
+     "answer": 1,
+     "whyTr": "Metin: 'sleeps only five hours'.",
+     "tag": "reading",
+     "level": "A2"
+    },
+    {
+     "type": "mcq",
+     "q": "What shouldn't Hafsa do after eleven o'clock?",
+     "options": [
+      "Drink water",
+      "Walk",
+      "Study English",
+      "Eat vegetables"
+     ],
+     "answer": 2,
+     "whyTr": "Metin: 'You shouldn't study English after eleven o'clock.'",
+     "tag": "reading",
+     "level": "A2"
+    },
+    {
+     "type": "mcq",
+     "q": "What does a short walk give her?",
+     "options": [
+      "Sugar",
+      "Vitamins",
+      "Money",
+      "Energy"
+     ],
+     "answer": 3,
+     "whyTr": "Metin: 'It gives you energy'.",
+     "tag": "reading",
+     "level": "A2"
+    },
+    {
+     "type": "mcq",
+     "q": "What does Linda want to do?",
+     "options": [
+      "Walk with Hafsa",
+      "Drink more tea",
+      "Study English",
+      "Cook dinner"
+     ],
+     "answer": 0,
+     "whyTr": "Metin: 'You could invite me. I need exercise, too!'",
+     "tag": "reading",
+     "level": "A2"
+    }
+   ]
+  }
+ },
+ "evening": {
+  "listening": {
+   "title": "Advice from the doctor",
+   "script": [
+    {
+     "speaker": "Doctor",
+     "text": "Hello, Hafsa. What is the problem today?"
+    },
+    {
+     "speaker": "Hafsa",
+     "text": "I am always tired, and I have a lot of stress."
+    },
+    {
+     "speaker": "Doctor",
+     "text": "How many hours do you sleep?"
+    },
+    {
+     "speaker": "Hafsa",
+     "text": "About five hours a night."
+    },
+    {
+     "speaker": "Doctor",
+     "text": "That is not enough. You should sleep seven or eight hours."
+    },
+    {
+     "speaker": "Hafsa",
+     "text": "But I work and study. I don't have much time."
+    },
+    {
+     "speaker": "Doctor",
+     "text": "You shouldn't study late at night. You could study in the morning instead."
+    },
+    {
+     "speaker": "Hafsa",
+     "text": "Okay. What about food?"
+    },
+    {
+     "speaker": "Doctor",
+     "text": "You should eat more vegetables and drink more water. You shouldn't drink so much coffee."
+    },
+    {
+     "speaker": "Hafsa",
+     "text": "Can I take a vitamin?"
+    },
+    {
+     "speaker": "Doctor",
+     "text": "You could, but a good diet is better. Also, you should walk for thirty minutes every day."
+    },
+    {
+     "speaker": "Hafsa",
+     "text": "That sounds easy. Thank you, Doctor."
+    },
+    {
+     "speaker": "Doctor",
+     "text": "Come back in a month, and we can talk again."
+    }
+   ],
+   "questions": [
+    {
+     "type": "mcq",
+     "q": "What is Hafsa's problem?",
+     "options": [
+      "She has a fever.",
+      "She is tired and has stress.",
+      "She can't walk.",
+      "She has no job."
+     ],
+     "answer": 1,
+     "whyTr": "Hafsa: 'I am always tired, and I have a lot of stress.'",
+     "tag": "listening",
+     "level": "A2"
+    },
+    {
+     "type": "mcq",
+     "q": "How many hours does she sleep?",
+     "options": [
+      "About seven",
+      "About eight",
+      "About five",
+      "About three"
+     ],
+     "answer": 2,
+     "whyTr": "Hafsa: 'About five hours a night.'",
+     "tag": "listening",
+     "level": "A2"
+    },
+    {
+     "type": "mcq",
+     "q": "What shouldn't she drink too much?",
+     "options": [
+      "Water",
+      "Milk",
+      "Tea",
+      "Coffee"
+     ],
+     "answer": 3,
+     "whyTr": "Doctor: 'You shouldn't drink so much coffee.'",
+     "tag": "listening",
+     "level": "A2"
+    },
+    {
+     "type": "mcq",
+     "q": "How long should she walk every day?",
+     "options": [
+      "Thirty minutes",
+      "Ten minutes",
+      "Two hours",
+      "One hour"
+     ],
+     "answer": 0,
+     "whyTr": "Doctor: 'walk for thirty minutes every day'.",
+     "tag": "listening",
+     "level": "A2"
+    }
+   ]
+  },
+  "writing": {
+   "promptTr": "Yorgun bir arkadaşa 4-5 cümlelik tavsiye yaz.",
+   "promptEn": "Give a tired friend 4-5 sentences of advice.",
+   "frames": [
+    "You should ...",
+    "You shouldn't ...",
+    "You could ...",
+    "It is good for you because ..."
+   ],
+   "model": "You should sleep eight hours every night. You should drink more water. You shouldn't drink coffee after dinner. You could take a walk after work. It is good for you.",
+   "checklistTr": [
+    "Should'dan sonra yalın fiil var mı (should to go değil)?",
+    "En az bir 'shouldn't' cümlen var mı?",
+    "Cümleler büyük harfle başlıyor ve noktayla bitiyor mu?"
+   ],
+   "minWords": 30
+  },
+  "examSet": [
+   {
+    "type": "mcq",
+    "q": "You ___ drink more water.",
+    "options": [
+     "should to",
+     "should",
+     "shoulds",
+     "are should"
+    ],
+    "answer": 1,
+    "whyTr": "Tavsiye: should + yalın fiil.",
+    "tag": "modals",
+    "level": "A2"
+   },
+   {
+    "type": "mcq",
+    "q": "You ___ stay up late. It is bad for you.",
+    "options": [
+     "don't should",
+     "not should",
+     "shouldn't",
+     "shouldn't to"
+    ],
+    "answer": 2,
+    "whyTr": "Olumsuz tavsiye: shouldn't.",
+    "tag": "modals",
+    "level": "A2"
+   },
+   {
+    "type": "mcq",
+    "q": "___ you help me with this form, please?",
+    "options": [
+     "Should",
+     "Does",
+     "Are",
+     "Could"
+    ],
+    "answer": 3,
+    "whyTr": "Kibar rica: Could you...?",
+    "tag": "modals",
+    "level": "A2"
+   },
+   {
+    "type": "mcq",
+    "q": "She is ___ happy than before.",
+    "options": [
+     "happier",
+     "more happy",
+     "happyer",
+     "happiest"
+    ],
+    "answer": 0,
+    "whyTr": "-y ile biten sıfat: happy, happier.",
+    "tag": "comparatives",
+    "level": "A2"
+   },
+   {
+    "type": "mcq",
+    "q": "Which word means almost the same as \"rest\"?",
+    "options": [
+     "walk",
+     "relax",
+     "print",
+     "finish"
+    ],
+    "answer": 1,
+    "whyTr": "Rest ve relax benzer anlamlı.",
+    "tag": "synonym",
+    "level": "A2"
+   },
+   {
+    "type": "mcq",
+    "q": "Which word means almost the same as \"advice\"?",
+    "options": [
+     "habit",
+     "diet",
+     "tip",
+     "stress"
+    ],
+    "answer": 2,
+    "whyTr": "Advice ve tip benzer anlamlı.",
+    "tag": "synonym",
+    "level": "A2"
+   },
+   {
+    "type": "mcq",
+    "q": "Fruit and vegetables give you ___ and vitamins.",
+    "options": [
+     "salary",
+     "traffic",
+     "rent",
+     "energy"
+    ],
+    "answer": 3,
+    "whyTr": "Enerji = energy.",
+    "tag": "vocab",
+    "level": "A2"
+   },
+   {
+    "type": "mcq",
+    "q": "Drinking water every day is a good ___.",
+    "options": [
+     "habit",
+     "sugar",
+     "stress",
+     "deadline"
+    ],
+    "answer": 0,
+    "whyTr": "Alışkanlık = habit.",
+    "tag": "vocab",
+    "level": "A2"
+   },
+   {
+    "type": "mcq",
+    "q": "I have ___ finished my work. Now I can rest.",
+    "options": [
+     "yet",
+     "just",
+     "ever",
+     "never"
+    ],
+    "answer": 1,
+    "whyTr": "Az önce bitirdi: just.",
+    "tag": "present-perfect",
+    "level": "A2"
+   },
+   {
+    "type": "mcq",
+    "q": "My son ___ vegetables every day.",
+    "options": [
+     "eat",
+     "eating",
+     "eats",
+     "is eat"
+    ],
+    "answer": 2,
+    "whyTr": "Alışkanlık: Present Simple; he/she/it + -s.",
+    "tag": "present-simple",
+    "level": "A2"
+   },
+   {
+    "type": "mcq",
+    "q": "Sam is tired every day. He sleeps four hours and drinks five cups of coffee. His doctor says, \"You should sleep more.\"\n\nWhat should Sam do?",
+    "options": [
+     "Drink more coffee",
+     "Work more",
+     "Walk less",
+     "Sleep more"
+    ],
+    "answer": 3,
+    "whyTr": "Metin: 'You should sleep more.'",
+    "tag": "reading",
+    "level": "A2"
+   },
+   {
+    "type": "mcq",
+    "q": "Nora walks to work every day. It gives her energy and she has less stress. She never takes the bus now.\n\nWhy does Nora walk?",
+    "options": [
+     "It gives her energy.",
+     "It is cheaper.",
+     "The bus is late.",
+     "She is tired."
+    ],
+    "answer": 0,
+    "whyTr": "Metin: 'It gives her energy'.",
+    "tag": "reading",
+    "level": "A2"
+   }
+  ]
+ }
+}

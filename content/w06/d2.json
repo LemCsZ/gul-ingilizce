@@ -1,0 +1,795 @@
+{
+ "week": 6,
+ "day": 2,
+ "titleTr": "Ne zamandır buradasın? for ve since",
+ "theme": "life-in-the-us",
+ "morning": {
+  "grammar": {
+   "topic": "for / since and How long...?",
+   "explainTr": [
+    "Bir şey geçmişte başladı ve hâlâ devam ediyorsa Present Perfect kullanırsın: I have lived here for six years. İngilizcede 'I live here for six years' denmez.",
+    "for bir süre söyler: for two years, for six months, for a long time. since başlangıç noktası söyler: since 2019, since Monday, since I was a child.",
+    "Soru için How long + have/has + özne + V3 kullanılır: How long have you lived here? Cevap: For seven years. / Since 2019."
+   ],
+   "compareTr": "Türkçede 'altı yıldır buradayım' dersin ve şimdiki zaman kullanırsın. İngilizcede aynı cümle Present Perfect ister: 'I have been here for six years'. 'I am here for six years' yanlıştır.",
+   "table": [
+    [
+     "for + süre",
+     "for two years / for a week",
+     "I have worked here for two years."
+    ],
+    [
+     "since + başlangıç",
+     "since 2019 / since Monday",
+     "She has lived here since 2019."
+    ],
+    [
+     "Soru",
+     "How long + have/has + özne + V3?",
+     "How long have you lived here?"
+    ],
+    [
+     "Kısa cevap",
+     "For ... / Since ...",
+     "For six years. / Since March."
+    ],
+    [
+     "Olumsuz",
+     "haven't / hasn't + V3 + since",
+     "I haven't seen him since Friday."
+    ]
+   ],
+   "examples": [
+    {
+     "en": "I have lived in Texas since 2019.",
+     "tr": "2019'dan beri Texas'ta yaşıyorum."
+    },
+    {
+     "en": "She has worked at the library for three years.",
+     "tr": "Üç yıldır kütüphanede çalışıyor."
+    },
+    {
+     "en": "How long have you known Linda?",
+     "tr": "Linda'yı ne zamandır tanıyorsun?"
+    },
+    {
+     "en": "We haven't seen Emre's teacher since September.",
+     "tr": "Eylül'den beri Emre'nin öğretmenini görmedik."
+    },
+    {
+     "en": "They have been married for ten years.",
+     "tr": "On yıldır evliler."
+    }
+   ],
+   "exercises": [
+    {
+     "type": "mcq",
+     "q": "I have lived in Texas ___ 2020.",
+     "options": [
+      "for",
+      "since",
+      "during",
+      "from"
+     ],
+     "answer": 1,
+     "whyTr": "Başlangıç noktası (2020) için since kullanılır.",
+     "tag": "present-perfect",
+     "level": "B1"
+    },
+    {
+     "type": "mcq",
+     "q": "She has worked at the library ___ three years.",
+     "options": [
+      "since",
+      "from",
+      "at",
+      "for"
+     ],
+     "answer": 3,
+     "whyTr": "Süre (three years) için for kullanılır.",
+     "tag": "present-perfect",
+     "level": "B1"
+    },
+    {
+     "type": "mcq",
+     "q": "___ have you lived in the United States?",
+     "options": [
+      "How long",
+      "How many",
+      "How much",
+      "How often"
+     ],
+     "answer": 0,
+     "whyTr": "Süre sorusu: How long have you...?",
+     "tag": "question-form",
+     "level": "B1"
+    },
+    {
+     "type": "order",
+     "promptTr": "Soruyu sırala:",
+     "words": [
+      "long",
+      "you",
+      "Linda?",
+      "How",
+      "have",
+      "known"
+     ],
+     "answer": "How long have you known Linda?",
+     "whyTr": "Sıra: How long + have + özne + V3.",
+     "tag": "present-perfect",
+     "level": "B1"
+    },
+    {
+     "type": "mcq",
+     "q": "We have been in this apartment ___ six months.",
+     "options": [
+      "since",
+      "ago",
+      "for",
+      "from"
+     ],
+     "answer": 2,
+     "whyTr": "Six months bir süre: for.",
+     "tag": "prepositions-time",
+     "level": "B1"
+    },
+    {
+     "type": "mcq",
+     "q": "Emre has studied English ___ he was six.",
+     "options": [
+      "for",
+      "since",
+      "ago",
+      "during"
+     ],
+     "answer": 1,
+     "whyTr": "'He was six' bir başlangıç anı: since.",
+     "tag": "prepositions-time",
+     "level": "B1"
+    },
+    {
+     "type": "mcq",
+     "q": "Which sentence is correct?",
+     "options": [
+      "I live here since 2020.",
+      "I am living here since 2020.",
+      "I lived here since 2020.",
+      "I have lived here since 2020."
+     ],
+     "answer": 3,
+     "whyTr": "Since ile bugüne uzanan durum: Present Perfect.",
+     "tag": "present-perfect",
+     "level": "B1"
+    },
+    {
+     "type": "order",
+     "promptTr": "Cümleyi sırala:",
+     "words": [
+      "has",
+      "in",
+      "since",
+      "Hafsa",
+      "lived",
+      "Texas",
+      "March."
+     ],
+     "answer": "Hafsa has lived in Texas since March.",
+     "whyTr": "Sıra: özne + has + V3 + yer + since + başlangıç.",
+     "tag": "present-perfect",
+     "level": "B1"
+    },
+    {
+     "type": "mcq",
+     "q": "How long ___ at the school?",
+     "options": [
+      "has Hafsa volunteered",
+      "is Hafsa volunteer",
+      "does Hafsa volunteering",
+      "Hafsa has volunteered"
+     ],
+     "answer": 0,
+     "whyTr": "Soru sırası: has + özne + V3.",
+     "tag": "question-form",
+     "level": "B1"
+    },
+    {
+     "type": "fill",
+     "q": "They have been married ___ ten years.",
+     "accept": [
+      "for"
+     ],
+     "hintTr": "süre için",
+     "whyTr": "Ten years bir süre: for.",
+     "tag": "prepositions-time",
+     "level": "B1"
+    },
+    {
+     "type": "fill",
+     "q": "I haven't seen Linda ___ Monday.",
+     "accept": [
+      "since"
+     ],
+     "hintTr": "başlangıç noktası için",
+     "whyTr": "Monday bir başlangıç noktası: since.",
+     "tag": "prepositions-time",
+     "level": "B1"
+    },
+    {
+     "type": "mcq",
+     "q": "I ___ to Texas in 2020, and I have loved it here.",
+     "options": [
+      "have moved",
+      "move",
+      "moved"
+     ],
+     "answer": 2,
+     "whyTr": "2020 bitmiş belli zaman: Past Simple.",
+     "tag": "past-simple",
+     "level": "B1"
+    }
+   ]
+  },
+  "vocab": [
+   {
+    "id": "settle",
+    "en": "settle",
+    "tr": "yerleşmek, yerleşip düzen kurmak",
+    "pos": "verb",
+    "example": "They settled in Texas in 2019.",
+    "exampleTr": "2019'da Texas'a yerleştiler.",
+    "syn": [],
+    "ant": [],
+    "level": "B1"
+   },
+   {
+    "id": "adapt",
+    "en": "adapt",
+    "tr": "uyum sağlamak, alışmak",
+    "pos": "verb",
+    "example": "It takes time to adapt to a new country.",
+    "exampleTr": "Yeni bir ülkeye uyum sağlamak zaman alır.",
+    "syn": [
+     "adjust"
+    ],
+    "ant": [],
+    "level": "B1"
+   },
+   {
+    "id": "community",
+    "en": "community",
+    "tr": "topluluk, mahalle çevresi",
+    "pos": "noun",
+    "example": "Our community has a small library.",
+    "exampleTr": "Mahallemizin küçük bir kütüphanesi var.",
+    "syn": [],
+    "ant": [],
+    "level": "B1"
+   },
+   {
+    "id": "culture",
+    "en": "culture",
+    "tr": "kültür",
+    "pos": "noun",
+    "example": "I love learning about American culture.",
+    "exampleTr": "Amerikan kültürünü öğrenmeyi seviyorum.",
+    "syn": [],
+    "ant": [],
+    "level": "B1"
+   },
+   {
+    "id": "immigrant",
+    "en": "immigrant",
+    "tr": "göçmen",
+    "pos": "noun",
+    "example": "Many immigrants work in schools.",
+    "exampleTr": "Birçok göçmen okullarda çalışıyor.",
+    "syn": [],
+    "ant": [],
+    "level": "B1"
+   },
+   {
+    "id": "resident",
+    "en": "resident",
+    "tr": "sakin, ikametçi",
+    "pos": "noun",
+    "example": "She is a resident of Dallas.",
+    "exampleTr": "O, Dallas'ın bir sakini.",
+    "syn": [],
+    "ant": [],
+    "level": "B1"
+   },
+   {
+    "id": "permanent",
+    "en": "permanent",
+    "tr": "kalıcı",
+    "pos": "adjective",
+    "example": "He wants a permanent job.",
+    "exampleTr": "Kalıcı bir iş istiyor.",
+    "syn": [],
+    "ant": [
+     "temporary"
+    ],
+    "level": "B1"
+   },
+   {
+    "id": "temporary",
+    "en": "temporary",
+    "tr": "geçici",
+    "pos": "adjective",
+    "example": "This is a temporary position.",
+    "exampleTr": "Bu geçici bir pozisyon.",
+    "syn": [],
+    "ant": [
+     "permanent"
+    ],
+    "level": "B1"
+   },
+   {
+    "id": "local",
+    "en": "local",
+    "tr": "yerel, bölgedeki",
+    "pos": "adjective",
+    "example": "I shop at the local market.",
+    "exampleTr": "Yerel pazardan alışveriş yapıyorum.",
+    "syn": [],
+    "ant": [],
+    "level": "B1"
+   },
+   {
+    "id": "familiar",
+    "en": "familiar",
+    "tr": "tanıdık, aşina",
+    "pos": "adjective",
+    "example": "The street looks familiar to me.",
+    "exampleTr": "Bu sokak bana tanıdık geliyor.",
+    "syn": [],
+    "ant": [
+     "unfamiliar"
+    ],
+    "level": "B1"
+   },
+   {
+    "id": "comfortable",
+    "en": "comfortable",
+    "tr": "rahat",
+    "pos": "adjective",
+    "example": "I feel comfortable at my new school.",
+    "exampleTr": "Yeni okulumda kendimi rahat hissediyorum.",
+    "syn": [],
+    "ant": [
+     "uncomfortable"
+    ],
+    "level": "B1"
+   },
+   {
+    "id": "challenge",
+    "en": "challenge",
+    "tr": "zorluk, meydan okuma",
+    "pos": "noun",
+    "example": "Learning a language is a big challenge.",
+    "exampleTr": "Dil öğrenmek büyük bir zorluk.",
+    "syn": [
+     "difficulty"
+    ],
+    "ant": [],
+    "level": "B1"
+   },
+   {
+    "id": "homesick",
+    "en": "homesick",
+    "tr": "memleket özlemi çeken",
+    "pos": "adjective",
+    "example": "I felt homesick in the first winter.",
+    "exampleTr": "İlk kışta memleket özlemi çektim.",
+    "syn": [],
+    "ant": [],
+    "level": "B1"
+   },
+   {
+    "id": "routine",
+    "en": "routine",
+    "tr": "günlük düzen, rutin",
+    "pos": "noun",
+    "example": "My morning routine is simple.",
+    "exampleTr": "Sabah düzenim basit.",
+    "syn": [],
+    "ant": [],
+    "level": "B1"
+   },
+   {
+    "id": "accent",
+    "en": "accent",
+    "tr": "aksan, şive",
+    "pos": "noun",
+    "example": "She has a Turkish accent.",
+    "exampleTr": "Türkçe aksanı var.",
+    "syn": [],
+    "ant": [],
+    "level": "B1"
+   }
+  ],
+  "reading": {
+   "title": "Seven years in Texas",
+   "text": "Mr. Brown is writing a short welcome story for the school newsletter, and he asks Hafsa a few questions. \"How long have you lived in the United States?\" he asks.\n\n\"Since 2019,\" Hafsa answers. \"It has been almost seven years.\"\n\nAt first, life here was difficult. Hafsa felt homesick, and she was nervous when she spoke English at the bank or the pharmacy. \"My accent was strong, and people sometimes asked me to repeat,\" she remembers. But she did not give up. She has taken English classes for four years, and she has studied a little every day since the first winter.\n\nNow she feels much more comfortable. She has known Linda since the first week in their building, and Linda has become a close friend. Hafsa has been a school volunteer for two years, and the children know her well. She has also learned to drive on American highways, which was the hardest challenge of all.\n\n\"What is your advice for new immigrants?\" Mr. Brown asks.\n\nHafsa laughs. \"Be patient. You haven't lived here long, so you don't know everything yet. Learn something new every day, and ask for help. People are kinder than you expect.\"\n\nMr. Brown writes her last sentence in big letters at the top of the page. \"That is the best advice I have heard this year,\" he says.",
+   "glossary": [
+    {
+     "en": "newsletter",
+     "tr": "okul bülteni"
+    },
+    {
+     "en": "give up",
+     "tr": "pes etmek"
+    },
+    {
+     "en": "highway",
+     "tr": "otoyol"
+    },
+    {
+     "en": "patient",
+     "tr": "sabırlı"
+    },
+    {
+     "en": "advice",
+     "tr": "tavsiye"
+    }
+   ],
+   "questions": [
+    {
+     "type": "mcq",
+     "q": "How long has Hafsa lived in the United States?",
+     "options": [
+      "Almost four years",
+      "Almost seven years",
+      "Since last winter",
+      "Two years"
+     ],
+     "answer": 1,
+     "whyTr": "Metin: 'almost seven years'.",
+     "tag": "reading",
+     "level": "B1"
+    },
+    {
+     "type": "mcq",
+     "q": "What was difficult for Hafsa at first?",
+     "options": [
+      "Finding a job",
+      "Driving a school bus",
+      "Meeting Mr. Brown",
+      "Speaking English and feeling homesick"
+     ],
+     "answer": 3,
+     "whyTr": "Metin: 'felt homesick' ve 'nervous when she spoke English'.",
+     "tag": "reading",
+     "level": "B1"
+    },
+    {
+     "type": "mcq",
+     "q": "How long has Hafsa been a school volunteer?",
+     "options": [
+      "For two years",
+      "Since 2019",
+      "For seven years",
+      "For one month"
+     ],
+     "answer": 0,
+     "whyTr": "Metin: 'Hafsa has been a school volunteer for two years'.",
+     "tag": "reading",
+     "level": "B1"
+    },
+    {
+     "type": "mcq",
+     "q": "What was the hardest challenge for Hafsa?",
+     "options": [
+      "Learning Turkish",
+      "Cooking dinner",
+      "Driving on highways",
+      "Writing a resume"
+     ],
+     "answer": 2,
+     "whyTr": "Metin: 'drive on American highways, which was the hardest challenge'.",
+     "tag": "reading",
+     "level": "B1"
+    }
+   ]
+  }
+ },
+ "evening": {
+  "listening": {
+   "title": "Meeting a new teacher",
+   "script": [
+    {
+     "speaker": "Ms. Carter",
+     "text": "Hi, you must be Hafsa. I'm Ms. Carter. Mr. Brown told me about you."
+    },
+    {
+     "speaker": "Hafsa",
+     "text": "Nice to meet you. I'm a volunteer in the library."
+    },
+    {
+     "speaker": "Ms. Carter",
+     "text": "How long have you volunteered here?"
+    },
+    {
+     "speaker": "Hafsa",
+     "text": "For about two years. And you? How long have you taught at this school?"
+    },
+    {
+     "speaker": "Ms. Carter",
+     "text": "Since 2015. I teach fourth grade, and I love it."
+    },
+    {
+     "speaker": "Hafsa",
+     "text": "That's a long time. I have lived in Texas since 2019, so I'm still learning."
+    },
+    {
+     "speaker": "Ms. Carter",
+     "text": "Where did you live before that?"
+    },
+    {
+     "speaker": "Hafsa",
+     "text": "In Isparta, in Turkey. I lived there for thirty-five years."
+    },
+    {
+     "speaker": "Ms. Carter",
+     "text": "Wow. Do you feel comfortable here now?"
+    },
+    {
+     "speaker": "Hafsa",
+     "text": "Mostly, yes. My neighbor Linda has helped me a lot. We have been friends for six years."
+    },
+    {
+     "speaker": "Ms. Carter",
+     "text": "That is wonderful. Are you free on Thursday? I need a helper for the reading hour."
+    },
+    {
+     "speaker": "Hafsa",
+     "text": "Yes, I'm available. I haven't missed a Thursday since September."
+    }
+   ],
+   "questions": [
+    {
+     "type": "mcq",
+     "q": "How long has Ms. Carter taught at the school?",
+     "options": [
+      "For two years",
+      "Since 2015",
+      "Since 2019",
+      "For six years"
+     ],
+     "answer": 1,
+     "whyTr": "Ms. Carter: 'Since 2015.'",
+     "tag": "listening",
+     "level": "B1"
+    },
+    {
+     "type": "mcq",
+     "q": "Where did Hafsa live for thirty-five years?",
+     "options": [
+      "In Dallas",
+      "In Florida",
+      "In Ankara",
+      "In Isparta"
+     ],
+     "answer": 3,
+     "whyTr": "Hafsa: 'In Isparta... for thirty-five years.'",
+     "tag": "listening",
+     "level": "B1"
+    },
+    {
+     "type": "mcq",
+     "q": "How long have Hafsa and Linda been friends?",
+     "options": [
+      "For six years",
+      "For two years",
+      "Since September",
+      "For thirty years"
+     ],
+     "answer": 0,
+     "whyTr": "Hafsa: 'We have been friends for six years.'",
+     "tag": "listening",
+     "level": "B1"
+    },
+    {
+     "type": "mcq",
+     "q": "What does Ms. Carter need on Thursday?",
+     "options": [
+      "A bus driver",
+      "A new desk",
+      "A helper for the reading hour",
+      "A phone number"
+     ],
+     "answer": 2,
+     "whyTr": "Ms. Carter: 'I need a helper for the reading hour.'",
+     "tag": "listening",
+     "level": "B1"
+    }
+   ]
+  },
+  "writing": {
+   "promptTr": "ABD'deki (ya da bir şehirdeki) hayatını anlatan kısa bir paragraf yaz (80-120 kelime). for ve since kullan.",
+   "promptEn": "Write a paragraph about your life in the United States. Use for and since.",
+   "frames": [
+    "I have lived in ... since ...",
+    "I have studied English for ...",
+    "I have known ... since ...",
+    "At first, ... but now ..."
+   ],
+   "model": "I have lived in Texas since 2019. At first, life here was hard because I felt homesick, and my English was not good. I have studied English for four years, and I study a little every day. Now I feel more comfortable.\n\nI have known my neighbor Linda since my first week here. She has helped me with many things. I have also volunteered at my son's school for two years. The children know me, and I love working with them. My accent is still strong, but people understand me. I hope to become a substitute teacher soon.",
+   "checklistTr": [
+    "Süre için for (for two years), başlangıç noktası için since (since 2019) kullandın mı?",
+    "Have/has + V3 kalıbını kullandın mı?",
+    "'I live here since' gibi hatalı kalıplardan kaçındın mı?",
+    "Cümleler büyük harfle başlıyor mu?"
+   ],
+   "minWords": 70
+  },
+  "examSet": [
+   {
+    "type": "mcq",
+    "q": "My son has played soccer ___ he was five.",
+    "options": [
+     "for",
+     "since",
+     "ago",
+     "during"
+    ],
+    "answer": 1,
+    "whyTr": "Başlangıç noktası: since.",
+    "tag": "prepositions-time",
+    "level": "B1"
+   },
+   {
+    "type": "mcq",
+    "q": "Linda has been a nurse assistant ___ twelve years.",
+    "options": [
+     "since",
+     "from",
+     "ago",
+     "for"
+    ],
+    "answer": 3,
+    "whyTr": "Süre için for.",
+    "tag": "prepositions-time",
+    "level": "B1"
+   },
+   {
+    "type": "mcq",
+    "q": "___ has Mr. Brown worked at the school?",
+    "options": [
+     "How long",
+     "How much",
+     "What time",
+     "How far"
+    ],
+    "answer": 0,
+    "whyTr": "Süre sorusu: How long has...?",
+    "tag": "question-form",
+    "level": "B1"
+   },
+   {
+    "type": "mcq",
+    "q": "Hafsa ___ to the bank yesterday afternoon.",
+    "options": [
+     "has gone",
+     "goes",
+     "went"
+    ],
+    "answer": 2,
+    "whyTr": "Yesterday ile Past Simple.",
+    "tag": "past-simple",
+    "level": "B1"
+   },
+   {
+    "type": "mcq",
+    "q": "___ you ever been to a parent meeting?",
+    "options": [
+     "Did",
+     "Have",
+     "Are"
+    ],
+    "answer": 1,
+    "whyTr": "Deneyim: Have you ever been...?",
+    "tag": "present-perfect",
+    "level": "B1"
+   },
+   {
+    "type": "mcq",
+    "q": "Tomorrow is Saturday. We ___ visit Linda in the afternoon.",
+    "options": [
+     "are going to",
+     "did",
+     "have"
+    ],
+    "answer": 0,
+    "whyTr": "Plan için going to kullanılır.",
+    "tag": "future",
+    "level": "A2"
+   },
+   {
+    "type": "mcq",
+    "q": "Which word means almost the same as \"adapt\"?",
+    "options": [
+     "adjust",
+     "settle",
+     "argue",
+     "hire"
+    ],
+    "answer": 0,
+    "whyTr": "Adapt ve adjust: uyum sağlamak.",
+    "tag": "synonym",
+    "level": "B1"
+   },
+   {
+    "type": "mcq",
+    "q": "What is the opposite of \"permanent\"?",
+    "options": [
+     "familiar",
+     "local",
+     "temporary",
+     "comfortable"
+    ],
+    "answer": 2,
+    "whyTr": "Permanent'ın zıttı temporary.",
+    "tag": "antonym",
+    "level": "B1"
+   },
+   {
+    "type": "mcq",
+    "q": "What is the opposite of \"comfortable\"?",
+    "options": [
+     "familiar",
+     "uncomfortable",
+     "recent",
+     "available"
+    ],
+    "answer": 1,
+    "whyTr": "Comfortable'ın zıttı uncomfortable.",
+    "tag": "antonym",
+    "level": "B1"
+   },
+   {
+    "type": "mcq",
+    "q": "After the move, Hafsa felt ___ and called her mother in Isparta every night.",
+    "options": [
+     "permanent",
+     "local",
+     "familiar",
+     "homesick"
+    ],
+    "answer": 3,
+    "whyTr": "Memleketini özleyen: homesick.",
+    "tag": "vocab",
+    "level": "B1"
+   },
+   {
+    "type": "mcq",
+    "q": "Sam moved to Ohio in 2021. He has worked at a bakery since then. He doesn't have a day off this month.\n\nWhich sentence is true?",
+    "options": [
+     "Sam has worked at a bakery since he moved.",
+     "Sam moved to Ohio this year.",
+     "Sam has a day off this month.",
+     "Sam works at a school."
+    ],
+    "answer": 0,
+    "whyTr": "Metin: 'has worked at a bakery since then'.",
+    "tag": "reading",
+    "level": "B1"
+   },
+   {
+    "type": "mcq",
+    "q": "Learning a new language is a big ___ for many immigrants.",
+    "options": [
+     "routine",
+     "accent",
+     "challenge",
+     "resident"
+    ],
+    "answer": 2,
+    "whyTr": "Zorluk: challenge.",
+    "tag": "vocab",
+    "level": "B1"
+   }
+  ]
+ }
+}

@@ -1,0 +1,960 @@
+{
+ "week": 16,
+ "day": 1,
+ "titleTr": "Tüm zamanlar karışık: mülakata hazırlık",
+ "theme": "interview",
+ "morning": {
+  "grammar": {
+   "topic": "Mixed tenses review",
+   "explainTr": [
+    "Bu hafta sınav haftası: yeni konu yok, bildiklerini birleştiriyoruz. Zaman seçerken önce işaret kelimesine bak: yesterday/ago (past simple), since/for (present perfect), now/Look! (present continuous), tomorrow/next (will, going to).",
+    "Bir olay başka bir olaydan önce bittiyse past perfect (had + V3), başka bir olay sırasında sürüyorsa past continuous (was/were + -ing) kullanılır. 'As soon as, when, if' sonrasında gelecek anlamı olsa bile present simple gelir.",
+    "Sık hata: durum fiilleri (know, like, want, have=sahip) sürekli zamanda kullanılmaz: 'I know' denir, 'I am knowing' denmez."
+   ],
+   "compareTr": "Türkçede 'çalışıyorum' hem şu an hem süre için kullanılır. İngilizcede ayrım var: 'I am working' (şu an), 'I have been working here for two years' (hâlâ süren süre). 'Gitmiştim' ise past perfect: I had gone.",
+   "table": [
+    [
+     "Present simple / continuous",
+     "V1(-s) / am-is-are + -ing",
+     "She works. She is working now."
+    ],
+    [
+     "Past simple / continuous",
+     "V2 / was-were + -ing",
+     "I called. She was cooking."
+    ],
+    [
+     "Present perfect",
+     "have/has + V3",
+     "I have lived here since 2019."
+    ],
+    [
+     "Present perfect cont.",
+     "have/has been + -ing",
+     "I have been studying for a year."
+    ],
+    [
+     "Past perfect",
+     "had + V3",
+     "It had started before I arrived."
+    ],
+    [
+     "Future",
+     "will / am going to",
+     "I will call you. I'm going to apply."
+    ]
+   ],
+   "examples": [
+    {
+     "en": "By the time I arrived, the class had started.",
+     "tr": "Ben vardığımda ders başlamıştı."
+    },
+    {
+     "en": "She was waiting when the phone rang.",
+     "tr": "Telefon çalarken o bekliyordu."
+    },
+    {
+     "en": "I have been studying English for six years.",
+     "tr": "Altı yıldır İngilizce çalışıyorum."
+    },
+    {
+     "en": "I'll text you as soon as I leave.",
+     "tr": "Çıkar çıkmaz sana yazarım."
+    },
+    {
+     "en": "If she gets the job, she will start in September.",
+     "tr": "İşi alırsa eylülde başlayacak."
+    }
+   ],
+   "exercises": [
+    {
+     "type": "mcq",
+     "q": "By the time Hafsa arrived, the interview ___.",
+     "options": [
+      "had already started",
+      "has already started",
+      "was already start",
+      "already starts"
+     ],
+     "answer": 0,
+     "whyTr": "Başka bir geçmiş olaydan önce biten iş: past perfect (had + V3).",
+     "tag": "past-perfect",
+     "level": "B2"
+    },
+    {
+     "type": "mcq",
+     "q": "I ___ in Isparta until I was twenty-three.",
+     "options": [
+      "have lived",
+      "live",
+      "am living",
+      "lived"
+     ],
+     "answer": 3,
+     "whyTr": "'Until I was twenty-three' bitmiş bir dönem; past simple kullanılır.",
+     "tag": "past-simple",
+     "level": "B2"
+    },
+    {
+     "type": "mcq",
+     "q": "She ___ for the principal when the phone rang.",
+     "options": [
+      "waited",
+      "has waited",
+      "was waiting",
+      "had waiting"
+     ],
+     "answer": 2,
+     "whyTr": "Başka bir olay araya girerken süren eylem: past continuous.",
+     "tag": "past-continuous",
+     "level": "B2"
+    },
+    {
+     "type": "mcq",
+     "q": "Hafsa ___ English for six years, and she still studies every day.",
+     "options": [
+      "studies",
+      "has been studying",
+      "studied",
+      "was studying"
+     ],
+     "answer": 1,
+     "whyTr": "Geçmişte başlayıp hâlâ süren eylem: present perfect continuous.",
+     "tag": "present-perfect",
+     "level": "B2"
+    },
+    {
+     "type": "order",
+     "promptTr": "Cümleyi sırala:",
+     "words": [
+      "Tomorrow",
+      "arrive",
+      "I",
+      "will",
+      "early",
+      "at",
+      "school",
+      "the"
+     ],
+     "answer": "Tomorrow I will arrive at the school early",
+     "whyTr": "Gelecek plan için will + yalın fiil; zaman ifadesi başa gelebilir.",
+     "tag": "future",
+     "level": "B2"
+    },
+    {
+     "type": "mcq",
+     "q": "Look! The principal ___ toward us.",
+     "options": [
+      "walks",
+      "is walking",
+      "walked",
+      "has walk"
+     ],
+     "answer": 1,
+     "whyTr": "'Look!' şu an olan bir şeyi gösterir: present continuous.",
+     "tag": "present-continuous",
+     "level": "B2"
+    },
+    {
+     "type": "mcq",
+     "q": "If she ___ the job, she will start in September.",
+     "options": [
+      "gets",
+      "will get",
+      "got",
+      "would get"
+     ],
+     "answer": 0,
+     "whyTr": "If cümlesinde gelecek için present simple kullanılır (type 1).",
+     "tag": "conditionals",
+     "level": "B2"
+    },
+    {
+     "type": "mcq",
+     "q": "The new teachers ___ their schedules yesterday.",
+     "options": [
+      "gave",
+      "have given",
+      "were give",
+      "were given"
+     ],
+     "answer": 3,
+     "whyTr": "Yapan kişi önemli değil; past passive: was/were + V3.",
+     "tag": "passive",
+     "level": "B2"
+    },
+    {
+     "type": "order",
+     "promptTr": "Cümleyi sırala:",
+     "words": [
+      "She",
+      "said",
+      "she",
+      "had",
+      "worked",
+      "in",
+      "a",
+      "library",
+      "before"
+     ],
+     "answer": "She said she had worked in a library before",
+     "whyTr": "Reported speech'te past simple, past perfect'e kayar.",
+     "tag": "reported-speech",
+     "level": "B2"
+    },
+    {
+     "type": "mcq",
+     "q": "Hafsa ___ Mr. Brown since Monday.",
+     "options": [
+      "didn't see",
+      "doesn't see",
+      "hasn't seen",
+      "isn't seeing"
+     ],
+     "answer": 2,
+     "whyTr": "'Since Monday' ile present perfect kullanılır.",
+     "tag": "present-perfect",
+     "level": "B2"
+    },
+    {
+     "type": "fill",
+     "q": "She has lived here ___ 2019.",
+     "accept": [
+      "since"
+     ],
+     "hintTr": "-den beri",
+     "whyTr": "Başlangıç noktası verilince 'since' kullanılır.",
+     "tag": "present-perfect",
+     "level": "B2"
+    },
+    {
+     "type": "fill",
+     "q": "Yesterday Emre ___ home late. (come)",
+     "accept": [
+      "came"
+     ],
+     "hintTr": "come'ın geçmişi",
+     "whyTr": "Yesterday bitmiş zaman: past simple; come - came.",
+     "tag": "past-simple",
+     "level": "B2"
+    }
+   ]
+  },
+  "vocab": [
+   {
+    "id": "ambitious",
+    "en": "ambitious",
+    "tr": "hırslı, azimli",
+    "pos": "adjective",
+    "example": "Hafsa is ambitious and wants to work in a school.",
+    "exampleTr": "Hafsa hırslı ve bir okulda çalışmak istiyor.",
+    "syn": [
+     "determined"
+    ],
+    "ant": [
+     "lazy"
+    ],
+    "level": "B2"
+   },
+   {
+    "id": "adaptable",
+    "en": "adaptable",
+    "tr": "uyum sağlayabilen",
+    "pos": "adjective",
+    "example": "A good substitute teacher is adaptable to any classroom.",
+    "exampleTr": "İyi bir vekil öğretmen her sınıfa uyum sağlayabilir.",
+    "syn": [
+     "flexible"
+    ],
+    "ant": [],
+    "level": "B2"
+   },
+   {
+    "id": "eligible",
+    "en": "eligible",
+    "tr": "uygun, hak sahibi",
+    "pos": "adjective",
+    "example": "You are eligible to apply after you finish the training.",
+    "exampleTr": "Eğitimi bitirdikten sonra başvurmaya hak kazanırsın.",
+    "syn": [
+     "qualified"
+    ],
+    "ant": [
+     "ineligible"
+    ],
+    "level": "B2"
+   },
+   {
+    "id": "commitment",
+    "en": "commitment",
+    "tr": "bağlılık, taahhüt",
+    "pos": "noun",
+    "example": "The principal wants a teacher with a strong commitment to students.",
+    "exampleTr": "Müdür, öğrencilere güçlü bağlılığı olan bir öğretmen istiyor.",
+    "syn": [
+     "dedication"
+    ],
+    "ant": [],
+    "level": "B2"
+   },
+   {
+    "id": "dependable",
+    "en": "dependable",
+    "tr": "güvenilir",
+    "pos": "adjective",
+    "example": "Linda is dependable; she always arrives on time.",
+    "exampleTr": "Linda güvenilir; her zaman zamanında gelir.",
+    "syn": [
+     "reliable"
+    ],
+    "ant": [
+     "unreliable"
+    ],
+    "level": "B2"
+   },
+   {
+    "id": "resourceful",
+    "en": "resourceful",
+    "tr": "çözüm bulan, becerikli",
+    "pos": "adjective",
+    "example": "A resourceful teacher finds a way when the printer breaks.",
+    "exampleTr": "Becerikli bir öğretmen yazıcı bozulunca bir yol bulur.",
+    "syn": [
+     "inventive"
+    ],
+    "ant": [],
+    "level": "B2"
+   },
+   {
+    "id": "accomplish",
+    "en": "accomplish",
+    "tr": "başarmak, tamamlamak",
+    "pos": "verb",
+    "example": "We accomplished a lot during the first week.",
+    "exampleTr": "İlk hafta çok şey başardık.",
+    "syn": [
+     "achieve"
+    ],
+    "ant": [
+     "fail"
+    ],
+    "level": "B2"
+   },
+   {
+    "id": "achievement",
+    "en": "achievement",
+    "tr": "başarı",
+    "pos": "noun",
+    "example": "Her biggest achievement is learning English as an adult.",
+    "exampleTr": "En büyük başarısı yetişkin yaşta İngilizce öğrenmesi.",
+    "syn": [
+     "accomplishment"
+    ],
+    "ant": [
+     "failure"
+    ],
+    "level": "B2"
+   },
+   {
+    "id": "potential",
+    "en": "potential",
+    "tr": "potansiyel; olası",
+    "pos": "noun",
+    "example": "The principal saw great potential in Hafsa.",
+    "exampleTr": "Müdür Hafsa'da büyük bir potansiyel gördü.",
+    "syn": [
+     "promise"
+    ],
+    "ant": [],
+    "level": "B2"
+   },
+   {
+    "id": "motivate",
+    "en": "motivate",
+    "tr": "motive etmek",
+    "pos": "verb",
+    "example": "A kind word can motivate a shy student.",
+    "exampleTr": "Nazik bir söz utangaç bir öğrenciyi motive edebilir.",
+    "syn": [
+     "inspire"
+    ],
+    "ant": [
+     "discourage"
+    ],
+    "level": "B2"
+   },
+   {
+    "id": "aspire",
+    "en": "aspire",
+    "tr": "hedeflemek, özlem duymak",
+    "pos": "verb",
+    "example": "Many assistants aspire to become full-time teachers.",
+    "exampleTr": "Birçok yardımcı tam zamanlı öğretmen olmayı hedefler.",
+    "syn": [
+     "strive"
+    ],
+    "ant": [],
+    "level": "B2"
+   },
+   {
+    "id": "enhance",
+    "en": "enhance",
+    "tr": "geliştirmek, güçlendirmek",
+    "pos": "verb",
+    "example": "Pictures can enhance a lesson.",
+    "exampleTr": "Resimler bir dersi zenginleştirebilir.",
+    "syn": [
+     "improve"
+    ],
+    "ant": [
+     "reduce"
+    ],
+    "level": "B2"
+   },
+   {
+    "id": "outstanding",
+    "en": "outstanding",
+    "tr": "olağanüstü, çok iyi",
+    "pos": "adjective",
+    "example": "Her references were outstanding.",
+    "exampleTr": "Referansları çok iyiydi.",
+    "syn": [
+     "excellent"
+    ],
+    "ant": [
+     "ordinary"
+    ],
+    "level": "B2"
+   },
+   {
+    "id": "willing",
+    "en": "willing",
+    "tr": "istekli, gönüllü",
+    "pos": "adjective",
+    "example": "Are you willing to work on short notice?",
+    "exampleTr": "Kısa bir haberle çalışmaya istekli misin?",
+    "syn": [
+     "ready"
+    ],
+    "ant": [
+     "reluctant"
+    ],
+    "level": "B2"
+   },
+   {
+    "id": "strengthen",
+    "en": "strengthen",
+    "tr": "güçlendirmek",
+    "pos": "verb",
+    "example": "Practice will strengthen your confidence.",
+    "exampleTr": "Pratik özgüvenini güçlendirecek.",
+    "syn": [
+     "reinforce"
+    ],
+    "ant": [
+     "weaken"
+    ],
+    "level": "B2"
+   }
+  ],
+  "reading": {
+   "title": "Hafsa's big day is tomorrow",
+   "text": "Hafsa has been preparing for her substitute teacher interview for three weeks. Every morning she reads job descriptions, and every evening she practices answering questions with her son Emre. When she arrived in the United States six years ago, she could hardly order a coffee. Now she is ambitious and willing to learn anything.\n\nLast Tuesday, while she was practicing in the kitchen, Linda knocked on the door. Linda had worked as a teaching assistant before she retired, so she knew exactly what principals look for. \"They will ask about your strengths,\" Linda said. \"Don't just say you are hardworking. Give an example. Tell them what you did, not only what you are.\"\n\nHafsa thought about it for a minute. By the time Emre came home, she had written three short stories about her past experience. In the first one, she was volunteering at a community center when a boy started crying because he couldn't read a sign. She sat with him until he understood every word. In the second, she organized a small cooking class for neighbors. In the third, she helped Emre's class prepare for a science fair last spring.\n\nThe interview is tomorrow at ten o'clock. If the principal asks about classroom management, Hafsa will say that she stays calm and keeps clear rules. She has already chosen her clothes, and she has printed her resume twice. She has also read the school's website carefully, so she can mention its values during the conversation. Tonight she is going to go to bed early, because she wants to sound confident and clear. Her plan is simple: smile, listen carefully, and answer honestly. If she makes a mistake, she will not panic. She will take a breath and try again.\n\n\"You have come a long way,\" Emre told her this morning. Hafsa laughed and nodded. \"Yes, and tomorrow I will take one more step.\"",
+   "glossary": [
+    {
+     "en": "hardly",
+     "tr": "neredeyse hiç"
+    },
+    {
+     "en": "retire",
+     "tr": "emekli olmak"
+    },
+    {
+     "en": "community center",
+     "tr": "semt/halk merkezi"
+    },
+    {
+     "en": "science fair",
+     "tr": "bilim fuarı"
+    },
+    {
+     "en": "come a long way",
+     "tr": "uzun bir yol katetmek"
+    }
+   ],
+   "questions": [
+    {
+     "type": "mcq",
+     "q": "How long has Hafsa been preparing for the interview?",
+     "options": [
+      "Six years",
+      "Three days",
+      "Three weeks",
+      "One month"
+     ],
+     "answer": 2,
+     "whyTr": "Metin: 'for three weeks'.",
+     "tag": "reading",
+     "level": "B2"
+    },
+    {
+     "type": "mcq",
+     "q": "What advice did Linda give Hafsa?",
+     "options": [
+      "Say she is hardworking",
+      "Give examples of what she did",
+      "Avoid talking about her past",
+      "Arrive an hour early"
+     ],
+     "answer": 1,
+     "whyTr": "Linda: 'Give an example. Tell them what you did.'",
+     "tag": "reading",
+     "level": "B2"
+    },
+    {
+     "type": "mcq",
+     "q": "Which experience does Hafsa NOT write about?",
+     "options": [
+      "Teaching in a school in Isparta",
+      "Helping a boy at a community center",
+      "Organizing a cooking class",
+      "Helping with a science fair"
+     ],
+     "answer": 0,
+     "whyTr": "Üç hikâye: community center, cooking class, science fair.",
+     "tag": "reading",
+     "level": "B2"
+    },
+    {
+     "type": "mcq",
+     "q": "What will Hafsa do if she makes a mistake?",
+     "options": [
+      "Stop the interview",
+      "Blame the principal",
+      "Leave the room",
+      "Take a breath and try again"
+     ],
+     "answer": 3,
+     "whyTr": "Metin: 'She will take a breath and try again.'",
+     "tag": "reading",
+     "level": "B2"
+    }
+   ]
+  }
+ },
+ "evening": {
+  "listening": {
+   "title": "A mock interview",
+   "script": [
+    {
+     "speaker": "Ms. Rivera",
+     "text": "Good morning, Hafsa. Thank you for coming. Please have a seat."
+    },
+    {
+     "speaker": "Hafsa",
+     "text": "Good morning, Ms. Rivera. Thank you for seeing me."
+    },
+    {
+     "speaker": "Ms. Rivera",
+     "text": "Tell me about your experience. Have you ever worked with children?"
+    },
+    {
+     "speaker": "Hafsa",
+     "text": "Yes. For two years I have been volunteering at a community center, and I help with homework every Thursday."
+    },
+    {
+     "speaker": "Ms. Rivera",
+     "text": "That sounds useful. What would you do if two students started arguing during class?"
+    },
+    {
+     "speaker": "Hafsa",
+     "text": "I would stay calm and separate them first. Then I would talk to each one quietly."
+    },
+    {
+     "speaker": "Ms. Rivera",
+     "text": "Good. Our substitutes also follow the sub plan the teacher leaves. Is that a problem for you?"
+    },
+    {
+     "speaker": "Hafsa",
+     "text": "Not at all. In my last job, I always followed instructions carefully."
+    },
+    {
+     "speaker": "Ms. Rivera",
+     "text": "Excellent. We need someone for next Monday. Are you available?"
+    },
+    {
+     "speaker": "Hafsa",
+     "text": "Yes, I am. I will be there at seven thirty."
+    },
+    {
+     "speaker": "Ms. Rivera",
+     "text": "Wonderful. Mr. Brown will give you a badge and show you the classroom."
+    },
+    {
+     "speaker": "Hafsa",
+     "text": "Thank you very much. I won't forget this chance."
+    }
+   ],
+   "questions": [
+    {
+     "type": "mcq",
+     "q": "How long has Hafsa been volunteering at the community center?",
+     "options": [
+      "Two months",
+      "Five years",
+      "One week",
+      "Two years"
+     ],
+     "answer": 3,
+     "whyTr": "Hafsa: 'For two years I have been volunteering'.",
+     "tag": "listening",
+     "level": "B2"
+    },
+    {
+     "type": "mcq",
+     "q": "What would Hafsa do first if two students argued?",
+     "options": [
+      "Call the principal",
+      "Ignore them",
+      "Separate them",
+      "Send them home"
+     ],
+     "answer": 2,
+     "whyTr": "Hafsa: 'I would stay calm and separate them first.'",
+     "tag": "listening",
+     "level": "B2"
+    },
+    {
+     "type": "mcq",
+     "q": "What does Ms. Rivera offer Hafsa?",
+     "options": [
+      "A permanent contract",
+      "A job for next Monday",
+      "A weekend trip",
+      "A volunteer lesson"
+     ],
+     "answer": 1,
+     "whyTr": "'We need someone for next Monday.'",
+     "tag": "listening",
+     "level": "B2"
+    },
+    {
+     "type": "mcq",
+     "q": "Who will give Hafsa a badge?",
+     "options": [
+      "Mr. Brown",
+      "Ms. Rivera",
+      "Linda",
+      "Emre"
+     ],
+     "answer": 0,
+     "whyTr": "Ms. Rivera: 'Mr. Brown will give you a badge'.",
+     "tag": "listening",
+     "level": "B2"
+    }
+   ]
+  },
+  "writing": {
+   "promptTr": "Mülakattan sonra müdüre teşekkür e-postası yaz (120-180 kelime). Geçmiş, şimdiki ve gelecek zamanları karışık kullan: mülakatta ne konuştunuz, şu an neler hissediyorsun, ne yapacaksın.",
+   "promptEn": "Write a thank-you email to the principal after your interview (120-180 words). Use past, present and future tenses.",
+   "frames": [
+    "Dear Ms. Rivera,",
+    "Thank you for meeting with me yesterday. We talked about ...",
+    "I have been ... for ..., so ...",
+    "I am very interested in ... because ...",
+    "If you choose me, I will ...",
+    "I look forward to hearing from you."
+   ],
+   "model": "Dear Ms. Rivera,\n\nThank you for meeting with me yesterday. We talked about my experience with children and about the way I would handle a noisy classroom. I enjoyed our conversation very much, and I left the school feeling confident.\n\nI have been volunteering at a community center for two years, so I understand how important patience and clear rules are. When I arrived at your office, I was a little nervous, but you made me feel welcome. Since then I have been thinking about the questions you asked, and I believe I gave honest answers.\n\nI am very interested in the substitute position because I want to support students and teachers. If you choose me, I will follow every sub plan carefully and communicate with the office when I have a question. I will also arrive early, because I want every student to feel safe.\n\nThank you again for your time. I look forward to hearing from you.\n\nSincerely,\nHafsa",
+   "checklistTr": [
+    "En az bir past simple ve bir present perfect cümlen var mı?",
+    "Gelecek için will kullandın mı?",
+    "'Dear ...' ile başlayıp 'Sincerely' ile bitirdin mi?",
+    "Tüm cümleler büyük harfle başlıyor mu?"
+   ],
+   "minWords": 120
+  },
+  "examSet": [
+   {
+    "type": "mcq",
+    "q": "Right now, Hafsa ___ her notes.",
+    "options": [
+     "is reading",
+     "reads",
+     "read",
+     "has been read"
+    ],
+    "answer": 0,
+    "whyTr": "'Right now' şu anı gösterir: present continuous.",
+    "tag": "present-continuous",
+    "level": "B2"
+   },
+   {
+    "type": "mcq",
+    "q": "We ___ each other for ten years.",
+    "options": [
+     "know",
+     "knew",
+     "are knowing",
+     "have known"
+    ],
+    "answer": 3,
+    "whyTr": "Süre (for ten years) + durum fiili: present perfect; know sürekli şekil almaz.",
+    "tag": "present-perfect",
+    "level": "B2"
+   },
+   {
+    "type": "mcq",
+    "q": "When I called, she ___ dinner.",
+    "options": [
+     "cooked",
+     "has cooked",
+     "was cooking",
+     "cooks"
+    ],
+    "answer": 2,
+    "whyTr": "Telefon çalarken süren eylem: past continuous.",
+    "tag": "past-continuous",
+    "level": "B2"
+   },
+   {
+    "type": "mcq",
+    "q": "I will call you as soon as I ___ the school.",
+    "options": [
+     "will leave",
+     "leave",
+     "left",
+     "would leave"
+    ],
+    "answer": 1,
+    "whyTr": "as soon as sonrası gelecek için present simple kullanılır.",
+    "tag": "future",
+    "level": "B2"
+   },
+   {
+    "type": "mcq",
+    "q": "If I had more time, I ___ a second course.",
+    "options": [
+     "will take",
+     "would take",
+     "took",
+     "would took"
+    ],
+    "answer": 1,
+    "whyTr": "Gerçek dışı şimdiki durum (type 2): would + yalın fiil.",
+    "tag": "conditionals",
+    "level": "B2"
+   },
+   {
+    "type": "mcq",
+    "q": "I wish I ___ speak Spanish.",
+    "options": [
+     "could",
+     "can",
+     "would",
+     "will"
+    ],
+    "answer": 0,
+    "whyTr": "Şimdiki istek/pişmanlık: wish + past form (could).",
+    "tag": "conditionals",
+    "level": "B2"
+   },
+   {
+    "type": "mcq",
+    "q": "The forms ___ by the secretary this morning.",
+    "options": [
+     "checked",
+     "are checking",
+     "was checked",
+     "were checked"
+    ],
+    "answer": 3,
+    "whyTr": "Forms çoğul ve iş yapılmış: were checked (past passive).",
+    "tag": "passive",
+    "level": "B2"
+   },
+   {
+    "type": "mcq",
+    "q": "He asked me where I ___.",
+    "options": [
+     "did I live",
+     "do I live",
+     "lived",
+     "am living"
+    ],
+    "answer": 2,
+    "whyTr": "Reported question düz cümle sırasıyla: where I lived.",
+    "tag": "reported-speech",
+    "level": "B2"
+   },
+   {
+    "type": "mcq",
+    "q": "You ___ wear a uniform; it is optional.",
+    "options": [
+     "mustn't",
+     "can't",
+     "don't have to",
+     "shouldn't"
+    ],
+    "answer": 2,
+    "whyTr": "Zorunlu değil = don't have to; mustn't yasaktır.",
+    "tag": "modals",
+    "level": "B2"
+   },
+   {
+    "type": "mcq",
+    "q": "She isn't answering. She ___ have left already.",
+    "options": [
+     "can't",
+     "must",
+     "should",
+     "need"
+    ],
+    "answer": 1,
+    "whyTr": "Güçlü çıkarım (geçmiş): must have + V3.",
+    "tag": "modals",
+    "level": "B2"
+   },
+   {
+    "type": "mcq",
+    "q": "Which word is closest in meaning to \"outstanding\"?",
+    "options": [
+     "excellent",
+     "ordinary",
+     "careless",
+     "delayed"
+    ],
+    "answer": 0,
+    "whyTr": "Outstanding = excellent (çok iyi).",
+    "tag": "synonym",
+    "level": "B2"
+   },
+   {
+    "type": "mcq",
+    "q": "Which word is closest in meaning to \"enhance\"?",
+    "options": [
+     "ignore",
+     "reduce",
+     "borrow",
+     "improve"
+    ],
+    "answer": 3,
+    "whyTr": "Enhance = improve.",
+    "tag": "synonym",
+    "level": "B2"
+   },
+   {
+    "type": "mcq",
+    "q": "What is the opposite of \"willing\"?",
+    "options": [
+     "eager",
+     "ready",
+     "glad",
+     "reluctant"
+    ],
+    "answer": 3,
+    "whyTr": "Willing'in zıttı reluctant (isteksiz).",
+    "tag": "antonym",
+    "level": "B2"
+   },
+   {
+    "type": "mcq",
+    "q": "What is the opposite of \"strengthen\"?",
+    "options": [
+     "improve",
+     "build",
+     "weaken",
+     "support"
+    ],
+    "answer": 2,
+    "whyTr": "Strengthen'in zıttı weaken.",
+    "tag": "antonym",
+    "level": "B2"
+   },
+   {
+    "type": "mcq",
+    "q": "Her ___ at the community center impressed the principal.",
+    "options": [
+     "achieve",
+     "achievements",
+     "achieving",
+     "achieved"
+    ],
+    "answer": 1,
+    "whyTr": "Boşlukta çoğul isim lazım: achievements.",
+    "tag": "word-formation",
+    "level": "B2"
+   },
+   {
+    "type": "mcq",
+    "q": "She decided ___ for the substitute position.",
+    "options": [
+     "to apply",
+     "applying",
+     "apply",
+     "for apply"
+    ],
+    "answer": 0,
+    "whyTr": "decide + to + fiil.",
+    "tag": "gerund-infinitive",
+    "level": "B2"
+   },
+   {
+    "type": "mcq",
+    "q": "The woman ___ interviewed me was very kind.",
+    "options": [
+     "who",
+     "which",
+     "whose",
+     "whom"
+    ],
+    "answer": 0,
+    "whyTr": "Kişi için özne konumunda 'who'.",
+    "tag": "relative-clauses",
+    "level": "B2"
+   },
+   {
+    "type": "mcq",
+    "q": "___ she was nervous, she answered every question clearly.",
+    "options": [
+     "Because",
+     "However",
+     "Despite",
+     "Although"
+    ],
+    "answer": 3,
+    "whyTr": "Zıtlık + tam cümle: Although.",
+    "tag": "linkers",
+    "level": "B2"
+   },
+   {
+    "type": "mcq",
+    "q": "Linda worked at a school for thirty years. Last year she retired. Now she volunteers at the library twice a week.\n\nWhat does Linda do now?",
+    "options": [
+     "She works at a school",
+     "She interviews teachers",
+     "She volunteers at a library",
+     "She is looking for a job"
+    ],
+    "answer": 2,
+    "whyTr": "Metin: 'Now she volunteers at the library'.",
+    "tag": "reading",
+    "level": "B2"
+   },
+   {
+    "type": "mcq",
+    "q": "The interview was scheduled for nine, but the principal was still talking to a parent at nine-twenty. Hafsa didn't mind. She used the time to review her notes.\n\nHow did Hafsa react to the delay?",
+    "options": [
+     "She left angrily",
+     "She stayed calm and used the time",
+     "She canceled the interview",
+     "She complained to Mr. Brown"
+    ],
+    "answer": 1,
+    "whyTr": "Metin: 'Hafsa didn't mind. She used the time...'.",
+    "tag": "reading",
+    "level": "B2"
+   }
+  ]
+ }
+}

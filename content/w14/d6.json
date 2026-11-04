@@ -1,0 +1,942 @@
+{
+ "week": 14,
+ "day": 6,
+ "titleTr": "Hafta tekrarı: okul politikası metni",
+ "theme": "school-policy",
+ "morning": {
+  "grammar": {
+   "topic": "Week 14 review: reporting verbs, relative clauses, participles, used to, stop/remember/try",
+   "explainTr": [
+    "Bu hafta beş yapı gördün. Aktarma fiilleri: suggest/admit/deny + -ing, advise/warn + kişi + to. Virgüllü cümlecikler: who, which, whose, where (that yok).",
+    "Kısaltılmış cümlecikler: students arriving late (etken, -ing), forms submitted late (edilgen, V3). Alışma yapıları: used to + fiil (eskiden), be/get used to + -ing (alışık / alışmak).",
+    "Anlamı değişen fiiller: stop to do / stop doing, remember to do / remember doing, try to do / try doing, regret to tell / regret doing. Okul politikası metinlerinde bu yapıların hepsi bir arada gelir."
+   ],
+   "compareTr": "Türkçede bu yapıların çoğu ek ve sıfat-fiillerle kurulur. İngilizcede ise kalıp önemlidir: fiilin yanındaki yapı (to / -ing / that) anlamı ve doğruluğu belirler. Çalışırken önce fiile, sonra kalıba bak.",
+   "table": [
+    [
+     "Aktarma",
+     "suggest/admit/deny + -ing; advise/warn + kişi + to",
+     "She advised me to call."
+    ],
+    [
+     "Virgüllü cümlecik",
+     "who / which / whose / where",
+     "Mr. Kim, who is a nurse, ..."
+    ],
+    [
+     "Kısaltma",
+     "-ing (etken), V3 (edilgen)",
+     "Students arriving late ..."
+    ],
+    [
+     "Alışma",
+     "used to + fiil; be/get used to + -ing",
+     "I'm used to driving."
+    ],
+    [
+     "stop / remember",
+     "to + fiil / -ing farkı",
+     "stop to talk / stop talking"
+    ],
+    [
+     "try / regret",
+     "to + fiil / -ing farkı",
+     "try opening / regret to tell"
+    ]
+   ],
+   "examples": [
+    {
+     "en": "The principal advised the teachers to call the parents.",
+     "tr": "Müdür öğretmenlere velileri aramalarını tavsiye etti."
+    },
+    {
+     "en": "Mr. Kim, who is our nurse, keeps the allergy list.",
+     "tr": "Hemşiremiz olan Mr. Kim alerji listesini tutar."
+    },
+    {
+     "en": "Forms signed by a parent are accepted.",
+     "tr": "Veli tarafından imzalanan formlar kabul edilir."
+    },
+    {
+     "en": "I used to walk to work, but now I take the bus.",
+     "tr": "Eskiden işe yürürdüm, şimdi otobüse biniyorum."
+    },
+    {
+     "en": "Remember to sign in, and stop to ask if you are not sure.",
+     "tr": "Kayıt olmayı unutma ve emin değilsen durup sor."
+    }
+   ],
+   "exercises": [
+    {
+     "type": "mcq",
+     "q": "The principal ___ us to arrive ten minutes early.",
+     "options": [
+      "advised",
+      "suggested",
+      "admitted",
+      "denied"
+     ],
+     "answer": 0,
+     "whyTr": "'Advise' + kişi + to + fiil.",
+     "tag": "reported-speech",
+     "level": "B2"
+    },
+    {
+     "type": "mcq",
+     "q": "She denied ___ the rule.",
+     "options": [
+      "to break",
+      "breaking",
+      "break",
+      "broken"
+     ],
+     "answer": 1,
+     "whyTr": "'Deny' + -ing.",
+     "tag": "reported-speech",
+     "level": "B2"
+    },
+    {
+     "type": "mcq",
+     "q": "Ms. Rivera, ___ office is on the first floor, will call you.",
+     "options": [
+      "who",
+      "which",
+      "whose",
+      "where"
+     ],
+     "answer": 2,
+     "whyTr": "Aitlik için 'whose'.",
+     "tag": "relative-clauses",
+     "level": "B2"
+    },
+    {
+     "type": "mcq",
+     "q": "The playground, ___ was repaired in May, is open again.",
+     "options": [
+      "that",
+      "who",
+      "where",
+      "which"
+     ],
+     "answer": 3,
+     "whyTr": "Virgüllü cümlecikte nesne için 'which'.",
+     "tag": "relative-clauses",
+     "level": "B2"
+    },
+    {
+     "type": "order",
+     "promptTr": "Cümleyi sırala:",
+     "words": [
+      "who",
+      "our",
+      "allergy",
+      "is",
+      "Mr.",
+      "nurse,",
+      "the",
+      "keeps",
+      "list",
+      "Kim,"
+     ],
+     "answer": "Mr. Kim, who is our nurse, keeps the allergy list",
+     "whyTr": "Virgüllü ek bilgi özne ile fiil arasına girer.",
+     "tag": "relative-clauses",
+     "level": "B2"
+    },
+    {
+     "type": "mcq",
+     "q": "Parents ___ their children must use the side lane.",
+     "options": [
+      "dropping off",
+      "dropped off",
+      "drop off",
+      "to drop off"
+     ],
+     "answer": 0,
+     "whyTr": "'Who drop off' kısalınca -ing.",
+     "tag": "relative-clauses",
+     "level": "B2"
+    },
+    {
+     "type": "mcq",
+     "q": "Notes ___ by a doctor are accepted.",
+     "options": [
+      "writing",
+      "written",
+      "write",
+      "wrote"
+     ],
+     "answer": 1,
+     "whyTr": "Notlar yazılır (edilgen): V3.",
+     "tag": "passive",
+     "level": "B2"
+    },
+    {
+     "type": "mcq",
+     "q": "I'm getting used to ___ at a school.",
+     "options": [
+      "work",
+      "worked",
+      "working",
+      "to work"
+     ],
+     "answer": 2,
+     "whyTr": "'Get used to' + -ing.",
+     "tag": "gerund-infinitive",
+     "level": "B2"
+    },
+    {
+     "type": "mcq",
+     "q": "We ___ have a long summer vacation, but now it is shorter.",
+     "options": [
+      "are used to",
+      "get used to",
+      "were used to",
+      "used to"
+     ],
+     "answer": 3,
+     "whyTr": "Geçmiş alışkanlık: used to + fiil.",
+     "tag": "past-simple",
+     "level": "B2"
+    },
+    {
+     "type": "mcq",
+     "q": "Please remember ___ the attendance sheet.",
+     "options": [
+      "to sign",
+      "signing",
+      "sign",
+      "signed"
+     ],
+     "answer": 0,
+     "whyTr": "Yapılacak şey: remember + to + fiil.",
+     "tag": "gerund-infinitive",
+     "level": "B2"
+    },
+    {
+     "type": "mcq",
+     "q": "He stopped ___ when the bell rang.",
+     "options": [
+      "to talk",
+      "talking",
+      "talk",
+      "talks"
+     ],
+     "answer": 1,
+     "whyTr": "Eylemi bırakmak: stop + -ing.",
+     "tag": "gerund-infinitive",
+     "level": "B2"
+    },
+    {
+     "type": "fill",
+     "q": "Linda advised me ___ read the handbook.",
+     "accept": [
+      "to"
+     ],
+     "hintTr": "advise + kişi + ...",
+     "whyTr": "'Advise' + kişi + to + fiil.",
+     "tag": "reported-speech",
+     "level": "B2"
+    }
+   ]
+  },
+  "vocab": [
+   {
+    "id": "tardiness",
+    "en": "tardiness",
+    "tr": "geç kalma",
+    "pos": "noun",
+    "example": "Repeated tardiness may lead to a meeting with the counselor.",
+    "exampleTr": "Tekrarlayan geç kalmalar rehber öğretmenle görüşmeye yol açabilir.",
+    "syn": [
+     "lateness"
+    ],
+    "ant": [
+     "punctuality"
+    ],
+    "level": "B2"
+   },
+   {
+    "id": "absence",
+    "en": "absence",
+    "tr": "devamsızlık",
+    "pos": "noun",
+    "example": "An absence needs a note from a parent.",
+    "exampleTr": "Bir devamsızlık için veli notu gerekir.",
+    "syn": [],
+    "ant": [
+     "attendance"
+    ],
+    "level": "B2"
+   },
+   {
+    "id": "excused",
+    "en": "excused",
+    "tr": "mazeretli",
+    "pos": "adjective",
+    "example": "A doctor's note makes the absence excused.",
+    "exampleTr": "Doktor notu devamsızlığı mazeretli yapar.",
+    "syn": [],
+    "ant": [
+     "unexcused"
+    ],
+    "level": "B2"
+   },
+   {
+    "id": "unexcused",
+    "en": "unexcused",
+    "tr": "mazeretsiz",
+    "pos": "adjective",
+    "example": "Three unexcused absences trigger a phone call.",
+    "exampleTr": "Üç mazeretsiz devamsızlık telefon edilmesine yol açar.",
+    "syn": [],
+    "ant": [
+     "excused"
+    ],
+    "level": "B2"
+   },
+   {
+    "id": "guardian",
+    "en": "guardian",
+    "tr": "vasi, yasal sorumlu",
+    "pos": "noun",
+    "example": "A parent or guardian must sign the form.",
+    "exampleTr": "Formu bir ebeveyn veya vasi imzalamalıdır.",
+    "syn": [],
+    "ant": [],
+    "level": "B2"
+   },
+   {
+    "id": "notify",
+    "en": "notify",
+    "tr": "bildirmek",
+    "pos": "verb",
+    "example": "The office will notify families of any change.",
+    "exampleTr": "Ofis, herhangi bir değişikliği ailelere bildirecek.",
+    "syn": [
+     "inform"
+    ],
+    "ant": [],
+    "level": "B2"
+   },
+   {
+    "id": "eligible",
+    "en": "eligible",
+    "tr": "hak kazanan, uygun",
+    "pos": "adjective",
+    "example": "Only students with a signed form are eligible for the trip.",
+    "exampleTr": "Yalnızca imzalı formu olan öğrenciler geziye katılabilir.",
+    "syn": [
+     "qualified"
+    ],
+    "ant": [
+     "ineligible"
+    ],
+    "level": "B2"
+   },
+   {
+    "id": "clarify",
+    "en": "clarify",
+    "tr": "açıklığa kavuşturmak",
+    "pos": "verb",
+    "example": "Please clarify the rule for the new substitutes.",
+    "exampleTr": "Lütfen kuralı yeni vekillere açıklığa kavuşturun.",
+    "syn": [
+     "explain"
+    ],
+    "ant": [],
+    "level": "B2"
+   },
+   {
+    "id": "amend",
+    "en": "amend",
+    "tr": "değiştirmek, düzeltmek",
+    "pos": "verb",
+    "example": "The committee voted to amend the phone policy.",
+    "exampleTr": "Komite telefon politikasını değiştirmek için oy kullandı.",
+    "syn": [
+     "revise"
+    ],
+    "ant": [],
+    "level": "B2"
+   },
+   {
+    "id": "revise",
+    "en": "revise",
+    "tr": "gözden geçirip düzeltmek",
+    "pos": "verb",
+    "example": "The school revises the handbook every year.",
+    "exampleTr": "Okul el kitabını her yıl gözden geçirir.",
+    "syn": [
+     "amend"
+    ],
+    "ant": [],
+    "level": "B2"
+   },
+   {
+    "id": "annual",
+    "en": "annual",
+    "tr": "yıllık",
+    "pos": "adjective",
+    "example": "The annual report is published in June.",
+    "exampleTr": "Yıllık rapor haziranda yayınlanır.",
+    "syn": [
+     "yearly"
+    ],
+    "ant": [],
+    "level": "B2"
+   },
+   {
+    "id": "consent",
+    "en": "consent",
+    "tr": "onay, izin",
+    "pos": "noun",
+    "example": "Students need written consent to join the field trip.",
+    "exampleTr": "Öğrencilerin geziye katılması için yazılı onay gerekir.",
+    "syn": [
+     "permission"
+    ],
+    "ant": [],
+    "level": "B2"
+   },
+   {
+    "id": "comprehensive",
+    "en": "comprehensive",
+    "tr": "kapsamlı",
+    "pos": "adjective",
+    "example": "The handbook gives a comprehensive list of rules.",
+    "exampleTr": "El kitabı kapsamlı bir kurallar listesi verir.",
+    "syn": [
+     "complete"
+    ],
+    "ant": [],
+    "level": "B2"
+   },
+   {
+    "id": "inclusive",
+    "en": "inclusive",
+    "tr": "kapsayıcı",
+    "pos": "adjective",
+    "example": "The school wants an inclusive and welcoming classroom.",
+    "exampleTr": "Okul kapsayıcı ve sıcak bir sınıf istiyor.",
+    "syn": [],
+    "ant": [],
+    "level": "B2"
+   },
+   {
+    "id": "effective",
+    "en": "effective",
+    "tr": "etkili",
+    "pos": "adjective",
+    "example": "A quiet cue is more effective than shouting.",
+    "exampleTr": "Sessiz bir işaret bağırmaktan daha etkilidir.",
+    "syn": [
+     "successful"
+    ],
+    "ant": [
+     "ineffective"
+    ],
+    "level": "B2"
+   }
+  ],
+  "reading": {
+   "title": "The school policy summary",
+   "text": "At the end of the week, Mr. Brown handed Hafsa a two-page summary of the school's attendance and conduct policy. \"You do not have to memorize it,\" he said, \"but you should know what to do when something happens.\" Hafsa took it home and read it slowly with a dictionary.\n\nThe first part, titled Attendance, explained that students who are absent must bring a note signed by a parent or guardian within three days. Absences supported by a doctor's note are excused, while others are unexcused. Students arriving after 8:15 are marked tardy, and three tardies in a month result in a letter sent home. The policy, which was revised last spring, clarifies that the front office must notify parents by phone when a child is missing without explanation.\n\nThe second part, Conduct, listed the expectations for every student. Children are asked to treat others with respect, to follow directions the first time, and to keep their hands to themselves. Teachers are advised to use positive reinforcement before any consequence. When misbehavior continues, they should talk to the student privately and record the incident in the school system. The principal, who makes the final decision on suspensions, must contact the family before any serious step is taken.\n\nThe third part concerned technology and safety. Phones seen during class are taken to the office, and students using school computers must follow the guidelines posted next to each lab. Visitors entering the building sign in and wear a badge. Parents wishing to speak with a teacher should make an appointment rather than stopping to chat during lessons, because teachers need to remember to focus on the children.\n\nA short paragraph at the end explained that the policy is reviewed every year by a committee including teachers, parents, and an administrator. Families can send comments by email, and the committee's recommendations are published on the school's website.\n\nHafsa highlighted three sentences she wanted to remember. She also wrote a question for Mr. Brown: \"Who decides when a student is eligible to join the field trip?\" Reading the policy had been a lot of work, but now she felt she could explain it to anyone, in plain English.",
+   "glossary": [
+    {
+     "en": "summary",
+     "tr": "özet"
+    },
+    {
+     "en": "conduct",
+     "tr": "davranış"
+    },
+    {
+     "en": "tardy",
+     "tr": "geç kalmış"
+    },
+    {
+     "en": "positive reinforcement",
+     "tr": "olumlu pekiştirme"
+    },
+    {
+     "en": "highlight",
+     "tr": "vurgulamak, işaretlemek"
+    },
+    {
+     "en": "recommendation",
+     "tr": "tavsiye"
+    }
+   ],
+   "questions": [
+    {
+     "type": "mcq",
+     "q": "How soon must a note arrive after an absence?",
+     "options": [
+      "Within one hour",
+      "Within one month",
+      "Within three days",
+      "On the same morning"
+     ],
+     "answer": 2,
+     "whyTr": "Metin: 'a note signed by a parent or guardian within three days'.",
+     "tag": "reading",
+     "level": "B2"
+    },
+    {
+     "type": "mcq",
+     "q": "What happens after three tardies in a month?",
+     "options": [
+      "The student is suspended.",
+      "The student changes classes.",
+      "The bus is canceled.",
+      "A letter is sent home."
+     ],
+     "answer": 3,
+     "whyTr": "Metin: 'three tardies in a month result in a letter sent home'.",
+     "tag": "reading",
+     "level": "B2"
+    },
+    {
+     "type": "mcq",
+     "q": "Who makes the final decision on suspensions?",
+     "options": [
+      "The principal",
+      "The nurse",
+      "Mr. Brown",
+      "The parents"
+     ],
+     "answer": 0,
+     "whyTr": "Metin: 'The principal, who makes the final decision on suspensions'.",
+     "tag": "reading",
+     "level": "B2"
+    },
+    {
+     "type": "mcq",
+     "q": "Who reviews the policy every year?",
+     "options": [
+      "Only the students",
+      "A committee of teachers, parents, and an administrator",
+      "The bus company",
+      "A group of substitutes"
+     ],
+     "answer": 1,
+     "whyTr": "Metin: 'reviewed every year by a committee including teachers, parents, and an administrator'.",
+     "tag": "reading",
+     "level": "B2"
+    }
+   ]
+  }
+ },
+ "evening": {
+  "listening": {
+   "title": "At the front office",
+   "script": [
+    {
+     "speaker": "Mr. Evans",
+     "text": "Hello, I'm Mr. Evans. My daughter was absent on Monday and Tuesday."
+    },
+    {
+     "speaker": "Hafsa",
+     "text": "Hello. Do you have a note for the absence?"
+    },
+    {
+     "speaker": "Mr. Evans",
+     "text": "She had a fever, so I took her to the doctor. Here is the note, signed by the doctor."
+    },
+    {
+     "speaker": "Hafsa",
+     "text": "Perfect. Absences supported by a doctor's note are excused. May I have her name?"
+    },
+    {
+     "speaker": "Mr. Evans",
+     "text": "Mia Evans, fourth grade."
+    },
+    {
+     "speaker": "Hafsa",
+     "text": "Thank you. I'll notify her teacher, who can send the missed homework home."
+    },
+    {
+     "speaker": "Mr. Evans",
+     "text": "That's great. Also, Mia used to ride the bus, but now I'm dropping her off. Where should I park?"
+    },
+    {
+     "speaker": "Hafsa",
+     "text": "Parents dropping off children should use the side lane. Mr. Brown said that the bus zone is not allowed for cars."
+    },
+    {
+     "speaker": "Mr. Evans",
+     "text": "Understood. Is there a form for that?"
+    },
+    {
+     "speaker": "Hafsa",
+     "text": "No form, but please remember to pick her up before three thirty."
+    },
+    {
+     "speaker": "Mr. Evans",
+     "text": "I will. Thank you for your help."
+    },
+    {
+     "speaker": "Hafsa",
+     "text": "You're welcome. I hope Mia feels better soon."
+    }
+   ],
+   "questions": [
+    {
+     "type": "mcq",
+     "q": "Why was Mia absent?",
+     "options": [
+      "She missed the bus.",
+      "She had a field trip.",
+      "She had a fever.",
+      "Her father was traveling."
+     ],
+     "answer": 2,
+     "whyTr": "Mr. Evans: 'She had a fever, so I took her to the doctor.'",
+     "tag": "listening",
+     "level": "B2"
+    },
+    {
+     "type": "mcq",
+     "q": "What makes the absence excused?",
+     "options": [
+      "A phone call from Mia",
+      "A letter from a friend",
+      "A visit to the principal",
+      "A note signed by a doctor"
+     ],
+     "answer": 3,
+     "whyTr": "Hafsa: 'Absences supported by a doctor's note are excused.'",
+     "tag": "listening",
+     "level": "B2"
+    },
+    {
+     "type": "mcq",
+     "q": "Where should parents dropping off children go?",
+     "options": [
+      "The side lane",
+      "The bus zone",
+      "The front door",
+      "The teachers' lot"
+     ],
+     "answer": 0,
+     "whyTr": "Hafsa: 'Parents dropping off children should use the side lane.'",
+     "tag": "listening",
+     "level": "B2"
+    },
+    {
+     "type": "mcq",
+     "q": "What does Hafsa ask Mr. Evans to remember?",
+     "options": [
+      "To bring a form",
+      "To pick Mia up before three thirty",
+      "To call the nurse",
+      "To sign a letter"
+     ],
+     "answer": 1,
+     "whyTr": "Hafsa: 'please remember to pick her up before three thirty'.",
+     "tag": "listening",
+     "level": "B2"
+    }
+   ]
+  },
+  "writing": {
+   "promptTr": "Okul adına velilere bir telefon politikası duyurusu yaz. En az bir aktarma fiili, bir virgüllü cümlecik, bir kısaltılmış cümlecik ve used to / remember to gibi bir yapı kullan. 120-180 kelime yaz.",
+   "promptEn": "Write a notice to parents about a school phone policy. Use a reporting verb, a non-defining clause, a participle clause, and one more structure from this week.",
+   "frames": [
+    "The committee, which ..., has ...",
+    "The principal admitted / suggested ...",
+    "Phones seen in class ...",
+    "Please remember to ..."
+   ],
+   "model": "Dear families, the school committee, which met last Tuesday, has reviewed the phone policy. The principal admitted that the old rule was confusing, and she suggested writing a simpler version. From next month, phones brought to school must stay in backpacks during lessons. Devices seen in class will be taken to the office, where parents can pick them up after school. Students using phones for medical reasons should bring a note signed by a doctor. Teachers have been advised to remind students politely before they take any action. I used to think that such rules were too strict, but I have gotten used to the idea that clear limits help children focus. Please remember to read the full policy on our website and to talk about it with your child. If you have questions, the front office, which is open from seven to four, will be glad to help. Thank you for your cooperation and support. Sincerely, Mr. Brown",
+   "checklistTr": [
+    "En az bir aktarma fiili (admit, suggest, advise, warn, deny) var mı?",
+    "Virgüllü bir cümlecik kullandın mı?",
+    "Kısaltılmış bir cümlecik (-ing veya V3) var mı?",
+    "remember to / used to gibi bir yapı kullandın mı?"
+   ],
+   "minWords": 120
+  },
+  "examSet": [
+   {
+    "type": "mcq",
+    "q": "He ___ taking the markers. He said, \"It wasn't me.\"",
+    "options": [
+     "denied",
+     "admitted",
+     "suggested"
+    ],
+    "answer": 0,
+    "whyTr": "Yapmadığını söylemek: deny.",
+    "tag": "reported-speech",
+    "level": "B2"
+   },
+   {
+    "type": "mcq",
+    "q": "The counselor warned parents ___ the phone during the meeting.",
+    "options": [
+     "not using",
+     "not to use",
+     "don't use"
+    ],
+    "answer": 1,
+    "whyTr": "'Warn' + kişi + not to + fiil.",
+    "tag": "reported-speech",
+    "level": "B2"
+   },
+   {
+    "type": "mcq",
+    "q": "Mr. Patel, ___ office is next to the gym, handles the buses.",
+    "options": [
+     "whose",
+     "who",
+     "which",
+     "that"
+    ],
+    "answer": 0,
+    "whyTr": "Aitlik için 'whose'.",
+    "tag": "relative-clauses",
+    "level": "B2"
+   },
+   {
+    "type": "mcq",
+    "q": "The library, ___ students read on soft rugs, is upstairs.",
+    "options": [
+     "who",
+     "where",
+     "whose",
+     "that"
+    ],
+    "answer": 1,
+    "whyTr": "Yer için 'where'.",
+    "tag": "relative-clauses",
+    "level": "B2"
+   },
+   {
+    "type": "mcq",
+    "q": "Students ___ after the bell must sign in.",
+    "options": [
+     "arrive",
+     "to arrive",
+     "arriving",
+     "are arrived"
+    ],
+    "answer": 2,
+    "whyTr": "Etken kısaltma: -ing.",
+    "tag": "relative-clauses",
+    "level": "B2"
+   },
+   {
+    "type": "mcq",
+    "q": "Forms ___ late will not be accepted.",
+    "options": [
+     "handing in",
+     "hand in",
+     "to hand in",
+     "handed in"
+    ],
+    "answer": 3,
+    "whyTr": "Formlar teslim edilir (edilgen): V3.",
+    "tag": "passive",
+    "level": "B2"
+   },
+   {
+    "type": "mcq",
+    "q": "I'm not used to ___ in a cold climate.",
+    "options": [
+     "living",
+     "live",
+     "lived",
+     "to live"
+    ],
+    "answer": 0,
+    "whyTr": "'Be used to' + -ing.",
+    "tag": "gerund-infinitive",
+    "level": "B2"
+   },
+   {
+    "type": "mcq",
+    "q": "When I was young, I ___ play outside until dark.",
+    "options": [
+     "am used to",
+     "used to",
+     "get used to",
+     "was used"
+    ],
+    "answer": 1,
+    "whyTr": "Geçmiş alışkanlık: used to + fiil.",
+    "tag": "past-simple",
+    "level": "B2"
+   },
+   {
+    "type": "mcq",
+    "q": "Don't forget ___ your badge at the front desk.",
+    "options": [
+     "showing",
+     "show",
+     "to show",
+     "showed"
+    ],
+    "answer": 2,
+    "whyTr": "Yapılacak şey: forget + to + fiil.",
+    "tag": "gerund-infinitive",
+    "level": "B2"
+   },
+   {
+    "type": "mcq",
+    "q": "I'll always remember ___ my first class as a substitute.",
+    "options": [
+     "to teach",
+     "teach",
+     "taught",
+     "teaching"
+    ],
+    "answer": 3,
+    "whyTr": "Geçmiş deneyim: remember + -ing.",
+    "tag": "gerund-infinitive",
+    "level": "B2"
+   },
+   {
+    "type": "mcq",
+    "q": "She stopped ___ because the class was loud.",
+    "options": [
+     "talking",
+     "to talk",
+     "talk",
+     "to talking"
+    ],
+    "answer": 0,
+    "whyTr": "Eylemi bırakmak: stop + -ing.",
+    "tag": "gerund-infinitive",
+    "level": "B2"
+   },
+   {
+    "type": "mcq",
+    "q": "If the committee ___ the policy, parents would be happier.",
+    "options": [
+     "revises",
+     "revised",
+     "will revise",
+     "would revise"
+    ],
+    "answer": 1,
+    "whyTr": "Gerçek dışı koşulda if cümlesi past simple alır.",
+    "tag": "conditionals",
+    "level": "B2"
+   },
+   {
+    "type": "mcq",
+    "q": "Teachers must ___ parents when a child is hurt.",
+    "options": [
+     "amend",
+     "retire",
+     "notify",
+     "vote"
+    ],
+    "answer": 2,
+    "whyTr": "Bildirmek: notify.",
+    "tag": "vocab",
+    "level": "B2"
+   },
+   {
+    "type": "mcq",
+    "q": "Mr. Brown's letter ___ the rule so that everyone understands it.",
+    "options": [
+     "violates",
+     "retires",
+     "appoints",
+     "clarifies"
+    ],
+    "answer": 3,
+    "whyTr": "Açıklığa kavuşturmak: clarify.",
+    "tag": "vocab",
+    "level": "B2"
+   },
+   {
+    "type": "mcq",
+    "q": "What is the opposite of \"excused\" (about an absence)?",
+    "options": [
+     "unexcused",
+     "eligible",
+     "annual",
+     "consent"
+    ],
+    "answer": 0,
+    "whyTr": "Excused'un zıttı unexcused.",
+    "tag": "antonym",
+    "level": "B2"
+   },
+   {
+    "type": "mcq",
+    "q": "Which word means almost the same as \"revise\"?",
+    "options": [
+     "ignore",
+     "amend",
+     "copy",
+     "delay"
+    ],
+    "answer": 1,
+    "whyTr": "Revise ve amend yakın anlamlıdır.",
+    "tag": "synonym",
+    "level": "B2"
+   },
+   {
+    "type": "mcq",
+    "q": "Students must have a parent's written ___ to join the field trip.",
+    "options": [
+     "guardian",
+     "tardiness",
+     "consent",
+     "absence"
+    ],
+    "answer": 2,
+    "whyTr": "Yazılı izin: consent.",
+    "tag": "vocab",
+    "level": "B2"
+   },
+   {
+    "type": "mcq",
+    "q": "The school sends an ___ report to families every June.",
+    "options": [
+     "eligible",
+     "inclusive",
+     "excused",
+     "annual"
+    ],
+    "answer": 3,
+    "whyTr": "Yıllık: annual.",
+    "tag": "vocab",
+    "level": "B2"
+   },
+   {
+    "type": "mcq",
+    "q": "Students who are tardy three times in a month will receive a letter. The letter, which is mailed to parents or guardians, asks the family to meet with the counselor. Meetings are held on Tuesday afternoons.\n\nWhat does the letter ask the family to do?",
+    "options": [
+     "Meet with the counselor",
+     "Pay a fee",
+     "Move to another school",
+     "Sign up for the bus"
+    ],
+    "answer": 0,
+    "whyTr": "Metin: 'asks the family to meet with the counselor'.",
+    "tag": "reading",
+    "level": "B2"
+   },
+   {
+    "type": "mcq",
+    "q": "The committee, formed last year, includes two teachers, two parents, and an administrator. Members reading the new draft said that the section on technology was too long. They suggested shortening it.\n\nWhat did the members suggest?",
+    "options": [
+     "Adding more teachers",
+     "Shortening the technology section",
+     "Removing the attendance part",
+     "Canceling the policy"
+    ],
+    "answer": 1,
+    "whyTr": "Metin: 'They suggested shortening it.'",
+    "tag": "reading",
+    "level": "B2"
+   }
+  ]
+ }
+}

@@ -1,0 +1,775 @@
+{
+ "week": 3,
+ "day": 1,
+ "titleTr": "Çocukluğun: was ve were",
+ "theme": "childhood",
+ "morning": {
+  "grammar": {
+   "topic": "was / were (to be, past)",
+   "explainTr": [
+    "'Was' ve 'were', 'am/is/are'ın geçmiş halidir. I, he, she, it ile 'was'; you, we, they ile 'were' kullanılır: I was happy. They were at home.",
+    "Olumsuzu 'wasn't' ve 'weren't'tir. Soruda fiil başa geçer: Was she tired? Were you at school? Kısa cevap: Yes, she was. / No, they weren't.",
+    "'There was' tekil, 'there were' çoğul şeyler için kullanılır: There was a garden. There were many roses. Geçmiş zaman işaretleri: yesterday, last year, in 1998, when I was a child."
+   ],
+   "compareTr": "Türkçede geçmiş zaman fiile eklenir: 'yorgundum', 'evdeydik'. İngilizcede 'was/were' ayrı bir kelimedir: I was tired, we were at home. Özneyi unutma: 'Was tired' değil, 'I was tired'.",
+   "table": [
+    [
+     "I / he / she / it",
+     "was",
+     "I was a shy child."
+    ],
+    [
+     "you / we / they",
+     "were",
+     "We were happy."
+    ],
+    [
+     "Olumsuz",
+     "wasn't / weren't",
+     "He wasn't at home."
+    ],
+    [
+     "Soru",
+     "Was / Were + özne?",
+     "Were you tired?"
+    ],
+    [
+     "Kısa cevap",
+     "Yes, I was. / No, we weren't.",
+     "Was it big? No, it wasn't."
+    ],
+    [
+     "there",
+     "there was / there were",
+     "There were many roses."
+    ]
+   ],
+   "examples": [
+    {
+     "en": "I was a shy child.",
+     "tr": "Utangaç bir çocuktum."
+    },
+    {
+     "en": "The village was very quiet.",
+     "tr": "Köy çok sessizdi."
+    },
+    {
+     "en": "We weren't rich, but we were happy.",
+     "tr": "Zengin değildik ama mutluyduk."
+    },
+    {
+     "en": "Were you tired yesterday?",
+     "tr": "Dün yorgun muydun?"
+    },
+    {
+     "en": "There were many roses in the garden.",
+     "tr": "Bahçede çok gül vardı."
+    }
+   ],
+   "exercises": [
+    {
+     "type": "mcq",
+     "q": "I ___ a shy child.",
+     "options": [
+      "was",
+      "were",
+      "am"
+     ],
+     "answer": 0,
+     "whyTr": "'I' ile geçmişte 'was' kullanılır.",
+     "tag": "to-be",
+     "level": "A2"
+    },
+    {
+     "type": "mcq",
+     "q": "My friends ___ in the garden.",
+     "options": [
+      "was",
+      "were",
+      "are"
+     ],
+     "answer": 1,
+     "whyTr": "Friends çoğul; geçmişte 'were'.",
+     "tag": "to-be",
+     "level": "A2"
+    },
+    {
+     "type": "order",
+     "promptTr": "Cümleyi sırala:",
+     "words": [
+      "was",
+      "born",
+      "I",
+      "in",
+      "Isparta"
+     ],
+     "answer": "I was born in Isparta",
+     "whyTr": "Sıra: özne + was + gerisi.",
+     "tag": "word-order",
+     "level": "A2"
+    },
+    {
+     "type": "mcq",
+     "q": "The village ___ big. It was very small.",
+     "options": [
+      "weren't",
+      "isn't",
+      "wasn't"
+     ],
+     "answer": 2,
+     "whyTr": "Village tekil ve geçmiş zaman: wasn't.",
+     "tag": "negative-form",
+     "level": "A2"
+    },
+    {
+     "type": "mcq",
+     "q": "___ you tired yesterday?",
+     "options": [
+      "Were",
+      "Was",
+      "Did"
+     ],
+     "answer": 0,
+     "whyTr": "You ile geçmişte soru: Were you...?",
+     "tag": "question-form",
+     "level": "A2"
+    },
+    {
+     "type": "mcq",
+     "q": "There ___ many roses in the garden.",
+     "options": [
+      "was",
+      "were",
+      "are"
+     ],
+     "answer": 1,
+     "whyTr": "Roses çoğul: there were.",
+     "tag": "there-is",
+     "level": "A2"
+    },
+    {
+     "type": "order",
+     "promptTr": "Soruyu sırala:",
+     "words": [
+      "Was",
+      "your",
+      "school",
+      "far?"
+     ],
+     "answer": "Was your school far?",
+     "whyTr": "Soruda 'Was' başa gelir.",
+     "tag": "question-form",
+     "level": "A2"
+    },
+    {
+     "type": "mcq",
+     "q": "\"Was Emre at school?\" \"No, he ___.\"",
+     "options": [
+      "weren't",
+      "isn't",
+      "wasn't"
+     ],
+     "answer": 2,
+     "whyTr": "Kısa cevap: No, he wasn't.",
+     "tag": "to-be",
+     "level": "A2"
+    },
+    {
+     "type": "mcq",
+     "q": "Which sentence is correct?",
+     "options": [
+      "Yesterday I was at home.",
+      "Yesterday I am at home.",
+      "Yesterday I were at home."
+     ],
+     "answer": 0,
+     "whyTr": "'Yesterday' geçmiş zaman ister; I ile 'was'.",
+     "tag": "to-be",
+     "level": "A2"
+    },
+    {
+     "type": "mcq",
+     "q": "Hafsa ___ from Turkey.",
+     "options": [
+      "are",
+      "is",
+      "do"
+     ],
+     "answer": 1,
+     "whyTr": "Şimdiki zamanın tekrarı: she/Hafsa ile 'is'.",
+     "tag": "to-be",
+     "level": "A2"
+    },
+    {
+     "type": "fill",
+     "q": "We ___ happy in the village.",
+     "accept": [
+      "were"
+     ],
+     "hintTr": "geçmiş, we ile",
+     "whyTr": "We ile geçmişte 'were' kullanılır.",
+     "tag": "to-be",
+     "level": "A2"
+    },
+    {
+     "type": "fill",
+     "q": "She ___ in Ohio last year, but now she lives here.",
+     "accept": [
+      "was"
+     ],
+     "hintTr": "geçmiş, she ile",
+     "whyTr": "Last year geçmiş zaman; she ile 'was'.",
+     "tag": "to-be",
+     "level": "A2"
+    }
+   ]
+  },
+  "vocab": [
+   {
+    "id": "childhood",
+    "en": "childhood",
+    "tr": "çocukluk",
+    "pos": "noun",
+    "example": "I have good memories of my childhood.",
+    "exampleTr": "Çocukluğumla ilgili güzel anılarım var.",
+    "syn": [],
+    "ant": [],
+    "level": "A2"
+   },
+   {
+    "id": "village",
+    "en": "village",
+    "tr": "köy",
+    "pos": "noun",
+    "example": "Her village was small and quiet.",
+    "exampleTr": "Onun köyü küçük ve sessizdi.",
+    "syn": [],
+    "ant": [],
+    "level": "A2"
+   },
+   {
+    "id": "garden",
+    "en": "garden",
+    "tr": "bahçe",
+    "pos": "noun",
+    "example": "There was a big garden behind the house.",
+    "exampleTr": "Evin arkasında büyük bir bahçe vardı.",
+    "syn": [],
+    "ant": [],
+    "level": "A2"
+   },
+   {
+    "id": "orchard",
+    "en": "orchard",
+    "tr": "meyve bahçesi",
+    "pos": "noun",
+    "example": "We picked apples in the orchard.",
+    "exampleTr": "Meyve bahçesinde elma topladık.",
+    "syn": [],
+    "ant": [],
+    "level": "A2"
+   },
+   {
+    "id": "mountain",
+    "en": "mountain",
+    "tr": "dağ",
+    "pos": "noun",
+    "example": "The mountains were white in winter.",
+    "exampleTr": "Dağlar kışın beyazdı.",
+    "syn": [],
+    "ant": [],
+    "level": "A2"
+   },
+   {
+    "id": "rose",
+    "en": "rose",
+    "tr": "gül",
+    "pos": "noun",
+    "example": "Isparta is famous for its roses.",
+    "exampleTr": "Isparta gülleriyle ünlüdür.",
+    "syn": [],
+    "ant": [],
+    "level": "A2"
+   },
+   {
+    "id": "river",
+    "en": "river",
+    "tr": "nehir",
+    "pos": "noun",
+    "example": "The river was cold and clear.",
+    "exampleTr": "Nehir soğuk ve berraktı.",
+    "syn": [],
+    "ant": [],
+    "level": "A2"
+   },
+   {
+    "id": "shy",
+    "en": "shy",
+    "tr": "utangaç",
+    "pos": "adjective",
+    "example": "I was shy at school.",
+    "exampleTr": "Okulda utangaçtım.",
+    "syn": [],
+    "ant": [
+     "confident"
+    ],
+    "level": "A2"
+   },
+   {
+    "id": "brave",
+    "en": "brave",
+    "tr": "cesur",
+    "pos": "adjective",
+    "example": "The little boy was very brave.",
+    "exampleTr": "Küçük çocuk çok cesurdu.",
+    "syn": [
+     "courageous"
+    ],
+    "ant": [
+     "afraid"
+    ],
+    "level": "A2"
+   },
+   {
+    "id": "proud",
+    "en": "proud",
+    "tr": "gururlu",
+    "pos": "adjective",
+    "example": "She was proud of her son.",
+    "exampleTr": "Oğluyla gurur duyuyordu.",
+    "syn": [],
+    "ant": [],
+    "level": "A2"
+   },
+   {
+    "id": "tired",
+    "en": "tired",
+    "tr": "yorgun",
+    "pos": "adjective",
+    "example": "We were tired after the trip.",
+    "exampleTr": "Geziden sonra yorgunduk.",
+    "syn": [
+     "exhausted"
+    ],
+    "ant": [
+     "energetic"
+    ],
+    "level": "A2"
+   },
+   {
+    "id": "lucky",
+    "en": "lucky",
+    "tr": "şanslı",
+    "pos": "adjective",
+    "example": "We were lucky with the weather.",
+    "exampleTr": "Hava konusunda şanslıydık.",
+    "syn": [
+     "fortunate"
+    ],
+    "ant": [
+     "unlucky"
+    ],
+    "level": "A2"
+   },
+   {
+    "id": "busy",
+    "en": "busy",
+    "tr": "meşgul",
+    "pos": "adjective",
+    "example": "My neighbor was busy yesterday.",
+    "exampleTr": "Komşum dün meşguldü.",
+    "syn": [],
+    "ant": [
+     "free"
+    ],
+    "level": "A2"
+   },
+   {
+    "id": "bored",
+    "en": "bored",
+    "tr": "sıkılmış",
+    "pos": "adjective",
+    "example": "The children were bored in the car.",
+    "exampleTr": "Çocuklar arabada sıkılmıştı.",
+    "syn": [],
+    "ant": [
+     "excited"
+    ],
+    "level": "A2"
+   },
+   {
+    "id": "excited",
+    "en": "excited",
+    "tr": "heyecanlı",
+    "pos": "adjective",
+    "example": "Emre was excited about the trip.",
+    "exampleTr": "Emre gezi için heyecanlıydı.",
+    "syn": [],
+    "ant": [
+     "bored"
+    ],
+    "level": "A2"
+   }
+  ],
+  "reading": {
+   "title": "Hafsa remembers Isparta",
+   "text": "When Hafsa was a girl, she lived in a small village near Isparta. The village was very quiet. There was a big garden behind her house, and there were many roses in it. Isparta is famous for roses, and the whole town smelled sweet in May.\n\nHafsa was a shy child, but she was never bored. She was always busy. In summer she was in the orchard with the neighbors, and they were happy to pick apples. In winter the mountains were white with snow. Her school was not far, and her teacher was very kind.\n\nToday Hafsa lives in the United States. Her son Emre asks, \"Were you happy in the village?\" She smiles. \"Yes, I was. We weren't rich, but we were lucky.\"",
+   "glossary": [
+    {
+     "en": "famous for",
+     "tr": "...ile ünlü"
+    },
+    {
+     "en": "smelled sweet",
+     "tr": "tatlı kokuyordu"
+    },
+    {
+     "en": "pick",
+     "tr": "toplamak"
+    },
+    {
+     "en": "rich",
+     "tr": "zengin"
+    }
+   ],
+   "questions": [
+    {
+     "type": "mcq",
+     "q": "Where did Hafsa live as a girl?",
+     "options": [
+      "In a big city",
+      "In the United States",
+      "In a small village near Isparta"
+     ],
+     "answer": 2,
+     "whyTr": "Metin: 'a small village near Isparta'.",
+     "tag": "reading",
+     "level": "A2"
+    },
+    {
+     "type": "mcq",
+     "q": "What was in the garden?",
+     "options": [
+      "Many roses",
+      "A river",
+      "A school"
+     ],
+     "answer": 0,
+     "whyTr": "Metin: 'there were many roses in it'.",
+     "tag": "reading",
+     "level": "A2"
+    },
+    {
+     "type": "mcq",
+     "q": "Was Hafsa bored as a child?",
+     "options": [
+      "Yes, she was bored in summer.",
+      "No, she was always busy.",
+      "Yes, she was bored at school."
+     ],
+     "answer": 1,
+     "whyTr": "Metin: 'she was never bored. She was always busy.'",
+     "tag": "reading",
+     "level": "A2"
+    },
+    {
+     "type": "mcq",
+     "q": "What does Hafsa say at the end?",
+     "options": [
+      "We were rich.",
+      "The village was big.",
+      "We were lucky."
+     ],
+     "answer": 2,
+     "whyTr": "Son cümle: 'we were lucky'.",
+     "tag": "reading",
+     "level": "A2"
+    }
+   ]
+  }
+ },
+ "evening": {
+  "listening": {
+   "title": "Linda asks about childhood",
+   "script": [
+    {
+     "speaker": "Linda",
+     "text": "Hafsa, where were you born?"
+    },
+    {
+     "speaker": "Hafsa",
+     "text": "I was born in Isparta, in Turkey."
+    },
+    {
+     "speaker": "Linda",
+     "text": "Was it a big city?"
+    },
+    {
+     "speaker": "Hafsa",
+     "text": "No, it wasn't. It was a small town with a lot of roses."
+    },
+    {
+     "speaker": "Linda",
+     "text": "Were you a good student?"
+    },
+    {
+     "speaker": "Hafsa",
+     "text": "Yes, I was. I was very shy, but my teachers were kind."
+    },
+    {
+     "speaker": "Linda",
+     "text": "Were your classes big?"
+    },
+    {
+     "speaker": "Hafsa",
+     "text": "Yes, they were. There were thirty students in my class."
+    },
+    {
+     "speaker": "Linda",
+     "text": "Thirty! My school was small. There were only fifteen students."
+    },
+    {
+     "speaker": "Hafsa",
+     "text": "Really? Where was your school?"
+    },
+    {
+     "speaker": "Linda",
+     "text": "It was in Ohio, near a farm."
+    },
+    {
+     "speaker": "Hafsa",
+     "text": "That sounds nice. Maybe we were both lucky."
+    }
+   ],
+   "questions": [
+    {
+     "type": "mcq",
+     "q": "Where was Hafsa born?",
+     "options": [
+      "In Isparta",
+      "In Ohio",
+      "In a big city"
+     ],
+     "answer": 0,
+     "whyTr": "Hafsa: 'I was born in Isparta'.",
+     "tag": "listening",
+     "level": "A2"
+    },
+    {
+     "type": "mcq",
+     "q": "Was Isparta a big city?",
+     "options": [
+      "Yes, it was very big.",
+      "No, it was a small town.",
+      "Yes, it was a village."
+     ],
+     "answer": 1,
+     "whyTr": "Hafsa: 'No, it wasn't. It was a small town'.",
+     "tag": "listening",
+     "level": "A2"
+    },
+    {
+     "type": "mcq",
+     "q": "How many students were in Hafsa's class?",
+     "options": [
+      "Fifteen",
+      "Twenty",
+      "Thirty"
+     ],
+     "answer": 2,
+     "whyTr": "Hafsa: 'There were thirty students'.",
+     "tag": "listening",
+     "level": "A2"
+    },
+    {
+     "type": "mcq",
+     "q": "Where was Linda's school?",
+     "options": [
+      "In Ohio",
+      "In Isparta",
+      "In Boston"
+     ],
+     "answer": 0,
+     "whyTr": "Linda: 'It was in Ohio'.",
+     "tag": "listening",
+     "level": "A2"
+    }
+   ]
+  },
+  "writing": {
+   "promptTr": "Çocukluğunu 4-5 cümleyle anlat: nerede doğdun, nasıl bir yerdi, nasıl bir çocuktun?",
+   "promptEn": "Write 4-5 sentences about your childhood.",
+   "frames": [
+    "I was born in ...",
+    "My town / village was ...",
+    "There was / were ...",
+    "I was ..., but I wasn't ..."
+   ],
+   "model": "I was born in Isparta. It was a small town. There were many roses and a big garden at my house. I was shy, but I was happy. My friends were kind, and my school was not far from home. I was lucky.",
+   "checklistTr": [
+    "Geçmişte 'was/were' kullandın mı (I am değil, I was)?",
+    "I/he/she/it ile 'was', you/we/they ile 'were' doğru mu?",
+    "Cümleler büyük harfle başlıyor ve noktayla bitiyor mu?"
+   ],
+   "minWords": 35
+  },
+  "examSet": [
+   {
+    "type": "mcq",
+    "q": "The students ___ late yesterday.",
+    "options": [
+     "was",
+     "were",
+     "are"
+    ],
+    "answer": 1,
+    "whyTr": "Students çoğul; geçmişte 'were'.",
+    "tag": "to-be",
+    "level": "A2"
+   },
+   {
+    "type": "mcq",
+    "q": "I ___ at the bank on Monday.",
+    "options": [
+     "were",
+     "am",
+     "was"
+    ],
+    "answer": 2,
+    "whyTr": "I ile geçmişte 'was'.",
+    "tag": "to-be",
+    "level": "A2"
+   },
+   {
+    "type": "mcq",
+    "q": "When you were a child, ___ there a garden at your house?",
+    "options": [
+     "Was",
+     "Were",
+     "Did"
+    ],
+    "answer": 0,
+    "whyTr": "Garden tekil: Was there...?",
+    "tag": "there-is",
+    "level": "A2"
+   },
+   {
+    "type": "mcq",
+    "q": "The mountains ___ green in winter. They were white.",
+    "options": [
+     "wasn't",
+     "weren't",
+     "aren't"
+    ],
+    "answer": 1,
+    "whyTr": "Mountains çoğul; olumsuz: weren't.",
+    "tag": "negative-form",
+    "level": "A2"
+   },
+   {
+    "type": "mcq",
+    "q": "A person who is afraid to talk to new people is ___.",
+    "options": [
+     "brave",
+     "lucky",
+     "shy"
+    ],
+    "answer": 2,
+    "whyTr": "Yeni insanlarla konuşmaktan çekinen kişi 'shy'dır.",
+    "tag": "vocab",
+    "level": "A2"
+   },
+   {
+    "type": "mcq",
+    "q": "A ___ is a very small town in the countryside.",
+    "options": [
+     "village",
+     "river",
+     "rose"
+    ],
+    "answer": 0,
+    "whyTr": "Köy = village.",
+    "tag": "vocab",
+    "level": "A2"
+   },
+   {
+    "type": "mcq",
+    "q": "Which word means almost the same as \"tired\"?",
+    "options": [
+     "excited",
+     "exhausted",
+     "brave"
+    ],
+    "answer": 1,
+    "whyTr": "Tired ve exhausted benzer anlamlı.",
+    "tag": "synonym",
+    "level": "A2"
+   },
+   {
+    "type": "mcq",
+    "q": "What is the opposite of \"bored\"?",
+    "options": [
+     "tired",
+     "shy",
+     "excited"
+    ],
+    "answer": 2,
+    "whyTr": "Bored'ın zıttı excited.",
+    "tag": "antonym",
+    "level": "A2"
+   },
+   {
+    "type": "mcq",
+    "q": "Linda ___ coffee every morning.",
+    "options": [
+     "drinks",
+     "drink",
+     "is drink"
+    ],
+    "answer": 0,
+    "whyTr": "Present simple: she/Linda ile fiile -s gelir.",
+    "tag": "present-simple",
+    "level": "A2"
+   },
+   {
+    "type": "mcq",
+    "q": "___ you help me, please?",
+    "options": [
+     "Do",
+     "Can",
+     "Are"
+    ],
+    "answer": 1,
+    "whyTr": "Rica için 'Can you...?' kullanılır.",
+    "tag": "modals",
+    "level": "A2"
+   },
+   {
+    "type": "mcq",
+    "q": "Last Sunday Hafsa was at the park. The weather was nice, and many families were there. Linda was there too. They were happy to see each other.\n\nWho was at the park with Hafsa?",
+    "options": [
+     "Emre",
+     "Mr. Brown",
+     "Linda"
+    ],
+    "answer": 2,
+    "whyTr": "Metin: 'Linda was there too.'",
+    "tag": "reading",
+    "level": "A2"
+   },
+   {
+    "type": "mcq",
+    "q": "Emre was ten years old when the school year began. His classroom was big, and his teacher was nice. Emre was shy on the first day, but he was happy after lunch.\n\nHow was Emre after lunch?",
+    "options": [
+     "Happy",
+     "Shy",
+     "Tired"
+    ],
+    "answer": 0,
+    "whyTr": "Metin: 'he was happy after lunch'.",
+    "tag": "reading",
+    "level": "A2"
+   }
+  ]
+ }
+}

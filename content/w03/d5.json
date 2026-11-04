@@ -1,0 +1,772 @@
+{
+ "week": 3,
+ "day": 5,
+ "titleTr": "Yoğun bir gün: ago, last, yesterday ve sıralama",
+ "theme": "busy-day",
+ "morning": {
+  "grammar": {
+   "topic": "Geçmiş zaman ifadeleri (ago, last, yesterday) ve first / then / after that / finally",
+   "explainTr": [
+    "'Ago' geçmişte ne kadar önce olduğunu söyler ve süreden sonra gelir: two days ago, five years ago. 'Last' + zaman kendi başına kullanılır: last night, last week, last year. 'Yesterday' dün demektir: yesterday morning, yesterday afternoon.",
+    "Dikkat: 'last morning' veya 'yesterday week' denmez. Sabah, öğleden sonra, akşam için yesterday kullan: yesterday evening. Gece için last night denir (yesterday night değil).",
+    "Olayları sırayla anlatmak için: First (önce), Then (sonra), After that (ondan sonra), Finally (en sonunda). Her biri cümlenin başına gelir ve virgül alabilir: First, I made breakfast."
+   ],
+   "compareTr": "Türkçede 'iki gün önce' süre başta gelir. İngilizcede 'ago' sondadır: 'two days ago'. 'Önce' kelimesi 'before' ile karışır; geçmişteki bir süreyi 'ago' ile söyleriz: I moved here two years ago, 'before two years' demeyiz.",
+   "table": [
+    [
+     "ago",
+     "süre + ago",
+     "three days ago"
+    ],
+    [
+     "last",
+     "last + night/week/month/year",
+     "last week"
+    ],
+    [
+     "yesterday",
+     "yesterday + morning/afternoon/evening",
+     "yesterday morning"
+    ],
+    [
+     "First",
+     "ilk adım",
+     "First, I made breakfast."
+    ],
+    [
+     "Then / After that",
+     "sonraki adımlar",
+     "Then I took the bus."
+    ],
+    [
+     "Finally",
+     "son adım",
+     "Finally, I cooked dinner."
+    ]
+   ],
+   "examples": [
+    {
+     "en": "I moved here two years ago.",
+     "tr": "Buraya iki yıl önce taşındım."
+    },
+    {
+     "en": "I saw Linda last week.",
+     "tr": "Linda'yı geçen hafta gördüm."
+    },
+    {
+     "en": "Yesterday morning I went to the bank.",
+     "tr": "Dün sabah bankaya gittim."
+    },
+    {
+     "en": "First, I made tea. Then I called the school.",
+     "tr": "Önce çay yaptım. Sonra okulu aradım."
+    },
+    {
+     "en": "Finally, I got home at five.",
+     "tr": "En sonunda saat beşte eve geldim."
+    }
+   ],
+   "exercises": [
+    {
+     "type": "mcq",
+     "q": "I called the school two days ___.",
+     "options": [
+      "ago",
+      "last",
+      "before"
+     ],
+     "answer": 0,
+     "whyTr": "Süreden sonra 'ago' gelir: two days ago.",
+     "tag": "prepositions-time",
+     "level": "A2"
+    },
+    {
+     "type": "mcq",
+     "q": "Hafsa went to the market ___ Friday.",
+     "options": [
+      "ago",
+      "last",
+      "yesterday"
+     ],
+     "answer": 1,
+     "whyTr": "Gün adından önce 'last' kullanılır: last Friday.",
+     "tag": "prepositions-time",
+     "level": "A2"
+    },
+    {
+     "type": "mcq",
+     "q": "Hafsa was at the bank ___ morning.",
+     "options": [
+      "last",
+      "ago",
+      "yesterday"
+     ],
+     "answer": 2,
+     "whyTr": "Sabah için 'yesterday morning' denir.",
+     "tag": "prepositions-time",
+     "level": "A2"
+    },
+    {
+     "type": "mcq",
+     "q": "___ I made breakfast. Then I took the bus.",
+     "options": [
+      "First",
+      "Finally",
+      "Then"
+     ],
+     "answer": 0,
+     "whyTr": "Sıralamayı 'First' başlatır.",
+     "tag": "linkers",
+     "level": "A2"
+    },
+    {
+     "type": "order",
+     "promptTr": "Cümleyi sırala:",
+     "words": [
+      "First",
+      "I",
+      "made",
+      "breakfast"
+     ],
+     "answer": "First I made breakfast",
+     "whyTr": "Sıra bağlacı cümlenin başına gelir.",
+     "tag": "word-order",
+     "level": "A2"
+    },
+    {
+     "type": "mcq",
+     "q": "She finished work. ___ that, she went to the store.",
+     "options": [
+      "Ago",
+      "After",
+      "Last"
+     ],
+     "answer": 1,
+     "whyTr": "'After that' = bundan sonra.",
+     "tag": "linkers",
+     "level": "A2"
+    },
+    {
+     "type": "order",
+     "promptTr": "Cümleyi sırala:",
+     "words": [
+      "I",
+      "moved",
+      "here",
+      "three",
+      "years",
+      "ago"
+     ],
+     "answer": "I moved here three years ago",
+     "whyTr": "'Ago' süreden sonra ve cümlenin sonunda gelir.",
+     "tag": "word-order",
+     "level": "A2"
+    },
+    {
+     "type": "mcq",
+     "q": "Which sentence is correct?",
+     "options": [
+      "I saw Linda ago three days.",
+      "I saw Linda before three days.",
+      "I saw Linda three days ago."
+     ],
+     "answer": 2,
+     "whyTr": "Doğru sıra: süre + ago.",
+     "tag": "prepositions-time",
+     "level": "A2"
+    },
+    {
+     "type": "mcq",
+     "q": "Hafsa made tea. ___ she took the bus.",
+     "options": [
+      "Then",
+      "Ago",
+      "Last"
+     ],
+     "answer": 0,
+     "whyTr": "Sıradaki adım için 'Then' kullanılır.",
+     "tag": "linkers",
+     "level": "A2"
+    },
+    {
+     "type": "mcq",
+     "q": "___ you go to the market yesterday?",
+     "options": [
+      "Do",
+      "Did",
+      "Were"
+     ],
+     "answer": 1,
+     "whyTr": "Önceki konu: geçmişte soru 'Did' ile başlar.",
+     "tag": "question-form",
+     "level": "A2"
+    },
+    {
+     "type": "fill",
+     "q": "I met Linda two weeks ___.",
+     "accept": [
+      "ago"
+     ],
+     "hintTr": "önce (süreden sonra)",
+     "whyTr": "Süreden sonra 'ago' gelir.",
+     "tag": "prepositions-time",
+     "level": "A2"
+    },
+    {
+     "type": "fill",
+     "q": "___ I called the school. Then I took the bus.",
+     "accept": [
+      "First",
+      "first"
+     ],
+     "hintTr": "ilk adım",
+     "whyTr": "Sıralamanın ilk adımı 'First'.",
+     "tag": "linkers",
+     "level": "A2"
+    }
+   ]
+  },
+  "vocab": [
+   {
+    "id": "breakfast",
+    "en": "breakfast",
+    "tr": "kahvaltı",
+    "pos": "noun",
+    "example": "I made breakfast at seven.",
+    "exampleTr": "Kahvaltıyı yedide hazırladım.",
+    "syn": [],
+    "ant": [],
+    "level": "A2"
+   },
+   {
+    "id": "lunch",
+    "en": "lunch",
+    "tr": "öğle yemeği",
+    "pos": "noun",
+    "example": "We had lunch at noon.",
+    "exampleTr": "Öğlen öğle yemeği yedik.",
+    "syn": [],
+    "ant": [],
+    "level": "A2"
+   },
+   {
+    "id": "dinner",
+    "en": "dinner",
+    "tr": "akşam yemeği",
+    "pos": "noun",
+    "example": "Dinner was ready at six.",
+    "exampleTr": "Akşam yemeği altıda hazırdı.",
+    "syn": [],
+    "ant": [],
+    "level": "A2"
+   },
+   {
+    "id": "traffic",
+    "en": "traffic",
+    "tr": "trafik",
+    "pos": "noun",
+    "example": "The traffic was terrible this morning.",
+    "exampleTr": "Bu sabah trafik berbattı.",
+    "syn": [],
+    "ant": [],
+    "level": "A2"
+   },
+   {
+    "id": "errand",
+    "en": "errand",
+    "tr": "küçük iş, işlerini halletme",
+    "pos": "noun",
+    "example": "I have three errands to do today.",
+    "exampleTr": "Bugün yapacak üç işim var.",
+    "syn": [],
+    "ant": [],
+    "level": "A2"
+   },
+   {
+    "id": "hurry",
+    "en": "hurry",
+    "tr": "acele etmek",
+    "pos": "verb",
+    "example": "We hurried to the bus stop.",
+    "exampleTr": "Otobüs durağına acele ettik.",
+    "syn": [
+     "rush"
+    ],
+    "ant": [],
+    "level": "A2"
+   },
+   {
+    "id": "finally",
+    "en": "finally",
+    "tr": "sonunda",
+    "pos": "adverb",
+    "example": "Finally, I got home.",
+    "exampleTr": "Sonunda eve geldim.",
+    "syn": [
+     "at last"
+    ],
+    "ant": [],
+    "level": "A2"
+   },
+   {
+    "id": "suddenly",
+    "en": "suddenly",
+    "tr": "birdenbire",
+    "pos": "adverb",
+    "example": "Suddenly it started to rain.",
+    "exampleTr": "Birdenbire yağmur başladı.",
+    "syn": [
+     "all of a sudden"
+    ],
+    "ant": [],
+    "level": "A2"
+   },
+   {
+    "id": "exhausted",
+    "en": "exhausted",
+    "tr": "bitkin",
+    "pos": "adjective",
+    "example": "I was exhausted after the long day.",
+    "exampleTr": "Uzun günün sonunda bitkindim.",
+    "syn": [
+     "tired"
+    ],
+    "ant": [
+     "energetic"
+    ],
+    "level": "A2"
+   },
+   {
+    "id": "delay",
+    "en": "delay",
+    "tr": "gecikme; geciktirmek",
+    "pos": "noun",
+    "example": "There was a delay at the airport.",
+    "exampleTr": "Havalimanında bir gecikme vardı.",
+    "syn": [],
+    "ant": [],
+    "level": "A2"
+   },
+   {
+    "id": "bakery",
+    "en": "bakery",
+    "tr": "fırın, pastane",
+    "pos": "noun",
+    "example": "The bakery sells fresh bread.",
+    "exampleTr": "Fırın taze ekmek satıyor.",
+    "syn": [],
+    "ant": [],
+    "level": "A2"
+   },
+   {
+    "id": "return",
+    "en": "return",
+    "tr": "geri vermek, geri dönmek",
+    "pos": "verb",
+    "example": "I returned the book to the library.",
+    "exampleTr": "Kitabı kütüphaneye geri verdim.",
+    "syn": [],
+    "ant": [],
+    "level": "A2"
+   },
+   {
+    "id": "message",
+    "en": "message",
+    "tr": "mesaj",
+    "pos": "noun",
+    "example": "Mr. Brown left a message for me.",
+    "exampleTr": "Mr. Brown bana bir mesaj bıraktı.",
+    "syn": [],
+    "ant": [],
+    "level": "A2"
+   },
+   {
+    "id": "forget",
+    "en": "forget",
+    "tr": "unutmak",
+    "pos": "verb",
+    "example": "I forgot my keys at home.",
+    "exampleTr": "Anahtarlarımı evde unuttum.",
+    "syn": [],
+    "ant": [
+     "remember"
+    ],
+    "level": "A2"
+   },
+   {
+    "id": "remember",
+    "en": "remember",
+    "tr": "hatırlamak",
+    "pos": "verb",
+    "example": "Do you remember her name?",
+    "exampleTr": "Adını hatırlıyor musun?",
+    "syn": [],
+    "ant": [
+     "forget"
+    ],
+    "level": "A2"
+   }
+  ],
+  "reading": {
+   "title": "Hafsa's very busy Tuesday",
+   "text": "Yesterday was the busiest day of the month for Hafsa. First, she made breakfast for Emre and walked him to the bus stop. Then she went to the bakery and bought bread. After that, she hurried to the front office at Lincoln Elementary because Mr. Brown left a message the day before.\n\nAt ten o'clock Mr. Brown gave her a form. She finished it, and he said, \"Come back on Friday.\" Then Hafsa ran some errands. She returned a book to the library and paid a bill at the bank. Suddenly it started to rain, and the traffic was terrible. The bus was twenty minutes late.\n\nFinally, she got home at five o'clock. She forgot to buy milk, but she remembered Emre's soccer practice. She made dinner for both of them. By nine o'clock she was exhausted. In her notebook she wrote, \"Today was busy, but I did everything.\"",
+   "glossary": [
+    {
+     "en": "front office",
+     "tr": "okulun ön ofisi"
+    },
+    {
+     "en": "bill",
+     "tr": "fatura"
+    },
+    {
+     "en": "the day before",
+     "tr": "bir gün önce"
+    },
+    {
+     "en": "practice",
+     "tr": "antrenman"
+    }
+   ],
+   "questions": [
+    {
+     "type": "mcq",
+     "q": "What did Hafsa do first?",
+     "options": [
+      "She went to the bank.",
+      "She bought bread.",
+      "She made breakfast."
+     ],
+     "answer": 2,
+     "whyTr": "Metin: 'First, she made breakfast'.",
+     "tag": "reading",
+     "level": "A2"
+    },
+    {
+     "type": "mcq",
+     "q": "What did Hafsa buy at the bakery?",
+     "options": [
+      "Bread",
+      "Milk",
+      "A book"
+     ],
+     "answer": 0,
+     "whyTr": "Metin: 'she went to the bakery and bought bread'.",
+     "tag": "reading",
+     "level": "A2"
+    },
+    {
+     "type": "mcq",
+     "q": "Why was Hafsa late at the end of the day?",
+     "options": [
+      "She forgot the bank.",
+      "The bus was late because of the rain and traffic.",
+      "She lost her message."
+     ],
+     "answer": 1,
+     "whyTr": "Metin: 'it started to rain, and the traffic was terrible. The bus was twenty minutes late.'",
+     "tag": "reading",
+     "level": "A2"
+    },
+    {
+     "type": "mcq",
+     "q": "How did Hafsa feel at nine o'clock?",
+     "options": [
+      "Bored",
+      "Excited",
+      "Exhausted"
+     ],
+     "answer": 2,
+     "whyTr": "Metin: 'By nine o'clock she was exhausted'.",
+     "tag": "reading",
+     "level": "A2"
+    }
+   ]
+  }
+ },
+ "evening": {
+  "listening": {
+   "title": "A phone call about yesterday",
+   "script": [
+    {
+     "speaker": "Linda",
+     "text": "Hafsa, I called you yesterday. Where were you?"
+    },
+    {
+     "speaker": "Hafsa",
+     "text": "Oh, I'm sorry, Linda. It was a crazy day."
+    },
+    {
+     "speaker": "Linda",
+     "text": "What did you do?"
+    },
+    {
+     "speaker": "Hafsa",
+     "text": "First, I made breakfast and took Emre to the bus stop. Then I went to the school office."
+    },
+    {
+     "speaker": "Linda",
+     "text": "And after that?"
+    },
+    {
+     "speaker": "Hafsa",
+     "text": "After that, I returned a library book and bought bread at the bakery."
+    },
+    {
+     "speaker": "Linda",
+     "text": "That's a lot of errands!"
+    },
+    {
+     "speaker": "Hafsa",
+     "text": "Yes! Then it rained, and the bus was late. I got home at five o'clock."
+    },
+    {
+     "speaker": "Linda",
+     "text": "And finally you made dinner?"
+    },
+    {
+     "speaker": "Hafsa",
+     "text": "Yes, but I forgot to buy milk."
+    },
+    {
+     "speaker": "Linda",
+     "text": "I bought milk this morning. Come and get some."
+    },
+    {
+     "speaker": "Hafsa",
+     "text": "Thank you, Linda. I'm coming now."
+    }
+   ],
+   "questions": [
+    {
+     "type": "mcq",
+     "q": "What did Hafsa do first yesterday?",
+     "options": [
+      "She made breakfast.",
+      "She went to the bakery.",
+      "She returned a book."
+     ],
+     "answer": 0,
+     "whyTr": "Hafsa: 'First, I made breakfast'.",
+     "tag": "listening",
+     "level": "A2"
+    },
+    {
+     "type": "mcq",
+     "q": "Where did Hafsa buy bread?",
+     "options": [
+      "At the library",
+      "At the bakery",
+      "At the school office"
+     ],
+     "answer": 1,
+     "whyTr": "Hafsa: 'bought bread at the bakery'.",
+     "tag": "listening",
+     "level": "A2"
+    },
+    {
+     "type": "mcq",
+     "q": "What time did Hafsa get home?",
+     "options": [
+      "At nine o'clock",
+      "At ten o'clock",
+      "At five o'clock"
+     ],
+     "answer": 2,
+     "whyTr": "Hafsa: 'I got home at five o'clock'.",
+     "tag": "listening",
+     "level": "A2"
+    },
+    {
+     "type": "mcq",
+     "q": "What did Hafsa forget to buy?",
+     "options": [
+      "Milk",
+      "Bread",
+      "A book"
+     ],
+     "answer": 0,
+     "whyTr": "Hafsa: 'I forgot to buy milk'.",
+     "tag": "listening",
+     "level": "A2"
+    }
+   ]
+  },
+  "writing": {
+   "promptTr": "Yoğun bir günü 5-6 cümleyle anlat. First, Then, After that ve Finally kullan.",
+   "promptEn": "Write about a busy day. Use First, Then, After that and Finally.",
+   "frames": [
+    "Yesterday was a busy day.",
+    "First, I ...",
+    "Then I ...",
+    "After that, I ...",
+    "Finally, I ..."
+   ],
+   "model": "Yesterday was a busy day. First, I made breakfast. Then I went to the bakery. After that, I returned a book to the library. Finally, I cooked dinner. I forgot milk, but Linda helped me. I was exhausted, but I was happy.",
+   "checklistTr": [
+    "First, Then, After that, Finally kullandın mı?",
+    "Geçmiş fiilleri doğru yazdın mı (went, returned, cooked)?",
+    "Cümleler büyük harfle başlıyor ve noktayla bitiyor mu?"
+   ],
+   "minWords": 35
+  },
+  "examSet": [
+   {
+    "type": "mcq",
+    "q": "I came to this country five years ___.",
+    "options": [
+     "last",
+     "ago",
+     "yesterday"
+    ],
+    "answer": 1,
+    "whyTr": "Süreden sonra 'ago' gelir.",
+    "tag": "prepositions-time",
+    "level": "A2"
+   },
+   {
+    "type": "mcq",
+    "q": "Emre went to the library ___ Saturday.",
+    "options": [
+     "ago",
+     "yesterday",
+     "last"
+    ],
+    "answer": 2,
+    "whyTr": "Gün adından önce 'last' kullanılır.",
+    "tag": "prepositions-time",
+    "level": "A2"
+   },
+   {
+    "type": "mcq",
+    "q": "___ I made lunch. Then I washed the dishes.",
+    "options": [
+     "First",
+     "Finally",
+     "Ago"
+    ],
+    "answer": 0,
+    "whyTr": "Sıralamayı 'First' başlatır.",
+    "tag": "linkers",
+    "level": "A2"
+   },
+   {
+    "type": "mcq",
+    "q": "Hafsa cleaned the house. After ___, she took a shower.",
+    "options": [
+     "ago",
+     "that",
+     "last"
+    ],
+    "answer": 1,
+    "whyTr": "'After that' = bundan sonra.",
+    "tag": "linkers",
+    "level": "A2"
+   },
+   {
+    "type": "mcq",
+    "q": "The bus was late because of the ___.",
+    "options": [
+     "breakfast",
+     "bakery",
+     "traffic"
+    ],
+    "answer": 2,
+    "whyTr": "Otobüsü geciktiren şey trafik.",
+    "tag": "vocab",
+    "level": "A2"
+   },
+   {
+    "type": "mcq",
+    "q": "I need to buy milk and mail a letter. I have many ___ today.",
+    "options": [
+     "errands",
+     "messages",
+     "dinners"
+    ],
+    "answer": 0,
+    "whyTr": "Küçük işlere 'errands' denir.",
+    "tag": "vocab",
+    "level": "A2"
+   },
+   {
+    "type": "mcq",
+    "q": "Which word means almost the same as \"finally\"?",
+    "options": [
+     "never",
+     "at last",
+     "always"
+    ],
+    "answer": 1,
+    "whyTr": "Finally ve at last benzer anlamlı.",
+    "tag": "synonym",
+    "level": "A2"
+   },
+   {
+    "type": "mcq",
+    "q": "What is the opposite of \"forget\"?",
+    "options": [
+     "return",
+     "hurry",
+     "remember"
+    ],
+    "answer": 2,
+    "whyTr": "Forget'in zıttı remember.",
+    "tag": "antonym",
+    "level": "A2"
+   },
+   {
+    "type": "mcq",
+    "q": "___ you read Mr. Brown's message?",
+    "options": [
+     "Did",
+     "Do",
+     "Was"
+    ],
+    "answer": 0,
+    "whyTr": "Önceki konu: geçmişte soru 'Did' ile başlar.",
+    "tag": "question-form",
+    "level": "A2"
+   },
+   {
+    "type": "mcq",
+    "q": "I ___ remember my password yesterday.",
+    "options": [
+     "don't",
+     "didn't",
+     "wasn't"
+    ],
+    "answer": 1,
+    "whyTr": "Önceki konu: geçmişte olumsuz didn't + yalın fiil.",
+    "tag": "negative-form",
+    "level": "A2"
+   },
+   {
+    "type": "mcq",
+    "q": "Last night Hafsa studied English for two hours. First, she read a short story. Then she wrote ten new words in her notebook. After that, she listened to a song. Finally, she went to bed.\n\nWhat did she do after she wrote the new words?",
+    "options": [
+     "She read a story.",
+     "She went to bed.",
+     "She listened to a song."
+    ],
+    "answer": 2,
+    "whyTr": "Metin: 'After that, she listened to a song'.",
+    "tag": "reading",
+    "level": "A2"
+   },
+   {
+    "type": "mcq",
+    "q": "Emre had a hard morning. He forgot his lunch at home. He ran back, but the bus left. Suddenly Ms. Carter stopped her car and took him to school.\n\nWho took Emre to school?",
+    "options": [
+     "Ms. Carter",
+     "Linda",
+     "Mr. Brown"
+    ],
+    "answer": 0,
+    "whyTr": "Metin: 'Ms. Carter stopped her car and took him to school'.",
+    "tag": "reading",
+    "level": "A2"
+   }
+  ]
+ }
+}

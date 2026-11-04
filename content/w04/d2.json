@@ -1,0 +1,769 @@
+{
+ "week": 4,
+ "day": 2,
+ "titleTr": "Restoranda: will",
+ "theme": "restaurant",
+ "morning": {
+  "grammar": {
+   "topic": "will (decisions, promises, offers)",
+   "explainTr": [
+    "'Will' ile o anda verdiğin kararı (I'll have the soup), sözünü (I will call you) ve yardım teklifini (I'll carry it) söylersin. Kısaltması 'll: I'll, she'll, we'll.",
+    "'Will' her özneyle aynı kalır ve ardından yalın fiil gelir: She will pay. Olumsuzu 'will not' ya da 'won't'. Soru: Will you help me?",
+    "Kısa kural: Daha önce planladığın şey için 'going to', o anda karar verdiğin ya da söz verdiğin şey için 'will' kullan."
+   ],
+   "compareTr": "Türkçede 'yapacağım' hem planı hem sözü anlatır. İngilizcede ayrım var: 'I'll have the soup' (o an karar), 'I'm going to visit Linda' (önceki plan). 'Will' sonrasında 'to' ve -s almaz: I will to go yanlış.",
+   "table": [
+    [
+     "I / you / he / she / we / they",
+     "will + fiil",
+     "She will pay."
+    ],
+    [
+     "Kısaltma",
+     "'ll",
+     "I'll help you."
+    ],
+    [
+     "Olumsuz",
+     "will not / won't",
+     "I won't forget."
+    ],
+    [
+     "Soru",
+     "Will + özne + fiil?",
+     "Will you help me?"
+    ],
+    [
+     "Kısa cevap",
+     "Yes, I will. / No, I won't.",
+     "Will he come? Yes, he will."
+    ]
+   ],
+   "examples": [
+    {
+     "en": "I'll have the soup, please.",
+     "tr": "Çorba alacağım lütfen."
+    },
+    {
+     "en": "I will call you tomorrow.",
+     "tr": "Seni yarın arayacağım."
+    },
+    {
+     "en": "Don't worry. I'll help you.",
+     "tr": "Merak etme. Sana yardım edeceğim."
+    },
+    {
+     "en": "She won't be late.",
+     "tr": "O geç kalmayacak."
+    },
+    {
+     "en": "Will you bring the menu?",
+     "tr": "Menüyü getirir misin?"
+    }
+   ],
+   "exercises": [
+    {
+     "type": "mcq",
+     "q": "Waiter: What would you like? Hafsa: I ___ have the soup, please.",
+     "options": [
+      "will",
+      "am",
+      "do",
+      "going"
+     ],
+     "answer": 0,
+     "whyTr": "Anında verilen karar için 'will' kullanılır.",
+     "tag": "future",
+     "level": "A1"
+    },
+    {
+     "type": "mcq",
+     "q": "She will ___ the bill.",
+     "options": [
+      "pays",
+      "pay",
+      "to pay",
+      "paying"
+     ],
+     "answer": 1,
+     "whyTr": "'Will'den sonra yalın fiil gelir.",
+     "tag": "future",
+     "level": "A1"
+    },
+    {
+     "type": "order",
+     "promptTr": "Cümleyi sırala:",
+     "words": [
+      "bag",
+      "will",
+      "your",
+      "I",
+      "carry"
+     ],
+     "answer": "I will carry your bag",
+     "whyTr": "Sıra: özne + will + fiil + gerisi.",
+     "tag": "future",
+     "level": "A1"
+    },
+    {
+     "type": "mcq",
+     "q": "I ___ forget your birthday. I promise.",
+     "options": [
+      "don't will",
+      "not will",
+      "willn't",
+      "won't"
+     ],
+     "answer": 3,
+     "whyTr": "Will'in olumsuzu 'won't'tur.",
+     "tag": "future",
+     "level": "A2"
+    },
+    {
+     "type": "mcq",
+     "q": "___ you pass me the salt, please?",
+     "options": [
+      "Are",
+      "Do",
+      "Will"
+     ],
+     "answer": 2,
+     "whyTr": "Rica için 'Will you...?' kullanılır.",
+     "tag": "future",
+     "level": "A2"
+    },
+    {
+     "type": "order",
+     "promptTr": "Cümleyi sırala:",
+     "words": [
+      "you",
+      "the",
+      "bring",
+      "Will",
+      "menu,",
+      "please?"
+     ],
+     "answer": "Will you bring the menu, please?",
+     "whyTr": "Soruda 'Will' başa gelir.",
+     "tag": "question-form",
+     "level": "A2"
+    },
+    {
+     "type": "mcq",
+     "q": "It's cold in here. I think I ___ have some hot tea.",
+     "options": [
+      "am",
+      "going",
+      "do",
+      "will"
+     ],
+     "answer": 3,
+     "whyTr": "Şu anda verilen karar: 'will'.",
+     "tag": "future",
+     "level": "A2"
+    },
+    {
+     "type": "mcq",
+     "q": "Which sentence is correct?",
+     "options": [
+      "I will call you tomorrow.",
+      "I will to call you tomorrow.",
+      "I will calling you tomorrow.",
+      "I wills call you tomorrow."
+     ],
+     "answer": 0,
+     "whyTr": "Will'den sonra 'to' gelmez, fiil yalın kalır.",
+     "tag": "future",
+     "level": "A2"
+    },
+    {
+     "type": "order",
+     "promptTr": "Cümleyi sırala:",
+     "words": [
+      "late",
+      "She",
+      "be",
+      "won't",
+      "tonight"
+     ],
+     "answer": "She won't be late tonight",
+     "whyTr": "Olumsuz: won't + yalın fiil.",
+     "tag": "future",
+     "level": "A2"
+    },
+    {
+     "type": "mcq",
+     "q": "Emre has a big test tomorrow. He ___ study tonight. It's his plan.",
+     "options": [
+      "is study",
+      "will to",
+      "are going to",
+      "is going to"
+     ],
+     "answer": 3,
+     "whyTr": "Önceden yapılmış plan için 'going to' daha doğaldır.",
+     "tag": "future",
+     "level": "A2"
+    },
+    {
+     "type": "fill",
+     "q": "Don't worry. I ___ help you.",
+     "accept": [
+      "will",
+      "'ll"
+     ],
+     "hintTr": "söz / yardım teklifi",
+     "whyTr": "Yardım teklifi için 'will' kullanılır.",
+     "tag": "future",
+     "level": "A2"
+    },
+    {
+     "type": "fill",
+     "q": "Linda ___ coffee every morning. (drink)",
+     "accept": [
+      "drinks"
+     ],
+     "hintTr": "she için -s",
+     "whyTr": "Alışkanlık: she + drinks.",
+     "tag": "present-simple",
+     "level": "A2"
+    }
+   ]
+  },
+  "vocab": [
+   {
+    "id": "menu",
+    "en": "menu",
+    "tr": "menü",
+    "pos": "noun",
+    "example": "Can I see the menu, please?",
+    "exampleTr": "Menüyü görebilir miyim lütfen?",
+    "syn": [],
+    "ant": [],
+    "level": "A2"
+   },
+   {
+    "id": "order",
+    "en": "order",
+    "tr": "sipariş vermek; sipariş",
+    "pos": "verb",
+    "example": "Are you ready to order?",
+    "exampleTr": "Sipariş vermeye hazır mısınız?",
+    "syn": [],
+    "ant": [],
+    "level": "A2"
+   },
+   {
+    "id": "waiter",
+    "en": "waiter",
+    "tr": "garson",
+    "pos": "noun",
+    "example": "The waiter brings our water.",
+    "exampleTr": "Garson suyumuzu getiriyor.",
+    "syn": [],
+    "ant": [],
+    "level": "A2"
+   },
+   {
+    "id": "bill",
+    "en": "bill",
+    "tr": "hesap, fatura",
+    "pos": "noun",
+    "example": "Can we have the bill, please?",
+    "exampleTr": "Hesabı alabilir miyiz lütfen?",
+    "syn": [],
+    "ant": [],
+    "level": "A2"
+   },
+   {
+    "id": "tip",
+    "en": "tip",
+    "tr": "bahşiş",
+    "pos": "noun",
+    "example": "I always leave a tip.",
+    "exampleTr": "Her zaman bahşiş bırakırım.",
+    "syn": [],
+    "ant": [],
+    "level": "A2"
+   },
+   {
+    "id": "soup",
+    "en": "soup",
+    "tr": "çorba",
+    "pos": "noun",
+    "example": "The vegetable soup is hot.",
+    "exampleTr": "Sebze çorbası sıcak.",
+    "syn": [],
+    "ant": [],
+    "level": "A2"
+   },
+   {
+    "id": "salad",
+    "en": "salad",
+    "tr": "salata",
+    "pos": "noun",
+    "example": "I'll have a small salad.",
+    "exampleTr": "Küçük bir salata alacağım.",
+    "syn": [],
+    "ant": [],
+    "level": "A2"
+   },
+   {
+    "id": "dessert",
+    "en": "dessert",
+    "tr": "tatlı",
+    "pos": "noun",
+    "example": "We will share a dessert.",
+    "exampleTr": "Bir tatlıyı paylaşacağız.",
+    "syn": [],
+    "ant": [],
+    "level": "A2"
+   },
+   {
+    "id": "delicious",
+    "en": "delicious",
+    "tr": "çok lezzetli",
+    "pos": "adjective",
+    "example": "The fish is delicious.",
+    "exampleTr": "Balık çok lezzetli.",
+    "syn": [
+     "tasty"
+    ],
+    "ant": [],
+    "level": "A2"
+   },
+   {
+    "id": "hungry",
+    "en": "hungry",
+    "tr": "aç",
+    "pos": "adjective",
+    "example": "I am very hungry.",
+    "exampleTr": "Çok açım.",
+    "syn": [],
+    "ant": [
+     "full"
+    ],
+    "level": "A2"
+   },
+   {
+    "id": "thirsty",
+    "en": "thirsty",
+    "tr": "susamış",
+    "pos": "adjective",
+    "example": "I'm thirsty. I'll have some water.",
+    "exampleTr": "Susadım. Biraz su alacağım.",
+    "syn": [],
+    "ant": [],
+    "level": "A2"
+   },
+   {
+    "id": "pay",
+    "en": "pay",
+    "tr": "ödemek",
+    "pos": "verb",
+    "example": "I will pay for dinner.",
+    "exampleTr": "Yemeğin parasını ben ödeyeceğim.",
+    "syn": [],
+    "ant": [],
+    "level": "A2"
+   },
+   {
+    "id": "share",
+    "en": "share",
+    "tr": "paylaşmak",
+    "pos": "verb",
+    "example": "Let's share a pizza.",
+    "exampleTr": "Bir pizzayı paylaşalım.",
+    "syn": [],
+    "ant": [],
+    "level": "A2"
+   },
+   {
+    "id": "promise",
+    "en": "promise",
+    "tr": "söz vermek; söz",
+    "pos": "verb",
+    "example": "I promise I will call you.",
+    "exampleTr": "Söz veriyorum seni arayacağım.",
+    "syn": [],
+    "ant": [],
+    "level": "A2"
+   },
+   {
+    "id": "offer",
+    "en": "offer",
+    "tr": "teklif etmek; teklif",
+    "pos": "verb",
+    "example": "I'll offer to help Linda.",
+    "exampleTr": "Linda'ya yardım etmeyi teklif edeceğim.",
+    "syn": [],
+    "ant": [],
+    "level": "A2"
+   }
+  ],
+  "reading": {
+   "title": "Emre's birthday dinner",
+   "text": "On Friday night, Hafsa and Emre go to a small restaurant downtown. It is Emre's birthday. The waiter brings the menu. Emre is very hungry. \"I'll have the chicken soup and a big salad,\" he says. Hafsa looks at the menu for a long time. \"I'll have fish, please,\" she says. The waiter smiles. \"Of course. And what will you drink?\" \"Water for me,\" says Emre. \"I'll have tea,\" says Hafsa.\n\nAfter dinner, the waiter asks, \"Will you have dessert?\" Emre says yes. \"We'll share a chocolate cake,\" Hafsa says. When the bill comes, Emre tries to pay, but Hafsa says, \"No, no. It's your birthday. I will pay. I'll also leave a good tip.\" Emre smiles. \"Thank you, Mom. I promise I'll pay next time.\"",
+   "glossary": [
+    {
+     "en": "birthday",
+     "tr": "doğum günü"
+    },
+    {
+     "en": "chicken",
+     "tr": "tavuk"
+    },
+    {
+     "en": "fish",
+     "tr": "balık"
+    },
+    {
+     "en": "leave a tip",
+     "tr": "bahşiş bırakmak"
+    }
+   ],
+   "questions": [
+    {
+     "type": "mcq",
+     "q": "Why do Hafsa and Emre go to the restaurant?",
+     "options": [
+      "It is Hafsa's birthday.",
+      "It is Emre's birthday.",
+      "They are not hungry."
+     ],
+     "answer": 1,
+     "whyTr": "Metin: 'It is Emre's birthday.'",
+     "tag": "reading",
+     "level": "A2"
+    },
+    {
+     "type": "mcq",
+     "q": "What will Emre eat?",
+     "options": [
+      "Fish and rice",
+      "Only dessert",
+      "Soup and a salad"
+     ],
+     "answer": 2,
+     "whyTr": "Emre: 'I'll have the chicken soup and a big salad.'",
+     "tag": "reading",
+     "level": "A2"
+    },
+    {
+     "type": "mcq",
+     "q": "What will Hafsa drink?",
+     "options": [
+      "Water",
+      "Tea",
+      "Lemonade"
+     ],
+     "answer": 1,
+     "whyTr": "Hafsa: 'I'll have tea.'",
+     "tag": "reading",
+     "level": "A2"
+    },
+    {
+     "type": "mcq",
+     "q": "Who will pay the bill?",
+     "options": [
+      "Emre",
+      "The waiter",
+      "Hafsa"
+     ],
+     "answer": 2,
+     "whyTr": "Hafsa: 'I will pay.'",
+     "tag": "reading",
+     "level": "A2"
+    }
+   ]
+  }
+ },
+ "evening": {
+  "listening": {
+   "title": "At the restaurant",
+   "script": [
+    {
+     "speaker": "Waiter",
+     "text": "Good evening. Are you ready to order?"
+    },
+    {
+     "speaker": "Hafsa",
+     "text": "Yes. I'll have the vegetable soup, please."
+    },
+    {
+     "speaker": "Waiter",
+     "text": "Would you like a salad with that?"
+    },
+    {
+     "speaker": "Hafsa",
+     "text": "Yes, I'll have a small salad. And Linda will have the chicken."
+    },
+    {
+     "speaker": "Linda",
+     "text": "Yes, I'll have chicken with rice, please."
+    },
+    {
+     "speaker": "Waiter",
+     "text": "Anything to drink?"
+    },
+    {
+     "speaker": "Linda",
+     "text": "I'll have lemonade. Hafsa, what will you drink?"
+    },
+    {
+     "speaker": "Hafsa",
+     "text": "Just water for me."
+    },
+    {
+     "speaker": "Waiter",
+     "text": "Great. The soup will be ready in five minutes."
+    },
+    {
+     "speaker": "Linda",
+     "text": "Oh no, I forgot my wallet!"
+    },
+    {
+     "speaker": "Hafsa",
+     "text": "Don't worry. I'll pay today. You can pay next time."
+    },
+    {
+     "speaker": "Linda",
+     "text": "Thank you! I promise I'll buy lunch next week."
+    }
+   ],
+   "questions": [
+    {
+     "type": "mcq",
+     "q": "What does Hafsa order first?",
+     "options": [
+      "Vegetable soup",
+      "Chicken",
+      "Lemonade"
+     ],
+     "answer": 0,
+     "whyTr": "Hafsa: 'I'll have the vegetable soup.'",
+     "tag": "listening",
+     "level": "A2"
+    },
+    {
+     "type": "mcq",
+     "q": "What will Linda drink?",
+     "options": [
+      "Water",
+      "Tea",
+      "Lemonade"
+     ],
+     "answer": 2,
+     "whyTr": "Linda: 'I'll have lemonade.'",
+     "tag": "listening",
+     "level": "A2"
+    },
+    {
+     "type": "mcq",
+     "q": "Why can't Linda pay?",
+     "options": [
+      "She forgot her wallet.",
+      "She is not hungry.",
+      "She doesn't like the food."
+     ],
+     "answer": 0,
+     "whyTr": "Linda: 'I forgot my wallet!'",
+     "tag": "listening",
+     "level": "A2"
+    },
+    {
+     "type": "mcq",
+     "q": "What will Linda do next week?",
+     "options": [
+      "Cook dinner",
+      "Buy lunch",
+      "Visit the museum"
+     ],
+     "answer": 1,
+     "whyTr": "Linda: 'I'll buy lunch next week.'",
+     "tag": "listening",
+     "level": "A2"
+    }
+   ]
+  },
+  "writing": {
+   "promptTr": "Restoranda ne sipariş edeceğini ve bir arkadaşına nasıl yardım edeceğini 4-5 cümleyle yaz.",
+   "promptEn": "Write 4-5 sentences about what you will order and how you will help a friend.",
+   "frames": [
+    "I'll have ...",
+    "I'll also have ...",
+    "I will pay for ...",
+    "Don't worry. I'll ..."
+   ],
+   "model": "I'll have the chicken soup and a small salad. I'll also have a cup of tea. My friend forgot her money. Don't worry. I'll pay for dinner today. She will pay next time.",
+   "checklistTr": [
+    "'Will'den sonra yalın fiil var mı (will pays değil)?",
+    "Karar, söz veya teklif cümleleri yazdın mı?",
+    "Cümleler büyük harfle başlıyor ve noktayla bitiyor mu?"
+   ],
+   "minWords": 35
+  },
+  "examSet": [
+   {
+    "type": "mcq",
+    "q": "I'm tired. I think I ___ go to bed early tonight.",
+    "options": [
+     "am go",
+     "going",
+     "will",
+     "goes"
+    ],
+    "answer": 2,
+    "whyTr": "Anlık karar: I think I will...",
+    "tag": "future",
+    "level": "A2"
+   },
+   {
+    "type": "mcq",
+    "q": "\"Can you help me?\" \"Sure. I ___ carry the box.\"",
+    "options": [
+     "am carrying to",
+     "carries",
+     "going",
+     "will"
+    ],
+    "answer": 3,
+    "whyTr": "Yardım teklifi için 'will'.",
+    "tag": "future",
+    "level": "A2"
+   },
+   {
+    "type": "mcq",
+    "q": "I ___ tell anyone your secret. I promise.",
+    "options": [
+     "don't will",
+     "won't",
+     "willn't",
+     "not"
+    ],
+    "answer": 1,
+    "whyTr": "Söz verirken 'won't' kullanılır.",
+    "tag": "future",
+    "level": "A2"
+   },
+   {
+    "type": "mcq",
+    "q": "Hafsa is going to visit Linda ___ Saturday.",
+    "options": [
+     "in",
+     "on",
+     "at"
+    ],
+    "answer": 1,
+    "whyTr": "Günlerle 'on' kullanılır.",
+    "tag": "prepositions-time",
+    "level": "A2"
+   },
+   {
+    "type": "mcq",
+    "q": "Last night, Emre ___ pizza for dinner.",
+    "options": [
+     "eats",
+     "eated",
+     "eating",
+     "ate"
+    ],
+    "answer": 3,
+    "whyTr": "Eat düzensiz fiildir: ate.",
+    "tag": "past-simple",
+    "level": "A2"
+   },
+   {
+    "type": "mcq",
+    "q": "Hafsa ___ tea every afternoon.",
+    "options": [
+     "drinks",
+     "drink",
+     "drinking"
+    ],
+    "answer": 0,
+    "whyTr": "Alışkanlık, she: drinks.",
+    "tag": "present-simple",
+    "level": "A2"
+   },
+   {
+    "type": "mcq",
+    "q": "Can we have the ___, please? We want to pay.",
+    "options": [
+     "menu",
+     "soup",
+     "bill"
+    ],
+    "answer": 2,
+    "whyTr": "Ödemek için hesabı (bill) isteriz.",
+    "tag": "vocab",
+    "level": "A2"
+   },
+   {
+    "type": "mcq",
+    "q": "I am very ___. I want to eat something now.",
+    "options": [
+     "hungry",
+     "thirsty",
+     "delicious"
+    ],
+    "answer": 0,
+    "whyTr": "Yemek istiyorsa aç (hungry).",
+    "tag": "vocab",
+    "level": "A2"
+   },
+   {
+    "type": "mcq",
+    "q": "Which word means almost the same as \"delicious\"?",
+    "options": [
+     "salty",
+     "tasty",
+     "hot"
+    ],
+    "answer": 1,
+    "whyTr": "Delicious ve tasty benzer anlamlıdır.",
+    "tag": "synonym",
+    "level": "A2"
+   },
+   {
+    "type": "mcq",
+    "q": "What is the opposite of \"hungry\"?",
+    "options": [
+     "full",
+     "thirsty",
+     "tired"
+    ],
+    "answer": 0,
+    "whyTr": "Hungry'nin zıttı full (tok).",
+    "tag": "antonym",
+    "level": "A2"
+   },
+   {
+    "type": "mcq",
+    "q": "Anna is at a restaurant. She looks at the menu. \"I'll have the soup,\" she says. The waiter writes it down.\n\nWhat will Anna eat?",
+    "options": [
+     "The salad",
+     "The soup",
+     "The fish"
+    ],
+    "answer": 1,
+    "whyTr": "Anna: 'I'll have the soup.'",
+    "tag": "reading",
+    "level": "A2"
+   },
+   {
+    "type": "mcq",
+    "q": "Tom forgot his wallet. His friend says, \"Don't worry. I'll pay for lunch today.\"\n\nWho will pay for lunch?",
+    "options": [
+     "Tom",
+     "The waiter",
+     "Tom's friend"
+    ],
+    "answer": 2,
+    "whyTr": "Arkadaşı: 'I'll pay for lunch today.'",
+    "tag": "reading",
+    "level": "A2"
+   }
+  ]
+ }
+}

@@ -1,0 +1,786 @@
+{
+ "week": 3,
+ "day": 3,
+ "titleTr": "Amerika'ya taşınmak: düzensiz fiiller",
+ "theme": "moving",
+ "morning": {
+  "grammar": {
+   "topic": "Past Simple: düzensiz fiiller (en sık 30)",
+   "explainTr": [
+    "Bazı fiillerin geçmişi -ed almaz, şekil değiştirir: go - went, buy - bought. Bunlara düzensiz fiiller denir; kural yok, ezberlenir. En sık 30 tanesini bilmek yeter, çünkü günlük konuşmanın çoğu bunlardır.",
+    "Geçmişte hepsi her özneyle aynı kalır: I went, she went, they went. Çok sık yapılan hata fiile -ed eklemektir: 'goed', 'buyed' yanlıştır.",
+    "Küçük bir ipucu: Her gün 5 fiili bir cümle içinde tekrar et. Bugünkü tablo 30 fiili gösteriyor; hepsini bugün ezberlemen gerekmez, alıştırmalar yardım edecek."
+   ],
+   "compareTr": "Türkçede 'gitti', 'aldı', 'gördü' gibi geçmiş zaman ekleri düzenlidir. İngilizcede 'go' fiilinin geçmişi 'went' olur, tamamen farklı bir kelime gibi. Düzenli fiillerdeki gibi -ed eklemek yanlıştır.",
+   "table": [
+    [
+     "go - went",
+     "come - came",
+     "see - saw"
+    ],
+    [
+     "have - had",
+     "get - got",
+     "make - made"
+    ],
+    [
+     "take - took",
+     "give - gave",
+     "find - found"
+    ],
+    [
+     "buy - bought",
+     "bring - brought",
+     "think - thought"
+    ],
+    [
+     "tell - told",
+     "say - said",
+     "know - knew"
+    ],
+    [
+     "eat - ate",
+     "drink - drank",
+     "write - wrote"
+    ],
+    [
+     "read - read",
+     "meet - met",
+     "leave - left"
+    ],
+    [
+     "feel - felt",
+     "sit - sat",
+     "stand - stood"
+    ],
+    [
+     "speak - spoke",
+     "begin - began",
+     "run - ran"
+    ],
+    [
+     "sleep - slept",
+     "pay - paid",
+     "lose - lost"
+    ]
+   ],
+   "examples": [
+    {
+     "en": "We went to Boston by plane.",
+     "tr": "Boston'a uçakla gittik."
+    },
+    {
+     "en": "She bought a big suitcase.",
+     "tr": "Büyük bir bavul aldı."
+    },
+    {
+     "en": "I met my neighbor on the first day.",
+     "tr": "İlk gün komşumla tanıştım."
+    },
+    {
+     "en": "Emre made a new friend at school.",
+     "tr": "Emre okulda yeni bir arkadaş edindi."
+    },
+    {
+     "en": "I felt homesick, but I was brave.",
+     "tr": "Ev özlemi çektim ama cesurdum."
+    }
+   ],
+   "exercises": [
+    {
+     "type": "mcq",
+     "q": "Last year Hafsa ___ to the United States.",
+     "options": [
+      "went",
+      "goed",
+      "go"
+     ],
+     "answer": 0,
+     "whyTr": "Go'nun geçmişi 'went'tir; 'goed' yoktur.",
+     "tag": "past-simple",
+     "level": "A2"
+    },
+    {
+     "type": "mcq",
+     "q": "She ___ a big suitcase before the trip.",
+     "options": [
+      "buyed",
+      "bought",
+      "buy"
+     ],
+     "answer": 1,
+     "whyTr": "Buy'ın geçmişi 'bought'tur.",
+     "tag": "past-simple",
+     "level": "A2"
+    },
+    {
+     "type": "mcq",
+     "q": "We ___ Linda on the first day.",
+     "options": [
+      "meeted",
+      "meet",
+      "met"
+     ],
+     "answer": 2,
+     "whyTr": "Meet'in geçmişi 'met'tir.",
+     "tag": "past-simple",
+     "level": "A2"
+    },
+    {
+     "type": "mcq",
+     "q": "The past of \"take\" is ___.",
+     "options": [
+      "took",
+      "taked",
+      "taking"
+     ],
+     "answer": 0,
+     "whyTr": "Take - took.",
+     "tag": "past-simple",
+     "level": "A2"
+    },
+    {
+     "type": "order",
+     "promptTr": "Cümleyi sırala:",
+     "words": [
+      "I",
+      "saw",
+      "snow",
+      "for",
+      "the",
+      "first",
+      "time"
+     ],
+     "answer": "I saw snow for the first time",
+     "whyTr": "Sıra: özne + geçmiş fiil + gerisi.",
+     "tag": "word-order",
+     "level": "A2"
+    },
+    {
+     "type": "mcq",
+     "q": "Emre ___ a new friend at school.",
+     "options": [
+      "maked",
+      "made",
+      "make"
+     ],
+     "answer": 1,
+     "whyTr": "Make'in geçmişi 'made'dir.",
+     "tag": "past-simple",
+     "level": "A2"
+    },
+    {
+     "type": "mcq",
+     "q": "I ___ homesick, but I was brave.",
+     "options": [
+      "feeled",
+      "feel",
+      "felt"
+     ],
+     "answer": 2,
+     "whyTr": "Feel - felt.",
+     "tag": "past-simple",
+     "level": "A2"
+    },
+    {
+     "type": "order",
+     "promptTr": "Cümleyi sırala:",
+     "words": [
+      "She",
+      "spoke",
+      "English",
+      "with",
+      "the",
+      "driver"
+     ],
+     "answer": "She spoke English with the driver",
+     "whyTr": "Fiil öznenin hemen arkasından gelir.",
+     "tag": "word-order",
+     "level": "A2"
+    },
+    {
+     "type": "mcq",
+     "q": "Which sentence is correct?",
+     "options": [
+      "They ate dinner at home.",
+      "They eated dinner at home.",
+      "They eat dinner yesterday."
+     ],
+     "answer": 0,
+     "whyTr": "Eat'in geçmişi 'ate'; 'yesterday' geçmiş ister.",
+     "tag": "past-simple",
+     "level": "A2"
+    },
+    {
+     "type": "mcq",
+     "q": "Hafsa ___ tea every morning.",
+     "options": [
+      "drank",
+      "drinks",
+      "drink"
+     ],
+     "answer": 1,
+     "whyTr": "Every morning alışkanlık: present simple, -s gerekir.",
+     "tag": "present-simple",
+     "level": "A2"
+    },
+    {
+     "type": "fill",
+     "q": "We ___ to Boston by plane.",
+     "accept": [
+      "went"
+     ],
+     "hintTr": "go, geçmiş",
+     "whyTr": "Go'nun geçmişi: went.",
+     "tag": "past-simple",
+     "level": "A2"
+    },
+    {
+     "type": "fill",
+     "q": "I ___ a letter to my friend last night.",
+     "accept": [
+      "wrote"
+     ],
+     "hintTr": "write, geçmiş",
+     "whyTr": "Write - wrote.",
+     "tag": "past-simple",
+     "level": "A2"
+    }
+   ]
+  },
+  "vocab": [
+   {
+    "id": "airport",
+    "en": "airport",
+    "tr": "havalimanı",
+    "pos": "noun",
+    "example": "We arrived at the airport at night.",
+    "exampleTr": "Gece havalimanına vardık.",
+    "syn": [],
+    "ant": [],
+    "level": "A2"
+   },
+   {
+    "id": "suitcase",
+    "en": "suitcase",
+    "tr": "bavul",
+    "pos": "noun",
+    "example": "Her suitcase was small but heavy.",
+    "exampleTr": "Bavulu küçüktü ama ağırdı.",
+    "syn": [],
+    "ant": [],
+    "level": "A2"
+   },
+   {
+    "id": "flight",
+    "en": "flight",
+    "tr": "uçuş",
+    "pos": "noun",
+    "example": "The flight was long and tiring.",
+    "exampleTr": "Uçuş uzun ve yorucuydu.",
+    "syn": [],
+    "ant": [],
+    "level": "A2"
+   },
+   {
+    "id": "passport",
+    "en": "passport",
+    "tr": "pasaport",
+    "pos": "noun",
+    "example": "Show your passport at the airport.",
+    "exampleTr": "Havalimanında pasaportunu göster.",
+    "syn": [],
+    "ant": [],
+    "level": "A2"
+   },
+   {
+    "id": "visa",
+    "en": "visa",
+    "tr": "vize",
+    "pos": "noun",
+    "example": "She needed a visa to live there.",
+    "exampleTr": "Orada yaşamak için vizeye ihtiyacı vardı.",
+    "syn": [],
+    "ant": [],
+    "level": "A2"
+   },
+   {
+    "id": "ticket",
+    "en": "ticket",
+    "tr": "bilet",
+    "pos": "noun",
+    "example": "Hafsa bought two plane tickets.",
+    "exampleTr": "Hafsa iki uçak bileti aldı.",
+    "syn": [],
+    "ant": [],
+    "level": "A2"
+   },
+   {
+    "id": "move",
+    "en": "move",
+    "tr": "taşınmak",
+    "pos": "verb",
+    "example": "They moved to a new city.",
+    "exampleTr": "Yeni bir şehre taşındılar.",
+    "syn": [],
+    "ant": [],
+    "level": "A2"
+   },
+   {
+    "id": "miss",
+    "en": "miss",
+    "tr": "özlemek",
+    "pos": "verb",
+    "example": "I miss my friends in Isparta.",
+    "exampleTr": "Isparta'daki arkadaşlarımı özlüyorum.",
+    "syn": [],
+    "ant": [],
+    "level": "A2"
+   },
+   {
+    "id": "language",
+    "en": "language",
+    "tr": "dil",
+    "pos": "noun",
+    "example": "English is a hard language for me.",
+    "exampleTr": "İngilizce benim için zor bir dil.",
+    "syn": [],
+    "ant": [],
+    "level": "A2"
+   },
+   {
+    "id": "culture",
+    "en": "culture",
+    "tr": "kültür",
+    "pos": "noun",
+    "example": "Every culture has its own food.",
+    "exampleTr": "Her kültürün kendi yemeği var.",
+    "syn": [],
+    "ant": [],
+    "level": "A2"
+   },
+   {
+    "id": "strange",
+    "en": "strange",
+    "tr": "tuhaf, yabancı",
+    "pos": "adjective",
+    "example": "Everything felt strange at first.",
+    "exampleTr": "Önce her şey yabancı geldi.",
+    "syn": [
+     "odd"
+    ],
+    "ant": [
+     "normal"
+    ],
+    "level": "A2"
+   },
+   {
+    "id": "homesick",
+    "en": "homesick",
+    "tr": "ev özlemi çeken",
+    "pos": "adjective",
+    "example": "She felt homesick in the winter.",
+    "exampleTr": "Kışın ev özlemi çekti.",
+    "syn": [],
+    "ant": [],
+    "level": "A2"
+   },
+   {
+    "id": "welcome",
+    "en": "welcome",
+    "tr": "hoş geldin; karşılamak",
+    "pos": "noun",
+    "example": "Linda gave us a warm welcome.",
+    "exampleTr": "Linda bizi sıcak karşıladı.",
+    "syn": [],
+    "ant": [],
+    "level": "A2"
+   },
+   {
+    "id": "journey",
+    "en": "journey",
+    "tr": "yolculuk",
+    "pos": "noun",
+    "example": "The journey took eleven hours.",
+    "exampleTr": "Yolculuk on bir saat sürdü.",
+    "syn": [
+     "trip"
+    ],
+    "ant": [],
+    "level": "A2"
+   },
+   {
+    "id": "change",
+    "en": "change",
+    "tr": "değişiklik; değiştirmek",
+    "pos": "noun",
+    "example": "Moving is a big change.",
+    "exampleTr": "Taşınmak büyük bir değişiklik.",
+    "syn": [],
+    "ant": [],
+    "level": "A2"
+   }
+  ],
+  "reading": {
+   "title": "Hafsa's first weeks in America",
+   "text": "Hafsa made a big decision: she moved to the United States with her son Emre. They took a long flight from Turkey. Hafsa had a small suitcase, her passport and a visa in her bag. At the airport, an officer asked a few questions, and she answered them slowly.\n\nThe first weeks were hard. Everything felt strange. The food was different, and people spoke fast. Hafsa felt homesick and missed her friends in Isparta. But she was brave. She met her neighbor Linda, who brought a warm welcome and a plate of cookies. Linda gave her a map of the neighborhood and said, \"Come to my kitchen any time.\"\n\nHafsa read signs, wrote new words in her notebook and learned the bus lines. After a month she knew the city better. She found a language class and made two new friends there. Now she thinks, \"Culture and language are hard, but I can learn.\"",
+   "glossary": [
+    {
+     "en": "officer",
+     "tr": "görevli"
+    },
+    {
+     "en": "neighborhood",
+     "tr": "mahalle"
+    },
+    {
+     "en": "plate",
+     "tr": "tabak"
+    },
+    {
+     "en": "decision",
+     "tr": "karar"
+    }
+   ],
+   "questions": [
+    {
+     "type": "mcq",
+     "q": "Who moved to the United States with Hafsa?",
+     "options": [
+      "Linda",
+      "Mr. Brown",
+      "Emre"
+     ],
+     "answer": 2,
+     "whyTr": "Metin: 'with her son Emre'.",
+     "tag": "reading",
+     "level": "A2"
+    },
+    {
+     "type": "mcq",
+     "q": "How did Hafsa feel in the first weeks?",
+     "options": [
+      "Homesick",
+      "Bored",
+      "Proud"
+     ],
+     "answer": 0,
+     "whyTr": "Metin: 'Hafsa felt homesick'.",
+     "tag": "reading",
+     "level": "A2"
+    },
+    {
+     "type": "mcq",
+     "q": "What did Linda bring?",
+     "options": [
+      "A suitcase",
+      "A plate of cookies",
+      "A ticket"
+     ],
+     "answer": 1,
+     "whyTr": "Metin: 'a plate of cookies'.",
+     "tag": "reading",
+     "level": "A2"
+    },
+    {
+     "type": "mcq",
+     "q": "What did Hafsa find after a month?",
+     "options": [
+      "A new job",
+      "A big house",
+      "A language class"
+     ],
+     "answer": 2,
+     "whyTr": "Metin: 'She found a language class'.",
+     "tag": "reading",
+     "level": "A2"
+    }
+   ]
+  }
+ },
+ "evening": {
+  "listening": {
+   "title": "Linda and Hafsa remember the first day",
+   "script": [
+    {
+     "speaker": "Linda",
+     "text": "Hafsa, how was your trip to America?"
+    },
+    {
+     "speaker": "Hafsa",
+     "text": "It was long. We had a flight of eleven hours."
+    },
+    {
+     "speaker": "Linda",
+     "text": "Eleven hours! Were you tired?"
+    },
+    {
+     "speaker": "Hafsa",
+     "text": "Very tired. I slept for only two hours."
+    },
+    {
+     "speaker": "Linda",
+     "text": "Was everything strange?"
+    },
+    {
+     "speaker": "Hafsa",
+     "text": "Yes. The language, the food, the streets. I felt homesick."
+    },
+    {
+     "speaker": "Linda",
+     "text": "I remember your first day. You came to my door with Emre and said hello."
+    },
+    {
+     "speaker": "Hafsa",
+     "text": "And you gave us a plate of cookies!"
+    },
+    {
+     "speaker": "Linda",
+     "text": "Yes, and you made tea for me."
+    },
+    {
+     "speaker": "Hafsa",
+     "text": "Tea is very important in Turkey."
+    },
+    {
+     "speaker": "Linda",
+     "text": "Now you know the whole neighborhood."
+    },
+    {
+     "speaker": "Hafsa",
+     "text": "Yes, and I found a language class. I met two new friends there."
+    }
+   ],
+   "questions": [
+    {
+     "type": "mcq",
+     "q": "How long was the flight?",
+     "options": [
+      "Eleven hours",
+      "Two hours",
+      "Twelve hours"
+     ],
+     "answer": 0,
+     "whyTr": "Hafsa: 'a flight of eleven hours'.",
+     "tag": "listening",
+     "level": "A2"
+    },
+    {
+     "type": "mcq",
+     "q": "How long did Hafsa sleep on the plane?",
+     "options": [
+      "Eleven hours",
+      "Two hours",
+      "All night"
+     ],
+     "answer": 1,
+     "whyTr": "Hafsa: 'I slept for only two hours'.",
+     "tag": "listening",
+     "level": "A2"
+    },
+    {
+     "type": "mcq",
+     "q": "What did Linda give them on the first day?",
+     "options": [
+      "Tea",
+      "A map",
+      "Cookies"
+     ],
+     "answer": 2,
+     "whyTr": "Hafsa: 'you gave us a plate of cookies'.",
+     "tag": "listening",
+     "level": "A2"
+    },
+    {
+     "type": "mcq",
+     "q": "What did Hafsa find?",
+     "options": [
+      "A language class",
+      "A bus",
+      "A ticket"
+     ],
+     "answer": 0,
+     "whyTr": "Hafsa: 'I found a language class'.",
+     "tag": "listening",
+     "level": "A2"
+    }
+   ]
+  },
+  "writing": {
+   "promptTr": "Amerika'ya gelişini veya büyük bir değişikliği 4-5 cümleyle anlat. Düzensiz fiiller kullan (went, took, met, felt).",
+   "promptEn": "Write 4-5 sentences about moving to a new place.",
+   "frames": [
+    "I came to ...",
+    "I took ...",
+    "I felt ...",
+    "I met ...",
+    "I found ..."
+   ],
+   "model": "I came to the United States with my son. We took a long flight. I felt homesick, but I met a kind neighbor. She gave me cookies and a map. I found an English class and made new friends. I am happy now.",
+   "checklistTr": [
+    "Düzensiz fiilleri doğru kullandın mı (went, met, took)?",
+    "'goed' veya 'buyed' gibi -ed hatası yok mu?",
+    "Cümleler büyük harfle başlıyor ve noktayla bitiyor mu?"
+   ],
+   "minWords": 35
+  },
+  "examSet": [
+   {
+    "type": "mcq",
+    "q": "My neighbor ___ me a plate of cookies.",
+    "options": [
+     "gived",
+     "gave",
+     "give"
+    ],
+    "answer": 1,
+    "whyTr": "Give - gave.",
+    "tag": "past-simple",
+    "level": "A2"
+   },
+   {
+    "type": "mcq",
+    "q": "We ___ a taxi to the airport.",
+    "options": [
+     "taked",
+     "take",
+     "took"
+    ],
+    "answer": 2,
+    "whyTr": "Take - took.",
+    "tag": "past-simple",
+    "level": "A2"
+   },
+   {
+    "type": "mcq",
+    "q": "Hafsa can ___ Turkish food very well.",
+    "options": [
+     "cook",
+     "cooks",
+     "to cook"
+    ],
+    "answer": 0,
+    "whyTr": "Önceki konu: can'den sonra yalın fiil gelir.",
+    "tag": "modals",
+    "level": "A2"
+   },
+   {
+    "type": "mcq",
+    "q": "The past of \"think\" is ___.",
+    "options": [
+     "thinked",
+     "thought",
+     "thinks"
+    ],
+    "answer": 1,
+    "whyTr": "Think - thought.",
+    "tag": "past-simple",
+    "level": "A2"
+   },
+   {
+    "type": "mcq",
+    "q": "The past of \"eat\" is ___.",
+    "options": [
+     "eated",
+     "eats",
+     "ate"
+    ],
+    "answer": 2,
+    "whyTr": "Eat - ate.",
+    "tag": "past-simple",
+    "level": "A2"
+   },
+   {
+    "type": "mcq",
+    "q": "You show your ___ at the airport.",
+    "options": [
+     "passport",
+     "suitcase",
+     "culture"
+    ],
+    "answer": 0,
+    "whyTr": "Havalimanında gösterilen belge: passport.",
+    "tag": "vocab",
+    "level": "A2"
+   },
+   {
+    "type": "mcq",
+    "q": "She felt ___ because she missed her home.",
+    "options": [
+     "lucky",
+     "homesick",
+     "proud"
+    ],
+    "answer": 1,
+    "whyTr": "Evini özleyen kişi 'homesick'tir.",
+    "tag": "vocab",
+    "level": "A2"
+   },
+   {
+    "type": "mcq",
+    "q": "Which word means almost the same as \"strange\"?",
+    "options": [
+     "tired",
+     "famous",
+     "odd"
+    ],
+    "answer": 2,
+    "whyTr": "Strange ve odd benzer anlamlı.",
+    "tag": "synonym",
+    "level": "A2"
+   },
+   {
+    "type": "mcq",
+    "q": "Which word means almost the same as \"journey\"?",
+    "options": [
+     "trip",
+     "visa",
+     "language"
+    ],
+    "answer": 0,
+    "whyTr": "Journey ve trip benzer anlamlı.",
+    "tag": "synonym",
+    "level": "A2"
+   },
+   {
+    "type": "mcq",
+    "q": "Emre and I ___ very tired after the flight.",
+    "options": [
+     "was",
+     "were",
+     "are"
+    ],
+    "answer": 1,
+    "whyTr": "Önceki konu: we ile geçmişte 'were'.",
+    "tag": "to-be",
+    "level": "A2"
+   },
+   {
+    "type": "mcq",
+    "q": "On the flight, Emre slept and Hafsa read a book. They ate a small lunch and drank tea. They saw the ocean from the window.\n\nWhat did Emre do on the flight?",
+    "options": [
+     "He read a book.",
+     "He drank tea.",
+     "He slept."
+    ],
+    "answer": 2,
+    "whyTr": "Metin: 'Emre slept'.",
+    "tag": "reading",
+    "level": "A2"
+   },
+   {
+    "type": "mcq",
+    "q": "Linda gave Hafsa a map. Hafsa found the library and the market on the map. She went to the market on foot and bought bread.\n\nWhat did Hafsa buy?",
+    "options": [
+     "Bread",
+     "A map",
+     "A book"
+    ],
+    "answer": 0,
+    "whyTr": "Metin: 'bought bread'.",
+    "tag": "reading",
+    "level": "A2"
+   }
+  ]
+ }
+}

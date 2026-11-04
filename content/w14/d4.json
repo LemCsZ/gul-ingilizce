@@ -1,0 +1,931 @@
+{
+ "week": 14,
+ "day": 4,
+ "titleTr": "ABD hayatına alışmak: used to, be used to, get used to",
+ "theme": "adapting-to-life",
+ "morning": {
+  "grammar": {
+   "topic": "used to / be used to / get used to",
+   "explainTr": [
+    "'used to + fiil' geçmişte bıraktığın alışkanlığı anlatır: I used to walk to the market (eskiden yürürdüm). Olumsuz ve soruda 'use to' olur: I didn't use to drive. Did you use to live there?",
+    "'be used to + -ing' bir şeye alışık olmaktır: I'm used to driving here (artık alışığım). 'get used to + -ing' ise alışma sürecidir: I'm getting used to the cold (alışıyorum). Burada 'to' edattır, o yüzden fiil -ing alır.",
+    "En sık hata: 'I'm used to live' veya 'I used to living'. Pratik kural: 'used to' + yalın fiil = eskiden; 'used to' + -ing = alışık. Be/get fiilini görürsen -ing kullan."
+   ],
+   "compareTr": "Türkçede 'eskiden giderdim' ve 'gitmeye alışığım' farklı ekleri kullanır. İngilizcede ikisi de 'used to' görünür; ama biri yalın fiil ister (I used to go), diğeri -ing (I'm used to going). Be/get gelirse -ing gelir.",
+   "table": [
+    [
+     "used to + fiil",
+     "geçmiş alışkanlık (artık yok)",
+     "I used to live in Isparta."
+    ],
+    [
+     "didn't use to + fiil",
+     "olumsuz / soru",
+     "She didn't use to drive."
+    ],
+    [
+     "be used to + -ing",
+     "alışık olmak",
+     "I'm used to driving here."
+    ],
+    [
+     "get used to + -ing",
+     "alışmak (süreç)",
+     "I'm getting used to the snow."
+    ],
+    [
+     "be used to + isim",
+     "isimle de olur",
+     "He is used to the noise."
+    ],
+    [
+     "Yanlış",
+     "used to + -ing (eskiden)",
+     "I used to living ✗"
+    ]
+   ],
+   "examples": [
+    {
+     "en": "I used to walk to the market every day in Isparta.",
+     "tr": "Isparta'da her gün markete yürüyerek giderdim."
+    },
+    {
+     "en": "She didn't use to drink coffee.",
+     "tr": "Eskiden kahve içmezdi."
+    },
+    {
+     "en": "I'm not used to driving on wide highways.",
+     "tr": "Geniş otoyollarda araba sürmeye alışık değilim."
+    },
+    {
+     "en": "It took me a year to get used to speaking English all day.",
+     "tr": "Bütün gün İngilizce konuşmaya alışmam bir yıl sürdü."
+    },
+    {
+     "en": "We are slowly getting used to the cold winters.",
+     "tr": "Soğuk kışlara yavaş yavaş alışıyoruz."
+    }
+   ],
+   "exercises": [
+    {
+     "type": "mcq",
+     "q": "When I lived in Isparta, I ___ walk to the market every day.",
+     "options": [
+      "used to",
+      "am used to",
+      "got used to",
+      "was used to"
+     ],
+     "answer": 0,
+     "whyTr": "Geçmişteki alışkanlık: used to + yalın fiil.",
+     "tag": "past-simple",
+     "level": "B2"
+    },
+    {
+     "type": "mcq",
+     "q": "I'm not used to ___ on the right side of the road.",
+     "options": [
+      "drive",
+      "driving",
+      "drove",
+      "to drive"
+     ],
+     "answer": 1,
+     "whyTr": "'Be used to' sonrası -ing gelir.",
+     "tag": "gerund-infinitive",
+     "level": "B2"
+    },
+    {
+     "type": "mcq",
+     "q": "It took Hafsa a few months to get used to ___ English all day.",
+     "options": [
+      "speak",
+      "spoke",
+      "speaking",
+      "to speak"
+     ],
+     "answer": 2,
+     "whyTr": "'Get used to' sonrası -ing gelir.",
+     "tag": "gerund-infinitive",
+     "level": "B2"
+    },
+    {
+     "type": "order",
+     "promptTr": "Cümleyi sırala:",
+     "words": [
+      "use",
+      "She",
+      "drink",
+      "to",
+      "coffee",
+      "didn't"
+     ],
+     "answer": "She didn't use to drink coffee",
+     "whyTr": "Olumsuzda 'didn't use to' kullanılır.",
+     "tag": "past-simple",
+     "level": "B2"
+    },
+    {
+     "type": "mcq",
+     "q": "Did you ___ live in Turkey?",
+     "options": [
+      "used to",
+      "be used to",
+      "get used to",
+      "use to"
+     ],
+     "answer": 3,
+     "whyTr": "Soruda did + use to.",
+     "tag": "past-simple",
+     "level": "B2"
+    },
+    {
+     "type": "mcq",
+     "q": "Which sentence is correct?",
+     "options": [
+      "I am used to waking up early.",
+      "I am used to wake up early.",
+      "I used to waking up early.",
+      "I get used to wake up early."
+     ],
+     "answer": 0,
+     "whyTr": "'Be used to' + -ing.",
+     "tag": "gerund-infinitive",
+     "level": "B2"
+    },
+    {
+     "type": "mcq",
+     "q": "Emre ___ American food now. He eats it every day.",
+     "options": [
+      "used to",
+      "is used to",
+      "uses to",
+      "is use to"
+     ],
+     "answer": 1,
+     "whyTr": "Alışık olmak: be used to.",
+     "tag": "gerund-infinitive",
+     "level": "B2"
+    },
+    {
+     "type": "order",
+     "promptTr": "Cümleyi sırala:",
+     "words": [
+      "the",
+      "to",
+      "are",
+      "used",
+      "weather",
+      "cold",
+      "getting",
+      "We"
+     ],
+     "answer": "We are getting used to the cold weather",
+     "whyTr": "Sıra: get used to + isim/-ing.",
+     "tag": "gerund-infinitive",
+     "level": "B2"
+    },
+    {
+     "type": "mcq",
+     "q": "My grandfather ___ a farmer, but now he is retired.",
+     "options": [
+      "is used to being",
+      "used to being",
+      "used to be",
+      "gets used to be"
+     ],
+     "answer": 2,
+     "whyTr": "Geçmişteki durum: used to + be.",
+     "tag": "past-simple",
+     "level": "B2"
+    },
+    {
+     "type": "mcq",
+     "q": "The office, ___ Emre works now, is near the park.",
+     "options": [
+      "who",
+      "whose",
+      "that",
+      "where"
+     ],
+     "answer": 3,
+     "whyTr": "Yer için, virgüllü cümlecikte 'where'.",
+     "tag": "relative-clauses",
+     "level": "B2"
+    },
+    {
+     "type": "mcq",
+     "q": "The students ___ outside are waiting for the bus.",
+     "options": [
+      "standing",
+      "stood",
+      "stand",
+      "stands"
+     ],
+     "answer": 0,
+     "whyTr": "'Who are standing' kısalınca 'standing'.",
+     "tag": "relative-clauses",
+     "level": "B2"
+    },
+    {
+     "type": "fill",
+     "q": "At first the snow was strange, but now I'm used to ___ in it.",
+     "accept": [
+      "walking"
+     ],
+     "hintTr": "walk → -ing",
+     "whyTr": "'Be used to' sonrası -ing gelir.",
+     "tag": "gerund-infinitive",
+     "level": "B2"
+    }
+   ]
+  },
+  "vocab": [
+   {
+    "id": "adjust",
+    "en": "adjust",
+    "tr": "uyum sağlamak, ayarlamak",
+    "pos": "verb",
+    "example": "It takes time to adjust to a new school.",
+    "exampleTr": "Yeni bir okula uyum sağlamak zaman alır.",
+    "syn": [
+     "adapt"
+    ],
+    "ant": [],
+    "level": "B2"
+   },
+   {
+    "id": "accustomed",
+    "en": "accustomed",
+    "tr": "alışmış",
+    "pos": "adjective",
+    "example": "She is accustomed to waking up at five.",
+    "exampleTr": "Beşte kalkmaya alışmış durumda.",
+    "syn": [
+     "used to"
+    ],
+    "ant": [],
+    "level": "B2"
+   },
+   {
+    "id": "unfamiliar",
+    "en": "unfamiliar",
+    "tr": "yabancı, tanıdık olmayan",
+    "pos": "adjective",
+    "example": "The American slang was unfamiliar to her.",
+    "exampleTr": "Amerikan argosu ona yabancıydı.",
+    "syn": [],
+    "ant": [
+     "familiar"
+    ],
+    "level": "B2"
+   },
+   {
+    "id": "lifestyle",
+    "en": "lifestyle",
+    "tr": "yaşam tarzı",
+    "pos": "noun",
+    "example": "A busy lifestyle can be tiring.",
+    "exampleTr": "Yoğun bir yaşam tarzı yorucu olabilir.",
+    "syn": [],
+    "ant": [],
+    "level": "B2"
+   },
+   {
+    "id": "belong",
+    "en": "belong",
+    "tr": "ait olmak",
+    "pos": "verb",
+    "example": "After a year, she finally felt that she belonged here.",
+    "exampleTr": "Bir yıl sonra nihayet buraya ait olduğunu hissetti.",
+    "syn": [],
+    "ant": [],
+    "level": "B2"
+   },
+   {
+    "id": "lonely",
+    "en": "lonely",
+    "tr": "yalnız, kimsesiz",
+    "pos": "adjective",
+    "example": "She felt lonely during her first winter.",
+    "exampleTr": "İlk kışında kendini yalnız hissetti.",
+    "syn": [],
+    "ant": [],
+    "level": "B2"
+   },
+   {
+    "id": "isolated",
+    "en": "isolated",
+    "tr": "yalıtılmış, tecrit olmuş",
+    "pos": "adjective",
+    "example": "New immigrants can feel isolated without friends.",
+    "exampleTr": "Yeni göçmenler arkadaşsız kalınca tecrit hissedebilir.",
+    "syn": [
+     "cut off"
+    ],
+    "ant": [],
+    "level": "B2"
+   },
+   {
+    "id": "embrace",
+    "en": "embrace",
+    "tr": "kucaklamak, benimsemek",
+    "pos": "verb",
+    "example": "She decided to embrace the new culture.",
+    "exampleTr": "Yeni kültürü benimsemeye karar verdi.",
+    "syn": [
+     "accept"
+    ],
+    "ant": [],
+    "level": "B2"
+   },
+   {
+    "id": "overcome",
+    "en": "overcome",
+    "tr": "üstesinden gelmek",
+    "pos": "verb",
+    "example": "Hafsa overcame her fear of phone calls.",
+    "exampleTr": "Hafsa telefon görüşmesi korkusunun üstesinden geldi.",
+    "syn": [
+     "beat"
+    ],
+    "ant": [],
+    "level": "B2"
+   },
+   {
+    "id": "tolerate",
+    "en": "tolerate",
+    "tr": "hoşgörmek, katlanmak",
+    "pos": "verb",
+    "example": "I can't tolerate cold weather very well.",
+    "exampleTr": "Soğuk havaya pek katlanamıyorum.",
+    "syn": [
+     "put up with"
+    ],
+    "ant": [],
+    "level": "B2"
+   },
+   {
+    "id": "hesitate",
+    "en": "hesitate",
+    "tr": "tereddüt etmek",
+    "pos": "verb",
+    "example": "Don't hesitate to ask for help.",
+    "exampleTr": "Yardım istemekten çekinme.",
+    "syn": [
+     "pause"
+    ],
+    "ant": [],
+    "level": "B2"
+   },
+   {
+    "id": "mindset",
+    "en": "mindset",
+    "tr": "zihniyet",
+    "pos": "noun",
+    "example": "A positive mindset helps you learn faster.",
+    "exampleTr": "Olumlu bir zihniyet daha hızlı öğrenmene yardım eder.",
+    "syn": [],
+    "ant": [],
+    "level": "B2"
+   },
+   {
+    "id": "transition",
+    "en": "transition",
+    "tr": "geçiş",
+    "pos": "noun",
+    "example": "Moving from Turkey to the U.S. was a big transition.",
+    "exampleTr": "Türkiye'den ABD'ye taşınmak büyük bir geçişti.",
+    "syn": [
+     "change"
+    ],
+    "ant": [],
+    "level": "B2"
+   },
+   {
+    "id": "fluent",
+    "en": "fluent",
+    "tr": "akıcı",
+    "pos": "adjective",
+    "example": "He speaks fluent English and Spanish.",
+    "exampleTr": "Akıcı İngilizce ve İspanyolca konuşuyor.",
+    "syn": [],
+    "ant": [],
+    "level": "B2"
+   },
+   {
+    "id": "awkward",
+    "en": "awkward",
+    "tr": "tuhaf, beceriksiz, utanç verici",
+    "pos": "adjective",
+    "example": "She felt awkward speaking at the first meeting.",
+    "exampleTr": "İlk toplantıda konuşurken kendini tuhaf hissetti.",
+    "syn": [
+     "uncomfortable"
+    ],
+    "ant": [
+     "comfortable"
+    ],
+    "level": "B2"
+   }
+  ],
+  "reading": {
+   "title": "Getting used to America",
+   "text": "When Hafsa first arrived in the United States, almost everything felt unfamiliar. She was used to the narrow streets of Isparta, where neighbors greet each other every morning, and she was not used to driving on wide highways. The grocery store had forty kinds of cereal, and she often stood in the aisle for ten minutes, unable to choose.\n\nThe language was the biggest challenge. In Turkey she used to read English recipes and watch a few films, but understanding fast speech at a bank or pharmacy was something completely different. At first she felt awkward and hesitated before every phone call. \"I used to be a confident person,\" she told Linda one afternoon. \"Now I feel like a child.\"\n\nLinda, who had moved from Texas twenty years earlier, smiled. \"I remember that feeling,\" she said. \"You will get used to it. It takes time, but one day you stop translating in your head.\" She suggested practicing with small tasks: ordering coffee, asking for directions, calling the library. Hafsa followed the advice, and slowly the tasks became routine.\n\nOther changes were harder to see. Dinner at six o'clock instead of nine felt too early, and she missed the long family evenings. She also had to get used to cooking with different ingredients and to cold winters with snow up to her knees. On difficult days she cooked a big pot of lentil soup and invited Linda over, which made the apartment feel like home.\n\nAfter two years, Hafsa noticed how much had changed. She no longer felt lonely at school meetings, and she was used to saying \"excuse me\" in the hallway with a smile. She even began to enjoy small American habits, such as bringing a coffee cup to every appointment. Still, she did not want to lose her own traditions. \"I used to think I had to choose,\" she said to Emre. \"Now I know I can keep both.\"",
+   "glossary": [
+    {
+     "en": "aisle",
+     "tr": "market koridoru"
+    },
+    {
+     "en": "cereal",
+     "tr": "mısır gevreği"
+    },
+    {
+     "en": "translate",
+     "tr": "çevirmek"
+    },
+    {
+     "en": "routine",
+     "tr": "rutin"
+    },
+    {
+     "en": "ingredient",
+     "tr": "malzeme"
+    },
+    {
+     "en": "tradition",
+     "tr": "gelenek"
+    }
+   ],
+   "questions": [
+    {
+     "type": "mcq",
+     "q": "What was Hafsa not used to at first?",
+     "options": [
+      "Cooking Turkish food",
+      "Driving on wide highways",
+      "Reading English recipes",
+      "Visiting neighbors"
+     ],
+     "answer": 1,
+     "whyTr": "Metin: 'she was not used to driving on wide highways'.",
+     "tag": "reading",
+     "level": "B2"
+    },
+    {
+     "type": "mcq",
+     "q": "What did Linda suggest?",
+     "options": [
+      "Moving back to Texas",
+      "Stopping her phone calls",
+      "Practicing with small everyday tasks",
+      "Studying only at night"
+     ],
+     "answer": 2,
+     "whyTr": "Metin: 'She suggested practicing with small tasks'.",
+     "tag": "reading",
+     "level": "B2"
+    },
+    {
+     "type": "mcq",
+     "q": "What was difficult for Hafsa besides the language?",
+     "options": [
+      "Missing the school bus",
+      "Finding a new job",
+      "Talking to Emre",
+      "Dinner at six o'clock and cold winters"
+     ],
+     "answer": 3,
+     "whyTr": "Metin: 'Dinner at six ... too early' ve 'cold winters'.",
+     "tag": "reading",
+     "level": "B2"
+    },
+    {
+     "type": "mcq",
+     "q": "What does Hafsa know after two years?",
+     "options": [
+      "She can keep both her traditions and her new habits.",
+      "She must choose one culture.",
+      "She wants to leave America.",
+      "She doesn't need Linda anymore."
+     ],
+     "answer": 0,
+     "whyTr": "Metin: 'Now I know I can keep both.'",
+     "tag": "reading",
+     "level": "B2"
+    }
+   ]
+  }
+ },
+ "evening": {
+  "listening": {
+   "title": "A new routine",
+   "script": [
+    {
+     "speaker": "Linda",
+     "text": "Hafsa, how is your new schedule at the school?"
+    },
+    {
+     "speaker": "Hafsa",
+     "text": "Tiring! I'm not used to waking up at five thirty."
+    },
+    {
+     "speaker": "Linda",
+     "text": "You'll get used to it. When I started teaching, I used to hit the snooze button five times."
+    },
+    {
+     "speaker": "Hafsa",
+     "text": "Really? Now you're always early."
+    },
+    {
+     "speaker": "Linda",
+     "text": "Yes, after a few months my body adjusted. What else is difficult?"
+    },
+    {
+     "speaker": "Hafsa",
+     "text": "The students speak so fast. I'm still getting used to their slang."
+    },
+    {
+     "speaker": "Linda",
+     "text": "Don't worry. I didn't use to understand teenagers either."
+    },
+    {
+     "speaker": "Hafsa",
+     "text": "And the cafeteria food is strange! In Turkey we used to eat soup for lunch."
+    },
+    {
+     "speaker": "Linda",
+     "text": "Bring your own soup! Plenty of teachers do."
+    },
+    {
+     "speaker": "Hafsa",
+     "text": "Good idea. Maybe I can heat it in the staff kitchen."
+    },
+    {
+     "speaker": "Linda",
+     "text": "Of course. And in a month you'll wonder why you were worried."
+    },
+    {
+     "speaker": "Hafsa",
+     "text": "I hope you're right. Thank you, Linda."
+    }
+   ],
+   "questions": [
+    {
+     "type": "mcq",
+     "q": "What is Hafsa not used to?",
+     "options": [
+      "Driving to work",
+      "Waking up at five thirty",
+      "Cooking soup",
+      "Speaking Spanish"
+     ],
+     "answer": 1,
+     "whyTr": "Hafsa: 'I'm not used to waking up at five thirty.'",
+     "tag": "listening",
+     "level": "B2"
+    },
+    {
+     "type": "mcq",
+     "q": "What did Linda use to do when she started teaching?",
+     "options": [
+      "Arrive an hour early",
+      "Skip breakfast",
+      "Hit the snooze button five times",
+      "Bring soup"
+     ],
+     "answer": 2,
+     "whyTr": "Linda: 'I used to hit the snooze button five times.'",
+     "tag": "listening",
+     "level": "B2"
+    },
+    {
+     "type": "mcq",
+     "q": "What is Hafsa still getting used to?",
+     "options": [
+      "The staff kitchen",
+      "The school bus",
+      "Linda's schedule",
+      "The students' slang"
+     ],
+     "answer": 3,
+     "whyTr": "Hafsa: 'I'm still getting used to their slang.'",
+     "tag": "listening",
+     "level": "B2"
+    },
+    {
+     "type": "mcq",
+     "q": "What does Linda suggest for lunch?",
+     "options": [
+      "Bringing her own soup",
+      "Eating in the car",
+      "Buying pizza",
+      "Skipping lunch"
+     ],
+     "answer": 0,
+     "whyTr": "Linda: 'Bring your own soup!'",
+     "tag": "listening",
+     "level": "B2"
+    }
+   ]
+  },
+  "writing": {
+   "promptTr": "Türkiye'deki bir arkadaşına e-posta yaz. Eskiden neler yapardığını (used to), neye alışık olduğunu (be used to) ve neye alışmaya çalıştığını (get used to) anlat. 120-180 kelime yaz.",
+   "promptEn": "Write an email to a friend in Turkey. Use used to, be used to, and get used to.",
+   "frames": [
+    "When I lived in Isparta, I used to ...",
+    "I am used to ...",
+    "I am still getting used to ...",
+    "I didn't use to ..."
+   ],
+   "model": "Dear Selin, how are you? I am writing from Michigan, where winter has finally started. When I lived in Isparta, I used to visit my neighbors every afternoon, and we used to drink tea for hours. Here, people make appointments even for a coffee! At first I felt lonely, but now I am getting used to the schedule. I am also used to driving on the highway, which was terrifying last year. The language is still difficult sometimes. I am not used to understanding fast speech on the phone, but my neighbor Linda helps me practice every week. I did not use to be patient, yet this experience has taught me a lot. I miss your cooking and our long talks, but I am happy with my new life. I am even starting to enjoy the snow, which I could not tolerate at the beginning. Please write soon and tell me about your family. I hope we can see each other next summer. With love, Hafsa",
+   "checklistTr": [
+    "'used to' + yalın fiil kullandın mı?",
+    "'be/get used to' sonrası -ing var mı?",
+    "Olumsuzda 'didn't use to' (used değil) yazdın mı?",
+    "E-postada selamlama ve kapanış var mı?"
+   ],
+   "minWords": 120
+  },
+  "examSet": [
+   {
+    "type": "mcq",
+    "q": "My son ___ afraid of the dark, but he sleeps without a light now.",
+    "options": [
+     "is used to being",
+     "used to being",
+     "used to be"
+    ],
+    "answer": 2,
+    "whyTr": "Geçmişteki durum: used to + be.",
+    "tag": "past-simple",
+    "level": "B2"
+   },
+   {
+    "type": "mcq",
+    "q": "I'm not used to ___ so early.",
+    "options": [
+     "get up",
+     "got up",
+     "getting up",
+     "to get up"
+    ],
+    "answer": 2,
+    "whyTr": "'Be used to' + -ing.",
+    "tag": "gerund-infinitive",
+    "level": "B2"
+   },
+   {
+    "type": "mcq",
+    "q": "It was difficult at first, but she ___ the new routine.",
+    "options": [
+     "used to",
+     "is use to",
+     "gets use to",
+     "got used to"
+    ],
+    "answer": 3,
+    "whyTr": "Alıştı: got used to.",
+    "tag": "gerund-infinitive",
+    "level": "B2"
+   },
+   {
+    "type": "mcq",
+    "q": "Did you ___ have a car in Turkey?",
+    "options": [
+     "use to",
+     "used to",
+     "be used to",
+     "get used to"
+    ],
+    "answer": 0,
+    "whyTr": "Soruda did + use to.",
+    "tag": "past-simple",
+    "level": "B2"
+   },
+   {
+    "type": "mcq",
+    "q": "Which sentence is correct?",
+    "options": [
+     "He didn't use to like cold weather.",
+     "He didn't used to like cold weather.",
+     "He not used to like cold weather."
+    ],
+    "answer": 0,
+    "whyTr": "Olumsuzda didn't + use to (used değil).",
+    "tag": "past-simple",
+    "level": "B2"
+   },
+   {
+    "type": "mcq",
+    "q": "The rules ___ on the wall are important.",
+    "options": [
+     "posting",
+     "post",
+     "posted",
+     "to post"
+    ],
+    "answer": 2,
+    "whyTr": "Kurallar asılır (edilgen): posted.",
+    "tag": "passive",
+    "level": "B2"
+   },
+   {
+    "type": "mcq",
+    "q": "The boy ___ near the window is my student.",
+    "options": [
+     "sat",
+     "sits",
+     "sit",
+     "sitting"
+    ],
+    "answer": 3,
+    "whyTr": "'Who is sitting' kısalınca 'sitting'.",
+    "tag": "relative-clauses",
+    "level": "B2"
+   },
+   {
+    "type": "mcq",
+    "q": "My neighbor, ___ car is red, helps me.",
+    "options": [
+     "whose",
+     "who",
+     "which",
+     "that"
+    ],
+    "answer": 0,
+    "whyTr": "Aitlik için 'whose'.",
+    "tag": "relative-clauses",
+    "level": "B2"
+   },
+   {
+    "type": "mcq",
+    "q": "He admitted ___ the rule.",
+    "options": [
+     "to break",
+     "breaking",
+     "break"
+    ],
+    "answer": 1,
+    "whyTr": "'Admit' + -ing.",
+    "tag": "reported-speech",
+    "level": "B2"
+   },
+   {
+    "type": "mcq",
+    "q": "The classrooms ___ every evening by the custodian.",
+    "options": [
+     "clean",
+     "are cleaning",
+     "are cleaned",
+     "cleaned"
+    ],
+    "answer": 2,
+    "whyTr": "Edilgen şimdiki alışkanlık: are + V3.",
+    "tag": "passive",
+    "level": "B2"
+   },
+   {
+    "type": "mcq",
+    "q": "If I ___ the language, I wouldn't feel so awkward.",
+    "options": [
+     "speak",
+     "will speak",
+     "would speak",
+     "spoke"
+    ],
+    "answer": 3,
+    "whyTr": "Gerçek dışı koşulda if cümlesi past simple alır.",
+    "tag": "conditionals",
+    "level": "B2"
+   },
+   {
+    "type": "mcq",
+    "q": "It takes time to ___ to a new country.",
+    "options": [
+     "adjust",
+     "hesitate",
+     "tolerate",
+     "overcome"
+    ],
+    "answer": 0,
+    "whyTr": "Yeni ortama uyum sağlamak: adjust to.",
+    "tag": "vocab",
+    "level": "B2"
+   },
+   {
+    "type": "mcq",
+    "q": "Everything felt ___ on her first day: the language, the food, the streets.",
+    "options": [
+     "fluent",
+     "unfamiliar",
+     "mandatory",
+     "dedicated"
+    ],
+    "answer": 1,
+    "whyTr": "Tanıdık olmayan: unfamiliar.",
+    "tag": "vocab",
+    "level": "B2"
+   },
+   {
+    "type": "mcq",
+    "q": "What is the opposite of \"unfamiliar\"?",
+    "options": [
+     "awkward",
+     "isolated",
+     "familiar",
+     "lonely"
+    ],
+    "answer": 2,
+    "whyTr": "Unfamiliar'ın zıttı familiar.",
+    "tag": "antonym",
+    "level": "B2"
+   },
+   {
+    "type": "mcq",
+    "q": "Which word means almost the same as \"adjust\"?",
+    "options": [
+     "hesitate",
+     "retire",
+     "vote",
+     "adapt"
+    ],
+    "answer": 3,
+    "whyTr": "Adjust ve adapt eş anlamlıdır.",
+    "tag": "synonym",
+    "level": "B2"
+   },
+   {
+    "type": "mcq",
+    "q": "He was so ___ that he didn't talk to anyone for weeks.",
+    "options": [
+     "isolated",
+     "fluent",
+     "accustomed",
+     "optional"
+    ],
+    "answer": 0,
+    "whyTr": "Tecrit olmuş: isolated.",
+    "tag": "vocab",
+    "level": "B2"
+   },
+   {
+    "type": "mcq",
+    "q": "Don't ___ to ask questions on your first day.",
+    "options": [
+     "embrace",
+     "hesitate",
+     "overcome",
+     "adjust"
+    ],
+    "answer": 1,
+    "whyTr": "Çekinmemek: don't hesitate to.",
+    "tag": "vocab",
+    "level": "B2"
+   },
+   {
+    "type": "mcq",
+    "q": "Sara moved from Texas to Alaska. She used to wear shorts in January, but now she wears a heavy coat. At first she hated the long dark afternoons, but she has gotten used to them and even enjoys the quiet.\n\nHow does Sara feel about the dark afternoons now?",
+    "options": [
+     "She hates them.",
+     "She wants to move back to Texas.",
+     "She has gotten used to them and enjoys the quiet.",
+     "She is afraid of them."
+    ],
+    "answer": 2,
+    "whyTr": "Metin: 'she has gotten used to them and even enjoys the quiet'.",
+    "tag": "reading",
+    "level": "B2"
+   },
+   {
+    "type": "mcq",
+    "q": "Mr. Lee is a new teacher. He is not used to speaking in front of thirty students, so he practices at home every evening. His mentor says that nervous feelings will disappear after a few weeks.\n\nWhy does Mr. Lee practice at home?",
+    "options": [
+     "He wants a new mentor.",
+     "He lost his teaching job.",
+     "He is moving to a bigger school.",
+     "He isn't used to speaking in front of thirty students."
+    ],
+    "answer": 3,
+    "whyTr": "Metin: 'He is not used to speaking in front of thirty students'.",
+    "tag": "reading",
+    "level": "B2"
+   },
+   {
+    "type": "mcq",
+    "q": "Which word is closest in meaning to \"embrace\" (a new idea)?",
+    "options": [
+     "accept",
+     "ignore",
+     "avoid",
+     "blame"
+    ],
+    "answer": 0,
+    "whyTr": "Embrace (benimsemek) ve accept yakın anlamlıdır.",
+    "tag": "synonym",
+    "level": "B2"
+   }
+  ]
+ }
+}

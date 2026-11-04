@@ -1,0 +1,780 @@
+{
+ "week": 1,
+ "day": 6,
+ "titleTr": "Ne zaman, nerede, kaç? Randevu ve program",
+ "theme": "schedules",
+ "morning": {
+  "grammar": {
+   "topic": "Question words + time, days, dates",
+   "explainTr": [
+    "Soru kelimeleri cümlenin başına gelir: What (ne), Where (nerede), When (ne zaman), Who (kim), How (nasıl), How much (ne kadar, fiyat), How many (kaç tane), What time (saat kaç).",
+    "Saat için: It's 3:00 (three o'clock), 3:15 (three fifteen), 3:30 (three thirty). Gün ve tarih için: on Monday, in May, on May 5th, at 8:00. Önce 'at / on / in' seçimine dikkat et.",
+    "'How much' sayılamayan şeyler ve fiyat için, 'How many' sayılabilen çoğul şeyler için kullanılır: How much is the ticket? How many students are there?"
+   ],
+   "compareTr": "Türkçede soru kelimesi cümle içinde durur: 'Okul nerede?' İngilizcede başa gelir ve ardından fiil gelir: Where is the school? Türkçe 'saat kaç?' = What time is it?",
+   "table": [
+    [
+     "What",
+     "ne",
+     "What is your name?"
+    ],
+    [
+     "Where",
+     "nerede",
+     "Where is the office?"
+    ],
+    [
+     "When",
+     "ne zaman",
+     "When is the meeting?"
+    ],
+    [
+     "Who",
+     "kim",
+     "Who is your teacher?"
+    ],
+    [
+     "How",
+     "nasıl",
+     "How do you go to school?"
+    ],
+    [
+     "How much",
+     "ne kadar (fiyat)",
+     "How much is the ticket?"
+    ],
+    [
+     "How many",
+     "kaç tane",
+     "How many students are there?"
+    ],
+    [
+     "What time",
+     "saat kaç",
+     "What time is it?"
+    ]
+   ],
+   "examples": [
+    {
+     "en": "What time does the bus come?",
+     "tr": "Otobüs saat kaçta geliyor?"
+    },
+    {
+     "en": "When is your class? On Monday at 6:00.",
+     "tr": "Dersin ne zaman? Pazartesi saat 6'da."
+    },
+    {
+     "en": "How much is a bus ticket?",
+     "tr": "Otobüs bileti ne kadar?"
+    },
+    {
+     "en": "Today is Friday, November 6th.",
+     "tr": "Bugün 6 Kasım Cuma."
+    }
+   ],
+   "exercises": [
+    {
+     "type": "mcq",
+     "q": "___ is the school office? \"On the second floor.\"",
+     "options": [
+      "Where",
+      "Who",
+      "When"
+     ],
+     "answer": 0,
+     "whyTr": "Yer sorulur: Where.",
+     "tag": "question-form",
+     "level": "A1"
+    },
+    {
+     "type": "mcq",
+     "q": "___ does the bus come? \"At 7:15.\"",
+     "options": [
+      "What time",
+      "How many",
+      "Where"
+     ],
+     "answer": 0,
+     "whyTr": "Saat sorulur: What time.",
+     "tag": "question-form",
+     "level": "A1"
+    },
+    {
+     "type": "mcq",
+     "q": "___ is your teacher? \"Mr. Brown.\"",
+     "options": [
+      "Who",
+      "What",
+      "When"
+     ],
+     "answer": 0,
+     "whyTr": "Kişi sorulur: Who.",
+     "tag": "question-form",
+     "level": "A1"
+    },
+    {
+     "type": "mcq",
+     "q": "___ is the meeting? \"On Tuesday.\"",
+     "options": [
+      "Where",
+      "When",
+      "Who"
+     ],
+     "answer": 1,
+     "whyTr": "Gün/zaman sorulur: When.",
+     "tag": "question-form",
+     "level": "A1"
+    },
+    {
+     "type": "mcq",
+     "q": "___ is a bus ticket? \"Two dollars.\"",
+     "options": [
+      "How much",
+      "How many",
+      "How"
+     ],
+     "answer": 0,
+     "whyTr": "Fiyat sorulur: How much.",
+     "tag": "question-form",
+     "level": "A1"
+    },
+    {
+     "type": "mcq",
+     "q": "___ students are in your class? \"Twenty.\"",
+     "options": [
+      "How much",
+      "How many",
+      "What"
+     ],
+     "answer": 1,
+     "whyTr": "Sayılabilen çoğul isim: How many.",
+     "tag": "question-form",
+     "level": "A1"
+    },
+    {
+     "type": "mcq",
+     "q": "___ do you go to school? \"By bus.\"",
+     "options": [
+      "How",
+      "Who",
+      "When"
+     ],
+     "answer": 0,
+     "whyTr": "Nasıl gidildiği: How.",
+     "tag": "question-form",
+     "level": "A1"
+    },
+    {
+     "type": "order",
+     "promptTr": "Soruyu sırala:",
+     "words": [
+      "What",
+      "time",
+      "is",
+      "it?"
+     ],
+     "answer": "What time is it?",
+     "whyTr": "Soru kelimesi başa, fiil sonra gelir.",
+     "tag": "question-form",
+     "level": "A1"
+    },
+    {
+     "type": "order",
+     "promptTr": "Soruyu sırala:",
+     "words": [
+      "is",
+      "Where",
+      "the",
+      "bus",
+      "stop?"
+     ],
+     "answer": "Where is the bus stop?",
+     "whyTr": "Where + is + özne.",
+     "tag": "question-form",
+     "level": "A1"
+    },
+    {
+     "type": "order",
+     "promptTr": "Soruyu sırala:",
+     "words": [
+      "many",
+      "How",
+      "children",
+      "are",
+      "there?"
+     ],
+     "answer": "How many children are there?",
+     "whyTr": "How many + çoğul isim + are there?",
+     "tag": "question-form",
+     "level": "A1"
+    },
+    {
+     "type": "fill",
+     "q": "___ is your birthday? \"In May.\"",
+     "accept": [
+      "when",
+      "When"
+     ],
+     "hintTr": "ne zaman",
+     "whyTr": "Zaman sorulur: When.",
+     "tag": "question-form",
+     "level": "A1"
+    },
+    {
+     "type": "fill",
+     "q": "How ___ is the bus ticket? \"Two dollars.\"",
+     "accept": [
+      "much"
+     ],
+     "hintTr": "fiyat için",
+     "whyTr": "Fiyat için How much.",
+     "tag": "question-form",
+     "level": "A1"
+    }
+   ]
+  },
+  "vocab": [
+   {
+    "id": "schedule",
+    "en": "schedule",
+    "tr": "program, takvim, saat çizelgesi",
+    "pos": "noun",
+    "example": "The bus schedule is on the wall.",
+    "exampleTr": "Otobüs saatleri duvarda.",
+    "syn": [],
+    "ant": [],
+    "level": "A1"
+   },
+   {
+    "id": "calendar",
+    "en": "calendar",
+    "tr": "takvim",
+    "pos": "noun",
+    "example": "I write my classes on the calendar.",
+    "exampleTr": "Derslerimi takvime yazıyorum.",
+    "syn": [],
+    "ant": [],
+    "level": "A1"
+   },
+   {
+    "id": "date",
+    "en": "date",
+    "tr": "tarih",
+    "pos": "noun",
+    "example": "What is today's date?",
+    "exampleTr": "Bugünün tarihi ne?",
+    "syn": [],
+    "ant": [],
+    "level": "A1"
+   },
+   {
+    "id": "month",
+    "en": "month",
+    "tr": "ay",
+    "pos": "noun",
+    "example": "There are twelve months in a year.",
+    "exampleTr": "Bir yılda on iki ay var.",
+    "syn": [],
+    "ant": [],
+    "level": "A1"
+   },
+   {
+    "id": "week",
+    "en": "week",
+    "tr": "hafta",
+    "pos": "noun",
+    "example": "I have English class two times a week.",
+    "exampleTr": "Haftada iki kez İngilizce dersim var.",
+    "syn": [],
+    "ant": [],
+    "level": "A1"
+   },
+   {
+    "id": "weekend",
+    "en": "weekend",
+    "tr": "hafta sonu",
+    "pos": "noun",
+    "example": "We visit Linda on the weekend.",
+    "exampleTr": "Hafta sonu Linda'yı ziyaret ediyoruz.",
+    "syn": [],
+    "ant": [],
+    "level": "A1"
+   },
+   {
+    "id": "tomorrow",
+    "en": "tomorrow",
+    "tr": "yarın",
+    "pos": "adverb",
+    "example": "Emre has a test tomorrow.",
+    "exampleTr": "Emre'nin yarın sınavı var.",
+    "syn": [],
+    "ant": [
+     "yesterday"
+    ],
+    "level": "A1"
+   },
+   {
+    "id": "yesterday",
+    "en": "yesterday",
+    "tr": "dün",
+    "pos": "adverb",
+    "example": "Yesterday I went to the library.",
+    "exampleTr": "Dün kütüphaneye gittim.",
+    "syn": [],
+    "ant": [
+     "tomorrow"
+    ],
+    "level": "A1"
+   },
+   {
+    "id": "early",
+    "en": "early",
+    "tr": "erken",
+    "pos": "adverb",
+    "example": "I get up early on school days.",
+    "exampleTr": "Okul günlerinde erken kalkarım.",
+    "syn": [],
+    "ant": [
+     "late"
+    ],
+    "level": "A1"
+   },
+   {
+    "id": "late",
+    "en": "late",
+    "tr": "geç",
+    "pos": "adverb",
+    "example": "The bus is late today.",
+    "exampleTr": "Otobüs bugün geç.",
+    "syn": [],
+    "ant": [
+     "early"
+    ],
+    "level": "A1"
+   },
+   {
+    "id": "oclock",
+    "en": "o'clock",
+    "tr": "tam saat",
+    "pos": "adverb",
+    "example": "The meeting is at three o'clock.",
+    "exampleTr": "Toplantı saat üçte.",
+    "syn": [],
+    "ant": [],
+    "level": "A1"
+   },
+   {
+    "id": "minute",
+    "en": "minute",
+    "tr": "dakika",
+    "pos": "noun",
+    "example": "The bus comes in five minutes.",
+    "exampleTr": "Otobüs beş dakikaya geliyor.",
+    "syn": [],
+    "ant": [],
+    "level": "A1"
+   },
+   {
+    "id": "arrive",
+    "en": "arrive",
+    "tr": "varmak",
+    "pos": "verb",
+    "example": "The bus arrives at 10:15.",
+    "exampleTr": "Otobüs 10:15'te varıyor.",
+    "syn": [
+     "get to"
+    ],
+    "ant": [
+     "leave"
+    ],
+    "level": "A2"
+   },
+   {
+    "id": "leave",
+    "en": "leave",
+    "tr": "ayrılmak, yola çıkmak",
+    "pos": "verb",
+    "example": "The bus leaves at 9:45.",
+    "exampleTr": "Otobüs 9:45'te kalkıyor.",
+    "syn": [],
+    "ant": [
+     "arrive"
+    ],
+    "level": "A2"
+   },
+   {
+    "id": "next",
+    "en": "next",
+    "tr": "gelecek, sonraki",
+    "pos": "adjective",
+    "example": "See you next week.",
+    "exampleTr": "Gelecek hafta görüşürüz.",
+    "syn": [],
+    "ant": [
+     "last"
+    ],
+    "level": "A1"
+   }
+  ],
+  "reading": {
+   "title": "Hafsa's busy week",
+   "text": "Hafsa has a busy week. On Monday she has an English class at 6:00 p.m. On Tuesday she goes to the school office to meet Mr. Brown. The meeting is at 10:30 in the morning. The school is far, so she takes the bus. The bus leaves at 9:45 and arrives at 10:15.\n\nOn Wednesday there is no class. Hafsa cleans the house and calls Linda. On Thursday Emre has a school event. It starts at 3:00 p.m., so Hafsa arrives early. She wants a good seat.\n\nOn Saturday Hafsa visits the library. It opens at 9:00 and closes at 5:00. She wants to borrow three books. The weekend is her time to read. She is happy and a little nervous about next month.",
+   "glossary": [
+    {
+     "en": "event",
+     "tr": "etkinlik"
+    },
+    {
+     "en": "seat",
+     "tr": "yer, koltuk"
+    },
+    {
+     "en": "borrow",
+     "tr": "ödünç almak"
+    },
+    {
+     "en": "nervous",
+     "tr": "gergin, heyecanlı"
+    }
+   ],
+   "questions": [
+    {
+     "type": "mcq",
+     "q": "What time is Hafsa's meeting with Mr. Brown?",
+     "options": [
+      "10:30 a.m.",
+      "9:45 a.m.",
+      "3:00 p.m."
+     ],
+     "answer": 0,
+     "whyTr": "Metin: 'The meeting is at 10:30'.",
+     "tag": "reading",
+     "level": "A1"
+    },
+    {
+     "type": "mcq",
+     "q": "How does Hafsa go to the school office?",
+     "options": [
+      "By bus",
+      "By car",
+      "On foot"
+     ],
+     "answer": 0,
+     "whyTr": "Metin: 'she takes the bus'.",
+     "tag": "reading",
+     "level": "A1"
+    },
+    {
+     "type": "mcq",
+     "q": "When does Emre's school event start?",
+     "options": [
+      "At 3:00 p.m.",
+      "At 9:00 a.m.",
+      "At 5:00 p.m."
+     ],
+     "answer": 0,
+     "whyTr": "Metin: 'It starts at 3:00 p.m.'",
+     "tag": "reading",
+     "level": "A1"
+    },
+    {
+     "type": "mcq",
+     "q": "How many books does Hafsa want to borrow?",
+     "options": [
+      "Two",
+      "Three",
+      "Five"
+     ],
+     "answer": 1,
+     "whyTr": "Metin: 'She wants to borrow three books.'",
+     "tag": "reading",
+     "level": "A1"
+    }
+   ]
+  }
+ },
+ "evening": {
+  "listening": {
+   "title": "Calling the school office",
+   "script": [
+    {
+     "speaker": "Mr. Brown",
+     "text": "Lincoln Elementary, school office. This is Mr. Brown."
+    },
+    {
+     "speaker": "Hafsa",
+     "text": "Hello, Mr. Brown. This is Hafsa. I want to talk about substitute work."
+    },
+    {
+     "speaker": "Mr. Brown",
+     "text": "Of course. When can you come to the school?"
+    },
+    {
+     "speaker": "Hafsa",
+     "text": "What days are good for you?"
+    },
+    {
+     "speaker": "Mr. Brown",
+     "text": "I'm free on Tuesday and Thursday."
+    },
+    {
+     "speaker": "Hafsa",
+     "text": "Tuesday is good. What time?"
+    },
+    {
+     "speaker": "Mr. Brown",
+     "text": "How about two thirty in the afternoon?"
+    },
+    {
+     "speaker": "Hafsa",
+     "text": "Yes, two thirty is fine. Where is your office?"
+    },
+    {
+     "speaker": "Mr. Brown",
+     "text": "It's in the main building, room twelve. It's next to the library."
+    },
+    {
+     "speaker": "Hafsa",
+     "text": "Thank you. So that's Tuesday, November tenth, at two thirty?"
+    },
+    {
+     "speaker": "Mr. Brown",
+     "text": "That's right. Please bring your ID."
+    },
+    {
+     "speaker": "Hafsa",
+     "text": "I will. Thank you very much. See you on Tuesday."
+    }
+   ],
+   "questions": [
+    {
+     "type": "mcq",
+     "q": "What day is the meeting?",
+     "options": [
+      "Tuesday",
+      "Thursday",
+      "Friday"
+     ],
+     "answer": 0,
+     "whyTr": "Hafsa: 'Tuesday is good.'",
+     "tag": "listening",
+     "level": "A1"
+    },
+    {
+     "type": "mcq",
+     "q": "What time is the meeting?",
+     "options": [
+      "2:30",
+      "3:30",
+      "12:30"
+     ],
+     "answer": 0,
+     "whyTr": "Mr. Brown: 'two thirty in the afternoon'.",
+     "tag": "listening",
+     "level": "A1"
+    },
+    {
+     "type": "mcq",
+     "q": "Where is the office?",
+     "options": [
+      "Room 12, next to the library",
+      "Room 2, next to the bus stop",
+      "Room 10, next to the gym"
+     ],
+     "answer": 0,
+     "whyTr": "Mr. Brown: 'room twelve... next to the library'.",
+     "tag": "listening",
+     "level": "A1"
+    },
+    {
+     "type": "mcq",
+     "q": "What should Hafsa bring?",
+     "options": [
+      "Her ID",
+      "A pen",
+      "A book"
+     ],
+     "answer": 0,
+     "whyTr": "Mr. Brown: 'Please bring your ID.'",
+     "tag": "listening",
+     "level": "A1"
+    }
+   ]
+  },
+  "writing": {
+   "promptTr": "Haftanı 4-5 cümleyle anlat: hangi gün, saat kaçta ne yapıyorsun?",
+   "promptEn": "Describe your week in 4-5 sentences.",
+   "frames": [
+    "On Monday I ...",
+    "My English class is at ...",
+    "I get up at ...",
+    "On the weekend I ..."
+   ],
+   "model": "I get up at seven o'clock. On Monday and Wednesday I have English class at 6:00 p.m. On Tuesday I go to the library. On Saturday I visit my neighbor. On Sunday I rest at home.",
+   "checklistTr": [
+    "Gün adları büyük harfle başlıyor mu (Monday)?",
+    "Gün için 'on', saat için 'at' kullandın mı?",
+    "Cümleler noktayla bitiyor mu?"
+   ],
+   "minWords": 25
+  },
+  "examSet": [
+   {
+    "type": "mcq",
+    "q": "___ is your class? \"At 6 p.m.\"",
+    "options": [
+     "What time",
+     "Where",
+     "Who"
+    ],
+    "answer": 0,
+    "whyTr": "Cevap saat: What time.",
+    "tag": "question-form",
+    "level": "A1"
+   },
+   {
+    "type": "mcq",
+    "q": "___ is the library? \"It's near the school.\"",
+    "options": [
+     "Where",
+     "When",
+     "How many"
+    ],
+    "answer": 0,
+    "whyTr": "Yer: Where.",
+    "tag": "question-form",
+    "level": "A1"
+   },
+   {
+    "type": "mcq",
+    "q": "___ children do you have? \"Two.\"",
+    "options": [
+     "How much",
+     "How many",
+     "How"
+    ],
+    "answer": 1,
+    "whyTr": "Sayılabilen: How many.",
+    "tag": "question-form",
+    "level": "A1"
+   },
+   {
+    "type": "mcq",
+    "q": "___ is a bus pass? \"Thirty dollars a month.\"",
+    "options": [
+     "How many",
+     "How much",
+     "What time"
+    ],
+    "answer": 1,
+    "whyTr": "Fiyat: How much.",
+    "tag": "question-form",
+    "level": "A1"
+   },
+   {
+    "type": "mcq",
+    "q": "___ is at the door? \"It's Linda.\"",
+    "options": [
+     "Who",
+     "Where",
+     "When"
+    ],
+    "answer": 0,
+    "whyTr": "Kişi: Who.",
+    "tag": "question-form",
+    "level": "A1"
+   },
+   {
+    "type": "mcq",
+    "q": "My class is ___ Monday.",
+    "options": [
+     "on",
+     "at",
+     "in"
+    ],
+    "answer": 0,
+    "whyTr": "Günlerle 'on' kullanılır.",
+    "tag": "prepositions-time",
+    "level": "A1"
+   },
+   {
+    "type": "mcq",
+    "q": "The bus leaves ___ 8:15.",
+    "options": [
+     "at",
+     "on",
+     "in"
+    ],
+    "answer": 0,
+    "whyTr": "Saatle 'at' kullanılır.",
+    "tag": "prepositions-time",
+    "level": "A1"
+   },
+   {
+    "type": "mcq",
+    "q": "My birthday is ___ March.",
+    "options": [
+     "in",
+     "on",
+     "at"
+    ],
+    "answer": 0,
+    "whyTr": "Aylarla 'in' kullanılır.",
+    "tag": "prepositions-time",
+    "level": "A1"
+   },
+   {
+    "type": "mcq",
+    "q": "What is the opposite of \"early\"?",
+    "options": [
+     "late",
+     "next",
+     "quiet"
+    ],
+    "answer": 0,
+    "whyTr": "Early'nin zıttı late.",
+    "tag": "antonym",
+    "level": "A1"
+   },
+   {
+    "type": "mcq",
+    "q": "Which word means almost the same as \"arrive\"?",
+    "options": [
+     "get to",
+     "stay at",
+     "look for"
+    ],
+    "answer": 0,
+    "whyTr": "Arrive = get to.",
+    "tag": "synonym",
+    "level": "A2"
+   },
+   {
+    "type": "mcq",
+    "q": "The library opens at 9:00 and closes at 6:00. It is closed on Sundays.\n\nWhen can you go to the library?",
+    "options": [
+     "Sunday at 10:00",
+     "Saturday at 11:00",
+     "Monday at 7:00"
+    ],
+    "answer": 1,
+    "whyTr": "Cumartesi 11:00 açık saatler içinde.",
+    "tag": "reading",
+    "level": "A2"
+   },
+   {
+    "type": "mcq",
+    "q": "Today is Friday. Emre has a test on Monday. He studies on Saturday and Sunday.\n\nWhen does Emre study?",
+    "options": [
+     "On the weekend",
+     "On Monday",
+     "On Friday"
+    ],
+    "answer": 0,
+    "whyTr": "Cumartesi ve pazar = weekend.",
+    "tag": "reading",
+    "level": "A2"
+   }
+  ]
+ }
+}

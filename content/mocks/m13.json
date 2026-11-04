@@ -1,0 +1,860 @@
+{
+ "titleTr": "13. hafta deneme sınavı",
+ "introTr": "Bu hafta pişmanlıkları, geçmişle ilgili çıkarımları ve gelişmiş koşul cümlelerini çalıştın. Bu deneme sadece nerede olduğunu görmen için; stres yok, bilmediğin soruda tahmin et. Hatalar seni geliştirir.",
+ "sections": [
+  {
+   "id": "grammar",
+   "titleTr": "Dil bilgisi",
+   "items": [
+    {
+     "type": "mcq",
+     "q": "If Hafsa ___ the alarm, she wouldn't have been late.",
+     "options": [
+      "heard",
+      "had heard",
+      "would hear",
+      "has heard"
+     ],
+     "answer": 1,
+     "whyTr": "Geçmişteki gerçek dışı durumda: If + had + V3, would have + V3.",
+     "tag": "conditionals",
+     "level": "B2"
+    },
+    {
+     "type": "mcq",
+     "q": "If I had left earlier, I ___ the bus.",
+     "options": [
+      "would catch",
+      "had caught",
+      "will have caught",
+      "would have caught"
+     ],
+     "answer": 3,
+     "whyTr": "3. tip koşulda sonuç kısmı: would have + V3.",
+     "tag": "conditionals",
+     "level": "B2"
+    },
+    {
+     "type": "mcq",
+     "q": "If I had accepted the full-time job, I ___ a teacher now.",
+     "options": [
+      "would be",
+      "would have been",
+      "will be",
+      "had been"
+     ],
+     "answer": 0,
+     "whyTr": "Karışık koşul: geçmişteki sebep, şimdiki sonuç; would + fiil.",
+     "tag": "conditionals",
+     "level": "B2"
+    },
+    {
+     "type": "mcq",
+     "q": "If she didn't speak English so well, she ___ that job last year.",
+     "options": [
+      "wouldn't get",
+      "didn't get",
+      "wouldn't have gotten",
+      "won't have gotten"
+     ],
+     "answer": 2,
+     "whyTr": "Karışık koşul: şimdiki özellik, geçmiş sonuç; would have + V3.",
+     "tag": "conditionals",
+     "level": "B2"
+    },
+    {
+     "type": "mcq",
+     "q": "I wish I ___ more free time these days.",
+     "options": [
+      "have",
+      "would have",
+      "had",
+      "had had"
+     ],
+     "answer": 2,
+     "whyTr": "Şimdiki istek için wish + past simple kullanılır.",
+     "tag": "conditionals",
+     "level": "B2"
+    },
+    {
+     "type": "mcq",
+     "q": "She wishes she ___ the email yesterday.",
+     "options": [
+      "had checked",
+      "checked",
+      "would check",
+      "has checked"
+     ],
+     "answer": 0,
+     "whyTr": "Geçmiş pişmanlık için wish + past perfect kullanılır.",
+     "tag": "conditionals",
+     "level": "B2"
+    },
+    {
+     "type": "mcq",
+     "q": "If only I ___ how to fix this printer right now!",
+     "options": [
+      "know",
+      "would know",
+      "had known",
+      "knew"
+     ],
+     "answer": 3,
+     "whyTr": "Şimdiki gerçek dışı istek: if only + past simple.",
+     "tag": "conditionals",
+     "level": "B2"
+    },
+    {
+     "type": "mcq",
+     "q": "The keys aren't here. Someone ___ them by mistake.",
+     "options": [
+      "must take",
+      "must have taken",
+      "must took",
+      "would taken"
+     ],
+     "answer": 1,
+     "whyTr": "Geçmişle ilgili güçlü çıkarım: must have + V3.",
+     "tag": "modals",
+     "level": "B2"
+    },
+    {
+     "type": "mcq",
+     "q": "Linda ___ at the meeting; I saw her at the airport at that time.",
+     "options": [
+      "can't have been",
+      "must have been",
+      "might be",
+      "should been"
+     ],
+     "answer": 0,
+     "whyTr": "Geçmişte imkânsız olan çıkarım: can't have + V3.",
+     "tag": "modals",
+     "level": "B2"
+    },
+    {
+     "type": "mcq",
+     "q": "I don't know where Emre is. He ___ gone to the library.",
+     "options": [
+      "can't have",
+      "needn't have",
+      "might have",
+      "would"
+     ],
+     "answer": 2,
+     "whyTr": "Emin olmadığımız geçmiş olasılık: might have + V3.",
+     "tag": "modals",
+     "level": "B2"
+    },
+    {
+     "type": "mcq",
+     "q": "We ___ . The meeting was postponed.",
+     "options": [
+      "mustn't have hurried",
+      "needn't have hurried",
+      "can't have hurried",
+      "shouldn't hurry"
+     ],
+     "answer": 1,
+     "whyTr": "Yapıldı ama gerekmiyordu: needn't have + V3.",
+     "tag": "modals",
+     "level": "B2"
+    },
+    {
+     "type": "mcq",
+     "q": "You ___ told me about the test! I didn't study at all.",
+     "options": [
+      "must have",
+      "needn't have",
+      "might have",
+      "should have"
+     ],
+     "answer": 3,
+     "whyTr": "Geçmişte yapılmayan ama yapılması gereken: should have + V3.",
+     "tag": "modals",
+     "level": "B1"
+    },
+    {
+     "type": "mcq",
+     "q": "The test papers ___ by the time the bell rang.",
+     "options": [
+      "have been collected",
+      "had been collected",
+      "were collecting",
+      "had collected"
+     ],
+     "answer": 1,
+     "whyTr": "Geçmişte bir andan önce tamamlanan edilgen olay: had been + V3.",
+     "tag": "passive",
+     "level": "B2"
+    },
+    {
+     "type": "mcq",
+     "q": "By next June, Hafsa ___ her teaching certification.",
+     "options": [
+      "is completing",
+      "completed",
+      "has complete",
+      "will have completed"
+     ],
+     "answer": 3,
+     "whyTr": "Belirli zamana kadar tamamlanacak iş: future perfect.",
+     "tag": "future",
+     "level": "B2"
+    },
+    {
+     "type": "mcq",
+     "q": "The teacher told the students ___ their phones.",
+     "options": [
+      "not to use",
+      "don't use",
+      "not use",
+      "to not using"
+     ],
+     "answer": 0,
+     "whyTr": "Dolaylı emirde: told + kişi + (not) to + fiil.",
+     "tag": "reported-speech",
+     "level": "B1"
+    },
+    {
+     "type": "mcq",
+     "q": "The school, ___ was built in 1950, will be renovated.",
+     "options": [
+      "who",
+      "where",
+      "which",
+      "whose"
+     ],
+     "answer": 2,
+     "whyTr": "Virgüllü cümlecikte nesne için 'which' kullanılır.",
+     "tag": "relative-clauses",
+     "level": "B1"
+    },
+    {
+     "type": "mcq",
+     "q": "___ it was raining, the field trip went ahead.",
+     "options": [
+      "Despite",
+      "Because",
+      "Although",
+      "So"
+     ],
+     "answer": 2,
+     "whyTr": "Karşıtlık için 'although' + özne + fiil kullanılır.",
+     "tag": "linkers",
+     "level": "B1"
+    },
+    {
+     "type": "mcq",
+     "q": "Her eyes are red. She ___.",
+     "options": [
+      "has been crying",
+      "cried",
+      "is cried",
+      "had cry"
+     ],
+     "answer": 0,
+     "whyTr": "Şimdiki sonucu olan yakın geçmiş süreç: present perfect continuous.",
+     "tag": "present-perfect",
+     "level": "B1"
+    },
+    {
+     "type": "mcq",
+     "q": "How ___ students are in your class?",
+     "options": [
+      "much",
+      "few",
+      "long",
+      "many"
+     ],
+     "answer": 3,
+     "whyTr": "Sayılabilen isimle 'how many' sorulur.",
+     "tag": "countable",
+     "level": "A2"
+    },
+    {
+     "type": "mcq",
+     "q": "You've met the new principal, ___?",
+     "options": [
+      "don't you",
+      "haven't you",
+      "didn't you",
+      "aren't you"
+     ],
+     "answer": 1,
+     "whyTr": "Olumlu present perfect cümlenin tag'i: haven't you?",
+     "tag": "question-form",
+     "level": "B1"
+    }
+   ]
+  },
+  {
+   "id": "vocab",
+   "titleTr": "Kelime",
+   "items": [
+    {
+     "type": "mcq",
+     "q": "Which word is closest in meaning to 'incident'?",
+     "options": [
+      "event",
+      "lesson",
+      "rule",
+      "result"
+     ],
+     "answer": 0,
+     "whyTr": "Incident, olay demektir; event ile yakındır.",
+     "tag": "synonym",
+     "level": "B1"
+    },
+    {
+     "type": "mcq",
+     "q": "What is the opposite of 'frequent'?",
+     "options": [
+      "regular",
+      "common",
+      "rare",
+      "careful"
+     ],
+     "answer": 2,
+     "whyTr": "Frequent (sık) kelimesinin zıttı rare (nadir).",
+     "tag": "antonym",
+     "level": "B1"
+    },
+    {
+     "type": "mcq",
+     "q": "'The student denied breaking the window.' Denied means:",
+     "options": [
+      "admitted",
+      "said it was not true",
+      "forgot",
+      "repeated"
+     ],
+     "answer": 1,
+     "whyTr": "Deny, inkâr etmek demektir.",
+     "tag": "vocab",
+     "level": "B1"
+    },
+    {
+     "type": "mcq",
+     "q": "The students had a loud ___ in the hallway. (argue)",
+     "options": [
+      "argue",
+      "argued",
+      "arguable",
+      "argument"
+     ],
+     "answer": 3,
+     "whyTr": "'A loud' sonrası isim gerekir: argument.",
+     "tag": "word-formation",
+     "level": "B1"
+    },
+    {
+     "type": "mcq",
+     "q": "Please ___ attention to the instructions.",
+     "options": [
+      "make",
+      "pay",
+      "do",
+      "have"
+     ],
+     "answer": 1,
+     "whyTr": "'Pay attention' sabit kalıptır.",
+     "tag": "collocations",
+     "level": "A2"
+    },
+    {
+     "type": "mcq",
+     "q": "'The sub was blamed for the mess.' Blamed means:",
+     "options": [
+      "thanked",
+      "paid",
+      "taught",
+      "said to be at fault"
+     ],
+     "answer": 3,
+     "whyTr": "Blame, suçlamak demektir.",
+     "tag": "vocab",
+     "level": "B2"
+    },
+    {
+     "type": "mcq",
+     "q": "Which word means the same as 'furious'?",
+     "options": [
+      "very angry",
+      "very tired",
+      "very nervous",
+      "very surprised"
+     ],
+     "answer": 0,
+     "whyTr": "Furious, çok öfkeli demektir.",
+     "tag": "synonym",
+     "level": "B2"
+    },
+    {
+     "type": "mcq",
+     "q": "What is the opposite of 'generous'?",
+     "options": [
+      "polite",
+      "rich",
+      "selfish",
+      "shy"
+     ],
+     "answer": 2,
+     "whyTr": "Generous (cömert) kelimesinin zıttı selfish (bencil).",
+     "tag": "antonym",
+     "level": "B1"
+    },
+    {
+     "type": "mcq",
+     "q": "He showed great ___ when he helped the new student. (kind)",
+     "options": [
+      "kindly",
+      "kinder",
+      "kindness",
+      "kind"
+     ],
+     "answer": 2,
+     "whyTr": "'Great' sonrası isim gerekir: kindness.",
+     "tag": "word-formation",
+     "level": "B1"
+    },
+    {
+     "type": "mcq",
+     "q": "A fight ___ during recess, so the teacher ran outside.",
+     "options": [
+      "broke out",
+      "broke down",
+      "broke into",
+      "broke off"
+     ],
+     "answer": 0,
+     "whyTr": "'Break out' (aniden başlamak) olaylar için kullanılır.",
+     "tag": "phrasal-verbs",
+     "level": "B2"
+    },
+    {
+     "type": "mcq",
+     "q": "'Please keep the information confidential.' Confidential means:",
+     "options": [
+      "very important to everyone",
+      "old",
+      "simple",
+      "secret, not shared"
+     ],
+     "answer": 3,
+     "whyTr": "Confidential, gizli demektir.",
+     "tag": "vocab",
+     "level": "B2"
+    },
+    {
+     "type": "mcq",
+     "q": "I'd like to ___ a complaint about the noise.",
+     "options": [
+      "do",
+      "file",
+      "take",
+      "carry"
+     ],
+     "answer": 1,
+     "whyTr": "'File a complaint' resmî şikâyet etmek demektir.",
+     "tag": "collocations",
+     "level": "B2"
+    }
+   ]
+  },
+  {
+   "id": "reading",
+   "titleTr": "Okuma",
+   "passages": [
+    {
+     "title": "A lost jacket",
+     "level": "A2",
+     "text": "Last Friday, Emre came home without his jacket. It was a blue jacket, and it was new. Hafsa was upset. 'You must have left it at school,' she said. Emre said he had looked everywhere in his classroom.\n\nThe next morning, Hafsa went to the school office. Mr. Brown showed her a box of lost and found items. There were hats, lunch boxes, and many jackets, but not a blue one. 'It might have been taken by mistake,' Mr. Brown said. 'Last week, another class had a field trip, and some students wore the wrong jackets.' He wrote Emre's name in the lost-and-found book and promised to ask the teachers.\n\nOn Monday, Emre came home smiling. A girl named Ella had worn his jacket by mistake, and her mother had brought it back. Hafsa laughed. 'If I had known, I wouldn't have worried so much!'",
+     "questions": [
+      {
+       "type": "mcq",
+       "q": "What did Hafsa think at first?",
+       "options": [
+        "Emre left the jacket at school.",
+        "Emre sold the jacket.",
+        "A teacher took the jacket.",
+        "The jacket was in the car."
+       ],
+       "answer": 0,
+       "whyTr": "Hafsa 'You must have left it at school' dedi.",
+       "tag": "reading",
+       "level": "A2"
+      },
+      {
+       "type": "mcq",
+       "q": "Why was the jacket missing?",
+       "options": [
+        "It was stolen from the school.",
+        "Emre lost it on the bus.",
+        "Another student wore it by mistake.",
+        "It was in the lost-and-found box."
+       ],
+       "answer": 2,
+       "whyTr": "Ella ceketi yanlışlıkla giymiş.",
+       "tag": "reading",
+       "level": "B1"
+      },
+      {
+       "type": "mcq",
+       "q": "What does Hafsa mean in the last sentence?",
+       "options": [
+        "She wanted a new jacket.",
+        "She worried more than she needed to.",
+        "She was angry with Ella.",
+        "She did not know the answer."
+       ],
+       "answer": 1,
+       "whyTr": "Bilseydi bu kadar endişelenmeyecekti.",
+       "tag": "reading",
+       "level": "B1"
+      }
+     ]
+    },
+    {
+     "title": "Incident report: Room 14",
+     "level": "B1",
+     "text": "Date: March 12. Prepared by: Hafsa (substitute teacher).\n\nAt about 10:20 a.m., while the students were working on their math worksheets, two boys, Daniel and Marcus, started arguing about a missing pencil case. I asked them to stop, but Daniel stood up and pushed his chair back loudly. Marcus said that Daniel had taken the pencil case, and Daniel replied that he had never touched it.\n\nI separated the boys and asked each of them to explain what had happened. The pencil case was later found under Marcus's own desk. Daniel was upset, and Marcus apologized. I should have checked the area around the desk before the argument grew, but I was helping another student at the time.\n\nI wrote a note to the regular teacher, Mrs. Lee, and informed the front office. No one was hurt. I recommend that the boys sit apart for the next few days. If the situation had become more serious, I would have called the counselor, but this was not necessary.",
+     "questions": [
+      {
+       "type": "mcq",
+       "q": "What started the argument?",
+       "options": [
+        "A math test",
+        "A broken chair",
+        "A lost jacket",
+        "A missing pencil case"
+       ],
+       "answer": 3,
+       "whyTr": "Çocuklar kayıp bir kalem kutusu yüzünden tartıştı.",
+       "tag": "reading",
+       "level": "B1"
+      },
+      {
+       "type": "mcq",
+       "q": "Where was the pencil case found?",
+       "options": [
+        "In Daniel's bag",
+        "Under Marcus's own desk",
+        "In the office",
+        "In the hallway"
+       ],
+       "answer": 1,
+       "whyTr": "Metinde Marcus'un kendi sırasının altında bulundu.",
+       "tag": "reading",
+       "level": "B1"
+      },
+      {
+       "type": "mcq",
+       "q": "What does Hafsa admit in the report?",
+       "options": [
+        "She did not write a note.",
+        "She forgot the boys' names.",
+        "She ignored the argument.",
+        "She could have noticed the problem earlier."
+       ],
+       "answer": 3,
+       "whyTr": "'I should have checked' diyor; yani daha erken bakabilirdi.",
+       "tag": "reading",
+       "level": "B2"
+      },
+      {
+       "type": "mcq",
+       "q": "Why didn't Hafsa call the counselor?",
+       "options": [
+        "The situation did not become serious.",
+        "The counselor was absent.",
+        "The boys refused to talk.",
+        "She did not know the number."
+       ],
+       "answer": 0,
+       "whyTr": "Durum ciddileşmedi, gerek olmadı.",
+       "tag": "reading",
+       "level": "B2"
+      }
+     ]
+    },
+    {
+     "title": "What first-year teachers wish they had known",
+     "level": "B2",
+     "text": "Ask a group of first-year teachers what they wish they had known on day one, and the answers are surprisingly similar. Many say they wish they had spent less time planning perfect lessons and more time getting to know their students. 'I stayed up until midnight making slides,' said one teacher. 'If I had talked to the kids first, I would have realized they needed a different approach.'\n\nOthers regret being too friendly at the beginning. 'I wanted them to like me, so I let small things go,' another teacher admitted. 'By October, I couldn't control the class. I wish I had set clear rules from the first day.' Experienced colleagues agree that it is much easier to relax a strict classroom than to make a relaxed one stricter.\n\nNot everything is regret, however. Most new teachers say they needn't have worried so much about making mistakes. Students are forgiving when they sense that an adult is honest and prepared to learn. 'The best lesson I learned,' one teacher said, 'was that I don't have to be perfect, only consistent.'",
+     "questions": [
+      {
+       "type": "mcq",
+       "q": "What is the main idea of the passage?",
+       "options": [
+        "Teachers should never make slides.",
+        "Students dislike friendly teachers.",
+        "New teachers learn lessons they wish they had known earlier.",
+        "Planning is always a waste of time."
+       ],
+       "answer": 2,
+       "whyTr": "Metin ilk yıl öğretmenlerinin keşke bilseydim dediği şeyleri anlatıyor.",
+       "tag": "reading",
+       "level": "B2"
+      },
+      {
+       "type": "mcq",
+       "q": "Why does the second teacher feel regret?",
+       "options": [
+        "The students did not like her.",
+        "She gave too much homework.",
+        "Being friendly without clear rules led to a loss of control.",
+        "She was too strict."
+       ],
+       "answer": 2,
+       "whyTr": "Kuralları net koymadığı için sınıfı kontrol edemedi.",
+       "tag": "reading",
+       "level": "B2"
+      },
+      {
+       "type": "mcq",
+       "q": "What does 'consistent' suggest in the last sentence?",
+       "options": [
+        "Behaving in a steady, predictable way",
+        "Being perfect every day",
+        "Changing the rules often",
+        "Avoiding mistakes completely"
+       ],
+       "answer": 0,
+       "whyTr": "Consistent, tutarlı demektir; mükemmel olmak değil.",
+       "tag": "reading",
+       "level": "B2"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "listening",
+   "titleTr": "Dinleme",
+   "passages": [
+    {
+     "title": "A missing laptop",
+     "level": "B1",
+     "script": [
+      {
+       "speaker": "Mr. Brown",
+       "text": "Hafsa, did you see the laptop cart after fourth period? One laptop is missing."
+      },
+      {
+       "speaker": "Hafsa",
+       "text": "I locked the cart myself. But a student might have taken one when I was at the door."
+      },
+      {
+       "speaker": "Mr. Brown",
+       "text": "It can't have been a fifth grader. They were in the gym."
+      },
+      {
+       "speaker": "Hafsa",
+       "text": "Then it must have been someone from my last class. I should have counted the laptops before they left."
+      },
+      {
+       "speaker": "Mr. Brown",
+       "text": "Don't blame yourself. Nobody told you to count them. Still, let's check the security camera."
+      },
+      {
+       "speaker": "Hafsa",
+       "text": "Good idea. If I had known about the camera, I would have asked for a copy earlier."
+      }
+     ],
+     "questions": [
+      {
+       "type": "mcq",
+       "q": "Who does Hafsa think took the laptop?",
+       "options": [
+        "A fifth grader",
+        "Mr. Brown",
+        "A teacher",
+        "A student from her last class"
+       ],
+       "answer": 3,
+       "whyTr": "Hafsa 'someone from my last class' diyor.",
+       "tag": "listening",
+       "level": "B1"
+      },
+      {
+       "type": "mcq",
+       "q": "What does Hafsa regret?",
+       "options": [
+        "She forgot to lock the cart.",
+        "She did not count the laptops.",
+        "She left the school early.",
+        "She lost the key."
+       ],
+       "answer": 1,
+       "whyTr": "'I should have counted the laptops' diyor.",
+       "tag": "listening",
+       "level": "B1"
+      },
+      {
+       "type": "mcq",
+       "q": "What will they do next?",
+       "options": [
+        "Check the security camera",
+        "Call the police",
+        "Search the gym",
+        "Ask the parents"
+       ],
+       "answer": 0,
+       "whyTr": "Mr. Brown kamerayı kontrol etmeyi öneriyor.",
+       "tag": "listening",
+       "level": "B1"
+      }
+     ]
+    },
+    {
+     "title": "After the interview",
+     "level": "B2",
+     "script": [
+      {
+       "speaker": "Hafsa",
+       "text": "Hello, Ms. Carter. I'm calling about the aide position I interviewed for last week."
+      },
+      {
+       "speaker": "Ms. Carter",
+       "text": "Hello, Hafsa. I'm glad you called. We offered the job to another candidate who had a teaching license."
+      },
+      {
+       "speaker": "Hafsa",
+       "text": "I see. I wish I had known about that requirement before I applied."
+      },
+      {
+       "speaker": "Ms. Carter",
+       "text": "It was a preferred qualification, not a required one. But your interview was strong. If we had had two openings, we would have hired you both."
+      },
+      {
+       "speaker": "Hafsa",
+       "text": "Thank you. Is there anything I could improve?"
+      },
+      {
+       "speaker": "Ms. Carter",
+       "text": "You should have asked more questions about the schedule. Showing interest matters. And please apply for our substitute list. We need people like you."
+      },
+      {
+       "speaker": "Hafsa",
+       "text": "I will. I'll send the application today."
+      }
+     ],
+     "questions": [
+      {
+       "type": "mcq",
+       "q": "Why didn't Hafsa get the job?",
+       "options": [
+        "She arrived late to the interview.",
+        "She did not send her résumé.",
+        "Another candidate had a teaching license.",
+        "The position was canceled."
+       ],
+       "answer": 2,
+       "whyTr": "Ms. Carter lisanslı başka bir adaya teklif yapıldığını söylüyor.",
+       "tag": "listening",
+       "level": "B2"
+      },
+      {
+       "type": "mcq",
+       "q": "What advice does Ms. Carter give?",
+       "options": [
+        "Take a teaching course",
+        "Ask more questions about the schedule",
+        "Speak more slowly",
+        "Bring a letter next time"
+       ],
+       "answer": 1,
+       "whyTr": "'You should have asked more questions about the schedule.'",
+       "tag": "listening",
+       "level": "B2"
+      },
+      {
+       "type": "mcq",
+       "q": "What will Hafsa do today?",
+       "options": [
+        "Call another school",
+        "Visit the school",
+        "Take a test",
+        "Send an application for the substitute list"
+       ],
+       "answer": 3,
+       "whyTr": "Hafsa bugün substitute listesi için başvuru gönderecek.",
+       "tag": "listening",
+       "level": "B2"
+      }
+     ]
+    },
+    {
+     "title": "A forgotten project",
+     "level": "A2",
+     "script": [
+      {
+       "speaker": "Emre",
+       "text": "Mom, I forgot my science project at home! The teacher is going to be angry."
+      },
+      {
+       "speaker": "Hafsa",
+       "text": "I told you to check your backpack last night. You should have listened."
+      },
+      {
+       "speaker": "Emre",
+       "text": "I know. If I had checked it, I wouldn't be in this trouble."
+      },
+      {
+       "speaker": "Hafsa",
+       "text": "Don't panic. I'm not working today, so I'll drive it to school. It will take fifteen minutes."
+      },
+      {
+       "speaker": "Emre",
+       "text": "Thanks, Mom. Please bring it to the front office. I'll pick it up before second period."
+      }
+     ],
+     "questions": [
+      {
+       "type": "mcq",
+       "q": "What did Emre forget?",
+       "options": [
+        "His lunch",
+        "His science project",
+        "His jacket",
+        "His homework book"
+       ],
+       "answer": 1,
+       "whyTr": "Emre fen projesini evde unuttu.",
+       "tag": "listening",
+       "level": "A2"
+      },
+      {
+       "type": "mcq",
+       "q": "What will Hafsa do?",
+       "options": [
+        "Call the teacher",
+        "Wait for Emre at home",
+        "Send it by bus",
+        "Bring the project to the front office"
+       ],
+       "answer": 3,
+       "whyTr": "Hafsa projeyi ön ofise getirecek.",
+       "tag": "listening",
+       "level": "A2"
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "writing": {
+  "promptTr": "Öğretmenin için sınıfta olan bir olayla ilgili kısa bir olay raporu yaz (ör. iki öğrenci tartıştı ya da bir eşya kayboldu). Ne olduğunu, ne yaptığını ve bir şeyi farklı yapsaydın neyin değişeceğini anlat. 'should have', 'might have' ve 3. tip koşul kullanmayı dene.",
+  "promptEn": "Write a short incident report for the regular teacher about something that happened in class (for example, a student argument or a missing item). Say what happened, what you did, and what you would have done differently.",
+  "minWords": 100,
+  "checklistTr": [
+   "Tarih, saat ve olay açık yazıldı mı?",
+   "Geçmiş zamanları doğru kullandım mı?",
+   "En az bir 'should have' ya da 'could have' cümlem var mı?",
+   "En az bir 3. tip koşul cümlem var mı (If I had ..., I would have ...)?",
+   "Sonuç ve öneri cümlem var mı?"
+  ],
+  "model": "Dear Mrs. Lee,\n\nI am writing to tell you about an incident in your class on Tuesday. At about 10:20, while the students were doing their math worksheets, two boys, Daniel and Marcus, started arguing about a missing pencil case. Daniel stood up and pushed his chair back, and Marcus said that Daniel had taken it.\n\nI separated the boys and asked each of them to explain what had happened. The pencil case was found under Marcus's desk. Marcus apologized, and Daniel calmed down. No one was hurt.\n\nLooking back, I should have checked the area around the desk before the argument grew. If I had done that, the boys might not have become so upset. I recommend that they sit apart for a few days. If the situation had become more serious, I would have called the counselor.\n\nPlease let me know if you need more information.\n\nSincerely,\nHafsa"
+ }
+}

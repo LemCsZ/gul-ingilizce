@@ -1,0 +1,914 @@
+{
+ "week": 13,
+ "day": 5,
+ "titleTr": "Dersin değerlendirmesi: needn't have ve should have",
+ "theme": "lesson-evaluation",
+ "morning": {
+  "grammar": {
+   "topic": "needn't have / should have / shouldn't have + V3",
+   "explainTr": [
+    "Should have + V3, geçmişte yapılmayan ama yapılması gereken şeyi anlatır: I should have checked the handout. (Kontrol etmedim, etmeliydim.) Shouldn't have + V3, yapılmaması gerekirdi anlamına gelir: I shouldn't have shouted.",
+    "Needn't have + V3, bir şeyi yaptığını ama gerek olmadığını söyler: I needn't have made so many posters. (Yaptım, ama gerek yoktu.)",
+    "Dikkat: didn't need to ise gereksizdi demek, ama yapıp yapmadığın belli olmaz. Needn't have'de iş yapılmıştır."
+   ],
+   "compareTr": "Türkçede 'yapmalıydım' ve 'yapmama gerek yoktu' ayrı kelimelerle söylenir. İngilizcede her ikisi de 'have + V3' ile kurulur: should have done / needn't have done.",
+   "table": [
+    [
+     "Yapmalıydı (yapmadı)",
+     "should have + V3",
+     "I should have studied."
+    ],
+    [
+     "Yapmamalıydı (yaptı)",
+     "shouldn't have + V3",
+     "I shouldn't have shouted."
+    ],
+    [
+     "Yaptı ama gereksizdi",
+     "needn't have + V3",
+     "I needn't have hurried."
+    ],
+    [
+     "Gerek yoktu (yaptı mı belirsiz)",
+     "didn't need to + fiil",
+     "I didn't need to hurry."
+    ]
+   ],
+   "examples": [
+    {
+     "en": "You should have called me earlier.",
+     "tr": "Beni daha önce aramalıydın."
+    },
+    {
+     "en": "We shouldn't have left the door open.",
+     "tr": "Kapıyı açık bırakmamalıydık."
+    },
+    {
+     "en": "I needn't have brought an umbrella; it didn't rain.",
+     "tr": "Şemsiye getirmeme gerek yoktu; yağmur yağmadı."
+    }
+   ],
+   "exercises": [
+    {
+     "type": "mcq",
+     "q": "I brought an umbrella, but it didn't rain. I ___ brought it.",
+     "options": [
+      "needn't have",
+      "mustn't have",
+      "can't have",
+      "might have"
+     ],
+     "answer": 0,
+     "whyTr": "Yaptım ama gereksizdi: needn't have + V3.",
+     "tag": "modals",
+     "level": "B2"
+    },
+    {
+     "type": "mcq",
+     "q": "The lesson was confusing. The teacher ___ explained it more slowly.",
+     "options": [
+      "needn't have",
+      "should have",
+      "can't have",
+      "must"
+     ],
+     "answer": 1,
+     "whyTr": "Yapmalıydı ama yapmadı: should have + V3.",
+     "tag": "modals",
+     "level": "B2"
+    },
+    {
+     "type": "order",
+     "promptTr": "Cümleyi sırala:",
+     "words": [
+      "have",
+      "about",
+      "told",
+      "should",
+      "You",
+      "the",
+      "me",
+      "test"
+     ],
+     "answer": "You should have told me about the test",
+     "whyTr": "Geçmişte yapılmayan tavsiye: should have + V3.",
+     "tag": "modals",
+     "level": "B2"
+    },
+    {
+     "type": "mcq",
+     "q": "We made twenty copies, but only ten students came. We ___ made so many.",
+     "options": [
+      "should have",
+      "must have",
+      "might have",
+      "needn't have"
+     ],
+     "answer": 3,
+     "whyTr": "Gereksiz yapılan iş: needn't have made.",
+     "tag": "modals",
+     "level": "B2"
+    },
+    {
+     "type": "mcq",
+     "q": "He drove through a red light. He ___ done that.",
+     "options": [
+      "shouldn't have",
+      "needn't have",
+      "can't have",
+      "must have"
+     ],
+     "answer": 0,
+     "whyTr": "Yapmaması gereken bir şey yaptı: shouldn't have + V3.",
+     "tag": "modals",
+     "level": "B2"
+    },
+    {
+     "type": "mcq",
+     "q": "She didn't need to bring lunch because the school provided it. Which sentence has the same idea?",
+     "options": [
+      "She mustn't bring lunch.",
+      "She needn't have brought lunch.",
+      "She can't have brought lunch.",
+      "She should bring lunch."
+     ],
+     "answer": 1,
+     "whyTr": "Gereksizdi: needn't have brought.",
+     "tag": "modals",
+     "level": "B2"
+    },
+    {
+     "type": "order",
+     "promptTr": "Cümleyi sırala:",
+     "words": [
+      "the",
+      "We",
+      "needn't",
+      "bus",
+      "hurried",
+      "late",
+      "because",
+      "was",
+      "have"
+     ],
+     "answer": "We needn't have hurried because the bus was late",
+     "whyTr": "Gereksiz acele: needn't have + V3.",
+     "tag": "modals",
+     "level": "B2"
+    },
+    {
+     "type": "mcq",
+     "q": "I forgot to check the sub plans. I ___ checked them yesterday.",
+     "options": [
+      "needn't have",
+      "can't have",
+      "might",
+      "should have"
+     ],
+     "answer": 3,
+     "whyTr": "Yapmam gereken şeyi yapmadım: should have checked.",
+     "tag": "modals",
+     "level": "B2"
+    },
+    {
+     "type": "mcq",
+     "q": "The homework was easy. The students ___ asked for help. (Asked, but there was no need.)",
+     "options": [
+      "needn't have",
+      "should have",
+      "might have",
+      "must have"
+     ],
+     "answer": 0,
+     "whyTr": "Gereksiz yere yardım istediler.",
+     "tag": "modals",
+     "level": "B2"
+    },
+    {
+     "type": "mcq",
+     "q": "Which sentence is a criticism of a past action?",
+     "options": [
+      "You mustn't shout at him.",
+      "You shouldn't have shouted at him.",
+      "You needn't shout at him.",
+      "You might shout at him."
+     ],
+     "answer": 1,
+     "whyTr": "Geçmişi eleştirmek: shouldn't have + V3.",
+     "tag": "modals",
+     "level": "B2"
+    },
+    {
+     "type": "fill",
+     "q": "The test was cancelled, so we ___ have studied so hard.",
+     "accept": [
+      "needn't"
+     ],
+     "hintTr": "gerek yoktu",
+     "whyTr": "Gereksiz çaba: needn't have + V3.",
+     "tag": "modals",
+     "level": "B2"
+    },
+    {
+     "type": "fill",
+     "q": "You ___ have called earlier. Now it's too late.",
+     "accept": [
+      "should"
+     ],
+     "hintTr": "yapmalıydın",
+     "whyTr": "Geçmiş tavsiye: should have + V3.",
+     "tag": "modals",
+     "level": "B2"
+    }
+   ]
+  },
+  "vocab": [
+   {
+    "id": "assess",
+    "en": "assess",
+    "tr": "değerlendirmek",
+    "pos": "verb",
+    "example": "Teachers assess students with short quizzes.",
+    "exampleTr": "Öğretmenler öğrencileri kısa sınavlarla değerlendirir.",
+    "syn": [
+     "evaluate"
+    ],
+    "ant": [],
+    "level": "B2"
+   },
+   {
+    "id": "feedback",
+    "en": "feedback",
+    "tr": "geri bildirim",
+    "pos": "noun",
+    "example": "The principal gave her helpful feedback.",
+    "exampleTr": "Müdür ona faydalı bir geri bildirim verdi.",
+    "syn": [],
+    "ant": [],
+    "level": "B2"
+   },
+   {
+    "id": "objective",
+    "en": "objective",
+    "tr": "hedef, amaç",
+    "pos": "noun",
+    "example": "The objective of the lesson was to learn new words.",
+    "exampleTr": "Dersin amacı yeni kelimeler öğrenmekti.",
+    "syn": [
+     "goal"
+    ],
+    "ant": [],
+    "level": "B2"
+   },
+   {
+    "id": "compliment",
+    "en": "compliment",
+    "tr": "iltifat etmek; iltifat",
+    "pos": "verb",
+    "example": "She complimented the student's neat work.",
+    "exampleTr": "Öğrencinin düzenli çalışmasını övdü.",
+    "syn": [
+     "praise"
+    ],
+    "ant": [
+     "insult"
+    ],
+    "level": "B2"
+   },
+   {
+    "id": "criticize",
+    "en": "criticize",
+    "tr": "eleştirmek",
+    "pos": "verb",
+    "example": "Don't criticize a child in front of the class.",
+    "exampleTr": "Bir çocuğu sınıfın önünde eleştirme.",
+    "syn": [],
+    "ant": [
+     "praise"
+    ],
+    "level": "B2"
+   },
+   {
+    "id": "engage",
+    "en": "engage",
+    "tr": "ilgisini çekmek, katmak",
+    "pos": "verb",
+    "example": "A good story can engage the whole class.",
+    "exampleTr": "İyi bir hikâye bütün sınıfın ilgisini çekebilir.",
+    "syn": [],
+    "ant": [],
+    "level": "B2"
+   },
+   {
+    "id": "focus",
+    "en": "focus",
+    "tr": "odaklanmak",
+    "pos": "verb",
+    "example": "It is hard to focus when it is noisy.",
+    "exampleTr": "Gürültülüyken odaklanmak zor.",
+    "syn": [
+     "concentrate"
+    ],
+    "ant": [],
+    "level": "B2"
+   },
+   {
+    "id": "lecture",
+    "en": "lecture",
+    "tr": "ders anlatımı; konferans",
+    "pos": "noun",
+    "example": "The teacher gave a short lecture on rivers.",
+    "exampleTr": "Öğretmen nehirler hakkında kısa bir ders anlattı.",
+    "syn": [],
+    "ant": [],
+    "level": "B2"
+   },
+   {
+    "id": "rubric",
+    "en": "rubric",
+    "tr": "değerlendirme ölçeği",
+    "pos": "noun",
+    "example": "The rubric shows how the project will be graded.",
+    "exampleTr": "Ölçek, projenin nasıl notlanacağını gösterir.",
+    "syn": [],
+    "ant": [],
+    "level": "B2"
+   },
+   {
+    "id": "confusing",
+    "en": "confusing",
+    "tr": "kafa karıştırıcı",
+    "pos": "adjective",
+    "example": "The instructions were confusing.",
+    "exampleTr": "Talimatlar kafa karıştırıcıydı.",
+    "syn": [
+     "unclear"
+    ],
+    "ant": [
+     "clear"
+    ],
+    "level": "B2"
+   },
+   {
+    "id": "unnecessary",
+    "en": "unnecessary",
+    "tr": "gereksiz",
+    "pos": "adjective",
+    "example": "The extra worksheet was unnecessary.",
+    "exampleTr": "Ek çalışma kâğıdı gereksizdi.",
+    "syn": [
+     "needless"
+    ],
+    "ant": [
+     "essential"
+    ],
+    "level": "B2"
+   },
+   {
+    "id": "handout",
+    "en": "handout",
+    "tr": "dağıtılan kâğıt",
+    "pos": "noun",
+    "example": "I gave each student a handout.",
+    "exampleTr": "Her öğrenciye bir kâğıt dağıttım.",
+    "syn": [],
+    "ant": [],
+    "level": "B2"
+   },
+   {
+    "id": "instructions",
+    "en": "instructions",
+    "tr": "talimatlar",
+    "pos": "noun",
+    "example": "Read the instructions carefully.",
+    "exampleTr": "Talimatları dikkatle oku.",
+    "syn": [],
+    "ant": [],
+    "level": "B2"
+   },
+   {
+    "id": "pace",
+    "en": "pace",
+    "tr": "hız, tempo",
+    "pos": "noun",
+    "example": "The teacher spoke at a slow pace.",
+    "exampleTr": "Öğretmen yavaş bir tempoyla konuştu.",
+    "syn": [
+     "speed"
+    ],
+    "ant": [],
+    "level": "B2"
+   },
+   {
+    "id": "outcome",
+    "en": "outcome",
+    "tr": "sonuç",
+    "pos": "noun",
+    "example": "The outcome of the lesson was positive.",
+    "exampleTr": "Dersin sonucu olumluydu.",
+    "syn": [
+     "result"
+    ],
+    "ant": [],
+    "level": "B2"
+   }
+  ],
+  "reading": {
+   "title": "Hafsa evaluates her lesson",
+   "text": "On Friday afternoon, Hafsa sat in Ms. Carter's classroom after school. She had taught her first full lesson that day, and now she wanted to evaluate it honestly. Ms. Carter had given her a simple form with three questions: What went well? What didn't? What would you change?\n\nHafsa started with the good news. The objective of the lesson was to practice new vocabulary through a short story. The students listened carefully, and many of them participated in the discussion. A shy girl, Sofia, even raised her hand twice. Hafsa had praised her, and Sofia smiled all afternoon.\n\nThen she moved to the difficult part. \"I should have checked the instructions before class,\" she wrote. \"My handout was confusing, and several students did not know what to do.\" Because of that, she had to explain the task three times. She had also talked too quickly. \"I should have used a slower pace. Some students struggled to follow.\"\n\nThere was one more thing. Hafsa had spent two hours the night before making colorful posters for the board. During the lesson, she hardly used them. \"I needn't have made so many posters,\" she wrote. \"They were nice, but unnecessary, and they distracted some children.\" She laughed at herself and added a small smiling face.\n\nWhen Ms. Carter read the form, she nodded. \"This is a very honest evaluation,\" she said. \"Many new teachers only see the mistakes. You also saw what worked. And you are right about the handout. You could have shown the students an example first.\"\n\n\"I know,\" said Hafsa. \"Next time I'll give an example, I'll speak more slowly, and I'll use fewer materials.\"\n\n\"That's exactly the kind of feedback that helps a lesson improve,\" Ms. Carter said. \"A good teacher doesn't have to be perfect. She just has to keep learning.\"\n\nOn the way home, Hafsa felt tired but happy. She was already thinking about her next lesson, and she had one more idea: a short quiz game at the end of the class.",
+   "glossary": [
+    {
+     "en": "evaluation",
+     "tr": "değerlendirme"
+    },
+    {
+     "en": "form",
+     "tr": "form"
+    },
+    {
+     "en": "raise your hand",
+     "tr": "el kaldırmak"
+    },
+    {
+     "en": "poster",
+     "tr": "afiş"
+    },
+    {
+     "en": "hardly",
+     "tr": "neredeyse hiç"
+    }
+   ],
+   "questions": [
+    {
+     "type": "mcq",
+     "q": "What was the objective of the lesson?",
+     "options": [
+      "To teach math",
+      "To prepare for a field trip",
+      "To practice new vocabulary through a story",
+      "To clean the classroom"
+     ],
+     "answer": 2,
+     "whyTr": "Metin: practice new vocabulary through a short story.",
+     "tag": "reading",
+     "level": "B2"
+    },
+    {
+     "type": "mcq",
+     "q": "What did Hafsa think she should have done differently?",
+     "options": [
+      "Called the parents",
+      "Taught a different subject",
+      "Given a test",
+      "Checked the instructions and spoken more slowly"
+     ],
+     "answer": 3,
+     "whyTr": "Metin: I should have checked the instructions... slower pace.",
+     "tag": "reading",
+     "level": "B2"
+    },
+    {
+     "type": "mcq",
+     "q": "What does Hafsa say about the posters?",
+     "options": [
+      "She made too many and didn't need them.",
+      "They were the best part of the lesson.",
+      "The students drew them.",
+      "She forgot them at home."
+     ],
+     "answer": 0,
+     "whyTr": "Hafsa: I needn't have made so many posters.",
+     "tag": "reading",
+     "level": "B2"
+    },
+    {
+     "type": "mcq",
+     "q": "What does Ms. Carter say about a good teacher?",
+     "options": [
+      "She is never wrong.",
+      "She keeps learning.",
+      "She makes many posters.",
+      "She speaks quickly."
+     ],
+     "answer": 1,
+     "whyTr": "Ms. Carter: She just has to keep learning.",
+     "tag": "reading",
+     "level": "B2"
+    }
+   ]
+  }
+ },
+ "evening": {
+  "listening": {
+   "title": "Feedback after the lesson",
+   "script": [
+    {
+     "speaker": "Ms. Carter",
+     "text": "Hafsa, how do you feel about your lesson today?"
+    },
+    {
+     "speaker": "Hafsa",
+     "text": "Mixed. The students enjoyed the story, but the handout was confusing. I should have tested it first."
+    },
+    {
+     "speaker": "Ms. Carter",
+     "text": "Good point. What else would you change?"
+    },
+    {
+     "speaker": "Hafsa",
+     "text": "I spoke too fast. I should have slowed down, especially for the students who struggle with English."
+    },
+    {
+     "speaker": "Ms. Carter",
+     "text": "I agree. But I also noticed that you gave a lot of praise. That was effective."
+    },
+    {
+     "speaker": "Hafsa",
+     "text": "Thank you. Sofia participated for the first time, so I was very happy."
+    },
+    {
+     "speaker": "Ms. Carter",
+     "text": "What about the materials? You brought so many posters."
+    },
+    {
+     "speaker": "Hafsa",
+     "text": "I needn't have made them. I stayed up until midnight, and the children hardly looked at them."
+    },
+    {
+     "speaker": "Ms. Carter",
+     "text": "Next time, keep it simple. One clear objective, one good activity."
+    },
+    {
+     "speaker": "Hafsa",
+     "text": "That makes sense. Should I write a short evaluation for the principal?"
+    },
+    {
+     "speaker": "Ms. Carter",
+     "text": "Yes. Mention the outcome, the problems, and your plan to improve."
+    },
+    {
+     "speaker": "Hafsa",
+     "text": "I'll write it tonight. Thank you for your feedback."
+    }
+   ],
+   "questions": [
+    {
+     "type": "mcq",
+     "q": "What was wrong with the handout?",
+     "options": [
+      "It was too short.",
+      "It had no names.",
+      "It was confusing.",
+      "It was missing."
+     ],
+     "answer": 2,
+     "whyTr": "Hafsa: the handout was confusing.",
+     "tag": "listening",
+     "level": "B2"
+    },
+    {
+     "type": "mcq",
+     "q": "What does Ms. Carter think was effective?",
+     "options": [
+      "Speaking quickly",
+      "Making posters",
+      "Skipping the story",
+      "Giving praise"
+     ],
+     "answer": 3,
+     "whyTr": "Ms. Carter: you gave a lot of praise. That was effective.",
+     "tag": "listening",
+     "level": "B2"
+    },
+    {
+     "type": "mcq",
+     "q": "Why does Hafsa say she needn't have made the posters?",
+     "options": [
+      "The students hardly looked at them.",
+      "The posters were ugly.",
+      "She had no time to finish.",
+      "The principal disliked them."
+     ],
+     "answer": 0,
+     "whyTr": "Hafsa: the children hardly looked at them.",
+     "tag": "listening",
+     "level": "B2"
+    },
+    {
+     "type": "mcq",
+     "q": "What will Hafsa write tonight?",
+     "options": [
+      "A letter to Sofia",
+      "A short evaluation for the principal",
+      "A new handout",
+      "A test"
+     ],
+     "answer": 1,
+     "whyTr": "Ms. Carter suggests an evaluation for the principal; Hafsa: I'll write it tonight.",
+     "tag": "listening",
+     "level": "B2"
+    }
+   ]
+  },
+  "writing": {
+   "promptTr": "Bir dersi veya etkinliği değerlendiren kısa bir yazı yaz. Ne yapmalıydın (should have), neyi yapmamalıydın (shouldn't have) ve neye gerek yoktu (needn't have) anlat. 120-180 kelime.",
+   "promptEn": "Write a short evaluation of a lesson or an event. Use should have, shouldn't have and needn't have to describe what you would change (120-180 words).",
+   "frames": [
+    "Overall, the lesson went ...",
+    "I should have ...",
+    "I shouldn't have ...",
+    "I needn't have ... because ..."
+   ],
+   "model": "Overall, my lesson on Friday went fairly well. The objective was to practice new vocabulary through a short story, and most students participated. I praised a shy girl, Sofia, and she was very happy. However, I should have checked the instructions before class. The handout was confusing, so I had to explain the activity three times. I also should have spoken more slowly because some students struggled to follow me. I shouldn't have given so many tasks in one lesson, because the children became tired. In addition, I needn't have made so many colorful posters. I spent two hours on them, but the students hardly looked at them, and they distracted a few children. Next time, I will give an example first, use a slower pace, and prepare fewer materials. I think these changes will improve the outcome. I am grateful for Ms. Carter's feedback, and I am excited about my next lesson.",
+   "checklistTr": [
+    "Should have, shouldn't have ve needn't have'in üçünü de kullandın mı?",
+    "Hem iyi hem zayıf yönleri yazdın mı?",
+    "Yapıdan sonra fiili V3 yaptın mı?",
+    "Gelecek için bir plan cümlen var mı?"
+   ],
+   "minWords": 120
+  },
+  "examSet": [
+   {
+    "type": "mcq",
+    "q": "We had enough chairs, so you ___ brought extra ones.",
+    "options": [
+     "should have",
+     "must have",
+     "needn't have",
+     "can't have"
+    ],
+    "answer": 2,
+    "whyTr": "Gereksiz: needn't have brought.",
+    "tag": "modals",
+    "level": "B2"
+   },
+   {
+    "type": "mcq",
+    "q": "The soup was cold. You ___ heated it before serving.",
+    "options": [
+     "needn't have",
+     "can't have",
+     "mustn't",
+     "should have"
+    ],
+    "answer": 3,
+    "whyTr": "Yapılması gerekeni eleştirir.",
+    "tag": "modals",
+    "level": "B2"
+   },
+   {
+    "type": "mcq",
+    "q": "He ___ been so rude to the guests. It was embarrassing.",
+    "options": [
+     "shouldn't have",
+     "needn't have",
+     "must have",
+     "can't have"
+    ],
+    "answer": 0,
+    "whyTr": "Eleştiri: shouldn't have been.",
+    "tag": "modals",
+    "level": "B2"
+   },
+   {
+    "type": "mcq",
+    "q": "The window is broken. Someone ___ thrown a ball at it.",
+    "options": [
+     "needn't have",
+     "must have",
+     "shouldn't",
+     "can't"
+    ],
+    "answer": 1,
+    "whyTr": "Çıkarım: must have thrown.",
+    "tag": "modals",
+    "level": "B2"
+   },
+   {
+    "type": "mcq",
+    "q": "It's impossible. Tom ___ been there; he was abroad.",
+    "options": [
+     "must have",
+     "should have",
+     "can't have",
+     "needn't have"
+    ],
+    "answer": 2,
+    "whyTr": "İmkânsız çıkarım: can't have been.",
+    "tag": "modals",
+    "level": "B2"
+   },
+   {
+    "type": "mcq",
+    "q": "I wish I ___ the instructions more carefully.",
+    "options": [
+     "read",
+     "would read",
+     "have read",
+     "had read"
+    ],
+    "answer": 3,
+    "whyTr": "Geçmiş pişmanlık: had read.",
+    "tag": "modals",
+    "level": "B2"
+   },
+   {
+    "type": "mcq",
+    "q": "If she had checked the handout, she ___ the mistake.",
+    "options": [
+     "would have found",
+     "would find",
+     "will find",
+     "had found"
+    ],
+    "answer": 0,
+    "whyTr": "Üçüncü koşul: would have found.",
+    "tag": "modals",
+    "level": "B2"
+   },
+   {
+    "type": "mcq",
+    "q": "If I ___ more experience, I would have gotten that job last year.",
+    "options": [
+     "had had",
+     "has",
+     "have",
+     "would have"
+    ],
+    "answer": 0,
+    "whyTr": "Geçmişteki gerçek dışı durum (3rd conditional): If + had + V3 (had had), would have + V3.",
+    "tag": "modals",
+    "level": "B2"
+   },
+   {
+    "type": "mcq",
+    "q": "Our principal said that she ___ evaluate every class this month.",
+    "options": [
+     "will",
+     "did",
+     "would",
+     "has"
+    ],
+    "answer": 2,
+    "whyTr": "Dolaylı anlatım: would.",
+    "tag": "future",
+    "level": "B2"
+   },
+   {
+    "type": "mcq",
+    "q": "The new handout ___ by the students yesterday.",
+    "options": [
+     "read",
+     "reads",
+     "has been reading",
+     "was read"
+    ],
+    "answer": 3,
+    "whyTr": "Edilgen: was read.",
+    "tag": "past-simple",
+    "level": "B2"
+   },
+   {
+    "type": "mcq",
+    "q": "The teacher's ___ were confusing, so nobody knew what to do.",
+    "options": [
+     "instructions",
+     "outcomes",
+     "paces",
+     "praises"
+    ],
+    "answer": 0,
+    "whyTr": "Talimatlar: instructions.",
+    "tag": "vocab",
+    "level": "B2"
+   },
+   {
+    "type": "mcq",
+    "q": "Short games can ___ the whole class.",
+    "options": [
+     "criticize",
+     "engage",
+     "assess",
+     "lecture"
+    ],
+    "answer": 1,
+    "whyTr": "İlgisini çekmek: engage.",
+    "tag": "vocab",
+    "level": "B2"
+   },
+   {
+    "type": "mcq",
+    "q": "It is hard to ___ when the room is noisy.",
+    "options": [
+     "assess",
+     "compliment",
+     "focus",
+     "criticize"
+    ],
+    "answer": 2,
+    "whyTr": "Odaklanmak: focus.",
+    "tag": "vocab",
+    "level": "B2"
+   },
+   {
+    "type": "mcq",
+    "q": "Which word is closest in meaning to \"objective\"?",
+    "options": [
+     "pace",
+     "handout",
+     "outcome",
+     "goal"
+    ],
+    "answer": 3,
+    "whyTr": "Objective = goal.",
+    "tag": "synonym",
+    "level": "B2"
+   },
+   {
+    "type": "mcq",
+    "q": "Which word is closest in meaning to \"assess\"?",
+    "options": [
+     "evaluate",
+     "engage",
+     "criticize",
+     "focus"
+    ],
+    "answer": 0,
+    "whyTr": "Assess ≈ evaluate.",
+    "tag": "synonym",
+    "level": "B2"
+   },
+   {
+    "type": "mcq",
+    "q": "What is the opposite of \"confusing\"?",
+    "options": [
+     "loud",
+     "clear",
+     "distracting",
+     "unnecessary"
+    ],
+    "answer": 1,
+    "whyTr": "Confusing'in zıttı clear.",
+    "tag": "antonym",
+    "level": "B2"
+   },
+   {
+    "type": "mcq",
+    "q": "What is the opposite of \"criticize\"?",
+    "options": [
+     "assess",
+     "engage",
+     "praise",
+     "focus"
+    ],
+    "answer": 2,
+    "whyTr": "Criticize'in zıttı praise.",
+    "tag": "antonym",
+    "level": "B2"
+   },
+   {
+    "type": "mcq",
+    "q": "Which is the opposite of \"unnecessary\"?",
+    "options": [
+     "confusing",
+     "careless",
+     "selfish",
+     "essential"
+    ],
+    "answer": 3,
+    "whyTr": "Unnecessary'nin zıttı essential.",
+    "tag": "antonym",
+    "level": "B2"
+   },
+   {
+    "type": "mcq",
+    "q": "Mr. Brown bought a cake for the staff party, but Linda had already brought one. Now there are two cakes. Mr. Brown said, \"I ___ bought one.\"\n\nWhat does he mean?",
+    "options": [
+     "The cake was unnecessary.",
+     "The cake was stolen.",
+     "He forgot the cake.",
+     "He wants more cakes."
+    ],
+    "answer": 0,
+    "whyTr": "Needn't have = gereksizdi.",
+    "tag": "reading",
+    "level": "B2"
+   },
+   {
+    "type": "mcq",
+    "q": "Hafsa did not read the sub plans before class. The students finished early and had nothing to do. She said, \"I should have read the plans.\"\n\nWhat was the problem?",
+    "options": [
+     "The students were absent.",
+     "Hafsa did not read the sub plans.",
+     "The plans were missing.",
+     "The class was too long."
+    ],
+    "answer": 1,
+    "whyTr": "Should have = yapmalıydı ama yapmadı.",
+    "tag": "reading",
+    "level": "B2"
+   }
+  ]
+ }
+}

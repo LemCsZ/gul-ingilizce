@@ -1,0 +1,947 @@
+{
+ "week": 16,
+ "day": 3,
+ "titleTr": "Passive ve reported speech: işe alım evrakları",
+ "theme": "hiring-paperwork",
+ "morning": {
+  "grammar": {
+   "topic": "Passive voice and reported speech",
+   "explainTr": [
+    "Passive'te yapan kişi önemsizse ya da bilinmiyorsa nesneyi öne alırız: be + V3. Zamanı be fiili taşır: is checked, was checked, has been checked, will be checked, is being checked. Yapan kişi gerekirse sonda 'by' ile söylenir.",
+    "Reported speech'te başkasının sözünü aktarırken zaman bir adım geriye kayar: am/is → was, do → did, will → would, can → could, past simple → past perfect. Zaman ifadeleri de değişir: tomorrow → the next day, yesterday → the day before.",
+    "Aktarılan soruda düz cümle sırası kullanılır: 'He asked where I lived' (did yok). Evet/hayır sorusunda if/whether gelir. Emirlerde told + kişi + to / not to."
+   ],
+   "compareTr": "Türkçede pasif ek ile yapılır (yapıldı, gönderilecek). İngilizcede 'be + V3' gerekir; 'was sent' yerine 'sent' demek yanlıştır. Türkçede 'Yarın arayacağım dedi' gibi dolaylı anlatımda zaman kaymaz, İngilizcede kayar.",
+   "table": [
+    [
+     "Present passive",
+     "am/is/are + V3",
+     "Lunch is served at noon."
+    ],
+    [
+     "Past passive",
+     "was/were + V3",
+     "The form was signed."
+    ],
+    [
+     "Perfect passive",
+     "has/have been + V3",
+     "It has been approved."
+    ],
+    [
+     "Future passive",
+     "will be + V3",
+     "The badge will be sent."
+    ],
+    [
+     "Reported statement",
+     "said (that) + geri kayma",
+     "She said she was tired."
+    ],
+    [
+     "Reported question / order",
+     "asked if / told to",
+     "He asked if I had ID."
+    ]
+   ],
+   "examples": [
+    {
+     "en": "The background check was completed last week.",
+     "tr": "Geçmiş taraması geçen hafta tamamlandı."
+    },
+    {
+     "en": "Your badge will be sent by email.",
+     "tr": "Rozetin e-postayla gönderilecek."
+    },
+    {
+     "en": "She said that she was excited.",
+     "tr": "Heyecanlı olduğunu söyledi."
+    },
+    {
+     "en": "He asked me where the office was.",
+     "tr": "Bana ofisin nerede olduğunu sordu."
+    },
+    {
+     "en": "She told us not to touch the projector.",
+     "tr": "Bize projektöre dokunmamamızı söyledi."
+    }
+   ],
+   "exercises": [
+    {
+     "type": "mcq",
+     "q": "The background check ___ by the district last week.",
+     "options": [
+      "was completed",
+      "completed",
+      "has completed",
+      "is completing"
+     ],
+     "answer": 0,
+     "whyTr": "Yapan kişi önemsiz, geçmiş zaman: past passive (was completed).",
+     "tag": "passive",
+     "level": "B2"
+    },
+    {
+     "type": "mcq",
+     "q": "All substitutes ___ to show an ID at the front desk.",
+     "options": [
+      "require",
+      "are requiring",
+      "required",
+      "are required"
+     ],
+     "answer": 3,
+     "whyTr": "'Zorunlu tutulmak' pasiftir: are required to.",
+     "tag": "passive",
+     "level": "B2"
+    },
+    {
+     "type": "mcq",
+     "q": "Your badge ___ to you by email.",
+     "options": [
+      "will send",
+      "is sending",
+      "will be sent",
+      "will be send"
+     ],
+     "answer": 2,
+     "whyTr": "Gelecek pasif: will be + V3.",
+     "tag": "passive",
+     "level": "B2"
+    },
+    {
+     "type": "mcq",
+     "q": "The new rules ___ announced yet.",
+     "options": [
+      "aren't",
+      "haven't been",
+      "weren't being",
+      "hasn't been"
+     ],
+     "answer": 1,
+     "whyTr": "Rules çoğul; present perfect passive: haven't been + V3.",
+     "tag": "passive",
+     "level": "B2"
+    },
+    {
+     "type": "mcq",
+     "q": "She said, \"I am excited.\" → She said that she ___ excited.",
+     "options": [
+      "has been",
+      "was",
+      "will be",
+      "were"
+     ],
+     "answer": 1,
+     "whyTr": "Reported speech'te present, past'e kayar: am → was.",
+     "tag": "reported-speech",
+     "level": "B2"
+    },
+    {
+     "type": "mcq",
+     "q": "\"I will call you tomorrow,\" Mr. Brown said. → Mr. Brown said he ___ me the next day.",
+     "options": [
+      "would call",
+      "will call",
+      "is calling",
+      "has called"
+     ],
+     "answer": 0,
+     "whyTr": "will → would; tomorrow → the next day.",
+     "tag": "reported-speech",
+     "level": "B2"
+    },
+    {
+     "type": "order",
+     "promptTr": "Cümleyi sırala:",
+     "words": [
+      "The",
+      "substitute",
+      "was",
+      "asked",
+      "to",
+      "arrive",
+      "at",
+      "seven",
+      "thirty"
+     ],
+     "answer": "The substitute was asked to arrive at seven thirty",
+     "whyTr": "Pasif: was + V3; ardından to + fiil.",
+     "tag": "passive",
+     "level": "B2"
+    },
+    {
+     "type": "mcq",
+     "q": "\"Do you have a license?\" → The principal asked if I ___ a license.",
+     "options": [
+      "did have",
+      "do have",
+      "am having",
+      "had"
+     ],
+     "answer": 3,
+     "whyTr": "Evet/hayır sorusu if ile aktarılır ve düz cümle sırası kullanılır; have → had.",
+     "tag": "reported-speech",
+     "level": "B2"
+    },
+    {
+     "type": "mcq",
+     "q": "\"Don't touch the projector,\" she told us. → She told us ___ the projector.",
+     "options": [
+      "don't touch",
+      "to not touching",
+      "not to touch",
+      "touching not"
+     ],
+     "answer": 2,
+     "whyTr": "Olumsuz talimat aktarımı: told + kişi + not to + fiil.",
+     "tag": "reported-speech",
+     "level": "B2"
+    },
+    {
+     "type": "order",
+     "promptTr": "Cümleyi sırala:",
+     "words": [
+      "He",
+      "asked",
+      "me",
+      "where",
+      "the",
+      "office",
+      "was"
+     ],
+     "answer": "He asked me where the office was",
+     "whyTr": "Soru aktarımında düz cümle sırası: where + özne + fiil.",
+     "tag": "reported-speech",
+     "level": "B2"
+    },
+    {
+     "type": "fill",
+     "q": "The files ___ kept in a locked cabinet. (be)",
+     "accept": [
+      "are"
+     ],
+     "hintTr": "to be, şimdiki",
+     "whyTr": "Files çoğul; present passive: are kept.",
+     "tag": "passive",
+     "level": "B2"
+    },
+    {
+     "type": "fill",
+     "q": "He said he ___ called the day before.",
+     "accept": [
+      "had"
+     ],
+     "hintTr": "yardımcı fiil",
+     "whyTr": "Geçmişteki olay aktarılırken past perfect: had called.",
+     "tag": "reported-speech",
+     "level": "B2"
+    }
+   ]
+  },
+  "vocab": [
+   {
+    "id": "notify",
+    "en": "notify",
+    "tr": "bilgilendirmek, haber vermek",
+    "pos": "verb",
+    "example": "The office will notify you by email.",
+    "exampleTr": "Ofis seni e-postayla bilgilendirecek.",
+    "syn": [
+     "inform"
+    ],
+    "ant": [],
+    "level": "B2"
+   },
+   {
+    "id": "authorize",
+    "en": "authorize",
+    "tr": "yetki vermek, izin vermek",
+    "pos": "verb",
+    "example": "Only the principal can authorize a field trip.",
+    "exampleTr": "Gezi iznini yalnız müdür verebilir.",
+    "syn": [
+     "approve"
+    ],
+    "ant": [
+     "forbid"
+    ],
+    "level": "B2"
+   },
+   {
+    "id": "verify",
+    "en": "verify",
+    "tr": "doğrulamak",
+    "pos": "verb",
+    "example": "The clerk verified my address.",
+    "exampleTr": "Memur adresimi doğruladı.",
+    "syn": [
+     "confirm"
+    ],
+    "ant": [],
+    "level": "B2"
+   },
+   {
+    "id": "clearance",
+    "en": "clearance",
+    "tr": "güvenlik izni, onay",
+    "pos": "noun",
+    "example": "Every employee needs background clearance.",
+    "exampleTr": "Her çalışanın geçmiş taraması onayı olmalı.",
+    "syn": [
+     "approval"
+    ],
+    "ant": [],
+    "level": "B2"
+   },
+   {
+    "id": "mandatory",
+    "en": "mandatory",
+    "tr": "zorunlu",
+    "pos": "adjective",
+    "example": "The safety training is mandatory.",
+    "exampleTr": "Güvenlik eğitimi zorunludur.",
+    "syn": [
+     "compulsory"
+    ],
+    "ant": [
+     "optional"
+    ],
+    "level": "B2"
+   },
+   {
+    "id": "credential",
+    "en": "credential",
+    "tr": "yeterlilik belgesi, kimlik bilgisi",
+    "pos": "noun",
+    "example": "Please bring your credentials to the interview.",
+    "exampleTr": "Lütfen belgelerini mülakata getir.",
+    "syn": [
+     "certificate"
+    ],
+    "ant": [],
+    "level": "B2"
+   },
+   {
+    "id": "compliance",
+    "en": "compliance",
+    "tr": "kurallara uyum",
+    "pos": "noun",
+    "example": "Compliance with school rules is part of the job.",
+    "exampleTr": "Okul kurallarına uyum işin bir parçasıdır.",
+    "syn": [
+     "obedience"
+    ],
+    "ant": [],
+    "level": "B2"
+   },
+   {
+    "id": "disclose",
+    "en": "disclose",
+    "tr": "açıklamak, ifşa etmek",
+    "pos": "verb",
+    "example": "Teachers must not disclose students' private information.",
+    "exampleTr": "Öğretmenler öğrencilerin özel bilgilerini ifşa etmemelidir.",
+    "syn": [
+     "reveal"
+    ],
+    "ant": [
+     "conceal"
+    ],
+    "level": "B2"
+   },
+   {
+    "id": "obligation",
+    "en": "obligation",
+    "tr": "yükümlülük, zorunluluk",
+    "pos": "noun",
+    "example": "A teacher has an obligation to protect children.",
+    "exampleTr": "Bir öğretmenin çocukları koruma yükümlülüğü vardır.",
+    "syn": [
+     "duty"
+    ],
+    "ant": [],
+    "level": "B2"
+   },
+   {
+    "id": "guideline",
+    "en": "guideline",
+    "tr": "yönerge, kılavuz",
+    "pos": "noun",
+    "example": "The district guidelines are updated every year.",
+    "exampleTr": "Bölge yönergeleri her yıl güncellenir.",
+    "syn": [
+     "rule"
+    ],
+    "ant": [],
+    "level": "B2"
+   },
+   {
+    "id": "revise",
+    "en": "revise",
+    "tr": "gözden geçirip düzeltmek",
+    "pos": "verb",
+    "example": "The school revised its dress code last spring.",
+    "exampleTr": "Okul geçen bahar kıyafet kuralını gözden geçirdi.",
+    "syn": [
+     "amend"
+    ],
+    "ant": [],
+    "level": "B2"
+   },
+   {
+    "id": "implement",
+    "en": "implement",
+    "tr": "uygulamaya koymak",
+    "pos": "verb",
+    "example": "The school will implement the new schedule on Monday.",
+    "exampleTr": "Okul yeni programı pazartesi uygulamaya koyacak.",
+    "syn": [
+     "carry out"
+    ],
+    "ant": [],
+    "level": "B2"
+   },
+   {
+    "id": "regulation",
+    "en": "regulation",
+    "tr": "yönetmelik, kural",
+    "pos": "noun",
+    "example": "Fire regulations require clear exits.",
+    "exampleTr": "Yangın yönetmeliği açık çıkışlar şart koşar.",
+    "syn": [
+     "rule"
+    ],
+    "ant": [],
+    "level": "B2"
+   },
+   {
+    "id": "criteria",
+    "en": "criteria",
+    "tr": "ölçütler",
+    "pos": "noun",
+    "example": "What criteria do they use to choose substitutes?",
+    "exampleTr": "Vekil öğretmenleri seçerken hangi ölçütleri kullanıyorlar?",
+    "syn": [
+     "standards"
+    ],
+    "ant": [],
+    "level": "B2"
+   },
+   {
+    "id": "inspect",
+    "en": "inspect",
+    "tr": "denetlemek, incelemek",
+    "pos": "verb",
+    "example": "The fire marshal inspects the building every year.",
+    "exampleTr": "İtfaiye görevlisi binayı her yıl denetler.",
+    "syn": [
+     "examine"
+    ],
+    "ant": [
+     "ignore"
+    ],
+    "level": "B2"
+   }
+  ],
+  "reading": {
+   "title": "From interview to badge",
+   "text": "After her interview, Hafsa was told that the district would contact her within a week. On Thursday, she received an email: \"Congratulations! You have been selected as a substitute teacher. Before you can start, several steps must be completed.\"\n\nThe first step was a background check. Fingerprints are taken at the district office, and the results are sent directly to the human resources department. Hafsa was nervous because she had never done anything like that, but the clerk explained that every adult who works with children is checked. \"It's mandatory in all states,\" he said. \"Nobody is excused.\"\n\nThe second step was verifying her credentials. Hafsa had to bring her passport, her work permit, and her high school diploma from Turkey. The diploma had to be translated into English by an official translator, which cost forty dollars. Her documents were reviewed by a staff member named Ms. Alvarez, who said that she would return them the same day.\n\nThe third step was a short online training. Hafsa was asked to watch videos about student safety, emergency procedures, and professional behavior. After each video, a quiz had to be passed with a score of at least eighty percent. She failed the first one by one point, but she was allowed to try again. \"The guidelines are updated every year,\" Ms. Alvarez told her, \"so even experienced teachers repeat the course.\"\n\nFinally, Hafsa was given a lanyard with her photo and a code for the attendance system. She was also reminded that the rules about privacy must always be followed. \"What happens in the classroom stays in the classroom,\" Mr. Brown said with a smile. \"Students' information must never be shared.\"\n\nWhen she got home, Emre asked how it had gone. \"It took three weeks,\" Hafsa said, \"but I did everything. Now I am officially a substitute teacher.\"",
+   "glossary": [
+    {
+     "en": "background check",
+     "tr": "geçmiş taraması"
+    },
+    {
+     "en": "fingerprint",
+     "tr": "parmak izi"
+    },
+    {
+     "en": "work permit",
+     "tr": "çalışma izni"
+    },
+    {
+     "en": "lanyard",
+     "tr": "boyun askılı kimlik kartı"
+    },
+    {
+     "en": "excused",
+     "tr": "muaf tutulmuş"
+    }
+   ],
+   "questions": [
+    {
+     "type": "mcq",
+     "q": "What was the first step after the email?",
+     "options": [
+      "An online quiz",
+      "A classroom visit",
+      "A background check",
+      "A medical exam"
+     ],
+     "answer": 2,
+     "whyTr": "Metin: 'The first step was a background check.'",
+     "tag": "reading",
+     "level": "B2"
+    },
+    {
+     "type": "mcq",
+     "q": "Why did Hafsa pay forty dollars?",
+     "options": [
+      "She lost her passport",
+      "Her diploma had to be translated",
+      "The training was not free",
+      "She needed a new badge"
+     ],
+     "answer": 1,
+     "whyTr": "Metin: 'The diploma had to be translated... which cost forty dollars.'",
+     "tag": "reading",
+     "level": "B2"
+    },
+    {
+     "type": "mcq",
+     "q": "What happened when Hafsa failed the first quiz?",
+     "options": [
+      "She was allowed to try again",
+      "She lost the job",
+      "She had to wait a year",
+      "She paid a fine"
+     ],
+     "answer": 0,
+     "whyTr": "Metin: 'she was allowed to try again'.",
+     "tag": "reading",
+     "level": "B2"
+    },
+    {
+     "type": "mcq",
+     "q": "What does Mr. Brown say about students' information?",
+     "options": [
+      "It can be posted online",
+      "It is only for parents",
+      "It should be printed",
+      "It must never be shared"
+     ],
+     "answer": 3,
+     "whyTr": "Metin: 'must never be shared'.",
+     "tag": "reading",
+     "level": "B2"
+    }
+   ]
+  }
+ },
+ "evening": {
+  "listening": {
+   "title": "What the clerk said",
+   "script": [
+    {
+     "speaker": "Linda",
+     "text": "Hafsa, how did it go at the district office?"
+    },
+    {
+     "speaker": "Hafsa",
+     "text": "Very well. The clerk said that my fingerprints would be checked within five days."
+    },
+    {
+     "speaker": "Linda",
+     "text": "Did he say anything about the training?"
+    },
+    {
+     "speaker": "Hafsa",
+     "text": "He told me that I had to finish it before Monday. He also asked if I had a copy of my diploma."
+    },
+    {
+     "speaker": "Linda",
+     "text": "And did you?"
+    },
+    {
+     "speaker": "Hafsa",
+     "text": "Yes, but it was in Turkish, so it must be translated. He said it would cost forty dollars."
+    },
+    {
+     "speaker": "Linda",
+     "text": "That's not too bad. Were you given a badge?"
+    },
+    {
+     "speaker": "Hafsa",
+     "text": "Not yet. I was told that it would be sent to my home by email as a photo file."
+    },
+    {
+     "speaker": "Linda",
+     "text": "Anything else?"
+    },
+    {
+     "speaker": "Hafsa",
+     "text": "He told me not to forget my ID on the first day. And he reminded me that I must arrive before seven forty-five."
+    },
+    {
+     "speaker": "Linda",
+     "text": "Great. You're almost ready. I'm proud of you."
+    },
+    {
+     "speaker": "Hafsa",
+     "text": "Thank you, Linda. I couldn't have done it without your help."
+    }
+   ],
+   "questions": [
+    {
+     "type": "mcq",
+     "q": "When will Hafsa's fingerprints be checked?",
+     "options": [
+      "Today",
+      "Next month",
+      "On Monday",
+      "Within five days"
+     ],
+     "answer": 3,
+     "whyTr": "'checked within five days'.",
+     "tag": "listening",
+     "level": "B2"
+    },
+    {
+     "type": "mcq",
+     "q": "What must Hafsa finish before Monday?",
+     "options": [
+      "The translation",
+      "A new diploma",
+      "The training",
+      "A background check"
+     ],
+     "answer": 2,
+     "whyTr": "'I had to finish it before Monday' (training).",
+     "tag": "listening",
+     "level": "B2"
+    },
+    {
+     "type": "mcq",
+     "q": "Why must the diploma be translated?",
+     "options": [
+      "It is too old",
+      "It is in Turkish",
+      "It has a mistake",
+      "It is not original"
+     ],
+     "answer": 1,
+     "whyTr": "'it was in Turkish, so it must be translated'.",
+     "tag": "listening",
+     "level": "B2"
+    },
+    {
+     "type": "mcq",
+     "q": "What was Hafsa told not to forget on the first day?",
+     "options": [
+      "Her ID",
+      "Her phone",
+      "Her lunch",
+      "Her diploma"
+     ],
+     "answer": 0,
+     "whyTr": "'not to forget my ID'.",
+     "tag": "listening",
+     "level": "B2"
+    }
+   ]
+  },
+  "writing": {
+   "promptTr": "Okul bölgesi insan kaynaklarına resmi bir e-posta yaz (120-180 kelime): Belgelerinin durumunu sor. Geçmişte sana söylenenleri reported speech ile aktar ve pasif yapı kullan.",
+   "promptEn": "Write a formal email to the district human resources office (120-180 words). Ask about the status of your documents. Report what you were told and use the passive.",
+   "frames": [
+    "Dear Ms. Alvarez,",
+    "I am writing to ask about ...",
+    "On Monday I was told that ...",
+    "The clerk also said that ...",
+    "Could you please tell me whether ... ?",
+    "Thank you for your help."
+   ],
+   "model": "Dear Ms. Alvarez,\n\nI am writing to ask about the status of my documents. On Monday I brought my passport, my work permit, and my diploma to the district office. I was told that the documents would be reviewed within three days, and that they would be returned to me by Friday. The clerk also said that my diploma had to be translated, so I have already sent it to an official translator.\n\nI have not received any email since then. Could you please tell me whether my background check has been completed? I would also like to know whether the online training must be finished before the first day of work, or if it can be done later.\n\nI understand that many applications are processed every week, and I appreciate your patience. If any other documents are needed, please let me know, and I will bring them immediately.\n\nThank you for your help.\n\nSincerely,\nHafsa",
+   "checklistTr": [
+    "En az iki pasif cümle kurdun mu (was told, will be returned)?",
+    "Reported speech'te zamanı bir adım geri aldın mı (would, had)?",
+    "'Could you please tell me whether...' kalıbını kullandın mı?",
+    "Resmi başlangıç ve bitiş var mı?"
+   ],
+   "minWords": 120
+  },
+  "examSet": [
+   {
+    "type": "mcq",
+    "q": "The schedule ___ changed twice this week.",
+    "options": [
+     "has been",
+     "have been",
+     "was being",
+     "had"
+    ],
+    "answer": 0,
+    "whyTr": "Schedule tekil; present perfect passive: has been changed.",
+    "tag": "passive",
+    "level": "B2"
+   },
+   {
+    "type": "mcq",
+    "q": "Lunch ___ in the cafeteria at 11:30.",
+    "options": [
+     "serves",
+     "is serving",
+     "served",
+     "is served"
+    ],
+    "answer": 3,
+    "whyTr": "Düzenli olay, yapan önemsiz: present passive.",
+    "tag": "passive",
+    "level": "B2"
+   },
+   {
+    "type": "mcq",
+    "q": "The classroom ___ right now.",
+    "options": [
+     "is cleaned",
+     "cleans",
+     "is being cleaned",
+     "has cleaned"
+    ],
+    "answer": 2,
+    "whyTr": "Şu an süren pasif: is being + V3.",
+    "tag": "passive",
+    "level": "B2"
+   },
+   {
+    "type": "mcq",
+    "q": "Students ___ not to run in the hallway.",
+    "options": [
+     "tell",
+     "are told",
+     "are telling",
+     "told"
+    ],
+    "answer": 1,
+    "whyTr": "Öğrenciler söylenen kişidir: are told not to.",
+    "tag": "passive",
+    "level": "B2"
+   },
+   {
+    "type": "mcq",
+    "q": "She asked Hafsa what time the meeting ___.",
+    "options": [
+     "does start",
+     "started",
+     "did start",
+     "start"
+    ],
+    "answer": 1,
+    "whyTr": "Soru aktarımında düz cümle ve zaman kayması: started.",
+    "tag": "reported-speech",
+    "level": "B2"
+   },
+   {
+    "type": "mcq",
+    "q": "\"I can stay late,\" she said. → She said that she ___ stay late.",
+    "options": [
+     "could",
+     "can",
+     "will",
+     "may"
+    ],
+    "answer": 0,
+    "whyTr": "can → could (reported speech).",
+    "tag": "reported-speech",
+    "level": "B2"
+   },
+   {
+    "type": "mcq",
+    "q": "If I had studied more, I ___ the test.",
+    "options": [
+     "would pass",
+     "had passed",
+     "will pass",
+     "would have passed"
+    ],
+    "answer": 3,
+    "whyTr": "Type 3: would have + V3.",
+    "tag": "conditionals",
+    "level": "B2"
+   },
+   {
+    "type": "mcq",
+    "q": "By next June, Hafsa ___ at this school for a year.",
+    "options": [
+     "will work",
+     "has worked",
+     "will have worked",
+     "worked"
+    ],
+    "answer": 2,
+    "whyTr": "By + gelecek zaman = future perfect.",
+    "tag": "future",
+    "level": "B2"
+   },
+   {
+    "type": "mcq",
+    "q": "You ___ have told me earlier! I could have helped.",
+    "options": [
+     "must",
+     "can",
+     "should",
+     "might"
+    ],
+    "answer": 2,
+    "whyTr": "Geçmiş pişmanlık/eleştiri: should have + V3.",
+    "tag": "modals",
+    "level": "B2"
+   },
+   {
+    "type": "mcq",
+    "q": "Which word is closest in meaning to \"verify\"?",
+    "options": [
+     "cancel",
+     "confirm",
+     "avoid",
+     "borrow"
+    ],
+    "answer": 1,
+    "whyTr": "Verify = confirm (doğrulamak).",
+    "tag": "synonym",
+    "level": "B2"
+   },
+   {
+    "type": "mcq",
+    "q": "Which word is closest in meaning to \"notify\"?",
+    "options": [
+     "inform",
+     "blame",
+     "visit",
+     "hire"
+    ],
+    "answer": 0,
+    "whyTr": "Notify = inform.",
+    "tag": "synonym",
+    "level": "B2"
+   },
+   {
+    "type": "mcq",
+    "q": "What is the opposite of \"mandatory\"?",
+    "options": [
+     "necessary",
+     "strict",
+     "urgent",
+     "optional"
+    ],
+    "answer": 3,
+    "whyTr": "Mandatory (zorunlu) ↔ optional (isteğe bağlı).",
+    "tag": "antonym",
+    "level": "B2"
+   },
+   {
+    "type": "mcq",
+    "q": "What is the opposite of \"disclose\"?",
+    "options": [
+     "reveal",
+     "share",
+     "announce",
+     "conceal"
+    ],
+    "answer": 3,
+    "whyTr": "Disclose (açıklamak) ↔ conceal (gizlemek).",
+    "tag": "antonym",
+    "level": "B2"
+   },
+   {
+    "type": "mcq",
+    "q": "The ___ of the new software starts next month.",
+    "options": [
+     "implement",
+     "implementer",
+     "implementation",
+     "implemented"
+    ],
+    "answer": 2,
+    "whyTr": "Boşlukta isim gerekir: implementation.",
+    "tag": "word-formation",
+    "level": "B2"
+   },
+   {
+    "type": "mcq",
+    "q": "Hafsa had to ___ a form before the interview.",
+    "options": [
+     "fill up",
+     "fill out",
+     "make up",
+     "write on"
+    ],
+    "answer": 1,
+    "whyTr": "Form doldurmak = fill out.",
+    "tag": "phrasal-verbs",
+    "level": "B2"
+   },
+   {
+    "type": "mcq",
+    "q": "The meeting is ___ Tuesday at 3 p.m.",
+    "options": [
+     "on",
+     "in",
+     "at",
+     "by"
+    ],
+    "answer": 0,
+    "whyTr": "Günlerle 'on' kullanılır.",
+    "tag": "prepositions-time",
+    "level": "B2"
+   },
+   {
+    "type": "mcq",
+    "q": "She wants to become ___ teacher at ___ elementary school.",
+    "options": [
+     "a / an",
+     "an / a",
+     "the / an",
+     "a / a"
+    ],
+    "answer": 0,
+    "whyTr": "teacher ünsüzle başlar: a; elementary ünlüyle başlar: an.",
+    "tag": "articles",
+    "level": "B2"
+   },
+   {
+    "type": "mcq",
+    "q": "The district office, ___ is downtown, closes at four.",
+    "options": [
+     "who",
+     "where",
+     "what",
+     "which"
+    ],
+    "answer": 3,
+    "whyTr": "Yer olan nesne için, virgüllü açıklayıcı cümle: which.",
+    "tag": "relative-clauses",
+    "level": "B2"
+   },
+   {
+    "type": "mcq",
+    "q": "Dear Staff, all substitutes must sign in at the front office before 7:45 a.m. Visitor badges are available at the desk. They must be worn at all times and returned at the end of the day.\n\nWhat must be done with the badges at the end of the day?",
+    "options": [
+     "They must be washed",
+     "They can be kept",
+     "They must be returned",
+     "They must be mailed home"
+    ],
+    "answer": 2,
+    "whyTr": "Metin: 'returned at the end of the day'.",
+    "tag": "reading",
+    "level": "B2"
+   },
+   {
+    "type": "mcq",
+    "q": "Mr. Brown told the new substitutes that lunch duty had been moved to Room 12 because the cafeteria floor was being repaired.\n\nWhy was lunch duty moved?",
+    "options": [
+     "The cafeteria was too small",
+     "The cafeteria floor was being repaired",
+     "Room 12 was empty",
+     "There were no teachers"
+    ],
+    "answer": 1,
+    "whyTr": "Metin: 'because the cafeteria floor was being repaired'.",
+    "tag": "reading",
+    "level": "B2"
+   }
+  ]
+ }
+}

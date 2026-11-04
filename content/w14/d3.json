@@ -1,0 +1,949 @@
+{
+ "week": 14,
+ "day": 3,
+ "titleTr": "Okul kuralları: kısaltılmış cümlecikler",
+ "theme": "school-policy",
+ "morning": {
+  "grammar": {
+   "topic": "Participle clauses (shortened adjective clauses)",
+   "explainTr": [
+    "Okul kurallarında uzun cümlecikler kısaltılır. 'Students who run in the hall' yerine 'Students running in the hall' denir. Aktif anlam için -ing (present participle) kullanılır: students arriving late, the woman sitting there.",
+    "Edilgen anlam için V3 (past participle) kullanılır: 'Forms that are submitted late' yerine 'Forms submitted late'. Kural: who/which + be fiilini at, geriye kalanı bırak. Fiil edilgense V3, etkinse -ing kalır.",
+    "Dikkat: Cümle başında da kullanılır: Walking into the room, she saw a note. Ama bu yapıda özne, eylemi gerçekten yapan kişi olmalı. Ayrıca sürekli tekrarlanan eylemler için de olur: Students using phones in class will be warned."
+   ],
+   "compareTr": "Türkçede 'geç gelen öğrenciler' ve 'geç teslim edilen ödevler' gibi sıfat-fiil yapıları (-en / -len) kullanırız. İngilizcede bunun karşılığı -ing (etken) ve V3 (edilgen): students arriving late, homework submitted late.",
+   "table": [
+    [
+     "Etken (-ing)",
+     "who/which + fiil → fiil-ing",
+     "Students who arrive late → Students arriving late"
+    ],
+    [
+     "Edilgen (V3)",
+     "that is/are + V3 → V3",
+     "Forms that are signed → Forms signed"
+    ],
+    [
+     "Durum",
+     "who is waiting → waiting",
+     "The boy waiting outside is Emre's friend."
+    ],
+    [
+     "Kural",
+     "be + that/who kaldırılır",
+     "Rules that are posted → Rules posted"
+    ],
+    [
+     "Cümle başı",
+     "-ing, özne + fiil",
+     "Entering the room, she smiled."
+    ],
+    [
+     "Yanlış",
+     "who + -ing",
+     "Students who running ✗"
+    ]
+   ],
+   "examples": [
+    {
+     "en": "Students arriving after the bell must sign in.",
+     "tr": "Zilden sonra gelen öğrenciler kayıt olmalıdır."
+    },
+    {
+     "en": "Forms submitted after Friday will not be accepted.",
+     "tr": "Cuma'dan sonra teslim edilen formlar kabul edilmez."
+    },
+    {
+     "en": "The rules listed in the handbook apply to everyone.",
+     "tr": "El kitabında listelenen kurallar herkes için geçerlidir."
+    },
+    {
+     "en": "Phones found during a test will be taken away.",
+     "tr": "Sınav sırasında bulunan telefonlar alınacaktır."
+    },
+    {
+     "en": "Walking into the classroom, Hafsa saw a note on the desk.",
+     "tr": "Sınıfa girerken Hafsa masanın üstünde bir not gördü."
+    }
+   ],
+   "exercises": [
+    {
+     "type": "mcq",
+     "q": "Students ___ in the hallway will receive a warning.",
+     "options": [
+      "running",
+      "run",
+      "ran",
+      "are run"
+     ],
+     "answer": 0,
+     "whyTr": "Etken anlam: 'who run' kısalınca -ing olur.",
+     "tag": "relative-clauses",
+     "level": "B2"
+    },
+    {
+     "type": "mcq",
+     "q": "Forms ___ after Friday will not be accepted.",
+     "options": [
+      "submitting",
+      "submitted",
+      "submit",
+      "to submit"
+     ],
+     "answer": 1,
+     "whyTr": "Edilgen anlam: 'that are submitted' kısalınca V3 olur.",
+     "tag": "passive",
+     "level": "B2"
+    },
+    {
+     "type": "mcq",
+     "q": "The rules ___ in the handbook apply to everyone.",
+     "options": [
+      "listing",
+      "list",
+      "listed",
+      "lists"
+     ],
+     "answer": 2,
+     "whyTr": "Kurallar listelenir (edilgen), bu yüzden V3.",
+     "tag": "passive",
+     "level": "B2"
+    },
+    {
+     "type": "order",
+     "promptTr": "Cümleyi sırala:",
+     "words": [
+      "late",
+      "arriving",
+      "Students",
+      "sign",
+      "in",
+      "must"
+     ],
+     "answer": "Students arriving late must sign in",
+     "whyTr": "Sıra: isim + -ing grubu + must + fiil.",
+     "tag": "relative-clauses",
+     "level": "B2"
+    },
+    {
+     "type": "mcq",
+     "q": "Any student ___ a phone during class must hand it to the teacher.",
+     "options": [
+      "used",
+      "uses",
+      "is using",
+      "using"
+     ],
+     "answer": 3,
+     "whyTr": "Öğrenci kullanan kişidir, yani etken: using.",
+     "tag": "relative-clauses",
+     "level": "B2"
+    },
+    {
+     "type": "mcq",
+     "q": "Phones ___ during tests will be taken away.",
+     "options": [
+      "found",
+      "finding",
+      "find",
+      "to find"
+     ],
+     "answer": 0,
+     "whyTr": "Telefon bulunur (edilgen): found.",
+     "tag": "passive",
+     "level": "B2"
+    },
+    {
+     "type": "mcq",
+     "q": "Which is the shortened form of \"students who are waiting outside\"?",
+     "options": [
+      "students waited outside",
+      "students waiting outside",
+      "students are waiting outside",
+      "students being waited outside"
+     ],
+     "answer": 1,
+     "whyTr": "'Who are' atılır, -ing kalır.",
+     "tag": "relative-clauses",
+     "level": "B2"
+    },
+    {
+     "type": "mcq",
+     "q": "Which is the shortened form of \"the books that were left in the gym\"?",
+     "options": [
+      "the books leaving in the gym",
+      "the books were left in the gym",
+      "the books left in the gym",
+      "the books leaves in the gym"
+     ],
+     "answer": 2,
+     "whyTr": "'That were' atılır, V3 kalır.",
+     "tag": "relative-clauses",
+     "level": "B2"
+    },
+    {
+     "type": "order",
+     "promptTr": "Cümleyi sırala:",
+     "words": [
+      "left",
+      "will",
+      "be",
+      "away",
+      "the",
+      "hallway",
+      "Items",
+      "thrown",
+      "in"
+     ],
+     "answer": "Items left in the hallway will be thrown away",
+     "whyTr": "'Items left' edilgen kısaltma; ana fiil 'will be thrown'.",
+     "tag": "passive",
+     "level": "B2"
+    },
+    {
+     "type": "mcq",
+     "q": "The principal admitted ___ the rule too late.",
+     "options": [
+      "to announce",
+      "announce",
+      "announced",
+      "announcing"
+     ],
+     "answer": 3,
+     "whyTr": "'Admit' + -ing.",
+     "tag": "reported-speech",
+     "level": "B2"
+    },
+    {
+     "type": "mcq",
+     "q": "Principal Rivera, ___ rules are strict, is also fair.",
+     "options": [
+      "whose",
+      "who",
+      "which",
+      "that"
+     ],
+     "answer": 0,
+     "whyTr": "Aitlik için 'whose'.",
+     "tag": "relative-clauses",
+     "level": "B2"
+    },
+    {
+     "type": "fill",
+     "q": "Parents ___ the building must show an ID.",
+     "accept": [
+      "entering",
+      "visiting"
+     ],
+     "hintTr": "enter → -ing",
+     "whyTr": "Etken anlamda -ing kullanılır.",
+     "tag": "relative-clauses",
+     "level": "B2"
+    }
+   ]
+  },
+  "vocab": [
+   {
+    "id": "prohibit",
+    "en": "prohibit",
+    "tr": "yasaklamak",
+    "pos": "verb",
+    "example": "School rules prohibit food in the computer lab.",
+    "exampleTr": "Okul kuralları bilgisayar laboratuvarında yemeği yasaklar.",
+    "syn": [
+     "ban",
+     "forbid"
+    ],
+    "ant": [
+     "permit",
+     "allow"
+    ],
+    "level": "B2"
+   },
+   {
+    "id": "permit",
+    "en": "permit",
+    "tr": "izin vermek",
+    "pos": "verb",
+    "example": "The school does not permit students to leave early.",
+    "exampleTr": "Okul öğrencilerin erken ayrılmasına izin vermez.",
+    "syn": [
+     "allow"
+    ],
+    "ant": [
+     "prohibit"
+    ],
+    "level": "B2"
+   },
+   {
+    "id": "restrict",
+    "en": "restrict",
+    "tr": "kısıtlamak",
+    "pos": "verb",
+    "example": "The school restricts phone use during lessons.",
+    "exampleTr": "Okul ders sırasında telefon kullanımını kısıtlar.",
+    "syn": [
+     "limit"
+    ],
+    "ant": [],
+    "level": "B2"
+   },
+   {
+    "id": "enforce",
+    "en": "enforce",
+    "tr": "uygulatmak, yürürlükte tutmak",
+    "pos": "verb",
+    "example": "Teachers must enforce the rules fairly.",
+    "exampleTr": "Öğretmenler kuralları adil biçimde uygulatmalıdır.",
+    "syn": [],
+    "ant": [],
+    "level": "B2"
+   },
+   {
+    "id": "comply",
+    "en": "comply",
+    "tr": "uymak",
+    "pos": "verb",
+    "example": "All visitors must comply with the sign-in procedure.",
+    "exampleTr": "Tüm ziyaretçiler kayıt prosedürüne uymalıdır.",
+    "syn": [
+     "obey"
+    ],
+    "ant": [
+     "violate"
+    ],
+    "level": "B2"
+   },
+   {
+    "id": "violate",
+    "en": "violate",
+    "tr": "ihlal etmek",
+    "pos": "verb",
+    "example": "Cheating violates the honor code.",
+    "exampleTr": "Kopya çekmek onur kuralını ihlal eder.",
+    "syn": [
+     "break"
+    ],
+    "ant": [
+     "obey"
+    ],
+    "level": "B2"
+   },
+   {
+    "id": "violation",
+    "en": "violation",
+    "tr": "ihlal",
+    "pos": "noun",
+    "example": "A first violation usually results in a warning.",
+    "exampleTr": "İlk ihlal genellikle bir uyarıyla sonuçlanır.",
+    "syn": [],
+    "ant": [],
+    "level": "B2"
+   },
+   {
+    "id": "regulation",
+    "en": "regulation",
+    "tr": "yönetmelik, kural",
+    "pos": "noun",
+    "example": "State regulations require fire drills each month.",
+    "exampleTr": "Eyalet yönetmelikleri her ay yangın tatbikatı yapılmasını gerektirir.",
+    "syn": [
+     "rule"
+    ],
+    "ant": [],
+    "level": "B2"
+   },
+   {
+    "id": "guideline",
+    "en": "guideline",
+    "tr": "yönerge",
+    "pos": "noun",
+    "example": "Please read the guidelines before using the computers.",
+    "exampleTr": "Bilgisayarları kullanmadan önce lütfen yönergeleri okuyun.",
+    "syn": [],
+    "ant": [],
+    "level": "B2"
+   },
+   {
+    "id": "penalty",
+    "en": "penalty",
+    "tr": "ceza, yaptırım",
+    "pos": "noun",
+    "example": "The penalty for cheating is a zero on the test.",
+    "exampleTr": "Kopyanın cezası sınavdan sıfır almaktır.",
+    "syn": [
+     "punishment"
+    ],
+    "ant": [],
+    "level": "B2"
+   },
+   {
+    "id": "suspend",
+    "en": "suspend",
+    "tr": "uzaklaştırmak, askıya almak",
+    "pos": "verb",
+    "example": "The principal may suspend a student for fighting.",
+    "exampleTr": "Müdür kavga eden bir öğrenciyi uzaklaştırabilir.",
+    "syn": [],
+    "ant": [],
+    "level": "B2"
+   },
+   {
+    "id": "mandatory",
+    "en": "mandatory",
+    "tr": "zorunlu",
+    "pos": "adjective",
+    "example": "Wearing a badge is mandatory for all visitors.",
+    "exampleTr": "Rozet takmak tüm ziyaretçiler için zorunludur.",
+    "syn": [
+     "compulsory",
+     "required"
+    ],
+    "ant": [
+     "optional"
+    ],
+    "level": "B2"
+   },
+   {
+    "id": "optional",
+    "en": "optional",
+    "tr": "isteğe bağlı",
+    "pos": "adjective",
+    "example": "The after-school club is optional.",
+    "exampleTr": "Okul sonrası kulüp isteğe bağlıdır.",
+    "syn": [
+     "voluntary"
+    ],
+    "ant": [
+     "mandatory"
+    ],
+    "level": "B2"
+   },
+   {
+    "id": "obey",
+    "en": "obey",
+    "tr": "uymak, itaat etmek",
+    "pos": "verb",
+    "example": "Children should obey the safety rules.",
+    "exampleTr": "Çocuklar güvenlik kurallarına uymalıdır.",
+    "syn": [
+     "follow"
+    ],
+    "ant": [
+     "disobey"
+    ],
+    "level": "B2"
+   },
+   {
+    "id": "disobey",
+    "en": "disobey",
+    "tr": "uymamak, itaatsizlik etmek",
+    "pos": "verb",
+    "example": "Students who disobey the rules lose privileges.",
+    "exampleTr": "Kurallara uymayan öğrenciler ayrıcalıklarını kaybeder.",
+    "syn": [],
+    "ant": [
+     "obey"
+    ],
+    "level": "B2"
+   }
+  ],
+  "reading": {
+   "title": "The Student Handbook",
+   "text": "Hafsa spent Saturday morning reading the Maple Grove Student Handbook. Mr. Brown had told her that a substitute teacher must know the main rules, because students often test new adults. The handbook was long, but the rules were clearly organized, and Hafsa made notes in the margin.\n\nThe first section covered arrival and attendance. Students arriving after the 8:15 bell must sign in at the front office and take a late pass to class. Parents dropping off children should use the side lane, since cars parked in the bus zone block traffic. Absences are excused only when a note, signed by a parent, reaches the office within three days.\n\nThe second section dealt with behavior in the building. Students walking in the hallways must stay on the right and keep their voices low. Anyone caught running will be asked to return to the start and walk again. Backpacks left in the hallway will be moved to the lost-and-found box, and items not claimed within a month will be donated.\n\nTechnology was the most detailed part. Cell phones brought to school must stay in lockers or backpacks during class time. A phone seen during a lesson will be taken to the office, where a parent can pick it up after school. For tests, there is a stricter rule: any device found on a desk is treated as cheating, and the test will not be counted. Students using school laptops must follow the same guidelines and may visit only websites approved by the teacher.\n\nThe last section explained consequences. A first violation usually results in a warning, followed by a call to the parents. Repeated problems can lead to detention or, in serious cases, a short suspension decided by the principal. Hafsa noticed that the handbook also listed rewards: students praised by teachers earn points, and classes showing excellent behavior receive a pizza party.\n\nShe closed the handbook and smiled. The rules were strict, but they were also fair and predictable, and that made her work as a substitute easier to imagine.",
+   "glossary": [
+    {
+     "en": "handbook",
+     "tr": "el kitabı, rehber"
+    },
+    {
+     "en": "margin",
+     "tr": "kenar boşluğu"
+    },
+    {
+     "en": "claim",
+     "tr": "sahiplenmek, almak"
+    },
+    {
+     "en": "donate",
+     "tr": "bağışlamak"
+    },
+    {
+     "en": "device",
+     "tr": "cihaz"
+    },
+    {
+     "en": "predictable",
+     "tr": "öngörülebilir"
+    }
+   ],
+   "questions": [
+    {
+     "type": "mcq",
+     "q": "What must students arriving after 8:15 do?",
+     "options": [
+      "Wait outside until 9:00.",
+      "Sign in at the front office and take a late pass.",
+      "Call their parents immediately.",
+      "Go straight to the principal."
+     ],
+     "answer": 1,
+     "whyTr": "Metin: 'must sign in at the front office and take a late pass to class'.",
+     "tag": "reading",
+     "level": "B2"
+    },
+    {
+     "type": "mcq",
+     "q": "What happens to backpacks left in the hallway?",
+     "options": [
+      "They are thrown away at once.",
+      "They are returned by the principal.",
+      "They are moved to the lost-and-found box.",
+      "They are locked in the gym."
+     ],
+     "answer": 2,
+     "whyTr": "Metin: 'will be moved to the lost-and-found box'.",
+     "tag": "reading",
+     "level": "B2"
+    },
+    {
+     "type": "mcq",
+     "q": "What is the rule for a device found on a desk during a test?",
+     "options": [
+      "It is allowed for notes.",
+      "It is kept by the nurse.",
+      "It must be turned up loud.",
+      "It is treated as cheating."
+     ],
+     "answer": 3,
+     "whyTr": "Metin: 'any device found on a desk is treated as cheating'.",
+     "tag": "reading",
+     "level": "B2"
+    },
+    {
+     "type": "mcq",
+     "q": "What do classes showing excellent behavior receive?",
+     "options": [
+      "A pizza party",
+      "A field trip",
+      "Extra recess",
+      "A new computer"
+     ],
+     "answer": 0,
+     "whyTr": "Metin: 'classes showing excellent behavior receive a pizza party'.",
+     "tag": "reading",
+     "level": "B2"
+    }
+   ]
+  }
+ },
+ "evening": {
+  "listening": {
+   "title": "Phones and hallway rules",
+   "script": [
+    {
+     "speaker": "Hafsa",
+     "text": "Mr. Brown, a student was using his phone in class today. What should I do?"
+    },
+    {
+     "speaker": "Mr. Brown",
+     "text": "According to the handbook, phones seen during lessons are taken to the office."
+    },
+    {
+     "speaker": "Hafsa",
+     "text": "Do I take it myself?"
+    },
+    {
+     "speaker": "Mr. Brown",
+     "text": "Yes, but speak calmly. Students holding their phones usually just need a reminder first."
+    },
+    {
+     "speaker": "Hafsa",
+     "text": "And if he refuses to hand it over?"
+    },
+    {
+     "speaker": "Mr. Brown",
+     "text": "Then send a note to the office with another student, or call me. Don't argue in front of the class."
+    },
+    {
+     "speaker": "Hafsa",
+     "text": "I see. I have another question. Some children were running in the hallway."
+    },
+    {
+     "speaker": "Mr. Brown",
+     "text": "Ask them to go back and walk. Children caught running twice get a warning slip."
+    },
+    {
+     "speaker": "Hafsa",
+     "text": "Is there a form for that?"
+    },
+    {
+     "speaker": "Mr. Brown",
+     "text": "Yes, the yellow one, which is in the folder on the desk. Just write the date and the name."
+    },
+    {
+     "speaker": "Hafsa",
+     "text": "Thanks. I'll keep the folder close."
+    },
+    {
+     "speaker": "Mr. Brown",
+     "text": "Good. You're doing a great job, Hafsa."
+    }
+   ],
+   "questions": [
+    {
+     "type": "mcq",
+     "q": "What happens to phones seen during lessons?",
+     "options": [
+      "They are given to the nurse.",
+      "They are taken to the office.",
+      "They are kept by the student.",
+      "They are thrown away."
+     ],
+     "answer": 1,
+     "whyTr": "Mr. Brown: 'phones seen during lessons are taken to the office'.",
+     "tag": "listening",
+     "level": "B2"
+    },
+    {
+     "type": "mcq",
+     "q": "What should Hafsa not do if a student refuses?",
+     "options": [
+      "Call Mr. Brown",
+      "Send a note",
+      "Argue in front of the class",
+      "Speak calmly"
+     ],
+     "answer": 2,
+     "whyTr": "Mr. Brown: 'Don't argue in front of the class.'",
+     "tag": "listening",
+     "level": "B2"
+    },
+    {
+     "type": "mcq",
+     "q": "What do children caught running twice get?",
+     "options": [
+      "A phone call home",
+      "A pizza party",
+      "A detention",
+      "A warning slip"
+     ],
+     "answer": 3,
+     "whyTr": "Mr. Brown: 'Children caught running twice get a warning slip.'",
+     "tag": "listening",
+     "level": "B2"
+    },
+    {
+     "type": "mcq",
+     "q": "Where is the yellow form?",
+     "options": [
+      "In the folder on the desk",
+      "In the front office",
+      "In the hallway",
+      "In the lost-and-found box"
+     ],
+     "answer": 0,
+     "whyTr": "Mr. Brown: 'the yellow one, which is in the folder on the desk'.",
+     "tag": "listening",
+     "level": "B2"
+    }
+   ]
+  },
+  "writing": {
+   "promptTr": "Bir sınıf için velilere kısa bir kural duyurusu yaz. En az üç kısaltılmış cümlecik kullan (students arriving..., homework handed in..., devices seen...). 120-180 kelime yaz.",
+   "promptEn": "Write a short letter to parents explaining classroom rules. Use at least three participle clauses.",
+   "frames": [
+    "Students arriving ...",
+    "Homework handed in ...",
+    "Phones brought to school ...",
+    "Children following these rules ..."
+   ],
+   "model": "Dear parents, I would like to explain a few classroom rules for this semester. Students arriving after the bell must sign the late list by the door. Homework handed in after Friday will lose five points, so please check the planner every evening. Phones brought to school should stay in backpacks during lessons, and devices seen on a desk will be taken to the office. Students working in groups must keep their voices low, and anyone disturbing others will receive a warning. Books borrowed from the class library should be returned within two weeks. Children following these rules will earn stickers, and classes showing excellent behavior will enjoy a movie on Friday afternoon. I believe that clear rules make everyone feel safe and respected. If you have any questions about the guidelines, please contact me at the school office. I am always happy to explain the reasons behind a rule. Thank you for your cooperation and support. Sincerely, Hafsa",
+   "checklistTr": [
+    "En az üç kısaltılmış cümlecik (-ing veya V3) var mı?",
+    "Etken anlamda -ing, edilgen anlamda V3 kullandın mı?",
+    "'Students who running' gibi karışık yapıdan kaçındın mı?",
+    "Mektubun selamlama ve kapanışı var mı?"
+   ],
+   "minWords": 120
+  },
+  "examSet": [
+   {
+    "type": "mcq",
+    "q": "Students ___ after the bell must sign in.",
+    "options": [
+     "arrive",
+     "arriving",
+     "to arrive",
+     "are arrived"
+    ],
+    "answer": 1,
+    "whyTr": "Etken kısaltma: -ing.",
+    "tag": "relative-clauses",
+    "level": "B2"
+   },
+   {
+    "type": "mcq",
+    "q": "Forms ___ by parents must be returned by Monday.",
+    "options": [
+     "signing",
+     "sign",
+     "signed",
+     "to sign"
+    ],
+    "answer": 2,
+    "whyTr": "Formlar imzalanır (edilgen): V3.",
+    "tag": "passive",
+    "level": "B2"
+   },
+   {
+    "type": "mcq",
+    "q": "The woman ___ at the front desk is Mrs. Lopez.",
+    "options": [
+     "sat",
+     "sits",
+     "sit",
+     "sitting"
+    ],
+    "answer": 3,
+    "whyTr": "'Who is sitting' kısalınca 'sitting'.",
+    "tag": "relative-clauses",
+    "level": "B2"
+   },
+   {
+    "type": "mcq",
+    "q": "Which sentence is correct?",
+    "options": [
+     "The students inviting to the meeting arrived early.",
+     "The students invite to the meeting arrived early.",
+     "The students invited to the meeting arrived early."
+    ],
+    "answer": 2,
+    "whyTr": "Davet edilen (edilgen): invited.",
+    "tag": "relative-clauses",
+    "level": "B2"
+   },
+   {
+    "type": "mcq",
+    "q": "Which is the shortened form of \"rules that are posted on the door\"?",
+    "options": [
+     "rules posted on the door",
+     "rules posting on the door",
+     "rules are posted on the door"
+    ],
+    "answer": 0,
+    "whyTr": "'That are' atılır, V3 kalır.",
+    "tag": "relative-clauses",
+    "level": "B2"
+   },
+   {
+    "type": "mcq",
+    "q": "___ into the classroom, Hafsa saw a note on the desk.",
+    "options": [
+     "Walked",
+     "Walking",
+     "Walks"
+    ],
+    "answer": 1,
+    "whyTr": "Cümle başında, aynı özneyle -ing kullanılır.",
+    "tag": "relative-clauses",
+    "level": "B2"
+   },
+   {
+    "type": "mcq",
+    "q": "Emre, ___ studies computer science, helps me with email.",
+    "options": [
+     "which",
+     "whose",
+     "that",
+     "who"
+    ],
+    "answer": 3,
+    "whyTr": "Virgüllü cümlecikte kişi için who.",
+    "tag": "relative-clauses",
+    "level": "B2"
+   },
+   {
+    "type": "mcq",
+    "q": "The teacher advised us ___ the rules carefully.",
+    "options": [
+     "to read",
+     "reading",
+     "read"
+    ],
+    "answer": 0,
+    "whyTr": "'Advise' + kişi + to + fiil.",
+    "tag": "reported-speech",
+    "level": "B2"
+   },
+   {
+    "type": "mcq",
+    "q": "Phones ___ in lockers during class.",
+    "options": [
+     "must keep",
+     "must be kept",
+     "must be keep",
+     "must kept"
+    ],
+    "answer": 1,
+    "whyTr": "Edilgen modal: must be + V3.",
+    "tag": "passive",
+    "level": "B2"
+   },
+   {
+    "type": "mcq",
+    "q": "If students ___ the rules, they would feel safer.",
+    "options": [
+     "follow",
+     "will follow",
+     "followed",
+     "would follow"
+    ],
+    "answer": 2,
+    "whyTr": "Gerçek dışı koşulda if cümlesi past simple alır.",
+    "tag": "conditionals",
+    "level": "B2"
+   },
+   {
+    "type": "mcq",
+    "q": "Cheating is a serious ___ of the rules.",
+    "options": [
+     "guideline",
+     "penalty",
+     "permit",
+     "violation"
+    ],
+    "answer": 3,
+    "whyTr": "Kuralın ihlali: violation.",
+    "tag": "vocab",
+    "level": "B2"
+   },
+   {
+    "type": "mcq",
+    "q": "Wearing a uniform is ___ at this school. Everyone must do it.",
+    "options": [
+     "mandatory",
+     "optional",
+     "suspended",
+     "prohibited"
+    ],
+    "answer": 0,
+    "whyTr": "Herkesin yapması gereken: mandatory.",
+    "tag": "vocab",
+    "level": "B2"
+   },
+   {
+    "type": "mcq",
+    "q": "Which word means almost the same as \"prohibit\"?",
+    "options": [
+     "permit",
+     "forbid",
+     "enforce",
+     "obey"
+    ],
+    "answer": 1,
+    "whyTr": "Prohibit ve forbid eş anlamlıdır.",
+    "tag": "synonym",
+    "level": "B2"
+   },
+   {
+    "type": "mcq",
+    "q": "What is the opposite of \"mandatory\"?",
+    "options": [
+     "required",
+     "strict",
+     "optional",
+     "urgent"
+    ],
+    "answer": 2,
+    "whyTr": "Zorunlu olmanın zıttı isteğe bağlı: optional.",
+    "tag": "antonym",
+    "level": "B2"
+   },
+   {
+    "type": "mcq",
+    "q": "What is the opposite of \"obey\"?",
+    "options": [
+     "comply",
+     "follow",
+     "enforce",
+     "disobey"
+    ],
+    "answer": 3,
+    "whyTr": "Obey'in zıttı disobey.",
+    "tag": "antonym",
+    "level": "B2"
+   },
+   {
+    "type": "mcq",
+    "q": "The principal decided to ___ the student for three days.",
+    "options": [
+     "suspend",
+     "permit",
+     "obey",
+     "enforce"
+    ],
+    "answer": 0,
+    "whyTr": "Öğrenciyi geçici uzaklaştırmak: suspend.",
+    "tag": "vocab",
+    "level": "B2"
+   },
+   {
+    "type": "mcq",
+    "q": "Teachers must ___ the rules fairly, not only when they feel like it.",
+    "options": [
+     "violate",
+     "enforce",
+     "disobey",
+     "suspend"
+    ],
+    "answer": 1,
+    "whyTr": "Kuralları uygulatmak: enforce.",
+    "tag": "vocab",
+    "level": "B2"
+   },
+   {
+    "type": "mcq",
+    "q": "Students bringing food to class must keep it in their bags. Snacks eaten in the classroom may attract insects, so eating is allowed only in the cafeteria. Water bottles are an exception.\n\nWhat is allowed in the classroom?",
+    "options": [
+     "Snacks",
+     "Lunch",
+     "Water bottles",
+     "Candy"
+    ],
+    "answer": 2,
+    "whyTr": "Metin: 'Water bottles are an exception.'",
+    "tag": "reading",
+    "level": "B2"
+   },
+   {
+    "type": "mcq",
+    "q": "Visitors entering the building must show an ID at the front office. Badges issued to visitors must be worn at all times. Anyone seen without a badge will be escorted back to the office.\n\nWhat happens to a visitor without a badge?",
+    "options": [
+     "He or she receives a warning letter.",
+     "He or she can stay in the cafeteria.",
+     "He or she must call the principal.",
+     "He or she is taken back to the office."
+    ],
+    "answer": 3,
+    "whyTr": "Metin: 'will be escorted back to the office'.",
+    "tag": "reading",
+    "level": "B2"
+   },
+   {
+    "type": "mcq",
+    "q": "Which word means almost the same as \"permit\"?",
+    "options": [
+     "allow",
+     "prohibit",
+     "restrict",
+     "violate"
+    ],
+    "answer": 0,
+    "whyTr": "Permit ve allow eş anlamlıdır.",
+    "tag": "synonym",
+    "level": "B2"
+   }
+  ]
+ }
+}

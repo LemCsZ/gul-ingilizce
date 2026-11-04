@@ -1,0 +1,777 @@
+{
+ "week": 11,
+ "day": 1,
+ "titleTr": "Zor bir gün: so, such, despite",
+ "theme": "work-school",
+ "morning": {
+  "grammar": {
+   "topic": "so / such and despite / in spite of",
+   "explainTr": [
+    "'So' sıfat ya da zarfın önüne gelir: so tired, so loud. 'Such' isim ister: such a long day, such nice kids. Çoğul veya sayılamayan isimde 'a' düşer.",
+    "İki cümleyi sonuçla bağlamak için 'so ... that' ve 'such ... that' kullanılır: The room was so noisy that I could not think.",
+    "'Despite' ve 'in spite of' 'rağmen' demektir; arkasından isim ya da -ing gelir: Despite the rain... 'Although' ise arkasından tam cümle ister."
+   ],
+   "compareTr": "Türkçede 'çok yorucu bir gün' ya da 'öyle yorgundum ki' diyebiliyoruz. İngilizcede 'çok' sıfata gelirse so, isme gelirse such kullanılır. 'Rağmen' için Türkçe tek kelime yeter; İngilizcede despite + isim, although + cümle ayrımı var.",
+   "table": [
+    [
+     "so",
+     "so + sıfat/zarf",
+     "so tired"
+    ],
+    [
+     "such",
+     "such (a) + (sıfat) + isim",
+     "such a hard day"
+    ],
+    [
+     "despite / in spite of",
+     "+ isim ya da -ing",
+     "Despite the noise,"
+    ],
+    [
+     "although",
+     "+ özne + fiil",
+     "Although it was late, ..."
+    ]
+   ],
+   "examples": [
+    {
+     "en": "I was so tired that I fell asleep.",
+     "tr": "O kadar yorgundum ki uyuyakaldım."
+    },
+    {
+     "en": "It was such a long day.",
+     "tr": "Çok uzun bir gündü."
+    },
+    {
+     "en": "Despite the noise, she stayed calm.",
+     "tr": "Gürültüye rağmen sakin kaldı."
+    },
+    {
+     "en": "In spite of being nervous, Hafsa said yes.",
+     "tr": "Gergin olmasına rağmen Hafsa evet dedi."
+    },
+    {
+     "en": "Although it was late, we kept working.",
+     "tr": "Geç olmasına rağmen çalışmaya devam ettik."
+    }
+   ],
+   "exercises": [
+    {
+     "type": "mcq",
+     "q": "The children were ___ noisy that I could not hear myself think.",
+     "options": [
+      "so",
+      "such",
+      "too"
+     ],
+     "answer": 0,
+     "whyTr": "Sıfatın önünde 'so' kullanılır: so noisy.",
+     "tag": "linkers",
+     "level": "B1"
+    },
+    {
+     "type": "mcq",
+     "q": "It was ___ a long day that I fell asleep on the bus.",
+     "options": [
+      "so",
+      "such",
+      "very"
+     ],
+     "answer": 1,
+     "whyTr": "'a + isim' öncesinde 'such' gelir: such a long day.",
+     "tag": "linkers",
+     "level": "B1"
+    },
+    {
+     "type": "mcq",
+     "q": "Hafsa has ___ many forms to fill out this week.",
+     "options": [
+      "such",
+      "too much",
+      "so"
+     ],
+     "answer": 2,
+     "whyTr": "'many' ile 'so many' kullanılır.",
+     "tag": "linkers",
+     "level": "B1"
+    },
+    {
+     "type": "mcq",
+     "q": "They are ___ nice students that I want to stay in this class.",
+     "options": [
+      "such",
+      "so",
+      "such a"
+     ],
+     "answer": 0,
+     "whyTr": "Çoğul isimle 'such' gelir, 'a' konmaz: such nice students.",
+     "tag": "linkers",
+     "level": "B1"
+    },
+    {
+     "type": "mcq",
+     "q": "___ the rain, the class had recess outside.",
+     "options": [
+      "Although",
+      "Despite",
+      "Because"
+     ],
+     "answer": 1,
+     "whyTr": "'Despite' + isim kullanılır; 'Although' ise cümle ister.",
+     "tag": "linkers",
+     "level": "B1"
+    },
+    {
+     "type": "mcq",
+     "q": "___ she was tired, Hafsa finished the sub plan.",
+     "options": [
+      "In spite of",
+      "Despite",
+      "Although"
+     ],
+     "answer": 2,
+     "whyTr": "Arkasında özne + fiil var, o yüzden 'Although'.",
+     "tag": "linkers",
+     "level": "B1"
+    },
+    {
+     "type": "order",
+     "promptTr": "Cümleyi sırala:",
+     "words": [
+      "being",
+      "tired,",
+      "Hafsa",
+      "Despite",
+      "stayed",
+      "late"
+     ],
+     "answer": "Despite being tired, Hafsa stayed late",
+     "whyTr": "'Despite' + -ing ile başlayan kısım virgülle ayrılır.",
+     "tag": "linkers",
+     "level": "B1"
+    },
+    {
+     "type": "order",
+     "promptTr": "Cümleyi sırala:",
+     "words": [
+      "such",
+      "It",
+      "a",
+      "was",
+      "hard",
+      "day"
+     ],
+     "answer": "It was such a hard day",
+     "whyTr": "Kalıp: such + a + sıfat + tekil isim.",
+     "tag": "linkers",
+     "level": "B1"
+    },
+    {
+     "type": "mcq",
+     "q": "In spite of ___ sick, he came to school.",
+     "options": [
+      "being",
+      "be",
+      "is"
+     ],
+     "answer": 0,
+     "whyTr": "'In spite of' den sonra isim ya da -ing gelir.",
+     "tag": "linkers",
+     "level": "B1"
+    },
+    {
+     "type": "mcq",
+     "q": "Mr. Brown said, \"I am busy.\" → Mr. Brown said that he ___ busy.",
+     "options": [
+      "is",
+      "was",
+      "be"
+     ],
+     "answer": 1,
+     "whyTr": "Dolaylı anlatımda zaman bir adım geriye gider: am → was.",
+     "tag": "present-simple",
+     "level": "B1"
+    },
+    {
+     "type": "mcq",
+     "q": "Yesterday Linda ___ me about her class.",
+     "options": [
+      "tell",
+      "tells",
+      "told"
+     ],
+     "answer": 2,
+     "whyTr": "Dün geçti, geçmiş zaman: told.",
+     "tag": "past-simple",
+     "level": "B1"
+    },
+    {
+     "type": "fill",
+     "q": "The movie was ___ boring that we left early.",
+     "accept": [
+      "so"
+     ],
+     "hintTr": "sıfattan önce",
+     "whyTr": "Sıfatın önünde 'so' gelir.",
+     "tag": "linkers",
+     "level": "B1"
+    }
+   ]
+  },
+  "vocab": [
+   {
+    "id": "exhausting",
+    "en": "exhausting",
+    "tr": "yorucu",
+    "pos": "adjective",
+    "example": "Teaching six classes in a row is exhausting.",
+    "exampleTr": "Arka arkaya altı ders vermek yorucu.",
+    "syn": [
+     "tiring"
+    ],
+    "ant": [],
+    "level": "B1"
+   },
+   {
+    "id": "chaos",
+    "en": "chaos",
+    "tr": "kaos, karışıklık",
+    "pos": "noun",
+    "example": "There was chaos in the hallway after the bell.",
+    "exampleTr": "Zilden sonra koridorda kaos vardı.",
+    "syn": [],
+    "ant": [
+     "order"
+    ],
+    "level": "B1"
+   },
+   {
+    "id": "frustrated",
+    "en": "frustrated",
+    "tr": "bunalmış, sinirli",
+    "pos": "adjective",
+    "example": "She felt frustrated because nobody listened.",
+    "exampleTr": "Kimse dinlemediği için bunaldı.",
+    "syn": [
+     "annoyed"
+    ],
+    "ant": [],
+    "level": "B1"
+   },
+   {
+    "id": "behave",
+    "en": "behave",
+    "tr": "davranmak",
+    "pos": "verb",
+    "example": "Please behave well in the library.",
+    "exampleTr": "Lütfen kütüphanede düzgün davranın.",
+    "syn": [],
+    "ant": [
+     "misbehave"
+    ],
+    "level": "B1"
+   },
+   {
+    "id": "misbehave",
+    "en": "misbehave",
+    "tr": "yaramazlık yapmak",
+    "pos": "verb",
+    "example": "Some students misbehave when a sub arrives.",
+    "exampleTr": "Bazı öğrenciler vekil öğretmen gelince yaramazlık yapar.",
+    "syn": [],
+    "ant": [
+     "behave"
+    ],
+    "level": "B1"
+   },
+   {
+    "id": "shout",
+    "en": "shout",
+    "tr": "bağırmak",
+    "pos": "verb",
+    "example": "Please do not shout in the hallway.",
+    "exampleTr": "Lütfen koridorda bağırmayın.",
+    "syn": [
+     "yell"
+    ],
+    "ant": [
+     "whisper"
+    ],
+    "level": "B1"
+   },
+   {
+    "id": "disturb",
+    "en": "disturb",
+    "tr": "rahatsız etmek",
+    "pos": "verb",
+    "example": "Don't disturb the students during the test.",
+    "exampleTr": "Sınav sırasında öğrencileri rahatsız etme.",
+    "syn": [
+     "bother"
+    ],
+    "ant": [],
+    "level": "B1"
+   },
+   {
+    "id": "noise",
+    "en": "noise",
+    "tr": "gürültü",
+    "pos": "noun",
+    "example": "The noise from the cafeteria was terrible.",
+    "exampleTr": "Kafeteryadan gelen gürültü berbattı.",
+    "syn": [
+     "sound"
+    ],
+    "ant": [
+     "silence"
+    ],
+    "level": "B1"
+   },
+   {
+    "id": "cope",
+    "en": "cope",
+    "tr": "başa çıkmak",
+    "pos": "verb",
+    "example": "How do you cope with a stressful day?",
+    "exampleTr": "Stresli bir günle nasıl başa çıkıyorsun?",
+    "syn": [
+     "manage"
+    ],
+    "ant": [],
+    "level": "B1"
+   },
+   {
+    "id": "tantrum",
+    "en": "tantrum",
+    "tr": "hırçınlık nöbeti",
+    "pos": "noun",
+    "example": "The little girl had a tantrum in the hallway.",
+    "exampleTr": "Küçük kız koridorda hırçınlık nöbeti geçirdi.",
+    "syn": [],
+    "ant": [],
+    "level": "B1"
+   },
+   {
+    "id": "mess",
+    "en": "mess",
+    "tr": "dağınıklık",
+    "pos": "noun",
+    "example": "The kids left a big mess in the art room.",
+    "exampleTr": "Çocuklar sanat odasında büyük bir dağınıklık bıraktı.",
+    "syn": [],
+    "ant": [],
+    "level": "B1"
+   },
+   {
+    "id": "whisper",
+    "en": "whisper",
+    "tr": "fısıldamak",
+    "pos": "verb",
+    "example": "She whispered so the class had to listen.",
+    "exampleTr": "Fısıldadı, böylece sınıf dinlemek zorunda kaldı.",
+    "syn": [],
+    "ant": [
+     "shout"
+    ],
+    "level": "B1"
+   },
+   {
+    "id": "relieved",
+    "en": "relieved",
+    "tr": "rahatlamış",
+    "pos": "adjective",
+    "example": "I was relieved when the bell rang.",
+    "exampleTr": "Zil çalınca rahatladım.",
+    "syn": [],
+    "ant": [
+     "worried"
+    ],
+    "level": "B1"
+   },
+   {
+    "id": "rowdy",
+    "en": "rowdy",
+    "tr": "gürültücü, yaramaz",
+    "pos": "adjective",
+    "example": "The rowdy class would not listen.",
+    "exampleTr": "Yaramaz sınıf dinlemiyordu.",
+    "syn": [],
+    "ant": [
+     "well-behaved"
+    ],
+    "level": "B1"
+   },
+   {
+    "id": "annoyed",
+    "en": "annoyed",
+    "tr": "sinirlenmiş, rahatsız olmuş",
+    "pos": "adjective",
+    "example": "Mr. Brown was annoyed about the broken copier.",
+    "exampleTr": "Mr. Brown bozuk fotokopi makinesine sinirlendi.",
+    "syn": [
+     "irritated"
+    ],
+    "ant": [
+     "pleased"
+    ],
+    "level": "B1"
+   }
+  ],
+  "reading": {
+   "title": "Hafsa's first day as a sub",
+   "text": "On Tuesday morning, Mr. Brown called Hafsa. \"Ms. Carter is sick, and we need a substitute for her fourth-grade class. Can you come today?\" Hafsa was nervous, but she said yes. In spite of her fear, she took a deep breath and drove to Lincoln Elementary.\n\nIt was such a difficult day. The students were so excited about a new teacher that they would not sit down. Two boys argued about a pencil, and a girl cried because she lost her notebook. The noise was so loud that the teacher next door knocked on the door. Hafsa felt frustrated and exhausted. She had almost no time to think, and the sub plan was longer than she expected.\n\nThen she tried something simple. She stood at the front of the room, stayed calm, and whispered, \"Whoever is quiet gets a sticker.\" Slowly, the room became quiet. Despite the chaos in the morning, the afternoon went much better. The class read a story together, and the children were so proud of their drawings that they showed them to everyone.\n\nAt 3:30, Mr. Brown asked, \"How was your day?\" Hafsa laughed. \"It was exhausting, but I learned a lot.\" That evening she told Emre about it. \"It was such a hard day, Mom,\" he said, \"but you did it!\" She smiled. She was tired, yet she felt happy.",
+   "glossary": [
+    {
+     "en": "substitute",
+     "tr": "vekil"
+    },
+    {
+     "en": "sticker",
+     "tr": "çıkartma"
+    },
+    {
+     "en": "deep breath",
+     "tr": "derin nefes"
+    },
+    {
+     "en": "sub plan",
+     "tr": "vekil öğretmen planı"
+    }
+   ],
+   "questions": [
+    {
+     "type": "mcq",
+     "q": "Why did Mr. Brown call Hafsa?",
+     "options": [
+      "Ms. Carter was sick.",
+      "Hafsa lost her notebook.",
+      "A student was late."
+     ],
+     "answer": 0,
+     "whyTr": "Metin: 'Ms. Carter is sick, and we need a substitute.'",
+     "tag": "reading",
+     "level": "B1"
+    },
+    {
+     "type": "mcq",
+     "q": "Why did the teacher next door knock?",
+     "options": [
+      "A student was missing.",
+      "The bell was broken.",
+      "The noise was very loud.",
+      "Hafsa needed a pencil."
+     ],
+     "answer": 2,
+     "whyTr": "Metin: 'The noise was so loud that the teacher next door knocked.'",
+     "tag": "reading",
+     "level": "B1"
+    },
+    {
+     "type": "mcq",
+     "q": "How did Hafsa get the class quiet?",
+     "options": [
+      "She called the principal.",
+      "She shouted at the boys.",
+      "She whispered and offered stickers."
+     ],
+     "answer": 2,
+     "whyTr": "Metin: 'She ... whispered, Whoever is quiet gets a sticker.'",
+     "tag": "reading",
+     "level": "B1"
+    },
+    {
+     "type": "mcq",
+     "q": "How was the afternoon?",
+     "options": [
+      "Much better than the morning.",
+      "Worse than the morning.",
+      "Exactly the same."
+     ],
+     "answer": 0,
+     "whyTr": "Metin: 'the afternoon went much better.'",
+     "tag": "reading",
+     "level": "B1"
+    }
+   ]
+  }
+ },
+ "evening": {
+  "listening": {
+   "title": "After the first day",
+   "script": [
+    {
+     "speaker": "Linda",
+     "text": "Hafsa, you look exhausted. How was your first day?"
+    },
+    {
+     "speaker": "Hafsa",
+     "text": "It was such a hard day, Linda! The children were so noisy that I could not hear myself."
+    },
+    {
+     "speaker": "Linda",
+     "text": "Oh no. What did you do?"
+    },
+    {
+     "speaker": "Hafsa",
+     "text": "Despite my fear, I stayed calm. I whispered, and slowly they became quiet."
+    },
+    {
+     "speaker": "Linda",
+     "text": "That is a clever trick. Were you angry?"
+    },
+    {
+     "speaker": "Hafsa",
+     "text": "A little frustrated, but not angry. Two boys argued about a pencil."
+    },
+    {
+     "speaker": "Linda",
+     "text": "Kids do that. Will you go back?"
+    },
+    {
+     "speaker": "Hafsa",
+     "text": "Yes. In spite of everything, I enjoyed the afternoon. The children drew such beautiful pictures!"
+    },
+    {
+     "speaker": "Linda",
+     "text": "I am so proud of you. Come for tea tomorrow and tell me more."
+    },
+    {
+     "speaker": "Hafsa",
+     "text": "Thank you, I would love to. I am so tired now, but I am happy."
+    }
+   ],
+   "questions": [
+    {
+     "type": "mcq",
+     "q": "What made the day hard?",
+     "options": [
+      "The bus was late.",
+      "The children were very noisy.",
+      "Hafsa was sick."
+     ],
+     "answer": 1,
+     "whyTr": "Hafsa: 'The children were so noisy.'",
+     "tag": "listening",
+     "level": "B1"
+    },
+    {
+     "type": "mcq",
+     "q": "How did Hafsa get the children quiet?",
+     "options": [
+      "She sang a song.",
+      "She turned off the lights.",
+      "She whispered.",
+      "She left the room."
+     ],
+     "answer": 2,
+     "whyTr": "Hafsa: 'I whispered, and slowly they became quiet.'",
+     "tag": "listening",
+     "level": "B1"
+    },
+    {
+     "type": "mcq",
+     "q": "What did the two boys argue about?",
+     "options": [
+      "A pencil",
+      "A book",
+      "A game"
+     ],
+     "answer": 0,
+     "whyTr": "Hafsa: 'Two boys argued about a pencil.'",
+     "tag": "listening",
+     "level": "B1"
+    },
+    {
+     "type": "mcq",
+     "q": "What does Linda invite Hafsa to do?",
+     "options": [
+      "Go to the park",
+      "Come for tea tomorrow",
+      "Visit the school"
+     ],
+     "answer": 1,
+     "whyTr": "Linda: 'Come for tea tomorrow.'",
+     "tag": "listening",
+     "level": "B1"
+    }
+   ]
+  },
+  "writing": {
+   "promptTr": "Zor geçen bir gününü anlat. so / such ve despite / in spite of kullan (80-100 kelime).",
+   "promptEn": "Write about a hard day. Use so / such and despite / in spite of (80-100 words).",
+   "frames": [
+    "It was such a ... day.",
+    "I was so ... that ...",
+    "Despite ..., I ...",
+    "In spite of ..., ..."
+   ],
+   "model": "Last Friday was such a difficult day. I had so many things to do that I did not have time for lunch. My son Emre was sick, and the bus was late. In spite of everything, I finished my work. Despite feeling tired, I cooked dinner for Emre. I was so happy when he smiled and said thank you. Now I know that I can handle a hard day. Next time I will plan my morning better, and I will ask my neighbor Linda for help if I need it.",
+   "checklistTr": [
+    "En az bir 'so + sıfat + that' cümlen var mı?",
+    "'such a + sıfat + isim' kullandın mı?",
+    "Despite / In spite of'tan sonra isim ya da -ing geldi mi (cümle değil)?",
+    "Cümleler büyük harfle başlıyor ve noktayla bitiyor mu?"
+   ],
+   "minWords": 70
+  },
+  "examSet": [
+   {
+    "type": "mcq",
+    "q": "The test was ___ easy that everyone finished early.",
+    "options": [
+     "such",
+     "too",
+     "so"
+    ],
+    "answer": 2,
+    "whyTr": "Sıfat önünde 'so'.",
+    "tag": "linkers",
+    "level": "B1"
+   },
+   {
+    "type": "mcq",
+    "q": "Linda is ___ kind neighbor.",
+    "options": [
+     "such a",
+     "so",
+     "such"
+    ],
+    "answer": 0,
+    "whyTr": "Tekil isim önünde 'such a'.",
+    "tag": "linkers",
+    "level": "B1"
+   },
+   {
+    "type": "mcq",
+    "q": "___ the heavy traffic, Hafsa arrived on time.",
+    "options": [
+     "Although",
+     "Despite",
+     "Because"
+    ],
+    "answer": 1,
+    "whyTr": "Despite + isim.",
+    "tag": "linkers",
+    "level": "B1"
+   },
+   {
+    "type": "mcq",
+    "q": "She smiled ___ she was very tired.",
+    "options": [
+     "despite",
+     "in spite of",
+     "although"
+    ],
+    "answer": 2,
+    "whyTr": "Arkasında cümle olduğu için 'although'.",
+    "tag": "linkers",
+    "level": "B1"
+   },
+   {
+    "type": "mcq",
+    "q": "Hafsa ___ at the school since Monday.",
+    "options": [
+     "has worked",
+     "worked",
+     "works"
+    ],
+    "answer": 0,
+    "whyTr": "'Since' ile present perfect kullanılır.",
+    "tag": "present-perfect",
+    "level": "B1"
+   },
+   {
+    "type": "mcq",
+    "q": "She asked me where I ___.",
+    "options": [
+     "live",
+     "lived",
+     "do live"
+    ],
+    "answer": 1,
+    "whyTr": "Dolaylı soruda zaman geriye gider ve soru yapısı bozulur: where I lived.",
+    "tag": "question-form",
+    "level": "B1"
+   },
+   {
+    "type": "mcq",
+    "q": "The children were so loud that it was complete ___.",
+    "options": [
+     "whisper",
+     "patient",
+     "chaos"
+    ],
+    "answer": 2,
+    "whyTr": "Kaos = chaos.",
+    "tag": "vocab",
+    "level": "B1"
+   },
+   {
+    "type": "mcq",
+    "q": "Please don't ___ me while I am talking.",
+    "options": [
+     "interrupt",
+     "behave",
+     "cope"
+    ],
+    "answer": 0,
+    "whyTr": "Sözünü kesmek = interrupt.",
+    "tag": "vocab",
+    "level": "B1"
+   },
+   {
+    "type": "mcq",
+    "q": "Which word is closest in meaning to \"annoyed\"?",
+    "options": [
+     "delighted",
+     "irritated",
+     "calm"
+    ],
+    "answer": 1,
+    "whyTr": "Annoyed ve irritated benzer anlamlı.",
+    "tag": "synonym",
+    "level": "B1"
+   },
+   {
+    "type": "mcq",
+    "q": "What is the opposite of \"patient\"?",
+    "options": [
+     "polite",
+     "quiet",
+     "impatient"
+    ],
+    "answer": 2,
+    "whyTr": "Patient'ın zıttı impatient.",
+    "tag": "antonym",
+    "level": "B1"
+   },
+   {
+    "type": "mcq",
+    "q": "Mr. Lee teaches music. His class is so noisy that the neighbors complain, but the children are such happy kids that he never gets angry. Despite the noise, he loves his job.\n\nWhy doesn't Mr. Lee get angry?",
+    "options": [
+     "The children are happy.",
+     "The class is quiet.",
+     "He does not love his job."
+    ],
+    "answer": 0,
+    "whyTr": "Metin: 'such happy kids that he never gets angry'.",
+    "tag": "reading",
+    "level": "B1"
+   },
+   {
+    "type": "mcq",
+    "q": "Last week, Maria struggled with her new class. She felt frustrated, but she stayed calm and asked another teacher for help. In spite of the difficult start, things improved.\n\nWhat did Maria do?",
+    "options": [
+     "She quit her job.",
+     "She asked a teacher for help.",
+     "She shouted at the children."
+    ],
+    "answer": 1,
+    "whyTr": "Metin: 'asked another teacher for help'.",
+    "tag": "reading",
+    "level": "B1"
+   }
+  ]
+ }
+}

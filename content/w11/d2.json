@@ -1,0 +1,793 @@
+{
+ "week": 11,
+ "day": 2,
+ "titleTr": "Okul kararları: sebep ve sonuç",
+ "theme": "work-school",
+ "morning": {
+  "grammar": {
+   "topic": "because of, therefore, as a result",
+   "explainTr": [
+    "'Because' arkasından tam cümle ister: because it rained. 'Because of' arkasından isim ister: because of the rain. İkisi de 'çünkü / yüzünden' anlamında, fark yapıdadır.",
+    "'Therefore' ve 'as a result' sonucu anlatır ve genellikle yeni bir cümlenin başında, virgülle gelir: It rained. Therefore, the trip was canceled.",
+    "'As a result of' + isim de olur: As a result of the storm, school closed. Yazıda ve resmi e-postalarda çok işe yarar."
+   ],
+   "compareTr": "Türkçede 'yüzünden / bu yüzden / sonuç olarak' farklı eklerle ve kelimelerle gelir. İngilizcede 'çünkü' için isim mi cümle mi geldiğine bakarsın: because + cümle, because of + isim. Sonuç için de cümle başında Therefore, / As a result, yazılır.",
+   "table": [
+    [
+     "because",
+     "+ özne + fiil",
+     "because it was cold"
+    ],
+    [
+     "because of",
+     "+ isim",
+     "because of the cold"
+    ],
+    [
+     "Therefore,",
+     "yeni cümle, sonuç",
+     "Therefore, we stayed inside."
+    ],
+    [
+     "As a result,",
+     "yeni cümle, sonuç",
+     "As a result, school closed."
+    ]
+   ],
+   "examples": [
+    {
+     "en": "The trip was canceled because of the rain.",
+     "tr": "Gezi yağmur yüzünden iptal edildi."
+    },
+    {
+     "en": "The trip was canceled because it rained.",
+     "tr": "Gezi yağmur yağdığı için iptal edildi."
+    },
+    {
+     "en": "It snowed all night. Therefore, school was closed.",
+     "tr": "Bütün gece kar yağdı. Bu yüzden okul kapandı."
+    },
+    {
+     "en": "There is a paper shortage. As a result, teachers make fewer copies.",
+     "tr": "Kağıt sıkıntısı var. Sonuç olarak öğretmenler daha az fotokopi çekiyor."
+    },
+    {
+     "en": "As a result of the storm, the roads are icy.",
+     "tr": "Fırtınanın sonucu olarak yollar buzlu."
+    }
+   ],
+   "exercises": [
+    {
+     "type": "mcq",
+     "q": "The field trip was canceled ___ the rain.",
+     "options": [
+      "because of",
+      "because",
+      "therefore"
+     ],
+     "answer": 0,
+     "whyTr": "Arkasında isim (the rain) var: because of.",
+     "tag": "linkers",
+     "level": "B1"
+    },
+    {
+     "type": "mcq",
+     "q": "The field trip was canceled ___ it rained all day.",
+     "options": [
+      "because of",
+      "because",
+      "as a result"
+     ],
+     "answer": 1,
+     "whyTr": "Arkasında cümle (it rained) var: because.",
+     "tag": "linkers",
+     "level": "B1"
+    },
+    {
+     "type": "mcq",
+     "q": "The roads were icy. ___, the buses stayed at school.",
+     "options": [
+      "Because of",
+      "Because",
+      "Therefore"
+     ],
+     "answer": 2,
+     "whyTr": "Sonucu anlatan yeni cümleyi 'Therefore,' ile başlatırız.",
+     "tag": "linkers",
+     "level": "B1"
+    },
+    {
+     "type": "mcq",
+     "q": "The school has no money for paper. ___, teachers will make fewer copies.",
+     "options": [
+      "As a result",
+      "Because",
+      "Despite"
+     ],
+     "answer": 0,
+     "whyTr": "Sonuç bildirmek için 'As a result,' kullanılır.",
+     "tag": "linkers",
+     "level": "B1"
+    },
+    {
+     "type": "order",
+     "promptTr": "Cümleyi sırala:",
+     "words": [
+      "Because",
+      "of",
+      "school",
+      "snow,",
+      "the",
+      "was",
+      "closed"
+     ],
+     "answer": "Because of the snow, school was closed",
+     "whyTr": "'Because of' + isim, virgül, sonra ana cümle.",
+     "tag": "linkers",
+     "level": "B1"
+    },
+    {
+     "type": "order",
+     "promptTr": "Cümleyi sırala:",
+     "words": [
+      "As",
+      "a",
+      "the",
+      "result",
+      "of",
+      "storm,",
+      "trip",
+      "the",
+      "was",
+      "postponed"
+     ],
+     "answer": "As a result of the storm, the trip was postponed",
+     "whyTr": "'As a result of' + isim ile de kullanılır.",
+     "tag": "linkers",
+     "level": "B1"
+    },
+    {
+     "type": "mcq",
+     "q": "Many students were absent ___ the flu.",
+     "options": [
+      "because",
+      "because of",
+      "so"
+     ],
+     "answer": 1,
+     "whyTr": "'The flu' bir isim; because of gerekir.",
+     "tag": "linkers",
+     "level": "B1"
+    },
+    {
+     "type": "mcq",
+     "q": "Which sentence is correct?",
+     "options": [
+      "The school closed because of the storm was strong.",
+      "The school closed because the storm.",
+      "The school closed because of the storm."
+     ],
+     "answer": 2,
+     "whyTr": "'Because of' + isim; 'because' + tam cümle.",
+     "tag": "linkers",
+     "level": "B1"
+    },
+    {
+     "type": "mcq",
+     "q": "It was ___ a cold day that the school closed.",
+     "options": [
+      "such",
+      "so",
+      "very"
+     ],
+     "answer": 0,
+     "whyTr": "Isim önünde 'such a': such a cold day.",
+     "tag": "linkers",
+     "level": "B1"
+    },
+    {
+     "type": "mcq",
+     "q": "The principal said that the trip ___ canceled.",
+     "options": [
+      "is",
+      "was",
+      "has been to"
+     ],
+     "answer": 1,
+     "whyTr": "Dolaylı anlatımda geriye kayma: is → was.",
+     "tag": "past-simple",
+     "level": "B1"
+    },
+    {
+     "type": "mcq",
+     "q": "The teacher told us ___ run in the hallway.",
+     "options": [
+      "don't",
+      "to not do",
+      "not to"
+     ],
+     "answer": 2,
+     "whyTr": "Dolaylı emirde 'told us not to + fiil' kullanılır.",
+     "tag": "imperatives",
+     "level": "B1"
+    },
+    {
+     "type": "fill",
+     "q": "It snowed a lot. ___, school was closed.",
+     "accept": [
+      "therefore",
+      "consequently"
+     ],
+     "hintTr": "bu yüzden (tek kelime)",
+     "whyTr": "'Therefore' sonuç bildirir.",
+     "tag": "linkers",
+     "level": "B1"
+    }
+   ]
+  },
+  "vocab": [
+   {
+    "id": "regulation",
+    "en": "regulation",
+    "tr": "yönetmelik",
+    "pos": "noun",
+    "example": "State regulations protect students.",
+    "exampleTr": "Eyalet yönetmelikleri öğrencileri korur.",
+    "syn": [
+     "rule"
+    ],
+    "ant": [],
+    "level": "B1"
+   },
+   {
+    "id": "budget",
+    "en": "budget",
+    "tr": "bütçe",
+    "pos": "noun",
+    "example": "The school has a small budget this year.",
+    "exampleTr": "Okulun bu yıl küçük bir bütçesi var.",
+    "syn": [],
+    "ant": [],
+    "level": "B1"
+   },
+   {
+    "id": "safety",
+    "en": "safety",
+    "tr": "güvenlik",
+    "pos": "noun",
+    "example": "Safety is the first rule on a field trip.",
+    "exampleTr": "Gezide ilk kural güvenliktir.",
+    "syn": [],
+    "ant": [
+     "danger"
+    ],
+    "level": "B1"
+   },
+   {
+    "id": "restrict",
+    "en": "restrict",
+    "tr": "kısıtlamak",
+    "pos": "verb",
+    "example": "The school restricts phone use in class.",
+    "exampleTr": "Okul sınıfta telefon kullanımını kısıtlıyor.",
+    "syn": [
+     "limit"
+    ],
+    "ant": [],
+    "level": "B1"
+   },
+   {
+    "id": "enforce",
+    "en": "enforce",
+    "tr": "uygulamak, yürütmek",
+    "pos": "verb",
+    "example": "Teachers must enforce the rules fairly.",
+    "exampleTr": "Öğretmenler kuralları adil uygulamalı.",
+    "syn": [],
+    "ant": [],
+    "level": "B1"
+   },
+   {
+    "id": "notify",
+    "en": "notify",
+    "tr": "haber vermek, bildirmek",
+    "pos": "verb",
+    "example": "The school will notify parents by email.",
+    "exampleTr": "Okul velilere e-postayla haber verecek.",
+    "syn": [
+     "inform"
+    ],
+    "ant": [],
+    "level": "B1"
+   },
+   {
+    "id": "reasonable",
+    "en": "reasonable",
+    "tr": "makul",
+    "pos": "adjective",
+    "example": "Her request sounded reasonable.",
+    "exampleTr": "İsteği makul geliyordu.",
+    "syn": [
+     "fair"
+    ],
+    "ant": [
+     "unreasonable"
+    ],
+    "level": "B1"
+   },
+   {
+    "id": "ban",
+    "en": "ban",
+    "tr": "yasaklamak; yasak",
+    "pos": "verb",
+    "example": "The school banned candy in the cafeteria.",
+    "exampleTr": "Okul kafeteryada şekeri yasakladı.",
+    "syn": [
+     "forbid"
+    ],
+    "ant": [
+     "allow"
+    ],
+    "level": "B1"
+   },
+   {
+    "id": "allow",
+    "en": "allow",
+    "tr": "izin vermek",
+    "pos": "verb",
+    "example": "The school does not allow phones in class.",
+    "exampleTr": "Okul sınıfta telefona izin vermiyor.",
+    "syn": [
+     "permit"
+    ],
+    "ant": [
+     "forbid"
+    ],
+    "level": "B1"
+   },
+   {
+    "id": "adopt",
+    "en": "adopt",
+    "tr": "benimsemek, kabul etmek",
+    "pos": "verb",
+    "example": "The district adopted a new schedule.",
+    "exampleTr": "Bölge yeni bir program benimsedi.",
+    "syn": [],
+    "ant": [],
+    "level": "B1"
+   },
+   {
+    "id": "reduce",
+    "en": "reduce",
+    "tr": "azaltmak",
+    "pos": "verb",
+    "example": "The school wants to reduce paper use.",
+    "exampleTr": "Okul kağıt kullanımını azaltmak istiyor.",
+    "syn": [
+     "decrease"
+    ],
+    "ant": [
+     "increase"
+    ],
+    "level": "B1"
+   },
+   {
+    "id": "increase",
+    "en": "increase",
+    "tr": "artırmak, artmak",
+    "pos": "verb",
+    "example": "Prices increase every year.",
+    "exampleTr": "Fiyatlar her yıl artıyor.",
+    "syn": [
+     "raise"
+    ],
+    "ant": [
+     "reduce"
+    ],
+    "level": "B1"
+   },
+   {
+    "id": "implement",
+    "en": "implement",
+    "tr": "uygulamaya koymak",
+    "pos": "verb",
+    "example": "They will implement the plan in September.",
+    "exampleTr": "Planı eylülde uygulamaya koyacaklar.",
+    "syn": [],
+    "ant": [],
+    "level": "B1"
+   },
+   {
+    "id": "shortage",
+    "en": "shortage",
+    "tr": "kıtlık, eksiklik",
+    "pos": "noun",
+    "example": "There is a shortage of substitute teachers.",
+    "exampleTr": "Vekil öğretmen sıkıntısı var.",
+    "syn": [
+     "lack"
+    ],
+    "ant": [],
+    "level": "B1"
+   },
+   {
+    "id": "limit",
+    "en": "limit",
+    "tr": "sınır; sınırlamak",
+    "pos": "noun",
+    "example": "There is a limit of twenty students per class.",
+    "exampleTr": "Sınıf başına yirmi öğrenci sınırı var.",
+    "syn": [],
+    "ant": [],
+    "level": "B1"
+   }
+  ],
+  "reading": {
+   "title": "A message from the principal",
+   "text": "Last Monday, Hafsa received an email from Lincoln Elementary. The principal, Ms. Rivera, announced several decisions for the new month.\n\nFirst, the zoo field trip is postponed until May because of the bad weather forecast. The roads are icy, and the district worries about safety. Therefore, all school buses will stay at school this week.\n\nSecond, the school board approved a new policy. Students must wear their ID cards in the hallway. As a result of this rule, visitors and substitute teachers will also need a badge from the front office. Hafsa thought the policy was reasonable because it protects the children.\n\nThird, there is a budget problem. The school has a shortage of paper and markers, so the principal decided to reduce the number of copies each teacher can make. She also wants to increase the number of parent volunteers. Some teachers were unhappy about the change, but Ms. Rivera explained her reasons clearly. \"We must use our money carefully,\" she wrote. \"Every decision has consequences.\"\n\nHafsa read the email twice. The writing was clear and easy to follow. She did not agree with everything, but she understood the reasons. Because of these changes, she decided to ask Mr. Brown about a volunteer badge the next day.",
+   "glossary": [
+    {
+     "en": "district",
+     "tr": "okul bölgesi"
+    },
+    {
+     "en": "school board",
+     "tr": "okul kurulu"
+    },
+    {
+     "en": "badge",
+     "tr": "yaka kartı"
+    },
+    {
+     "en": "reasonable",
+     "tr": "makul"
+    },
+    {
+     "en": "volunteer",
+     "tr": "gönüllü"
+    }
+   ],
+   "questions": [
+    {
+     "type": "mcq",
+     "q": "Why is the zoo trip postponed?",
+     "options": [
+      "The weather forecast is bad.",
+      "The zoo is closed.",
+      "The bus broke down."
+     ],
+     "answer": 0,
+     "whyTr": "Metin: 'postponed until May because of the bad weather forecast'.",
+     "tag": "reading",
+     "level": "B1"
+    },
+    {
+     "type": "mcq",
+     "q": "What will substitute teachers need?",
+     "options": [
+      "A new uniform",
+      "A parent's letter",
+      "A badge from the front office",
+      "A bus ticket"
+     ],
+     "answer": 2,
+     "whyTr": "Metin: 'visitors and substitute teachers will also need a badge'.",
+     "tag": "reading",
+     "level": "B1"
+    },
+    {
+     "type": "mcq",
+     "q": "What will the principal reduce?",
+     "options": [
+      "The number of students",
+      "The school day",
+      "The number of copies"
+     ],
+     "answer": 2,
+     "whyTr": "Metin: 'reduce the number of copies each teacher can make'.",
+     "tag": "reading",
+     "level": "B1"
+    },
+    {
+     "type": "mcq",
+     "q": "What did Hafsa decide to do?",
+     "options": [
+      "Ask Mr. Brown about a badge",
+      "Cancel her job",
+      "Write to the school board"
+     ],
+     "answer": 0,
+     "whyTr": "Son cümle: 'ask Mr. Brown about a volunteer badge'.",
+     "tag": "reading",
+     "level": "B1"
+    }
+   ]
+  }
+ },
+ "evening": {
+  "listening": {
+   "title": "At the front office",
+   "script": [
+    {
+     "speaker": "Mr. Brown",
+     "text": "Good morning, Hafsa. Did you read the principal's email?"
+    },
+    {
+     "speaker": "Hafsa",
+     "text": "Yes, I did. The field trip is postponed. Why exactly?"
+    },
+    {
+     "speaker": "Mr. Brown",
+     "text": "Because of the ice. The roads are dangerous, so the district canceled all buses."
+    },
+    {
+     "speaker": "Hafsa",
+     "text": "That makes sense. And the new badge rule?"
+    },
+    {
+     "speaker": "Mr. Brown",
+     "text": "The school board approved it last week. As a result, every visitor must sign in and wear a badge."
+    },
+    {
+     "speaker": "Hafsa",
+     "text": "Do substitute teachers need one too?"
+    },
+    {
+     "speaker": "Mr. Brown",
+     "text": "Yes. You need a photo, and you must show your ID. It takes five minutes."
+    },
+    {
+     "speaker": "Hafsa",
+     "text": "Is there a fee?"
+    },
+    {
+     "speaker": "Mr. Brown",
+     "text": "No, it is free. The school allows volunteers to get one too."
+    },
+    {
+     "speaker": "Hafsa",
+     "text": "Good. Because of the budget, I thought everything costs money now."
+    },
+    {
+     "speaker": "Mr. Brown",
+     "text": "Not this time! Come back on Thursday at nine, and I will have it ready."
+    },
+    {
+     "speaker": "Hafsa",
+     "text": "Thursday at nine. Thank you, Mr. Brown."
+    }
+   ],
+   "questions": [
+    {
+     "type": "mcq",
+     "q": "Why is the field trip postponed?",
+     "options": [
+      "Because of a test",
+      "Because of the ice",
+      "Because of a holiday"
+     ],
+     "answer": 1,
+     "whyTr": "Mr. Brown: 'Because of the ice.'",
+     "tag": "listening",
+     "level": "B1"
+    },
+    {
+     "type": "mcq",
+     "q": "What must every visitor do?",
+     "options": [
+      "Bring a gift",
+      "Call the principal",
+      "Sign in and wear a badge",
+      "Wait outside"
+     ],
+     "answer": 2,
+     "whyTr": "Mr. Brown: 'every visitor must sign in and wear a badge'.",
+     "tag": "listening",
+     "level": "B1"
+    },
+    {
+     "type": "mcq",
+     "q": "Is there a fee for the badge?",
+     "options": [
+      "No, it is free.",
+      "Yes, five dollars.",
+      "Yes, ten dollars."
+     ],
+     "answer": 0,
+     "whyTr": "Mr. Brown: 'No, it is free.'",
+     "tag": "listening",
+     "level": "B1"
+    },
+    {
+     "type": "mcq",
+     "q": "When should Hafsa come back?",
+     "options": [
+      "Monday at ten",
+      "Thursday at nine",
+      "Friday at nine"
+     ],
+     "answer": 1,
+     "whyTr": "Mr. Brown: 'Come back on Thursday at nine.'",
+     "tag": "listening",
+     "level": "B1"
+    }
+   ]
+  },
+  "writing": {
+   "promptTr": "Okulunda (veya iş yerinde) alınan bir kararı ve nedenlerini anlat. because of, therefore, as a result kullan (80-100 kelime).",
+   "promptEn": "Describe a decision at a school or workplace and its reasons. Use because of, therefore and as a result (80-100 words).",
+   "frames": [
+    "Because of ..., the school ...",
+    "The school has ... Therefore, ...",
+    "As a result, ...",
+    "I think this decision is ... because ..."
+   ],
+   "model": "Last week our school announced a new rule. Because of safety problems, students cannot leave the building during lunch. The principal said that some children left without permission. Therefore, the front office now checks every student at the door. As a result, the hallways are quieter and safer. Some parents are unhappy because of the change, but I think the policy is reasonable. It protects the children, and it costs nothing. I hope the school will approve a small outdoor play area soon, because children need fresh air during the day.",
+   "checklistTr": [
+    "'Because of' sonrasında isim kullandın mı, 'because' sonrasında cümle mi?",
+    "'Therefore,' veya 'As a result,' cümlenin başında ve virgüllü mü?",
+    "Bir neden ve bir sonuç net olarak yazıldı mı?",
+    "Cümleler büyük harfle başlıyor ve noktayla bitiyor mu?"
+   ],
+   "minWords": 70
+  },
+  "examSet": [
+   {
+    "type": "mcq",
+    "q": "We stayed home ___ the snow.",
+    "options": [
+     "because",
+     "therefore",
+     "because of"
+    ],
+    "answer": 2,
+    "whyTr": "Isim önünde 'because of'.",
+    "tag": "linkers",
+    "level": "B1"
+   },
+   {
+    "type": "mcq",
+    "q": "The bus was late. ___, we missed the assembly.",
+    "options": [
+     "As a result",
+     "Because",
+     "Despite"
+    ],
+    "answer": 0,
+    "whyTr": "Sonuç cümlesi 'As a result,' ile başlar.",
+    "tag": "linkers",
+    "level": "B1"
+   },
+   {
+    "type": "mcq",
+    "q": "She was late ___ the traffic was terrible.",
+    "options": [
+     "because of",
+     "because",
+     "therefore"
+    ],
+    "answer": 1,
+    "whyTr": "Arkasında cümle var: because.",
+    "tag": "linkers",
+    "level": "B1"
+   },
+   {
+    "type": "mcq",
+    "q": "The children were ___ excited that they could not sleep.",
+    "options": [
+     "such",
+     "too",
+     "so"
+    ],
+    "answer": 2,
+    "whyTr": "Sıfat önünde 'so ... that'.",
+    "tag": "linkers",
+    "level": "B1"
+   },
+   {
+    "type": "mcq",
+    "q": "The principal told the students ___ in the hallway.",
+    "options": [
+     "not to run",
+     "don't run",
+     "to not running"
+    ],
+    "answer": 0,
+    "whyTr": "Dolaylı emir: told + kişi + not to + fiil.",
+    "tag": "imperatives",
+    "level": "B1"
+   },
+   {
+    "type": "mcq",
+    "q": "Hafsa asked, \"Where is the office?\" → Hafsa asked me where the office ___.",
+    "options": [
+     "is",
+     "was",
+     "were"
+    ],
+    "answer": 1,
+    "whyTr": "Dolaylı soruda 'is' → 'was'.",
+    "tag": "question-form",
+    "level": "B1"
+   },
+   {
+    "type": "mcq",
+    "q": "The school board will ___ the new schedule next week.",
+    "options": [
+     "improve",
+     "reduce",
+     "approve"
+    ],
+    "answer": 2,
+    "whyTr": "Okul kurulu programı onaylar: approve.",
+    "tag": "vocab",
+    "level": "B1"
+   },
+   {
+    "type": "mcq",
+    "q": "The meeting is ___ until Friday because the principal is sick.",
+    "options": [
+     "postponed",
+     "required",
+     "allowed"
+    ],
+    "answer": 0,
+    "whyTr": "Ertelendi = postponed.",
+    "tag": "vocab",
+    "level": "B1"
+   },
+   {
+    "type": "mcq",
+    "q": "Which word is closest in meaning to \"postpone\"?",
+    "options": [
+     "cancel",
+     "delay",
+     "start"
+    ],
+    "answer": 1,
+    "whyTr": "Postpone ve delay eş anlamlıdır.",
+    "tag": "synonym",
+    "level": "B1"
+   },
+   {
+    "type": "mcq",
+    "q": "What is the opposite of \"increase\"?",
+    "options": [
+     "improve",
+     "announce",
+     "reduce"
+    ],
+    "answer": 2,
+    "whyTr": "Increase'in zıttı reduce.",
+    "tag": "antonym",
+    "level": "B1"
+   },
+   {
+    "type": "mcq",
+    "q": "There is a shortage of paper at our school. The teacher decided to reduce the number of copies. As a result, students share their worksheets.\n\nWhy do students share worksheets?",
+    "options": [
+     "There are fewer copies.",
+     "The teacher is sick.",
+     "The class is too big."
+    ],
+    "answer": 0,
+    "whyTr": "Metin: 'reduce the number of copies. As a result, students share'.",
+    "tag": "reading",
+    "level": "B1"
+   },
+   {
+    "type": "mcq",
+    "q": "Because of the storm, the school canceled the field trip. The teacher said that the trip would be postponed until spring.\n\nWhen will the trip probably happen?",
+    "options": [
+     "Tomorrow",
+     "In spring",
+     "Next week"
+    ],
+    "answer": 1,
+    "whyTr": "Metin: 'postponed until spring'.",
+    "tag": "reading",
+    "level": "B1"
+   }
+  ]
+ }
+}

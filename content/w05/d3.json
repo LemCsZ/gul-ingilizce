@@ -1,0 +1,812 @@
+{
+ "week": 5,
+ "day": 3,
+ "titleTr": "İş ve ev karşılaştırması: daha ... ve en ...",
+ "theme": "work-home",
+ "morning": {
+  "grammar": {
+   "topic": "Comparatives ve superlatives",
+   "explainTr": [
+    "İki şeyi karşılaştırırken sıfata -er ekler ve 'than' kullanırsın: cheap, cheaper than. Uzun sıfatlarda 'more' gelir: more expensive than. 'Daha' demek için hem -er hem more kullanma: 'more cheaper' yanlıştır.",
+    "Üç ya da daha fazla şey arasında 'en' demek için 'the + sıfat-est' veya 'the most + uzun sıfat' kullanılır: the cheapest, the most expensive.",
+    "-y ile biten sıfatlar -ier olur (busy, busier, the busiest). Düzensizler ezberlenir: good, better, the best; bad, worse, the worst."
+   ],
+   "compareTr": "Türkçede 'daha' ve 'en' ayrı kelimelerdir (daha ucuz, en ucuz). İngilizcede kısa sıfatın sonuna ek gelir: cheaper, the cheapest. 'Ondan' için 'than' kullanılır.",
+   "table": [
+    [
+     "Kısa sıfat",
+     "-er / the -est",
+     "cheap, cheaper, the cheapest"
+    ],
+    [
+     "-y ile biten",
+     "-ier / the -iest",
+     "busy, busier, the busiest"
+    ],
+    [
+     "Uzun sıfat",
+     "more / the most",
+     "more expensive, the most expensive"
+    ],
+    [
+     "Düzensiz (iyi)",
+     "good, better, the best",
+     "This is the best job."
+    ],
+    [
+     "Düzensiz (kötü)",
+     "bad, worse, the worst",
+     "It is worse than before."
+    ],
+    [
+     "Karşılaştırma",
+     "... than ...",
+     "Rent is higher than in Isparta."
+    ]
+   ],
+   "examples": [
+    {
+     "en": "The bus is cheaper than a taxi.",
+     "tr": "Otobüs taksiden daha ucuz."
+    },
+    {
+     "en": "This job is more interesting than my old job.",
+     "tr": "Bu iş eski işimden daha ilginç."
+    },
+    {
+     "en": "It is the busiest street in the city.",
+     "tr": "Şehrin en işlek caddesi bu."
+    },
+    {
+     "en": "Her English is better now.",
+     "tr": "İngilizcesi artık daha iyi."
+    },
+    {
+     "en": "Which one is the most expensive?",
+     "tr": "Hangisi en pahalı?"
+    }
+   ],
+   "exercises": [
+    {
+     "type": "mcq",
+     "q": "This apartment is ___ than my old one.",
+     "options": [
+      "cheaper",
+      "more cheap",
+      "more cheaper",
+      "cheap"
+     ],
+     "answer": 0,
+     "whyTr": "Kısa sıfat + -er + than: cheaper.",
+     "tag": "comparatives",
+     "level": "A2"
+    },
+    {
+     "type": "mcq",
+     "q": "The bus is ___ than the train.",
+     "options": [
+      "more slow",
+      "slower",
+      "slowest",
+      "slow"
+     ],
+     "answer": 1,
+     "whyTr": "İki şeyi karşılaştırırken -er + than.",
+     "tag": "comparatives",
+     "level": "A2"
+    },
+    {
+     "type": "order",
+     "promptTr": "Cümleyi sırala:",
+     "words": [
+      "easier",
+      "than",
+      "my",
+      "old",
+      "job.",
+      "My",
+      "new",
+      "job",
+      "is"
+     ],
+     "answer": "My new job is easier than my old job.",
+     "whyTr": "Özne + is + sıfat-er + than + gerisi.",
+     "tag": "comparatives",
+     "level": "A2"
+    },
+    {
+     "type": "mcq",
+     "q": "This is the ___ street in the city.",
+     "options": [
+      "busier",
+      "most busy",
+      "busiest",
+      "busyest"
+     ],
+     "answer": 2,
+     "whyTr": "-y ile biten sıfat: busy, busier, the busiest.",
+     "tag": "comparatives",
+     "level": "A2"
+    },
+    {
+     "type": "mcq",
+     "q": "Gas is ___ in Texas than in California.",
+     "options": [
+      "cheapest",
+      "more cheap",
+      "the cheaper",
+      "cheaper"
+     ],
+     "answer": 3,
+     "whyTr": "İki yer karşılaştırılıyor: cheaper than.",
+     "tag": "comparatives",
+     "level": "A2"
+    },
+    {
+     "type": "mcq",
+     "q": "This computer is ___ than that one.",
+     "options": [
+      "more expensive",
+      "expensiver",
+      "most expensive",
+      "more expensiver"
+     ],
+     "answer": 0,
+     "whyTr": "Uzun sıfat: more + sıfat + than.",
+     "tag": "comparatives",
+     "level": "A2"
+    },
+    {
+     "type": "order",
+     "promptTr": "Cümleyi sırala:",
+     "words": [
+      "teacher",
+      "in",
+      "the",
+      "school.",
+      "She",
+      "is",
+      "the",
+      "best"
+     ],
+     "answer": "She is the best teacher in the school.",
+     "whyTr": "En üstünlük: the + best.",
+     "tag": "comparatives",
+     "level": "A2"
+    },
+    {
+     "type": "mcq",
+     "q": "Emre is ___ than his friend.",
+     "options": [
+      "tallest",
+      "taller",
+      "the taller",
+      "more tall"
+     ],
+     "answer": 1,
+     "whyTr": "Kısa sıfat: tall, taller, the tallest.",
+     "tag": "comparatives",
+     "level": "A2"
+    },
+    {
+     "type": "mcq",
+     "q": "My English is ___ now. Last year it was worse.",
+     "options": [
+      "gooder",
+      "best",
+      "better",
+      "more good"
+     ],
+     "answer": 2,
+     "whyTr": "Düzensiz: good, better, the best.",
+     "tag": "comparatives",
+     "level": "A2"
+    },
+    {
+     "type": "mcq",
+     "q": "Math is ___ subject for me.",
+     "options": [
+      "more difficult",
+      "the difficultest",
+      "most difficulter",
+      "the most difficult"
+     ],
+     "answer": 3,
+     "whyTr": "Üç veya daha fazlası arasında en üstünlük: the most + uzun sıfat.",
+     "tag": "comparatives",
+     "level": "A2"
+    },
+    {
+     "type": "fill",
+     "q": "Is a bus cheaper ___ a taxi?",
+     "accept": [
+      "than"
+     ],
+     "hintTr": "-den daha",
+     "whyTr": "Karşılaştırmada 'than' kullanılır ('that' değil).",
+     "tag": "comparatives",
+     "level": "A2"
+    },
+    {
+     "type": "mcq",
+     "q": "I ___ the principal yet. I meet her tomorrow.",
+     "options": [
+      "haven't met",
+      "didn't meet",
+      "don't meet",
+      "not met"
+     ],
+     "answer": 0,
+     "whyTr": "'Yet' ile Present Perfect olumsuz: haven't met.",
+     "tag": "present-perfect",
+     "level": "A2"
+    }
+   ]
+  },
+  "vocab": [
+   {
+    "id": "expensive",
+    "en": "expensive",
+    "tr": "pahalı",
+    "pos": "adjective",
+    "example": "Rent is expensive in this city.",
+    "exampleTr": "Bu şehirde kira pahalı.",
+    "syn": [],
+    "ant": [
+     "cheap"
+    ],
+    "level": "A2"
+   },
+   {
+    "id": "cheap",
+    "en": "cheap",
+    "tr": "ucuz",
+    "pos": "adjective",
+    "example": "The bus is cheap.",
+    "exampleTr": "Otobüs ucuz.",
+    "syn": [],
+    "ant": [
+     "expensive"
+    ],
+    "level": "A2"
+   },
+   {
+    "id": "busy",
+    "en": "busy",
+    "tr": "meşgul, yoğun",
+    "pos": "adjective",
+    "example": "The office is busy in the morning.",
+    "exampleTr": "Ofis sabahları yoğun.",
+    "syn": [],
+    "ant": [],
+    "level": "A2"
+   },
+   {
+    "id": "easy",
+    "en": "easy",
+    "tr": "kolay",
+    "pos": "adjective",
+    "example": "This job is easy to learn.",
+    "exampleTr": "Bu işi öğrenmek kolay.",
+    "syn": [],
+    "ant": [
+     "difficult"
+    ],
+    "level": "A2"
+   },
+   {
+    "id": "difficult",
+    "en": "difficult",
+    "tr": "zor",
+    "pos": "adjective",
+    "example": "English grammar is difficult for me.",
+    "exampleTr": "İngilizce gramer benim için zor.",
+    "syn": [
+     "hard"
+    ],
+    "ant": [
+     "easy"
+    ],
+    "level": "A2"
+   },
+   {
+    "id": "salary",
+    "en": "salary",
+    "tr": "maaş",
+    "pos": "noun",
+    "example": "The salary is good.",
+    "exampleTr": "Maaş iyi.",
+    "syn": [
+     "pay"
+    ],
+    "ant": [],
+    "level": "A2"
+   },
+   {
+    "id": "hour",
+    "en": "hour",
+    "tr": "saat (süre)",
+    "pos": "noun",
+    "example": "I work eight hours a day.",
+    "exampleTr": "Günde sekiz saat çalışıyorum.",
+    "syn": [],
+    "ant": [],
+    "level": "A2"
+   },
+   {
+    "id": "rent",
+    "en": "rent",
+    "tr": "kira; kiralamak",
+    "pos": "noun",
+    "example": "The rent is a thousand dollars a month.",
+    "exampleTr": "Kira ayda bin dolar.",
+    "syn": [],
+    "ant": [],
+    "level": "A2"
+   },
+   {
+    "id": "traffic",
+    "en": "traffic",
+    "tr": "trafik",
+    "pos": "noun",
+    "example": "There is a lot of traffic in the morning.",
+    "exampleTr": "Sabahları çok trafik var.",
+    "syn": [],
+    "ant": [],
+    "level": "A2"
+   },
+   {
+    "id": "comfortable",
+    "en": "comfortable",
+    "tr": "rahat",
+    "pos": "adjective",
+    "example": "This chair is comfortable.",
+    "exampleTr": "Bu sandalye rahat.",
+    "syn": [],
+    "ant": [
+     "uncomfortable"
+    ],
+    "level": "A2"
+   },
+   {
+    "id": "convenient",
+    "en": "convenient",
+    "tr": "uygun, elverişli",
+    "pos": "adjective",
+    "example": "The school is convenient for us.",
+    "exampleTr": "Okul bizim için elverişli.",
+    "syn": [],
+    "ant": [],
+    "level": "A2"
+   },
+   {
+    "id": "safe",
+    "en": "safe",
+    "tr": "güvenli",
+    "pos": "adjective",
+    "example": "This neighborhood is safe.",
+    "exampleTr": "Bu mahalle güvenli.",
+    "syn": [],
+    "ant": [
+     "dangerous"
+    ],
+    "level": "A2"
+   },
+   {
+    "id": "modern",
+    "en": "modern",
+    "tr": "modern",
+    "pos": "adjective",
+    "example": "The new school is very modern.",
+    "exampleTr": "Yeni okul çok modern.",
+    "syn": [],
+    "ant": [],
+    "level": "A2"
+   },
+   {
+    "id": "crowded",
+    "en": "crowded",
+    "tr": "kalabalık",
+    "pos": "adjective",
+    "example": "The bus is crowded at five o'clock.",
+    "exampleTr": "Otobüs saat beşte kalabalık.",
+    "syn": [],
+    "ant": [],
+    "level": "A2"
+   },
+   {
+    "id": "cost",
+    "en": "cost",
+    "tr": "mal olmak; fiyat",
+    "pos": "verb",
+    "example": "How much does it cost?",
+    "exampleTr": "Ne kadar tutuyor?",
+    "syn": [
+     "price"
+    ],
+    "ant": [],
+    "level": "A2"
+   }
+  ],
+  "reading": {
+   "title": "Turkey or America?",
+   "text": "Hafsa and Linda are talking about life in the United States and life in Turkey.\n\n\"Is life here more expensive than in Isparta?\" Linda asks. \"Yes, it is,\" says Hafsa. \"Rent is much higher here. But salaries are better, too. My cousin in Isparta works longer hours and earns less.\"\n\n\"What about the traffic?\" Linda asks. Hafsa laughs. \"Isparta is smaller and quieter, so the traffic is lighter. Here the roads are bigger, but they are busier. The bus at five o'clock is the most crowded place in the city!\"\n\n\"Which do you like better?\" Linda asks. Hafsa thinks. \"My house in Isparta was more comfortable, but my new job here is more interesting. Emre says this is the best place for his future. I think he is right.\"",
+   "glossary": [
+    {
+     "en": "earn",
+     "tr": "kazanmak (para)"
+    },
+    {
+     "en": "light (traffic)",
+     "tr": "az, hafif (trafik)"
+    },
+    {
+     "en": "future",
+     "tr": "gelecek"
+    },
+    {
+     "en": "right",
+     "tr": "haklı, doğru"
+    }
+   ],
+   "questions": [
+    {
+     "type": "mcq",
+     "q": "What is more expensive in the United States?",
+     "options": [
+      "Food",
+      "Rent",
+      "The bus",
+      "School"
+     ],
+     "answer": 1,
+     "whyTr": "Metin: 'Rent is much higher here.'",
+     "tag": "reading",
+     "level": "A2"
+    },
+    {
+     "type": "mcq",
+     "q": "Who works longer hours and earns less?",
+     "options": [
+      "Hafsa",
+      "Linda",
+      "Hafsa's cousin in Isparta",
+      "Emre"
+     ],
+     "answer": 2,
+     "whyTr": "Metin: 'My cousin in Isparta works longer hours and earns less.'",
+     "tag": "reading",
+     "level": "A2"
+    },
+    {
+     "type": "mcq",
+     "q": "Which place is the most crowded?",
+     "options": [
+      "The school office",
+      "Isparta",
+      "The bank",
+      "The bus at five o'clock"
+     ],
+     "answer": 3,
+     "whyTr": "Metin: 'The bus at five o'clock is the most crowded place'.",
+     "tag": "reading",
+     "level": "A2"
+    },
+    {
+     "type": "mcq",
+     "q": "What does Hafsa say about her new job?",
+     "options": [
+      "It is more interesting.",
+      "It is easier.",
+      "It is more comfortable.",
+      "It is cheaper."
+     ],
+     "answer": 0,
+     "whyTr": "Metin: 'my new job here is more interesting'.",
+     "tag": "reading",
+     "level": "A2"
+    }
+   ]
+  }
+ },
+ "evening": {
+  "listening": {
+   "title": "Which job is better?",
+   "script": [
+    {
+     "speaker": "Emre",
+     "text": "Mom, which job is better, the school office or the library?"
+    },
+    {
+     "speaker": "Hafsa",
+     "text": "The library is quieter, but the school office is busier and more interesting."
+    },
+    {
+     "speaker": "Emre",
+     "text": "Is the salary higher at the school?"
+    },
+    {
+     "speaker": "Hafsa",
+     "text": "Yes, it is. It is five dollars more an hour."
+    },
+    {
+     "speaker": "Emre",
+     "text": "What about the hours?"
+    },
+    {
+     "speaker": "Hafsa",
+     "text": "The library is shorter. It closes at three. The school closes at four."
+    },
+    {
+     "speaker": "Emre",
+     "text": "And which one is more convenient?"
+    },
+    {
+     "speaker": "Hafsa",
+     "text": "The library is closer to our apartment. But the bus to the school is cheaper than a car."
+    },
+    {
+     "speaker": "Emre",
+     "text": "So the school is the better choice?"
+    },
+    {
+     "speaker": "Hafsa",
+     "text": "I think so. The people are friendlier, and I can learn more."
+    },
+    {
+     "speaker": "Emre",
+     "text": "Then take the school job. It is the best way to become a teacher."
+    },
+    {
+     "speaker": "Hafsa",
+     "text": "You are right, Emre. Thank you."
+    }
+   ],
+   "questions": [
+    {
+     "type": "mcq",
+     "q": "Which job is busier?",
+     "options": [
+      "The library",
+      "The school office",
+      "Both are the same",
+      "Neither"
+     ],
+     "answer": 1,
+     "whyTr": "Hafsa: 'the school office is busier'.",
+     "tag": "listening",
+     "level": "A2"
+    },
+    {
+     "type": "mcq",
+     "q": "How much more is the school salary?",
+     "options": [
+      "Ten dollars an hour",
+      "Five dollars a week",
+      "Five dollars an hour",
+      "One dollar an hour"
+     ],
+     "answer": 2,
+     "whyTr": "Hafsa: 'five dollars more an hour'.",
+     "tag": "listening",
+     "level": "A2"
+    },
+    {
+     "type": "mcq",
+     "q": "When does the library close?",
+     "options": [
+      "At four",
+      "At five",
+      "At noon",
+      "At three"
+     ],
+     "answer": 3,
+     "whyTr": "Hafsa: 'It closes at three.'",
+     "tag": "listening",
+     "level": "A2"
+    },
+    {
+     "type": "mcq",
+     "q": "What does Hafsa decide?",
+     "options": [
+      "To take the school job",
+      "To take the library job",
+      "To buy a car",
+      "To stay home"
+     ],
+     "answer": 0,
+     "whyTr": "Emre: 'take the school job'; Hafsa agrees.",
+     "tag": "listening",
+     "level": "A2"
+    }
+   ]
+  },
+  "writing": {
+   "promptTr": "İki yeri ya da iki işi karşılaştır (ör. Isparta ve Amerika). 4-5 cümle yaz.",
+   "promptEn": "Compare two places or two jobs. Write 4-5 sentences.",
+   "frames": [
+    "... is bigger / cheaper than ...",
+    "... is more ... than ...",
+    "The best ... is ...",
+    "I like ... better because ..."
+   ],
+   "model": "Isparta is smaller than my city here. Rent in America is more expensive than in Isparta. My new job is more interesting than my old job. The best part is the people.",
+   "checklistTr": [
+    "Kısa sıfatlara -er, uzun sıfatlara more eklendi mi?",
+    "'Than' kullandın mı (that değil)?",
+    "En az bir 'the best / the most' cümlen var mı?"
+   ],
+   "minWords": 30
+  },
+  "examSet": [
+   {
+    "type": "mcq",
+    "q": "Texas is ___ than Rhode Island.",
+    "options": [
+     "more big",
+     "bigger",
+     "biggest",
+     "big"
+    ],
+    "answer": 1,
+    "whyTr": "Kısa sıfat, çift ünsüz: big, bigger.",
+    "tag": "comparatives",
+    "level": "A2"
+   },
+   {
+    "type": "mcq",
+    "q": "This is the ___ road in town.",
+    "options": [
+     "busier",
+     "most busy",
+     "busiest",
+     "more busy"
+    ],
+    "answer": 2,
+    "whyTr": "En üstünlük: the busiest.",
+    "tag": "comparatives",
+    "level": "A2"
+   },
+   {
+    "type": "mcq",
+    "q": "My new phone is ___ than my old phone.",
+    "options": [
+     "more good",
+     "gooder",
+     "best",
+     "better"
+    ],
+    "answer": 3,
+    "whyTr": "Düzensiz: good, better, best.",
+    "tag": "comparatives",
+    "level": "A2"
+   },
+   {
+    "type": "mcq",
+    "q": "I have ___ been to Canada. It is on my list.",
+    "options": [
+     "never",
+     "already",
+     "yet",
+     "just"
+    ],
+    "answer": 0,
+    "whyTr": "Hiç gitmedi: never (Present Perfect).",
+    "tag": "present-perfect",
+    "level": "A2"
+   },
+   {
+    "type": "mcq",
+    "q": "Which word means almost the same as \"difficult\"?",
+    "options": [
+     "easy",
+     "hard",
+     "cheap",
+     "safe"
+    ],
+    "answer": 1,
+    "whyTr": "Difficult ve hard benzer anlamlı.",
+    "tag": "synonym",
+    "level": "A2"
+   },
+   {
+    "type": "mcq",
+    "q": "What is the opposite of \"expensive\"?",
+    "options": [
+     "busy",
+     "modern",
+     "cheap",
+     "crowded"
+    ],
+    "answer": 2,
+    "whyTr": "Expensive'in zıttı cheap.",
+    "tag": "antonym",
+    "level": "A2"
+   },
+   {
+    "type": "mcq",
+    "q": "The ___ at this school is good. I earn a lot.",
+    "options": [
+     "traffic",
+     "rent",
+     "hour",
+     "salary"
+    ],
+    "answer": 3,
+    "whyTr": "Maaş = salary.",
+    "tag": "vocab",
+    "level": "A2"
+   },
+   {
+    "type": "mcq",
+    "q": "The bus is ___ at five o'clock. There are no empty seats.",
+    "options": [
+     "crowded",
+     "safe",
+     "modern",
+     "cheap"
+    ],
+    "answer": 0,
+    "whyTr": "Boş yer yok: crowded (kalabalık).",
+    "tag": "vocab",
+    "level": "A2"
+   },
+   {
+    "type": "mcq",
+    "q": "Please ___ the report today. The deadline is tomorrow.",
+    "options": [
+     "finishes",
+     "finish",
+     "finishing",
+     "to finishing"
+    ],
+    "answer": 1,
+    "whyTr": "Please + yalın fiil (imperative).",
+    "tag": "imperatives",
+    "level": "A2"
+   },
+   {
+    "type": "mcq",
+    "q": "Hafsa ___ at the school office every day.",
+    "options": [
+     "work",
+     "is work",
+     "works",
+     "working"
+    ],
+    "answer": 2,
+    "whyTr": "Present Simple: she + works.",
+    "tag": "present-simple",
+    "level": "A2"
+   },
+   {
+    "type": "mcq",
+    "q": "Emre has a bike and a car. The car is more expensive than the bike. The bike is cheaper and easier to park.\n\nWhich is cheaper?",
+    "options": [
+     "The car",
+     "Both",
+     "Neither",
+     "The bike"
+    ],
+    "answer": 3,
+    "whyTr": "Metin: 'The bike is cheaper'.",
+    "tag": "reading",
+    "level": "A2"
+   },
+   {
+    "type": "mcq",
+    "q": "Linda's street is quiet and safe. Hafsa's street is busier, but it is closer to the school.\n\nWhose street is closer to the school?",
+    "options": [
+     "Hafsa's",
+     "Linda's",
+     "Both",
+     "Neither"
+    ],
+    "answer": 0,
+    "whyTr": "Metin: Hafsa's street is closer.",
+    "tag": "reading",
+    "level": "A2"
+   }
+  ]
+ }
+}

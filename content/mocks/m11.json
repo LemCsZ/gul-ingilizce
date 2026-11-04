@@ -1,0 +1,853 @@
+{
+ "titleTr": "11. hafta deneme sınavı",
+ "introTr": "B1 yolculuğunun son durağına yaklaştın. Bu denemede aktarma, bağlaçlar ve sınıf dili gibi konuların hepsi birlikte karşına çıkacak; bazı sorular biraz zor olabilir ve bu normal. Acele etmeden, kendi hızında çöz.",
+ "sections": [
+  {
+   "id": "grammar",
+   "titleTr": "Dil bilgisi",
+   "items": [
+    {
+     "type": "mcq",
+     "q": "If the bus had come on time, we ___ the beginning of the show.",
+     "options": [
+      "wouldn't have missed",
+      "wouldn't miss",
+      "won't have missed",
+      "hadn't missed"
+     ],
+     "answer": 0,
+     "whyTr": "Geçmişteki gerçek dışı durum: If + had V3, would have V3.",
+     "tag": "conditionals",
+     "level": "B2"
+    },
+    {
+     "type": "mcq",
+     "q": "Emre said, 'I will help you.' Emre said that he ___ me.",
+     "options": [
+      "will help",
+      "would help",
+      "helps",
+      "helped"
+     ],
+     "answer": 1,
+     "whyTr": "Aktarılan cümlede will, would olur.",
+     "tag": "reported-speech",
+     "level": "B1"
+    },
+    {
+     "type": "mcq",
+     "q": "The parent asked, 'Where is the nurse's office?' The parent asked ___.",
+     "options": [
+      "where was the nurse's office",
+      "where the nurse's office is?",
+      "where the nurse's office was",
+      "where is the nurse's office"
+     ],
+     "answer": 2,
+     "whyTr": "Aktarılan soruda düz cümle sırası ve zaman kayması.",
+     "tag": "reported-speech",
+     "level": "B1"
+    },
+    {
+     "type": "mcq",
+     "q": "'Do you have a hall pass?' The teacher asked me ___ a hall pass.",
+     "options": [
+      "do I have",
+      "that I had",
+      "if had I",
+      "if I had"
+     ],
+     "answer": 3,
+     "whyTr": "Evet/hayır sorusu aktarılırken if/whether + düz cümle sırası.",
+     "tag": "reported-speech",
+     "level": "B1"
+    },
+    {
+     "type": "mcq",
+     "q": "'Please open your books.' The teacher asked the students ___ their books.",
+     "options": [
+      "to open",
+      "open",
+      "opening",
+      "that open"
+     ],
+     "answer": 0,
+     "whyTr": "Rica aktarılırken asked + kişi + to + fiil.",
+     "tag": "reported-speech",
+     "level": "B1"
+    },
+    {
+     "type": "mcq",
+     "q": "'Don't run in the hallway.' The teacher told us ___ in the hallway.",
+     "options": [
+      "don't run",
+      "not to run",
+      "to not running",
+      "not run"
+     ],
+     "answer": 1,
+     "whyTr": "Olumsuz emir aktarılırken told + kişi + not to + fiil.",
+     "tag": "reported-speech",
+     "level": "B1"
+    },
+    {
+     "type": "mcq",
+     "q": "The classroom is ___ small for thirty students.",
+     "options": [
+      "enough",
+      "much",
+      "too",
+      "very"
+     ],
+     "answer": 2,
+     "whyTr": "Gereğinden fazla ve sorun yaratan durum için too kullanılır.",
+     "tag": "comparatives",
+     "level": "B1"
+    },
+    {
+     "type": "mcq",
+     "q": "This test is not as hard ___ the last one.",
+     "options": [
+      "than",
+      "like",
+      "that",
+      "as"
+     ],
+     "answer": 3,
+     "whyTr": "Not as ... as: kadar kalıbı.",
+     "tag": "comparatives",
+     "level": "B1"
+    },
+    {
+     "type": "mcq",
+     "q": "I wish I ___ more time to prepare.",
+     "options": [
+      "had",
+      "have",
+      "would have",
+      "will have"
+     ],
+     "answer": 0,
+     "whyTr": "Şimdiki pişmanlık/istek için wish + geçmiş zaman.",
+     "tag": "conditionals",
+     "level": "B2"
+    },
+    {
+     "type": "mcq",
+     "q": "Please ___ these worksheets to the students.",
+     "options": [
+      "hand in",
+      "hand out",
+      "hand up",
+      "hand on"
+     ],
+     "answer": 1,
+     "whyTr": "Hand out, dağıtmak demektir.",
+     "tag": "phrasal-verbs",
+     "level": "B1"
+    },
+    {
+     "type": "mcq",
+     "q": "Please ___ the markers after class.",
+     "options": [
+      "put on",
+      "put in",
+      "put away",
+      "put at"
+     ],
+     "answer": 2,
+     "whyTr": "Put away, yerine kaldırmak demektir.",
+     "tag": "phrasal-verbs",
+     "level": "B1"
+    },
+    {
+     "type": "mcq",
+     "q": "Could you ___ this form with your name and address?",
+     "options": [
+      "fill up",
+      "fill on",
+      "fill with",
+      "fill in"
+     ],
+     "answer": 3,
+     "whyTr": "Fill in a form, formu doldurmak demektir.",
+     "tag": "phrasal-verbs",
+     "level": "B1"
+    },
+    {
+     "type": "mcq",
+     "q": "I will ___ the class while Ms. Carter is at a meeting.",
+     "options": [
+      "look after",
+      "look for",
+      "look at",
+      "look like"
+     ],
+     "answer": 0,
+     "whyTr": "Look after, ilgilenmek, bakmak demektir.",
+     "tag": "phrasal-verbs",
+     "level": "B1"
+    },
+    {
+     "type": "mcq",
+     "q": "It was ___ a hot day that the students stayed inside.",
+     "options": [
+      "so",
+      "such",
+      "too",
+      "very"
+     ],
+     "answer": 1,
+     "whyTr": "Such + a + sıfat + isim; so + sıfat.",
+     "tag": "linkers",
+     "level": "B1"
+    },
+    {
+     "type": "mcq",
+     "q": "The test was ___ difficult that nobody finished.",
+     "options": [
+      "such",
+      "too",
+      "so",
+      "much"
+     ],
+     "answer": 2,
+     "whyTr": "So + sıfat + that: o kadar ... ki.",
+     "tag": "linkers",
+     "level": "B1"
+    },
+    {
+     "type": "mcq",
+     "q": "___ the rain, we had the field trip.",
+     "options": [
+      "Although",
+      "Because",
+      "However",
+      "Despite"
+     ],
+     "answer": 3,
+     "whyTr": "Despite + isim: -e rağmen. Although'dan sonra tam cümle gelir.",
+     "tag": "linkers",
+     "level": "B1"
+    },
+    {
+     "type": "mcq",
+     "q": "The bus was late. ___, we missed the first activity.",
+     "options": [
+      "As a result",
+      "Because of",
+      "Although",
+      "Despite"
+     ],
+     "answer": 0,
+     "whyTr": "As a result, ... sonuç bildirir.",
+     "tag": "linkers",
+     "level": "B1"
+    },
+    {
+     "type": "mcq",
+     "q": "We canceled the picnic ___ the storm.",
+     "options": [
+      "because",
+      "because of",
+      "although",
+      "despite"
+     ],
+     "answer": 1,
+     "whyTr": "Because of + isim; because + tam cümle.",
+     "tag": "linkers",
+     "level": "B1"
+    },
+    {
+     "type": "mcq",
+     "q": "You're a new teacher, ___?",
+     "options": [
+      "are you",
+      "don't you",
+      "aren't you",
+      "isn't you"
+     ],
+     "answer": 2,
+     "whyTr": "Olumlu cümlenin soru eki olumsuz olur: aren't you?",
+     "tag": "question-form",
+     "level": "B1"
+    },
+    {
+     "type": "mcq",
+     "q": "I missed the bus. I ___ left earlier.",
+     "options": [
+      "should",
+      "must have",
+      "had better",
+      "should have"
+     ],
+     "answer": 3,
+     "whyTr": "Geçmişteki pişmanlık: should have + V3.",
+     "tag": "modals",
+     "level": "B1"
+    }
+   ]
+  },
+  {
+   "id": "vocab",
+   "titleTr": "Kelime",
+   "items": [
+    {
+     "type": "mcq",
+     "q": "What is the opposite of 'polite'?",
+     "options": [
+      "rude",
+      "quiet",
+      "slow",
+      "shy"
+     ],
+     "answer": 0,
+     "whyTr": "Polite (kibar) kelimesinin zıttı rude (kaba).",
+     "tag": "antonym",
+     "level": "B1"
+    },
+    {
+     "type": "mcq",
+     "q": "'Parents often complain about too much homework.' Complain means:",
+     "options": [
+      "ask a question",
+      "say you are unhappy about something",
+      "agree with someone",
+      "give a gift"
+     ],
+     "answer": 1,
+     "whyTr": "Complain, şikâyet etmek demektir.",
+     "tag": "vocab",
+     "level": "B1"
+    },
+    {
+     "type": "mcq",
+     "q": "'Hafsa was disappointed with the schedule.' Disappointed means:",
+     "options": [
+      "very proud",
+      "afraid of the result",
+      "sad because something was not as good as hoped",
+      "angry at a friend"
+     ],
+     "answer": 2,
+     "whyTr": "Disappointed, hayal kırıklığına uğramış demektir.",
+     "tag": "vocab",
+     "level": "B1"
+    },
+    {
+     "type": "mcq",
+     "q": "Which word means the same as 'postpone'?",
+     "options": [
+      "cancel",
+      "repeat",
+      "finish",
+      "delay"
+     ],
+     "answer": 3,
+     "whyTr": "Postpone ve delay: ertelemek.",
+     "tag": "synonym",
+     "level": "B1"
+    },
+    {
+     "type": "mcq",
+     "q": "What is the opposite of 'accept'?",
+     "options": [
+      "refuse",
+      "allow",
+      "wait",
+      "arrive"
+     ],
+     "answer": 0,
+     "whyTr": "Accept (kabul etmek) kelimesinin zıttı refuse (reddetmek).",
+     "tag": "antonym",
+     "level": "B1"
+    },
+    {
+     "type": "mcq",
+     "q": "She made a good ___ in the meeting.",
+     "options": [
+      "idea",
+      "point",
+      "problem",
+      "step"
+     ],
+     "answer": 1,
+     "whyTr": "'Make a good point' haklı bir noktaya değinmek demektir.",
+     "tag": "collocations",
+     "level": "B1"
+    },
+    {
+     "type": "mcq",
+     "q": "'The students were distracted by the noise.' Distracted means:",
+     "options": [
+      "very quiet",
+      "very angry",
+      "unable to focus",
+      "ready to leave"
+     ],
+     "answer": 2,
+     "whyTr": "Distracted, dikkati dağılmış demektir.",
+     "tag": "vocab",
+     "level": "B1"
+    },
+    {
+     "type": "mcq",
+     "q": "'Substitutes should stay calm in difficult situations.' Calm means:",
+     "options": [
+      "very fast",
+      "a little tired",
+      "ready to argue",
+      "quiet and not worried"
+     ],
+     "answer": 3,
+     "whyTr": "Calm, sakin demektir.",
+     "tag": "vocab",
+     "level": "B1"
+    },
+    {
+     "type": "mcq",
+     "q": "Which word means the same as 'tidy'?",
+     "options": [
+      "neat",
+      "noisy",
+      "empty",
+      "useful"
+     ],
+     "answer": 0,
+     "whyTr": "Tidy ve neat: derli toplu.",
+     "tag": "synonym",
+     "level": "B1"
+    },
+    {
+     "type": "mcq",
+     "q": "'The principal will enforce the new rule.' Enforce means:",
+     "options": [
+      "change quickly",
+      "make sure people obey",
+      "forget about",
+      "explain slowly"
+     ],
+     "answer": 1,
+     "whyTr": "Enforce, bir kuralı uygulatmak demektir.",
+     "tag": "vocab",
+     "level": "B2"
+    },
+    {
+     "type": "mcq",
+     "q": "'Her explanation was clear and concise.' Concise means:",
+     "options": [
+      "long and detailed",
+      "difficult to hear",
+      "short but complete",
+      "very funny"
+     ],
+     "answer": 2,
+     "whyTr": "Concise, kısa ama eksiksiz demektir.",
+     "tag": "vocab",
+     "level": "B2"
+    },
+    {
+     "type": "mcq",
+     "q": "Which word means the same as 'enthusiastic'?",
+     "options": [
+      "bored",
+      "careful",
+      "confused",
+      "eager"
+     ],
+     "answer": 3,
+     "whyTr": "Enthusiastic ve eager: istekli.",
+     "tag": "synonym",
+     "level": "B2"
+    }
+   ]
+  },
+  {
+   "id": "reading",
+   "titleTr": "Okuma",
+   "passages": [
+    {
+     "title": "A difficult first day",
+     "level": "B1",
+     "text": "Hafsa's first day as a substitute was such a long day that she fell asleep on the couch at eight o'clock. The morning began well. Despite being nervous, she arrived early and read the sub plan carefully.\n\nBut the fifth graders were so noisy that she had to ask them three times to sit down. Because of a broken heater, the room was too cold, so the students wore their jackets. At lunch, a boy told her that he had lost his lunch money. Hafsa helped him look for it, and they found it under his desk.\n\nIn spite of the difficulties, Hafsa felt proud. At the end of the day, a girl asked her if she would come back tomorrow. Hafsa smiled and said she hoped so.",
+     "questions": [
+      {
+       "type": "mcq",
+       "q": "Why did Hafsa fall asleep early?",
+       "options": [
+        "It was a very long day.",
+        "She was sick.",
+        "She watched TV.",
+        "The couch was new."
+       ],
+       "answer": 0,
+       "whyTr": "Metinde: 'such a long day that she fell asleep'.",
+       "tag": "reading",
+       "level": "B1"
+      },
+      {
+       "type": "mcq",
+       "q": "Why did the students wear their jackets?",
+       "options": [
+        "They were going outside.",
+        "The heater was broken.",
+        "It was a school rule.",
+        "It was snowing."
+       ],
+       "answer": 1,
+       "whyTr": "Metinde: 'Because of a broken heater, the room was too cold'.",
+       "tag": "reading",
+       "level": "B1"
+      },
+      {
+       "type": "mcq",
+       "q": "What did the girl ask Hafsa at the end of the day?",
+       "options": [
+        "Whether she liked the school",
+        "Where the nurse's office was",
+        "Whether she would come back the next day",
+        "If she had lost her money"
+       ],
+       "answer": 2,
+       "whyTr": "Metinde: 'asked her if she would come back tomorrow'.",
+       "tag": "reading",
+       "level": "B1"
+      }
+     ]
+    },
+    {
+     "title": "A note from the teacher",
+     "level": "B1",
+     "text": "When Hafsa arrived in Room 14, she found this note on the desk.\n\n'Dear Substitute,\nThank you for looking after my class today. Please take attendance first. Then hand out the blue worksheets and ask the students to fill in their names. The class is friendly, but Jake is sometimes too talkative to focus, so please seat him near your desk. The students told me that they would like to watch a short video at the end if they finish early. After lunch, ask them to put away their books and start silent reading. Before you leave, please write a note about how the day went. If you have any problems, call Mr. Brown at extension 12.\nThanks, Ms. Carter'",
+     "questions": [
+      {
+       "type": "mcq",
+       "q": "What should Hafsa do first?",
+       "options": [
+        "Hand out the worksheets",
+        "Start silent reading",
+        "Call Mr. Brown",
+        "Take attendance"
+       ],
+       "answer": 3,
+       "whyTr": "Not: 'Please take attendance first.'",
+       "tag": "reading",
+       "level": "B1"
+      },
+      {
+       "type": "mcq",
+       "q": "Why should Hafsa seat Jake near her desk?",
+       "options": [
+        "He is too talkative to focus.",
+        "He is new.",
+        "He cannot see the board.",
+        "He is sick."
+       ],
+       "answer": 0,
+       "whyTr": "Not: 'Jake is sometimes too talkative to focus'.",
+       "tag": "reading",
+       "level": "B1"
+      },
+      {
+       "type": "mcq",
+       "q": "What would the students like to do if they finish early?",
+       "options": [
+        "Go outside",
+        "Watch a short video",
+        "Play a game",
+        "Read silently"
+       ],
+       "answer": 1,
+       "whyTr": "Not: 'they would like to watch a short video at the end if they finish early'.",
+       "tag": "reading",
+       "level": "B1"
+      },
+      {
+       "type": "mcq",
+       "q": "What should Hafsa do before she leaves?",
+       "options": [
+        "Clean the markers",
+        "Call the parents",
+        "Write a note about the day",
+        "Collect the blue worksheets"
+       ],
+       "answer": 2,
+       "whyTr": "Not: 'please write a note about how the day went'.",
+       "tag": "reading",
+       "level": "B1"
+      }
+     ]
+    },
+    {
+     "title": "New phone rule",
+     "level": "B2",
+     "text": "Dear families,\n\nStarting next month, students will not be allowed to use their phones during class. Dr. Lopez explained that phones had become a serious distraction. Many teachers have noticed that students participate less when their phones are nearby. Therefore, all phones must be kept in lockers from 8:30 until 3:00.\n\nParents who need to reach their children can call the front office. During a trial period last spring, test scores went up, and as a result, the school decided to make the rule permanent. Students who break the rule will receive a warning first. After the second warning, a parent will be called.\n\nThank you for your support.",
+     "questions": [
+      {
+       "type": "mcq",
+       "q": "What is the main purpose of the message?",
+       "options": [
+        "To ask parents to buy phones",
+        "To announce a school trip",
+        "To explain how to use lockers",
+        "To inform families about a new phone rule"
+       ],
+       "answer": 3,
+       "whyTr": "Mesaj yeni telefon kuralını duyuruyor.",
+       "tag": "reading",
+       "level": "B1"
+      },
+      {
+       "type": "mcq",
+       "q": "What happened during the trial period last spring?",
+       "options": [
+        "Test scores went up.",
+        "Students lost their phones.",
+        "Parents complained.",
+        "Teachers left the school."
+       ],
+       "answer": 0,
+       "whyTr": "Metinde: 'test scores went up'.",
+       "tag": "reading",
+       "level": "B1"
+      },
+      {
+       "type": "mcq",
+       "q": "What happens after a student's second warning?",
+       "options": [
+        "The phone is taken away forever.",
+        "A parent is called.",
+        "The student goes home.",
+        "The principal writes a letter."
+       ],
+       "answer": 1,
+       "whyTr": "Metinde: 'After the second warning, a parent will be called.'",
+       "tag": "reading",
+       "level": "B2"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "listening",
+   "titleTr": "Dinleme",
+   "passages": [
+    {
+     "title": "After the meeting",
+     "level": "B1",
+     "script": [
+      {
+       "speaker": "Linda",
+       "text": "How did your meeting go?"
+      },
+      {
+       "speaker": "Hafsa",
+       "text": "Very well. Dr. Lopez said that the school needs more substitutes this fall."
+      },
+      {
+       "speaker": "Linda",
+       "text": "Did she ask you to start soon?"
+      },
+      {
+       "speaker": "Hafsa",
+       "text": "She asked me whether I could start on Monday. And she told me not to worry about the paperwork. Mr. Brown will help."
+      },
+      {
+       "speaker": "Linda",
+       "text": "That's great! Did she say how much it pays?"
+      },
+      {
+       "speaker": "Hafsa",
+       "text": "She said it pays about a hundred dollars a day, but I'm still waiting for the contract."
+      }
+     ],
+     "questions": [
+      {
+       "type": "mcq",
+       "q": "What did Dr. Lopez say the school needs?",
+       "options": [
+        "A new principal",
+        "Better lunches",
+        "More substitutes",
+        "A bigger building"
+       ],
+       "answer": 2,
+       "whyTr": "Hafsa: 'the school needs more substitutes this fall'.",
+       "tag": "listening",
+       "level": "B1"
+      },
+      {
+       "type": "mcq",
+       "q": "What did Dr. Lopez ask Hafsa?",
+       "options": [
+        "Whether she had a car",
+        "Where she was born",
+        "If she liked children",
+        "Whether she could start on Monday"
+       ],
+       "answer": 3,
+       "whyTr": "Hafsa: 'She asked me whether I could start on Monday.'",
+       "tag": "listening",
+       "level": "B1"
+      },
+      {
+       "type": "mcq",
+       "q": "What did Dr. Lopez tell Hafsa not to worry about?",
+       "options": [
+        "The paperwork",
+        "The pay",
+        "The schedule",
+        "The students"
+       ],
+       "answer": 0,
+       "whyTr": "Hafsa: 'she told me not to worry about the paperwork'.",
+       "tag": "listening",
+       "level": "B1"
+      }
+     ]
+    },
+    {
+     "title": "In the teachers' lounge",
+     "level": "B1",
+     "script": [
+      {
+       "speaker": "Mr. Evans",
+       "text": "You're the new substitute, aren't you?"
+      },
+      {
+       "speaker": "Hafsa",
+       "text": "Yes, I am. I'm Hafsa. It's my first week."
+      },
+      {
+       "speaker": "Mr. Evans",
+       "text": "Nice to meet you. You haven't been in the lounge before, have you?"
+      },
+      {
+       "speaker": "Hafsa",
+       "text": "No, I haven't. It's very comfortable!"
+      },
+      {
+       "speaker": "Mr. Evans",
+       "text": "The coffee is free, by the way. And good luck with fifth grade. They are such an energetic class!"
+      },
+      {
+       "speaker": "Hafsa",
+       "text": "Thank you. I hope I'm ready."
+      }
+     ],
+     "questions": [
+      {
+       "type": "mcq",
+       "q": "How long has Hafsa been at the school?",
+       "options": [
+        "She just arrived today.",
+        "It is her first week.",
+        "About six months.",
+        "Two years."
+       ],
+       "answer": 1,
+       "whyTr": "Hafsa: 'It's my first week.'",
+       "tag": "listening",
+       "level": "B1"
+      },
+      {
+       "type": "mcq",
+       "q": "What is free in the lounge?",
+       "options": [
+        "Lunch",
+        "Tea",
+        "Coffee",
+        "Snacks"
+       ],
+       "answer": 2,
+       "whyTr": "Mr. Evans: 'The coffee is free'.",
+       "tag": "listening",
+       "level": "B1"
+      },
+      {
+       "type": "mcq",
+       "q": "How does Mr. Evans describe the fifth graders?",
+       "options": [
+        "Very quiet",
+        "Very serious",
+        "Very shy",
+        "Very energetic"
+       ],
+       "answer": 3,
+       "whyTr": "Mr. Evans: 'such an energetic class'.",
+       "tag": "listening",
+       "level": "B1"
+      }
+     ]
+    },
+    {
+     "title": "A small mistake",
+     "level": "B1",
+     "script": [
+      {
+       "speaker": "Hafsa",
+       "text": "I made a mistake today. I gave the students the wrong worksheet."
+      },
+      {
+       "speaker": "Linda",
+       "text": "Oh no. What happened?"
+      },
+      {
+       "speaker": "Hafsa",
+       "text": "I should have checked the sub plan again before I handed it out."
+      },
+      {
+       "speaker": "Linda",
+       "text": "Next time, arrive fifteen minutes earlier. And don't worry. Everyone makes mistakes."
+      }
+     ],
+     "questions": [
+      {
+       "type": "mcq",
+       "q": "What was Hafsa's mistake?",
+       "options": [
+        "She gave the students the wrong worksheet.",
+        "She was late for class.",
+        "She forgot the attendance list.",
+        "She lost the sub plan."
+       ],
+       "answer": 0,
+       "whyTr": "Hafsa: 'I gave the students the wrong worksheet.'",
+       "tag": "listening",
+       "level": "B1"
+      },
+      {
+       "type": "mcq",
+       "q": "What does Linda suggest?",
+       "options": [
+        "Calling Mr. Brown",
+        "Arriving fifteen minutes earlier",
+        "Quitting the job",
+        "Using a different plan"
+       ],
+       "answer": 1,
+       "whyTr": "Linda: 'arrive fifteen minutes earlier'.",
+       "tag": "listening",
+       "level": "B1"
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "writing": {
+  "promptTr": "Bir gün substitute teacher olarak çalıştın. Sınıfın öğretmenine kısa bir not yaz (80-120 kelime): gün nasıl geçti, kimler ne söyledi, bir sorun ve ne yaptın, yarın için bir öneri.",
+  "promptEn": "You worked as a substitute teacher today. Write a note to the regular teacher (80-120 words). Say how the day went, what a student told or asked you, one problem and what you did, and one suggestion.",
+  "minWords": 80,
+  "checklistTr": [
+   "Günü anlatırken geçmiş zaman kullandım mı?",
+   "Bir öğrencinin söylediğini aktardım mı (A student told me that ... / asked me if ...)?",
+   "Bir sebep-sonuç sözü kullandım mı (because of, as a result, despite)?",
+   "Bir phrasal verb kullandım mı (hand out, put away, look after)?",
+   "Bir öneri veya pişmanlık cümlesi yazdım mı (should have / next time)?",
+   "Selamlama ve kapanış var mı; cümleler büyük harfle başlıyor mu?"
+  ],
+  "model": "Dear Ms. Carter,\n\nThank you for letting me look after your class today. The day went well, despite a few problems. I handed out the blue worksheets, and the students filled in their names quickly. A boy told me that he had lost his pencil, so I lent him one. Because of the noise in the hallway, the class was distracted for ten minutes. As a result, we finished the reading activity a little late. I should have started the video earlier. Next time, I would suggest a shorter activity before lunch. The students put away their books nicely.\n\nSincerely,\nHafsa"
+ }
+}

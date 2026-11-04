@@ -1,0 +1,835 @@
+{
+ "week": 10,
+ "day": 4,
+ "titleTr": "Sınıf ortamı: çok küçük mü, yeterince büyük mü?",
+ "theme": "classroom",
+ "morning": {
+  "grammar": {
+   "topic": "too / enough, (not) as ... as",
+   "explainTr": [
+    "'Too' 'fazla' demektir ve olumsuz bir sonuç taşır: The room is too small. (Bu yüzden sorun var.) Yapısı: too + sıfat (+ to + fiil): too noisy to study.",
+    "'Enough' 'yeterince' demektir. Sıfattan sonra gelir: big enough, old enough. İsimden önce gelir: enough chairs, enough time.",
+    "Eşitlik için as + sıfat + as: Hafsa is as tall as Linda. Olumsuz: not as + sıfat + as, yani 'kadar ... değil': This room is not as big as that one."
+   ],
+   "compareTr": "Türkçede 'çok küçük' hem 'very' hem 'too' anlamına gelebilir. İngilizcede ayrıdır: very small = çok küçük (sadece bilgi), too small = fazla küçük (sorun var). Ayrıca Türkçe 'yeterince büyük' der; İngilizcede 'enough' sıfattan SONRA gelir: big enough.",
+   "table": [
+    [
+     "too + sıfat",
+     "fazla (sorun var)",
+     "too small, too noisy"
+    ],
+    [
+     "sıfat + enough",
+     "yeterince",
+     "big enough, old enough"
+    ],
+    [
+     "enough + isim",
+     "yeterli",
+     "enough chairs"
+    ],
+    [
+     "as + sıfat + as",
+     "kadar (eşit)",
+     "as tall as"
+    ],
+    [
+     "not as + sıfat + as",
+     "kadar değil",
+     "not as big as"
+    ]
+   ],
+   "examples": [
+    {
+     "en": "The room is too small for thirty students.",
+     "tr": "Oda otuz öğrenci için fazla küçük."
+    },
+    {
+     "en": "The chairs are not comfortable enough.",
+     "tr": "Sandalyeler yeterince rahat değil."
+    },
+    {
+     "en": "We don't have enough desks.",
+     "tr": "Yeterince sıramız yok."
+    },
+    {
+     "en": "This classroom is not as big as that one.",
+     "tr": "Bu sınıf şu kadar büyük değil."
+    }
+   ],
+   "exercises": [
+    {
+     "type": "mcq",
+     "q": "The classroom is ___ small for thirty students.",
+     "options": [
+      "enough",
+      "very",
+      "as",
+      "too"
+     ],
+     "answer": 3,
+     "whyTr": "'Too' = fazla, olumsuz sonuç verir: too small for thirty students.",
+     "tag": "comparatives",
+     "level": "B1"
+    },
+    {
+     "type": "mcq",
+     "q": "The desks are not big ___ for the tall students.",
+     "options": [
+      "enough",
+      "too",
+      "very",
+      "much"
+     ],
+     "answer": 0,
+     "whyTr": "Enough sıfattan sonra gelir: big enough.",
+     "tag": "comparatives",
+     "level": "B1"
+    },
+    {
+     "type": "mcq",
+     "q": "She isn't ___ to reach the top shelf.",
+     "options": [
+      "enough tall",
+      "tall enough",
+      "too tall",
+      "tall too"
+     ],
+     "answer": 1,
+     "whyTr": "Sıfat + enough: tall enough.",
+     "tag": "word-order",
+     "level": "B1"
+    },
+    {
+     "type": "mcq",
+     "q": "We don't have ___ chairs for everyone.",
+     "options": [
+      "too",
+      "much",
+      "enough",
+      "very"
+     ],
+     "answer": 2,
+     "whyTr": "Enough isimden önce gelir: enough chairs.",
+     "tag": "countable",
+     "level": "B1"
+    },
+    {
+     "type": "order",
+     "promptTr": "Cümleyi sırala:",
+     "words": [
+      "study",
+      "too",
+      "noisy",
+      "to",
+      "is",
+      "classroom",
+      "The"
+     ],
+     "answer": "The classroom is too noisy to study",
+     "whyTr": "Too + sıfat + to + fiil.",
+     "tag": "word-order",
+     "level": "B1"
+    },
+    {
+     "type": "order",
+     "promptTr": "Cümleyi sırala:",
+     "words": [
+      "everyone",
+      "for",
+      "The",
+      "enough",
+      "room",
+      "not",
+      "is",
+      "big"
+     ],
+     "answer": "The room is not big enough for everyone",
+     "whyTr": "Sıfat + enough + for.",
+     "tag": "word-order",
+     "level": "B1"
+    },
+    {
+     "type": "mcq",
+     "q": "\"Please be quiet.\" → The teacher asked the students ___ quiet.",
+     "options": [
+      "be",
+      "being",
+      "that be",
+      "to be"
+     ],
+     "answer": 3,
+     "whyTr": "Rica aktarımı: asked + kişi + to + fiil (önceki gün).",
+     "tag": "imperatives",
+     "level": "B1"
+    },
+    {
+     "type": "mcq",
+     "q": "Math is not as easy ___ reading for me.",
+     "options": [
+      "as",
+      "than",
+      "that",
+      "like"
+     ],
+     "answer": 0,
+     "whyTr": "Not as + sıfat + as.",
+     "tag": "comparatives",
+     "level": "B1"
+    },
+    {
+     "type": "mcq",
+     "q": "My son is as tall ___ his teacher now.",
+     "options": [
+      "than",
+      "as",
+      "like",
+      "that"
+     ],
+     "answer": 1,
+     "whyTr": "as + sıfat + as: eşitlik.",
+     "tag": "comparatives",
+     "level": "B1"
+    },
+    {
+     "type": "mcq",
+     "q": "This classroom is ___ than the old one.",
+     "options": [
+      "more big",
+      "biggest",
+      "bigger",
+      "as big"
+     ],
+     "answer": 2,
+     "whyTr": "Kısa sıfatta karşılaştırma: bigger than. (5. hafta konusu)",
+     "tag": "comparatives",
+     "level": "B1"
+    },
+    {
+     "type": "fill",
+     "q": "The box is ___ heavy to carry alone.",
+     "accept": [
+      "too"
+     ],
+     "hintTr": "fazla",
+     "whyTr": "Too + sıfat + to + fiil.",
+     "tag": "comparatives",
+     "level": "B1"
+    },
+    {
+     "type": "fill",
+     "q": "The room is big ___ for twenty-five students.",
+     "accept": [
+      "enough"
+     ],
+     "hintTr": "yeterince",
+     "whyTr": "Sıfat + enough.",
+     "tag": "comparatives",
+     "level": "B1"
+    }
+   ]
+  },
+  "vocab": [
+   {
+    "id": "crowded",
+    "en": "crowded",
+    "tr": "kalabalık",
+    "pos": "adjective",
+    "example": "The hallway is crowded at dismissal.",
+    "exampleTr": "Çıkış saatinde koridor kalabalık.",
+    "syn": [],
+    "ant": [
+     "empty"
+    ],
+    "level": "B1"
+   },
+   {
+    "id": "noisy",
+    "en": "noisy",
+    "tr": "gürültülü",
+    "pos": "adjective",
+    "example": "The lunchroom is very noisy at noon.",
+    "exampleTr": "Yemekhane öğlen çok gürültülü.",
+    "syn": [],
+    "ant": [
+     "quiet"
+    ],
+    "level": "B1"
+   },
+   {
+    "id": "spacious",
+    "en": "spacious",
+    "tr": "geniş, ferah",
+    "pos": "adjective",
+    "example": "The new library is bright and spacious.",
+    "exampleTr": "Yeni kütüphane aydınlık ve ferah.",
+    "syn": [
+     "roomy"
+    ],
+    "ant": [
+     "cramped"
+    ],
+    "level": "B1"
+   },
+   {
+    "id": "cramped",
+    "en": "cramped",
+    "tr": "dar, sıkış tıkış",
+    "pos": "adjective",
+    "example": "The old classroom was cramped.",
+    "exampleTr": "Eski sınıf sıkış tıkıştı.",
+    "syn": [],
+    "ant": [
+     "spacious"
+    ],
+    "level": "B1"
+   },
+   {
+    "id": "comfortable",
+    "en": "comfortable",
+    "tr": "rahat",
+    "pos": "adjective",
+    "example": "These chairs are not comfortable for children.",
+    "exampleTr": "Bu sandalyeler çocuklar için rahat değil.",
+    "syn": [],
+    "ant": [
+     "uncomfortable"
+    ],
+    "level": "B1"
+   },
+   {
+    "id": "narrow",
+    "en": "narrow",
+    "tr": "dar",
+    "pos": "adjective",
+    "example": "The aisle between the desks is too narrow.",
+    "exampleTr": "Sıralar arasındaki geçit çok dar.",
+    "syn": [],
+    "ant": [
+     "wide"
+    ],
+    "level": "B1"
+   },
+   {
+    "id": "heavy",
+    "en": "heavy",
+    "tr": "ağır",
+    "pos": "adjective",
+    "example": "The backpack is too heavy for a small child.",
+    "exampleTr": "Sırt çantası küçük bir çocuk için çok ağır.",
+    "syn": [],
+    "ant": [
+     "light"
+    ],
+    "level": "B1"
+   },
+   {
+    "id": "difficult",
+    "en": "difficult",
+    "tr": "zor",
+    "pos": "adjective",
+    "example": "The test was too difficult for some students.",
+    "exampleTr": "Sınav bazı öğrenciler için fazla zordu.",
+    "syn": [
+     "hard"
+    ],
+    "ant": [
+     "easy"
+    ],
+    "level": "B1"
+   },
+   {
+    "id": "easy",
+    "en": "easy",
+    "tr": "kolay",
+    "pos": "adjective",
+    "example": "The first question is easy.",
+    "exampleTr": "İlk soru kolay.",
+    "syn": [
+     "simple"
+    ],
+    "ant": [
+     "difficult"
+    ],
+    "level": "B1"
+   },
+   {
+    "id": "simple",
+    "en": "simple",
+    "tr": "basit, sade",
+    "pos": "adjective",
+    "example": "Please give simple instructions.",
+    "exampleTr": "Lütfen basit talimatlar ver.",
+    "syn": [
+     "easy"
+    ],
+    "ant": [
+     "complicated"
+    ],
+    "level": "B1"
+   },
+   {
+    "id": "tiny",
+    "en": "tiny",
+    "tr": "minik",
+    "pos": "adjective",
+    "example": "The kindergarten chairs are tiny.",
+    "exampleTr": "Anaokulu sandalyeleri minik.",
+    "syn": [
+     "very small"
+    ],
+    "ant": [
+     "huge"
+    ],
+    "level": "B1"
+   },
+   {
+    "id": "huge",
+    "en": "huge",
+    "tr": "kocaman",
+    "pos": "adjective",
+    "example": "The gym is huge, so it echoes.",
+    "exampleTr": "Spor salonu kocaman, o yüzden yankılanıyor.",
+    "syn": [
+     "enormous"
+    ],
+    "ant": [
+     "tiny"
+    ],
+    "level": "B1"
+   },
+   {
+    "id": "patient",
+    "en": "patient",
+    "tr": "sabırlı",
+    "pos": "adjective",
+    "example": "A good substitute is calm and patient.",
+    "exampleTr": "İyi bir vekil öğretmen sakin ve sabırlıdır.",
+    "syn": [],
+    "ant": [
+     "impatient"
+    ],
+    "level": "B1"
+   },
+   {
+    "id": "distracting",
+    "en": "distracting",
+    "tr": "dikkat dağıtıcı",
+    "pos": "adjective",
+    "example": "The noise from the hallway is distracting.",
+    "exampleTr": "Koridordan gelen gürültü dikkat dağıtıcı.",
+    "syn": [
+     "disturbing"
+    ],
+    "ant": [],
+    "level": "B1"
+   },
+   {
+    "id": "bright",
+    "en": "bright",
+    "tr": "aydınlık, parlak",
+    "pos": "adjective",
+    "example": "The room is bright because of the big windows.",
+    "exampleTr": "Büyük pencereler yüzünden oda aydınlık.",
+    "syn": [],
+    "ant": [
+     "dark"
+    ],
+    "level": "B1"
+   }
+  ],
+  "reading": {
+   "title": "A crowded classroom",
+   "text": "On Tuesday, Hafsa substituted in Mr. Walker's third-grade room. When she walked in, she stopped for a second. There were twenty-eight desks, and the room was too small for all of them. The aisles were so narrow that the children could not walk easily.\n\n\"This room is not as big as Ms. Park's room,\" Hafsa said to herself. \"It is too crowded.\"\n\nThe students were also quite noisy. The hallway was loud, and the voices in the room made it too hard to listen. A few children said that they could not hear her. Hafsa clapped her hands twice, as Mr. Walker's sub plan suggested. The class became quiet.\n\nDuring the first activity, Hafsa noticed another problem. Some desks were too close to the heater, so those students felt too warm. Others sat near the window, and the sun was too bright for them to read. They were not comfortable.\n\nAt lunch, Hafsa talked to Mr. Brown. \"The room is not big enough for twenty-eight students,\" she said. \"Could we move some desks to the hallway wall?\"\n\nMr. Brown smiled. \"That's a good idea. The principal has been asking for suggestions.\"\n\nAfter lunch, they moved four desks. The room was still not spacious, but it was much better. The students were calmer, and Hafsa was happier.",
+   "glossary": [
+    {
+     "en": "aisle",
+     "tr": "sıralar arası geçit"
+    },
+    {
+     "en": "heater",
+     "tr": "ısıtıcı"
+    },
+    {
+     "en": "clap",
+     "tr": "el çırpmak"
+    },
+    {
+     "en": "notice",
+     "tr": "fark etmek"
+    },
+    {
+     "en": "suggestion",
+     "tr": "öneri"
+    }
+   ],
+   "questions": [
+    {
+     "type": "mcq",
+     "q": "What was the main problem in Mr. Walker's room?",
+     "options": [
+      "It had too few students.",
+      "It was too cold.",
+      "It had no windows.",
+      "It was too small for all the desks."
+     ],
+     "answer": 3,
+     "whyTr": "Metin: 'the room was too small for all of them'.",
+     "tag": "reading",
+     "level": "B1"
+    },
+    {
+     "type": "mcq",
+     "q": "Why could some students not read well?",
+     "options": [
+      "The sun was too bright.",
+      "The room was too dark.",
+      "They had no books.",
+      "The desks were too tall."
+     ],
+     "answer": 0,
+     "whyTr": "Metin: 'the sun was too bright for them to read'.",
+     "tag": "reading",
+     "level": "B1"
+    },
+    {
+     "type": "mcq",
+     "q": "What did Hafsa suggest to Mr. Brown?",
+     "options": [
+      "Buy a bigger room",
+      "Move some desks to the wall",
+      "Send students home",
+      "Close the windows"
+     ],
+     "answer": 1,
+     "whyTr": "Metin: 'Could we move some desks to the hallway wall?'",
+     "tag": "reading",
+     "level": "B1"
+    },
+    {
+     "type": "mcq",
+     "q": "How was the room after the change?",
+     "options": [
+      "Perfect and huge",
+      "Worse than before",
+      "Not spacious, but better",
+      "Empty and quiet"
+     ],
+     "answer": 2,
+     "whyTr": "Metin: 'still not spacious, but it was much better'.",
+     "tag": "reading",
+     "level": "B1"
+    }
+   ]
+  }
+ },
+ "evening": {
+  "listening": {
+   "title": "Talking about the classroom",
+   "script": [
+    {
+     "speaker": "Mr. Brown",
+     "text": "Hafsa, how is Mr. Walker's room today?"
+    },
+    {
+     "speaker": "Hafsa",
+     "text": "It's better than yesterday, but it's still crowded."
+    },
+    {
+     "speaker": "Mr. Brown",
+     "text": "Is it too small for the class?"
+    },
+    {
+     "speaker": "Hafsa",
+     "text": "Yes. It isn't big enough for twenty-eight desks."
+    },
+    {
+     "speaker": "Mr. Brown",
+     "text": "What about the noise?"
+    },
+    {
+     "speaker": "Hafsa",
+     "text": "The hallway is too loud. The students can't hear me well."
+    },
+    {
+     "speaker": "Mr. Brown",
+     "text": "Maybe we can close the door during lessons."
+    },
+    {
+     "speaker": "Hafsa",
+     "text": "Good idea. Also, the chairs aren't as comfortable as the ones in Ms. Park's room."
+    },
+    {
+     "speaker": "Mr. Brown",
+     "text": "I know. Those chairs are quite old."
+    },
+    {
+     "speaker": "Hafsa",
+     "text": "And the heater is too hot for the children near it."
+    },
+    {
+     "speaker": "Mr. Brown",
+     "text": "I'll ask the custodian to check it."
+    },
+    {
+     "speaker": "Hafsa",
+     "text": "Thank you. I think the class will be happier."
+    },
+    {
+     "speaker": "Mr. Brown",
+     "text": "I think so too. You notice a lot, Hafsa."
+    },
+    {
+     "speaker": "Hafsa",
+     "text": "Thank you. I want to be a good teacher."
+    }
+   ],
+   "questions": [
+    {
+     "type": "mcq",
+     "q": "What is the problem with the room size?",
+     "options": [
+      "It is too big for the class.",
+      "It has no desks.",
+      "It is too dark.",
+      "It is not big enough for the desks."
+     ],
+     "answer": 3,
+     "whyTr": "Hafsa: 'It isn't big enough for twenty-eight desks.'",
+     "tag": "listening",
+     "level": "B1"
+    },
+    {
+     "type": "mcq",
+     "q": "Why can't the students hear Hafsa well?",
+     "options": [
+      "The hallway is too loud.",
+      "She speaks too quietly.",
+      "The heater is broken.",
+      "The door is locked."
+     ],
+     "answer": 0,
+     "whyTr": "Hafsa: 'The hallway is too loud.'",
+     "tag": "listening",
+     "level": "B1"
+    },
+    {
+     "type": "mcq",
+     "q": "How does Mr. Brown suggest solving the noise problem?",
+     "options": [
+      "Move to the gym",
+      "Close the door during lessons",
+      "Buy new chairs",
+      "Cancel class"
+     ],
+     "answer": 1,
+     "whyTr": "Mr. Brown: 'we can close the door during lessons'.",
+     "tag": "listening",
+     "level": "B1"
+    },
+    {
+     "type": "mcq",
+     "q": "Who will check the heater?",
+     "options": [
+      "Hafsa",
+      "The principal",
+      "The custodian",
+      "Ms. Park"
+     ],
+     "answer": 2,
+     "whyTr": "Mr. Brown: 'I'll ask the custodian to check it.'",
+     "tag": "listening",
+     "level": "B1"
+    }
+   ]
+  },
+  "writing": {
+   "promptTr": "Bir sınıfı anlat: neyi çok küçük/gürültülü, neyi yeterince büyük/rahat değil? too, enough ve (not) as ... as kullan.",
+   "promptEn": "Describe a classroom. Use too, enough and (not) as ... as.",
+   "frames": [
+    "The classroom is too ...",
+    "The desks are not ... enough.",
+    "It is not as ... as ...",
+    "I think we need ..."
+   ],
+   "model": "Dear Mr. Brown, I want to tell you about Mr. Walker's classroom. It is too small for twenty-eight desks, and the aisles are too narrow. The hallway is too noisy, so the students cannot listen well. The chairs are not as comfortable as the chairs in Ms. Park's room. The windows are big enough, but the sun is too bright in the afternoon. I think we need a bigger room or fewer desks. Thank you for your help. Best regards, Hafsa",
+   "checklistTr": [
+    "Too + sıfat, sıfat + enough sıralarını doğru kullandın mı?",
+    "En az bir 'not as ... as' cümlen var mı?",
+    "Enough isimden önce, sıfattan sonra mı?",
+    "Cümleler büyük harfle başlıyor ve noktayla bitiyor mu?"
+   ],
+   "minWords": 70
+  },
+  "examSet": [
+   {
+    "type": "mcq",
+    "q": "The coffee is ___ hot to drink. I will wait a few minutes.",
+    "options": [
+     "enough",
+     "as",
+     "very much",
+     "too"
+    ],
+    "answer": 3,
+    "whyTr": "Too + sıfat + to + fiil.",
+    "tag": "comparatives",
+    "level": "B1"
+   },
+   {
+    "type": "mcq",
+    "q": "Is the table big ___ for six people?",
+    "options": [
+     "enough",
+     "too",
+     "so",
+     "as"
+    ],
+    "answer": 0,
+    "whyTr": "Sıfat + enough.",
+    "tag": "comparatives",
+    "level": "B1"
+   },
+   {
+    "type": "mcq",
+    "q": "Hafsa's English is not as good ___ Emre's, but it is improving.",
+    "options": [
+     "than",
+     "as",
+     "like",
+     "that"
+    ],
+    "answer": 1,
+    "whyTr": "Not as ... as.",
+    "tag": "comparatives",
+    "level": "B1"
+   },
+   {
+    "type": "mcq",
+    "q": "\"Where is the gym?\" → The new student asked where the gym ___.",
+    "options": [
+     "is",
+     "was it",
+     "was",
+     "did"
+    ],
+    "answer": 2,
+    "whyTr": "Dolaylı soru (2. gün).",
+    "tag": "question-form",
+    "level": "B1"
+   },
+   {
+    "type": "mcq",
+    "q": "\"Please sit down.\" → She asked the boy ___ down.",
+    "options": [
+     "sit",
+     "sitting",
+     "that sit",
+     "to sit"
+    ],
+    "answer": 3,
+    "whyTr": "Rica aktarımı (3. gün).",
+    "tag": "imperatives",
+    "level": "B1"
+   },
+   {
+    "type": "mcq",
+    "q": "Mr. Brown said, \"I will help you.\" → He said that he ___ help me.",
+    "options": [
+     "would",
+     "will",
+     "is",
+     "did"
+    ],
+    "answer": 0,
+    "whyTr": "will → would (1. gün).",
+    "tag": "future",
+    "level": "B1"
+   },
+   {
+    "type": "mcq",
+    "q": "The new library is very big and bright. It is ___.",
+    "options": [
+     "cramped",
+     "spacious",
+     "tiny",
+     "narrow"
+    ],
+    "answer": 1,
+    "whyTr": "Geniş, ferah: spacious.",
+    "tag": "vocab",
+    "level": "B1"
+   },
+   {
+    "type": "mcq",
+    "q": "What is the opposite of \"cramped\"?",
+    "options": [
+     "noisy",
+     "heavy",
+     "spacious",
+     "difficult"
+    ],
+    "answer": 2,
+    "whyTr": "Cramped'in zıttı spacious.",
+    "tag": "antonym",
+    "level": "B1"
+   },
+   {
+    "type": "mcq",
+    "q": "Which word means almost the same as \"difficult\"?",
+    "options": [
+     "easy",
+     "simple",
+     "tiny",
+     "hard"
+    ],
+    "answer": 3,
+    "whyTr": "Difficult ve hard benzer anlamlı.",
+    "tag": "synonym",
+    "level": "B1"
+   },
+   {
+    "type": "mcq",
+    "q": "The hallway is ___ at 3:00 because every student leaves at the same time.",
+    "options": [
+     "crowded",
+     "patient",
+     "simple",
+     "bright"
+    ],
+    "answer": 0,
+    "whyTr": "Çok insan var: crowded.",
+    "tag": "vocab",
+    "level": "B1"
+   },
+   {
+    "type": "mcq",
+    "q": "The little girl cannot carry the backpack. It is too ___.",
+    "options": [
+     "bright",
+     "heavy",
+     "spacious",
+     "comfortable"
+    ],
+    "answer": 1,
+    "whyTr": "Taşınamayacak kadar ağır: heavy.",
+    "tag": "vocab",
+    "level": "B1"
+   },
+   {
+    "type": "mcq",
+    "q": "The classroom has twenty chairs. There are twenty-five students. Five students have no chairs.\n\nWhat is the problem?",
+    "options": [
+     "The chairs are too big.",
+     "There are too many tables.",
+     "There are not enough chairs.",
+     "The room is too bright."
+    ],
+    "answer": 2,
+    "whyTr": "Metin: 20 sandalye, 25 öğrenci: yeterince sandalye yok.",
+    "tag": "reading",
+    "level": "B1"
+   }
+  ]
+ }
+}

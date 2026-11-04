@@ -1,0 +1,804 @@
+{
+ "week": 5,
+ "day": 6,
+ "titleTr": "Hobiler ve iş tercihleri: like, want, because",
+ "theme": "hobbies-jobs",
+ "morning": {
+  "grammar": {
+   "topic": "like/love/hate + -ing; want / would like + to; because / so / but",
+   "explainTr": [
+    "Sevdiğin ya da sevmediğin şeyler için 'like / love / hate' + fiil-ing kullanılır: I like cooking. She hates running. Bu fiillerden sonra gelen fiil -ing alır.",
+    "İstek için 'want' ve 'would like' kullanılır; bunlardan sonra 'to + fiil' gelir: I want to be a teacher. I would like to have tea. 'Would like' daha kibardır.",
+    "Bağlaçlar cümleleri bağlar: because (çünkü, sebep), so (bu yüzden, sonuç), but (ama, zıtlık). I like my job because the people are kind."
+   ],
+   "compareTr": "Türkçede 'sevmek' ve 'istemek' fiillerinden önce fiil mastar hâlinde gelir (yemek yapmayı seviyorum / yapmak istiyorum). İngilizcede ise like + -ing, want + to + fiil ayrımı vardır; 'I want cooking' ya da 'I like to cooks' yanlıştır.",
+   "table": [
+    [
+     "like / love / hate",
+     "+ fiil-ing",
+     "I like cooking."
+    ],
+    [
+     "want",
+     "+ to + fiil",
+     "I want to teach."
+    ],
+    [
+     "would like",
+     "+ to + fiil",
+     "I would like to start."
+    ],
+    [
+     "because",
+     "sebep",
+     "I like it because it is fun."
+    ],
+    [
+     "so",
+     "sonuç",
+     "I was tired, so I rested."
+    ],
+    [
+     "but",
+     "zıtlık",
+     "I like tea, but I prefer coffee."
+    ]
+   ],
+   "examples": [
+    {
+     "en": "I like cooking and gardening.",
+     "tr": "Yemek yapmayı ve bahçıvanlığı severim."
+    },
+    {
+     "en": "She hates getting up early.",
+     "tr": "Erken kalkmaktan nefret eder."
+    },
+    {
+     "en": "I want to be a substitute teacher.",
+     "tr": "Vekil öğretmen olmak istiyorum."
+    },
+    {
+     "en": "I would like to work in a school.",
+     "tr": "Bir okulda çalışmak isterim."
+    },
+    {
+     "en": "I like my job because the people are kind.",
+     "tr": "İşimi seviyorum çünkü insanlar nazik."
+    }
+   ],
+   "exercises": [
+    {
+     "type": "mcq",
+     "q": "I like ___ in the garden.",
+     "options": [
+      "working",
+      "work",
+      "to works",
+      "worked"
+     ],
+     "answer": 0,
+     "whyTr": "like + -ing: working.",
+     "tag": "word-order",
+     "level": "A2"
+    },
+    {
+     "type": "mcq",
+     "q": "She loves ___ with children.",
+     "options": [
+      "work",
+      "working",
+      "works",
+      "worked"
+     ],
+     "answer": 1,
+     "whyTr": "Love + -ing: working.",
+     "tag": "word-order",
+     "level": "A2"
+    },
+    {
+     "type": "order",
+     "promptTr": "Cümleyi sırala:",
+     "words": [
+      "be",
+      "a",
+      "teacher.",
+      "I",
+      "want",
+      "to"
+     ],
+     "answer": "I want to be a teacher.",
+     "whyTr": "want + to + fiil.",
+     "tag": "word-order",
+     "level": "A2"
+    },
+    {
+     "type": "mcq",
+     "q": "I would like ___ a cup of tea.",
+     "options": [
+      "have",
+      "having",
+      "to have",
+      "to having"
+     ],
+     "answer": 2,
+     "whyTr": "Would like + to + fiil.",
+     "tag": "word-order",
+     "level": "A2"
+    },
+    {
+     "type": "mcq",
+     "q": "He hates ___ up early.",
+     "options": [
+      "get",
+      "to gets",
+      "got",
+      "getting"
+     ],
+     "answer": 3,
+     "whyTr": "Hate + -ing: getting.",
+     "tag": "word-order",
+     "level": "A2"
+    },
+    {
+     "type": "mcq",
+     "q": "I like the job ___ the salary is good.",
+     "options": [
+      "because",
+      "so",
+      "but",
+      "or"
+     ],
+     "answer": 0,
+     "whyTr": "Sebep bildirir: because.",
+     "tag": "linkers",
+     "level": "A2"
+    },
+    {
+     "type": "mcq",
+     "q": "The bus was late, ___ I walked to school.",
+     "options": [
+      "because",
+      "so",
+      "but",
+      "if"
+     ],
+     "answer": 1,
+     "whyTr": "Sonuç bildirir: so.",
+     "tag": "linkers",
+     "level": "A2"
+    },
+    {
+     "type": "mcq",
+     "q": "I like cooking, ___ I don't like washing dishes.",
+     "options": [
+      "so",
+      "because",
+      "but",
+      "and then"
+     ],
+     "answer": 2,
+     "whyTr": "Zıtlık bildirir: but.",
+     "tag": "linkers",
+     "level": "A2"
+    },
+    {
+     "type": "order",
+     "promptTr": "Cümleyi sırala:",
+     "words": [
+      "because",
+      "it",
+      "is",
+      "relaxing.",
+      "She",
+      "likes",
+      "painting"
+     ],
+     "answer": "She likes painting because it is relaxing.",
+     "whyTr": "Like + -ing; because + sebep.",
+     "tag": "linkers",
+     "level": "A2"
+    },
+    {
+     "type": "mcq",
+     "q": "Which sentence is correct?",
+     "options": [
+      "I would like work at a school.",
+      "I would like working at a school.",
+      "I would to like work at a school.",
+      "I would like to work at a school."
+     ],
+     "answer": 3,
+     "whyTr": "Would like + to + yalın fiil.",
+     "tag": "word-order",
+     "level": "A2"
+    },
+    {
+     "type": "fill",
+     "q": "Hafsa wants ___ be a substitute teacher.",
+     "accept": [
+      "to"
+     ],
+     "hintTr": "-mek/-mak",
+     "whyTr": "Want'tan sonra 'to + fiil' gelir.",
+     "tag": "word-order",
+     "level": "A2"
+    },
+    {
+     "type": "mcq",
+     "q": "You ___ drink more water. It is good for you.",
+     "options": [
+      "should",
+      "should to",
+      "shoulds",
+      "musts"
+     ],
+     "answer": 0,
+     "whyTr": "Tavsiye: should + yalın fiil.",
+     "tag": "modals",
+     "level": "A2"
+    }
+   ]
+  },
+  "vocab": [
+   {
+    "id": "hobby",
+    "en": "hobby",
+    "tr": "hobi",
+    "pos": "noun",
+    "example": "My hobby is gardening.",
+    "exampleTr": "Hobim bahçıvanlık.",
+    "syn": [
+     "pastime"
+    ],
+    "ant": [],
+    "level": "A2"
+   },
+   {
+    "id": "garden",
+    "en": "garden",
+    "tr": "bahçe; bahçe işi yapmak",
+    "pos": "noun",
+    "example": "I have a small garden behind the house.",
+    "exampleTr": "Evin arkasında küçük bir bahçem var.",
+    "syn": [],
+    "ant": [],
+    "level": "A2"
+   },
+   {
+    "id": "paint",
+    "en": "paint",
+    "tr": "boyamak; resim yapmak",
+    "pos": "verb",
+    "example": "She likes to paint flowers.",
+    "exampleTr": "Çiçek resmi yapmayı sever.",
+    "syn": [],
+    "ant": [],
+    "level": "A2"
+   },
+   {
+    "id": "dance",
+    "en": "dance",
+    "tr": "dans etmek",
+    "pos": "verb",
+    "example": "We dance at weddings.",
+    "exampleTr": "Düğünlerde dans ederiz.",
+    "syn": [],
+    "ant": [],
+    "level": "A2"
+   },
+   {
+    "id": "sew",
+    "en": "sew",
+    "tr": "dikmek",
+    "pos": "verb",
+    "example": "My grandmother taught me to sew.",
+    "exampleTr": "Büyükannem bana dikiş dikmeyi öğretti.",
+    "syn": [],
+    "ant": [],
+    "level": "A2"
+   },
+   {
+    "id": "bake",
+    "en": "bake",
+    "tr": "fırında pişirmek",
+    "pos": "verb",
+    "example": "I bake bread on Sundays.",
+    "exampleTr": "Pazar günleri ekmek pişiriyorum.",
+    "syn": [],
+    "ant": [],
+    "level": "A2"
+   },
+   {
+    "id": "hike",
+    "en": "hike",
+    "tr": "doğa yürüyüşü yapmak",
+    "pos": "verb",
+    "example": "We hike in the mountains in summer.",
+    "exampleTr": "Yazın dağlarda yürüyüş yaparız.",
+    "syn": [],
+    "ant": [],
+    "level": "A2"
+   },
+   {
+    "id": "prefer",
+    "en": "prefer",
+    "tr": "tercih etmek",
+    "pos": "verb",
+    "example": "I prefer tea to coffee.",
+    "exampleTr": "Çayı kahveye tercih ederim.",
+    "syn": [],
+    "ant": [],
+    "level": "A2"
+   },
+   {
+    "id": "enjoy",
+    "en": "enjoy",
+    "tr": "keyif almak, hoşlanmak",
+    "pos": "verb",
+    "example": "I enjoy reading in the evening.",
+    "exampleTr": "Akşamları okumaktan keyif alırım.",
+    "syn": [
+     "like"
+    ],
+    "ant": [],
+    "level": "A2"
+   },
+   {
+    "id": "favorite",
+    "en": "favorite",
+    "tr": "en sevilen",
+    "pos": "adjective",
+    "example": "My favorite subject is art.",
+    "exampleTr": "En sevdiğim ders resim.",
+    "syn": [],
+    "ant": [],
+    "level": "A2"
+   },
+   {
+    "id": "interest",
+    "en": "interest",
+    "tr": "ilgi; ilgi alanı",
+    "pos": "noun",
+    "example": "Music is a big interest of mine.",
+    "exampleTr": "Müzik benim büyük bir ilgi alanım.",
+    "syn": [],
+    "ant": [],
+    "level": "A2"
+   },
+   {
+    "id": "creative",
+    "en": "creative",
+    "tr": "yaratıcı",
+    "pos": "adjective",
+    "example": "She is a creative teacher.",
+    "exampleTr": "O yaratıcı bir öğretmen.",
+    "syn": [],
+    "ant": [],
+    "level": "A2"
+   },
+   {
+    "id": "patient",
+    "en": "patient",
+    "tr": "sabırlı",
+    "pos": "adjective",
+    "example": "A good teacher is patient.",
+    "exampleTr": "İyi bir öğretmen sabırlıdır.",
+    "syn": [],
+    "ant": [
+     "impatient"
+    ],
+    "level": "A2"
+   },
+   {
+    "id": "helpful",
+    "en": "helpful",
+    "tr": "yardımsever, faydalı",
+    "pos": "adjective",
+    "example": "Mr. Brown is very helpful.",
+    "exampleTr": "Mr. Brown çok yardımsever.",
+    "syn": [
+     "useful"
+    ],
+    "ant": [],
+    "level": "A2"
+   },
+   {
+    "id": "choose",
+    "en": "choose",
+    "tr": "seçmek",
+    "pos": "verb",
+    "example": "You can choose a book.",
+    "exampleTr": "Bir kitap seçebilirsin.",
+    "syn": [
+     "select"
+    ],
+    "ant": [],
+    "level": "A2"
+   }
+  ],
+  "reading": {
+   "title": "What do you like doing?",
+   "text": "At lunch, Hafsa talks with a new friend, Ms. Reed, a music teacher.\n\n\"What do you like doing in your free time?\" Ms. Reed asks. \"I love baking and gardening,\" says Hafsa. \"I also like walking in the park, but I don't like running.\" Ms. Reed laughs. \"I hate running, too! I prefer dancing.\"\n\n\"Why do you want to be a substitute teacher?\" Ms. Reed asks. \"Because I enjoy working with children,\" Hafsa says. \"I am patient, and I like helping them learn. I would like to start next month, but I am still studying English, so I have to practice more.\" \"That is a good plan,\" says Ms. Reed. \"I can help you. You can visit my music class, and we can talk.\"\n\nHafsa is very happy. She wants to go to the class on Monday.",
+   "glossary": [
+    {
+     "en": "free time",
+     "tr": "boş zaman"
+    },
+    {
+     "en": "still",
+     "tr": "hâlâ"
+    },
+    {
+     "en": "plan",
+     "tr": "plan"
+    },
+    {
+     "en": "music class",
+     "tr": "müzik dersi"
+    }
+   ],
+   "questions": [
+    {
+     "type": "mcq",
+     "q": "What does Hafsa love doing?",
+     "options": [
+      "Running and dancing",
+      "Baking and gardening",
+      "Painting and singing",
+      "Hiking and sewing"
+     ],
+     "answer": 1,
+     "whyTr": "Metin: 'I love baking and gardening'.",
+     "tag": "reading",
+     "level": "A2"
+    },
+    {
+     "type": "mcq",
+     "q": "What does Ms. Reed prefer?",
+     "options": [
+      "Running",
+      "Baking",
+      "Dancing",
+      "Gardening"
+     ],
+     "answer": 2,
+     "whyTr": "Metin: 'I prefer dancing.'",
+     "tag": "reading",
+     "level": "A2"
+    },
+    {
+     "type": "mcq",
+     "q": "Why does Hafsa want to be a substitute teacher?",
+     "options": [
+      "She likes running.",
+      "The salary is high.",
+      "She hates her old job.",
+      "She enjoys working with children."
+     ],
+     "answer": 3,
+     "whyTr": "Metin: 'Because I enjoy working with children'.",
+     "tag": "reading",
+     "level": "A2"
+    },
+    {
+     "type": "mcq",
+     "q": "What can Hafsa do next?",
+     "options": [
+      "Visit Ms. Reed's music class",
+      "Start work today",
+      "Teach a dance class",
+      "Go to Turkey"
+     ],
+     "answer": 0,
+     "whyTr": "Metin: 'You can visit my music class'.",
+     "tag": "reading",
+     "level": "A2"
+    }
+   ]
+  }
+ },
+ "evening": {
+  "listening": {
+   "title": "Free time and work",
+   "script": [
+    {
+     "speaker": "Linda",
+     "text": "Hafsa, what do you like doing on weekends?"
+    },
+    {
+     "speaker": "Hafsa",
+     "text": "I like cooking and walking in the park. What about you?"
+    },
+    {
+     "speaker": "Linda",
+     "text": "I love painting, but I hate cleaning the house."
+    },
+    {
+     "speaker": "Hafsa",
+     "text": "I know! I don't like cleaning, either."
+    },
+    {
+     "speaker": "Linda",
+     "text": "Do you like your new job at the school?"
+    },
+    {
+     "speaker": "Hafsa",
+     "text": "Yes, I do. I like working with people, so I enjoy the front office."
+    },
+    {
+     "speaker": "Linda",
+     "text": "Would you like to work in a classroom some day?"
+    },
+    {
+     "speaker": "Hafsa",
+     "text": "Yes, I would. I want to be a substitute teacher."
+    },
+    {
+     "speaker": "Linda",
+     "text": "That is a great plan. Are you nervous?"
+    },
+    {
+     "speaker": "Hafsa",
+     "text": "A little, because my English is not perfect."
+    },
+    {
+     "speaker": "Linda",
+     "text": "But you are patient, so you will be a good teacher."
+    },
+    {
+     "speaker": "Hafsa",
+     "text": "Thank you, Linda. Would you like to come for tea on Sunday?"
+    },
+    {
+     "speaker": "Linda",
+     "text": "I would love to! I can bring a cake."
+    }
+   ],
+   "questions": [
+    {
+     "type": "mcq",
+     "q": "What does Linda hate doing?",
+     "options": [
+      "Painting",
+      "Cleaning the house",
+      "Walking",
+      "Cooking"
+     ],
+     "answer": 1,
+     "whyTr": "Linda: 'I hate cleaning the house.'",
+     "tag": "listening",
+     "level": "A2"
+    },
+    {
+     "type": "mcq",
+     "q": "Why does Hafsa like her job at the school?",
+     "options": [
+      "She likes cleaning.",
+      "The pay is high.",
+      "She likes working with people.",
+      "It is near her house."
+     ],
+     "answer": 2,
+     "whyTr": "Hafsa: 'I like working with people'.",
+     "tag": "listening",
+     "level": "A2"
+    },
+    {
+     "type": "mcq",
+     "q": "Why is Hafsa a little nervous?",
+     "options": [
+      "She is sick.",
+      "She hates children.",
+      "She has no job.",
+      "Her English is not perfect."
+     ],
+     "answer": 3,
+     "whyTr": "Hafsa: 'because my English is not perfect'.",
+     "tag": "listening",
+     "level": "A2"
+    },
+    {
+     "type": "mcq",
+     "q": "What does Linda want to bring on Sunday?",
+     "options": [
+      "A cake",
+      "Tea",
+      "A book",
+      "Flowers"
+     ],
+     "answer": 0,
+     "whyTr": "Linda: 'I can bring a cake.'",
+     "tag": "listening",
+     "level": "A2"
+    }
+   ]
+  },
+  "writing": {
+   "promptTr": "Sevdiğin ve sevmediğin 2 şeyi, ve neden öğretmen olmak istediğini yaz (4-5 cümle).",
+   "promptEn": "Write about two things you like, one thing you don't like, and why you want to work in a school.",
+   "frames": [
+    "I like ... -ing.",
+    "I don't like ... -ing, but ...",
+    "I want to ... because ...",
+    "I would like to ..."
+   ],
+   "model": "I like cooking and walking. I don't like running, but I like gardening. I want to work in a school because I enjoy helping children. I would like to be a substitute teacher.",
+   "checklistTr": [
+    "Like/love/hate'ten sonra -ing var mı?",
+    "Want / would like'tan sonra to + fiil var mı?",
+    "Because, so, but bağlaçlarını doğru yerde kullandın mı?"
+   ],
+   "minWords": 30
+  },
+  "examSet": [
+   {
+    "type": "mcq",
+    "q": "I enjoy ___ with children.",
+    "options": [
+     "work",
+     "working",
+     "to works",
+     "worked"
+    ],
+    "answer": 1,
+    "whyTr": "Enjoy + -ing.",
+    "tag": "word-order",
+    "level": "A2"
+   },
+   {
+    "type": "mcq",
+    "q": "She would like ___ a teacher.",
+    "options": [
+     "be",
+     "being",
+     "to be",
+     "to being"
+    ],
+    "answer": 2,
+    "whyTr": "Would like + to + fiil.",
+    "tag": "word-order",
+    "level": "A2"
+   },
+   {
+    "type": "mcq",
+    "q": "I like my job ___ the people are friendly.",
+    "options": [
+     "so",
+     "but",
+     "or",
+     "because"
+    ],
+    "answer": 3,
+    "whyTr": "Sebep: because.",
+    "tag": "linkers",
+    "level": "A2"
+   },
+   {
+    "type": "mcq",
+    "q": "It was raining, ___ we stayed home.",
+    "options": [
+     "so",
+     "because",
+     "but",
+     "or"
+    ],
+    "answer": 0,
+    "whyTr": "Sonuç: so.",
+    "tag": "linkers",
+    "level": "A2"
+   },
+   {
+    "type": "mcq",
+    "q": "She is very tired, ___ she wants to work more.",
+    "options": [
+     "so",
+     "but",
+     "because",
+     "if"
+    ],
+    "answer": 1,
+    "whyTr": "Zıtlık: but.",
+    "tag": "linkers",
+    "level": "A2"
+   },
+   {
+    "type": "mcq",
+    "q": "Which word means almost the same as \"enjoy\"?",
+    "options": [
+     "hate",
+     "choose",
+     "like",
+     "forget"
+    ],
+    "answer": 2,
+    "whyTr": "Enjoy ve like benzer anlamlı.",
+    "tag": "synonym",
+    "level": "A2"
+   },
+   {
+    "type": "mcq",
+    "q": "What is the opposite of \"patient\"?",
+    "options": [
+     "creative",
+     "helpful",
+     "favorite",
+     "impatient"
+    ],
+    "answer": 3,
+    "whyTr": "Patient'ın zıttı impatient.",
+    "tag": "antonym",
+    "level": "A2"
+   },
+   {
+    "type": "mcq",
+    "q": "My ___ is painting. I paint every weekend.",
+    "options": [
+     "hobby",
+     "rent",
+     "shift",
+     "badge"
+    ],
+    "answer": 0,
+    "whyTr": "Hobi = hobby.",
+    "tag": "vocab",
+    "level": "A2"
+   },
+   {
+    "type": "mcq",
+    "q": "A good teacher is kind and ___. She never gets angry quickly.",
+    "options": [
+     "modern",
+     "patient",
+     "crowded",
+     "cheap"
+    ],
+    "answer": 1,
+    "whyTr": "Sabırlı = patient.",
+    "tag": "vocab",
+    "level": "A2"
+   },
+   {
+    "type": "mcq",
+    "q": "You ___ wear a badge at work. It is a rule.",
+    "options": [
+     "has to",
+     "are have to",
+     "have to",
+     "must to"
+    ],
+    "answer": 2,
+    "whyTr": "Kural: have to + yalın fiil.",
+    "tag": "modals",
+    "level": "A2"
+   },
+   {
+    "type": "mcq",
+    "q": "Rita likes baking and painting. She doesn't like running. Her favorite hobby is baking because she can share the food with her friends.\n\nWhy does Rita like baking?",
+    "options": [
+     "It is cheap.",
+     "It is easy.",
+     "It is a sport.",
+     "She can share the food."
+    ],
+    "answer": 3,
+    "whyTr": "Metin: 'because she can share the food'.",
+    "tag": "reading",
+    "level": "A2"
+   },
+   {
+    "type": "mcq",
+    "q": "Tom hates getting up early, but he works the early shift. He would like to change shifts next month.\n\nWhat would Tom like to do?",
+    "options": [
+     "Change shifts",
+     "Get up earlier",
+     "Quit his job",
+     "Work more hours"
+    ],
+    "answer": 0,
+    "whyTr": "Metin: 'He would like to change shifts'.",
+    "tag": "reading",
+    "level": "A2"
+   }
+  ]
+ }
+}

@@ -1,0 +1,810 @@
+{
+ "week": 7,
+ "day": 5,
+ "titleTr": "Mülakat tavsiyesi: should, ought to, had better",
+ "theme": "interview-advice",
+ "morning": {
+  "grammar": {
+   "topic": "should / ought to / had better",
+   "explainTr": [
+    "'Should' ve 'ought to' tavsiye verir: 'bence bu iyi bir fikir.' You should research the school. İkisi de aynı anlamdadır; 'should' günlük konuşmada daha yaygındır. Olumsuzu shouldn't (ought not to).",
+    "'Had better' daha güçlüdür: yapmazsan kötü bir sonuç olabilir. You had better arrive early. (Yoksa geç kalırsın.) Biçim olarak had better + yalın fiil; 'to' yoktur. Olumsuzu: had better not.",
+    "Üçünden sonra da yalın fiil gelir: should go, ought to go, had better go. Konuşmada 'had better' genelde 'd better diye kısaltılır: You'd better hurry."
+   ],
+   "compareTr": "Türkçede tavsiye '-meli/-malı' ile verilir: gitmelisin, hazırlanmalısın. İngilizcede should (veya ought to) kullanırsın. 'Had better' ise 'gitsen iyi olur, yoksa...' gibi güçlü bir uyarıdır; 'had' burada geçmiş değildir.",
+   "table": [
+    [
+     "Tavsiye",
+     "should + yalın fiil",
+     "You should rest."
+    ],
+    [
+     "Tavsiye",
+     "ought to + yalın fiil",
+     "You ought to call."
+    ],
+    [
+     "Güçlü tavsiye",
+     "had better + yalın fiil",
+     "You had better hurry."
+    ],
+    [
+     "Olumsuz",
+     "shouldn't / had better not",
+     "You shouldn't be late."
+    ],
+    [
+     "Soru",
+     "Should + özne + fiil?",
+     "Should I wear a suit?"
+    ]
+   ],
+   "examples": [
+    {
+     "en": "You should research the school.",
+     "tr": "Okulu araştırmalısın."
+    },
+    {
+     "en": "You ought to arrive early.",
+     "tr": "Erken varmalısın."
+    },
+    {
+     "en": "You had better leave now.",
+     "tr": "Hemen çıksan iyi olur."
+    },
+    {
+     "en": "You shouldn't look at your phone.",
+     "tr": "Telefonuna bakmamalısın."
+    }
+   ],
+   "exercises": [
+    {
+     "type": "mcq",
+     "q": "You ___ arrive ten minutes early for the interview.",
+     "options": [
+      "should",
+      "shoulds",
+      "should to",
+      "are should"
+     ],
+     "answer": 0,
+     "whyTr": "Should -s almaz; ardından yalın fiil gelir.",
+     "tag": "modals",
+     "level": "B1"
+    },
+    {
+     "type": "mcq",
+     "q": "You ought ___ call and confirm the time.",
+     "options": [
+      "for",
+      "to",
+      "of",
+      "by"
+     ],
+     "answer": 1,
+     "whyTr": "Ought'tan sonra 'to' + yalın fiil gelir.",
+     "tag": "modals",
+     "level": "B1"
+    },
+    {
+     "type": "mcq",
+     "q": "You ___ be late. The interviewer won't wait.",
+     "options": [
+      "don't had better",
+      "better don't",
+      "had better not",
+      "had not better to"
+     ],
+     "answer": 2,
+     "whyTr": "Uyarı olumsuzu: had better not + yalın fiil.",
+     "tag": "modals",
+     "level": "B1"
+    },
+    {
+     "type": "order",
+     "promptTr": "Cümleyi sırala:",
+     "words": [
+      "better",
+      "You",
+      "the",
+      "prepare",
+      "had",
+      "questions",
+      "for"
+     ],
+     "answer": "You had better prepare for the questions",
+     "whyTr": "Had better + yalın fiil (to yok).",
+     "tag": "modals",
+     "level": "B1"
+    },
+    {
+     "type": "order",
+     "promptTr": "Cümleyi sırala:",
+     "words": [
+      "shouldn't",
+      "forget",
+      "resume",
+      "her",
+      "She"
+     ],
+     "answer": "She shouldn't forget her resume",
+     "whyTr": "Olumsuz tavsiye: shouldn't + yalın fiil.",
+     "tag": "modals",
+     "level": "B1"
+    },
+    {
+     "type": "mcq",
+     "q": "Which sentence is correct?",
+     "options": [
+      "You should to bring a copy of your resume.",
+      "You shoulds bring a copy of your resume.",
+      "You should brings a copy of your resume.",
+      "You should bring a copy of your resume."
+     ],
+     "answer": 3,
+     "whyTr": "Should'tan sonra to veya -s gelmez.",
+     "tag": "modals",
+     "level": "B1"
+    },
+    {
+     "type": "mcq",
+     "q": "\"You'd better call him.\" This sentence is:",
+     "options": [
+      "strong advice with a warning.",
+      "a past habit.",
+      "a question.",
+      "a polite request only."
+     ],
+     "answer": 0,
+     "whyTr": "'Had better' güçlü tavsiyedir; yapmazsan bir sorun çıkabilir.",
+     "tag": "modals",
+     "level": "B1"
+    },
+    {
+     "type": "mcq",
+     "q": "Hafsa has an interview in ten minutes, and she is still at home. Linda says: \"You ___ leave now!\"",
+     "options": [
+      "had better to",
+      "had better",
+      "better to",
+      "should to"
+     ],
+     "answer": 1,
+     "whyTr": "Acil durumda güçlü tavsiye: had better + yalın fiil.",
+     "tag": "modals",
+     "level": "B1"
+    },
+    {
+     "type": "mcq",
+     "q": "___ I wear a suit to the interview?",
+     "options": [
+      "Do",
+      "Am",
+      "Should",
+      "Are"
+     ],
+     "answer": 2,
+     "whyTr": "Tavsiye sormak için 'Should I...?' kullanılır.",
+     "tag": "question-form",
+     "level": "B1"
+    },
+    {
+     "type": "mcq",
+     "q": "She studies every night. She ___ be ready for the test.",
+     "options": [
+      "can't",
+      "mustn't",
+      "don't",
+      "must"
+     ],
+     "answer": 3,
+     "whyTr": "Her akşam çalışıyor; hazır olduğuna eminiz: must be.",
+     "tag": "modals",
+     "level": "B1"
+    },
+    {
+     "type": "fill",
+     "q": "You ___ forget to say thank you after the interview.",
+     "accept": [
+      "shouldn't",
+      "should not"
+     ],
+     "hintTr": "yapmamalısın (olumsuz tavsiye)",
+     "whyTr": "Olumsuz tavsiye: shouldn't + yalın fiil.",
+     "tag": "modals",
+     "level": "B1"
+    },
+    {
+     "type": "mcq",
+     "q": "After you ___ the interview, send a thank-you email.",
+     "options": [
+      "finish",
+      "will finish",
+      "finished",
+      "finishing"
+     ],
+     "answer": 0,
+     "whyTr": "'After' sonrası gelecek için Present Simple.",
+     "tag": "future",
+     "level": "B1"
+    }
+   ]
+  },
+  "vocab": [
+   {
+    "id": "advice",
+    "en": "advice",
+    "tr": "tavsiye",
+    "pos": "noun",
+    "example": "Can I ask you for some advice?",
+    "exampleTr": "Sana biraz tavsiye sorabilir miyim?",
+    "syn": [],
+    "ant": [],
+    "level": "B1"
+   },
+   {
+    "id": "prepare",
+    "en": "prepare",
+    "tr": "hazırlanmak, hazırlamak",
+    "pos": "verb",
+    "example": "I need to prepare for the interview.",
+    "exampleTr": "Mülakata hazırlanmam gerek.",
+    "syn": [
+     "get ready"
+    ],
+    "ant": [],
+    "level": "B1"
+   },
+   {
+    "id": "confident",
+    "en": "confident",
+    "tr": "kendinden emin",
+    "pos": "adjective",
+    "example": "She felt confident after practice.",
+    "exampleTr": "Pratikten sonra kendinden emin hissetti.",
+    "syn": [
+     "sure"
+    ],
+    "ant": [
+     "nervous"
+    ],
+    "level": "B1"
+   },
+   {
+    "id": "honest",
+    "en": "honest",
+    "tr": "dürüst",
+    "pos": "adjective",
+    "example": "Be honest in the interview.",
+    "exampleTr": "Mülakatta dürüst ol.",
+    "syn": [],
+    "ant": [
+     "dishonest"
+    ],
+    "level": "B1"
+   },
+   {
+    "id": "polite",
+    "en": "polite",
+    "tr": "kibar, nazik",
+    "pos": "adjective",
+    "example": "A polite teacher says please and thank you.",
+    "exampleTr": "Kibar bir öğretmen lütfen ve teşekkür ederim der.",
+    "syn": [],
+    "ant": [
+     "rude"
+    ],
+    "level": "B1"
+   },
+   {
+    "id": "impression",
+    "en": "impression",
+    "tr": "izlenim",
+    "pos": "noun",
+    "example": "She made a good first impression.",
+    "exampleTr": "İyi bir ilk izlenim bıraktı.",
+    "syn": [],
+    "ant": [],
+    "level": "B1"
+   },
+   {
+    "id": "punctual",
+    "en": "punctual",
+    "tr": "dakik, zamanında",
+    "pos": "adjective",
+    "example": "Mr. Brown is always punctual.",
+    "exampleTr": "Mr. Brown her zaman dakiktir.",
+    "syn": [
+     "on time"
+    ],
+    "ant": [
+     "late"
+    ],
+    "level": "B1"
+   },
+   {
+    "id": "nervous",
+    "en": "nervous",
+    "tr": "gergin, tedirgin",
+    "pos": "adjective",
+    "example": "I always feel nervous before tests.",
+    "exampleTr": "Sınavlardan önce hep gergin olurum.",
+    "syn": [
+     "anxious"
+    ],
+    "ant": [
+     "calm"
+    ],
+    "level": "B1"
+   },
+   {
+    "id": "strength",
+    "en": "strength",
+    "tr": "güçlü yön",
+    "pos": "noun",
+    "example": "Patience is her biggest strength.",
+    "exampleTr": "Sabır onun en büyük güçlü yönü.",
+    "syn": [],
+    "ant": [
+     "weakness"
+    ],
+    "level": "B1"
+   },
+   {
+    "id": "weakness",
+    "en": "weakness",
+    "tr": "zayıf yön",
+    "pos": "noun",
+    "example": "My weakness is speaking fast.",
+    "exampleTr": "Zayıf yönüm hızlı konuşmak.",
+    "syn": [],
+    "ant": [
+     "strength"
+    ],
+    "level": "B1"
+   },
+   {
+    "id": "research",
+    "en": "research",
+    "tr": "araştırmak; araştırma",
+    "pos": "verb",
+    "example": "Research the school before the interview.",
+    "exampleTr": "Mülakattan önce okulu araştır.",
+    "syn": [],
+    "ant": [],
+    "level": "B1"
+   },
+   {
+    "id": "professional",
+    "en": "professional",
+    "tr": "profesyonel, işine uygun",
+    "pos": "adjective",
+    "example": "Wear professional clothes.",
+    "exampleTr": "İşe uygun kıyafetler giy.",
+    "syn": [],
+    "ant": [],
+    "level": "B1"
+   },
+   {
+    "id": "mention",
+    "en": "mention",
+    "tr": "bahsetmek, söz etmek",
+    "pos": "verb",
+    "example": "Don't forget to mention your experience.",
+    "exampleTr": "Tecrübenden bahsetmeyi unutma.",
+    "syn": [],
+    "ant": [],
+    "level": "B1"
+   },
+   {
+    "id": "avoid",
+    "en": "avoid",
+    "tr": "kaçınmak",
+    "pos": "verb",
+    "example": "Avoid long answers in the interview.",
+    "exampleTr": "Mülakatta uzun cevaplardan kaçın.",
+    "syn": [],
+    "ant": [],
+    "level": "B1"
+   },
+   {
+    "id": "improve",
+    "en": "improve",
+    "tr": "geliştirmek, iyileşmek",
+    "pos": "verb",
+    "example": "I study every day to improve my English.",
+    "exampleTr": "İngilizcemi geliştirmek için her gün çalışıyorum.",
+    "syn": [
+     "get better"
+    ],
+    "ant": [],
+    "level": "B1"
+   }
+  ],
+  "reading": {
+   "title": "Advice for the interview",
+   "text": "Hafsa's interview is on Thursday, and she wants to make a good impression. Last night she asked Linda for advice, because Linda once worked in human resources.\n\n\"First, you should research the school,\" Linda said. \"Read its website and learn about its programs. The interviewers will be happy if you know something about them.\" Hafsa wrote it down.\n\n\"Second, you ought to prepare answers for common questions. They will probably ask about your strengths and weaknesses. You shouldn't say that you have no weaknesses. Be honest, but show how you are improving. For example, you can say, 'My English is not perfect yet, but I study every day.'\" Hafsa smiled. That was easy to say, and it was true.\n\n\"Third, think about your clothes,\" Linda added. \"You should wear something professional, like a jacket and nice shoes. And you had better arrive early. Being punctual shows respect. If you are late, they may think you are not serious.\"\n\nEmre had one more tip. \"Be polite and look at the interviewer. You shouldn't look at the floor. And if you feel nervous, take a deep breath before you answer.\" Hafsa laughed. \"You are both telling me what to do!\" \"We want you to get the job,\" said Linda.\n\nThat night, Hafsa practiced in front of the mirror. She felt more confident than before. She knew that she should avoid long, difficult sentences and just speak clearly. If she made a mistake, she could simply smile and try again.",
+   "glossary": [
+    {
+     "en": "human resources",
+     "tr": "insan kaynakları"
+    },
+    {
+     "en": "common questions",
+     "tr": "sık sorulan sorular"
+    },
+    {
+     "en": "take a deep breath",
+     "tr": "derin bir nefes almak"
+    },
+    {
+     "en": "tip",
+     "tr": "ipucu, tüyo"
+    }
+   ],
+   "questions": [
+    {
+     "type": "mcq",
+     "q": "Why should Hafsa research the school?",
+     "options": [
+      "The school will pay her more.",
+      "The interviewers will be happy if she knows about them.",
+      "Linda works there.",
+      "The interview is online."
+     ],
+     "answer": 1,
+     "whyTr": "Metin: 'The interviewers will be happy if you know something about them.'",
+     "tag": "reading",
+     "level": "B1"
+    },
+    {
+     "type": "mcq",
+     "q": "What should Hafsa say about her weaknesses?",
+     "options": [
+      "She should say she has none.",
+      "She should not answer.",
+      "She should be honest and show how she is improving.",
+      "She should talk about Linda."
+     ],
+     "answer": 2,
+     "whyTr": "Metin: 'Be honest, but show how you are improving.'",
+     "tag": "reading",
+     "level": "B1"
+    },
+    {
+     "type": "mcq",
+     "q": "Why had Hafsa better arrive early?",
+     "options": [
+      "The school is far away.",
+      "The interview is long.",
+      "Parking costs money.",
+      "Being punctual shows respect."
+     ],
+     "answer": 3,
+     "whyTr": "Metin: 'Being punctual shows respect.'",
+     "tag": "reading",
+     "level": "B1"
+    },
+    {
+     "type": "mcq",
+     "q": "What does Emre say to do if she feels nervous?",
+     "options": [
+      "Take a deep breath before answering",
+      "Look at the floor",
+      "Call Linda",
+      "Wear a jacket"
+     ],
+     "answer": 0,
+     "whyTr": "Metin: 'take a deep breath before you answer.'",
+     "tag": "reading",
+     "level": "B1"
+    }
+   ]
+  }
+ },
+ "evening": {
+  "listening": {
+   "title": "Practice with Mr. Brown",
+   "script": [
+    {
+     "speaker": "Hafsa",
+     "text": "Mr. Brown, can I ask you for some advice about my interview?"
+    },
+    {
+     "speaker": "Mr. Brown",
+     "text": "Of course. When is it?"
+    },
+    {
+     "speaker": "Hafsa",
+     "text": "On Thursday at ten. I'm very nervous."
+    },
+    {
+     "speaker": "Mr. Brown",
+     "text": "That's normal. First, you should get a good night's sleep."
+    },
+    {
+     "speaker": "Hafsa",
+     "text": "Okay. What should I wear?"
+    },
+    {
+     "speaker": "Mr. Brown",
+     "text": "A jacket and dark pants would be good. You ought to look professional."
+    },
+    {
+     "speaker": "Hafsa",
+     "text": "And what about the questions?"
+    },
+    {
+     "speaker": "Mr. Brown",
+     "text": "They will ask why you want to work with children. You should give a real example from your life."
+    },
+    {
+     "speaker": "Hafsa",
+     "text": "I can talk about helping the children in my neighborhood."
+    },
+    {
+     "speaker": "Mr. Brown",
+     "text": "Perfect. And you had better turn off your phone before you go in."
+    },
+    {
+     "speaker": "Hafsa",
+     "text": "I will. Anything else?"
+    },
+    {
+     "speaker": "Mr. Brown",
+     "text": "Smile, and say thank you at the end. You shouldn't leave without shaking hands."
+    },
+    {
+     "speaker": "Hafsa",
+     "text": "Thank you so much, Mr. Brown. I feel much better now."
+    }
+   ],
+   "questions": [
+    {
+     "type": "mcq",
+     "q": "When is Hafsa's interview?",
+     "options": [
+      "On Friday at ten",
+      "On Thursday at ten",
+      "On Thursday at two",
+      "On Monday at nine"
+     ],
+     "answer": 1,
+     "whyTr": "Hafsa: 'On Thursday at ten.'",
+     "tag": "listening",
+     "level": "B1"
+    },
+    {
+     "type": "mcq",
+     "q": "What does Mr. Brown say she should wear?",
+     "options": [
+      "A uniform",
+      "Jeans and a T-shirt",
+      "A jacket and dark pants",
+      "A dress and a hat"
+     ],
+     "answer": 2,
+     "whyTr": "Mr. Brown: 'A jacket and dark pants would be good.'",
+     "tag": "listening",
+     "level": "B1"
+    },
+    {
+     "type": "mcq",
+     "q": "What example can Hafsa talk about?",
+     "options": [
+      "Her trip to Isparta",
+      "Her English classes",
+      "Her cooking",
+      "Helping children in her neighborhood"
+     ],
+     "answer": 3,
+     "whyTr": "Hafsa: 'I can talk about helping the children in my neighborhood.'",
+     "tag": "listening",
+     "level": "B1"
+    },
+    {
+     "type": "mcq",
+     "q": "What had she better do before going in?",
+     "options": [
+      "Turn off her phone",
+      "Call Linda",
+      "Read the website",
+      "Eat breakfast"
+     ],
+     "answer": 0,
+     "whyTr": "Mr. Brown: 'you had better turn off your phone before you go in.'",
+     "tag": "listening",
+     "level": "B1"
+    }
+   ]
+  },
+  "writing": {
+   "promptTr": "Mülakata girecek bir arkadaşına e-posta ile tavsiye ver. should, shouldn't, ought to ve had better kullan (80-120 kelime).",
+   "promptEn": "Write an email to a friend who has a job interview. Give advice with should, shouldn't, ought to and had better.",
+   "frames": [
+    "You should ...",
+    "You ought to ...",
+    "You had better ... because ...",
+    "You shouldn't ..."
+   ],
+   "model": "Dear Ali, I heard about your interview on Monday. Congratulations! Here is my advice. First, you should research the school and read its website. You ought to prepare answers for common questions, too. You had better arrive early, because being punctual makes a good impression. You shouldn't wear jeans, and you shouldn't look at your phone. If you feel nervous, take a deep breath. Be honest and polite, and don't forget to say thank you. Good luck! Your friend, Hafsa",
+   "checklistTr": [
+    "Should / ought to / had better'dan sonra yalın fiil var mı?",
+    "'Ought' ile 'to' kullandın mı?",
+    "En az bir olumsuz tavsiye (shouldn't / had better not) yazdın mı?",
+    "Selamlama ve kapanış cümlen var mı?"
+   ],
+   "minWords": 80
+  },
+  "examSet": [
+   {
+    "type": "mcq",
+    "q": "You ___ bring a copy of your resume.",
+    "options": [
+     "shoulds",
+     "should",
+     "should to",
+     "are should"
+    ],
+    "answer": 1,
+    "whyTr": "Should + yalın fiil.",
+    "tag": "modals",
+    "level": "B1"
+   },
+   {
+    "type": "mcq",
+    "q": "You ___ be late for the interview.",
+    "options": [
+     "don't had better",
+     "better don't",
+     "had better not",
+     "had not better to"
+    ],
+    "answer": 2,
+    "whyTr": "Olumsuz uyarı: had better not + yalın fiil.",
+    "tag": "modals",
+    "level": "B1"
+   },
+   {
+    "type": "mcq",
+    "q": "Which sentence is correct?",
+    "options": [
+     "You ought arrive early.",
+     "You oughts to arrive early.",
+     "You ought to arrives early.",
+     "You ought to arrive early."
+    ],
+    "answer": 3,
+    "whyTr": "Ought + to + yalın fiil.",
+    "tag": "modals",
+    "level": "B1"
+   },
+   {
+    "type": "mcq",
+    "q": "Her ___ is that she is very organized.",
+    "options": [
+     "strength",
+     "weakness",
+     "clue",
+     "option"
+    ],
+    "answer": 0,
+    "whyTr": "Düzenli olmak güçlü yöndür (strength).",
+    "tag": "vocab",
+    "level": "B1"
+   },
+   {
+    "type": "mcq",
+    "q": "A good employee is always on time. He is ___.",
+    "options": [
+     "nervous",
+     "punctual",
+     "empty",
+     "strange"
+    ],
+    "answer": 1,
+    "whyTr": "Zamanında olan kişi punctual'dır.",
+    "tag": "vocab",
+    "level": "B1"
+   },
+   {
+    "type": "mcq",
+    "q": "It is important to make a good first ___.",
+    "options": [
+     "decision",
+     "contract",
+     "impression",
+     "benefit"
+    ],
+    "answer": 2,
+    "whyTr": "İlk izlenim = first impression.",
+    "tag": "vocab",
+    "level": "B1"
+   },
+   {
+    "type": "mcq",
+    "q": "Which phrase is closest in meaning to \"prepare\"?",
+    "options": [
+     "stay away",
+     "turn off",
+     "give up",
+     "get ready"
+    ],
+    "answer": 3,
+    "whyTr": "Prepare ve get ready aynı anlamda.",
+    "tag": "synonym",
+    "level": "B2"
+   },
+   {
+    "type": "mcq",
+    "q": "What is the opposite of \"polite\"?",
+    "options": [
+     "rude",
+     "quiet",
+     "early",
+     "careful"
+    ],
+    "answer": 0,
+    "whyTr": "Polite'ın zıttı rude.",
+    "tag": "antonym",
+    "level": "A2"
+   },
+   {
+    "type": "mcq",
+    "q": "I'm not sure about the dress code. I ___ wear a jacket.",
+    "options": [
+     "mights",
+     "might",
+     "might to",
+     "am might"
+    ],
+    "answer": 1,
+    "whyTr": "Emin olmayan plan: might + yalın fiil.",
+    "tag": "modals",
+    "level": "B1"
+   },
+   {
+    "type": "mcq",
+    "q": "Her phone is off, so she ___ be in the interview now.",
+    "options": [
+     "can't",
+     "mustn't",
+     "must",
+     "don't"
+    ],
+    "answer": 2,
+    "whyTr": "Telefon kapalı; mülakatta olduğunu tahmin ediyoruz: must be.",
+    "tag": "modals",
+    "level": "B1"
+   },
+   {
+    "type": "mcq",
+    "q": "Dana has a job interview tomorrow. Her friend says, \"You should arrive early. You shouldn't wear jeans. If you feel nervous, you'd better take a deep breath.\"\n\nWhat does the friend say about jeans?",
+    "options": [
+     "Dana must buy them.",
+     "Dana should wear them.",
+     "Dana can wear them.",
+     "Dana shouldn't wear them."
+    ],
+    "answer": 3,
+    "whyTr": "Metin: 'You shouldn't wear jeans.'",
+    "tag": "reading",
+    "level": "B1"
+   },
+   {
+    "type": "mcq",
+    "q": "Mr. Lee had an interview yesterday. He arrived ten minutes late and looked at his phone during the interview. He felt that he made a bad impression.\n\nWhat should Mr. Lee do next time?",
+    "options": [
+     "Arrive on time and put his phone away",
+     "Wear jeans",
+     "Talk very fast",
+     "Stay home"
+    ],
+    "answer": 0,
+    "whyTr": "Metin: geç kaldı ve telefona baktı; bunun tersini yapmalı.",
+    "tag": "reading",
+    "level": "B1"
+   }
+  ]
+ }
+}

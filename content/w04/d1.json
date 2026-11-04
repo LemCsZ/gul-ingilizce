@@ -1,0 +1,774 @@
+{
+ "week": 4,
+ "day": 1,
+ "titleTr": "Hafta sonu planların: going to",
+ "theme": "weekend-plans",
+ "morning": {
+  "grammar": {
+   "topic": "going to (plans)",
+   "explainTr": [
+    "Önceden düşündüğün planları 'be going to + fiil' ile anlatırsın: I am going to visit Linda. Be fiili özneye göre değişir: am / is / are.",
+    "Olumsuz için be fiilinin yanına 'not' koyarsın: She isn't going to cook. Soruda be fiili başa gelir: Are you going to come?",
+    "'Going to' bir de elindeki işarete bakarak tahmin yapmak için kullanılır: Look at the clouds! It is going to rain."
+   ],
+   "compareTr": "Türkçede plan için 'yapacağım' (-ecek) eki yeter. İngilizcede üç parça lazım: be + going to + yalın fiil. 'I am going to cook' dersin; 'I going to cook' eksik kalır.",
+   "table": [
+    [
+     "I",
+     "am going to",
+     "I'm going to cook."
+    ],
+    [
+     "he / she / it",
+     "is going to",
+     "She's going to visit."
+    ],
+    [
+     "you / we / they",
+     "are going to",
+     "We're going to eat."
+    ],
+    [
+     "Olumsuz",
+     "am not / isn't / aren't going to",
+     "He isn't going to come."
+    ],
+    [
+     "Soru",
+     "Am / Is / Are + özne + going to?",
+     "Are you going to stay?"
+    ]
+   ],
+   "examples": [
+    {
+     "en": "I am going to visit Linda on Saturday.",
+     "tr": "Cumartesi Linda'yı ziyaret edeceğim."
+    },
+    {
+     "en": "They are not going to drive.",
+     "tr": "Onlar araba kullanmayacak."
+    },
+    {
+     "en": "Is she going to bring a cake?",
+     "tr": "O bir kek getirecek mi?"
+    },
+    {
+     "en": "What are you going to do tomorrow?",
+     "tr": "Yarın ne yapacaksın?"
+    },
+    {
+     "en": "Look at the clouds! It is going to rain.",
+     "tr": "Bulutlara bak! Yağmur yağacak."
+    }
+   ],
+   "exercises": [
+    {
+     "type": "mcq",
+     "q": "I ___ going to visit Linda on Saturday.",
+     "options": [
+      "am",
+      "is",
+      "are"
+     ],
+     "answer": 0,
+     "whyTr": "I ile 'am going to' kullanılır.",
+     "tag": "future",
+     "level": "A1"
+    },
+    {
+     "type": "mcq",
+     "q": "Emre ___ going to play soccer after school.",
+     "options": [
+      "are",
+      "is",
+      "am",
+      "do"
+     ],
+     "answer": 1,
+     "whyTr": "Emre tekil (he); 'is going to' kullanılır.",
+     "tag": "future",
+     "level": "A1"
+    },
+    {
+     "type": "mcq",
+     "q": "We are going ___ have a picnic.",
+     "options": [
+      "for",
+      "at",
+      "to"
+     ],
+     "answer": 2,
+     "whyTr": "Plan kalıbı: be going to + fiil.",
+     "tag": "future",
+     "level": "A1"
+    },
+    {
+     "type": "mcq",
+     "q": "Hafsa ___ going to cook tonight. She is tired.",
+     "options": [
+      "doesn't",
+      "don't",
+      "not",
+      "isn't"
+     ],
+     "answer": 3,
+     "whyTr": "Olumsuzda be fiili değişir: isn't going to.",
+     "tag": "future",
+     "level": "A2"
+    },
+    {
+     "type": "mcq",
+     "q": "What are you going to ___ on Sunday?",
+     "options": [
+      "doing",
+      "do",
+      "does",
+      "to do"
+     ],
+     "answer": 1,
+     "whyTr": "'Going to'dan sonra to + yalın fiil gelir; burada 'do'.",
+     "tag": "future",
+     "level": "A2"
+    },
+    {
+     "type": "order",
+     "promptTr": "Cümleyi sırala:",
+     "words": [
+      "to",
+      "movie",
+      "Are",
+      "a",
+      "you",
+      "going",
+      "watch"
+     ],
+     "answer": "Are you going to watch a movie",
+     "whyTr": "Soruda 'Are' başa gelir: Are + özne + going to + fiil.",
+     "tag": "future",
+     "level": "A2"
+    },
+    {
+     "type": "order",
+     "promptTr": "Cümleyi sırala:",
+     "words": [
+      "work",
+      "not",
+      "is",
+      "to",
+      "He",
+      "drive",
+      "going",
+      "to"
+     ],
+     "answer": "He is not going to drive to work",
+     "whyTr": "Olumsuz: is not going to + fiil.",
+     "tag": "future",
+     "level": "A2"
+    },
+    {
+     "type": "mcq",
+     "q": "___ she going to bring a cake?",
+     "options": [
+      "Is",
+      "Does",
+      "Are"
+     ],
+     "answer": 0,
+     "whyTr": "She ile soruya 'Is' ile başlanır.",
+     "tag": "future",
+     "level": "A2"
+    },
+    {
+     "type": "mcq",
+     "q": "Which sentence is correct?",
+     "options": [
+      "I going to cook dinner tonight.",
+      "I am going cook dinner tonight.",
+      "I am going to cook dinner tonight.",
+      "I am go to cook dinner tonight."
+     ],
+     "answer": 2,
+     "whyTr": "Doğru kalıp: am/is/are + going to + yalın fiil.",
+     "tag": "future",
+     "level": "A2"
+    },
+    {
+     "type": "fill",
+     "q": "We ___ going to make soup tonight.",
+     "accept": [
+      "are",
+      "'re"
+     ],
+     "hintTr": "we için to be",
+     "whyTr": "We ile 'are going to' kullanılır.",
+     "tag": "future",
+     "level": "A2"
+    },
+    {
+     "type": "mcq",
+     "q": "Hafsa ___ at the school every Monday.",
+     "options": [
+      "works",
+      "work",
+      "working"
+     ],
+     "answer": 0,
+     "whyTr": "Alışkanlık için Present Simple; she için fiile -s gelir.",
+     "tag": "present-simple",
+     "level": "A2"
+    },
+    {
+     "type": "fill",
+     "q": "Yesterday we ___ to the lake. (go)",
+     "accept": [
+      "went"
+     ],
+     "hintTr": "go fiilinin geçmişi",
+     "whyTr": "Go düzensiz fiildir; geçmişi 'went'.",
+     "tag": "past-simple",
+     "level": "A2"
+    }
+   ]
+  },
+  "vocab": [
+   {
+    "id": "plan",
+    "en": "plan",
+    "tr": "plan; planlamak",
+    "pos": "noun",
+    "example": "My plan for Saturday is simple.",
+    "exampleTr": "Cumartesi planım basit.",
+    "syn": [],
+    "ant": [],
+    "level": "A2"
+   },
+   {
+    "id": "visit",
+    "en": "visit",
+    "tr": "ziyaret etmek",
+    "pos": "verb",
+    "example": "We are going to visit the museum.",
+    "exampleTr": "Müzeyi ziyaret edeceğiz.",
+    "syn": [],
+    "ant": [],
+    "level": "A2"
+   },
+   {
+    "id": "picnic",
+    "en": "picnic",
+    "tr": "piknik",
+    "pos": "noun",
+    "example": "Let's have a picnic by the lake.",
+    "exampleTr": "Gölün kenarında piknik yapalım.",
+    "syn": [],
+    "ant": [],
+    "level": "A2"
+   },
+   {
+    "id": "museum",
+    "en": "museum",
+    "tr": "müze",
+    "pos": "noun",
+    "example": "The museum is open on Saturday.",
+    "exampleTr": "Müze cumartesi açık.",
+    "syn": [],
+    "ant": [],
+    "level": "A2"
+   },
+   {
+    "id": "trip",
+    "en": "trip",
+    "tr": "gezi, yolculuk",
+    "pos": "noun",
+    "example": "We are going on a trip to the lake.",
+    "exampleTr": "Göle bir geziye çıkıyoruz.",
+    "syn": [
+     "journey"
+    ],
+    "ant": [],
+    "level": "A2"
+   },
+   {
+    "id": "weather",
+    "en": "weather",
+    "tr": "hava durumu",
+    "pos": "noun",
+    "example": "The weather is nice today.",
+    "exampleTr": "Bugün hava güzel.",
+    "syn": [],
+    "ant": [],
+    "level": "A2"
+   },
+   {
+    "id": "rain",
+    "en": "rain",
+    "tr": "yağmur; yağmur yağmak",
+    "pos": "noun",
+    "example": "It is going to rain tomorrow.",
+    "exampleTr": "Yarın yağmur yağacak.",
+    "syn": [],
+    "ant": [],
+    "level": "A2"
+   },
+   {
+    "id": "sunny",
+    "en": "sunny",
+    "tr": "güneşli",
+    "pos": "adjective",
+    "example": "It is sunny and warm.",
+    "exampleTr": "Hava güneşli ve sıcak.",
+    "syn": [],
+    "ant": [
+     "cloudy"
+    ],
+    "level": "A2"
+   },
+   {
+    "id": "invite",
+    "en": "invite",
+    "tr": "davet etmek",
+    "pos": "verb",
+    "example": "I want to invite Linda to dinner.",
+    "exampleTr": "Linda'yı yemeğe davet etmek istiyorum.",
+    "syn": [],
+    "ant": [],
+    "level": "A2"
+   },
+   {
+    "id": "bake",
+    "en": "bake",
+    "tr": "fırında pişirmek",
+    "pos": "verb",
+    "example": "Hafsa is going to bake a cake.",
+    "exampleTr": "Hafsa bir kek yapacak.",
+    "syn": [],
+    "ant": [],
+    "level": "A2"
+   },
+   {
+    "id": "movie",
+    "en": "movie",
+    "tr": "film",
+    "pos": "noun",
+    "example": "We are going to watch a movie.",
+    "exampleTr": "Bir film izleyeceğiz.",
+    "syn": [],
+    "ant": [],
+    "level": "A2"
+   },
+   {
+    "id": "together",
+    "en": "together",
+    "tr": "birlikte",
+    "pos": "adverb",
+    "example": "We always eat dinner together.",
+    "exampleTr": "Akşam yemeğini hep birlikte yeriz.",
+    "syn": [],
+    "ant": [
+     "alone"
+    ],
+    "level": "A2"
+   },
+   {
+    "id": "relax",
+    "en": "relax",
+    "tr": "dinlenmek, rahatlamak",
+    "pos": "verb",
+    "example": "On Sunday I am going to relax.",
+    "exampleTr": "Pazar günü dinleneceğim.",
+    "syn": [
+     "rest"
+    ],
+    "ant": [],
+    "level": "A2"
+   },
+   {
+    "id": "ticket",
+    "en": "ticket",
+    "tr": "bilet",
+    "pos": "noun",
+    "example": "I need two tickets for the movie.",
+    "exampleTr": "Film için iki bilete ihtiyacım var.",
+    "syn": [],
+    "ant": [],
+    "level": "A2"
+   },
+   {
+    "id": "bring",
+    "en": "bring",
+    "tr": "getirmek",
+    "pos": "verb",
+    "example": "Please bring a coat. It's cold.",
+    "exampleTr": "Lütfen bir mont getir. Hava soğuk.",
+    "syn": [],
+    "ant": [
+     "take"
+    ],
+    "level": "A2"
+   }
+  ],
+  "reading": {
+   "title": "Hafsa's weekend plans",
+   "text": "This Saturday is going to be a busy day for Hafsa. In the morning, she is going to visit Linda. Linda is going to show her a small museum downtown. After that, they are going to have a picnic by the lake, because the weather is going to be sunny.\n\nEmre is not going to come with them. He is going to study for a test at home. In the evening, Hafsa and Emre are going to go to the movie theater. Emre is going to buy the tickets online, and Hafsa is going to bring some snacks.\n\nOn Sunday, Hafsa is not going to do much. She is going to relax at home. She is not going to cook, and she is not going to clean. Her plan for Sunday is simple: tea, a book and a long rest.",
+   "glossary": [
+    {
+     "en": "snacks",
+     "tr": "atıştırmalıklar"
+    },
+    {
+     "en": "movie theater",
+     "tr": "sinema salonu"
+    },
+    {
+     "en": "rest",
+     "tr": "dinlenme"
+    },
+    {
+     "en": "online",
+     "tr": "internetten"
+    }
+   ],
+   "questions": [
+    {
+     "type": "mcq",
+     "q": "Where are Hafsa and Linda going to have a picnic?",
+     "options": [
+      "At the museum",
+      "By the lake",
+      "At home"
+     ],
+     "answer": 1,
+     "whyTr": "Metin: 'a picnic by the lake'.",
+     "tag": "reading",
+     "level": "A2"
+    },
+    {
+     "type": "mcq",
+     "q": "What is the weather going to be like on Saturday?",
+     "options": [
+      "Rainy",
+      "Cold",
+      "Sunny"
+     ],
+     "answer": 2,
+     "whyTr": "Metin: 'the weather is going to be sunny'.",
+     "tag": "reading",
+     "level": "A2"
+    },
+    {
+     "type": "mcq",
+     "q": "Who is going to buy the movie tickets?",
+     "options": [
+      "Linda",
+      "Emre",
+      "Hafsa"
+     ],
+     "answer": 1,
+     "whyTr": "Metin: 'Emre is going to buy the tickets online'.",
+     "tag": "reading",
+     "level": "A2"
+    },
+    {
+     "type": "mcq",
+     "q": "What is Hafsa going to do on Sunday?",
+     "options": [
+      "Visit Linda",
+      "Go to the museum",
+      "Relax at home"
+     ],
+     "answer": 2,
+     "whyTr": "Metin: 'She is going to relax at home.'",
+     "tag": "reading",
+     "level": "A2"
+    }
+   ]
+  }
+ },
+ "evening": {
+  "listening": {
+   "title": "Weekend plans",
+   "script": [
+    {
+     "speaker": "Linda",
+     "text": "Hi Hafsa. What are you going to do this weekend?"
+    },
+    {
+     "speaker": "Hafsa",
+     "text": "On Saturday I'm going to visit the museum downtown. Do you want to come?"
+    },
+    {
+     "speaker": "Linda",
+     "text": "I'd love to! Are you going to take the bus?"
+    },
+    {
+     "speaker": "Hafsa",
+     "text": "No, we aren't. Emre is going to drive us."
+    },
+    {
+     "speaker": "Linda",
+     "text": "Great. What time are you going to leave?"
+    },
+    {
+     "speaker": "Hafsa",
+     "text": "We're going to leave at ten."
+    },
+    {
+     "speaker": "Linda",
+     "text": "Okay. Am I going to need money for the tickets?"
+    },
+    {
+     "speaker": "Hafsa",
+     "text": "Yes, about ten dollars. But lunch is free. I'm going to make sandwiches."
+    },
+    {
+     "speaker": "Linda",
+     "text": "Wonderful. Is the weather going to be nice?"
+    },
+    {
+     "speaker": "Hafsa",
+     "text": "The news says it is going to rain in the afternoon, so bring an umbrella."
+    },
+    {
+     "speaker": "Linda",
+     "text": "I will. Thank you for inviting me!"
+    },
+    {
+     "speaker": "Hafsa",
+     "text": "You're welcome. See you on Saturday!"
+    }
+   ],
+   "questions": [
+    {
+     "type": "mcq",
+     "q": "Where are they going on Saturday?",
+     "options": [
+      "To a museum downtown",
+      "To the lake",
+      "To the movie theater"
+     ],
+     "answer": 0,
+     "whyTr": "Hafsa: 'I'm going to visit the museum downtown.'",
+     "tag": "listening",
+     "level": "A2"
+    },
+    {
+     "type": "mcq",
+     "q": "How are they going to get there?",
+     "options": [
+      "They are going to take the bus.",
+      "Linda is going to drive.",
+      "Emre is going to drive."
+     ],
+     "answer": 2,
+     "whyTr": "Hafsa: 'Emre is going to drive us.'",
+     "tag": "listening",
+     "level": "A2"
+    },
+    {
+     "type": "mcq",
+     "q": "What time are they going to leave?",
+     "options": [
+      "At ten",
+      "At nine",
+      "At eleven"
+     ],
+     "answer": 0,
+     "whyTr": "Hafsa: 'We're going to leave at ten.'",
+     "tag": "listening",
+     "level": "A2"
+    },
+    {
+     "type": "mcq",
+     "q": "What should Linda bring?",
+     "options": [
+      "Sandwiches",
+      "An umbrella",
+      "A coat"
+     ],
+     "answer": 1,
+     "whyTr": "Hafsa: 'bring an umbrella'.",
+     "tag": "listening",
+     "level": "A2"
+    }
+   ]
+  },
+  "writing": {
+   "promptTr": "Bu hafta sonu için planlarını 4-5 cümleyle yaz.",
+   "promptEn": "Write 4-5 sentences about your plans for this weekend.",
+   "frames": [
+    "On Saturday, I am going to ...",
+    "I am going to ... with ...",
+    "I am not going to ...",
+    "On Sunday, I am going to ..."
+   ],
+   "model": "On Saturday, I am going to visit Linda. We are going to have a picnic by the lake. I am going to bring sandwiches. On Sunday, I am not going to work. I am going to relax and watch a movie with Emre.",
+   "checklistTr": [
+    "Her planda am/is/are + going to + yalın fiil var mı?",
+    "En az bir olumsuz cümlen (am not / isn't going to) var mı?",
+    "Cümleler büyük harfle başlıyor ve noktayla bitiyor mu?"
+   ],
+   "minWords": 35
+  },
+  "examSet": [
+   {
+    "type": "mcq",
+    "q": "Linda ___ going to visit us on Sunday.",
+    "options": [
+     "is",
+     "are",
+     "am"
+    ],
+    "answer": 0,
+    "whyTr": "Linda tekil; 'is going to'.",
+    "tag": "future",
+    "level": "A1"
+   },
+   {
+    "type": "mcq",
+    "q": "We aren't ___ to eat out tonight.",
+    "options": [
+     "go",
+     "going",
+     "will go"
+    ],
+    "answer": 1,
+    "whyTr": "Olumsuz: aren't going to + fiil.",
+    "tag": "future",
+    "level": "A2"
+   },
+   {
+    "type": "mcq",
+    "q": "Last Sunday, Hafsa ___ a cake.",
+    "options": [
+     "bake",
+     "baked",
+     "bakes",
+     "is baking"
+    ],
+    "answer": 1,
+    "whyTr": "Geçmiş zaman: baked (-ed).",
+    "tag": "past-simple",
+    "level": "A2"
+   },
+   {
+    "type": "mcq",
+    "q": "Hafsa ___ to school by bus every day.",
+    "options": [
+     "go",
+     "goes",
+     "going"
+    ],
+    "answer": 1,
+    "whyTr": "Alışkanlık, she: goes.",
+    "tag": "present-simple",
+    "level": "A2"
+   },
+   {
+    "type": "mcq",
+    "q": "I ___ my keys yesterday. Now I am looking for them.",
+    "options": [
+     "loses",
+     "losed",
+     "lose",
+     "lost"
+    ],
+    "answer": 3,
+    "whyTr": "Lose düzensiz fiildir: lost.",
+    "tag": "past-simple",
+    "level": "A2"
+   },
+   {
+    "type": "mcq",
+    "q": "Linda ___ drive, so Emre is going to drive.",
+    "options": [
+     "can't",
+     "can",
+     "don't",
+     "cans"
+    ],
+    "answer": 0,
+    "whyTr": "Linda sürmüyor/süremiyor; 'can't'.",
+    "tag": "modals",
+    "level": "A2"
+   },
+   {
+    "type": "mcq",
+    "q": "I need a ___ for the movie.",
+    "options": [
+     "weather",
+     "plan",
+     "ticket"
+    ],
+    "answer": 2,
+    "whyTr": "Film için bilet (ticket) gerekir.",
+    "tag": "vocab",
+    "level": "A2"
+   },
+   {
+    "type": "mcq",
+    "q": "Let's have a ___ by the lake and eat sandwiches.",
+    "options": [
+     "picnic",
+     "ticket",
+     "museum"
+    ],
+    "answer": 0,
+    "whyTr": "Gölde sandviç yemek: picnic.",
+    "tag": "vocab",
+    "level": "A2"
+   },
+   {
+    "type": "mcq",
+    "q": "Which word is closest in meaning to \"trip\"?",
+    "options": [
+     "lesson",
+     "journey",
+     "problem"
+    ],
+    "answer": 1,
+    "whyTr": "Trip ve journey benzer anlamlıdır.",
+    "tag": "synonym",
+    "level": "A2"
+   },
+   {
+    "type": "mcq",
+    "q": "What is the opposite of \"sunny\"?",
+    "options": [
+     "cloudy",
+     "warm",
+     "bright"
+    ],
+    "answer": 0,
+    "whyTr": "Sunny'nin zıttı cloudy.",
+    "tag": "antonym",
+    "level": "A2"
+   },
+   {
+    "type": "mcq",
+    "q": "Tom is going to visit a museum on Saturday. He isn't going to go alone. His cousin Ben is going to go with him. They are going to have lunch there.\n\nWho is going to go with Tom?",
+    "options": [
+     "Nobody",
+     "Ben",
+     "His teacher"
+    ],
+    "answer": 1,
+    "whyTr": "Metin: 'His cousin Ben is going to go with him.'",
+    "tag": "reading",
+    "level": "A2"
+   },
+   {
+    "type": "mcq",
+    "q": "Sara looks at the sky. It is dark and gray. \"It is going to rain,\" she says. \"I am going to take an umbrella.\"\n\nWhy does Sara take an umbrella?",
+    "options": [
+     "It is sunny.",
+     "She wants to go to the museum.",
+     "She thinks it is going to rain."
+    ],
+    "answer": 2,
+    "whyTr": "Gökyüzü karanlık, yağmur bekliyor.",
+    "tag": "reading",
+    "level": "A2"
+   }
+  ]
+ }
+}

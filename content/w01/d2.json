@@ -1,0 +1,121 @@
+{
+  "week": 1,
+  "day": 2,
+  "titleTr": "Kendini ve aileni tanıt",
+  "theme": "family",
+  "morning": {
+    "grammar": {
+      "topic": "to be: am / is / are",
+      "explainTr": [
+        "'to be' İngilizcenin en önemli fiilidir: kim olduğunu, nereli olduğunu ve ne iş yaptığını söylemek için kullanırız. I ile 'am', he / she / it ile 'is', you / we / they ile 'are' gelir.",
+        "Olumsuz yapmak için fiilin arkasına 'not' koy: I am not, she is not (isn't), they are not (aren't). Soru yapmak için fiili başa al: Are you a teacher? Is she your sister?"
+      ],
+      "compareTr": "Türkçede 'öğretmenim' tek kelimedir; ek her şeyi söyler. İngilizcede özneyi ve fiili ayrı yazarız: 'I am a teacher'. Bu yüzden 'I am' ya da 'she is' kısmını atlama.",
+      "table": [
+        ["I", "am", "I'm / I am not"],
+        ["he / she / it", "is", "she's / she isn't"],
+        ["you / we / they", "are", "we're / they aren't"],
+        ["Soru", "Am I / Is he / Are you ...?", "Are you from Turkey?"]
+      ],
+      "examples": [
+        {"en": "I am from Turkey.", "tr": "Türkiyeliyim."},
+        {"en": "She is my sister.", "tr": "O benim kız kardeşim."},
+        {"en": "They are not at home.", "tr": "Onlar evde değil."},
+        {"en": "Are you a teacher?", "tr": "Öğretmen misin?"}
+      ],
+      "exercises": [
+        {"type": "mcq", "q": "I ___ from Turkey.", "options": ["am", "is", "are"], "answer": 0, "whyTr": "I ile her zaman 'am' kullanılır.", "tag": "to-be", "level": "A1"},
+        {"type": "mcq", "q": "My sister ___ a nurse.", "options": ["am", "is", "are"], "answer": 1, "whyTr": "My sister tekil, yani 'she' demek; 'is' gelir.", "tag": "to-be", "level": "A1"},
+        {"type": "mcq", "q": "They ___ my neighbors.", "options": ["is", "am", "are"], "answer": 2, "whyTr": "They ile 'are' kullanılır.", "tag": "to-be", "level": "A1"},
+        {"type": "mcq", "q": "He ___ a doctor. He is a teacher.", "options": ["isn't", "don't", "aren't"], "answer": 0, "whyTr": "He ile olumsuz hali 'isn't' (is not) olur.", "tag": "negative-form", "level": "A1"},
+        {"type": "mcq", "q": "___ you from Mexico?", "options": ["Is", "Are", "Do"], "answer": 1, "whyTr": "You ile soru 'Are you ...?' diye başlar.", "tag": "question-form", "level": "A1"},
+        {"type": "mcq", "q": "Linda and I ___ friends.", "options": ["is", "am", "are"], "answer": 2, "whyTr": "Linda and I = we, bu yüzden 'are'.", "tag": "to-be", "level": "A1"},
+        {"type": "order", "promptTr": "Cümleyi sırala:", "words": ["is", "This", "my", "mother"], "answer": "This is my mother", "whyTr": "Sıra: özne + fiil + gerisi.", "tag": "word-order", "level": "A1"},
+        {"type": "order", "promptTr": "Cümleyi sırala:", "words": ["not", "I", "am", "married"], "answer": "I am not married", "whyTr": "'not' fiilden hemen sonra gelir.", "tag": "negative-form", "level": "A1"},
+        {"type": "order", "promptTr": "Soruyu sırala:", "words": ["Is", "your", "husband", "a", "teacher"], "answer": "Is your husband a teacher", "whyTr": "Soruda 'is' cümlenin başına geçer.", "tag": "question-form", "level": "A1"},
+        {"type": "order", "promptTr": "Soruyu sırala:", "words": ["are", "Where", "you", "from"], "answer": "Where are you from", "whyTr": "Soru kelimesi (where) başta, sonra 'are'.", "tag": "question-form", "level": "A1"},
+        {"type": "fill", "q": "My children ___ at school now.", "accept": ["are"], "hintTr": "children = they", "whyTr": "Children çoğul (they); 'are' gelir.", "tag": "to-be", "level": "A1"},
+        {"type": "fill", "q": "I ___ not a teacher.", "accept": ["am"], "hintTr": "I için to be", "whyTr": "I ile 'am' kullanılır.", "tag": "negative-form", "level": "A1"}
+      ]
+    },
+    "vocab": [
+      {"id": "mother", "en": "mother", "tr": "anne", "pos": "noun", "example": "My mother lives in Isparta.", "exampleTr": "Annem Isparta'da yaşıyor.", "syn": [], "ant": ["father"], "level": "A1"},
+      {"id": "father", "en": "father", "tr": "baba", "pos": "noun", "example": "His father is a bus driver.", "exampleTr": "Onun babası otobüs şoförü.", "syn": [], "ant": ["mother"], "level": "A1"},
+      {"id": "sister", "en": "sister", "tr": "kız kardeş, abla", "pos": "noun", "example": "My sister is a nurse.", "exampleTr": "Kız kardeşim hemşire.", "syn": [], "ant": ["brother"], "level": "A1"},
+      {"id": "brother", "en": "brother", "tr": "erkek kardeş, abi", "pos": "noun", "example": "Her brother is in Texas.", "exampleTr": "Onun erkek kardeşi Texas'ta.", "syn": [], "ant": ["sister"], "level": "A1"},
+      {"id": "husband", "en": "husband", "tr": "koca, eş", "pos": "noun", "example": "Her husband is at work now.", "exampleTr": "Kocası şu an işte.", "syn": [], "ant": ["wife"], "level": "A1"},
+      {"id": "son", "en": "son", "tr": "oğul", "pos": "noun", "example": "My son is fifteen years old.", "exampleTr": "Oğlum on beş yaşında.", "syn": [], "ant": ["daughter"], "level": "A1"},
+      {"id": "daughter", "en": "daughter", "tr": "kız evlat", "pos": "noun", "example": "Their daughter is eight.", "exampleTr": "Onların kızı sekiz yaşında.", "syn": [], "ant": ["son"], "level": "A1"},
+      {"id": "friend", "en": "friend", "tr": "arkadaş", "pos": "noun", "example": "Linda is my good friend.", "exampleTr": "Linda benim iyi arkadaşım.", "syn": [], "ant": [], "level": "A1"},
+      {"id": "neighbor", "en": "neighbor", "tr": "komşu", "pos": "noun", "example": "My neighbor is very nice.", "exampleTr": "Komşum çok iyi biri.", "syn": [], "ant": [], "level": "A1"},
+      {"id": "teacher", "en": "teacher", "tr": "öğretmen", "pos": "noun", "example": "Mr. Brown is not a teacher.", "exampleTr": "Mr. Brown öğretmen değil.", "syn": [], "ant": [], "level": "A1"},
+      {"id": "nurse", "en": "nurse", "tr": "hemşire", "pos": "noun", "example": "My husband is a nurse.", "exampleTr": "Kocam hemşire.", "syn": [], "ant": [], "level": "A1"},
+      {"id": "country", "en": "country", "tr": "ülke", "pos": "noun", "example": "Turkey is my country.", "exampleTr": "Türkiye benim ülkem.", "syn": [], "ant": [], "level": "A1"},
+      {"id": "young", "en": "young", "tr": "genç", "pos": "adjective", "example": "Emre is young.", "exampleTr": "Emre genç.", "syn": [], "ant": ["old"], "level": "A1"},
+      {"id": "old", "en": "old", "tr": "yaşlı, eski", "pos": "adjective", "example": "My grandmother is old, but she is happy.", "exampleTr": "Büyükannem yaşlı ama mutlu.", "syn": [], "ant": ["young"], "level": "A1"},
+      {"id": "married", "en": "married", "tr": "evli", "pos": "adjective", "example": "I am married and I have two children.", "exampleTr": "Evliyim ve iki çocuğum var.", "syn": [], "ant": ["single"], "level": "A1"}
+    ],
+    "reading": {
+      "title": "Meet Hafsa and her neighbor",
+      "text": "Hello! My name is Hafsa. I am from Isparta, a small city in Turkey. Now I live in Ohio with my family. My husband is Murat. He is a nurse at a big hospital. My son is Emre. He is fifteen years old. He is a student at Lincoln High School.\n\nMy neighbor is Linda. She is very nice. She is a teacher. Linda is not from Turkey. She is from Texas. Her husband is not at home today. Linda and I are friends now. We drink tea on Saturday.\n\nI am happy in my new country. English is hard, but I study every day.",
+      "glossary": [
+        {"en": "hospital", "tr": "hastane"},
+        {"en": "student", "tr": "öğrenci"},
+        {"en": "hard", "tr": "zor"},
+        {"en": "study", "tr": "çalışmak, ders çalışmak"}
+      ],
+      "questions": [
+        {"type": "mcq", "q": "Where is Hafsa from?", "options": ["Isparta", "Texas", "Ohio"], "answer": 0, "whyTr": "Metinde 'I am from Isparta' yazıyor.", "tag": "reading", "level": "A1"},
+        {"type": "mcq", "q": "What is Murat's job?", "options": ["He is a teacher.", "He is a nurse.", "He is a student."], "answer": 1, "whyTr": "'He is a nurse at a big hospital.'", "tag": "reading", "level": "A1"},
+        {"type": "mcq", "q": "Who is Linda?", "options": ["Hafsa's sister", "Hafsa's neighbor", "Hafsa's mother"], "answer": 1, "whyTr": "'My neighbor is Linda.'", "tag": "reading", "level": "A1"},
+        {"type": "mcq", "q": "Which sentence is true?", "options": ["Linda is from Turkey.", "Emre is a student.", "Murat is a teacher."], "answer": 1, "whyTr": "Emre Lincoln High School'da öğrenci.", "tag": "reading", "level": "A1"}
+      ]
+    }
+  },
+  "evening": {
+    "listening": {
+      "title": "At Emre's school",
+      "script": [
+        {"speaker": "Mr. Brown", "text": "Good morning. I am Mr. Brown. I am the school secretary."},
+        {"speaker": "Hafsa", "text": "Nice to meet you. My name is Hafsa. I am Emre's mother."},
+        {"speaker": "Mr. Brown", "text": "Welcome, Hafsa. Are you from Turkey?"},
+        {"speaker": "Hafsa", "text": "Yes, I am. I am from Isparta."},
+        {"speaker": "Mr. Brown", "text": "Is Emre your only child?"},
+        {"speaker": "Hafsa", "text": "No, he isn't. Emre is my son. Elif is my daughter. She is eight."},
+        {"speaker": "Mr. Brown", "text": "Is she in this school?"},
+        {"speaker": "Hafsa", "text": "No, she isn't. She is at Park Elementary."},
+        {"speaker": "Mr. Brown", "text": "Is your husband here today?"},
+        {"speaker": "Hafsa", "text": "No, he isn't. He is at work. He is a nurse."},
+        {"speaker": "Mr. Brown", "text": "That is great. Please sit here, Hafsa."}
+      ],
+      "questions": [
+        {"type": "mcq", "q": "Who is Mr. Brown?", "options": ["The school secretary", "Emre's teacher", "Hafsa's neighbor"], "answer": 0, "whyTr": "'I am the school secretary.'", "tag": "listening", "level": "A1"},
+        {"type": "mcq", "q": "Where is Hafsa from?", "options": ["Texas", "Isparta", "Ohio"], "answer": 1, "whyTr": "'I am from Isparta.'", "tag": "listening", "level": "A1"},
+        {"type": "mcq", "q": "Where is Elif?", "options": ["At Emre's school", "At home", "At Park Elementary"], "answer": 2, "whyTr": "'She is at Park Elementary.'", "tag": "listening", "level": "A1"},
+        {"type": "mcq", "q": "Is Hafsa's husband at the school?", "options": ["Yes, he is.", "No, he is at work.", "No, he is at home."], "answer": 1, "whyTr": "'He is at work. He is a nurse.'", "tag": "listening", "level": "A1"}
+      ]
+    },
+    "writing": {
+      "promptTr": "Kendini ve ailenden bir kişiyi 4-5 cümleyle tanıt.",
+      "promptEn": "Introduce yourself and one person in your family in 4-5 sentences.",
+      "frames": ["My name is ...", "I am from ...", "My ... is ...", "He / She is a ...", "He / She is not ..."],
+      "model": "My name is Hafsa. I am from Isparta, Turkey. My son is Emre. He is fifteen years old. He is not a teacher. He is a student.",
+      "checklistTr": ["Her cümlede am / is / are var mı?", "Cümleler büyük harfle başlıyor mu?", "En az bir olumsuz cümle (is not / am not) yazdın mı?"],
+      "minWords": 20
+    },
+    "examSet": [
+      {"type": "mcq", "q": "My parents ___ in Turkey.", "options": ["is", "am", "are"], "answer": 2, "whyTr": "My parents çoğul (they); 'are' gelir.", "tag": "to-be", "level": "A1"},
+      {"type": "mcq", "q": "Where ___ your sister?", "options": ["is", "are", "am"], "answer": 0, "whyTr": "Your sister tekildir; 'is' kullanılır.", "tag": "to-be", "level": "A1"},
+      {"type": "mcq", "q": "I ___ a nurse. I am a teacher.", "options": ["am not", "is not", "are not"], "answer": 0, "whyTr": "I ile olumsuz 'am not' olur.", "tag": "negative-form", "level": "A1"},
+      {"type": "mcq", "q": "___ Emre and Elif brother and sister?", "options": ["Is", "Am", "Are"], "answer": 2, "whyTr": "Emre and Elif iki kişi (they); 'Are' gelir.", "tag": "question-form", "level": "A1"},
+      {"type": "mcq", "q": "Which sentence is correct?", "options": ["She not is my friend.", "She is not my friend.", "She no is my friend."], "answer": 1, "whyTr": "'not' fiil 'is'ten sonra gelir.", "tag": "word-order", "level": "A1"},
+      {"type": "mcq", "q": "Hafsa is my friend. ___ is from Turkey.", "options": ["He", "They", "She"], "answer": 2, "whyTr": "Hafsa kadın; onun yerine 'she' kullanılır.", "tag": "pronouns", "level": "A1"},
+      {"type": "mcq", "q": "My mother's husband is my ___.", "options": ["brother", "father", "son"], "answer": 1, "whyTr": "Annenin kocası babandır.", "tag": "vocab", "level": "A1"},
+      {"type": "mcq", "q": "A ___ works at a school.", "options": ["nurse", "neighbor", "teacher"], "answer": 2, "whyTr": "Okulda çalışan kişi 'teacher'dır.", "tag": "vocab", "level": "A1"},
+      {"type": "mcq", "q": "Which word is the opposite of 'old'?", "options": ["young", "big", "married"], "answer": 0, "whyTr": "old (yaşlı) ↔ young (genç).", "tag": "antonym", "level": "A1"},
+      {"type": "mcq", "q": "Which word means the same as 'big'?", "options": ["small", "large", "young"], "answer": 1, "whyTr": "big ve large eş anlamlıdır (büyük).", "tag": "synonym", "level": "A1"},
+      {"type": "mcq", "q": "Ali is my neighbor. He is from Egypt. He is a nurse. His wife is a teacher.\n\nWhat is Ali's job?", "options": ["Teacher", "Nurse", "Neighbor"], "answer": 1, "whyTr": "Metinde 'He is a nurse' yazıyor.", "tag": "reading", "level": "A1"},
+      {"type": "mcq", "q": "Hello, I am Sara. I am from Canada. I am not a teacher. I am a nurse. My sister is a teacher.\n\nWho is a teacher?", "options": ["Sara's sister", "Sara", "Sara's mother"], "answer": 0, "whyTr": "'My sister is a teacher.'", "tag": "reading", "level": "A2"}
+    ]
+  }
+}

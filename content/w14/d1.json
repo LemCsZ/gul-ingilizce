@@ -1,0 +1,913 @@
+{
+ "week": 14,
+ "day": 1,
+ "titleTr": "Toplantı notları: öneri, tavsiye, uyarı",
+ "theme": "school-policy",
+ "morning": {
+  "grammar": {
+   "topic": "Reporting verbs: suggest, advise, admit, deny, warn",
+   "explainTr": [
+    "Biri bir şey söylediğinde onu 'said' ile aktarabilirsin, ama toplantı notlarında daha net fiiller kullanılır: suggest (öner), advise (tavsiye et), admit (kabul et, itiraf et), deny (inkâr et), warn (uyar). Bu fiillerin her biri farklı bir kalıpla gelir; asıl iş kalıbı ezberlemek.",
+    "suggest, admit ve deny'den sonra genelde -ing gelir: She suggested changing the bell. He denied taking the pen. Advise ve warn'dan sonra ise kişi + to gelir: She advised me to call. He warned us not to run. Olumsuzda 'not to' kullanılır.",
+    "Çok yapılan hata: 'suggest' ile 'to' kullanmak. 'She suggested me to go' yanlıştır; doğrusu 'She suggested going' veya 'She suggested that I go'. 'Advise' ise tam tersine kişiyi ister: advise SOMEONE to do."
+   ],
+   "compareTr": "Türkçede 'bana gitmemi önerdi' ve 'gitmemi tavsiye etti' neredeyse aynı yapıdır. İngilizcede ise fiile göre kalıp değişir: suggest + -ing, advise + kişi + to, admit/deny + -ing. Türkçedeki 'inkâr etti' için 'denied' ve ardından -ing gerekir.",
+   "table": [
+    [
+     "suggest",
+     "suggest + -ing / that + özne + fiil",
+     "She suggested changing the bell."
+    ],
+    [
+     "advise",
+     "advise + kişi + to + fiil",
+     "He advised me to arrive early."
+    ],
+    [
+     "admit",
+     "admit + -ing / that ...",
+     "He admitted forgetting the list."
+    ],
+    [
+     "deny",
+     "deny + -ing / that ...",
+     "She denied breaking the window."
+    ],
+    [
+     "warn",
+     "warn + kişi + (not) to + fiil",
+     "They warned us not to run."
+    ],
+    [
+     "recommend",
+     "recommend + -ing / that ...",
+     "I recommend reading the notes."
+    ]
+   ],
+   "examples": [
+    {
+     "en": "The principal suggested starting the meeting earlier.",
+     "tr": "Müdür toplantıyı daha erken başlatmayı önerdi."
+    },
+    {
+     "en": "The counselor advised the teachers to call the parents.",
+     "tr": "Rehber öğretmen, öğretmenlere velileri aramalarını tavsiye etti."
+    },
+    {
+     "en": "One teacher admitted losing the allergy list.",
+     "tr": "Bir öğretmen alerji listesini kaybettiğini kabul etti."
+    },
+    {
+     "en": "The boy denied starting the fight.",
+     "tr": "Çocuk kavgayı başlattığını inkâr etti."
+    },
+    {
+     "en": "The nurse warned us not to give snacks without checking.",
+     "tr": "Hemşire kontrol etmeden atıştırmalık vermememiz konusunda bizi uyardı."
+    }
+   ],
+   "exercises": [
+    {
+     "type": "mcq",
+     "q": "The counselor suggested ___ to both students separately.",
+     "options": [
+      "talking",
+      "to talk",
+      "us to talk"
+     ],
+     "answer": 0,
+     "whyTr": "'Suggest' ile -ing kullanılır: suggested talking.",
+     "tag": "gerund-infinitive",
+     "level": "B2"
+    },
+    {
+     "type": "mcq",
+     "q": "The principal advised me ___ the folder early.",
+     "options": [
+      "pick up",
+      "to pick up",
+      "picking up"
+     ],
+     "answer": 1,
+     "whyTr": "'Advise' + kişi + to + fiil kalıbıdır.",
+     "tag": "reported-speech",
+     "level": "B2"
+    },
+    {
+     "type": "mcq",
+     "q": "He admitted ___ the form on the bus.",
+     "options": [
+      "to lose",
+      "lose",
+      "losing"
+     ],
+     "answer": 2,
+     "whyTr": "'Admit' ile -ing gelir: admitted losing.",
+     "tag": "gerund-infinitive",
+     "level": "B2"
+    },
+    {
+     "type": "order",
+     "promptTr": "Cümleyi sırala:",
+     "words": [
+      "denied",
+      "fight",
+      "The",
+      "boy",
+      "starting",
+      "the"
+     ],
+     "answer": "The boy denied starting the fight",
+     "whyTr": "Sıra: özne + denied + -ing + gerisi.",
+     "tag": "reported-speech",
+     "level": "B2"
+    },
+    {
+     "type": "mcq",
+     "q": "The nurse warned us ___ give snacks without checking the list.",
+     "options": [
+      "not to",
+      "don't",
+      "not"
+     ],
+     "answer": 0,
+     "whyTr": "'Warn' + kişi + not to + fiil kalıbıdır.",
+     "tag": "reported-speech",
+     "level": "B2"
+    },
+    {
+     "type": "order",
+     "promptTr": "Cümleyi sırala:",
+     "words": [
+      "Brown",
+      "arrive",
+      "advised",
+      "her",
+      "early",
+      "to",
+      "Mr."
+     ],
+     "answer": "Mr. Brown advised her to arrive early",
+     "whyTr": "Sıra: advised + kişi + to + fiil.",
+     "tag": "reported-speech",
+     "level": "B2"
+    },
+    {
+     "type": "mcq",
+     "q": "Which sentence is correct?",
+     "options": [
+      "She suggested that we leave early.",
+      "She suggested us to leave early.",
+      "She suggested to leave early.",
+      "She suggested that we to leave early."
+     ],
+     "answer": 0,
+     "whyTr": "'Suggest' ile 'to' kullanılmaz; 'that we leave' doğrudur.",
+     "tag": "reported-speech",
+     "level": "B2"
+    },
+    {
+     "type": "mcq",
+     "q": "\"I'm sorry, I forgot the key.\" The teacher ___ forgetting the key.",
+     "options": [
+      "denied",
+      "admitted",
+      "warned",
+      "advised"
+     ],
+     "answer": 1,
+     "whyTr": "Hatayı kabul etmek: admit.",
+     "tag": "reported-speech",
+     "level": "B2"
+    },
+    {
+     "type": "mcq",
+     "q": "\"I didn't take your pen.\" She ___ taking my pen.",
+     "options": [
+      "admitted",
+      "suggested",
+      "denied",
+      "advised"
+     ],
+     "answer": 2,
+     "whyTr": "Yapmadığını söylemek: deny.",
+     "tag": "reported-speech",
+     "level": "B2"
+    },
+    {
+     "type": "mcq",
+     "q": "By the time Hafsa arrived, the meeting ___.",
+     "options": [
+      "has already started",
+      "already starts",
+      "was already start",
+      "had already started"
+     ],
+     "answer": 3,
+     "whyTr": "Geçmişteki iki olaydan önce olan için past perfect kullanılır.",
+     "tag": "past-perfect",
+     "level": "B2"
+    },
+    {
+     "type": "mcq",
+     "q": "If the bell ___ earlier, students would get to class on time.",
+     "options": [
+      "rang",
+      "rings",
+      "will ring",
+      "would ring"
+     ],
+     "answer": 0,
+     "whyTr": "Gerçek dışı koşulda if cümlesi past simple alır.",
+     "tag": "conditionals",
+     "level": "B2"
+    },
+    {
+     "type": "fill",
+     "q": "The coach advised the team ___ drink more water.",
+     "accept": [
+      "to"
+     ],
+     "hintTr": "advise + kişi + ...",
+     "whyTr": "'Advise' + kişi + to + fiil.",
+     "tag": "reported-speech",
+     "level": "B2"
+    }
+   ]
+  },
+  "vocab": [
+   {
+    "id": "propose",
+    "en": "propose",
+    "tr": "önermek",
+    "pos": "verb",
+    "example": "The principal proposed a new lunch schedule.",
+    "exampleTr": "Müdür yeni bir öğle yemeği programı önerdi.",
+    "syn": [
+     "suggest"
+    ],
+    "ant": [],
+    "level": "B2"
+   },
+   {
+    "id": "proposal",
+    "en": "proposal",
+    "tr": "öneri, teklif",
+    "pos": "noun",
+    "example": "The committee will read the proposal on Monday.",
+    "exampleTr": "Komite öneriyi Pazartesi okuyacak.",
+    "syn": [
+     "suggestion"
+    ],
+    "ant": [],
+    "level": "B2"
+   },
+   {
+    "id": "insist",
+    "en": "insist",
+    "tr": "ısrar etmek",
+    "pos": "verb",
+    "example": "She insisted that every student wear a name tag.",
+    "exampleTr": "Her öğrencinin isim kartı takması konusunda ısrar etti.",
+    "syn": [],
+    "ant": [],
+    "level": "B2"
+   },
+   {
+    "id": "claim",
+    "en": "claim",
+    "tr": "iddia etmek",
+    "pos": "verb",
+    "example": "He claims that he sent the email last week.",
+    "exampleTr": "E-postayı geçen hafta gönderdiğini iddia ediyor.",
+    "syn": [],
+    "ant": [],
+    "level": "B2"
+   },
+   {
+    "id": "agree",
+    "en": "agree",
+    "tr": "aynı fikirde olmak",
+    "pos": "verb",
+    "example": "I agree with the new attendance rule.",
+    "exampleTr": "Yeni devamsızlık kuralına katılıyorum.",
+    "syn": [],
+    "ant": [
+     "disagree"
+    ],
+    "level": "A2"
+   },
+   {
+    "id": "disagree",
+    "en": "disagree",
+    "tr": "aynı fikirde olmamak",
+    "pos": "verb",
+    "example": "Some teachers disagree about homework.",
+    "exampleTr": "Bazı öğretmenler ödev konusunda aynı fikirde değil.",
+    "syn": [],
+    "ant": [
+     "agree"
+    ],
+    "level": "B1"
+   },
+   {
+    "id": "oppose",
+    "en": "oppose",
+    "tr": "karşı çıkmak",
+    "pos": "verb",
+    "example": "Several parents oppose the earlier start time.",
+    "exampleTr": "Birkaç veli daha erken başlama saatine karşı çıkıyor.",
+    "syn": [],
+    "ant": [
+     "support"
+    ],
+    "level": "B2"
+   },
+   {
+    "id": "committee",
+    "en": "committee",
+    "tr": "komite",
+    "pos": "noun",
+    "example": "The committee meets every second Tuesday.",
+    "exampleTr": "Komite her ayın ikinci Salı günü toplanır.",
+    "syn": [],
+    "ant": [],
+    "level": "B2"
+   },
+   {
+    "id": "minutes",
+    "en": "minutes",
+    "tr": "toplantı tutanağı",
+    "pos": "noun",
+    "example": "The secretary types the minutes after each meeting.",
+    "exampleTr": "Sekreter her toplantıdan sonra tutanağı yazar.",
+    "syn": [],
+    "ant": [],
+    "level": "B2"
+   },
+   {
+    "id": "decision",
+    "en": "decision",
+    "tr": "karar",
+    "pos": "noun",
+    "example": "It was a difficult decision for the whole staff.",
+    "exampleTr": "Bütün personel için zor bir karardı.",
+    "syn": [],
+    "ant": [],
+    "level": "B1"
+   },
+   {
+    "id": "vote",
+    "en": "vote",
+    "tr": "oy vermek; oylama",
+    "pos": "verb",
+    "example": "The teachers will vote on the new schedule.",
+    "exampleTr": "Öğretmenler yeni program için oy kullanacak.",
+    "syn": [],
+    "ant": [],
+    "level": "B2"
+   },
+   {
+    "id": "objection",
+    "en": "objection",
+    "tr": "itiraz",
+    "pos": "noun",
+    "example": "Does anyone have an objection to this plan?",
+    "exampleTr": "Bu plana itiraz eden var mı?",
+    "syn": [],
+    "ant": [],
+    "level": "B2"
+   },
+   {
+    "id": "accuse",
+    "en": "accuse",
+    "tr": "suçlamak",
+    "pos": "verb",
+    "example": "Don't accuse a student without proof.",
+    "exampleTr": "Kanıt olmadan bir öğrenciyi suçlama.",
+    "syn": [],
+    "ant": [],
+    "level": "B2"
+   },
+   {
+    "id": "persuade",
+    "en": "persuade",
+    "tr": "ikna etmek",
+    "pos": "verb",
+    "example": "Emre persuaded me to try the online class.",
+    "exampleTr": "Emre beni online dersi denemeye ikna etti.",
+    "syn": [
+     "convince"
+    ],
+    "ant": [],
+    "level": "B2"
+   },
+   {
+    "id": "convince",
+    "en": "convince",
+    "tr": "ikna etmek, inandırmak",
+    "pos": "verb",
+    "example": "The data convinced the committee to change the rule.",
+    "exampleTr": "Veriler komiteyi kuralı değiştirmeye ikna etti.",
+    "syn": [
+     "persuade"
+    ],
+    "ant": [],
+    "level": "B2"
+   }
+  ],
+  "reading": {
+   "title": "Notes from a staff meeting",
+   "text": "Last Thursday, Mr. Brown sent Hafsa the notes from a staff meeting at Maple Grove Elementary. Hafsa is not a regular employee yet, but the principal wants every substitute teacher to read them. She sat down at the kitchen table with a cup of tea and read carefully.\n\nThe meeting was about a problem in the hallways. Several teachers said that students were arriving late to class after lunch. The principal, Ms. Rivera, admitted that the schedule had been confusing since September. She suggested changing the lunch bell and giving students a two-minute warning before the end of recess. Everyone agreed, except Mr. Dolan, who thought the change would cause more confusion in the cafeteria.\n\nNext, the counselor talked about an incident on the playground. Two boys had been arguing about a ball, and one of them pushed the other. The boy who pushed denied starting the fight, but a lunch aide had seen everything. The counselor advised the teachers to speak with both students separately and to call the parents the same day. She also warned the staff not to discuss the incident with other families, because the school must protect student privacy.\n\nFinally, the nurse reminded everyone about allergies. She warned substitute teachers to check the allergy list before giving any snacks to the class. One teacher admitted forgetting the list last month, and she promised to keep a copy on her desk from now on. The nurse recommended hanging a small card next to the door, so that anyone who enters the room can find the information quickly.\n\nAt the bottom of the page, Mr. Brown had added a short note for Hafsa. He suggested that she introduce herself to the nurse and the counselor during her first week. He also advised her to arrive twenty minutes early, since the front office gives substitutes a folder with the daily plan. Hafsa smiled. The notes were long, but they showed her how a real school solves problems together, and she felt more ready than before.",
+   "glossary": [
+    {
+     "en": "hallway",
+     "tr": "koridor"
+    },
+    {
+     "en": "incident",
+     "tr": "olay, vaka"
+    },
+    {
+     "en": "allergy",
+     "tr": "alerji"
+    },
+    {
+     "en": "privacy",
+     "tr": "mahremiyet"
+    },
+    {
+     "en": "lunch aide",
+     "tr": "yemekhane görevlisi"
+    },
+    {
+     "en": "confusing",
+     "tr": "kafa karıştırıcı"
+    }
+   ],
+   "questions": [
+    {
+     "type": "mcq",
+     "q": "What did the principal admit?",
+     "options": [
+      "She had forgotten the allergy list.",
+      "The lunch schedule had been confusing since September.",
+      "She had lost the meeting notes.",
+      "She had started the fight."
+     ],
+     "answer": 1,
+     "whyTr": "Metin: 'admitted that the schedule had been confusing since September.'",
+     "tag": "reading",
+     "level": "B2"
+    },
+    {
+     "type": "mcq",
+     "q": "What did the boy who pushed the other say?",
+     "options": [
+      "He admitted starting the fight.",
+      "He suggested calling the parents.",
+      "He denied starting the fight.",
+      "He warned the lunch aide."
+     ],
+     "answer": 2,
+     "whyTr": "Metin: 'denied starting the fight'.",
+     "tag": "reading",
+     "level": "B2"
+    },
+    {
+     "type": "mcq",
+     "q": "What did the nurse warn substitute teachers to do?",
+     "options": [
+      "Avoid the cafeteria.",
+      "Call parents about every snack.",
+      "Hang a card outside the school.",
+      "Check the allergy list before giving snacks."
+     ],
+     "answer": 3,
+     "whyTr": "Metin: 'warned substitute teachers to check the allergy list'.",
+     "tag": "reading",
+     "level": "B2"
+    },
+    {
+     "type": "mcq",
+     "q": "What did Mr. Brown advise Hafsa to do?",
+     "options": [
+      "Arrive twenty minutes early.",
+      "Talk to the families about the incident.",
+      "Bring her own snacks.",
+      "Introduce herself to Mr. Dolan."
+     ],
+     "answer": 0,
+     "whyTr": "Metin: 'advised her to arrive twenty minutes early'.",
+     "tag": "reading",
+     "level": "B2"
+    }
+   ]
+  }
+ },
+ "evening": {
+  "listening": {
+   "title": "Questions about the meeting notes",
+   "script": [
+    {
+     "speaker": "Mr. Brown",
+     "text": "Hafsa, did you read the meeting notes I sent?"
+    },
+    {
+     "speaker": "Hafsa",
+     "text": "Yes, I did. I have one question about the field trip."
+    },
+    {
+     "speaker": "Mr. Brown",
+     "text": "Go ahead."
+    },
+    {
+     "speaker": "Hafsa",
+     "text": "The notes say the principal suggested moving it to May. Why?"
+    },
+    {
+     "speaker": "Mr. Brown",
+     "text": "Well, the bus company warned us that April is already full. Also, several parents admitted they couldn't take time off work in April."
+    },
+    {
+     "speaker": "Hafsa",
+     "text": "I see. And what did Ms. Rivera say about the permission slips?"
+    },
+    {
+     "speaker": "Mr. Brown",
+     "text": "She advised the teachers to send them home two weeks early. One teacher denied receiving the old forms, but they were in her mailbox."
+    },
+    {
+     "speaker": "Hafsa",
+     "text": "Should I do anything as a substitute?"
+    },
+    {
+     "speaker": "Mr. Brown",
+     "text": "I suggest checking the folder on the teacher's desk every morning. If a slip is missing, remind the student politely."
+    },
+    {
+     "speaker": "Hafsa",
+     "text": "That sounds easy. Thank you for explaining everything."
+    },
+    {
+     "speaker": "Mr. Brown",
+     "text": "Anytime. And Hafsa, don't forget to sign in at the front office."
+    },
+    {
+     "speaker": "Hafsa",
+     "text": "I won't. I'm writing it down right now."
+    }
+   ],
+   "questions": [
+    {
+     "type": "mcq",
+     "q": "Why did the principal suggest moving the field trip to May?",
+     "options": [
+      "The students wanted a longer trip.",
+      "The bus company had no space in April.",
+      "The principal was on vacation.",
+      "The permission slips were lost."
+     ],
+     "answer": 1,
+     "whyTr": "Mr. Brown: 'the bus company warned us that April is already full.'",
+     "tag": "listening",
+     "level": "B2"
+    },
+    {
+     "type": "mcq",
+     "q": "What did Ms. Rivera advise the teachers to do?",
+     "options": [
+      "Cancel the trip.",
+      "Call every parent.",
+      "Send the permission slips home two weeks early.",
+      "Collect the old forms."
+     ],
+     "answer": 2,
+     "whyTr": "Mr. Brown: 'She advised the teachers to send them home two weeks early.'",
+     "tag": "listening",
+     "level": "B2"
+    },
+    {
+     "type": "mcq",
+     "q": "What does Mr. Brown suggest Hafsa do each morning?",
+     "options": [
+      "Call the bus company.",
+      "Visit the principal.",
+      "Collect money from students.",
+      "Check the folder on the teacher's desk."
+     ],
+     "answer": 3,
+     "whyTr": "Mr. Brown: 'I suggest checking the folder on the teacher's desk every morning.'",
+     "tag": "listening",
+     "level": "B2"
+    },
+    {
+     "type": "mcq",
+     "q": "What did one teacher deny?",
+     "options": [
+      "Receiving the old forms.",
+      "Moving the trip to May.",
+      "Calling the parents.",
+      "Losing the folder."
+     ],
+     "answer": 0,
+     "whyTr": "Mr. Brown: 'One teacher denied receiving the old forms.'",
+     "tag": "listening",
+     "level": "B2"
+    }
+   ]
+  },
+  "writing": {
+   "promptTr": "Ziyaret ettiğin bir okul toplantısını Linda'ya anlat. En az üç farklı aktarma fiili kullan (suggest, advise, admit, deny, warn). 120-180 kelime yaz.",
+   "promptEn": "Write an email to Linda about a school meeting you attended. Use at least three reporting verbs (suggest, advise, admit, deny, warn).",
+   "frames": [
+    "The principal suggested ...",
+    "The counselor advised the teachers to ...",
+    "One parent admitted ...",
+    "The nurse warned us not to ..."
+   ],
+   "model": "Hi Linda, I want to tell you about the staff meeting I attended at Maple Grove Elementary yesterday. The principal admitted that the parking lot is too small, and she suggested using the church lot across the street. One teacher denied blocking the driveway, but the security guard said he had seen her car there. The counselor advised everyone to read the new handbook before the first day of school. She also warned us not to drop children off near the bus lane because it is dangerous. At the end, the teachers asked the parents to arrive ten minutes early for conferences. I think these ideas are reasonable, and I promised to read the handbook this weekend. Do you want to read it together? We could talk about it over tea and share our questions. I would really like to hear your opinion before I visit the school again next week. Write back soon!",
+   "checklistTr": [
+    "En az üç aktarma fiili kullandın mı?",
+    "suggest/admit/deny'den sonra -ing, advise/warn'dan sonra kişi + to kullandın mı?",
+    "'suggest to' veya 'suggest me to' hatasından kaçındın mı?",
+    "E-postada selamlama ve kapanış var mı?"
+   ],
+   "minWords": 120
+  },
+  "examSet": [
+   {
+    "type": "mcq",
+    "q": "My neighbor suggested ___ a different bus.",
+    "options": [
+     "to take",
+     "me take",
+     "taking"
+    ],
+    "answer": 2,
+    "whyTr": "'Suggest' ile -ing kullanılır.",
+    "tag": "gerund-infinitive",
+    "level": "B2"
+   },
+   {
+    "type": "mcq",
+    "q": "The nurse advised the parents ___ their children home.",
+    "options": [
+     "to keep",
+     "keep",
+     "keeping"
+    ],
+    "answer": 0,
+    "whyTr": "'Advise' + kişi + to + fiil.",
+    "tag": "reported-speech",
+    "level": "B2"
+   },
+   {
+    "type": "mcq",
+    "q": "The guard warned the students ___ the fence.",
+    "options": [
+     "don't climb",
+     "not to climb",
+     "not climbing"
+    ],
+    "answer": 1,
+    "whyTr": "'Warn' + kişi + not to + fiil.",
+    "tag": "reported-speech",
+    "level": "B2"
+   },
+   {
+    "type": "mcq",
+    "q": "Which sentence is correct?",
+    "options": [
+     "He admitted to take the money.",
+     "He admitted take the money.",
+     "He admitted taking the money."
+    ],
+    "answer": 2,
+    "whyTr": "'Admit' + -ing kalıbı doğrudur.",
+    "tag": "reported-speech",
+    "level": "B2"
+   },
+   {
+    "type": "mcq",
+    "q": "\"I will call you tomorrow,\" said Mr. Brown. Mr. Brown said that he ___ call me the next day.",
+    "options": [
+     "will",
+     "would",
+     "did",
+     "has"
+    ],
+    "answer": 1,
+    "whyTr": "Aktarmada will, would'a döner.",
+    "tag": "reported-speech",
+    "level": "B2"
+   },
+   {
+    "type": "mcq",
+    "q": "The teacher ___ I met yesterday works here.",
+    "options": [
+     "which",
+     "whose",
+     "who",
+     "what"
+    ],
+    "answer": 2,
+    "whyTr": "Kişi için who kullanılır.",
+    "tag": "relative-clauses",
+    "level": "B2"
+   },
+   {
+    "type": "mcq",
+    "q": "The permission slips ___ by Friday.",
+    "options": [
+     "must return",
+     "must be return",
+     "must returned",
+     "must be returned"
+    ],
+    "answer": 3,
+    "whyTr": "Edilgen modalda: must be + V3.",
+    "tag": "passive",
+    "level": "B2"
+   },
+   {
+    "type": "mcq",
+    "q": "If I ___ the answer, I would tell you.",
+    "options": [
+     "knew",
+     "know",
+     "will know",
+     "would know"
+    ],
+    "answer": 0,
+    "whyTr": "Gerçek dışı koşulda if cümlesi past simple alır.",
+    "tag": "conditionals",
+    "level": "B2"
+   },
+   {
+    "type": "mcq",
+    "q": "I'm looking forward to ___ the new school.",
+    "options": [
+     "see",
+     "seeing",
+     "to see"
+    ],
+    "answer": 1,
+    "whyTr": "'Look forward to' sonrası -ing gelir.",
+    "tag": "gerund-infinitive",
+    "level": "B2"
+   },
+   {
+    "type": "mcq",
+    "q": "Hafsa ___ at this school since March.",
+    "options": [
+     "works",
+     "is working",
+     "has worked",
+     "worked"
+    ],
+    "answer": 2,
+    "whyTr": "'Since' ile present perfect kullanılır.",
+    "tag": "present-perfect",
+    "level": "B2"
+   },
+   {
+    "type": "mcq",
+    "q": "The committee will ___ on the new rule on Monday.",
+    "options": [
+     "vote",
+     "accuse",
+     "persuade"
+    ],
+    "answer": 0,
+    "whyTr": "Oy kullanmak: vote on.",
+    "tag": "vocab",
+    "level": "B2"
+   },
+   {
+    "type": "mcq",
+    "q": "The principal read the ___ from last week's meeting.",
+    "options": [
+     "committee",
+     "minutes",
+     "vote"
+    ],
+    "answer": 1,
+    "whyTr": "Tutanak: minutes.",
+    "tag": "vocab",
+    "level": "B2"
+   },
+   {
+    "type": "mcq",
+    "q": "Which word means almost the same as \"propose\"?",
+    "options": [
+     "oppose",
+     "suggest",
+     "accuse",
+     "forget"
+    ],
+    "answer": 1,
+    "whyTr": "Propose ve suggest eş anlamlıdır.",
+    "tag": "synonym",
+    "level": "B2"
+   },
+   {
+    "type": "mcq",
+    "q": "What is the opposite of \"agree\"?",
+    "options": [
+     "decide",
+     "persuade",
+     "disagree",
+     "insist"
+    ],
+    "answer": 2,
+    "whyTr": "Agree'nin zıttı disagree.",
+    "tag": "antonym",
+    "level": "B2"
+   },
+   {
+    "type": "mcq",
+    "q": "Which word means almost the same as \"convince\"?",
+    "options": [
+     "accuse",
+     "refuse",
+     "delay",
+     "persuade"
+    ],
+    "answer": 3,
+    "whyTr": "Convince ve persuade eş anlamlıdır.",
+    "tag": "synonym",
+    "level": "B2"
+   },
+   {
+    "type": "mcq",
+    "q": "She ___ that the answer was wrong, even after I showed her the book.",
+    "options": [
+     "insisted",
+     "voted",
+     "persuaded",
+     "opposed"
+    ],
+    "answer": 0,
+    "whyTr": "Israr etmek: insist.",
+    "tag": "vocab",
+    "level": "B2"
+   },
+   {
+    "type": "mcq",
+    "q": "The principal suggested starting the day with a short reading period. Mr. Dolan objected, saying that the first ten minutes are needed for attendance. In the end, the committee voted to try the new schedule for one month.\n\nWhat did the committee decide?",
+    "options": [
+     "To reject the idea.",
+     "To try the new schedule for one month.",
+     "To start school earlier.",
+     "To cancel attendance."
+    ],
+    "answer": 1,
+    "whyTr": "Metin: 'voted to try the new schedule for one month'.",
+    "tag": "reading",
+    "level": "B2"
+   },
+   {
+    "type": "mcq",
+    "q": "The nurse warned the staff not to give medicine without a form. A new teacher admitted that she had once given a student a cough drop. The nurse thanked her for being honest.\n\nWhat did the new teacher admit?",
+    "options": [
+     "She had lost the nurse's form.",
+     "She had refused to follow the rule.",
+     "She had given a student a cough drop.",
+     "She had called the parents."
+    ],
+    "answer": 2,
+    "whyTr": "Metin: 'admitted that she had once given a student a cough drop'.",
+    "tag": "reading",
+    "level": "B2"
+   },
+   {
+    "type": "mcq",
+    "q": "Which sentence reports \"You should read the handbook\"?",
+    "options": [
+     "She advised me reading the handbook.",
+     "She admitted me to read the handbook.",
+     "She denied me to read the handbook.",
+     "She advised me to read the handbook."
+    ],
+    "answer": 3,
+    "whyTr": "'Advise' + kişi + to + fiil.",
+    "tag": "reported-speech",
+    "level": "B2"
+   },
+   {
+    "type": "mcq",
+    "q": "Which sentence is correct?",
+    "options": [
+     "He denied having the key.",
+     "He denied to have the key.",
+     "He denied have the key."
+    ],
+    "answer": 0,
+    "whyTr": "'Deny' + -ing kalıbı doğrudur.",
+    "tag": "gerund-infinitive",
+    "level": "B2"
+   }
+  ]
+ }
+}

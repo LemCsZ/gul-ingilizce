@@ -1,0 +1,924 @@
+{
+ "week": 13,
+ "day": 4,
+ "titleTr": "Kayıp eşya gizemi: geçmişte çıkarım",
+ "theme": "lost-items",
+ "morning": {
+  "grammar": {
+   "topic": "must have / might have / can't have + V3 (past deduction)",
+   "explainTr": [
+    "Geçmişte ne olduğunu tahmin etmek için üç kalıp kullanırız. Neredeyse eminsek: must have + V3 (He must have lost it.). Emin değilsek: might / could have + V3 (She might have left it.).",
+    "Olması imkânsız görünüyorsa: can't have + V3 (He can't have taken it; he was in class.). 'Mustn't have' kullanma, yanlıştır.",
+    "Hepsinde 'have' sabit, ana fiil üçüncü halde (V3). Çıkarım için bir ipucu (clue) olması iyi bir alışkanlıktır."
+   ],
+   "compareTr": "Türkçede 'almış olmalı / almış olabilir / almış olamaz' ekle yapılır. İngilizcede 'have + V3' sabit, başa must / might / can't gelir.",
+   "table": [
+    [
+     "Neredeyse kesin",
+     "must have + V3",
+     "He must have lost it."
+    ],
+    [
+     "Olabilir",
+     "might / could have + V3",
+     "She might have left it."
+    ],
+    [
+     "İmkânsız",
+     "can't / couldn't have + V3",
+     "He can't have taken it."
+    ],
+    [
+     "Şimdiki çıkarım (karşılaştır)",
+     "must + fiil",
+     "She must be tired."
+    ]
+   ],
+   "examples": [
+    {
+     "en": "The window is open. Someone must have forgotten to close it.",
+     "tr": "Pencere açık. Biri kapatmayı unutmuş olmalı."
+    },
+    {
+     "en": "I might have left my keys at school.",
+     "tr": "Anahtarlarımı okulda bırakmış olabilirim."
+    },
+    {
+     "en": "He can't have taken the bag; he was with me all day.",
+     "tr": "Çantayı almış olamaz; bütün gün benimleydi."
+    }
+   ],
+   "exercises": [
+    {
+     "type": "mcq",
+     "q": "The wallet isn't in my bag. I ___ left it at the office.",
+     "options": [
+      "must have",
+      "must",
+      "can have",
+      "should be"
+     ],
+     "answer": 0,
+     "whyTr": "Güçlü geçmiş çıkarım (neredeyse kesin): must have + V3.",
+     "tag": "modals",
+     "level": "B2"
+    },
+    {
+     "type": "mcq",
+     "q": "Tom was at home all day. He ___ taken the keys from school.",
+     "options": [
+      "must have",
+      "can't have",
+      "might",
+      "needn't"
+     ],
+     "answer": 1,
+     "whyTr": "Kesinlikle olamaz (geçmiş): can't have + V3.",
+     "tag": "modals",
+     "level": "B2"
+    },
+    {
+     "type": "order",
+     "promptTr": "Cümleyi sırala:",
+     "words": [
+      "left",
+      "in",
+      "the",
+      "her",
+      "car",
+      "have",
+      "phone",
+      "She",
+      "might"
+     ],
+     "answer": "She might have left her phone in the car",
+     "whyTr": "Belki oldu (geçmiş): might have + V3.",
+     "tag": "modals",
+     "level": "B2"
+    },
+    {
+     "type": "mcq",
+     "q": "I'm not sure, but the students ___ taken it by mistake.",
+     "options": [
+      "can't have",
+      "must",
+      "needn't have",
+      "might have"
+     ],
+     "answer": 3,
+     "whyTr": "Emin olmayan geçmiş olasılık: might have + V3.",
+     "tag": "modals",
+     "level": "B2"
+    },
+    {
+     "type": "mcq",
+     "q": "The door was locked from the inside. The thief ___ come through the door.",
+     "options": [
+      "can't have",
+      "must have",
+      "might",
+      "should have"
+     ],
+     "answer": 0,
+     "whyTr": "Kapı içeriden kilitliyse hırsız oradan giremezdi: can't have.",
+     "tag": "modals",
+     "level": "B2"
+    },
+    {
+     "type": "mcq",
+     "q": "Linda isn't answering. She ___ be asleep now. (şimdiki çıkarım)",
+     "options": [
+      "must have",
+      "must",
+      "can't have",
+      "might have"
+     ],
+     "answer": 1,
+     "whyTr": "Şimdiki güçlü çıkarım: must + fiil.",
+     "tag": "modals",
+     "level": "B2"
+    },
+    {
+     "type": "order",
+     "promptTr": "Cümleyi sırala:",
+     "words": [
+      "The",
+      "pocket",
+      "out",
+      "his",
+      "fallen",
+      "of",
+      "wallet",
+      "must",
+      "have"
+     ],
+     "answer": "The wallet must have fallen out of his pocket",
+     "whyTr": "Güçlü çıkarım: must have + V3.",
+     "tag": "modals",
+     "level": "B2"
+    },
+    {
+     "type": "mcq",
+     "q": "Hafsa ___ the bag in the hallway; it's still on the hook! (geçmiş, olamaz)",
+     "options": [
+      "must have left",
+      "can't leave",
+      "might leave",
+      "can't have left"
+     ],
+     "answer": 3,
+     "whyTr": "Çanta hâlâ orada, bırakmış olamaz: can't have left.",
+     "tag": "modals",
+     "level": "B2"
+    },
+    {
+     "type": "mcq",
+     "q": "Which sentence means \"I'm almost sure it happened\"?",
+     "options": [
+      "He must have lost it.",
+      "He might have lost it.",
+      "He can't have lost it.",
+      "He should lose it."
+     ],
+     "answer": 0,
+     "whyTr": "Must have = neredeyse kesin.",
+     "tag": "modals",
+     "level": "B2"
+    },
+    {
+     "type": "mcq",
+     "q": "Which sentence means \"It's possible, but I'm not sure\"?",
+     "options": [
+      "She must have taken it.",
+      "She could have taken it.",
+      "She can't have taken it.",
+      "She has to take it."
+     ],
+     "answer": 1,
+     "whyTr": "Could/might have = olasılık.",
+     "tag": "modals",
+     "level": "B2"
+    },
+    {
+     "type": "fill",
+     "q": "The backpack is gone. Someone ___ have taken it.",
+     "accept": [
+      "must",
+      "might",
+      "could"
+     ],
+     "hintTr": "büyük olasılıkla",
+     "whyTr": "Çıkarım için must/might/could have + V3.",
+     "tag": "modals",
+     "level": "B2"
+    },
+    {
+     "type": "fill",
+     "q": "He ___ have stolen it. He was in class all day.",
+     "accept": [
+      "can't",
+      "cannot"
+     ],
+     "hintTr": "olamaz",
+     "whyTr": "Kesinlikle olamaz: can't have + V3.",
+     "tag": "modals",
+     "level": "B2"
+    }
+   ]
+  },
+  "vocab": [
+   {
+    "id": "misplace",
+    "en": "misplace",
+    "tr": "yanlış yere koymak",
+    "pos": "verb",
+    "example": "I misplaced my glasses again.",
+    "exampleTr": "Gözlüğümü yine yanlış yere koydum.",
+    "syn": [
+     "lose"
+    ],
+    "ant": [],
+    "level": "B2"
+   },
+   {
+    "id": "belongings",
+    "en": "belongings",
+    "tr": "eşyalar",
+    "pos": "noun",
+    "example": "Please keep your belongings in your locker.",
+    "exampleTr": "Lütfen eşyalarınızı dolabınızda tutun.",
+    "syn": [
+     "possessions"
+    ],
+    "ant": [],
+    "level": "B2"
+   },
+   {
+    "id": "steal",
+    "en": "steal",
+    "tr": "çalmak",
+    "pos": "verb",
+    "example": "Someone stole a laptop from the office.",
+    "exampleTr": "Biri ofisten bir dizüstü bilgisayar çaldı.",
+    "syn": [],
+    "ant": [],
+    "level": "B2"
+   },
+   {
+    "id": "suspect",
+    "en": "suspect",
+    "tr": "şüphelenmek; şüpheli",
+    "pos": "verb",
+    "example": "I suspect the boy took it by mistake.",
+    "exampleTr": "Çocuğun yanlışlıkla aldığından şüpheleniyorum.",
+    "syn": [],
+    "ant": [],
+    "level": "B2"
+   },
+   {
+    "id": "likely",
+    "en": "likely",
+    "tr": "muhtemel",
+    "pos": "adjective",
+    "example": "It is likely that the bag is in the car.",
+    "exampleTr": "Çantanın arabada olması muhtemel.",
+    "syn": [
+     "probable"
+    ],
+    "ant": [
+     "unlikely"
+    ],
+    "level": "B2"
+   },
+   {
+    "id": "unlikely",
+    "en": "unlikely",
+    "tr": "olası olmayan",
+    "pos": "adjective",
+    "example": "It is unlikely that he forgot it.",
+    "exampleTr": "Onu unutmuş olması olası değil.",
+    "syn": [
+     "improbable"
+    ],
+    "ant": [
+     "likely"
+    ],
+    "level": "B2"
+   },
+   {
+    "id": "wallet",
+    "en": "wallet",
+    "tr": "cüzdan",
+    "pos": "noun",
+    "example": "Her wallet was on the floor.",
+    "exampleTr": "Cüzdanı yerdeydi.",
+    "syn": [],
+    "ant": [],
+    "level": "B2"
+   },
+   {
+    "id": "borrow",
+    "en": "borrow",
+    "tr": "ödünç almak",
+    "pos": "verb",
+    "example": "May I borrow your pen?",
+    "exampleTr": "Kalemini ödünç alabilir miyim?",
+    "syn": [],
+    "ant": [
+     "lend"
+    ],
+    "level": "B2"
+   },
+   {
+    "id": "vanish",
+    "en": "vanish",
+    "tr": "kaybolmak, yok olmak",
+    "pos": "verb",
+    "example": "The cookies vanished in ten minutes.",
+    "exampleTr": "Kurabiyeler on dakikada yok oldu.",
+    "syn": [
+     "disappear"
+    ],
+    "ant": [
+     "appear"
+    ],
+    "level": "B2"
+   },
+   {
+    "id": "conclude",
+    "en": "conclude",
+    "tr": "sonuca varmak",
+    "pos": "verb",
+    "example": "We concluded that nobody took the bag.",
+    "exampleTr": "Kimsenin çantayı almadığı sonucuna vardık.",
+    "syn": [
+     "decide"
+    ],
+    "ant": [],
+    "level": "B2"
+   },
+   {
+    "id": "mysterious",
+    "en": "mysterious",
+    "tr": "gizemli",
+    "pos": "adjective",
+    "example": "It was a mysterious disappearance.",
+    "exampleTr": "Gizemli bir kayboluştu.",
+    "syn": [
+     "strange"
+    ],
+    "ant": [],
+    "level": "B2"
+   },
+   {
+    "id": "innocent",
+    "en": "innocent",
+    "tr": "masum",
+    "pos": "adjective",
+    "example": "The boy was innocent; he never touched the bag.",
+    "exampleTr": "Çocuk masumdu; çantaya hiç dokunmamıştı.",
+    "syn": [],
+    "ant": [
+     "guilty"
+    ],
+    "level": "B2"
+   },
+   {
+    "id": "puzzled",
+    "en": "puzzled",
+    "tr": "şaşkın, kafası karışık",
+    "pos": "adjective",
+    "example": "She looked puzzled by the empty desk.",
+    "exampleTr": "Boş sıraya şaşkın şaşkın baktı.",
+    "syn": [
+     "confused"
+    ],
+    "ant": [],
+    "level": "B2"
+   },
+   {
+    "id": "hunch",
+    "en": "hunch",
+    "tr": "sezgi, önsezi",
+    "pos": "noun",
+    "example": "I have a hunch he left it in the car.",
+    "exampleTr": "Onu arabada bıraktığına dair bir sezgim var.",
+    "syn": [
+     "feeling"
+    ],
+    "ant": [],
+    "level": "B2"
+   },
+   {
+    "id": "theft",
+    "en": "theft",
+    "tr": "hırsızlık",
+    "pos": "noun",
+    "example": "The theft was reported to the police.",
+    "exampleTr": "Hırsızlık polise bildirildi.",
+    "syn": [
+     "stealing"
+    ],
+    "ant": [],
+    "level": "B2"
+   }
+  ],
+  "reading": {
+   "title": "The case of the missing laptop",
+   "text": "On Monday morning, Mr. Brown's office was busier than usual. A teacher named Mr. Reed rushed in with a worried face. \"My laptop has vanished!\" he said. \"I left it on my desk on Friday, and now it's gone.\"\n\nHafsa, who was helping at the front office that day, listened carefully. \"Could someone have borrowed it?\" she asked. Mr. Reed shook his head. \"It can't have been a student. The classroom was locked all weekend.\"\n\n\"Then maybe the cleaning staff moved it,\" suggested Mr. Brown. He called the janitor, Mr. Ortiz, who explained that he had cleaned the room on Saturday and had not touched any computers. \"Honestly, I might have moved some papers, but I would never take a laptop,\" he said.\n\nHafsa began to search for clues. She asked Mr. Reed, \"When did you last see it?\" He thought for a moment. \"On Friday, after the last class. I was in a hurry because I had a dentist appointment.\" Hafsa nodded. \"Then you must have taken it with you, or you might have put it somewhere else.\"\n\nMr. Reed frowned. \"I can't have taken it. I only had my small bag.\" Still, Hafsa asked him to check the car. Ten minutes later, he came back, red in the face. The laptop was on the back seat. \"I must have put it there when I grabbed my coat,\" he said.\n\nEveryone laughed with relief. Mr. Brown said, \"It's obvious we all jumped to conclusions. Without real evidence, nobody should suspect anyone.\" Hafsa smiled. \"In my country we say the lost thing is always in the last place you look.\"\n\nAt the end of the day, Mr. Brown handed Hafsa a small card. It said: \"Lost and Found: Please label your belongings!\" \"This is for the school hallway,\" he explained. \"Could you help me hang it near the lockers?\" Hafsa happily agreed. She had been a detective for one morning, and she had enjoyed every minute of it.",
+   "glossary": [
+    {
+     "en": "jump to conclusions",
+     "tr": "acele sonuca varmak"
+    },
+    {
+     "en": "janitor",
+     "tr": "okul temizlik görevlisi"
+    },
+    {
+     "en": "lost and found",
+     "tr": "kayıp eşya bölümü"
+    },
+    {
+     "en": "frown",
+     "tr": "kaşlarını çatmak"
+    },
+    {
+     "en": "relief",
+     "tr": "rahatlama"
+    }
+   ],
+   "questions": [
+    {
+     "type": "mcq",
+     "q": "What did Mr. Reed think had happened to his laptop?",
+     "options": [
+      "He had lent it to a student.",
+      "He had sold it.",
+      "It had vanished from his classroom.",
+      "The janitor had broken it."
+     ],
+     "answer": 2,
+     "whyTr": "Metin: My laptop has vanished.",
+     "tag": "reading",
+     "level": "B2"
+    },
+    {
+     "type": "mcq",
+     "q": "Why couldn't a student have taken it?",
+     "options": [
+      "The students were absent.",
+      "Students were not allowed to enter.",
+      "The laptop was too heavy.",
+      "The classroom was locked all weekend."
+     ],
+     "answer": 3,
+     "whyTr": "Mr. Reed: The classroom was locked all weekend.",
+     "tag": "reading",
+     "level": "B2"
+    },
+    {
+     "type": "mcq",
+     "q": "Where did they find the laptop?",
+     "options": [
+      "On the back seat of Mr. Reed's car",
+      "In the janitor's closet",
+      "In the hallway lockers",
+      "In Mr. Brown's office"
+     ],
+     "answer": 0,
+     "whyTr": "Mr. Reed: it was on the back seat.",
+     "tag": "reading",
+     "level": "B2"
+    },
+    {
+     "type": "mcq",
+     "q": "What lesson does Mr. Brown mention?",
+     "options": [
+      "Never leave school early.",
+      "Don't suspect people without evidence.",
+      "Always lock cars.",
+      "Students should not borrow things."
+     ],
+     "answer": 1,
+     "whyTr": "Mr. Brown: without real evidence nobody should suspect anyone.",
+     "tag": "reading",
+     "level": "B2"
+    }
+   ]
+  }
+ },
+ "evening": {
+  "listening": {
+   "title": "The missing jacket",
+   "script": [
+    {
+     "speaker": "Mr. Brown",
+     "text": "Hafsa, a student's jacket is missing from the hallway. Could you help me look for it?"
+    },
+    {
+     "speaker": "Hafsa",
+     "text": "Of course. Whose jacket is it?"
+    },
+    {
+     "speaker": "Mr. Brown",
+     "text": "It belongs to Ben, a fifth grader. He says he left it on the hook after lunch."
+    },
+    {
+     "speaker": "Hafsa",
+     "text": "Hmm. Someone might have taken it by mistake. Many jackets look the same."
+    },
+    {
+     "speaker": "Mr. Brown",
+     "text": "Possibly. But it's a bright orange jacket, so a student can't have confused it with another one."
+    },
+    {
+     "speaker": "Hafsa",
+     "text": "Then it must have been moved somewhere. Did anyone check the lost-and-found box?"
+    },
+    {
+     "speaker": "Mr. Brown",
+     "text": "Not yet. Let's look there first, and then in the gym."
+    },
+    {
+     "speaker": "Hafsa",
+     "text": "Wait. I can see an orange sleeve behind the water fountain."
+    },
+    {
+     "speaker": "Mr. Brown",
+     "text": "Good eyes! Ben must have dropped it when he went to get a drink."
+    },
+    {
+     "speaker": "Hafsa",
+     "text": "It is a little dirty, but it's fine. Should I take it to his classroom?"
+    },
+    {
+     "speaker": "Mr. Brown",
+     "text": "Yes, please. And remind him to write his name inside the collar."
+    },
+    {
+     "speaker": "Hafsa",
+     "text": "I will. Another mystery solved before lunch!"
+    }
+   ],
+   "questions": [
+    {
+     "type": "mcq",
+     "q": "What is missing at the beginning of the conversation?",
+     "options": [
+      "A laptop",
+      "A wallet",
+      "A student's orange jacket",
+      "A set of keys"
+     ],
+     "answer": 2,
+     "whyTr": "Mr. Brown: a student's jacket is missing.",
+     "tag": "listening",
+     "level": "B2"
+    },
+    {
+     "type": "mcq",
+     "q": "Why can't another student have confused it with their own?",
+     "options": [
+      "It is very small.",
+      "It has a name on it.",
+      "It is torn.",
+      "It is bright orange."
+     ],
+     "answer": 3,
+     "whyTr": "Mr. Brown: it's a bright orange jacket.",
+     "tag": "listening",
+     "level": "B2"
+    },
+    {
+     "type": "mcq",
+     "q": "Where did Hafsa find the jacket?",
+     "options": [
+      "Behind the water fountain",
+      "In the gym",
+      "In the lost-and-found box",
+      "In the office"
+     ],
+     "answer": 0,
+     "whyTr": "Hafsa: I can see an orange sleeve behind the water fountain.",
+     "tag": "listening",
+     "level": "B2"
+    },
+    {
+     "type": "mcq",
+     "q": "What does Mr. Brown suggest at the end?",
+     "options": [
+      "Buying a new jacket",
+      "Writing the name inside the collar",
+      "Closing the hallway",
+      "Calling Ben's mother"
+     ],
+     "answer": 1,
+     "whyTr": "Mr. Brown: remind him to write his name inside the collar.",
+     "tag": "listening",
+     "level": "B2"
+    }
+   ]
+  },
+  "writing": {
+   "promptTr": "Bir kayıp eşya hikâyesi yaz (ör. kayıp çanta, anahtar, cüzdan). Ne olmuş olabileceğine dair çıkarımlarını must have, might have, can't have ile anlat. 120-180 kelime.",
+   "promptEn": "Write a short story about a lost item at school. Use must have, might have and can't have to guess what happened (120-180 words).",
+   "frames": [
+    "Yesterday, ... disappeared.",
+    "It must have ...",
+    "It might have ... , but it can't have ...",
+    "In the end, we found it ..."
+   ],
+   "model": "Yesterday, a student's backpack disappeared from the hallway near the lockers. The student, Ben, was very upset because his homework was inside. We began to search for clues. First, we thought someone might have taken it by mistake, because many backpacks look the same. However, Ben's bag is bright green with a big yellow tag, so a classmate can't have confused it with another one. Then we asked the janitor, Mr. Ortiz. He said he had cleaned the hallway at four o'clock, and he must have moved the bag when he mopped the floor. We checked the janitor's closet, and the backpack was there, under a bucket. It's obvious that nobody tried to steal it. Ben was relieved and thanked everybody. Now the school will put a small box in the hallway for lost belongings. I think this is a good idea, and I'm happy that we solved the mystery without blaming anyone.",
+   "checklistTr": [
+    "Must have, might have ve can't have'in üçünü de kullandın mı?",
+    "Her çıkarımın arkasında bir neden (ipucu) var mı?",
+    "Must have + V3 yapısında fiili üçüncü hale (V3) koydun mu?",
+    "Hikâyenin sonunda sonucu açıkladın mı?"
+   ],
+   "minWords": 120
+  },
+  "examSet": [
+   {
+    "type": "mcq",
+    "q": "The cookies are gone, and the children look guilty. They ___ eaten them.",
+    "options": [
+     "can't have",
+     "needn't have",
+     "must have",
+     "shouldn't have"
+    ],
+    "answer": 2,
+    "whyTr": "Güçlü çıkarım: must have eaten.",
+    "tag": "modals",
+    "level": "B2"
+   },
+   {
+    "type": "mcq",
+    "q": "She was in a different city last weekend, so she ___ seen the accident.",
+    "options": [
+     "must have",
+     "should have",
+     "might",
+     "can't have"
+    ],
+    "answer": 3,
+    "whyTr": "Olması imkânsız: can't have seen.",
+    "tag": "modals",
+    "level": "B2"
+   },
+   {
+    "type": "mcq",
+    "q": "I don't know where my keys are. I ___ left them at the gym.",
+    "options": [
+     "might have",
+     "can't have",
+     "needn't have",
+     "must"
+    ],
+    "answer": 0,
+    "whyTr": "Emin olmadığım olasılık: might have left.",
+    "tag": "modals",
+    "level": "B2"
+   },
+   {
+    "type": "mcq",
+    "q": "If I had known about the rule, I ___ it. (third conditional)",
+    "options": [
+     "would follow",
+     "would have followed",
+     "will follow",
+     "had followed"
+    ],
+    "answer": 1,
+    "whyTr": "Üçüncü koşul: would have followed.",
+    "tag": "modals",
+    "level": "B2"
+   },
+   {
+    "type": "mcq",
+    "q": "I wish I ___ my phone at home yesterday. Now I can't call you.",
+    "options": [
+     "didn't leave",
+     "wouldn't leave",
+     "hadn't left",
+     "haven't left"
+    ],
+    "answer": 2,
+    "whyTr": "Geçmiş pişmanlık: hadn't left.",
+    "tag": "modals",
+    "level": "B2"
+   },
+   {
+    "type": "mcq",
+    "q": "If I weren't so tired, I ___ the report last night. (mixed)",
+    "options": [
+     "would finish",
+     "will finish",
+     "had finished",
+     "would have finished"
+    ],
+    "answer": 3,
+    "whyTr": "Şimdiki durum, geçmiş sonuç: would have finished.",
+    "tag": "modals",
+    "level": "B2"
+   },
+   {
+    "type": "mcq",
+    "q": "The laptop ___ in the office since Friday.",
+    "options": [
+     "has been",
+     "is",
+     "was be",
+     "have been"
+    ],
+    "answer": 0,
+    "whyTr": "Present perfect: has been.",
+    "tag": "present-perfect",
+    "level": "B2"
+   },
+   {
+    "type": "mcq",
+    "q": "The thief ___ by the security camera last night.",
+    "options": [
+     "saw",
+     "was seen",
+     "was seeing",
+     "has see"
+    ],
+    "answer": 1,
+    "whyTr": "Edilgen: was seen.",
+    "tag": "past-simple",
+    "level": "B2"
+   },
+   {
+    "type": "mcq",
+    "q": "It wasn't a ___. The bag was just misplaced.",
+    "options": [
+     "hunch",
+     "belonging",
+     "theft",
+     "suspect"
+    ],
+    "answer": 2,
+    "whyTr": "Hırsızlık: theft.",
+    "tag": "vocab",
+    "level": "B2"
+   },
+   {
+    "type": "mcq",
+    "q": "Please keep your ___ in your locker during gym class.",
+    "options": [
+     "evidence",
+     "clues",
+     "suspects",
+     "belongings"
+    ],
+    "answer": 3,
+    "whyTr": "Eşyalar: belongings.",
+    "tag": "vocab",
+    "level": "B2"
+   },
+   {
+    "type": "mcq",
+    "q": "Nobody could explain it. It was a ___ disappearance.",
+    "options": [
+     "mysterious",
+     "innocent",
+     "likely",
+     "puzzled"
+    ],
+    "answer": 0,
+    "whyTr": "Gizemli: mysterious.",
+    "tag": "vocab",
+    "level": "B2"
+   },
+   {
+    "type": "mcq",
+    "q": "Which word is closest in meaning to \"vanish\"?",
+    "options": [
+     "appear",
+     "disappear",
+     "arrive",
+     "search"
+    ],
+    "answer": 1,
+    "whyTr": "Vanish = disappear.",
+    "tag": "synonym",
+    "level": "B2"
+   },
+   {
+    "type": "mcq",
+    "q": "Which word is closest in meaning to \"likely\"?",
+    "options": [
+     "unlikely",
+     "obvious",
+     "probable",
+     "calm"
+    ],
+    "answer": 2,
+    "whyTr": "Likely = probable.",
+    "tag": "synonym",
+    "level": "B2"
+   },
+   {
+    "type": "mcq",
+    "q": "What is the opposite of \"likely\"?",
+    "options": [
+     "obvious",
+     "clear",
+     "probable",
+     "unlikely"
+    ],
+    "answer": 3,
+    "whyTr": "Likely'nin zıttı unlikely.",
+    "tag": "antonym",
+    "level": "B2"
+   },
+   {
+    "type": "mcq",
+    "q": "What is the opposite of \"vanish\"?",
+    "options": [
+     "appear",
+     "steal",
+     "borrow",
+     "conclude"
+    ],
+    "answer": 0,
+    "whyTr": "Vanish'in zıttı appear.",
+    "tag": "antonym",
+    "level": "B2"
+   },
+   {
+    "type": "mcq",
+    "q": "Choose the correct word: \"May I ___ your pencil?\" (I take it from you for a short time)",
+    "options": [
+     "lend",
+     "borrow",
+     "steal",
+     "search"
+    ],
+    "answer": 1,
+    "whyTr": "Borrow: ödünç almak; lend ise ödünç vermek (karşıt yönlü çift).",
+    "tag": "vocab",
+    "level": "B2"
+   },
+   {
+    "type": "mcq",
+    "q": "Which sentence is correct?",
+    "options": [
+     "The bag must be stolen yesterday.",
+     "The bag must have stolen.",
+     "The bag must have been stolen.",
+     "The bag must been stolen."
+    ],
+    "answer": 2,
+    "whyTr": "Edilgen çıkarım: must have been + V3.",
+    "tag": "modals",
+    "level": "B2"
+   },
+   {
+    "type": "mcq",
+    "q": "They have searched everywhere, but the wallet is nowhere. It might have fallen out of Tom's pocket on the bus.\n\nWhat does the writer say about the wallet?",
+    "options": [
+     "It is definitely on the bus.",
+     "Tom threw it away.",
+     "It was stolen.",
+     "It is possible that it fell out on the bus."
+    ],
+    "answer": 3,
+    "whyTr": "Might have = olasılık.",
+    "tag": "reading",
+    "level": "B2"
+   },
+   {
+    "type": "mcq",
+    "q": "Mrs. Lopez's classroom was locked all night. In the morning, her plant was on the floor. \"The wind can't have knocked it over,\" she said. \"The windows were closed.\"\n\nWhat does Mrs. Lopez think?",
+    "options": [
+     "The wind didn't knock it over.",
+     "The wind knocked it over.",
+     "She dropped it herself.",
+     "Someone opened the windows."
+    ],
+    "answer": 0,
+    "whyTr": "Can't have = olması imkânsız.",
+    "tag": "reading",
+    "level": "B2"
+   },
+   {
+    "type": "mcq",
+    "q": "Ms. Carter's coffee cup is empty and she is in the teachers' room. She said, \"I ___ finished it five minutes ago.\"",
+    "options": [
+     "can't have",
+     "must have",
+     "needn't have",
+     "shouldn't"
+    ],
+    "answer": 1,
+    "whyTr": "Fincan boş, o halde finished: must have finished.",
+    "tag": "modals",
+    "level": "B2"
+   }
+  ]
+ }
+}

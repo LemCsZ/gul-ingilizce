@@ -1,0 +1,785 @@
+{
+ "week": 9,
+ "day": 3,
+ "titleTr": "İşte sevdiklerin: -ing ve to + fiil",
+ "theme": "work-likes",
+ "morning": {
+  "grammar": {
+   "topic": "Gerund and infinitive: enjoy -ing, decide to",
+   "explainTr": [
+    "Bazı fiillerden sonra ikinci fiil -ing alır: enjoy, finish, avoid, mind, suggest, practice, keep, imagine. Örnek: I enjoy working here. Would you mind closing the door?",
+    "Bazı fiillerden sonra 'to + fiil' gelir: decide, hope, plan, manage, refuse, promise, want, need. Örnek: I decided to apply. She hopes to get the job. Prefer ve like gibi fiiller ikisini de alır.",
+    "Edattan sonra her zaman -ing gelir: She is good at talking with parents. Hangi fiilin hangi kalıbı aldığı ezberlenir; bu yüzden fiilleri örnek cümleyle öğren."
+   ],
+   "compareTr": "Türkçede 'çalışmayı severim' ve 'çalışmak istiyorum' farklı ekler alır ama kural fiile bağlı değildir. İngilizcede kalıbı fiil belirler: enjoy working ama want to work.",
+   "table": [
+    [
+     "+ -ing",
+     "enjoy, finish, avoid, mind, suggest, practice, keep",
+     "I enjoy reading."
+    ],
+    [
+     "+ to + fiil",
+     "decide, hope, plan, manage, refuse, promise",
+     "I plan to apply."
+    ],
+    [
+     "İkisi de olur",
+     "prefer, like, love, start",
+     "I prefer working / to work."
+    ],
+    [
+     "Edat + -ing",
+     "good at, interested in",
+     "good at talking"
+    ]
+   ],
+   "examples": [
+    {
+     "en": "I enjoy helping children read.",
+     "tr": "Çocukların okumasına yardım etmekten hoşlanıyorum."
+    },
+    {
+     "en": "She decided to apply for the job.",
+     "tr": "İşe başvurmaya karar verdi."
+    },
+    {
+     "en": "He avoids speaking in front of the school.",
+     "tr": "Bütün okulun önünde konuşmaktan kaçınıyor."
+    },
+    {
+     "en": "I hope to become a teacher.",
+     "tr": "Öğretmen olmayı umuyorum."
+    }
+   ],
+   "exercises": [
+    {
+     "type": "mcq",
+     "q": "I enjoy ___ with young children.",
+     "options": [
+      "working",
+      "to work",
+      "work",
+      "worked"
+     ],
+     "answer": 0,
+     "whyTr": "Enjoy'dan sonra fiil -ing alır.",
+     "tag": "word-order",
+     "level": "B1"
+    },
+    {
+     "type": "mcq",
+     "q": "Hafsa decided ___ a substitute teacher.",
+     "options": [
+      "becoming",
+      "to become",
+      "become",
+      "became"
+     ],
+     "answer": 1,
+     "whyTr": "Decide'dan sonra 'to + fiil' gelir.",
+     "tag": "word-order",
+     "level": "B1"
+    },
+    {
+     "type": "mcq",
+     "q": "Linda finished ___ the report at noon.",
+     "options": [
+      "to write",
+      "write",
+      "writing",
+      "wrote"
+     ],
+     "answer": 2,
+     "whyTr": "Finish'ten sonra fiil -ing alır.",
+     "tag": "word-order",
+     "level": "B1"
+    },
+    {
+     "type": "mcq",
+     "q": "Would you mind ___ the door, please?",
+     "options": [
+      "to close",
+      "close",
+      "closed",
+      "closing"
+     ],
+     "answer": 3,
+     "whyTr": "Mind'dan sonra fiil -ing alır.",
+     "tag": "word-order",
+     "level": "B1"
+    },
+    {
+     "type": "mcq",
+     "q": "She hopes ___ a full-time job soon.",
+     "options": [
+      "to get",
+      "getting",
+      "get",
+      "gets"
+     ],
+     "answer": 0,
+     "whyTr": "Hope'tan sonra 'to + fiil' gelir.",
+     "tag": "word-order",
+     "level": "B1"
+    },
+    {
+     "type": "mcq",
+     "q": "Which sentence is correct?",
+     "options": [
+      "He avoids to talk to the principal.",
+      "He avoids talking to the principal.",
+      "He avoid talking to the principal.",
+      "He avoids talk to the principal."
+     ],
+     "answer": 1,
+     "whyTr": "Avoid + -ing; ayrıca he ile -s gerekir.",
+     "tag": "word-order",
+     "level": "B1"
+    },
+    {
+     "type": "mcq",
+     "q": "Mr. Davis is the man ___ cleans the hallway every morning.",
+     "options": [
+      "whose",
+      "where",
+      "who",
+      "which"
+     ],
+     "answer": 2,
+     "whyTr": "Kişi için 'who' (Gün 1 tekrarı).",
+     "tag": "pronouns",
+     "level": "B1"
+    },
+    {
+     "type": "mcq",
+     "q": "She is good at ___ with parents.",
+     "options": [
+      "to talk",
+      "talk",
+      "talked",
+      "talking"
+     ],
+     "answer": 3,
+     "whyTr": "Edattan (at) sonra fiil -ing alır.",
+     "tag": "word-order",
+     "level": "B1"
+    },
+    {
+     "type": "order",
+     "promptTr": "Cümleyi sırala:",
+     "words": [
+      "helping",
+      "children",
+      "read",
+      "Hafsa",
+      "enjoys"
+     ],
+     "answer": "Hafsa enjoys helping children read",
+     "whyTr": "Enjoy + -ing: helping.",
+     "tag": "word-order",
+     "level": "B1"
+    },
+    {
+     "type": "order",
+     "promptTr": "Cümleyi sırala:",
+     "words": [
+      "to",
+      "apply",
+      "for",
+      "the",
+      "job",
+      "I",
+      "decided"
+     ],
+     "answer": "I decided to apply for the job",
+     "whyTr": "Decide + to + fiil: to apply.",
+     "tag": "word-order",
+     "level": "B1"
+    },
+    {
+     "type": "fill",
+     "q": "I enjoy ___ stories to children. (read)",
+     "accept": [
+      "reading"
+     ],
+     "hintTr": "read fiilinin -ing hali",
+     "whyTr": "Enjoy'dan sonra -ing gelir: reading.",
+     "tag": "word-order",
+     "level": "B1"
+    },
+    {
+     "type": "fill",
+     "q": "She promised ___ call me tonight.",
+     "accept": [
+      "to"
+     ],
+     "hintTr": "promise + ?",
+     "whyTr": "Promise'tan sonra 'to + fiil' gelir.",
+     "tag": "word-order",
+     "level": "B1"
+    }
+   ]
+  },
+  "vocab": [
+   {
+    "id": "enjoy",
+    "en": "enjoy",
+    "tr": "keyif almak, hoşlanmak",
+    "pos": "verb",
+    "example": "I enjoy helping children read.",
+    "exampleTr": "Çocukların okumasına yardım etmekten keyif alıyorum.",
+    "syn": [],
+    "ant": [
+     "dislike"
+    ],
+    "level": "A2"
+   },
+   {
+    "id": "avoid",
+    "en": "avoid",
+    "tr": "kaçınmak",
+    "pos": "verb",
+    "example": "Try to avoid being late.",
+    "exampleTr": "Geç kalmaktan kaçınmaya çalış.",
+    "syn": [],
+    "ant": [],
+    "level": "B1"
+   },
+   {
+    "id": "finish",
+    "en": "finish",
+    "tr": "bitirmek",
+    "pos": "verb",
+    "example": "Please finish your work before lunch.",
+    "exampleTr": "Lütfen işini öğle yemeğinden önce bitir.",
+    "syn": [
+     "complete"
+    ],
+    "ant": [
+     "start"
+    ],
+    "level": "A2"
+   },
+   {
+    "id": "decide",
+    "en": "decide",
+    "tr": "karar vermek",
+    "pos": "verb",
+    "example": "I decided to apply for the job.",
+    "exampleTr": "İşe başvurmaya karar verdim.",
+    "syn": [
+     "choose"
+    ],
+    "ant": [],
+    "level": "B1"
+   },
+   {
+    "id": "hope",
+    "en": "hope",
+    "tr": "ummak",
+    "pos": "verb",
+    "example": "I hope to work in a school.",
+    "exampleTr": "Bir okulda çalışmayı umuyorum.",
+    "syn": [
+     "wish"
+    ],
+    "ant": [],
+    "level": "A2"
+   },
+   {
+    "id": "plan",
+    "en": "plan",
+    "tr": "planlamak; plan",
+    "pos": "verb",
+    "example": "We plan to visit the school on Friday.",
+    "exampleTr": "Cuma günü okulu ziyaret etmeyi planlıyoruz.",
+    "syn": [],
+    "ant": [],
+    "level": "A2"
+   },
+   {
+    "id": "manage",
+    "en": "manage",
+    "tr": "başarmak; yönetmek",
+    "pos": "verb",
+    "example": "She managed to finish before noon.",
+    "exampleTr": "Öğleden önce bitirmeyi başardı.",
+    "syn": [
+     "succeed in"
+    ],
+    "ant": [],
+    "level": "B1"
+   },
+   {
+    "id": "prefer",
+    "en": "prefer",
+    "tr": "tercih etmek",
+    "pos": "verb",
+    "example": "I prefer working with small groups.",
+    "exampleTr": "Küçük gruplarla çalışmayı tercih ederim.",
+    "syn": [],
+    "ant": [],
+    "level": "B1"
+   },
+   {
+    "id": "refuse",
+    "en": "refuse",
+    "tr": "reddetmek, kabul etmemek",
+    "pos": "verb",
+    "example": "He refused to wear the badge.",
+    "exampleTr": "Kimlik kartını takmayı reddetti.",
+    "syn": [],
+    "ant": [
+     "accept"
+    ],
+    "level": "B1"
+   },
+   {
+    "id": "mind",
+    "en": "mind",
+    "tr": "sakıncası olmak, aldırmak",
+    "pos": "verb",
+    "example": "I don't mind staying late.",
+    "exampleTr": "Geç saate kadar kalmamın sakıncası yok.",
+    "syn": [],
+    "ant": [],
+    "level": "B1"
+   },
+   {
+    "id": "imagine",
+    "en": "imagine",
+    "tr": "hayal etmek",
+    "pos": "verb",
+    "example": "Can you imagine teaching twenty children?",
+    "exampleTr": "Yirmi çocuğa ders vermeyi hayal edebiliyor musun?",
+    "syn": [],
+    "ant": [],
+    "level": "B1"
+   },
+   {
+    "id": "practice",
+    "en": "practice",
+    "tr": "pratik yapmak; alıştırma",
+    "pos": "verb",
+    "example": "I practice reading aloud every evening.",
+    "exampleTr": "Her akşam sesli okuma pratiği yapıyorum.",
+    "syn": [],
+    "ant": [],
+    "level": "A2"
+   },
+   {
+    "id": "keep",
+    "en": "keep",
+    "tr": "devam etmek; tutmak",
+    "pos": "verb",
+    "example": "Keep trying. You are improving.",
+    "exampleTr": "Denemeye devam et. Gelişiyorsun.",
+    "syn": [
+     "continue"
+    ],
+    "ant": [],
+    "level": "B1"
+   },
+   {
+    "id": "promise",
+    "en": "promise",
+    "tr": "söz vermek; söz",
+    "pos": "verb",
+    "example": "I promise to arrive early.",
+    "exampleTr": "Erken gelmeye söz veriyorum.",
+    "syn": [],
+    "ant": [],
+    "level": "B1"
+   },
+   {
+    "id": "suggest",
+    "en": "suggest",
+    "tr": "önermek",
+    "pos": "verb",
+    "example": "Mr. Brown suggested joining the meeting.",
+    "exampleTr": "Mr. Brown toplantıya katılmayı önerdi.",
+    "syn": [
+     "propose"
+    ],
+    "ant": [],
+    "level": "B1"
+   }
+  ],
+  "reading": {
+   "title": "What does Hafsa enjoy at work?",
+   "text": "After two weeks at Lincoln Elementary, Hafsa knows what she enjoys and what she wants to avoid. She enjoys helping children read. She loves watching a child's face when a hard word finally makes sense. She also enjoys working with the other staff, and she doesn't mind staying late to prepare materials.\n\nBut some things are difficult. She avoids speaking in front of the whole school because her English is still not perfect. Yesterday the principal asked her to read the morning announcements, so she decided to practice at home first. She kept reading the text aloud for half an hour. Emre listened and said, \"Mom, you sound great!\" She knows that practice is the best way to improve, so she keeps looking for small chances to use her English every day.\n\nThis morning she managed to read the announcements without a single mistake. Afterward, Mr. Brown suggested joining the staff meeting on Friday. Hafsa hesitated for a moment, and then she promised to come. \"I hope to learn something new every day,\" she told him.\n\nOn the way home, she imagined working at the school full-time. She is not sure yet, but she plans to apply for a permanent position in the spring. Learning a language is slow, and sometimes it feels hard, but she refuses to give up.",
+   "glossary": [
+    {
+     "en": "announcements",
+     "tr": "duyurular"
+    },
+    {
+     "en": "aloud",
+     "tr": "sesli olarak"
+    },
+    {
+     "en": "hesitate",
+     "tr": "tereddüt etmek"
+    },
+    {
+     "en": "permanent position",
+     "tr": "kadrolu iş"
+    }
+   ],
+   "questions": [
+    {
+     "type": "mcq",
+     "q": "What does Hafsa enjoy doing at school?",
+     "options": [
+      "Helping children read",
+      "Reading announcements",
+      "Driving the school bus",
+      "Cleaning the classroom"
+     ],
+     "answer": 0,
+     "whyTr": "Metin: 'She enjoys helping children read.'",
+     "tag": "reading",
+     "level": "B1"
+    },
+    {
+     "type": "mcq",
+     "q": "How did Hafsa prepare for the announcements?",
+     "options": [
+      "She asked Mr. Brown to read them.",
+      "She practiced reading aloud at home.",
+      "She wrote them again.",
+      "She avoided the principal."
+     ],
+     "answer": 1,
+     "whyTr": "Metin: 'she decided to practice at home first'.",
+     "tag": "reading",
+     "level": "B1"
+    },
+    {
+     "type": "mcq",
+     "q": "What did Mr. Brown suggest?",
+     "options": [
+      "Applying for a new job",
+      "Staying home on Friday",
+      "Joining the staff meeting on Friday",
+      "Calling the principal"
+     ],
+     "answer": 2,
+     "whyTr": "Metin: 'Mr. Brown suggested joining the staff meeting'.",
+     "tag": "reading",
+     "level": "B1"
+    },
+    {
+     "type": "mcq",
+     "q": "What does Hafsa plan to do in the spring?",
+     "options": [
+      "Move to another city",
+      "Take a long vacation",
+      "Stop studying English",
+      "Apply for a permanent position"
+     ],
+     "answer": 3,
+     "whyTr": "Metin: 'she plans to apply for a permanent position in the spring'.",
+     "tag": "reading",
+     "level": "B1"
+    }
+   ]
+  }
+ },
+ "evening": {
+  "listening": {
+   "title": "In the teachers' lounge",
+   "script": [
+    {
+     "speaker": "Ms. Lopez",
+     "text": "Hafsa, do you enjoy working here?"
+    },
+    {
+     "speaker": "Hafsa",
+     "text": "Very much. I enjoy talking with the children, and I love helping them learn new words."
+    },
+    {
+     "speaker": "Ms. Lopez",
+     "text": "That's great. Do you mind working with the younger students? Some people avoid teaching first grade."
+    },
+    {
+     "speaker": "Hafsa",
+     "text": "I don't mind at all. Actually, I prefer working with younger children."
+    },
+    {
+     "speaker": "Ms. Lopez",
+     "text": "Good. Mr. Brown wants to know if you can start on Monday."
+    },
+    {
+     "speaker": "Hafsa",
+     "text": "Monday? That's soon, but I think I can manage it."
+    },
+    {
+     "speaker": "Ms. Lopez",
+     "text": "He suggested giving you the second-grade class for the first week."
+    },
+    {
+     "speaker": "Hafsa",
+     "text": "Wonderful. I promise to arrive early every day."
+    },
+    {
+     "speaker": "Ms. Lopez",
+     "text": "Don't forget to bring your ID. And keep smiling. The kids love that."
+    },
+    {
+     "speaker": "Hafsa",
+     "text": "I will. I've decided to stay here as long as possible."
+    }
+   ],
+   "questions": [
+    {
+     "type": "mcq",
+     "q": "What does Hafsa enjoy?",
+     "options": [
+      "Talking with the children",
+      "Cleaning the rooms",
+      "Writing reports",
+      "Driving the bus"
+     ],
+     "answer": 0,
+     "whyTr": "Hafsa: 'I enjoy talking with the children'.",
+     "tag": "listening",
+     "level": "B1"
+    },
+    {
+     "type": "mcq",
+     "q": "Which students does Hafsa prefer to work with?",
+     "options": [
+      "Older students",
+      "Younger children",
+      "Teachers",
+      "Parents"
+     ],
+     "answer": 1,
+     "whyTr": "Hafsa: 'I prefer working with younger children.'",
+     "tag": "listening",
+     "level": "B1"
+    },
+    {
+     "type": "mcq",
+     "q": "What did Mr. Brown suggest?",
+     "options": [
+      "Starting next month",
+      "Giving her the principal's job",
+      "Giving Hafsa the second-grade class",
+      "Sending her home"
+     ],
+     "answer": 2,
+     "whyTr": "Ms. Lopez: 'He suggested giving you the second-grade class'.",
+     "tag": "listening",
+     "level": "B1"
+    },
+    {
+     "type": "mcq",
+     "q": "What does Hafsa promise?",
+     "options": [
+      "To bring cookies",
+      "To speak Spanish",
+      "To work on weekends",
+      "To arrive early every day"
+     ],
+     "answer": 3,
+     "whyTr": "Hafsa: 'I promise to arrive early every day.'",
+     "tag": "listening",
+     "level": "B1"
+    }
+   ]
+  },
+  "writing": {
+   "promptTr": "Mr. Brown'a kısa bir teşekkür e-postası yaz: neyden keyif alıyorsun, neden kaçınıyorsun, ne yapmayı planlıyorsun? (80-120 kelime)",
+   "promptEn": "Write a short thank-you email to Mr. Brown. Say what you enjoy, what you avoid and what you plan to do. (80-120 words)",
+   "frames": [
+    "I enjoy ...ing",
+    "I don't mind ...ing",
+    "I avoid ...ing",
+    "I have decided to ...",
+    "I hope to ...",
+    "I plan to ..."
+   ],
+   "model": "Dear Mr. Brown, Thank you for the opportunity to work at your school. I enjoy helping children read, and I really like working with the other staff. I don't mind staying after school to prepare lessons. I avoid speaking too fast because my English is still not perfect. I have decided to practice every evening. I hope to become a full-time teacher one day, and I plan to take an online class this winter. I promise to work hard. Thank you again for your support. Sincerely, Hafsa",
+   "checklistTr": [
+    "Enjoy, avoid, mind, finish, suggest, keep'ten sonra -ing kullandın mı?",
+    "Decide, hope, plan, promise, refuse'ten sonra 'to + fiil' kullandın mı?",
+    "En az 4 farklı fiil kalıbı var mı?",
+    "Cümleler büyük harfle başlıyor ve noktayla bitiyor mu?"
+   ],
+   "minWords": 80
+  },
+  "examSet": [
+   {
+    "type": "mcq",
+    "q": "Hafsa enjoys ___ with children.",
+    "options": [
+     "working",
+     "to work",
+     "work",
+     "works"
+    ],
+    "answer": 0,
+    "whyTr": "Enjoy + -ing.",
+    "tag": "word-order",
+    "level": "B1"
+   },
+   {
+    "type": "mcq",
+    "q": "They refused ___ the new rules.",
+    "options": [
+     "following",
+     "to follow",
+     "follow",
+     "followed"
+    ],
+    "answer": 1,
+    "whyTr": "Refuse + to + fiil.",
+    "tag": "word-order",
+    "level": "B1"
+   },
+   {
+    "type": "mcq",
+    "q": "She suggested ___ to the park after school.",
+    "options": [
+     "to go",
+     "go",
+     "going",
+     "goes"
+    ],
+    "answer": 2,
+    "whyTr": "Suggest + -ing.",
+    "tag": "word-order",
+    "level": "B1"
+   },
+   {
+    "type": "mcq",
+    "q": "Which sentence is correct?",
+    "options": [
+     "I hope seeing you soon.",
+     "I hope see you soon.",
+     "I hoping to see you soon.",
+     "I hope to see you soon."
+    ],
+    "answer": 3,
+    "whyTr": "Hope + to + fiil.",
+    "tag": "word-order",
+    "level": "B1"
+   },
+   {
+    "type": "mcq",
+    "q": "I always arrive early to ___ trouble with the bus.",
+    "options": [
+     "avoid",
+     "imagine",
+     "promise",
+     "prefer"
+    ],
+    "answer": 0,
+    "whyTr": "Sorunlardan kaçınmak: avoid.",
+    "tag": "vocab",
+    "level": "B1"
+   },
+   {
+    "type": "mcq",
+    "q": "Which word is closest in meaning to 'finish'?",
+    "options": [
+     "begin",
+     "complete",
+     "refuse",
+     "suggest"
+    ],
+    "answer": 1,
+    "whyTr": "Finish = complete (bitirmek).",
+    "tag": "synonym",
+    "level": "A2"
+   },
+   {
+    "type": "mcq",
+    "q": "What is the opposite of 'refuse'?",
+    "options": [
+     "decide",
+     "manage",
+     "accept",
+     "imagine"
+    ],
+    "answer": 2,
+    "whyTr": "Refuse'un zıttı accept.",
+    "tag": "antonym",
+    "level": "B1"
+   },
+   {
+    "type": "mcq",
+    "q": "Which word is closest in meaning to 'decide'?",
+    "options": [
+     "practice",
+     "keep",
+     "mind",
+     "choose"
+    ],
+    "answer": 3,
+    "whyTr": "Decide = choose (karar vermek, seçmek).",
+    "tag": "synonym",
+    "level": "B1"
+   },
+   {
+    "type": "mcq",
+    "q": "Please ___ practicing. Your reading is getting better!",
+    "options": [
+     "keep",
+     "manage",
+     "promise",
+     "refuse"
+    ],
+    "answer": 0,
+    "whyTr": "Keep + -ing: devam etmek.",
+    "tag": "vocab",
+    "level": "B1"
+   },
+   {
+    "type": "mcq",
+    "q": "Ms. Rivera is the counselor ___ talks to upset students.",
+    "options": [
+     "whose",
+     "who",
+     "where",
+     "which"
+    ],
+    "answer": 1,
+    "whyTr": "Kişi için 'who'.",
+    "tag": "pronouns",
+    "level": "B1"
+   },
+   {
+    "type": "mcq",
+    "q": "Tom wants to be a coach. He enjoys playing soccer and plans to study sports science. He doesn't mind waking up early, but he avoids eating junk food.\n\nWhat does Tom avoid?",
+    "options": [
+     "Playing soccer",
+     "Waking up early",
+     "Eating junk food",
+     "Studying sports science"
+    ],
+    "answer": 2,
+    "whyTr": "Metin: 'he avoids eating junk food'.",
+    "tag": "reading",
+    "level": "B1"
+   },
+   {
+    "type": "mcq",
+    "q": "Maria promised to bring cookies to the staff meeting. Then she remembered that her oven was broken, so she decided to buy them at the bakery.\n\nWhy did Maria buy the cookies?",
+    "options": [
+     "She forgot the meeting.",
+     "She did not like baking.",
+     "The staff refused her cookies.",
+     "Her oven was broken."
+    ],
+    "answer": 3,
+    "whyTr": "Metin: 'her oven was broken'.",
+    "tag": "reading",
+    "level": "B1"
+   }
+  ]
+ }
+}

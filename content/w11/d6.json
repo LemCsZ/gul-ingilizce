@@ -1,0 +1,807 @@
+{
+ "week": 11,
+ "day": 6,
+ "titleTr": "B1 tekrar: modallar, koşul cümleleri, mülakat",
+ "theme": "work-school",
+ "morning": {
+  "grammar": {
+   "topic": "B1 review: modals and conditionals",
+   "explainTr": [
+    "Modallar: must (zorunluluk), mustn't (yasak), don't have to (zorunlu değil), should (tavsiye), might (olasılık), could / would (nazik rica). Hepsinden sonra yalın fiil gelir.",
+    "Birinci koşul gerçekçi ihtimali anlatır: If + present simple, will + fiil. If I get the job, I will call you.",
+    "İkinci koşul hayalî ya da pek olası olmayan durumu anlatır: If + past simple, would + fiil. If I had more time, I would volunteer more. 'If I were ...' her özneyle 'were' kullanılır."
+   ],
+   "compareTr": "Türkçede 'eğer ... -sem, ...-rim' ya da '-ebilir / -meli' ekleriyle çok şey anlatılır. İngilizcede ek yok; yardımcı kelime var: must, should, might, would. Dikkat: 'mustn't' yasak, 'don't have to' ise sadece 'zorunda değilsin' demektir. İkisi Türkçede de tek ekte karıştırılabilir.",
+   "table": [
+    [
+     "must / mustn't",
+     "zorunluluk / yasak",
+     "You must wear a badge."
+    ],
+    [
+     "don't have to",
+     "zorunlu değil",
+     "You don't have to wear a suit."
+    ],
+    [
+     "If + present, will",
+     "gerçekçi koşul",
+     "If I get the job, I will call you."
+    ],
+    [
+     "If + past, would",
+     "hayalî koşul",
+     "If I had a car, I would drive."
+    ],
+    [
+     "could / would",
+     "nazik rica",
+     "Could you help me?"
+    ]
+   ],
+   "examples": [
+    {
+     "en": "You must show your ID.",
+     "tr": "Kimliğini göstermelisin."
+    },
+    {
+     "en": "You mustn't run in the hallway.",
+     "tr": "Koridorda koşmamalısın."
+    },
+    {
+     "en": "If I get the job, I will be happy.",
+     "tr": "İşi alırsam mutlu olurum."
+    },
+    {
+     "en": "If I were the principal, I would hire her.",
+     "tr": "Müdür olsam onu işe alırdım."
+    },
+    {
+     "en": "Could you tell me about your experience?",
+     "tr": "Deneyiminizi anlatır mısınız?"
+    }
+   ],
+   "exercises": [
+    {
+     "type": "mcq",
+     "q": "You ___ bring your ID to the interview. It is required.",
+     "options": [
+      "must",
+      "might",
+      "don't have to"
+     ],
+     "answer": 0,
+     "whyTr": "Zorunluluk: must.",
+     "tag": "modals",
+     "level": "B1"
+    },
+    {
+     "type": "mcq",
+     "q": "You ___ park in front of the school. It is not allowed.",
+     "options": [
+      "don't have to",
+      "mustn't",
+      "can"
+     ],
+     "answer": 1,
+     "whyTr": "Yasak: mustn't. (Don't have to ise 'zorunda değilsin' demektir.)",
+     "tag": "modals",
+     "level": "B1"
+    },
+    {
+     "type": "mcq",
+     "q": "You ___ wear a suit. Casual clothes are fine.",
+     "options": [
+      "mustn't",
+      "must",
+      "don't have to"
+     ],
+     "answer": 2,
+     "whyTr": "Zorunlu değil: don't have to.",
+     "tag": "modals",
+     "level": "B1"
+    },
+    {
+     "type": "mcq",
+     "q": "If I ___ the job, I will be very happy.",
+     "options": [
+      "get",
+      "got",
+      "will get"
+     ],
+     "answer": 0,
+     "whyTr": "Birinci koşul: If + present simple, will + fiil.",
+     "tag": "modals",
+     "level": "B1"
+    },
+    {
+     "type": "mcq",
+     "q": "If the students are noisy, I ___ stay calm.",
+     "options": [
+      "would",
+      "will",
+      "am"
+     ],
+     "answer": 1,
+     "whyTr": "Gerçekçi ihtimal: if + present, will + fiil.",
+     "tag": "modals",
+     "level": "B1"
+    },
+    {
+     "type": "mcq",
+     "q": "If I ___ more time, I would study every day.",
+     "options": [
+      "have",
+      "will have",
+      "had"
+     ],
+     "answer": 2,
+     "whyTr": "İkinci koşul (hayalî durum): if + past, would + fiil.",
+     "tag": "modals",
+     "level": "B1"
+    },
+    {
+     "type": "mcq",
+     "q": "What would you do if a student ___ sick?",
+     "options": [
+      "got",
+      "gets",
+      "will get"
+     ],
+     "answer": 0,
+     "whyTr": "İkinci koşul sorusu: What would you do if + past simple?",
+     "tag": "modals",
+     "level": "B1"
+    },
+    {
+     "type": "order",
+     "promptTr": "Cümleyi sırala:",
+     "words": [
+      "a",
+      "If",
+      "I",
+      "car,",
+      "had",
+      "I",
+      "would",
+      "drive",
+      "to",
+      "school"
+     ],
+     "answer": "If I had a car, I would drive to school",
+     "whyTr": "If + past simple, would + fiil.",
+     "tag": "modals",
+     "level": "B1"
+    },
+    {
+     "type": "order",
+     "promptTr": "Cümleyi sırala:",
+     "words": [
+      "have",
+      "You",
+      "to",
+      "don't",
+      "bring",
+      "a",
+      "resume"
+     ],
+     "answer": "You don't have to bring a resume",
+     "whyTr": "Zorunlu olmayan şey için: don't have to + fiil.",
+     "tag": "modals",
+     "level": "B1"
+    },
+    {
+     "type": "mcq",
+     "q": "___ you tell me about your experience, please?",
+     "options": [
+      "Are",
+      "Could",
+      "Do"
+     ],
+     "answer": 1,
+     "whyTr": "Nazik rica: Could you ...?",
+     "tag": "modals",
+     "level": "B1"
+    },
+    {
+     "type": "mcq",
+     "q": "I ___ prepared better for the interview. I was so nervous.",
+     "options": [
+      "should",
+      "might",
+      "should have"
+     ],
+     "answer": 2,
+     "whyTr": "Geçmişte pişmanlık: should have + V3 (tekrar).",
+     "tag": "modals",
+     "level": "B1"
+    },
+    {
+     "type": "fill",
+     "q": "If it rains, we ___ stay inside.",
+     "accept": [
+      "will",
+      "'ll"
+     ],
+     "hintTr": "gelecek (tek kelime)",
+     "whyTr": "Birinci koşul: if + present simple, will + fiil.",
+     "tag": "modals",
+     "level": "B1"
+    }
+   ]
+  },
+  "vocab": [
+   {
+    "id": "trustworthy",
+    "en": "trustworthy",
+    "tr": "güvenilir, güvenilebilir",
+    "pos": "adjective",
+    "example": "Parents want a trustworthy teacher.",
+    "exampleTr": "Veliler güvenilir bir öğretmen ister.",
+    "syn": [],
+    "ant": [],
+    "level": "B1"
+   },
+   {
+    "id": "cheerful",
+    "en": "cheerful",
+    "tr": "neşeli",
+    "pos": "adjective",
+    "example": "The new teacher is cheerful and kind.",
+    "exampleTr": "Yeni öğretmen neşeli ve nazik.",
+    "syn": [
+     "happy"
+    ],
+    "ant": [
+     "gloomy"
+    ],
+    "level": "B1"
+   },
+   {
+    "id": "teamwork",
+    "en": "teamwork",
+    "tr": "takım çalışması",
+    "pos": "noun",
+    "example": "Teamwork makes a school run well.",
+    "exampleTr": "Takım çalışması okulun iyi işlemesini sağlar.",
+    "syn": [],
+    "ant": [],
+    "level": "B1"
+   },
+   {
+    "id": "handle",
+    "en": "handle",
+    "tr": "ele almak, başa çıkmak",
+    "pos": "verb",
+    "example": "How do you handle a noisy class?",
+    "exampleTr": "Gürültülü bir sınıfı nasıl idare edersin?",
+    "syn": [
+     "deal with"
+    ],
+    "ant": [],
+    "level": "B1"
+   },
+   {
+    "id": "initiative",
+    "en": "initiative",
+    "tr": "inisiyatif",
+    "pos": "noun",
+    "example": "She showed initiative and cleaned the room.",
+    "exampleTr": "İnisiyatif aldı ve odayı temizledi.",
+    "syn": [],
+    "ant": [],
+    "level": "B1"
+   },
+   {
+    "id": "courteous",
+    "en": "courteous",
+    "tr": "kibar, nazik",
+    "pos": "adjective",
+    "example": "Be courteous to parents and visitors.",
+    "exampleTr": "Velilere ve ziyaretçilere karşı kibar ol.",
+    "syn": [
+     "polite"
+    ],
+    "ant": [
+     "rude"
+    ],
+    "level": "B1"
+   },
+   {
+    "id": "flexible",
+    "en": "flexible",
+    "tr": "esnek",
+    "pos": "adjective",
+    "example": "Substitute teachers must be flexible.",
+    "exampleTr": "Vekil öğretmenler esnek olmalı.",
+    "syn": [
+     "adaptable"
+    ],
+    "ant": [
+     "rigid"
+    ],
+    "level": "B1"
+   },
+   {
+    "id": "reliable",
+    "en": "reliable",
+    "tr": "güvenilir",
+    "pos": "adjective",
+    "example": "She is a reliable worker.",
+    "exampleTr": "O güvenilir bir çalışan.",
+    "syn": [
+     "dependable"
+    ],
+    "ant": [
+     "unreliable"
+    ],
+    "level": "B1"
+   },
+   {
+    "id": "adaptable",
+    "en": "adaptable",
+    "tr": "uyum sağlayabilen",
+    "pos": "adjective",
+    "example": "Adaptable teachers handle change well.",
+    "exampleTr": "Uyum sağlayabilen öğretmenler değişikliği iyi karşılar.",
+    "syn": [],
+    "ant": [],
+    "level": "B1"
+   },
+   {
+    "id": "positive",
+    "en": "positive",
+    "tr": "olumlu",
+    "pos": "adjective",
+    "example": "Keep a positive attitude.",
+    "exampleTr": "Olumlu bir tavır koru.",
+    "syn": [],
+    "ant": [
+     "negative"
+    ],
+    "level": "B1"
+   },
+   {
+    "id": "discipline",
+    "en": "discipline",
+    "tr": "disiplin",
+    "pos": "noun",
+    "example": "Good discipline helps children learn.",
+    "exampleTr": "İyi disiplin çocukların öğrenmesine yardımcı olur.",
+    "syn": [],
+    "ant": [],
+    "level": "B1"
+   },
+   {
+    "id": "attitude",
+    "en": "attitude",
+    "tr": "tutum",
+    "pos": "noun",
+    "example": "A good attitude helps in every job.",
+    "exampleTr": "İyi bir tutum her işte yardımcı olur.",
+    "syn": [],
+    "ant": [],
+    "level": "B1"
+   },
+   {
+    "id": "motivate",
+    "en": "motivate",
+    "tr": "motive etmek",
+    "pos": "verb",
+    "example": "Small prizes can motivate students.",
+    "exampleTr": "Küçük ödüller öğrencileri motive edebilir.",
+    "syn": [
+     "inspire"
+    ],
+    "ant": [],
+    "level": "B1"
+   },
+   {
+    "id": "effective",
+    "en": "effective",
+    "tr": "etkili",
+    "pos": "adjective",
+    "example": "Clear rules are effective.",
+    "exampleTr": "Net kurallar etkilidir.",
+    "syn": [
+     "useful"
+    ],
+    "ant": [
+     "ineffective"
+    ],
+    "level": "B1"
+   },
+   {
+    "id": "appropriate",
+    "en": "appropriate",
+    "tr": "uygun",
+    "pos": "adjective",
+    "example": "Wear appropriate clothes to the interview.",
+    "exampleTr": "Mülakata uygun kıyafetler giy.",
+    "syn": [
+     "suitable"
+    ],
+    "ant": [
+     "inappropriate"
+    ],
+    "level": "B1"
+   }
+  ],
+  "reading": {
+   "title": "Practicing for the interview",
+   "text": "Hafsa has an interview tomorrow at Lincoln Elementary, so tonight she is practicing with Emre. He asks the questions, and she answers.\n\n\"What are your strengths?\" Emre asks. \"I am patient and reliable,\" Hafsa says. \"I am also flexible, so I can change plans quickly.\"\n\n\"What is your weakness?\" \"My English isn't perfect yet. But I study every day, and I will keep improving.\"\n\n\"What would you do if two students started fighting?\" Hafsa thinks for a moment. \"I would stay calm and separate them if it is safe. Then I would call the front office. In a real emergency, I must follow the school rules.\" Emre smiles. \"Good. What if a student refused to work?\" \"If a student refused, I would ask why. I might offer a small choice. I would never shout.\"\n\nNext, Emre asks, \"How would you motivate a shy student?\" \"I would encourage him with kind words,\" she says. \"I might ask a simple question first, and I should praise every small success.\"\n\nAt the end, Emre says, \"You can do this, Mom. You don't have to be perfect. You just have to be honest and prepared.\" Hafsa laughs. \"If I get the job, I will cook baklava for the whole teachers' lounge!\" Emre says that he will be the first one to taste it.",
+   "glossary": [
+    {
+     "en": "separate",
+     "tr": "ayırmak"
+    },
+    {
+     "en": "refuse",
+     "tr": "reddetmek"
+    },
+    {
+     "en": "praise",
+     "tr": "övmek"
+    },
+    {
+     "en": "taste",
+     "tr": "tatmak"
+    },
+    {
+     "en": "prepared",
+     "tr": "hazırlıklı"
+    }
+   ],
+   "questions": [
+    {
+     "type": "mcq",
+     "q": "Who asks the interview questions?",
+     "options": [
+      "Ms. Rivera",
+      "Emre",
+      "Linda",
+      "Mr. Brown"
+     ],
+     "answer": 1,
+     "whyTr": "Metin: 'He asks the questions, and she answers.'",
+     "tag": "reading",
+     "level": "B1"
+    },
+    {
+     "type": "mcq",
+     "q": "What is Hafsa's weakness?",
+     "options": [
+      "She is always late.",
+      "Her English is not perfect yet.",
+      "She is afraid of children."
+     ],
+     "answer": 1,
+     "whyTr": "Metin: 'My English isn't perfect yet.'",
+     "tag": "reading",
+     "level": "B1"
+    },
+    {
+     "type": "mcq",
+     "q": "What would Hafsa do if two students started fighting?",
+     "options": [
+      "Leave the room",
+      "Shout at them",
+      "Stay calm and call the front office"
+     ],
+     "answer": 2,
+     "whyTr": "Metin: 'I would stay calm ... Then I would call the front office.'",
+     "tag": "reading",
+     "level": "B1"
+    },
+    {
+     "type": "mcq",
+     "q": "What will Hafsa cook if she gets the job?",
+     "options": [
+      "Baklava",
+      "Pizza",
+      "Soup"
+     ],
+     "answer": 0,
+     "whyTr": "Metin: 'If I get the job, I will cook baklava'.",
+     "tag": "reading",
+     "level": "B1"
+    }
+   ]
+  }
+ },
+ "evening": {
+  "listening": {
+   "title": "The real interview",
+   "script": [
+    {
+     "speaker": "Ms. Rivera",
+     "text": "Good morning, Hafsa. Please sit down. Thank you for coming."
+    },
+    {
+     "speaker": "Hafsa",
+     "text": "Good morning, Ms. Rivera. Thank you for seeing me."
+    },
+    {
+     "speaker": "Ms. Rivera",
+     "text": "Tell me about yourself."
+    },
+    {
+     "speaker": "Hafsa",
+     "text": "I'm from Isparta, Turkey. I volunteer at the library, and I love working with children."
+    },
+    {
+     "speaker": "Ms. Rivera",
+     "text": "What is your biggest strength?"
+    },
+    {
+     "speaker": "Hafsa",
+     "text": "I am patient and reliable. I arrive on time, and I stay calm in difficult situations."
+    },
+    {
+     "speaker": "Ms. Rivera",
+     "text": "What would you do if a student refused to follow the rules?"
+    },
+    {
+     "speaker": "Hafsa",
+     "text": "I would speak to him quietly first. If he still refused, I would call the front office."
+    },
+    {
+     "speaker": "Ms. Rivera",
+     "text": "Good. What if there were an emergency, like a fire alarm?"
+    },
+    {
+     "speaker": "Hafsa",
+     "text": "I would follow the emergency plan and take the students outside. I must count them, too."
+    },
+    {
+     "speaker": "Ms. Rivera",
+     "text": "Excellent. Could you start next Monday if we offer you the job?"
+    },
+    {
+     "speaker": "Hafsa",
+     "text": "Yes, I could. I am available every weekday."
+    },
+    {
+     "speaker": "Ms. Rivera",
+     "text": "Wonderful. We will call you by Friday."
+    },
+    {
+     "speaker": "Hafsa",
+     "text": "Thank you very much. Have a nice day."
+    }
+   ],
+   "questions": [
+    {
+     "type": "mcq",
+     "q": "What is Hafsa's biggest strength?",
+     "options": [
+      "She speaks Spanish.",
+      "She is patient and reliable.",
+      "She drives a bus."
+     ],
+     "answer": 1,
+     "whyTr": "Hafsa: 'I am patient and reliable.'",
+     "tag": "listening",
+     "level": "B1"
+    },
+    {
+     "type": "mcq",
+     "q": "What would Hafsa do first if a student refused to follow the rules?",
+     "options": [
+      "Call the parents",
+      "Send him home",
+      "Speak to him quietly",
+      "Shout"
+     ],
+     "answer": 2,
+     "whyTr": "Hafsa: 'I would speak to him quietly first.'",
+     "tag": "listening",
+     "level": "B1"
+    },
+    {
+     "type": "mcq",
+     "q": "What would she do during a fire alarm?",
+     "options": [
+      "Follow the plan and take the students outside",
+      "Stay in the room",
+      "Call Emre"
+     ],
+     "answer": 0,
+     "whyTr": "Hafsa: 'I would follow the emergency plan and take the students outside.'",
+     "tag": "listening",
+     "level": "B1"
+    },
+    {
+     "type": "mcq",
+     "q": "When will the school call her?",
+     "options": [
+      "On Monday",
+      "By Friday",
+      "Next month"
+     ],
+     "answer": 1,
+     "whyTr": "Ms. Rivera: 'We will call you by Friday.'",
+     "tag": "listening",
+     "level": "B1"
+    }
+   ]
+  },
+  "writing": {
+   "promptTr": "Mülakat sorusunu cevapla: Bir öğrenci çalışmak istemezse ne yaparsın? would, might, must ve if kullan (100-120 kelime).",
+   "promptEn": "Answer the interview question: What would you do if a student refused to work? Use would, might, must and if (100-120 words).",
+   "frames": [
+    "If a student refused to work, I would ...",
+    "First, I might ...",
+    "I must ...",
+    "If the problem continued, I would ...",
+    "I think this is effective because ..."
+   ],
+   "model": "If a student refused to work, I would stay calm and speak to him quietly. First, I would ask why he does not want to work. He might be tired, or he might not understand the task. If he did not understand, I would explain it again in a simple way. I must be patient, and I should never shout. If the problem continued, I would call the front office and ask for help. I think this is an effective plan because it is respectful, and it keeps the class safe. Every child is different, so I try to be flexible. If I were a student, I would like a teacher like that.",
+   "checklistTr": [
+    "En az iki 'If + past simple, would + fiil' cümlen var mı?",
+    "would / might / must / should kelimelerinden en az üçünü kullandın mı?",
+    "Cevabın sakin, saygılı ve güvenli bir çözüm gösteriyor mu?",
+    "Cümleler büyük harfle başlıyor ve noktayla bitiyor mu?"
+   ],
+   "minWords": 80
+  },
+  "examSet": [
+   {
+    "type": "mcq",
+    "q": "Teachers ___ leave students alone in the classroom. It is against the rules.",
+    "options": [
+     "don't have to",
+     "might",
+     "mustn't"
+    ],
+    "answer": 2,
+    "whyTr": "Yasak: mustn't.",
+    "tag": "modals",
+    "level": "B1"
+   },
+   {
+    "type": "mcq",
+    "q": "If I ___ the principal, I would hire more teachers.",
+    "options": [
+     "were",
+     "am",
+     "will be"
+    ],
+    "answer": 0,
+    "whyTr": "Hayalî durumda 'If I were ...' kullanılır.",
+    "tag": "modals",
+    "level": "B1"
+   },
+   {
+    "type": "mcq",
+    "q": "If you study every day, you ___ pass the test.",
+    "options": [
+     "would",
+     "will",
+     "should have"
+    ],
+    "answer": 1,
+    "whyTr": "Birinci koşul: if + present, will + fiil.",
+    "tag": "modals",
+    "level": "B1"
+   },
+   {
+    "type": "mcq",
+    "q": "You ___ bring lunch. The school gives free meals.",
+    "options": [
+     "mustn't",
+     "can't",
+     "don't have to"
+    ],
+    "answer": 2,
+    "whyTr": "Zorunlu değil: don't have to.",
+    "tag": "modals",
+    "level": "B1"
+   },
+   {
+    "type": "mcq",
+    "q": "Ms. Rivera is the principal, ___?",
+    "options": [
+     "isn't she",
+     "is she",
+     "doesn't she"
+    ],
+    "answer": 0,
+    "whyTr": "Olumlu cümle → olumsuz tag.",
+    "tag": "question-form",
+    "level": "B1"
+   },
+   {
+    "type": "mcq",
+    "q": "I forgot my ID. I ___ checked my bag before I left.",
+    "options": [
+     "should",
+     "should have",
+     "would"
+    ],
+    "answer": 1,
+    "whyTr": "Geçmişte pişmanlık: should have + V3.",
+    "tag": "modals",
+    "level": "B1"
+   },
+   {
+    "type": "mcq",
+    "q": "Hafsa ___ at the library since March.",
+    "options": [
+     "volunteered",
+     "volunteers",
+     "has volunteered"
+    ],
+    "answer": 2,
+    "whyTr": "'Since March' → present perfect.",
+    "tag": "present-perfect",
+    "level": "B1"
+   },
+   {
+    "type": "mcq",
+    "q": "A substitute teacher must be ___ because the plans can change quickly.",
+    "options": [
+     "flexible",
+     "absent",
+     "embarrassed"
+    ],
+    "answer": 0,
+    "whyTr": "Esnek = flexible.",
+    "tag": "vocab",
+    "level": "B1"
+   },
+   {
+    "type": "mcq",
+    "q": "Which word is closest in meaning to \"reliable\"?",
+    "options": [
+     "careless",
+     "dependable",
+     "shy"
+    ],
+    "answer": 1,
+    "whyTr": "Reliable ve dependable eş anlamlıdır.",
+    "tag": "synonym",
+    "level": "B1"
+   },
+   {
+    "type": "mcq",
+    "q": "What is the opposite of \"strength\"?",
+    "options": [
+     "interview",
+     "situation",
+     "weakness"
+    ],
+    "answer": 2,
+    "whyTr": "Strength'in zıttı weakness.",
+    "tag": "antonym",
+    "level": "B1"
+   },
+   {
+    "type": "mcq",
+    "q": "Sam is a new substitute. If a student asks a hard question, he stays calm. He says, \"I might not know the answer, but I will find out.\"\n\nWhat does Sam do when he does not know the answer?",
+    "options": [
+     "He promises to find out.",
+     "He ignores the student.",
+     "He leaves the room."
+    ],
+    "answer": 0,
+    "whyTr": "Metin: 'I will find out'.",
+    "tag": "reading",
+    "level": "B1"
+   },
+   {
+    "type": "mcq",
+    "q": "In an emergency, teachers must stay calm and follow the plan. They must count the students, and they should call the office as soon as possible.\n\nWhat should teachers do first?",
+    "options": [
+     "Go home",
+     "Stay calm and follow the plan",
+     "Send a text to parents"
+    ],
+    "answer": 1,
+    "whyTr": "Metin: 'must stay calm and follow the plan'.",
+    "tag": "reading",
+    "level": "B1"
+   }
+  ]
+ }
+}

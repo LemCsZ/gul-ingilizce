@@ -1,0 +1,813 @@
+{
+ "week": 9,
+ "day": 6,
+ "titleTr": "Mülakat hazırlığı: hafta tekrarı",
+ "theme": "job-interview",
+ "morning": {
+  "grammar": {
+   "topic": "Week 9 review: relative clauses, gerund/infinitive, purpose, indirect questions",
+   "explainTr": [
+    "Bu hafta dört şey öğrendin: who / which / that / where / whose ile tanımlama; enjoy -ing ve decide to gibi fiil kalıpları; to / in order to / so that ile amaç; Could you tell me...? ile kibar sorular. Bugün hepsini mülakat sorularında bir arada kullanıyorsun.",
+    "Hızlı hatırlatma: kişi = who, yer = where, sahiplik = whose + isim. Edattan sonra -ing, decide / hope / plan'dan sonra to + fiil. Dolaylı soruda do/does yok ve düz cümle sırası var.",
+    "Mülakatta kısa, net ve kibar cümleler iyidir. Mükemmel İngilizce gerekmez; doğru kalıp ve sakin ses yeterlidir."
+   ],
+   "compareTr": "Türkçede mülakat cümleleri çoğu zaman uzun bir sıfat-fiil ya da ek zinciriyle kurulur. İngilizcede aynı fikri kısa cümlelere bölüp who / where / so that gibi bağlaçlarla bağlarsın.",
+   "table": [
+    [
+     "Kişi, yer, sahiplik",
+     "who / where / whose",
+     "a school where I can learn"
+    ],
+    [
+     "Fiil kalıbı",
+     "enjoy -ing, decide to",
+     "I enjoy teaching."
+    ],
+    [
+     "Amaç",
+     "to / in order to / so that",
+     "I practice so that I improve."
+    ],
+    [
+     "Kibar soru",
+     "Could you tell me + düz sıra",
+     "Could you tell me when I will hear?"
+    ]
+   ],
+   "examples": [
+    {
+     "en": "I am a mother who moved from Isparta.",
+     "tr": "Isparta'dan taşınmış bir anneyim."
+    },
+    {
+     "en": "I want a school where students feel safe.",
+     "tr": "Öğrencilerin kendini güvende hissettiği bir okul istiyorum."
+    },
+    {
+     "en": "I practice every day in order to improve my English.",
+     "tr": "İngilizcemi geliştirmek için her gün pratik yapıyorum."
+    },
+    {
+     "en": "Could you tell me when I will hear from you?",
+     "tr": "Ne zaman haber alacağımı söyler misiniz?"
+    }
+   ],
+   "exercises": [
+    {
+     "type": "mcq",
+     "q": "Ms. Hall is the principal ___ interviews new substitutes.",
+     "options": [
+      "who",
+      "whose",
+      "where",
+      "which"
+     ],
+     "answer": 0,
+     "whyTr": "Kişi için 'who' (Gün 1).",
+     "tag": "pronouns",
+     "level": "B1"
+    },
+    {
+     "type": "mcq",
+     "q": "I'd like to work in a school ___ students feel safe.",
+     "options": [
+      "whose",
+      "where",
+      "who",
+      "what"
+     ],
+     "answer": 1,
+     "whyTr": "Yer için 'where' (Gün 2).",
+     "tag": "pronouns",
+     "level": "B1"
+    },
+    {
+     "type": "mcq",
+     "q": "She is a candidate ___ resume is very strong.",
+     "options": [
+      "who's",
+      "who",
+      "whose",
+      "where"
+     ],
+     "answer": 2,
+     "whyTr": "Sahiplik: whose + isim (Gün 2).",
+     "tag": "pronouns",
+     "level": "B1"
+    },
+    {
+     "type": "mcq",
+     "q": "In the interview, I will talk about ___ with children.",
+     "options": [
+      "to work",
+      "work",
+      "worked",
+      "working"
+     ],
+     "answer": 3,
+     "whyTr": "Edattan (about) sonra -ing gelir (Gün 3).",
+     "tag": "word-order",
+     "level": "B1"
+    },
+    {
+     "type": "mcq",
+     "q": "I decided ___ for the job last week.",
+     "options": [
+      "to apply",
+      "applying",
+      "apply",
+      "applied"
+     ],
+     "answer": 0,
+     "whyTr": "Decide + to + fiil (Gün 3).",
+     "tag": "word-order",
+     "level": "B1"
+    },
+    {
+     "type": "mcq",
+     "q": "I arrived early ___ I could prepare my notes.",
+     "options": [
+      "to",
+      "so that",
+      "for",
+      "in order to"
+     ],
+     "answer": 1,
+     "whyTr": "Yeni özne (I) + can: 'so that' (Gün 4).",
+     "tag": "linkers",
+     "level": "B1"
+    },
+    {
+     "type": "mcq",
+     "q": "Could you tell me ___ the interview will take?",
+     "options": [
+      "how long will",
+      "how long does",
+      "how long",
+      "how is long"
+     ],
+     "answer": 2,
+     "whyTr": "Dolaylı soruda düz sıra: how long + özne + fiil (Gün 5).",
+     "tag": "question-form",
+     "level": "B1"
+    },
+    {
+     "type": "mcq",
+     "q": "Which sentence is correct?",
+     "options": [
+      "I'd like to know whether does the school provide training.",
+      "I'd like to know whether the school provide training.",
+      "I'd like to know that does the school provides training.",
+      "I'd like to know whether the school provides training."
+     ],
+     "answer": 3,
+     "whyTr": "Düz cümle sırası ve -s: the school provides.",
+     "tag": "question-form",
+     "level": "B1"
+    },
+    {
+     "type": "order",
+     "promptTr": "Cümleyi sırala:",
+     "words": [
+      "working",
+      "with",
+      "children",
+      "who",
+      "need",
+      "extra",
+      "help",
+      "I",
+      "enjoy"
+     ],
+     "answer": "I enjoy working with children who need extra help",
+     "whyTr": "Enjoy + -ing; 'who' çocukları tanımlar.",
+     "tag": "pronouns",
+     "level": "B1"
+    },
+    {
+     "type": "order",
+     "promptTr": "Cümleyi sırala:",
+     "words": [
+      "tell",
+      "me",
+      "when",
+      "I",
+      "will",
+      "hear",
+      "from",
+      "you",
+      "Could",
+      "you"
+     ],
+     "answer": "Could you tell me when I will hear from you",
+     "whyTr": "Dolaylı soruda düz sıra: when I will hear.",
+     "tag": "question-form",
+     "level": "B1"
+    },
+    {
+     "type": "fill",
+     "q": "I came early ___ meet the principal.",
+     "accept": [
+      "to"
+     ],
+     "hintTr": "amaç için kısa kelime",
+     "whyTr": "Amaç: to + fiil.",
+     "tag": "linkers",
+     "level": "B1"
+    },
+    {
+     "type": "fill",
+     "q": "She is the teacher ___ classroom is next to mine.",
+     "accept": [
+      "whose"
+     ],
+     "hintTr": "sahiplik",
+     "whyTr": "Sahiplik için 'whose'.",
+     "tag": "pronouns",
+     "level": "B1"
+    }
+   ]
+  },
+  "vocab": [
+   {
+    "id": "interview",
+    "en": "interview",
+    "tr": "mülakat; mülakat yapmak",
+    "pos": "noun",
+    "example": "I have an interview on Monday.",
+    "exampleTr": "Pazartesi günü bir mülakatım var.",
+    "syn": [],
+    "ant": [],
+    "level": "B1"
+   },
+   {
+    "id": "resume",
+    "en": "resume",
+    "tr": "özgeçmiş, CV",
+    "pos": "noun",
+    "example": "Please bring your resume to the interview.",
+    "exampleTr": "Lütfen özgeçmişini mülakata getir.",
+    "syn": [],
+    "ant": [],
+    "level": "B1"
+   },
+   {
+    "id": "reference",
+    "en": "reference",
+    "tr": "referans",
+    "pos": "noun",
+    "example": "My old boss is my reference.",
+    "exampleTr": "Eski müdürüm benim referansım.",
+    "syn": [
+     "recommendation"
+    ],
+    "ant": [],
+    "level": "B1"
+   },
+   {
+    "id": "strength",
+    "en": "strength",
+    "tr": "güçlü yön",
+    "pos": "noun",
+    "example": "Patience is my biggest strength.",
+    "exampleTr": "Sabır benim en büyük güçlü yönüm.",
+    "syn": [],
+    "ant": [
+     "weakness"
+    ],
+    "level": "B1"
+   },
+   {
+    "id": "weakness",
+    "en": "weakness",
+    "tr": "zayıf yön",
+    "pos": "noun",
+    "example": "My weakness is speaking too fast.",
+    "exampleTr": "Zayıf yönüm çok hızlı konuşmak.",
+    "syn": [],
+    "ant": [
+     "strength"
+    ],
+    "level": "B1"
+   },
+   {
+    "id": "qualified",
+    "en": "qualified",
+    "tr": "nitelikli, yeterli",
+    "pos": "adjective",
+    "example": "She is qualified for this job.",
+    "exampleTr": "O, bu iş için nitelikli.",
+    "syn": [
+     "suitable"
+    ],
+    "ant": [
+     "unqualified"
+    ],
+    "level": "B1"
+   },
+   {
+    "id": "hire",
+    "en": "hire",
+    "tr": "işe almak",
+    "pos": "verb",
+    "example": "The school wants to hire two substitutes.",
+    "exampleTr": "Okul iki vekil işe almak istiyor.",
+    "syn": [
+     "employ"
+    ],
+    "ant": [
+     "fire"
+    ],
+    "level": "B1"
+   },
+   {
+    "id": "candidate",
+    "en": "candidate",
+    "tr": "aday",
+    "pos": "noun",
+    "example": "The principal met five candidates today.",
+    "exampleTr": "Müdür bugün beş adayla görüştü.",
+    "syn": [
+     "applicant"
+    ],
+    "ant": [],
+    "level": "B1"
+   },
+   {
+    "id": "confident",
+    "en": "confident",
+    "tr": "kendinden emin",
+    "pos": "adjective",
+    "example": "I feel confident after my practice.",
+    "exampleTr": "Pratikten sonra kendime güveniyorum.",
+    "syn": [
+     "sure"
+    ],
+    "ant": [
+     "nervous"
+    ],
+    "level": "B1"
+   },
+   {
+    "id": "prepare",
+    "en": "prepare",
+    "tr": "hazırlanmak, hazırlamak",
+    "pos": "verb",
+    "example": "I prepare my answers the night before.",
+    "exampleTr": "Cevaplarımı bir gece önceden hazırlıyorum.",
+    "syn": [
+     "get ready"
+    ],
+    "ant": [],
+    "level": "B1"
+   },
+   {
+    "id": "describe",
+    "en": "describe",
+    "tr": "tarif etmek, anlatmak",
+    "pos": "verb",
+    "example": "Describe a difficult day at work.",
+    "exampleTr": "İşte zor bir günü anlat.",
+    "syn": [
+     "explain"
+    ],
+    "ant": [],
+    "level": "B1"
+   },
+   {
+    "id": "example",
+    "en": "example",
+    "tr": "örnek",
+    "pos": "noun",
+    "example": "Can you give me an example?",
+    "exampleTr": "Bana bir örnek verebilir misin?",
+    "syn": [
+     "instance"
+    ],
+    "ant": [],
+    "level": "A2"
+   },
+   {
+    "id": "situation",
+    "en": "situation",
+    "tr": "durum",
+    "pos": "noun",
+    "example": "A calm teacher can handle any situation.",
+    "exampleTr": "Sakin bir öğretmen her durumu idare edebilir.",
+    "syn": [
+     "circumstance"
+    ],
+    "ant": [],
+    "level": "B1"
+   },
+   {
+    "id": "respond",
+    "en": "respond",
+    "tr": "cevap vermek, karşılık vermek",
+    "pos": "verb",
+    "example": "Please respond to the email by Friday.",
+    "exampleTr": "Lütfen e-postaya cuma gününe kadar cevap verin.",
+    "syn": [
+     "answer"
+    ],
+    "ant": [],
+    "level": "B1"
+   },
+   {
+    "id": "professional",
+    "en": "professional",
+    "tr": "profesyonel, mesleki",
+    "pos": "adjective",
+    "example": "Wear professional clothes to the interview.",
+    "exampleTr": "Mülakata profesyonel kıyafetler giy.",
+    "syn": [],
+    "ant": [
+     "amateur"
+    ],
+    "level": "B1"
+   }
+  ],
+  "reading": {
+   "title": "Practice interview at home",
+   "text": "On Sunday evening, Hafsa has a practice interview with Emre. He sits at the table with a notebook and acts like a serious principal. \"Hafsa, please tell me about yourself,\" he says in a deep voice. She laughs, but then she answers: \"I am a mother who moved from Isparta to the United States three years ago. I enjoy working with children, and I am studying to become a substitute teacher.\"\n\n\"What is your biggest strength?\" Emre asks. \"I am patient, and I never give up. When a child can't read a word, I try a different way so that he can understand.\" \"And your weakness?\" Hafsa thinks for a moment. \"My English is not perfect yet, but I practice every day in order to improve it.\" Emre nods. \"That is an honest answer. Now give me an example of a difficult situation.\"\n\nHafsa remembers a day when a boy cried because he lost his lunch card. \"I sat with him, I asked what happened, and I took him to the office where Mr. Brown helped us. He stopped crying and finished his lesson.\"\n\nAfter thirty minutes, Emre closes the notebook. \"Mom, you sound confident. They will hire you.\" Hafsa is not so sure, but she feels more ready. Before she goes to bed, she puts her resume and two references in a folder, and she prints the directions to the school. Tomorrow is a big day.",
+   "glossary": [
+    {
+     "en": "practice interview",
+     "tr": "deneme mülakatı"
+    },
+    {
+     "en": "deep voice",
+     "tr": "kalın ses"
+    },
+    {
+     "en": "honest",
+     "tr": "dürüst"
+    },
+    {
+     "en": "handle",
+     "tr": "idare etmek"
+    }
+   ],
+   "questions": [
+    {
+     "type": "mcq",
+     "q": "Who plays the principal in the practice interview?",
+     "options": [
+      "Emre",
+      "Linda",
+      "Mr. Brown",
+      "Ms. Hall"
+     ],
+     "answer": 0,
+     "whyTr": "Metin: 'practice interview with Emre ... acts like a serious principal'.",
+     "tag": "reading",
+     "level": "B1"
+    },
+    {
+     "type": "mcq",
+     "q": "What is Hafsa's biggest strength?",
+     "options": [
+      "She speaks perfect English.",
+      "She is patient and never gives up.",
+      "She can drive a bus.",
+      "She knows every student."
+     ],
+     "answer": 1,
+     "whyTr": "Metin: 'I am patient, and I never give up.'",
+     "tag": "reading",
+     "level": "B1"
+    },
+    {
+     "type": "mcq",
+     "q": "What does Hafsa say about her weakness?",
+     "options": [
+      "She is always late.",
+      "She does not like children.",
+      "Her English is not perfect, but she practices daily.",
+      "She cannot use a computer."
+     ],
+     "answer": 2,
+     "whyTr": "Metin: 'My English is not perfect yet, but I practice every day'.",
+     "tag": "reading",
+     "level": "B1"
+    },
+    {
+     "type": "mcq",
+     "q": "What does Hafsa put in the folder?",
+     "options": [
+      "Her lunch and a map",
+      "Her certificate and a pen",
+      "Emre's notebook",
+      "Her resume and two references"
+     ],
+     "answer": 3,
+     "whyTr": "Metin: 'her resume and two references in a folder'.",
+     "tag": "reading",
+     "level": "B1"
+    }
+   ]
+  }
+ },
+ "evening": {
+  "listening": {
+   "title": "The job interview",
+   "script": [
+    {
+     "speaker": "Ms. Hall",
+     "text": "Good morning, Hafsa. Please sit down. Could you tell me a little about yourself?"
+    },
+    {
+     "speaker": "Hafsa",
+     "text": "Of course. I'm from Isparta, and I've lived here for three years. I enjoy working with children, and I'm taking a course to get my certificate."
+    },
+    {
+     "speaker": "Ms. Hall",
+     "text": "Why do you want to be a substitute teacher?"
+    },
+    {
+     "speaker": "Hafsa",
+     "text": "I want to help children learn. Also, I need a flexible job so that I can take care of my home."
+    },
+    {
+     "speaker": "Ms. Hall",
+     "text": "What do you do when a student refuses to follow the rules?"
+    },
+    {
+     "speaker": "Hafsa",
+     "text": "I stay calm and speak quietly. I ask him why he is upset, and then we find a solution."
+    },
+    {
+     "speaker": "Ms. Hall",
+     "text": "That is a good answer. Do you have any questions for me?"
+    },
+    {
+     "speaker": "Hafsa",
+     "text": "Yes. Could you tell me how many classes a substitute teaches each day?"
+    },
+    {
+     "speaker": "Ms. Hall",
+     "text": "Usually three or four. You will get the lesson plans at the office in the morning."
+    },
+    {
+     "speaker": "Hafsa",
+     "text": "And do you know when I will hear from you?"
+    },
+    {
+     "speaker": "Ms. Hall",
+     "text": "We will call you by Friday. Thank you for coming."
+    },
+    {
+     "speaker": "Hafsa",
+     "text": "Thank you for your time, Ms. Hall."
+    }
+   ],
+   "questions": [
+    {
+     "type": "mcq",
+     "q": "How long has Hafsa lived in the United States?",
+     "options": [
+      "Three years",
+      "One year",
+      "Five years",
+      "Ten years"
+     ],
+     "answer": 0,
+     "whyTr": "Hafsa: 'I've lived here for three years.'",
+     "tag": "listening",
+     "level": "B1"
+    },
+    {
+     "type": "mcq",
+     "q": "What does Hafsa do when a student refuses to follow the rules?",
+     "options": [
+      "She calls the principal.",
+      "She stays calm and speaks quietly.",
+      "She sends him home.",
+      "She ignores him."
+     ],
+     "answer": 1,
+     "whyTr": "Hafsa: 'I stay calm and speak quietly.'",
+     "tag": "listening",
+     "level": "B1"
+    },
+    {
+     "type": "mcq",
+     "q": "How many classes does a substitute usually teach each day?",
+     "options": [
+      "One or two",
+      "Five or six",
+      "Three or four",
+      "Ten"
+     ],
+     "answer": 2,
+     "whyTr": "Ms. Hall: 'Usually three or four.'",
+     "tag": "listening",
+     "level": "B1"
+    },
+    {
+     "type": "mcq",
+     "q": "When will the school call Hafsa?",
+     "options": [
+      "On Monday",
+      "Next month",
+      "Tomorrow morning",
+      "By Friday"
+     ],
+     "answer": 3,
+     "whyTr": "Ms. Hall: 'We will call you by Friday.'",
+     "tag": "listening",
+     "level": "B1"
+    }
+   ]
+  },
+  "writing": {
+   "promptTr": "Mülakat için kısa bir tanıtım yaz: kimsin, güçlü ve zayıf yönün, neden bu işi istiyorsun, ve bir kibar soru. Haftanın dilbilgisini kullan (80-120 kelime).",
+   "promptEn": "Write a short self-introduction for a job interview. Include your strength, your weakness, why you want the job, and one polite question. (80-120 words)",
+   "frames": [
+    "I am a ... who ...",
+    "My biggest strength is ...",
+    "I practice ...ing in order to ...",
+    "I want this job so that I can ...",
+    "Could you tell me ...?"
+   ],
+   "model": "My name is Hafsa. I am a mother from Isparta, and I have lived in the United States for three years. I enjoy working with children who need extra help. My biggest strength is that I am patient. My weakness is that my English is not perfect, so I practice every day in order to improve it. I want to be a substitute teacher so that I can support students and learn from other teachers. Could you tell me how many classes a substitute teaches each day? I was also wondering when I will hear from you. Thank you for your time.",
+   "checklistTr": [
+    "En az bir who/where/whose cümleciği var mı?",
+    "Enjoy -ing ve decide/want to + fiil kalıplarını doğru kullandın mı?",
+    "Amaç için to, in order to ya da so that var mı?",
+    "Dolaylı sorularda düz cümle sırası kullandın mı?"
+   ],
+   "minWords": 80
+  },
+  "examSet": [
+   {
+    "type": "mcq",
+    "q": "A candidate is a person ___ applies for a job.",
+    "options": [
+     "who",
+     "which",
+     "where",
+     "whose"
+    ],
+    "answer": 0,
+    "whyTr": "Kişi için 'who'.",
+    "tag": "pronouns",
+    "level": "B1"
+   },
+   {
+    "type": "mcq",
+    "q": "The office is the room ___ new substitutes sign in.",
+    "options": [
+     "whose",
+     "where",
+     "who",
+     "what"
+    ],
+    "answer": 1,
+    "whyTr": "Yer için 'where'.",
+    "tag": "pronouns",
+    "level": "B1"
+   },
+   {
+    "type": "mcq",
+    "q": "I met a woman ___ son goes to this school.",
+    "options": [
+     "who",
+     "which",
+     "whose",
+     "where"
+    ],
+    "answer": 2,
+    "whyTr": "Sahiplik: whose.",
+    "tag": "pronouns",
+    "level": "B1"
+   },
+   {
+    "type": "mcq",
+    "q": "He avoids ___ late to interviews.",
+    "options": [
+     "to be",
+     "be",
+     "been",
+     "being"
+    ],
+    "answer": 3,
+    "whyTr": "Avoid + -ing.",
+    "tag": "word-order",
+    "level": "B1"
+   },
+   {
+    "type": "mcq",
+    "q": "She decided ___ for the job at Lincoln Elementary.",
+    "options": [
+     "to apply",
+     "applying",
+     "apply",
+     "applies"
+    ],
+    "answer": 0,
+    "whyTr": "Decide + to + fiil.",
+    "tag": "word-order",
+    "level": "B1"
+   },
+   {
+    "type": "mcq",
+    "q": "I printed my resume ___ I could give it to the principal.",
+    "options": [
+     "to",
+     "so that",
+     "for",
+     "in order to"
+    ],
+    "answer": 1,
+    "whyTr": "Yeni özne (I) olduğu için so that.",
+    "tag": "linkers",
+    "level": "B1"
+   },
+   {
+    "type": "mcq",
+    "q": "Do you know whether the principal ___ available on Thursday?",
+    "options": [
+     "does be",
+     "be",
+     "is",
+     "is she"
+    ],
+    "answer": 2,
+    "whyTr": "Dolaylı soruda düz sıra: the principal is.",
+    "tag": "question-form",
+    "level": "B1"
+   },
+   {
+    "type": "mcq",
+    "q": "Which word is closest in meaning to 'describe'?",
+    "options": [
+     "forget",
+     "hire",
+     "refuse",
+     "explain"
+    ],
+    "answer": 3,
+    "whyTr": "Describe = explain (anlatmak).",
+    "tag": "synonym",
+    "level": "B1"
+   },
+   {
+    "type": "mcq",
+    "q": "What is the opposite of 'hire'?",
+    "options": [
+     "fire",
+     "apply",
+     "require",
+     "prepare"
+    ],
+    "answer": 0,
+    "whyTr": "Hire'ın zıttı fire (işten çıkarmak).",
+    "tag": "antonym",
+    "level": "B1"
+   },
+   {
+    "type": "mcq",
+    "q": "I feel ___ because I practiced my answers a lot.",
+    "options": [
+     "absent",
+     "confident",
+     "unqualified",
+     "impatient"
+    ],
+    "answer": 1,
+    "whyTr": "Kendinden emin = confident.",
+    "tag": "vocab",
+    "level": "B1"
+   },
+   {
+    "type": "mcq",
+    "q": "Lina sent her resume to three schools. Two schools called her for an interview. To prepare, she practiced her answers with a friend and she printed her references.\n\nHow did Lina prepare?",
+    "options": [
+     "She called three schools.",
+     "She changed her resume.",
+     "She practiced her answers with a friend.",
+     "She asked the principal for help."
+    ],
+    "answer": 2,
+    "whyTr": "Metin: 'she practiced her answers with a friend'.",
+    "tag": "reading",
+    "level": "B1"
+   },
+   {
+    "type": "mcq",
+    "q": "The principal asked a candidate to describe a difficult situation. The candidate said, \"Last year, two students argued over a book. I listened to both of them, and we found a solution together.\"\n\nWhat did the candidate do?",
+    "options": [
+     "She took the book away.",
+     "She called the parents.",
+     "She left the room.",
+     "She listened to both students."
+    ],
+    "answer": 3,
+    "whyTr": "Metin: 'I listened to both of them'.",
+    "tag": "reading",
+    "level": "B1"
+   }
+  ]
+ }
+}

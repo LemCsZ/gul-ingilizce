@@ -1,0 +1,877 @@
+{
+ "titleTr": "16. hafta deneme sınavı",
+ "introTr": "Bu, gerçek sınavın provası: 50 soru ve yazma. Sorular kolaydan zora karışık; hedefin 46 ve üzeri. Süreye dikkat et, sakin ol ve bildiğin kadarını yap. Buraya kadar gelmen zaten büyük başarı!",
+ "sections": [
+  {
+   "id": "grammar",
+   "titleTr": "Dil bilgisi",
+   "items": [
+    {
+     "type": "mcq",
+     "q": "___ you ever worked in a school?",
+     "options": [
+      "Do",
+      "Have",
+      "Are",
+      "Were"
+     ],
+     "answer": 1,
+     "whyTr": "'Ever' ile deneyim sorusu: Have you ever + V3?",
+     "tag": "present-perfect",
+     "level": "A2"
+    },
+    {
+     "type": "mcq",
+     "q": "We don't have ___ time before the bell.",
+     "options": [
+      "many",
+      "a few",
+      "a",
+      "much"
+     ],
+     "answer": 3,
+     "whyTr": "Sayılamayan isim (time) ile olumsuzda 'much' kullanılır.",
+     "tag": "countable",
+     "level": "A2"
+    },
+    {
+     "type": "mcq",
+     "q": "Emre is taller ___ his father.",
+     "options": [
+      "than",
+      "that",
+      "then",
+      "as"
+     ],
+     "answer": 0,
+     "whyTr": "Karşılaştırmada 'than' kullanılır.",
+     "tag": "comparatives",
+     "level": "A2"
+    },
+    {
+     "type": "mcq",
+     "q": "When I arrived at the school, the assembly ___.",
+     "options": [
+      "has already started",
+      "was already start",
+      "had already started",
+      "would already start"
+     ],
+     "answer": 2,
+     "whyTr": "Geçmişteki bir andan önce başlamış olay: past perfect.",
+     "tag": "past-perfect",
+     "level": "B1"
+    },
+    {
+     "type": "mcq",
+     "q": "She has been a substitute ___ six months.",
+     "options": [
+      "since",
+      "during",
+      "for",
+      "ago"
+     ],
+     "answer": 2,
+     "whyTr": "Süre belirtirken 'for' kullanılır.",
+     "tag": "present-perfect",
+     "level": "B1"
+    },
+    {
+     "type": "mcq",
+     "q": "I'm interested ___ working as a teacher.",
+     "options": [
+      "in",
+      "on",
+      "at",
+      "for"
+     ],
+     "answer": 0,
+     "whyTr": "'Interested in' sabit edat kalıbıdır.",
+     "tag": "prepositions-place",
+     "level": "B1"
+    },
+    {
+     "type": "mcq",
+     "q": "If I ___ the lottery, I would travel around the world.",
+     "options": [
+      "win",
+      "will win",
+      "would win",
+      "won"
+     ],
+     "answer": 3,
+     "whyTr": "Gerçek dışı koşul: If + past simple, would + fiil.",
+     "tag": "conditionals",
+     "level": "B1"
+    },
+    {
+     "type": "mcq",
+     "q": "Reports must ___ to the office by 3:00.",
+     "options": [
+      "hand in",
+      "be handed in",
+      "handed in",
+      "be hand in"
+     ],
+     "answer": 1,
+     "whyTr": "Modal passive: must be + V3.",
+     "tag": "passive",
+     "level": "B1"
+    },
+    {
+     "type": "mcq",
+     "q": "That's the teacher ___ helped me on my first day.",
+     "options": [
+      "who",
+      "whose",
+      "where",
+      "what"
+     ],
+     "answer": 0,
+     "whyTr": "Kişi için özne konumunda 'who' kullanılır.",
+     "tag": "relative-clauses",
+     "level": "B1"
+    },
+    {
+     "type": "mcq",
+     "q": "He told me ___ late again.",
+     "options": [
+      "to not being",
+      "don't be",
+      "not to be",
+      "not being"
+     ],
+     "answer": 2,
+     "whyTr": "Dolaylı emir: told + kişi + not to + fiil.",
+     "tag": "reported-speech",
+     "level": "B1"
+    },
+    {
+     "type": "mcq",
+     "q": "I wish I ___ harder for the test last week.",
+     "options": [
+      "studied",
+      "had studied",
+      "would study",
+      "have studied"
+     ],
+     "answer": 1,
+     "whyTr": "Geçmiş pişmanlık: wish + past perfect.",
+     "tag": "conditionals",
+     "level": "B2"
+    },
+    {
+     "type": "mcq",
+     "q": "If she had taken the earlier bus, she ___ on time.",
+     "options": [
+      "would arrive",
+      "had arrived",
+      "will have arrived",
+      "would have arrived"
+     ],
+     "answer": 3,
+     "whyTr": "3. tip koşul: would have + V3.",
+     "tag": "conditionals",
+     "level": "B2"
+    },
+    {
+     "type": "mcq",
+     "q": "At this time next week, we ___ on a plane to Istanbul.",
+     "options": [
+      "will sit",
+      "will be sitting",
+      "sit",
+      "have sat"
+     ],
+     "answer": 1,
+     "whyTr": "Gelecekte belirli anda süren eylem: future continuous.",
+     "tag": "future",
+     "level": "B2"
+    },
+    {
+     "type": "mcq",
+     "q": "We're having the classroom ___ next week.",
+     "options": [
+      "paint",
+      "painting",
+      "to paint",
+      "painted"
+     ],
+     "answer": 3,
+     "whyTr": "Have something done: have + nesne + V3.",
+     "tag": "passive",
+     "level": "B2"
+    },
+    {
+     "type": "mcq",
+     "q": "He ___ the answer; he looked completely shocked when I told him.",
+     "options": [
+      "can't have known",
+      "must have known",
+      "should know",
+      "need have known"
+     ],
+     "answer": 0,
+     "whyTr": "Geçmişte imkânsız çıkarım: can't have + V3.",
+     "tag": "modals",
+     "level": "B2"
+    },
+    {
+     "type": "mcq",
+     "q": "The principal suggested ___ a new reading program.",
+     "options": [
+      "to adopt",
+      "adopt",
+      "adopting",
+      "for adopting"
+     ],
+     "answer": 2,
+     "whyTr": "'Suggest' fiilinden sonra -ing gelir.",
+     "tag": "reported-speech",
+     "level": "B2"
+    },
+    {
+     "type": "mcq",
+     "q": "I'm not used to ___ so early.",
+     "options": [
+      "get up",
+      "got up",
+      "getting up",
+      "to get up"
+     ],
+     "answer": 2,
+     "whyTr": "'Be used to' sonrası -ing gelir.",
+     "tag": "gerund-infinitive",
+     "level": "B2"
+    },
+    {
+     "type": "mcq",
+     "q": "Ms. Park, ___ office is on the third floor, will help you.",
+     "options": [
+      "whose",
+      "who",
+      "which",
+      "that"
+     ],
+     "answer": 0,
+     "whyTr": "Sahiplik bildiren ilgi zamiri: whose.",
+     "tag": "relative-clauses",
+     "level": "B2"
+    },
+    {
+     "type": "mcq",
+     "q": "She prepared carefully for the interview. ___, she got the job.",
+     "options": [
+      "Nevertheless",
+      "However",
+      "On the other hand",
+      "As a result"
+     ],
+     "answer": 3,
+     "whyTr": "Sonuç bildirmek için 'As a result' kullanılır.",
+     "tag": "linkers",
+     "level": "B2"
+    },
+    {
+     "type": "mcq",
+     "q": "Not only ___ the exam, but she also got the highest score.",
+     "options": [
+      "she passed",
+      "did she pass",
+      "she did pass",
+      "passed she"
+     ],
+     "answer": 1,
+     "whyTr": "'Not only' başta olunca devrik yapı: did she pass.",
+     "tag": "word-order",
+     "level": "B2"
+    }
+   ]
+  },
+  {
+   "id": "vocab",
+   "titleTr": "Kelime",
+   "items": [
+    {
+     "type": "mcq",
+     "q": "What is the opposite of 'noisy'?",
+     "options": [
+      "quiet",
+      "busy",
+      "loud",
+      "clean"
+     ],
+     "answer": 0,
+     "whyTr": "Noisy (gürültülü) kelimesinin zıttı quiet (sessiz).",
+     "tag": "antonym",
+     "level": "A2"
+    },
+    {
+     "type": "mcq",
+     "q": "A person who teaches in place of the regular teacher is a ___.",
+     "options": [
+      "principal",
+      "counselor",
+      "substitute",
+      "librarian"
+     ],
+     "answer": 2,
+     "whyTr": "Yerine bakan öğretmene substitute denir.",
+     "tag": "vocab",
+     "level": "A2"
+    },
+    {
+     "type": "mcq",
+     "q": "Which word means the same as 'enormous'?",
+     "options": [
+      "tiny",
+      "huge",
+      "modern",
+      "narrow"
+     ],
+     "answer": 1,
+     "whyTr": "Enormous ve huge: çok büyük.",
+     "tag": "synonym",
+     "level": "B1"
+    },
+    {
+     "type": "mcq",
+     "q": "'Hafsa is very punctual.' Punctual means:",
+     "options": [
+      "always polite",
+      "always busy",
+      "always quiet",
+      "always on time"
+     ],
+     "answer": 3,
+     "whyTr": "Punctual, dakik demektir.",
+     "tag": "vocab",
+     "level": "B1"
+    },
+    {
+     "type": "mcq",
+     "q": "He gave a clear ___ of the rules. (explain)",
+     "options": [
+      "explain",
+      "explanation",
+      "explained",
+      "explanatory"
+     ],
+     "answer": 1,
+     "whyTr": "'A clear' sonrası isim gerekir: explanation.",
+     "tag": "word-formation",
+     "level": "B1"
+    },
+    {
+     "type": "mcq",
+     "q": "Teachers must ___ attendance every morning.",
+     "options": [
+      "make",
+      "do",
+      "have",
+      "take"
+     ],
+     "answer": 3,
+     "whyTr": "'Take attendance' yoklama almak demektir.",
+     "tag": "collocations",
+     "level": "B1"
+    },
+    {
+     "type": "mcq",
+     "q": "What is the opposite of 'reluctant'?",
+     "options": [
+      "eager",
+      "careful",
+      "tired",
+      "quiet"
+     ],
+     "answer": 0,
+     "whyTr": "Reluctant (isteksiz) kelimesinin zıttı eager (istekli).",
+     "tag": "antonym",
+     "level": "B2"
+    },
+    {
+     "type": "mcq",
+     "q": "The test results were ___ because the form had errors. (valid)",
+     "options": [
+      "unvalid",
+      "disvalid",
+      "invalid",
+      "misvalid"
+     ],
+     "answer": 2,
+     "whyTr": "Valid kelimesinin olumsuzu in- ile: invalid.",
+     "tag": "word-formation",
+     "level": "B2"
+    },
+    {
+     "type": "mcq",
+     "q": "The extra practice was ___ for the whole class. (benefit)",
+     "options": [
+      "benefit",
+      "beneficially",
+      "beneficial",
+      "benefited"
+     ],
+     "answer": 2,
+     "whyTr": "'Was' sonrası sıfat gerekir: beneficial.",
+     "tag": "word-formation",
+     "level": "B2"
+    },
+    {
+     "type": "mcq",
+     "q": "'The new schedule will affect everyone.' Affect means:",
+     "options": [
+      "have an influence on",
+      "improve",
+      "cancel",
+      "describe"
+     ],
+     "answer": 0,
+     "whyTr": "Affect, etkilemek demektir.",
+     "tag": "vocab",
+     "level": "B2"
+    },
+    {
+     "type": "mcq",
+     "q": "The librarian is sick, so Hafsa will ___ in for her this afternoon.",
+     "options": [
+      "pull",
+      "turn",
+      "take",
+      "fill"
+     ],
+     "answer": 3,
+     "whyTr": "'Fill in for' birinin yerine bakmak demektir.",
+     "tag": "phrasal-verbs",
+     "level": "B2"
+    },
+    {
+     "type": "mcq",
+     "q": "'The substitute gave thorough notes.' Thorough means:",
+     "options": [
+      "short and fast",
+      "complete and careful",
+      "hard to read",
+      "friendly"
+     ],
+     "answer": 1,
+     "whyTr": "Thorough, kapsamlı ve dikkatli demektir.",
+     "tag": "vocab",
+     "level": "B2"
+    }
+   ]
+  },
+  {
+   "id": "reading",
+   "titleTr": "Okuma",
+   "passages": [
+    {
+     "title": "A parent-teacher conference",
+     "level": "A2",
+     "text": "On Thursday evening, Hafsa went to Emre's school for a parent-teacher conference. She arrived ten minutes early and sat in the hallway with other parents. At 6:30, Emre's teacher, Mr. Harris, called her name.\n\n'Emre is doing very well in math,' Mr. Harris said. 'He always finishes his homework, and he helps other students.' Hafsa was proud. 'But he sometimes talks too much in class,' the teacher added with a smile. 'Also, his reading is a little slow. Please read with him for fifteen minutes every night.'\n\nHafsa wrote this in her notebook. Then she asked, 'Can I help in the classroom?' Mr. Harris said yes. 'We need a parent for the book fair next month.' Hafsa was happy to say yes.",
+     "questions": [
+      {
+       "type": "mcq",
+       "q": "What is Emre good at?",
+       "options": [
+        "Math",
+        "Reading",
+        "Art",
+        "Sports"
+       ],
+       "answer": 0,
+       "whyTr": "Mr. Harris Emre'nin matematikte çok iyi olduğunu söylüyor.",
+       "tag": "reading",
+       "level": "A2"
+      },
+      {
+       "type": "mcq",
+       "q": "What should Hafsa do at home?",
+       "options": [
+        "Buy new books",
+        "Practice math with Emre",
+        "Read with Emre for fifteen minutes every night",
+        "Talk to the principal"
+       ],
+       "answer": 2,
+       "whyTr": "Her gece 15 dakika Emre ile okumalı.",
+       "tag": "reading",
+       "level": "A2"
+      },
+      {
+       "type": "mcq",
+       "q": "What will Hafsa help with?",
+       "options": [
+        "A field trip",
+        "The book fair",
+        "A math test",
+        "The school lunch"
+       ],
+       "answer": 1,
+       "whyTr": "Gelecek ay kitap fuarında yardım edecek.",
+       "tag": "reading",
+       "level": "A2"
+      }
+     ]
+    },
+    {
+     "title": "Tips from a first-year substitute",
+     "level": "B1",
+     "text": "After six months as a substitute teacher, I have learned a few things that no training course told me. First, arrive early. If you reach the school at least thirty minutes before the first bell, you can read the plan, find the supplies and meet the neighbor teacher. Second, learn the names. I make a seating chart on my first page and write each name as the students tell me. When children hear their own name, they usually pay more attention.\n\nThird, don't be afraid to ask for help. On my third day, a student told me he felt sick, and I didn't know the nurse's number. A teacher from the next room helped me at once. Fourth, leave a detailed note for the regular teacher. It should say what you finished, who behaved well and who needed help.\n\nFinally, be kind to yourself. Some days will go badly. When I have a bad day, I ask myself what I can do differently next time, and I try not to repeat the same mistake.",
+     "questions": [
+      {
+       "type": "mcq",
+       "q": "Why does the writer recommend arriving early?",
+       "options": [
+        "To avoid traffic",
+        "To talk with parents",
+        "To clean the classroom",
+        "To read the plan, find supplies and meet a neighbor teacher"
+       ],
+       "answer": 3,
+       "whyTr": "Erken gelince plan okunur, malzemeler bulunur, komşu öğretmenle tanışılır.",
+       "tag": "reading",
+       "level": "B1"
+      },
+      {
+       "type": "mcq",
+       "q": "Why does the writer use a seating chart?",
+       "options": [
+        "The school requires it.",
+        "Students pay more attention when they hear their names.",
+        "It saves time on grading.",
+        "Students dislike sitting alone."
+       ],
+       "answer": 1,
+       "whyTr": "İsmini duyan çocuklar daha çok dikkat ediyor.",
+       "tag": "reading",
+       "level": "B1"
+      },
+      {
+       "type": "mcq",
+       "q": "What happened on the writer's third day?",
+       "options": [
+        "She lost the lesson plan.",
+        "She arrived late.",
+        "A parent complained.",
+        "A student felt sick and she did not know the nurse's number."
+       ],
+       "answer": 3,
+       "whyTr": "Bir öğrenci hastalandı, hemşire numarasını bilmiyordu.",
+       "tag": "reading",
+       "level": "B1"
+      },
+      {
+       "type": "mcq",
+       "q": "What should the note for the regular teacher include?",
+       "options": [
+        "What was finished, who behaved well and who needed help",
+        "Only the students' grades",
+        "A list of problems with the school",
+        "The writer's phone number"
+       ],
+       "answer": 0,
+       "whyTr": "Not, bitenleri, davranışı ve yardım gereken öğrencileri içermeli.",
+       "tag": "reading",
+       "level": "B1"
+      }
+     ]
+    },
+    {
+     "title": "Is homework worth it?",
+     "level": "B2",
+     "text": "Few topics divide parents and teachers as sharply as homework. Traditionalists argue that regular practice builds discipline and reinforces what students learn in class. Critics, however, claim that too much homework causes stress, reduces sleep and leaves little time for family or play.\n\nResearch suggests that the answer depends largely on age. For elementary students, studies have found almost no link between the amount of homework and academic success. In middle school, a modest amount, perhaps an hour a night, appears to help. In high school, the benefits grow, but only up to about two hours; beyond that, additional work seems to produce diminishing returns.\n\nSome districts have responded by limiting homework instead of eliminating it. One school in Massachusetts, for example, introduced a 'ten-minutes-per-grade' rule: a fourth grader should have no more than forty minutes a night. Teachers there report that assignments are now more thoughtful, and parents say that evenings are calmer.\n\nNevertheless, educators warn against simple conclusions. Homework that is meaningful, such as reading or short projects connected to class, can be valuable, whereas repetitive worksheets often waste time. What matters, they say, is not how much homework is assigned, but why.",
+     "questions": [
+      {
+       "type": "mcq",
+       "q": "What does research say about elementary students?",
+       "options": [
+        "They need two hours a night.",
+        "Homework always harms them.",
+        "There is almost no link between homework amount and success.",
+        "They learn best from worksheets."
+       ],
+       "answer": 2,
+       "whyTr": "İlkokulda ödev miktarı ile başarı arasında neredeyse ilişki yok.",
+       "tag": "reading",
+       "level": "B2"
+      },
+      {
+       "type": "mcq",
+       "q": "What does 'diminishing returns' suggest?",
+       "options": [
+        "Students earn money from homework.",
+        "Homework becomes more fun.",
+        "Extra work gives less and less benefit.",
+        "Teachers return papers faster."
+       ],
+       "answer": 2,
+       "whyTr": "Diminishing returns: ek çaba giderek daha az fayda sağlar.",
+       "tag": "reading",
+       "level": "B2"
+      },
+      {
+       "type": "mcq",
+       "q": "What is the final message of the passage?",
+       "options": [
+        "The purpose and quality of homework matter more than the amount.",
+        "All homework should be removed.",
+        "Longer homework is always better.",
+        "Parents should do the homework."
+       ],
+       "answer": 0,
+       "whyTr": "Eğitimciler miktardan çok ödevin amacının ve kalitesinin önemli olduğunu söylüyor.",
+       "tag": "reading",
+       "level": "B2"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "listening",
+   "titleTr": "Dinleme",
+   "passages": [
+    {
+     "title": "A bake sale",
+     "level": "A2",
+     "script": [
+      {
+       "speaker": "Linda",
+       "text": "Hafsa, are you free on Saturday? There's a bake sale at the school."
+      },
+      {
+       "speaker": "Hafsa",
+       "text": "What time does it start?"
+      },
+      {
+       "speaker": "Linda",
+       "text": "At 10:00, and it finishes at 2:00. I'm making cookies."
+      },
+      {
+       "speaker": "Hafsa",
+       "text": "I can make baklava. Is that okay?"
+      },
+      {
+       "speaker": "Linda",
+       "text": "That would be wonderful! Everybody will love it."
+      },
+      {
+       "speaker": "Hafsa",
+       "text": "Do I need to bring money?"
+      },
+      {
+       "speaker": "Linda",
+       "text": "Only if you want to buy something. Five dollars is enough for two cookies and a coffee."
+      },
+      {
+       "speaker": "Hafsa",
+       "text": "Perfect. I'll see you there."
+      }
+     ],
+     "questions": [
+      {
+       "type": "mcq",
+       "q": "What time does the bake sale finish?",
+       "options": [
+        "At 10:00",
+        "At 12:00",
+        "At 5:00",
+        "At 2:00"
+       ],
+       "answer": 3,
+       "whyTr": "Saat 10:00'da başlıyor, 2:00'de bitiyor.",
+       "tag": "listening",
+       "level": "A2"
+      },
+      {
+       "type": "mcq",
+       "q": "What will Hafsa make?",
+       "options": [
+        "Cookies",
+        "Baklava",
+        "Coffee",
+        "Bread"
+       ],
+       "answer": 1,
+       "whyTr": "Hafsa baklava yapacak.",
+       "tag": "listening",
+       "level": "A2"
+      },
+      {
+       "type": "mcq",
+       "q": "What does Linda say about money?",
+       "options": [
+        "Hafsa needs money only if she wants to buy something.",
+        "Everyone must pay five dollars to enter.",
+        "Hafsa must bring twenty dollars.",
+        "The coffee is free."
+       ],
+       "answer": 0,
+       "whyTr": "Para sadece bir şey almak isterse gerekli.",
+       "tag": "listening",
+       "level": "A2"
+      }
+     ]
+    },
+    {
+     "title": "An interview for the substitute list",
+     "level": "B1",
+     "script": [
+      {
+       "speaker": "Mr. Adams",
+       "text": "Thank you for coming, Hafsa. Let's begin. Why do you want to be a substitute teacher?"
+      },
+      {
+       "speaker": "Hafsa",
+       "text": "I enjoy working with children, and the schedule is flexible. I also hope to become a full-time teacher in the future."
+      },
+      {
+       "speaker": "Mr. Adams",
+       "text": "What would you do if a student refused to follow your instructions?"
+      },
+      {
+       "speaker": "Hafsa",
+       "text": "I would speak to the student privately and stay calm. If that didn't work, I would call the office."
+      },
+      {
+       "speaker": "Mr. Adams",
+       "text": "Good. How many days a week would you like to work?"
+      },
+      {
+       "speaker": "Hafsa",
+       "text": "Three or four. I'm not available on Fridays because I volunteer at my son's school."
+      },
+      {
+       "speaker": "Mr. Adams",
+       "text": "That's fine. We'll contact you after we check your references."
+      }
+     ],
+     "questions": [
+      {
+       "type": "mcq",
+       "q": "Why does Hafsa want to be a substitute?",
+       "options": [
+        "She needs a full-time job now.",
+        "She dislikes regular teachers.",
+        "She enjoys children and likes the flexible schedule.",
+        "She wants to work at night."
+       ],
+       "answer": 2,
+       "whyTr": "Çocuklarla çalışmayı seviyor ve esnek program istiyor.",
+       "tag": "listening",
+       "level": "B1"
+      },
+      {
+       "type": "mcq",
+       "q": "What would Hafsa do first if a student refused instructions?",
+       "options": [
+        "Call the office immediately",
+        "Speak to the student privately",
+        "Send the student home",
+        "Give extra homework"
+       ],
+       "answer": 1,
+       "whyTr": "Önce öğrenciyle özel konuşur ve sakin kalır.",
+       "tag": "listening",
+       "level": "B1"
+      },
+      {
+       "type": "mcq",
+       "q": "Which day is Hafsa unavailable?",
+       "options": [
+        "Monday",
+        "Wednesday",
+        "Saturday",
+        "Friday"
+       ],
+       "answer": 3,
+       "whyTr": "Cuma günleri oğlunun okulunda gönüllü.",
+       "tag": "listening",
+       "level": "B1"
+      }
+     ]
+    },
+    {
+     "title": "A four-day school week",
+     "level": "B2",
+     "script": [
+      {
+       "speaker": "Mr. Reyes",
+       "text": "Did you hear that the district is considering a four-day school week?"
+      },
+      {
+       "speaker": "Hafsa",
+       "text": "I did. Honestly, I'm not sure what to think. On one hand, longer weekends sound appealing."
+      },
+      {
+       "speaker": "Mr. Reyes",
+       "text": "Right, but the school days would be about an hour longer, and young kids get exhausted."
+      },
+      {
+       "speaker": "Hafsa",
+       "text": "That's what worries me. Also, working parents would have to find childcare for the extra day off."
+      },
+      {
+       "speaker": "Mr. Reyes",
+       "text": "Exactly. Some districts saved money, but I haven't seen proof that test scores improved."
+      },
+      {
+       "speaker": "Hafsa",
+       "text": "So the idea may be attractive on paper, but the benefits aren't clear yet."
+      },
+      {
+       "speaker": "Mr. Reyes",
+       "text": "That's how I see it."
+      }
+     ],
+     "questions": [
+      {
+       "type": "mcq",
+       "q": "What is Hafsa's attitude toward the idea?",
+       "options": [
+        "Completely positive",
+        "Mixed: she sees both advantages and problems.",
+        "Strongly against it",
+        "She has no opinion at all"
+       ],
+       "answer": 1,
+       "whyTr": "Hem cazip yönleri hem endişeleri dile getiriyor.",
+       "tag": "listening",
+       "level": "B2"
+      },
+      {
+       "type": "mcq",
+       "q": "What does Mr. Reyes say about test scores?",
+       "options": [
+        "They improved a lot.",
+        "They dropped sharply.",
+        "Nobody measured them.",
+        "He has not seen proof that they improved."
+       ],
+       "answer": 3,
+       "whyTr": "'I haven't seen proof that test scores improved.'",
+       "tag": "listening",
+       "level": "B2"
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "writing": {
+  "promptTr": "Substitute teacher mülakatındaymışsın gibi yaz: Neden substitute teacher olmak istiyorsun? Zor bir sınıfla karşılaşırsan ne yaparsın (if cümleleri kullan)? Geçmişteki deneyiminden bir örnek ver. Bağlaçlar (however, as a result) ve en az bir kelime türetme (-ful, -ment, -tion vb.) kullanmaya çalış.",
+  "promptEn": "Imagine you are in a substitute teacher interview. Explain why you want to be a substitute teacher, what you would do if you faced a difficult class, and give an example from your past experience.",
+  "minWords": 130,
+  "checklistTr": [
+   "Neden substitute olmak istediğimi yazdım mı?",
+   "Geçmiş deneyimden bir örnek verdim mi (past simple / present perfect)?",
+   "En az iki 'would' ya da 2. tip koşul cümlem var mı?",
+   "En az iki bağlaç kullandım mı (however, as a result, although)?",
+   "Resmî ve kibar bir ton kullandım mı?",
+   "Cümleler büyük harfle başlıyor, noktayla bitiyor mu?"
+  ],
+  "model": "Thank you for inviting me to this interview. I would like to explain why I want to work as a substitute teacher.\n\nI have always enjoyed working with children. In Turkey, I taught English to small groups for two years, and since I moved to the United States, I have volunteered at my son's school every week. As a result, I have learned how to stay calm and organized in a busy classroom.\n\nIf I faced a difficult class, I would first learn the students' names and explain my expectations clearly. If a student refused to follow my instructions, I would speak to him privately. However, if the problem continued, I would ask the office for support. I also keep a few extra activities in my bag in case the lesson plan is too short.\n\nAlthough I do not have a teaching license yet, I am very reliable, and I am always willing to learn. I believe that a substitute teacher's most important job is to make the students feel safe and keep learning going. Thank you for your time and for considering my application."
+ }
+}

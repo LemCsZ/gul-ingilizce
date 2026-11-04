@@ -1,0 +1,945 @@
+{
+ "week": 15,
+ "day": 1,
+ "titleTr": "Görüş yazısında bağlaçlar: tezat ve karşılaştırma",
+ "theme": "opinion-writing",
+ "morning": {
+  "grammar": {
+   "topic": "Söylem belirleyicileri: however, nevertheless, whereas, on the other hand",
+   "explainTr": [
+    "Fikirleri birbirine bağlayan kelimelere 'söylem belirleyicisi' denir. Tezat için üç grup var: cümle başında 'However / Nevertheless / On the other hand' (virgülle), cümle ortasında 'whereas / while / although'.",
+    "'However' ve 'nevertheless' ayrı cümle kurar: It rained. However, we went out. 'Whereas' ise iki cümleyi birleştirir: Emre likes math, whereas Linda likes art. 'Although' kullanırsan yanına 'but' koymazsın: Although she was tired, she finished.",
+    "'On the other hand' bir durumun diğer yüzünü gösterir; çoğu zaman 'On the one hand...' ile birlikte gelir. 'Moreover' ve 'therefore' ise tezat değil; ekleme ve sonuç bildirir."
+   ],
+   "compareTr": "Türkçede 'rağmen' ve 'ama' birbirinin yerine kullanılır. İngilizcede 'although' ile 'but' aynı cümlede olmaz: 'Yorgundu ama yine de bitirdi' için 'Although she was tired, she finished' deriz.",
+   "table": [
+    [
+     "However / Nevertheless",
+     "Önceki cümleyle tezat (yeni cümle, virgül)",
+     "It was late. However, he stayed."
+    ],
+    [
+     "Whereas / While",
+     "İki durumu karşılaştırır (cümle ortası)",
+     "I drink tea, whereas Emre drinks coffee."
+    ],
+    [
+     "On the other hand",
+     "Aynı konunun diğer yüzü",
+     "Cars are fast. On the other hand, they are expensive."
+    ],
+    [
+     "Although / Though",
+     "Tezat (but kullanılmaz)",
+     "Although it rained, we walked."
+    ],
+    [
+     "Moreover / Therefore",
+     "Ekleme / sonuç (tezat değil)",
+     "It is cheap. Moreover, it is safe."
+    ]
+   ],
+   "examples": [
+    {
+     "en": "The course is expensive. Nevertheless, many adults enroll.",
+     "tr": "Kurs pahalı. Buna rağmen birçok yetişkin kaydoluyor."
+    },
+    {
+     "en": "Hafsa studies at night, whereas Emre studies in the morning.",
+     "tr": "Hafsa geceleri çalışır, Emre ise sabahları."
+    },
+    {
+     "en": "Online lessons are flexible. On the other hand, they can feel lonely.",
+     "tr": "Online dersler esnek. Öte yandan yalnız hissettirebilir."
+    },
+    {
+     "en": "Although she was nervous, she answered every question.",
+     "tr": "Gergin olmasına rağmen her soruyu cevapladı."
+    }
+   ],
+   "exercises": [
+    {
+     "type": "mcq",
+     "q": "Many parents like the new schedule. ___, some teachers worry that the day is too long.",
+     "options": [
+      "Moreover",
+      "Therefore",
+      "However",
+      "Because"
+     ],
+     "answer": 2,
+     "whyTr": "Parent memnuniyetiyle öğretmen kaygısı arasında tezat var: However.",
+     "tag": "linkers",
+     "level": "B2"
+    },
+    {
+     "type": "mcq",
+     "q": "Emre loves math, ___ his friend prefers art.",
+     "options": [
+      "whereas",
+      "however",
+      "therefore",
+      "despite"
+     ],
+     "answer": 0,
+     "whyTr": "İki kişiyi karşılaştırıp tek cümlede birleştirmek için 'whereas' kullanılır.",
+     "tag": "linkers",
+     "level": "B2"
+    },
+    {
+     "type": "mcq",
+     "q": "The bus is cheap. ___, it is safe and clean.",
+     "options": [
+      "However",
+      "Whereas",
+      "Nevertheless",
+      "Moreover"
+     ],
+     "answer": 3,
+     "whyTr": "Burada tezat yok, ekleme var: Moreover.",
+     "tag": "linkers",
+     "level": "B2"
+    },
+    {
+     "type": "order",
+     "promptTr": "Cümleyi sırala:",
+     "words": [
+      "Online",
+      "they",
+      "lonely.",
+      "can",
+      "however,",
+      "are",
+      "cheap;",
+      "classes",
+      "feel"
+     ],
+     "answer": "Online classes are cheap; however, they can feel lonely.",
+     "whyTr": "'However' noktalı virgül veya noktadan sonra gelir, ardından virgül konur.",
+     "tag": "linkers",
+     "level": "B2"
+    },
+    {
+     "type": "mcq",
+     "q": "If Emre ___ harder last year, he would have passed the test.",
+     "options": [
+      "studied",
+      "had studied",
+      "has studied",
+      "would study"
+     ],
+     "answer": 1,
+     "whyTr": "Üçüncü tip koşul: If + past perfect, would have + V3.",
+     "tag": "conditionals",
+     "level": "B2"
+    },
+    {
+     "type": "mcq",
+     "q": "Which sentence is punctuated correctly?",
+     "options": [
+      "It was cold, however we went outside.",
+      "It was cold. However, we went outside.",
+      "It was cold however, we went outside.",
+      "It was cold, but, however we went outside."
+     ],
+     "answer": 1,
+     "whyTr": "'However' yeni cümlenin başına gelir ve virgülle ayrılır.",
+     "tag": "linkers",
+     "level": "B2"
+    },
+    {
+     "type": "mcq",
+     "q": "Homework builds good habits. ___, it can cause stress for young children.",
+     "options": [
+      "Therefore",
+      "For example",
+      "In addition",
+      "On the other hand"
+     ],
+     "answer": 3,
+     "whyTr": "Aynı konunun olumsuz yüzünü göstermek için 'On the other hand' kullanılır.",
+     "tag": "linkers",
+     "level": "B2"
+    },
+    {
+     "type": "order",
+     "promptTr": "Cümleyi sırala:",
+     "words": [
+      "still",
+      "others",
+      "tablets,",
+      "use",
+      "books.",
+      "prefer",
+      "schools",
+      "Whereas",
+      "some"
+     ],
+     "answer": "Whereas some schools use tablets, others still prefer books.",
+     "whyTr": "Cümle başındaki 'Whereas' iki cümleciği virgülle bağlar.",
+     "tag": "linkers",
+     "level": "B2"
+    },
+    {
+     "type": "mcq",
+     "q": "Which sentence is correct?",
+     "options": [
+      "Although she was very tired, she finished the report.",
+      "Although she was very tired, but she finished the report.",
+      "Although she was very tired, however she finished the report.",
+      "She was very tired although, she finished the report."
+     ],
+     "answer": 0,
+     "whyTr": "'Although' kullanılırsa ana cümlede 'but' veya 'however' olmaz.",
+     "tag": "linkers",
+     "level": "B2"
+    },
+    {
+     "type": "mcq",
+     "q": "The school newsletter ___ to every family on Fridays.",
+     "options": [
+      "sends",
+      "is sending",
+      "is sent",
+      "has send"
+     ],
+     "answer": 2,
+     "whyTr": "Bülteni okul gönderiyor, yani edilgen yapı: is sent.",
+     "tag": "passive",
+     "level": "B2"
+    },
+    {
+     "type": "fill",
+     "q": "Some students prefer silence, ___ others work better with music.",
+     "accept": [
+      "whereas",
+      "while"
+     ],
+     "hintTr": "karşılaştırma bağlacı",
+     "whyTr": "İki farklı grubu karşılaştırmak için 'whereas' ya da 'while' kullanılır.",
+     "tag": "linkers",
+     "level": "B2"
+    },
+    {
+     "type": "fill",
+     "q": "She was ill. ___, she went to work.",
+     "accept": [
+      "nevertheless",
+      "however"
+     ],
+     "hintTr": "yine de",
+     "whyTr": "Hastalığa rağmen işe gitmek tezat oluşturur: Nevertheless / However.",
+     "tag": "linkers",
+     "level": "B2"
+    }
+   ]
+  },
+  "vocab": [
+   {
+    "id": "controversial",
+    "en": "controversial",
+    "tr": "tartışmalı, tartışma yaratan",
+    "pos": "adjective",
+    "example": "The new grading policy is controversial.",
+    "exampleTr": "Yeni notlandırma politikası tartışmalı.",
+    "syn": [],
+    "ant": [],
+    "level": "B2"
+   },
+   {
+    "id": "drawback",
+    "en": "drawback",
+    "tr": "dezavantaj, olumsuz yan",
+    "pos": "noun",
+    "example": "One drawback of online classes is the lack of contact.",
+    "exampleTr": "Online derslerin bir olumsuz yanı, insan teması eksikliği.",
+    "syn": [
+     "disadvantage"
+    ],
+    "ant": [
+     "benefit"
+    ],
+    "level": "B2"
+   },
+   {
+    "id": "merit",
+    "en": "merit",
+    "tr": "değer, olumlu yön",
+    "pos": "noun",
+    "example": "Both ideas have merit.",
+    "exampleTr": "İki fikrin de değeri var.",
+    "syn": [
+     "advantage"
+    ],
+    "ant": [
+     "flaw"
+    ],
+    "level": "B2"
+   },
+   {
+    "id": "advocate",
+    "en": "advocate",
+    "tr": "savunmak, desteklemek",
+    "pos": "verb",
+    "example": "Linda advocates longer recess for young children.",
+    "exampleTr": "Linda küçük çocuklar için daha uzun teneffüsü savunuyor.",
+    "syn": [
+     "support"
+    ],
+    "ant": [
+     "oppose"
+    ],
+    "level": "B2"
+   },
+   {
+    "id": "impact",
+    "en": "impact",
+    "tr": "etki",
+    "pos": "noun",
+    "example": "Phones have a big impact on attention.",
+    "exampleTr": "Telefonların dikkat üzerinde büyük etkisi var.",
+    "syn": [
+     "effect"
+    ],
+    "ant": [],
+    "level": "B2"
+   },
+   {
+    "id": "trend",
+    "en": "trend",
+    "tr": "eğilim, trend",
+    "pos": "noun",
+    "example": "There is a trend toward shorter school weeks.",
+    "exampleTr": "Daha kısa okul haftalarına doğru bir eğilim var.",
+    "syn": [
+     "tendency"
+    ],
+    "ant": [],
+    "level": "B2"
+   },
+   {
+    "id": "emphasize",
+    "en": "emphasize",
+    "tr": "vurgulamak",
+    "pos": "verb",
+    "example": "The principal emphasized the importance of safety.",
+    "exampleTr": "Müdür güvenliğin önemini vurguladı.",
+    "syn": [
+     "stress"
+    ],
+    "ant": [],
+    "level": "B2"
+   },
+   {
+    "id": "ban",
+    "en": "ban",
+    "tr": "yasaklamak; yasak",
+    "pos": "verb",
+    "example": "Some schools ban phones during class.",
+    "exampleTr": "Bazı okullar ders sırasında telefonu yasaklıyor.",
+    "syn": [
+     "prohibit"
+    ],
+    "ant": [
+     "allow"
+    ],
+    "level": "B2"
+   },
+   {
+    "id": "reasonable",
+    "en": "reasonable",
+    "tr": "makul, mantıklı",
+    "pos": "adjective",
+    "example": "Her request is reasonable.",
+    "exampleTr": "İsteği makul.",
+    "syn": [
+     "sensible"
+    ],
+    "ant": [
+     "unreasonable"
+    ],
+    "level": "B2"
+   },
+   {
+    "id": "convincing",
+    "en": "convincing",
+    "tr": "ikna edici",
+    "pos": "adjective",
+    "example": "His argument was very convincing.",
+    "exampleTr": "Argümanı çok ikna ediciydi.",
+    "syn": [
+     "persuasive"
+    ],
+    "ant": [],
+    "level": "B2"
+   },
+   {
+    "id": "valid",
+    "en": "valid",
+    "tr": "geçerli, haklı",
+    "pos": "adjective",
+    "example": "That is a valid point.",
+    "exampleTr": "Bu haklı bir nokta.",
+    "syn": [
+     "legitimate"
+    ],
+    "ant": [
+     "invalid"
+    ],
+    "level": "B2"
+   },
+   {
+    "id": "endure",
+    "en": "endure",
+    "tr": "(zorluğa) dayanmak, katlanmak",
+    "pos": "verb",
+    "example": "Teachers sometimes endure very long meetings.",
+    "exampleTr": "Öğretmenler bazen çok uzun toplantılara katlanır.",
+    "syn": [
+     "bear"
+    ],
+    "ant": [],
+    "level": "B2"
+   },
+   {
+    "id": "contrast",
+    "en": "contrast",
+    "tr": "tezat, karşıtlık",
+    "pos": "noun",
+    "example": "There is a sharp contrast between the two schools.",
+    "exampleTr": "İki okul arasında keskin bir tezat var.",
+    "syn": [
+     "difference"
+    ],
+    "ant": [
+     "similarity"
+    ],
+    "level": "B2"
+   },
+   {
+    "id": "debate",
+    "en": "debate",
+    "tr": "tartışma, münazara",
+    "pos": "noun",
+    "example": "The debate lasted two hours.",
+    "exampleTr": "Tartışma iki saat sürdü.",
+    "syn": [
+     "discussion"
+    ],
+    "ant": [],
+    "level": "B2"
+   },
+   {
+    "id": "justify",
+    "en": "justify",
+    "tr": "haklı çıkarmak, gerekçelendirmek",
+    "pos": "verb",
+    "example": "How can you justify such a long test?",
+    "exampleTr": "Bu kadar uzun bir sınavı nasıl haklı gösterebilirsin?",
+    "syn": [
+     "defend"
+    ],
+    "ant": [],
+    "level": "B2"
+   }
+  ],
+  "reading": {
+   "title": "Phones in class: ban or balance?",
+   "text": "Few topics divide parents and teachers as sharply as cell phones in class. Last month, Jefferson Middle School introduced a strict ban: every phone stays in a locker from the first bell to the last. The decision is controversial, and people on both sides have strong arguments.\n\nSupporters of the ban point to attention. Students with phones in their pockets check them every few minutes, whereas students without phones join class discussions more often. Teachers also report fewer arguments caused by messages and photos during lunch. Moreover, the principal says the hallways are noticeably quieter. A survey of forty teachers found that many of them used to spend several minutes of every lesson asking students to put their phones away. With the ban in place, that time now goes back to teaching.\n\nOpponents, however, raise reasonable concerns. Many parents want to reach their children after school, especially when a bus is late. Some teachers also use phones for quick polls and dictionary apps, which can make a lesson more active. On the other hand, a few students admit that they feel nervous without their phones, which suggests that the habit is already strong. Parents' groups have also asked for a trial period, so the school can measure the results before making the rule permanent.\n\nIn my view, a complete ban is simple, but it is not the only option. Several schools have found a middle path: phones are allowed only for lessons that need them and stay locked away otherwise. This approach requires more planning from teachers. Nevertheless, it teaches students something valuable, namely when to use technology and when to put it down.\n\nHafsa read the column at the kitchen table. She remembered that her son Emre sometimes answers messages during homework. \"The writer is right,\" she told him. \"A ban is easy, but learning to control yourself lasts longer.\" Emre laughed. \"Mom, you sound like a principal already.\"",
+   "glossary": [
+    {
+     "en": "divide",
+     "tr": "ayırmak, bölmek"
+    },
+    {
+     "en": "locker",
+     "tr": "dolap (okul)"
+    },
+    {
+     "en": "poll",
+     "tr": "anket, oylama"
+    },
+    {
+     "en": "middle path",
+     "tr": "orta yol"
+    },
+    {
+     "en": "namely",
+     "tr": "yani, şöyle ki"
+    }
+   ],
+   "questions": [
+    {
+     "type": "mcq",
+     "q": "What is the main idea of the column?",
+     "options": [
+      "Phones should be allowed everywhere in school.",
+      "Teachers dislike technology of every kind.",
+      "Jefferson Middle School is closing its lockers.",
+      "A total phone ban is easy, but a balanced approach may teach more."
+     ],
+     "answer": 3,
+     "whyTr": "Yazar tam yasağı basit bulur ama dengeli bir yolu daha öğretici görür.",
+     "tag": "reading",
+     "level": "B2"
+    },
+    {
+     "type": "mcq",
+     "q": "According to supporters of the ban, what is one result?",
+     "options": [
+      "Students get higher grades in every subject.",
+      "Students join discussions more often.",
+      "Buses arrive on time.",
+      "Teachers give fewer lessons."
+     ],
+     "answer": 1,
+     "whyTr": "Metin: 'students without phones join class discussions more often'.",
+     "tag": "reading",
+     "level": "B2"
+    },
+    {
+     "type": "mcq",
+     "q": "Why do some parents oppose the ban?",
+     "options": [
+      "They think phones are cheaper than books.",
+      "They want the school day to be longer.",
+      "They want to contact their children after school.",
+      "They do not trust the principal."
+     ],
+     "answer": 2,
+     "whyTr": "Metin: 'Many parents want to reach their children after school'.",
+     "tag": "reading",
+     "level": "B2"
+    },
+    {
+     "type": "mcq",
+     "q": "What does the writer suggest about students who feel nervous without phones?",
+     "options": [
+      "The habit of using phones is already strong.",
+      "They are afraid of their teachers.",
+      "They never do homework.",
+      "They should buy new phones."
+     ],
+     "answer": 0,
+     "whyTr": "Metin: 'which suggests that the habit is already strong'.",
+     "tag": "reading",
+     "level": "B2"
+    }
+   ]
+  }
+ },
+ "evening": {
+  "listening": {
+   "title": "Uniforms: yes or no?",
+   "script": [
+    {
+     "speaker": "Linda",
+     "text": "Hafsa, did you see the letter from the school? They want to introduce uniforms next year."
+    },
+    {
+     "speaker": "Hafsa",
+     "text": "I did. Honestly, I have mixed feelings about it."
+    },
+    {
+     "speaker": "Linda",
+     "text": "Really? I think it is a great idea. Uniforms save time in the morning, and nobody feels embarrassed about their clothes."
+    },
+    {
+     "speaker": "Hafsa",
+     "text": "That is true. On the other hand, they are not cheap, and children grow so fast."
+    },
+    {
+     "speaker": "Linda",
+     "text": "Good point. Still, my daughter's school has a used-uniform sale, so families save money."
+    },
+    {
+     "speaker": "Hafsa",
+     "text": "Oh, that is helpful. In Turkey, many students wear uniforms, whereas here most children choose their own clothes."
+    },
+    {
+     "speaker": "Linda",
+     "text": "Do you think uniforms were good for you as a student?"
+    },
+    {
+     "speaker": "Hafsa",
+     "text": "Yes and no. I liked the simple mornings. Nevertheless, I remember wanting to show my own style."
+    },
+    {
+     "speaker": "Linda",
+     "text": "Maybe a simple dress code is the best compromise. Colors, but no strict design."
+    },
+    {
+     "speaker": "Hafsa",
+     "text": "That sounds reasonable. Although the school will probably ask parents to vote first."
+    },
+    {
+     "speaker": "Linda",
+     "text": "Then we should go to the meeting on Thursday and say what we think."
+    },
+    {
+     "speaker": "Hafsa",
+     "text": "Agreed. I will bring my notes."
+    }
+   ],
+   "questions": [
+    {
+     "type": "mcq",
+     "q": "What does the school want to do next year?",
+     "options": [
+      "Introduce uniforms",
+      "Close the cafeteria",
+      "Ban phones",
+      "Start a longer day"
+     ],
+     "answer": 0,
+     "whyTr": "Linda: 'They want to introduce uniforms next year.'",
+     "tag": "listening",
+     "level": "B2"
+    },
+    {
+     "type": "mcq",
+     "q": "What is Hafsa's concern about uniforms?",
+     "options": [
+      "They are ugly.",
+      "They take too much time in the morning.",
+      "They cost money and children grow fast.",
+      "They are not allowed in Turkey."
+     ],
+     "answer": 2,
+     "whyTr": "Hafsa: 'they are not cheap, and children grow so fast.'",
+     "tag": "listening",
+     "level": "B2"
+    },
+    {
+     "type": "mcq",
+     "q": "How can families save money, according to Linda?",
+     "options": [
+      "By sewing the uniforms",
+      "By buying at a used-uniform sale",
+      "By getting a free bus pass",
+      "By wearing last year's coats"
+     ],
+     "answer": 1,
+     "whyTr": "Linda: 'my daughter's school has a used-uniform sale'.",
+     "tag": "listening",
+     "level": "B2"
+    },
+    {
+     "type": "mcq",
+     "q": "What do the two women decide to do?",
+     "options": [
+      "Write a letter to the newspaper",
+      "Visit the uniform store",
+      "Speak with the principal today",
+      "Go to a meeting on Thursday"
+     ],
+     "answer": 3,
+     "whyTr": "Linda: 'we should go to the meeting on Thursday'.",
+     "tag": "listening",
+     "level": "B2"
+    }
+   ]
+  },
+  "writing": {
+   "promptTr": "Okul kıyafeti (uniform) zorunlu olmalı mı? Görüşünü, en az iki söylem belirleyicisi (however, whereas, nevertheless, on the other hand) kullanarak 120-180 kelimelik bir paragrafta yaz.",
+   "promptEn": "Should students wear school uniforms? Write an opinion paragraph of 120-180 words. Use at least two linking words such as however, whereas, nevertheless, or on the other hand.",
+   "frames": [
+    "In my opinion, ...",
+    "On the one hand, ... On the other hand, ...",
+    "Some people think ..., whereas others ...",
+    "Nevertheless, I believe ...",
+    "For these reasons, ..."
+   ],
+   "model": "In my opinion, school uniforms are a good idea, but they should be simple. On the one hand, uniforms save time in the morning, and students do not compare expensive clothes. Parents also stop arguing with their children about what to wear. On the other hand, uniforms can be costly for large families, and children grow very quickly. Some people think uniforms limit creativity, whereas others believe they bring students together. Although I understand both views, I think the benefits are stronger. Many schools offer used-uniform sales, so the cost is manageable. Nevertheless, a school should allow small choices, such as colors or shoes, so students can still show their personality. Moreover, teachers can recognize visitors more easily when students wear the same clothes. For these reasons, I support a simple dress code instead of a strict, expensive uniform.",
+   "checklistTr": [
+    "En az iki söylem belirleyicisi kullandın mı (however, whereas, nevertheless...)?",
+    "'However' ve 'nevertheless' yeni cümlenin başında ve virgülle mi?",
+    "'Although' ile 'but' aynı cümlede yok, değil mi?",
+    "Görüşünü ilk ve son cümlede net söyledin mi?"
+   ],
+   "minWords": 120
+  },
+  "examSet": [
+   {
+    "type": "mcq",
+    "q": "The first test was easy. ___, the second one was very hard.",
+    "options": [
+     "Therefore",
+     "In addition",
+     "However",
+     "Because"
+    ],
+    "answer": 2,
+    "whyTr": "İki test arasında tezat var.",
+    "tag": "linkers",
+    "level": "B2"
+   },
+   {
+    "type": "mcq",
+    "q": "Turkey has many mountains, ___ Florida is flat.",
+    "options": [
+     "whereas",
+     "therefore",
+     "moreover",
+     "so that"
+    ],
+    "answer": 0,
+    "whyTr": "İki yeri karşılaştırmak için 'whereas'.",
+    "tag": "linkers",
+    "level": "B2"
+   },
+   {
+    "type": "mcq",
+    "q": "He had little money. ___, he gave a gift to every teacher.",
+    "options": [
+     "Moreover",
+     "Therefore",
+     "For example",
+     "Nevertheless"
+    ],
+    "answer": 3,
+    "whyTr": "Az parasına rağmen hediye almış: Nevertheless.",
+    "tag": "linkers",
+    "level": "B2"
+   },
+   {
+    "type": "mcq",
+    "q": "Choose the correct sentence.",
+    "options": [
+     "Although it was raining, but we went to the park.",
+     "Although it was raining, we went to the park.",
+     "It was raining although, we went to the park.",
+     "Although it was raining however we went to the park."
+    ],
+    "answer": 1,
+    "whyTr": "'Although' ile 'but/however' birlikte kullanılmaz.",
+    "tag": "linkers",
+    "level": "B2"
+   },
+   {
+    "type": "mcq",
+    "q": "A bike is cheap and healthy. ___, it is not practical in winter.",
+    "options": [
+     "As a result",
+     "On the other hand",
+     "In addition",
+     "Similarly"
+    ],
+    "answer": 1,
+    "whyTr": "Bisikletin olumsuz yönü: On the other hand.",
+    "tag": "linkers",
+    "level": "B2"
+   },
+   {
+    "type": "mcq",
+    "q": "The students were tired. ___, they were happy.",
+    "options": [
+     "Whereas",
+     "Because",
+     "Unless",
+     "Nevertheless"
+    ],
+    "answer": 3,
+    "whyTr": "İki ayrı cümle arasında tezat: Nevertheless.",
+    "tag": "linkers",
+    "level": "B2"
+   },
+   {
+    "type": "mcq",
+    "q": "I ___ in this house for ten years when I moved.",
+    "options": [
+     "had lived",
+     "have lived",
+     "lived",
+     "was living for"
+    ],
+    "answer": 0,
+    "whyTr": "Taşınmadan önceki süre: past perfect.",
+    "tag": "past-perfect",
+    "level": "B2"
+   },
+   {
+    "type": "mcq",
+    "q": "The teacher asked me where ___.",
+    "options": [
+     "did I leave my keys",
+     "I leave my keys",
+     "I had left my keys",
+     "had I left my keys"
+    ],
+    "answer": 2,
+    "whyTr": "Dolaylı soruda düz cümle sırası kullanılır (reported speech).",
+    "tag": "reported-speech",
+    "level": "B2"
+   },
+   {
+    "type": "mcq",
+    "q": "The woman ___ lives next door is a nurse.",
+    "options": [
+     "which",
+     "whose",
+     "whom",
+     "who"
+    ],
+    "answer": 3,
+    "whyTr": "Kişiler için 'who' kullanılır.",
+    "tag": "relative-clauses",
+    "level": "B2"
+   },
+   {
+    "type": "mcq",
+    "q": "He suggested ___ the meeting to Friday.",
+    "options": [
+     "to move",
+     "moving",
+     "move",
+     "moved"
+    ],
+    "answer": 1,
+    "whyTr": "suggest + V-ing.",
+    "tag": "gerund-infinitive",
+    "level": "B2"
+   },
+   {
+    "type": "mcq",
+    "q": "Her argument was so ___ that everyone agreed with her.",
+    "options": [
+     "controversial",
+     "reasonable",
+     "convincing",
+     "valid"
+    ],
+    "answer": 2,
+    "whyTr": "Herkesi ikna etmiş: convincing.",
+    "tag": "vocab",
+    "level": "B2"
+   },
+   {
+    "type": "mcq",
+    "q": "Remote work has one big ___: people feel isolated.",
+    "options": [
+     "drawback",
+     "merit",
+     "trend",
+     "debate"
+    ],
+    "answer": 0,
+    "whyTr": "Olumsuz yan: drawback.",
+    "tag": "vocab",
+    "level": "B2"
+   },
+   {
+    "type": "mcq",
+    "q": "The principal wants to ___ phones during class.",
+    "options": [
+     "ban",
+     "advocate",
+     "tolerate",
+     "justify"
+    ],
+    "answer": 0,
+    "whyTr": "Yasaklamak: ban.",
+    "tag": "vocab",
+    "level": "B2"
+   },
+   {
+    "type": "mcq",
+    "q": "Which word means almost the same as \"drawback\"?",
+    "options": [
+     "benefit",
+     "advantage",
+     "disadvantage",
+     "reward"
+    ],
+    "answer": 2,
+    "whyTr": "Drawback = disadvantage.",
+    "tag": "synonym",
+    "level": "B2"
+   },
+   {
+    "type": "mcq",
+    "q": "What is the opposite of \"reasonable\"?",
+    "options": [
+     "sensible",
+     "unreasonable",
+     "logical",
+     "fair"
+    ],
+    "answer": 1,
+    "whyTr": "Reasonable'ın zıttı unreasonable.",
+    "tag": "antonym",
+    "level": "B2"
+   },
+   {
+    "type": "mcq",
+    "q": "Which word means almost the same as \"emphasize\"?",
+    "options": [
+     "ignore",
+     "avoid",
+     "reduce",
+     "stress"
+    ],
+    "answer": 3,
+    "whyTr": "Emphasize = stress (vurgulamak).",
+    "tag": "synonym",
+    "level": "B2"
+   },
+   {
+    "type": "mcq",
+    "q": "Which word is the opposite of \"ban\"?",
+    "options": [
+     "prohibit",
+     "forbid",
+     "allow",
+     "stop"
+    ],
+    "answer": 2,
+    "whyTr": "Ban'ın zıddı allow.",
+    "tag": "antonym",
+    "level": "B2"
+   },
+   {
+    "type": "mcq",
+    "q": "The school offers free lunch. ___, it provides free tutoring after class. Which word fits best?",
+    "options": [
+     "Moreover",
+     "However",
+     "Whereas",
+     "Nevertheless"
+    ],
+    "answer": 0,
+    "whyTr": "İki olumlu bilgi ekleniyor: Moreover.",
+    "tag": "linkers",
+    "level": "B2"
+   },
+   {
+    "type": "mcq",
+    "q": "Mia likes jazz. Her brother likes rock, whereas her mother likes classical music.\n\nWhat does 'whereas' show here?",
+    "options": [
+     "A result",
+     "A reason",
+     "A time",
+     "A comparison between people"
+    ],
+    "answer": 3,
+    "whyTr": "'Whereas' farklı kişilerin tercihlerini karşılaştırır.",
+    "tag": "reading",
+    "level": "B2"
+   },
+   {
+    "type": "mcq",
+    "q": "Mr. Lopez is a strict teacher. Nevertheless, his students respect him and often visit him after school.\n\nWhat can we say about Mr. Lopez?",
+    "options": [
+     "Students are afraid of him.",
+     "Students like him although he is strict.",
+     "He is not a good teacher.",
+     "He never gives homework."
+    ],
+    "answer": 1,
+    "whyTr": "'Nevertheless' tezat gösterir: sert ama sevilen.",
+    "tag": "reading",
+    "level": "B2"
+   }
+  ]
+ }
+}

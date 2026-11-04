@@ -1,0 +1,811 @@
+{
+ "week": 10,
+ "day": 2,
+ "titleTr": "Velinin sorularını aktarmak",
+ "theme": "school-communication",
+ "morning": {
+  "grammar": {
+   "topic": "Reported speech: questions (asked if / whether / where)",
+   "explainTr": [
+    "Soruyu aktarırken soru yapısı kaybolur: cümle düz sıraya döner ve do/does/did kullanılmaz. 'Where do you live?' → She asked where I lived. 'Where did you live' demezsin.",
+    "Evet/hayır sorularında if veya whether gelir: 'Is he sick?' → She asked if he was sick. Wh- sorularında soru kelimesi kalır: what, where, when, why, how.",
+    "Fiil bir adım geçmişe kayar (is → was, can → could, did → had + V3). Dolaylı soru nokta ile biter, soru işareti gerekmez."
+   ],
+   "compareTr": "Türkçede 'Nerede yaşıyorsun diye sordu' derken soru sırasını koruyoruz gibi hissederiz. İngilizcede 'She asked where I lived' dersin: do/did yok, özne fiilden önce.",
+   "table": [
+    [
+     "Wh- sorusu",
+     "asked + wh- + özne + fiil",
+     "\"Where is the office?\" → She asked where the office was."
+    ],
+    [
+     "Yes/No sorusu",
+     "asked + if / whether + özne + fiil",
+     "\"Is he absent?\" → She asked if he was absent."
+    ],
+    [
+     "do / does / did",
+     "KULLANILMAZ",
+     "\"Do you work?\" → She asked if I worked."
+    ],
+    [
+     "can",
+     "could",
+     "\"Can you help?\" → He asked if I could help."
+    ],
+    [
+     "Noktalama",
+     "nokta (.)",
+     "Soru işareti yok."
+    ]
+   ],
+   "examples": [
+    {
+     "en": "She asked where the office was.",
+     "tr": "Ofisin nerede olduğunu sordu."
+    },
+    {
+     "en": "He asked if I had a pen.",
+     "tr": "Kalemim var mı diye sordu."
+    },
+    {
+     "en": "The mother wanted to know whether her son was absent.",
+     "tr": "Anne oğlunun devamsız olup olmadığını bilmek istedi."
+    },
+    {
+     "en": "They asked me what time school started.",
+     "tr": "Bana okulun kaçta başladığını sordular."
+    }
+   ],
+   "exercises": [
+    {
+     "type": "mcq",
+     "q": "\"Where do you live?\" → She asked me where I ___.",
+     "options": [
+      "live",
+      "lived",
+      "did live",
+      "do live"
+     ],
+     "answer": 1,
+     "whyTr": "Dolaylı soruda düz cümle sırası kullanılır ve fiil geçmişe kayar: where I lived.",
+     "tag": "question-form",
+     "level": "B1"
+    },
+    {
+     "type": "mcq",
+     "q": "\"Is Emre sick?\" → The nurse asked if Emre ___ sick.",
+     "options": [
+      "is",
+      "was he",
+      "was",
+      "did"
+     ],
+     "answer": 2,
+     "whyTr": "Dolaylı soruda soru sırası bozulur: if + özne + fiil (was).",
+     "tag": "question-form",
+     "level": "B1"
+    },
+    {
+     "type": "mcq",
+     "q": "Which sentence is correct?",
+     "options": [
+      "He asked me what time did the bus leave.",
+      "He asked me what time left the bus.",
+      "He asked me what time the bus does leave.",
+      "He asked me what time the bus left."
+     ],
+     "answer": 3,
+     "whyTr": "Dolaylı soruda do/did kullanılmaz: what time the bus left.",
+     "tag": "question-form",
+     "level": "B1"
+    },
+    {
+     "type": "order",
+     "promptTr": "Dolaylı soruyu sırala:",
+     "words": [
+      "pen",
+      "asked",
+      "had",
+      "a",
+      "She",
+      "if",
+      "me",
+      "I"
+     ],
+     "answer": "She asked me if I had a pen",
+     "whyTr": "Yes/no sorusunda if + özne + fiil.",
+     "tag": "word-order",
+     "level": "B1"
+    },
+    {
+     "type": "order",
+     "promptTr": "Dolaylı soruyu sırala:",
+     "words": [
+      "office",
+      "was",
+      "wanted",
+      "He",
+      "to",
+      "the",
+      "where",
+      "know"
+     ],
+     "answer": "He wanted to know where the office was",
+     "whyTr": "Wh- kelimesi + özne + fiil (soru sırası yok).",
+     "tag": "word-order",
+     "level": "B1"
+    },
+    {
+     "type": "mcq",
+     "q": "\"Can you help me?\" → She asked whether I ___ help her.",
+     "options": [
+      "could",
+      "can",
+      "cans",
+      "do"
+     ],
+     "answer": 0,
+     "whyTr": "can → could.",
+     "tag": "modals",
+     "level": "B1"
+    },
+    {
+     "type": "mcq",
+     "q": "\"Did you finish the form?\" → He asked me if I ___ finished the form.",
+     "options": [
+      "did",
+      "had",
+      "have",
+      "was"
+     ],
+     "answer": 1,
+     "whyTr": "Past Simple sorusu dolaylı anlatımda genelde Past Perfect olur: had finished.",
+     "tag": "past-simple",
+     "level": "B1"
+    },
+    {
+     "type": "mcq",
+     "q": "\"Why are you late?\" → The principal asked why I ___ late.",
+     "options": [
+      "am",
+      "was I",
+      "was",
+      "did"
+     ],
+     "answer": 2,
+     "whyTr": "are/am → was ve soru sırası yok: why I was late.",
+     "tag": "to-be",
+     "level": "B1"
+    },
+    {
+     "type": "mcq",
+     "q": "The mother asked ___ her son was behaving well.",
+     "options": [
+      "that",
+      "what",
+      "did",
+      "if"
+     ],
+     "answer": 3,
+     "whyTr": "Evet/hayır sorularını aktarırken if veya whether kullanılır, 'that' değil.",
+     "tag": "question-form",
+     "level": "B1"
+    },
+    {
+     "type": "mcq",
+     "q": "The parent ___ me that she was worried about her daughter.",
+     "options": [
+      "told",
+      "asked",
+      "wondered",
+      "said me"
+     ],
+     "answer": 0,
+     "whyTr": "Bilgi cümlesi: told me that. Soru olsaydı asked me if/whether olurdu.",
+     "tag": "pronouns",
+     "level": "B1"
+    },
+    {
+     "type": "fill",
+     "q": "\"Do you like the school?\" → He asked me ___ I liked the school.",
+     "accept": [
+      "if",
+      "whether"
+     ],
+     "hintTr": "evet/hayır sorusu bağlacı",
+     "whyTr": "Evet/hayır sorusunda if veya whether gelir.",
+     "tag": "question-form",
+     "level": "B1"
+    },
+    {
+     "type": "fill",
+     "q": "\"Where does she work?\" → He asked where she ___.",
+     "accept": [
+      "worked"
+     ],
+     "hintTr": "work geçmişi",
+     "whyTr": "Where she worked: Past Simple, soru sırası yok.",
+     "tag": "past-simple",
+     "level": "B1"
+    }
+   ]
+  },
+  "vocab": [
+   {
+    "id": "parent",
+    "en": "parent",
+    "tr": "anne veya baba, veli",
+    "pos": "noun",
+    "example": "Every parent wants to know about the school.",
+    "exampleTr": "Her veli okul hakkında bilgi almak istiyor.",
+    "syn": [],
+    "ant": [],
+    "level": "B1"
+   },
+   {
+    "id": "concern",
+    "en": "concern",
+    "tr": "endişe; ilgilendirmek",
+    "pos": "noun",
+    "example": "The mother has a concern about her son's grades.",
+    "exampleTr": "Annenin oğlunun notları hakkında bir endişesi var.",
+    "syn": [
+     "worry"
+    ],
+    "ant": [],
+    "level": "B1"
+   },
+   {
+    "id": "progress",
+    "en": "progress",
+    "tr": "ilerleme",
+    "pos": "noun",
+    "example": "The teacher is happy with Daniel's progress in reading.",
+    "exampleTr": "Öğretmen Daniel'in okumadaki ilerlemesinden memnun.",
+    "syn": [],
+    "ant": [],
+    "level": "B1"
+   },
+   {
+    "id": "behavior",
+    "en": "behavior",
+    "tr": "davranış",
+    "pos": "noun",
+    "example": "His behavior in class has improved this month.",
+    "exampleTr": "Sınıftaki davranışı bu ay düzeldi.",
+    "syn": [],
+    "ant": [],
+    "level": "B1"
+   },
+   {
+    "id": "absent",
+    "en": "absent",
+    "tr": "devamsız, okulda olmayan",
+    "pos": "adjective",
+    "example": "Three students were absent today.",
+    "exampleTr": "Bugün üç öğrenci devamsızdı.",
+    "syn": [],
+    "ant": [
+     "present"
+    ],
+    "level": "B1"
+   },
+   {
+    "id": "wonder",
+    "en": "wonder",
+    "tr": "merak etmek",
+    "pos": "verb",
+    "example": "I wonder if the school has a bus on Fridays.",
+    "exampleTr": "Okulun cuma günleri servisi var mı diye merak ediyorum.",
+    "syn": [],
+    "ant": [],
+    "level": "B1"
+   },
+   {
+    "id": "worried",
+    "en": "worried",
+    "tr": "endişeli",
+    "pos": "adjective",
+    "example": "She is worried about her child's health.",
+    "exampleTr": "Çocuğunun sağlığı konusunda endişeli.",
+    "syn": [
+     "anxious"
+    ],
+    "ant": [
+     "calm"
+    ],
+    "level": "B1"
+   },
+   {
+    "id": "allergy",
+    "en": "allergy",
+    "tr": "alerji",
+    "pos": "noun",
+    "example": "The boy has a peanut allergy.",
+    "exampleTr": "Çocuğun fıstık alerjisi var.",
+    "syn": [],
+    "ant": [],
+    "level": "B1"
+   },
+   {
+    "id": "emergency",
+    "en": "emergency",
+    "tr": "acil durum",
+    "pos": "noun",
+    "example": "Call the office in an emergency.",
+    "exampleTr": "Acil durumda ofisi ara.",
+    "syn": [],
+    "ant": [],
+    "level": "B1"
+   },
+   {
+    "id": "contact",
+    "en": "contact",
+    "tr": "iletişime geçmek; iletişim",
+    "pos": "verb",
+    "example": "Please contact the teacher by email.",
+    "exampleTr": "Lütfen öğretmenle e-posta yoluyla iletişime geç.",
+    "syn": [
+     "reach"
+    ],
+    "ant": [],
+    "level": "B1"
+   },
+   {
+    "id": "tardy",
+    "en": "tardy",
+    "tr": "geç kalmış (okulda)",
+    "pos": "adjective",
+    "example": "Lucas was tardy three times this week.",
+    "exampleTr": "Lucas bu hafta üç kez geç kaldı.",
+    "syn": [
+     "late"
+    ],
+    "ant": [
+     "early"
+    ],
+    "level": "B1"
+   },
+   {
+    "id": "bully",
+    "en": "bully",
+    "tr": "zorbalık yapmak; zorba",
+    "pos": "verb",
+    "example": "The school does not allow anyone to bully other students.",
+    "exampleTr": "Okul kimsenin diğer öğrencilere zorbalık yapmasına izin vermiyor.",
+    "syn": [],
+    "ant": [],
+    "level": "B1"
+   },
+   {
+    "id": "complain",
+    "en": "complain",
+    "tr": "şikâyet etmek",
+    "pos": "verb",
+    "example": "Some parents complained about the long lunch line.",
+    "exampleTr": "Bazı veliler uzun öğle yemeği kuyruğundan şikâyet etti.",
+    "syn": [],
+    "ant": [],
+    "level": "B1"
+   },
+   {
+    "id": "improve",
+    "en": "improve",
+    "tr": "gelişmek, geliştirmek",
+    "pos": "verb",
+    "example": "Her reading has improved a lot this year.",
+    "exampleTr": "Okuması bu yıl çok gelişti.",
+    "syn": [
+     "get better"
+    ],
+    "ant": [
+     "get worse"
+    ],
+    "level": "B1"
+   },
+   {
+    "id": "curious",
+    "en": "curious",
+    "tr": "meraklı",
+    "pos": "adjective",
+    "example": "The children are curious about the new teacher.",
+    "exampleTr": "Çocuklar yeni öğretmeni merak ediyor.",
+    "syn": [
+     "interested"
+    ],
+    "ant": [],
+    "level": "B1"
+   }
+  ],
+  "reading": {
+   "title": "Mrs. Rivera's questions",
+   "text": "On Wednesday afternoon, Mr. Brown stepped out of the front office for a few minutes, and Hafsa stayed at the desk. A woman came in. She was Mrs. Rivera, the mother of a third grader named Daniel.\n\n\"Hello,\" Mrs. Rivera said. \"I have a few questions.\" She asked where Mr. Walker's classroom was. Then she asked whether Daniel had been absent last week. Hafsa checked the attendance list. \"Yes, he missed one day,\" she said.\n\nMrs. Rivera looked a little worried. She asked if Daniel's behavior had changed lately. Hafsa did not know the answer, so she said, \"I am only the substitute today, but I can write your questions down for his teacher.\" Mrs. Rivera was happy about that.\n\nHafsa took a piece of paper. Mrs. Rivera asked how Daniel was doing in reading, and she wanted to know if the school offered extra help. She also asked when the next parent-teacher conference was.\n\nWhen Mr. Brown came back, Hafsa explained everything. \"Mrs. Rivera asked where the classroom was, and she asked if Daniel had been absent. She also wanted to know when the conference was.\"\n\n\"Good work,\" Mr. Brown said. \"The conference is on October 20. I will email her.\"\n\nHafsa felt proud. She was learning how a school really works.",
+   "glossary": [
+    {
+     "en": "third grader",
+     "tr": "üçüncü sınıf öğrencisi"
+    },
+    {
+     "en": "attendance list",
+     "tr": "yoklama listesi"
+    },
+    {
+     "en": "offer",
+     "tr": "sunmak, önermek"
+    },
+    {
+     "en": "extra help",
+     "tr": "ek yardım"
+    },
+    {
+     "en": "parent-teacher conference",
+     "tr": "veli-öğretmen görüşmesi"
+    }
+   ],
+   "questions": [
+    {
+     "type": "mcq",
+     "q": "Why did Hafsa stay at the front desk?",
+     "options": [
+      "The principal asked her.",
+      "Mr. Brown stepped out for a few minutes.",
+      "It was her lunch break.",
+      "She was a new student."
+     ],
+     "answer": 1,
+     "whyTr": "Metin: 'Mr. Brown stepped out of the front office'.",
+     "tag": "reading",
+     "level": "B1"
+    },
+    {
+     "type": "mcq",
+     "q": "What did Mrs. Rivera ask about Daniel's attendance?",
+     "options": [
+      "Whether he was late today",
+      "Whether he had a new teacher",
+      "Whether he had been absent last week",
+      "Whether he rode the bus"
+     ],
+     "answer": 2,
+     "whyTr": "Metin: 'whether Daniel had been absent last week'.",
+     "tag": "reading",
+     "level": "B1"
+    },
+    {
+     "type": "mcq",
+     "q": "What did Hafsa do when she did not know an answer?",
+     "options": [
+      "She called the principal.",
+      "She told Mrs. Rivera to leave.",
+      "She guessed the answers.",
+      "She wrote the questions down for the teacher."
+     ],
+     "answer": 3,
+     "whyTr": "Metin: 'I can write your questions down for his teacher'.",
+     "tag": "reading",
+     "level": "B1"
+    },
+    {
+     "type": "mcq",
+     "q": "When is the next parent-teacher conference?",
+     "options": [
+      "On October 20",
+      "On Wednesday",
+      "Next week",
+      "In November"
+     ],
+     "answer": 0,
+     "whyTr": "Mr. Brown: 'The conference is on October 20'.",
+     "tag": "reading",
+     "level": "B1"
+    }
+   ]
+  }
+ },
+ "evening": {
+  "listening": {
+   "title": "A call for Mr. Brown",
+   "script": [
+    {
+     "speaker": "Mr. Brown",
+     "text": "Hafsa, did anyone call while I was in the meeting?"
+    },
+    {
+     "speaker": "Hafsa",
+     "text": "Yes, a parent called. Her name was Mrs. Cole."
+    },
+    {
+     "speaker": "Mr. Brown",
+     "text": "What did she want?"
+    },
+    {
+     "speaker": "Hafsa",
+     "text": "She asked what time dismissal was on Friday."
+    },
+    {
+     "speaker": "Mr. Brown",
+     "text": "It is at 1:00 on Friday. Did she ask anything else?"
+    },
+    {
+     "speaker": "Hafsa",
+     "text": "Yes. She asked if her son could take his allergy medicine at school."
+    },
+    {
+     "speaker": "Mr. Brown",
+     "text": "Hmm. She needs to talk to the nurse about that."
+    },
+    {
+     "speaker": "Hafsa",
+     "text": "I told her that. She also wanted to know whether the bus ran on Friday."
+    },
+    {
+     "speaker": "Mr. Brown",
+     "text": "Yes, it runs at the normal time. Is that all?"
+    },
+    {
+     "speaker": "Hafsa",
+     "text": "She asked how she could contact the teacher. I gave her the school email."
+    },
+    {
+     "speaker": "Mr. Brown",
+     "text": "Perfect. Did you get her phone number?"
+    },
+    {
+     "speaker": "Hafsa",
+     "text": "Yes, it is on this paper. She said that she was home after four."
+    },
+    {
+     "speaker": "Mr. Brown",
+     "text": "Great. I will call her back this afternoon. Thanks for your help."
+    }
+   ],
+   "questions": [
+    {
+     "type": "mcq",
+     "q": "What did Mrs. Cole ask about Friday's dismissal?",
+     "options": [
+      "Where it was",
+      "What time it was",
+      "Who ran it",
+      "Why it was early"
+     ],
+     "answer": 1,
+     "whyTr": "Hafsa: 'She asked what time dismissal was on Friday.'",
+     "tag": "listening",
+     "level": "B1"
+    },
+    {
+     "type": "mcq",
+     "q": "Why does Mrs. Cole need to talk to the nurse?",
+     "options": [
+      "Her son is absent.",
+      "Her son is tardy.",
+      "Her son has allergy medicine.",
+      "Her son lost a book."
+     ],
+     "answer": 2,
+     "whyTr": "Mr. Brown says she needs the nurse about the allergy medicine.",
+     "tag": "listening",
+     "level": "B1"
+    },
+    {
+     "type": "mcq",
+     "q": "What did Hafsa give Mrs. Cole?",
+     "options": [
+      "The principal's cell number",
+      "A bus ticket",
+      "A permission form",
+      "The school email"
+     ],
+     "answer": 3,
+     "whyTr": "Hafsa: 'I gave her the school email.'",
+     "tag": "listening",
+     "level": "B1"
+    },
+    {
+     "type": "mcq",
+     "q": "When will Mr. Brown call Mrs. Cole?",
+     "options": [
+      "This afternoon",
+      "Tomorrow morning",
+      "On Friday",
+      "Tonight at nine"
+     ],
+     "answer": 0,
+     "whyTr": "Mr. Brown: 'I will call her back this afternoon.'",
+     "tag": "listening",
+     "level": "B1"
+    }
+   ]
+  },
+  "writing": {
+   "promptTr": "Bir velinin sana sorduğu soruları öğretmene not olarak aktar. Dolaylı soru kullan (asked if / asked where / wanted to know whether).",
+   "promptEn": "Write a short note to a teacher. Report the questions a parent asked you.",
+   "frames": [
+    "Dear Ms. Park, a parent came today.",
+    "She asked if ...",
+    "She wanted to know where ...",
+    "She also asked when ..."
+   ],
+   "model": "Dear Ms. Park, a parent came to the office today. Her name was Mrs. Rivera. She asked if her son had been absent last week. She also wanted to know how he was doing in reading. Then she asked whether the school offered extra help. She asked when the next conference was, too. I told her that Mr. Brown would email her. She also asked if the school had a bus on Fridays, and I said that I did not know. She seemed a little worried, but she was very polite. Please call her if you have time. Thank you, Hafsa",
+   "checklistTr": [
+    "Dolaylı sorularda if / whether / wh- kelimesinden sonra düz cümle sırası var mı?",
+    "Do / did kullanmadın, değil mi?",
+    "Fiilleri bir adım geçmişe kaydırdın mı?",
+    "Soru işareti koymadın, değil mi (dolaylı soru nokta ile biter)?"
+   ],
+   "minWords": 70
+  },
+  "examSet": [
+   {
+    "type": "mcq",
+    "q": "\"Do you work here?\" → The woman asked me if I ___ there.",
+    "options": [
+     "work",
+     "worked",
+     "do work",
+     "did work"
+    ],
+    "answer": 1,
+    "whyTr": "Dolaylı soru: if + özne + geçmişe kayan fiil.",
+    "tag": "question-form",
+    "level": "B1"
+   },
+   {
+    "type": "mcq",
+    "q": "\"What time does the bell ring?\" → He asked what time the bell ___.",
+    "options": [
+     "rings",
+     "did ring",
+     "rang",
+     "does ring"
+    ],
+    "answer": 2,
+    "whyTr": "Do/does düşer, fiil Past Simple olur.",
+    "tag": "question-form",
+    "level": "B1"
+   },
+   {
+    "type": "mcq",
+    "q": "She asked me ___ I could come on Monday.",
+    "options": [
+     "that",
+     "what",
+     "who",
+     "whether"
+    ],
+    "answer": 3,
+    "whyTr": "Evet/hayır sorusunu aktarırken whether/if gelir.",
+    "tag": "question-form",
+    "level": "B1"
+   },
+   {
+    "type": "mcq",
+    "q": "Mr. Brown said, \"The test is tomorrow.\" → Mr. Brown said that the test was ___.",
+    "options": [
+     "the next day",
+     "tomorrow",
+     "yesterday",
+     "now"
+    ],
+    "answer": 0,
+    "whyTr": "tomorrow → the next day (önceki gün konusu).",
+    "tag": "past-simple",
+    "level": "B1"
+   },
+   {
+    "type": "mcq",
+    "q": "Linda ___ me that the store was closed.",
+    "options": [
+     "asked",
+     "told",
+     "wondered",
+     "said to"
+    ],
+    "answer": 1,
+    "whyTr": "told me that + bilgi cümlesi.",
+    "tag": "pronouns",
+    "level": "B1"
+   },
+   {
+    "type": "mcq",
+    "q": "My neighbor, ___ son goes to Lincoln School, is very friendly.",
+    "options": [
+     "who",
+     "which",
+     "whose",
+     "that"
+    ],
+    "answer": 2,
+    "whyTr": "Sahiplik için whose.",
+    "tag": "pronouns",
+    "level": "B1"
+   },
+   {
+    "type": "mcq",
+    "q": "Daniel was ___ yesterday because he was sick. He did not come to school.",
+    "options": [
+     "curious",
+     "tardy",
+     "worried",
+     "absent"
+    ],
+    "answer": 3,
+    "whyTr": "Okulda olmayan: absent.",
+    "tag": "vocab",
+    "level": "B1"
+   },
+   {
+    "type": "mcq",
+    "q": "What is the opposite of \"absent\"?",
+    "options": [
+     "present",
+     "tardy",
+     "angry",
+     "careful"
+    ],
+    "answer": 0,
+    "whyTr": "Absent'ın zıttı present (okulda olan).",
+    "tag": "antonym",
+    "level": "B1"
+   },
+   {
+    "type": "mcq",
+    "q": "Which word means almost the same as \"concern\" (noun)?",
+    "options": [
+     "progress",
+     "worry",
+     "allergy",
+     "parent"
+    ],
+    "answer": 1,
+    "whyTr": "Concern ve worry benzer anlamlı.",
+    "tag": "synonym",
+    "level": "B1"
+   },
+   {
+    "type": "mcq",
+    "q": "The nurse must know about a child's ___. Some foods can make him very sick.",
+    "options": [
+     "behavior",
+     "contact",
+     "allergy",
+     "progress"
+    ],
+    "answer": 2,
+    "whyTr": "Gıdayla hasta eden durum: allergy.",
+    "tag": "vocab",
+    "level": "B1"
+   },
+   {
+    "type": "mcq",
+    "q": "Lucas's reading is much better this year. His teacher says he has made great ___.",
+    "options": [
+     "concern",
+     "bully",
+     "emergency",
+     "progress"
+    ],
+    "answer": 3,
+    "whyTr": "Gelişme: progress.",
+    "tag": "vocab",
+    "level": "B1"
+   },
+   {
+    "type": "mcq",
+    "q": "Mrs. Lee asked if her daughter was behaving well. The teacher said that she was very polite and helped other students.\n\nWhat did Mrs. Lee want to know?",
+    "options": [
+     "If her daughter behaved well",
+     "Where her daughter sat",
+     "When school ended",
+     "Who the teacher was"
+    ],
+    "answer": 0,
+    "whyTr": "Metin: 'asked if her daughter was behaving well'.",
+    "tag": "reading",
+    "level": "B1"
+   }
+  ]
+ }
+}

@@ -1,0 +1,801 @@
+{
+ "week": 8,
+ "day": 2,
+ "titleTr": "Öğretmen olsaydım...",
+ "theme": "school-rules",
+ "morning": {
+  "grammar": {
+   "topic": "2nd conditional: if + past simple, would + verb",
+   "explainTr": [
+    "Gerçek olmayan veya hayali durumları anlatırken 2nd conditional kullanırsın: If + past simple, would + yalın fiil. If I were a teacher, I would be patient. Geçmiş zaman kullanmana rağmen burada geçmişten söz etmiyorsun; hayal kuruyorsun.",
+    "'Be' fiili için tüm öznelerle 'were' kullanılır: If I were you... (Günlük konuşmada 'was' da duyabilirsin.) 'If I would be' diye bir yapı yoktur; if'ten sonra would gelmez.",
+    "Tavsiye vermek için çok kullanışlı: If I were you, I would talk to the principal. (Senin yerinde olsam müdürle konuşurdum.) Soru da kolay: What would you do if you ...?"
+   ],
+   "compareTr": "Türkçede 'öğretmen olsaydım, sabırlı olurdum' diye -sa/-ır yapısıyla kurarsın. İngilizcede If I were a teacher (if + geçmiş), I would be patient (would + fiil) olur. Eğer 'olsaydım'ı would ile çevirirsen (If I would be) yanlış olur.",
+   "table": [
+    [
+     "If bölümü",
+     "If + past simple (be: were)",
+     "If I were rich,"
+    ],
+    [
+     "Sonuç",
+     "would + yalın fiil",
+     "I would travel."
+    ],
+    [
+     "Olumsuz",
+     "wouldn't + yalın fiil",
+     "I wouldn't be late."
+    ],
+    [
+     "Soru",
+     "What would you do if ...?",
+     "What would you do if you won?"
+    ],
+    [
+     "Tavsiye",
+     "If I were you, I would ...",
+     "If I were you, I would ask Mr. Brown."
+    ]
+   ],
+   "examples": [
+    {
+     "en": "If I were a teacher, I would be patient.",
+     "tr": "Öğretmen olsaydım sabırlı olurdum."
+    },
+    {
+     "en": "If she had more time, she would study more.",
+     "tr": "Daha çok zamanı olsaydı daha çok çalışırdı."
+    },
+    {
+     "en": "I wouldn't be nervous if I knew the students.",
+     "tr": "Öğrencileri tanısaydım gergin olmazdım."
+    },
+    {
+     "en": "What would you do if you saw a fight?",
+     "tr": "Bir kavga görsen ne yapardın?"
+    },
+    {
+     "en": "If I were you, I would call the office.",
+     "tr": "Senin yerinde olsam ofisi arardım."
+    }
+   ],
+   "exercises": [
+    {
+     "type": "mcq",
+     "q": "If I ___ a teacher, I would plan fun lessons.",
+     "options": [
+      "were",
+      "am",
+      "will be"
+     ],
+     "answer": 0,
+     "whyTr": "Hayali durumda if cümlesi geçmiş zamanla kurulur; 'be' için were kullanılır.",
+     "tag": "future",
+     "level": "B1"
+    },
+    {
+     "type": "mcq",
+     "q": "I ___ more patient if I had more time.",
+     "options": [
+      "will be",
+      "would be",
+      "am"
+     ],
+     "answer": 1,
+     "whyTr": "2nd conditional sonucu: would + yalın fiil.",
+     "tag": "future",
+     "level": "B1"
+    },
+    {
+     "type": "order",
+     "promptTr": "Cümleyi sırala:",
+     "words": [
+      "were",
+      "the",
+      "principal,",
+      "I",
+      "would",
+      "hire",
+      "more",
+      "teachers",
+      "If",
+      "I"
+     ],
+     "answer": "If I were the principal, I would hire more teachers",
+     "whyTr": "If + past simple, would + yalın fiil.",
+     "tag": "future",
+     "level": "B1"
+    },
+    {
+     "type": "mcq",
+     "q": "If she ___ more money, she would buy a bigger house.",
+     "options": [
+      "has",
+      "would have",
+      "had"
+     ],
+     "answer": 2,
+     "whyTr": "If'ten sonra past simple gelir, would gelmez.",
+     "tag": "future",
+     "level": "B1"
+    },
+    {
+     "type": "mcq",
+     "q": "Which sentence is correct?",
+     "options": [
+      "If I were you, I would talk to the teacher.",
+      "If I would be you, I talk to the teacher.",
+      "If I am you, I would talked to the teacher."
+     ],
+     "answer": 0,
+     "whyTr": "'If I were you' tavsiye vermenin kalıbıdır.",
+     "tag": "future",
+     "level": "B1"
+    },
+    {
+     "type": "mcq",
+     "q": "What ___ you do if you saw a child crying in the hallway?",
+     "options": [
+      "will",
+      "would",
+      "did"
+     ],
+     "answer": 1,
+     "whyTr": "Hayali soruda 'would' kullanılır.",
+     "tag": "question-form",
+     "level": "B1"
+    },
+    {
+     "type": "order",
+     "promptTr": "Cümleyi sırala:",
+     "words": [
+      "you",
+      "do",
+      "if",
+      "you",
+      "were",
+      "late?",
+      "What",
+      "would"
+     ],
+     "answer": "What would you do if you were late?",
+     "whyTr": "Soru: What would + özne + fiil + if cümlesi.",
+     "tag": "question-form",
+     "level": "B1"
+    },
+    {
+     "type": "mcq",
+     "q": "If I ___ Emre's teacher, I would give him shorter homework.",
+     "options": [
+      "will be",
+      "would be",
+      "were"
+     ],
+     "answer": 2,
+     "whyTr": "I için bile 'were' tercih edilir (hayali durum).",
+     "tag": "future",
+     "level": "B1"
+    },
+    {
+     "type": "mcq",
+     "q": "If it rains tomorrow, we ___ the picnic. (gerçekçi durum)",
+     "options": [
+      "will cancel",
+      "would cancel",
+      "canceled"
+     ],
+     "answer": 0,
+     "whyTr": "Gerçekçi ihtimal: 1st conditional, will + fiil.",
+     "tag": "future",
+     "level": "A2"
+    },
+    {
+     "type": "mcq",
+     "q": "Mr. Brown is ___ than the principal.",
+     "options": [
+      "more friendlier",
+      "friendlier",
+      "friendly"
+     ],
+     "answer": 1,
+     "whyTr": "Kısa sıfatlarda -er eklenir; 'more friendlier' çift karşılaştırma olur, yanlıştır.",
+     "tag": "comparatives",
+     "level": "A2"
+    },
+    {
+     "type": "fill",
+     "q": "If I ___ a teacher, I would help every child.",
+     "accept": [
+      "were",
+      "was"
+     ],
+     "hintTr": "be (geçmiş, hayali)",
+     "whyTr": "Hayali durumda 'were' (günlük dilde 'was' da duyulur).",
+     "tag": "future",
+     "level": "B1"
+    },
+    {
+     "type": "fill",
+     "q": "She would be happy if she ___ the job.",
+     "accept": [
+      "got",
+      "had"
+     ],
+     "hintTr": "get (geçmiş)",
+     "whyTr": "If'ten sonra past simple kullanılır.",
+     "tag": "future",
+     "level": "B1"
+    }
+   ]
+  },
+  "vocab": [
+   {
+    "id": "imagine",
+    "en": "imagine",
+    "tr": "hayal etmek",
+    "pos": "verb",
+    "example": "Imagine you are a teacher on your first day.",
+    "exampleTr": "Öğretmen olarak ilk gününü hayal et.",
+    "syn": [],
+    "ant": [],
+    "level": "B1"
+   },
+   {
+    "id": "lesson",
+    "en": "lesson",
+    "tr": "ders",
+    "pos": "noun",
+    "example": "Today's lesson is about animals.",
+    "exampleTr": "Bugünkü ders hayvanlar hakkında.",
+    "syn": [
+     "class"
+    ],
+    "ant": [],
+    "level": "A2"
+   },
+   {
+    "id": "patient",
+    "en": "patient",
+    "tr": "sabırlı",
+    "pos": "adjective",
+    "example": "A good teacher is patient with children.",
+    "exampleTr": "İyi bir öğretmen çocuklara karşı sabırlıdır.",
+    "syn": [
+     "tolerant"
+    ],
+    "ant": [
+     "impatient"
+    ],
+    "level": "B1"
+   },
+   {
+    "id": "fair",
+    "en": "fair",
+    "tr": "adil",
+    "pos": "adjective",
+    "example": "The teacher is strict, but she is fair.",
+    "exampleTr": "Öğretmen sıkı ama adil.",
+    "syn": [
+     "just"
+    ],
+    "ant": [
+     "unfair"
+    ],
+    "level": "B1"
+   },
+   {
+    "id": "strict",
+    "en": "strict",
+    "tr": "katı, disiplinli",
+    "pos": "adjective",
+    "example": "Our principal is very strict about time.",
+    "exampleTr": "Müdürümüz zaman konusunda çok katı.",
+    "syn": [
+     "firm"
+    ],
+    "ant": [
+     "lenient"
+    ],
+    "level": "B1"
+   },
+   {
+    "id": "encourage",
+    "en": "encourage",
+    "tr": "cesaretlendirmek",
+    "pos": "verb",
+    "example": "Teachers should encourage shy students.",
+    "exampleTr": "Öğretmenler çekingen öğrencileri cesaretlendirmeli.",
+    "syn": [
+     "support"
+    ],
+    "ant": [
+     "discourage"
+    ],
+    "level": "B1"
+   },
+   {
+    "id": "subject",
+    "en": "subject",
+    "tr": "ders (okul dersi); konu",
+    "pos": "noun",
+    "example": "Math is my favorite subject.",
+    "exampleTr": "Matematik en sevdiğim ders.",
+    "syn": [],
+    "ant": [],
+    "level": "A2"
+   },
+   {
+    "id": "grade",
+    "en": "grade",
+    "tr": "not; sınıf seviyesi",
+    "pos": "noun",
+    "example": "She got a good grade on the test.",
+    "exampleTr": "Sınavdan iyi bir not aldı.",
+    "syn": [
+     "mark"
+    ],
+    "ant": [],
+    "level": "B1"
+   },
+   {
+    "id": "homework",
+    "en": "homework",
+    "tr": "ödev",
+    "pos": "noun",
+    "example": "I help my son with his homework.",
+    "exampleTr": "Oğluma ödevinde yardım ediyorum.",
+    "syn": [
+     "assignment"
+    ],
+    "ant": [],
+    "level": "A2"
+   },
+   {
+    "id": "praise",
+    "en": "praise",
+    "tr": "övmek; övgü",
+    "pos": "verb",
+    "example": "A teacher should praise good work.",
+    "exampleTr": "Öğretmen iyi işi övmeli.",
+    "syn": [
+     "compliment"
+    ],
+    "ant": [
+     "criticize"
+    ],
+    "level": "B1"
+   },
+   {
+    "id": "improve",
+    "en": "improve",
+    "tr": "gelişmek, geliştirmek",
+    "pos": "verb",
+    "example": "Reading every day will improve your English.",
+    "exampleTr": "Her gün okumak İngilizceni geliştirecek.",
+    "syn": [
+     "get better"
+    ],
+    "ant": [
+     "worsen"
+    ],
+    "level": "B1"
+   },
+   {
+    "id": "creative",
+    "en": "creative",
+    "tr": "yaratıcı",
+    "pos": "adjective",
+    "example": "She makes creative lessons with games.",
+    "exampleTr": "Oyunlarla yaratıcı dersler hazırlıyor.",
+    "syn": [
+     "imaginative"
+    ],
+    "ant": [],
+    "level": "B1"
+   },
+   {
+    "id": "challenge",
+    "en": "challenge",
+    "tr": "zorluk; meydan okumak",
+    "pos": "noun",
+    "example": "Learning a new language is a big challenge.",
+    "exampleTr": "Yeni bir dil öğrenmek büyük bir zorluk.",
+    "syn": [
+     "difficulty"
+    ],
+    "ant": [],
+    "level": "B1"
+   },
+   {
+    "id": "curriculum",
+    "en": "curriculum",
+    "tr": "müfredat",
+    "pos": "noun",
+    "example": "The curriculum includes reading, math and science.",
+    "exampleTr": "Müfredat okuma, matematik ve fen bilgisini içerir.",
+    "syn": [],
+    "ant": [],
+    "level": "B1"
+   },
+   {
+    "id": "mistake",
+    "en": "mistake",
+    "tr": "hata",
+    "pos": "noun",
+    "example": "Everybody makes mistakes when they learn.",
+    "exampleTr": "Öğrenirken herkes hata yapar.",
+    "syn": [
+     "error"
+    ],
+    "ant": [],
+    "level": "A2"
+   }
+  ],
+  "reading": {
+   "title": "If I were a teacher",
+   "text": "Hafsa has a small notebook where she writes her dreams. Last night she wrote a new page: \"If I were a full-time teacher...\"\n\n\"If I were a teacher, I would be patient with every child. I would not be too strict, but I would be fair. If a student made a mistake, I would not laugh. I would say, 'Good try! Let's try again.' Praise helps children improve, and it makes them feel safe.\n\nI would also make my lessons creative. If I taught English, I would bring pictures and songs to class. If the children were tired, we would play a short game. I think children learn more when they enjoy the lesson.\n\nWhat would I do if a child had a problem at home? I would listen first, and then I would talk to the school counselor. I would never ignore a sad child.\n\nOf course, I would need more English and more experience. If I had a magic wand, I would speak perfect English tomorrow!\"\n\nBut Hafsa knows there is no magic. She studies every day, and every week her English gets better. \"Maybe my dream is not so far away,\" she writes, and she closes the notebook with a smile.",
+   "glossary": [
+    {
+     "en": "full-time",
+     "tr": "tam zamanlı"
+    },
+    {
+     "en": "counselor",
+     "tr": "okul rehberi, danışman"
+    },
+    {
+     "en": "ignore",
+     "tr": "görmezden gelmek"
+    },
+    {
+     "en": "magic wand",
+     "tr": "sihirli değnek"
+    },
+    {
+     "en": "experience",
+     "tr": "deneyim"
+    }
+   ],
+   "questions": [
+    {
+     "type": "mcq",
+     "q": "Where does Hafsa write her dreams?",
+     "options": [
+      "On her phone",
+      "In an email",
+      "In a small notebook"
+     ],
+     "answer": 2,
+     "whyTr": "Metin: 'a small notebook where she writes her dreams.'",
+     "tag": "reading",
+     "level": "B1"
+    },
+    {
+     "type": "mcq",
+     "q": "What would Hafsa say if a student made a mistake?",
+     "options": [
+      "\"Good try! Let's try again.\"",
+      "\"That is wrong.\"",
+      "\"Don't talk, please.\""
+     ],
+     "answer": 0,
+     "whyTr": "Metin: 'I would say, Good try! Let's try again.'",
+     "tag": "reading",
+     "level": "B1"
+    },
+    {
+     "type": "mcq",
+     "q": "What would she bring to an English class?",
+     "options": [
+      "Tests and grades",
+      "Pictures and songs",
+      "Books and chairs"
+     ],
+     "answer": 1,
+     "whyTr": "Metin: 'I would bring pictures and songs to class.'",
+     "tag": "reading",
+     "level": "B1"
+    },
+    {
+     "type": "mcq",
+     "q": "What would she do first if a child had a problem at home?",
+     "options": [
+      "She would call the police.",
+      "She would give homework.",
+      "She would listen."
+     ],
+     "answer": 2,
+     "whyTr": "Metin: 'I would listen first.'",
+     "tag": "reading",
+     "level": "B1"
+    }
+   ]
+  }
+ },
+ "evening": {
+  "listening": {
+   "title": "If I were the principal",
+   "script": [
+    {
+     "speaker": "Linda",
+     "text": "Hafsa, imagine you're the principal of Lincoln Elementary. What would you change?"
+    },
+    {
+     "speaker": "Hafsa",
+     "text": "Wow, that's a big question. I would start with lunch. I would make the lunch break longer."
+    },
+    {
+     "speaker": "Linda",
+     "text": "Why?"
+    },
+    {
+     "speaker": "Hafsa",
+     "text": "If children had more time, they would eat better and play more."
+    },
+    {
+     "speaker": "Linda",
+     "text": "Good point. What else?"
+    },
+    {
+     "speaker": "Hafsa",
+     "text": "I would ask parents to help in the classrooms. If more adults were there, every child would get attention."
+    },
+    {
+     "speaker": "Linda",
+     "text": "Would you give less homework?"
+    },
+    {
+     "speaker": "Hafsa",
+     "text": "Not less, but shorter. If homework were short, children would finish it and feel proud."
+    },
+    {
+     "speaker": "Linda",
+     "text": "I like that. You know, if I were you, I would apply for a teaching assistant job."
+    },
+    {
+     "speaker": "Hafsa",
+     "text": "Really? Maybe I will!"
+    },
+    {
+     "speaker": "Linda",
+     "text": "I can help you with the application form."
+    },
+    {
+     "speaker": "Hafsa",
+     "text": "Thank you, Linda. You're a very good friend."
+    }
+   ],
+   "questions": [
+    {
+     "type": "mcq",
+     "q": "What would Hafsa change first?",
+     "options": [
+      "The lunch break",
+      "The homework",
+      "The school bus"
+     ],
+     "answer": 0,
+     "whyTr": "Hafsa: 'I would make the lunch break longer.'",
+     "tag": "listening",
+     "level": "B1"
+    },
+    {
+     "type": "mcq",
+     "q": "Why does she want a longer lunch break?",
+     "options": [
+      "Parents would visit more.",
+      "Children would eat better and play more.",
+      "Teachers would sleep more."
+     ],
+     "answer": 1,
+     "whyTr": "Hafsa: 'they would eat better and play more.'",
+     "tag": "listening",
+     "level": "B1"
+    },
+    {
+     "type": "mcq",
+     "q": "What does Hafsa say about homework?",
+     "options": [
+      "It should be longer.",
+      "It should stop.",
+      "It should be shorter."
+     ],
+     "answer": 2,
+     "whyTr": "Hafsa: 'Not less, but shorter.'",
+     "tag": "listening",
+     "level": "B1"
+    },
+    {
+     "type": "mcq",
+     "q": "What does Linda suggest?",
+     "options": [
+      "Applying for a teaching assistant job",
+      "Buying a new notebook",
+      "Calling the principal"
+     ],
+     "answer": 0,
+     "whyTr": "Linda: 'I would apply for a teaching assistant job.'",
+     "tag": "listening",
+     "level": "B1"
+    }
+   ]
+  },
+  "writing": {
+   "promptTr": "'Öğretmen olsaydım ...' başlıklı kısa bir paragraf yaz. En az dört would cümlesi kullan.",
+   "promptEn": "Write a short paragraph: If I were a teacher, what would you do? Use at least four sentences with would.",
+   "frames": [
+    "If I were a teacher, I would ...",
+    "I would be ... and ...",
+    "If a child felt ..., I would ...",
+    "I think a good teacher ..."
+   ],
+   "model": "If I were a teacher, I would teach young children. I would be patient and kind, but I would also be fair. Every morning, I would greet each child at the door. If a child felt nervous, I would sit next to him and listen. I would make my lessons creative, with songs, pictures and games. I would also call the parents with good news, not only with problems. If I had a big classroom, I would build a reading corner with soft chairs. Children would love books more. I think a good teacher can change a child's life, and that is my dream.",
+   "checklistTr": [
+    "If cümlende past simple (veya were), sonuçta would + yalın fiil var mı?",
+    "'If I would be' gibi bir hata yok, değil mi?",
+    "Paragrafta en az dört would cümlesi var mı?"
+   ],
+   "minWords": 78
+  },
+  "examSet": [
+   {
+    "type": "mcq",
+    "q": "If I ___ rich, I would buy a house in Isparta.",
+    "options": [
+     "am",
+     "were",
+     "will be"
+    ],
+    "answer": 1,
+    "whyTr": "Hayali durumda 'were' kullanılır.",
+    "tag": "future",
+    "level": "B1"
+   },
+   {
+    "type": "mcq",
+    "q": "She ___ nervous if she taught a big class.",
+    "options": [
+     "will feel",
+     "feels",
+     "would feel"
+    ],
+    "answer": 2,
+    "whyTr": "2nd conditional sonucu: would + fiil.",
+    "tag": "future",
+    "level": "B1"
+   },
+   {
+    "type": "mcq",
+    "q": "Which sentence is correct?",
+    "options": [
+     "If I were the principal, I would change the lunch time.",
+     "If I would be the principal, I change the lunch time.",
+     "If I am the principal, I would changed the lunch time."
+    ],
+    "answer": 0,
+    "whyTr": "If + past simple, would + yalın fiil.",
+    "tag": "future",
+    "level": "B1"
+   },
+   {
+    "type": "mcq",
+    "q": "What would you do if you ___ a wallet in the hallway?",
+    "options": [
+     "find",
+     "found",
+     "would find"
+    ],
+    "answer": 1,
+    "whyTr": "Hayali soruda if'ten sonra past simple gelir.",
+    "tag": "future",
+    "level": "B1"
+   },
+   {
+    "type": "mcq",
+    "q": "If you ___ late tomorrow, please call the office.",
+    "options": [
+     "were",
+     "would be",
+     "are"
+    ],
+    "answer": 2,
+    "whyTr": "Yarın için gerçekçi durum: If + present simple.",
+    "tag": "future",
+    "level": "B1"
+   },
+   {
+    "type": "mcq",
+    "q": "Emre ___ his homework yesterday evening.",
+    "options": [
+     "finished",
+     "finishes",
+     "will finish"
+    ],
+    "answer": 0,
+    "whyTr": "'Yesterday' geçmiş zaman ister.",
+    "tag": "past-simple",
+    "level": "A2"
+   },
+   {
+    "type": "mcq",
+    "q": "Hafsa ___ type fast. She practices every day.",
+    "options": [
+     "cans",
+     "can",
+     "can to"
+    ],
+    "answer": 1,
+    "whyTr": "'Can' yalın fiil alır.",
+    "tag": "modals",
+    "level": "A2"
+   },
+   {
+    "type": "mcq",
+    "q": "A teacher who gets angry easily is not ___.",
+    "options": [
+     "creative",
+     "tall",
+     "patient"
+    ],
+    "answer": 2,
+    "whyTr": "Kolay sinirlenen kişi sabırlı (patient) değildir.",
+    "tag": "vocab",
+    "level": "B1"
+   },
+   {
+    "type": "mcq",
+    "q": "What is the opposite of \"patient\"?",
+    "options": [
+     "impatient",
+     "creative",
+     "serious"
+    ],
+    "answer": 0,
+    "whyTr": "Patient'in zıttı impatient.",
+    "tag": "antonym",
+    "level": "B1"
+   },
+   {
+    "type": "mcq",
+    "q": "Which word means almost the same as \"praise\"?",
+    "options": [
+     "warning",
+     "compliment",
+     "mistake"
+    ],
+    "answer": 1,
+    "whyTr": "Praise ve compliment benzer anlamlıdır.",
+    "tag": "synonym",
+    "level": "B1"
+   },
+   {
+    "type": "mcq",
+    "q": "Math and science are school ___.",
+    "options": [
+     "grades",
+     "mistakes",
+     "subjects"
+    ],
+    "answer": 2,
+    "whyTr": "Matematik ve fen birer okul dersidir (subject).",
+    "tag": "vocab",
+    "level": "B1"
+   },
+   {
+    "type": "mcq",
+    "q": "Mia is shy. Her teacher always encourages her to speak in class. If Mia speaks, the teacher says, \"Great job!\"\n\nWhat does the teacher do?",
+    "options": [
+     "She encourages Mia.",
+     "She laughs at Mia.",
+     "She ignores Mia."
+    ],
+    "answer": 0,
+    "whyTr": "Metin: 'encourages her to speak'.",
+    "tag": "reading",
+    "level": "B1"
+   }
+  ]
+ }
+}

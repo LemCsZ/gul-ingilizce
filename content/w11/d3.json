@@ -1,0 +1,779 @@
+{
+ "week": 11,
+ "day": 3,
+ "titleTr": "Öğretmenler odasında sohbet: question tags",
+ "theme": "work-school",
+ "morning": {
+  "grammar": {
+   "topic": "question tags",
+   "explainTr": [
+    "Question tag, cümlenin sonuna eklenen kısa sorudur ve 'değil mi?' anlamı taşır: You are a teacher, aren't you? Kural basit: olumlu cümle + olumsuz tag, olumsuz cümle + olumlu tag.",
+    "Tag'de cümledeki yardımcı fiili kullanırsın: is → isn't it, can → can't she, has → hasn't he. Present simple'da do/does, past simple'da did gelir: He works here, doesn't he? They left, didn't they?",
+    "Özel durumlar: I am → aren't I? Let's → shall we? Emir cümleleri → will you? There is → isn't there? Sesin yükselmesi gerçek soru, düşmesi onay isteme demektir."
+   ],
+   "compareTr": "Türkçede her cümlenin sonuna 'değil mi?' ya da 'öyle mi?' ekleyebilirsin; tek kalıp yeter. İngilizcede tag, cümlenin fiiline göre değişir: aren't you, doesn't she, didn't they, won't he. Bu yüzden önce cümlenin yardımcı fiilini bulmalısın.",
+   "table": [
+    [
+     "Olumlu cümle",
+     "olumsuz tag",
+     "She is here, isn't she?"
+    ],
+    [
+     "Olumsuz cümle",
+     "olumlu tag",
+     "You don't smoke, do you?"
+    ],
+    [
+     "Present simple",
+     "do / does",
+     "He works, doesn't he?"
+    ],
+    [
+     "Past simple",
+     "did",
+     "They left, didn't they?"
+    ],
+    [
+     "Let's ...",
+     "shall we?",
+     "Let's go, shall we?"
+    ]
+   ],
+   "examples": [
+    {
+     "en": "You're the new teacher, aren't you?",
+     "tr": "Yeni öğretmen sizsiniz, değil mi?"
+    },
+    {
+     "en": "She doesn't work here, does she?",
+     "tr": "O burada çalışmıyor, değil mi?"
+    },
+    {
+     "en": "They finished the report, didn't they?",
+     "tr": "Raporu bitirdiler, değil mi?"
+    },
+    {
+     "en": "Let's have coffee, shall we?",
+     "tr": "Kahve içelim mi?"
+    },
+    {
+     "en": "I'm late, aren't I?",
+     "tr": "Geç kaldım, değil mi?"
+    }
+   ],
+   "exercises": [
+    {
+     "type": "mcq",
+     "q": "You are a substitute teacher, ___?",
+     "options": [
+      "aren't you",
+      "don't you",
+      "are you"
+     ],
+     "answer": 0,
+     "whyTr": "Olumlu cümlenin tag'i olumsuz olur ve aynı yardımcı fiili kullanır: are → aren't you.",
+     "tag": "question-form",
+     "level": "B1"
+    },
+    {
+     "type": "mcq",
+     "q": "She doesn't work here, ___?",
+     "options": [
+      "doesn't she",
+      "does she",
+      "isn't she"
+     ],
+     "answer": 1,
+     "whyTr": "Olumsuz cümlenin tag'i olumlu olur: does she.",
+     "tag": "question-form",
+     "level": "B1"
+    },
+    {
+     "type": "mcq",
+     "q": "They finished the grading, ___?",
+     "options": [
+      "don't they",
+      "haven't they",
+      "didn't they"
+     ],
+     "answer": 2,
+     "whyTr": "Geçmiş zaman (finished) → didn't they.",
+     "tag": "question-form",
+     "level": "B1"
+    },
+    {
+     "type": "mcq",
+     "q": "Linda can drive, ___?",
+     "options": [
+      "can't she",
+      "doesn't she",
+      "isn't she"
+     ],
+     "answer": 0,
+     "whyTr": "Cümlede 'can' var, tag'de de can: can't she.",
+     "tag": "question-form",
+     "level": "B1"
+    },
+    {
+     "type": "mcq",
+     "q": "Let's have lunch together, ___?",
+     "options": [
+      "will we",
+      "shall we",
+      "don't we"
+     ],
+     "answer": 1,
+     "whyTr": "'Let's ...' cümlesinin tag'i 'shall we?' olur.",
+     "tag": "question-form",
+     "level": "B1"
+    },
+    {
+     "type": "mcq",
+     "q": "Open the window, ___?",
+     "options": [
+      "are you",
+      "do you",
+      "will you"
+     ],
+     "answer": 2,
+     "whyTr": "Emir cümlesinin tag'i genelde 'will you?' olur.",
+     "tag": "question-form",
+     "level": "B1"
+    },
+    {
+     "type": "mcq",
+     "q": "There is a meeting today, ___?",
+     "options": [
+      "isn't there",
+      "isn't it",
+      "doesn't there"
+     ],
+     "answer": 0,
+     "whyTr": "'There is' için tag'de de there kullanılır: isn't there.",
+     "tag": "question-form",
+     "level": "B1"
+    },
+    {
+     "type": "mcq",
+     "q": "I am right, ___?",
+     "options": [
+      "am not I",
+      "aren't I",
+      "amn't I"
+     ],
+     "answer": 1,
+     "whyTr": "'I am' için özel tag: aren't I?",
+     "tag": "question-form",
+     "level": "B1"
+    },
+    {
+     "type": "order",
+     "promptTr": "Cümleyi sırala:",
+     "words": [
+      "a",
+      "nice",
+      "lounge,",
+      "It's",
+      "isn't",
+      "it"
+     ],
+     "answer": "It's a nice lounge, isn't it",
+     "whyTr": "Olumlu cümle + virgül + olumsuz tag.",
+     "tag": "question-form",
+     "level": "B1"
+    },
+    {
+     "type": "order",
+     "promptTr": "Cümleyi sırala:",
+     "words": [
+      "haven't",
+      "You",
+      "the",
+      "principal,",
+      "met",
+      "have",
+      "you"
+     ],
+     "answer": "You haven't met the principal, have you",
+     "whyTr": "Olumsuz cümle + olumlu tag: haven't → have you.",
+     "tag": "question-form",
+     "level": "B1"
+    },
+    {
+     "type": "mcq",
+     "q": "We waited outside ___ the broken copier.",
+     "options": [
+      "because",
+      "therefore",
+      "because of"
+     ],
+     "answer": 2,
+     "whyTr": "Isim (the broken copier) önünde 'because of'.",
+     "tag": "linkers",
+     "level": "B1"
+    },
+    {
+     "type": "fill",
+     "q": "He will call tomorrow, ___ he?",
+     "accept": [
+      "won't"
+     ],
+     "hintTr": "will'in olumsuzu",
+     "whyTr": "'Will' olumlu, tag olumsuz: won't he?",
+     "tag": "question-form",
+     "level": "B1"
+    }
+   ]
+  },
+  "vocab": [
+   {
+    "id": "lounge",
+    "en": "lounge",
+    "tr": "dinlenme odası",
+    "pos": "noun",
+    "example": "Teachers drink coffee in the lounge.",
+    "exampleTr": "Öğretmenler dinlenme odasında kahve içer.",
+    "syn": [],
+    "ant": [],
+    "level": "B1"
+   },
+   {
+    "id": "gossip",
+    "en": "gossip",
+    "tr": "dedikodu",
+    "pos": "noun",
+    "example": "Teachers do not like gossip.",
+    "exampleTr": "Öğretmenler dedikoduyu sevmez.",
+    "syn": [
+     "rumor"
+    ],
+    "ant": [],
+    "level": "B1"
+   },
+   {
+    "id": "copier",
+    "en": "copier",
+    "tr": "fotokopi makinesi",
+    "pos": "noun",
+    "example": "The copier is out of paper again.",
+    "exampleTr": "Fotokopi makinesinin kağıdı yine bitti.",
+    "syn": [],
+    "ant": [],
+    "level": "B1"
+   },
+   {
+    "id": "memo",
+    "en": "memo",
+    "tr": "not, genelge",
+    "pos": "noun",
+    "example": "The principal sent a memo to the staff.",
+    "exampleTr": "Müdür personele bir genelge gönderdi.",
+    "syn": [],
+    "ant": [],
+    "level": "B1"
+   },
+   {
+    "id": "workload",
+    "en": "workload",
+    "tr": "iş yükü",
+    "pos": "noun",
+    "example": "Teachers have a heavy workload.",
+    "exampleTr": "Öğretmenlerin iş yükü ağırdır.",
+    "syn": [],
+    "ant": [],
+    "level": "B1"
+   },
+   {
+    "id": "swap",
+    "en": "swap",
+    "tr": "takas etmek",
+    "pos": "verb",
+    "example": "Can we swap duties this week?",
+    "exampleTr": "Bu hafta nöbet değiştirebilir miyiz?",
+    "syn": [
+     "trade"
+    ],
+    "ant": [],
+    "level": "B1"
+   },
+   {
+    "id": "assignment",
+    "en": "assignment",
+    "tr": "ödev, görev",
+    "pos": "noun",
+    "example": "The assignment is due on Monday.",
+    "exampleTr": "Ödevin teslim günü pazartesi.",
+    "syn": [
+     "task"
+    ],
+    "ant": [],
+    "level": "B1"
+   },
+   {
+    "id": "faculty",
+    "en": "faculty",
+    "tr": "öğretim kadrosu",
+    "pos": "noun",
+    "example": "The faculty meets after school.",
+    "exampleTr": "Öğretim kadrosu okuldan sonra toplanır.",
+    "syn": [],
+    "ant": [],
+    "level": "B1"
+   },
+   {
+    "id": "bulletin",
+    "en": "bulletin",
+    "tr": "duyuru panosu, bülten",
+    "pos": "noun",
+    "example": "The schedule is on the bulletin board.",
+    "exampleTr": "Program duyuru panosunda.",
+    "syn": [],
+    "ant": [],
+    "level": "B1"
+   },
+   {
+    "id": "chat",
+    "en": "chat",
+    "tr": "sohbet etmek; sohbet",
+    "pos": "verb",
+    "example": "We chat in the lounge at noon.",
+    "exampleTr": "Öğlen dinlenme odasında sohbet ederiz.",
+    "syn": [
+     "talk"
+    ],
+    "ant": [],
+    "level": "B1"
+   },
+   {
+    "id": "lately",
+    "en": "lately",
+    "tr": "son zamanlarda",
+    "pos": "adverb",
+    "example": "Lately, I feel more confident.",
+    "exampleTr": "Son zamanlarda kendimi daha güvende hissediyorum.",
+    "syn": [
+     "recently"
+    ],
+    "ant": [],
+    "level": "B1"
+   },
+   {
+    "id": "honestly",
+    "en": "honestly",
+    "tr": "dürüst olmak gerekirse",
+    "pos": "adverb",
+    "example": "Honestly, I need a day off.",
+    "exampleTr": "Dürüst olmak gerekirse bir izne ihtiyacım var.",
+    "syn": [
+     "frankly"
+    ],
+    "ant": [],
+    "level": "B1"
+   },
+   {
+    "id": "rotate",
+    "en": "rotate",
+    "tr": "sırayla yapmak",
+    "pos": "verb",
+    "example": "Teachers rotate recess duty.",
+    "exampleTr": "Öğretmenler teneffüs nöbetini sırayla yapar.",
+    "syn": [],
+    "ant": [],
+    "level": "B1"
+   },
+   {
+    "id": "rumor",
+    "en": "rumor",
+    "tr": "dedikodu, söylenti",
+    "pos": "noun",
+    "example": "There is a rumor about a new principal.",
+    "exampleTr": "Yeni bir müdür hakkında söylenti var.",
+    "syn": [
+     "gossip"
+    ],
+    "ant": [],
+    "level": "B1"
+   },
+   {
+    "id": "grumble",
+    "en": "grumble",
+    "tr": "söylenmek",
+    "pos": "verb",
+    "example": "He grumbled about the long meeting.",
+    "exampleTr": "Uzun toplantıdan söylendi.",
+    "syn": [
+     "complain"
+    ],
+    "ant": [],
+    "level": "B1"
+   }
+  ],
+  "reading": {
+   "title": "In the teachers' lounge",
+   "text": "At noon, Hafsa went to the teachers' lounge for the first time. It was a small room with a copier, a coffee machine, and two old sofas. Ms. Carter was already there. \"You're the new substitute, aren't you?\" she asked. \"Yes, I am,\" said Hafsa. \"You've met Mr. Lopez, haven't you?\" Mr. Lopez, the gym teacher, waved from the table. \"Nice to meet you. You don't have a long drive, do you?\" \"No, I live ten minutes away,\" Hafsa answered.\n\nThe teachers talked about their workload. Ms. Carter had a deadline for grades on Friday, and she was tired. \"Lately, we have too many meetings,\" she said. \"Honestly, I need a day off.\" Mr. Lopez agreed. \"There is a rumor that the principal wants another meeting next week, isn't there?\" he asked. Ms. Carter laughed. \"I didn't hear that. Let's not believe rumors, shall we?\"\n\nHafsa listened carefully and learned many new phrases. She understood most of the conversation, and she even joined it. \"The copier is broken again, isn't it?\" she asked. Everyone laughed because it was true. Mr. Lopez said, \"You'll fit in here, won't you?\" \"I hope so,\" said Hafsa. When the bell rang, she felt more confident. A teachers' lounge is not just a place for coffee. It is also a place where new friends begin.",
+   "glossary": [
+    {
+     "en": "gym teacher",
+     "tr": "beden eğitimi öğretmeni"
+    },
+    {
+     "en": "grades",
+     "tr": "notlar"
+    },
+    {
+     "en": "day off",
+     "tr": "izin günü"
+    },
+    {
+     "en": "fit in",
+     "tr": "uyum sağlamak"
+    },
+    {
+     "en": "confident",
+     "tr": "kendinden emin"
+    }
+   ],
+   "questions": [
+    {
+     "type": "mcq",
+     "q": "Who is Mr. Lopez?",
+     "options": [
+      "The principal",
+      "The gym teacher",
+      "A parent",
+      "The school secretary"
+     ],
+     "answer": 1,
+     "whyTr": "Metin: 'Mr. Lopez, the gym teacher'.",
+     "tag": "reading",
+     "level": "B1"
+    },
+    {
+     "type": "mcq",
+     "q": "What deadline does Ms. Carter have?",
+     "options": [
+      "A field trip is on Friday.",
+      "Grades are due on Friday.",
+      "Her class ends on Friday."
+     ],
+     "answer": 1,
+     "whyTr": "Metin: 'a deadline for grades on Friday'.",
+     "tag": "reading",
+     "level": "B1"
+    },
+    {
+     "type": "mcq",
+     "q": "What was broken again?",
+     "options": [
+      "The coffee machine",
+      "The bell",
+      "The copier"
+     ],
+     "answer": 2,
+     "whyTr": "Hafsa: 'The copier is broken again, isn't it?'",
+     "tag": "reading",
+     "level": "B1"
+    },
+    {
+     "type": "mcq",
+     "q": "How did Hafsa feel after the break?",
+     "options": [
+      "More confident",
+      "More tired",
+      "Worried"
+     ],
+     "answer": 0,
+     "whyTr": "Metin: 'she felt more confident'.",
+     "tag": "reading",
+     "level": "B1"
+    }
+   ]
+  }
+ },
+ "evening": {
+  "listening": {
+   "title": "A quick chat before lunch",
+   "script": [
+    {
+     "speaker": "Mr. Lopez",
+     "text": "Hi, Hafsa. You're back again, aren't you?"
+    },
+    {
+     "speaker": "Hafsa",
+     "text": "Yes, I'm in Ms. Carter's class today. You have a break now, don't you?"
+    },
+    {
+     "speaker": "Mr. Lopez",
+     "text": "Yes, I do. Let's have coffee in the lounge, shall we?"
+    },
+    {
+     "speaker": "Hafsa",
+     "text": "I'd love to. But I have a question about the sub plan."
+    },
+    {
+     "speaker": "Mr. Lopez",
+     "text": "Sure. What does it say?"
+    },
+    {
+     "speaker": "Hafsa",
+     "text": "It says I must supervise the cafeteria at noon. I'm not sure what to do."
+    },
+    {
+     "speaker": "Mr. Lopez",
+     "text": "Don't worry. You just watch the children and keep them safe. It isn't difficult, is it?"
+    },
+    {
+     "speaker": "Hafsa",
+     "text": "No, I think I can do it. Is anyone absent today?"
+    },
+    {
+     "speaker": "Mr. Lopez",
+     "text": "Two students are absent. The list is on the desk."
+    },
+    {
+     "speaker": "Hafsa",
+     "text": "Thank you. And the copier? I need ten copies of a worksheet."
+    },
+    {
+     "speaker": "Mr. Lopez",
+     "text": "It's broken again, I'm afraid. Use the one in the front office."
+    },
+    {
+     "speaker": "Hafsa",
+     "text": "Oh no! Thanks for the tip, Mr. Lopez."
+    }
+   ],
+   "questions": [
+    {
+     "type": "mcq",
+     "q": "What does Hafsa want to ask about?",
+     "options": [
+      "The bus schedule",
+      "The sub plan",
+      "Her salary"
+     ],
+     "answer": 1,
+     "whyTr": "Hafsa: 'I have a question about the sub plan.'",
+     "tag": "listening",
+     "level": "B1"
+    },
+    {
+     "type": "mcq",
+     "q": "What must Hafsa do at noon?",
+     "options": [
+      "Teach math",
+      "Call the parents",
+      "Supervise the cafeteria",
+      "Clean the lounge"
+     ],
+     "answer": 2,
+     "whyTr": "Hafsa: 'I must supervise the cafeteria at noon.'",
+     "tag": "listening",
+     "level": "B1"
+    },
+    {
+     "type": "mcq",
+     "q": "How many students are absent?",
+     "options": [
+      "Two",
+      "Three",
+      "Five"
+     ],
+     "answer": 0,
+     "whyTr": "Mr. Lopez: 'Two students are absent.'",
+     "tag": "listening",
+     "level": "B1"
+    },
+    {
+     "type": "mcq",
+     "q": "Where should Hafsa make copies?",
+     "options": [
+      "In the gym",
+      "In the front office",
+      "In the lounge"
+     ],
+     "answer": 1,
+     "whyTr": "Mr. Lopez: 'Use the one in the front office.'",
+     "tag": "listening",
+     "level": "B1"
+    }
+   ]
+  },
+  "writing": {
+   "promptTr": "Öğretmenler odasında iki kişinin kısa sohbetini yaz. En az 4 question tag kullan (80-100 kelime).",
+   "promptEn": "Write a short chat between two teachers in the lounge. Use at least 4 question tags (80-100 words).",
+   "frames": [
+    "You are ..., aren't you?",
+    "It's ..., isn't it?",
+    "You don't ..., do you?",
+    "Let's ..., shall we?"
+   ],
+   "model": "Hafsa: Hello, Linda. You work in room 12, don't you? Linda: Yes, I do. You are the new substitute, aren't you? Hafsa: Yes, I am. It's a busy school, isn't it? Linda: It is, but the staff is friendly. You don't have a long drive, do you? Hafsa: No, I don't. I live near the park. Linda: That's great. The copier is broken today, isn't it? Hafsa: Yes, it is. Let's use the front office, shall we? Linda: Good idea. You'll like this school, won't you? Hafsa: I think so!",
+   "checklistTr": [
+    "En az 4 question tag var mı?",
+    "Olumlu cümlede olumsuz tag, olumsuz cümlede olumlu tag kullandın mı?",
+    "Tag'deki yardımcı fiil cümleyle uyumlu mu (don't, aren't, isn't ...)?",
+    "Tag'den sonra soru işareti koydun mu?"
+   ],
+   "minWords": 70
+  },
+  "examSet": [
+   {
+    "type": "mcq",
+    "q": "Your son plays soccer, ___?",
+    "options": [
+     "isn't he",
+     "does he",
+     "doesn't he"
+    ],
+    "answer": 2,
+    "whyTr": "Present simple olumlu → doesn't he.",
+    "tag": "question-form",
+    "level": "B1"
+   },
+   {
+    "type": "mcq",
+    "q": "The students aren't ready, ___?",
+    "options": [
+     "are they",
+     "aren't they",
+     "do they"
+    ],
+    "answer": 0,
+    "whyTr": "Olumsuz cümle → olumlu tag: are they.",
+    "tag": "question-form",
+    "level": "B1"
+   },
+   {
+    "type": "mcq",
+    "q": "Hafsa has finished the form, ___?",
+    "options": [
+     "doesn't she",
+     "hasn't she",
+     "isn't she"
+    ],
+    "answer": 1,
+    "whyTr": "Present perfect (has) → hasn't she.",
+    "tag": "question-form",
+    "level": "B1"
+   },
+   {
+    "type": "mcq",
+    "q": "Let's start the lesson, ___?",
+    "options": [
+     "will we",
+     "don't we",
+     "shall we"
+    ],
+    "answer": 2,
+    "whyTr": "'Let's' → shall we.",
+    "tag": "question-form",
+    "level": "B1"
+   },
+   {
+    "type": "mcq",
+    "q": "The class was ___ noisy that the teacher closed the door.",
+    "options": [
+     "so",
+     "such",
+     "because"
+    ],
+    "answer": 0,
+    "whyTr": "Sıfat önünde 'so ... that'.",
+    "tag": "linkers",
+    "level": "B1"
+   },
+   {
+    "type": "mcq",
+    "q": "The picnic was canceled ___ the weather.",
+    "options": [
+     "because",
+     "because of",
+     "therefore"
+    ],
+    "answer": 1,
+    "whyTr": "Isim önünde 'because of'.",
+    "tag": "linkers",
+    "level": "B1"
+   },
+   {
+    "type": "mcq",
+    "q": "The ___ for the report is Friday. We cannot be late.",
+    "options": [
+     "cafeteria",
+     "rumor",
+     "deadline"
+    ],
+    "answer": 2,
+    "whyTr": "Son teslim tarihi = deadline.",
+    "tag": "vocab",
+    "level": "B1"
+   },
+   {
+    "type": "mcq",
+    "q": "A teacher must ___ the students during lunch.",
+    "options": [
+     "supervise",
+     "mention",
+     "chat"
+    ],
+    "answer": 0,
+    "whyTr": "Gözetmek = supervise.",
+    "tag": "vocab",
+    "level": "B1"
+   },
+   {
+    "type": "mcq",
+    "q": "Which word is closest in meaning to \"chat\"?",
+    "options": [
+     "argue",
+     "talk",
+     "interrupt"
+    ],
+    "answer": 1,
+    "whyTr": "Chat ve talk (sohbet) benzer anlamlıdır.",
+    "tag": "synonym",
+    "level": "B1"
+   },
+   {
+    "type": "mcq",
+    "q": "What is the opposite of \"absent\"?",
+    "options": [
+     "quiet",
+     "late",
+     "present"
+    ],
+    "answer": 2,
+    "whyTr": "Absent'in zıttı present.",
+    "tag": "antonym",
+    "level": "B1"
+   },
+   {
+    "type": "mcq",
+    "q": "Mr. Lopez is new at the school. He doesn't know many people, but the staff is friendly. Every day he has coffee in the lounge and chats with the teachers.\n\nWhere does Mr. Lopez have coffee?",
+    "options": [
+     "In the lounge",
+     "In the cafeteria",
+     "At home"
+    ],
+    "answer": 0,
+    "whyTr": "Metin: 'has coffee in the lounge'.",
+    "tag": "reading",
+    "level": "B1"
+   },
+   {
+    "type": "mcq",
+    "q": "The workload at Lincoln Elementary is heavy. Teachers write lesson plans, grade papers, and attend meetings. Lately, many of them feel tired.\n\nHow do the teachers feel?",
+    "options": [
+     "Bored",
+     "Tired",
+     "Excited"
+    ],
+    "answer": 1,
+    "whyTr": "Metin: 'many of them feel tired'.",
+    "tag": "reading",
+    "level": "B1"
+   }
+  ]
+ }
+}

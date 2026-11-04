@@ -1,0 +1,807 @@
+{
+ "week": 7,
+ "day": 3,
+ "titleTr": "Belli olmayan planlar: might, may, could",
+ "theme": "uncertain-plans",
+ "morning": {
+  "grammar": {
+   "topic": "might / may / could (olasılık)",
+   "explainTr": [
+    "'Might', 'may' ve 'could' kesin olmayan şeyleri anlatır: bu bir olasılık, ama emin değilsin. 'Might' ve 'could' günlük konuşmada çok yaygındır; 'may' biraz daha resmidir.",
+    "Bu üç yardımcı fiil de tüm öznelerle aynıdır (he might, she may), -s almaz ve ardından yalın fiil gelir: She might call. Olumsuz: might not / may not. 'Could not' ile 'might not' farklı anlam taşır; şimdilik olasılık için might not / may not kullan.",
+    "Soru kurmak için genelde 'Do you think...?' veya 'Is it possible that...?' kullanırız. 'Maybe' ve 'perhaps' de aynı fikri verir: Maybe it will rain = It might rain."
+   ],
+   "compareTr": "Türkçede olasılık ek ile söylenir: 'yağmur yağabilir', 'gelebilirim', 'gelmeyebilirim'. İngilizcede ayrı bir kelime kullanırsın ve fiil yalın kalır: It might rain. I might not come. 'Might comes' veya 'might to come' demezsin.",
+   "table": [
+    [
+     "Olumlu",
+     "özne + might/may/could + fiil",
+     "She might call."
+    ],
+    [
+     "Olumsuz",
+     "özne + might not / may not + fiil",
+     "I might not go."
+    ],
+    [
+     "Neye bağlı",
+     "It depends on + isim",
+     "It depends on the weather."
+    ],
+    [
+     "maybe / perhaps",
+     "Maybe + özne + will",
+     "Maybe he will come."
+    ],
+    [
+     "Karşılaştırma",
+     "might = may = could (olasılık)",
+     "It could snow."
+    ]
+   ],
+   "examples": [
+    {
+     "en": "I might go to the lake on Sunday.",
+     "tr": "Pazar günü göle gidebilirim."
+    },
+    {
+     "en": "She may not be at work today.",
+     "tr": "Bugün işte olmayabilir."
+    },
+    {
+     "en": "It could rain this afternoon.",
+     "tr": "Öğleden sonra yağmur yağabilir."
+    },
+    {
+     "en": "We might have a test, but I am not sure.",
+     "tr": "Sınav olabilir ama emin değilim."
+    }
+   ],
+   "exercises": [
+    {
+     "type": "mcq",
+     "q": "I'm not sure. I ___ go to the park this weekend.",
+     "options": [
+      "might",
+      "mights",
+      "might to",
+      "am might"
+     ],
+     "answer": 0,
+     "whyTr": "Might de tüm öznelerle aynıdır ve fiil yalın gelir.",
+     "tag": "modals",
+     "level": "B1"
+    },
+    {
+     "type": "mcq",
+     "q": "She ___ be late because of the traffic.",
+     "options": [
+      "mays",
+      "may",
+      "may to",
+      "is may"
+     ],
+     "answer": 1,
+     "whyTr": "'May' -s almaz; ardından yalın fiil gelir.",
+     "tag": "modals",
+     "level": "B1"
+    },
+    {
+     "type": "mcq",
+     "q": "It ___ rain this afternoon. Take an umbrella.",
+     "options": [
+      "coulds",
+      "could to",
+      "could",
+      "is could"
+     ],
+     "answer": 2,
+     "whyTr": "Olasılık için 'could' + yalın fiil.",
+     "tag": "modals",
+     "level": "B1"
+    },
+    {
+     "type": "order",
+     "promptTr": "Cümleyi sırala:",
+     "words": [
+      "not",
+      "class",
+      "We",
+      "on",
+      "have",
+      "Friday",
+      "might"
+     ],
+     "answer": "We might not have class on Friday",
+     "whyTr": "Olumsuz: might not + yalın fiil.",
+     "tag": "modals",
+     "level": "B1"
+    },
+    {
+     "type": "mcq",
+     "q": "I ___ come to the meeting. I'm not sure yet.",
+     "options": [
+      "don't might",
+      "might don't",
+      "not might",
+      "might not"
+     ],
+     "answer": 3,
+     "whyTr": "Olasılığın olumsuzu: might not (may not).",
+     "tag": "negative-form",
+     "level": "B1"
+    },
+    {
+     "type": "mcq",
+     "q": "Which sentence is correct?",
+     "options": [
+      "The school may close early if it snows.",
+      "The school may closes early if it snows.",
+      "The school mays close early if it snows.",
+      "The school may to close early if it snows."
+     ],
+     "answer": 0,
+     "whyTr": "May'den sonra yalın fiil: close.",
+     "tag": "modals",
+     "level": "B1"
+    },
+    {
+     "type": "order",
+     "promptTr": "Cümleyi sırala:",
+     "words": [
+      "at",
+      "work",
+      "be",
+      "today",
+      "not",
+      "may",
+      "She"
+     ],
+     "answer": "She may not be at work today",
+     "whyTr": "'May not' arkasına yalın fiil (be) alır.",
+     "tag": "modals",
+     "level": "B1"
+    },
+    {
+     "type": "mcq",
+     "q": "\"We could go to the library.\" This sentence means:",
+     "options": [
+      "It is a certain plan.",
+      "It is a possible plan.",
+      "It already happened.",
+      "It is a school rule."
+     ],
+     "answer": 1,
+     "whyTr": "Could burada bir olasılık ya da öneri bildirir.",
+     "tag": "modals",
+     "level": "B1"
+    },
+    {
+     "type": "mcq",
+     "q": "\"Maybe Linda will help us.\" = Linda ___ help us.",
+     "options": [
+      "must",
+      "has to",
+      "might",
+      "did"
+     ],
+     "answer": 2,
+     "whyTr": "Maybe + will = might: olasılık.",
+     "tag": "modals",
+     "level": "B1"
+    },
+    {
+     "type": "mcq",
+     "q": "I will tell you as soon as I ___ the result.",
+     "options": [
+      "will know",
+      "knew",
+      "am know",
+      "know"
+     ],
+     "answer": 3,
+     "whyTr": "Zaman bağlacından sonra Present Simple.",
+     "tag": "future",
+     "level": "B1"
+    },
+    {
+     "type": "fill",
+     "q": "I'm not sure about Friday. I ___ have a doctor's visit.",
+     "accept": [
+      "might",
+      "may",
+      "could"
+     ],
+     "hintTr": "olasılık yardımcı fiili (m...)",
+     "whyTr": "Kesin olmayan plan: might / may / could.",
+     "tag": "modals",
+     "level": "B1"
+    },
+    {
+     "type": "mcq",
+     "q": "When we got to the airport, the plane ___ already left.",
+     "options": [
+      "had",
+      "has",
+      "have",
+      "was"
+     ],
+     "answer": 0,
+     "whyTr": "Varıştan önce kalkmış: had already left.",
+     "tag": "past-simple",
+     "level": "B1"
+    }
+   ]
+  },
+  "vocab": [
+   {
+    "id": "perhaps",
+    "en": "perhaps",
+    "tr": "belki",
+    "pos": "adverb",
+    "example": "Perhaps we can meet on Friday.",
+    "exampleTr": "Belki cuma günü buluşabiliriz.",
+    "syn": [
+     "maybe"
+    ],
+    "ant": [],
+    "level": "B1"
+   },
+   {
+    "id": "possible",
+    "en": "possible",
+    "tr": "mümkün",
+    "pos": "adjective",
+    "example": "It is possible to finish by noon.",
+    "exampleTr": "Öğlene kadar bitirmek mümkün.",
+    "syn": [],
+    "ant": [
+     "impossible"
+    ],
+    "level": "B1"
+   },
+   {
+    "id": "probably",
+    "en": "probably",
+    "tr": "muhtemelen",
+    "pos": "adverb",
+    "example": "She will probably call you tonight.",
+    "exampleTr": "Muhtemelen bu akşam seni arayacak.",
+    "syn": [
+     "likely"
+    ],
+    "ant": [],
+    "level": "B1"
+   },
+   {
+    "id": "chance",
+    "en": "chance",
+    "tr": "ihtimal, şans",
+    "pos": "noun",
+    "example": "There is a small chance of snow.",
+    "exampleTr": "Kar yağma ihtimali az.",
+    "syn": [
+     "possibility"
+    ],
+    "ant": [],
+    "level": "B1"
+   },
+   {
+    "id": "depend",
+    "en": "depend",
+    "tr": "bağlı olmak",
+    "pos": "verb",
+    "example": "It depends on the weather.",
+    "exampleTr": "Havaya bağlı.",
+    "syn": [],
+    "ant": [],
+    "level": "B1"
+   },
+   {
+    "id": "decide",
+    "en": "decide",
+    "tr": "karar vermek",
+    "pos": "verb",
+    "example": "I can't decide between the two jobs.",
+    "exampleTr": "İki iş arasında karar veremiyorum.",
+    "syn": [],
+    "ant": [],
+    "level": "B1"
+   },
+   {
+    "id": "option",
+    "en": "option",
+    "tr": "seçenek",
+    "pos": "noun",
+    "example": "We have two options for dinner.",
+    "exampleTr": "Akşam yemeği için iki seçeneğimiz var.",
+    "syn": [
+     "choice"
+    ],
+    "ant": [],
+    "level": "B1"
+   },
+   {
+    "id": "uncertain",
+    "en": "uncertain",
+    "tr": "belirsiz, emin olmayan",
+    "pos": "adjective",
+    "example": "The plan is still uncertain.",
+    "exampleTr": "Plan hâlâ belirsiz.",
+    "syn": [
+     "unsure"
+    ],
+    "ant": [
+     "certain"
+    ],
+    "level": "B1"
+   },
+   {
+    "id": "delay",
+    "en": "delay",
+    "tr": "geciktirmek; gecikme",
+    "pos": "verb",
+    "example": "Snow can delay the school bus.",
+    "exampleTr": "Kar okul otobüsünü geciktirebilir.",
+    "syn": [
+     "postpone"
+    ],
+    "ant": [],
+    "level": "B1"
+   },
+   {
+    "id": "cancel",
+    "en": "cancel",
+    "tr": "iptal etmek",
+    "pos": "verb",
+    "example": "The school may cancel the field trip.",
+    "exampleTr": "Okul gezi programını iptal edebilir.",
+    "syn": [],
+    "ant": [],
+    "level": "B1"
+   },
+   {
+    "id": "postpone",
+    "en": "postpone",
+    "tr": "ertelemek",
+    "pos": "verb",
+    "example": "They postponed the meeting until next week.",
+    "exampleTr": "Toplantıyı gelecek haftaya ertelediler.",
+    "syn": [
+     "delay"
+    ],
+    "ant": [],
+    "level": "B1"
+   },
+   {
+    "id": "risk",
+    "en": "risk",
+    "tr": "risk",
+    "pos": "noun",
+    "example": "Driving in snow is a risk.",
+    "exampleTr": "Karda araba kullanmak bir risk.",
+    "syn": [],
+    "ant": [],
+    "level": "B1"
+   },
+   {
+    "id": "available",
+    "en": "available",
+    "tr": "müsait, mevcut",
+    "pos": "adjective",
+    "example": "Is Ms. Rivera available on Monday?",
+    "exampleTr": "Ms. Rivera pazartesi müsait mi?",
+    "syn": [],
+    "ant": [
+     "unavailable"
+    ],
+    "level": "B1"
+   },
+   {
+    "id": "alternative",
+    "en": "alternative",
+    "tr": "alternatif; seçenek",
+    "pos": "noun",
+    "example": "We need an alternative plan.",
+    "exampleTr": "Alternatif bir plana ihtiyacımız var.",
+    "syn": [
+     "option"
+    ],
+    "ant": [],
+    "level": "B1"
+   },
+   {
+    "id": "confirm",
+    "en": "confirm",
+    "tr": "doğrulamak, onaylamak",
+    "pos": "verb",
+    "example": "Please confirm your time by email.",
+    "exampleTr": "Lütfen saatini e-postayla doğrula.",
+    "syn": [],
+    "ant": [],
+    "level": "B1"
+   }
+  ],
+  "reading": {
+   "title": "Plans for the weekend",
+   "text": "It is Wednesday, and Hafsa's plans for the weekend are still uncertain. She might go to a school fair on Saturday, or she might stay home and study. It depends on the weather and on her work schedule.\n\nThe district may call her this week. If a teacher is sick, the office could ask her to work as a substitute on Friday. Hafsa has not decided what to do if that happens. \"I might say yes,\" she tells Linda, \"but I'm not sure my English is good enough for a whole day.\" Linda laughs. \"You could ask Mr. Brown for the sub plan first. Perhaps he can explain everything.\"\n\nEmre has plans too. He may go to a basketball game with his friends on Saturday evening, but the tickets might be sold out. If that happens, he could stay home and cook dinner with his mom. He has not confirmed anything yet.\n\nLinda has the most uncertain plan of all. She is thinking about driving to the lake on Sunday. \"The forecast says it might rain, so I could postpone the trip until next week. There is a small chance of sun in the afternoon.\" She may also invite Hafsa, if there is room in the car.\n\n\"We shouldn't make any promises yet,\" Hafsa says. \"Let's decide on Friday evening. By then, we will know the weather and my schedule.\" Linda agrees. \"Good idea. Plans can change, and we have more than one option.\"\n",
+   "glossary": [
+    {
+     "en": "uncertain",
+     "tr": "belirsiz"
+    },
+    {
+     "en": "sold out",
+     "tr": "tükenmiş"
+    },
+    {
+     "en": "forecast",
+     "tr": "hava tahmini"
+    },
+    {
+     "en": "make a promise",
+     "tr": "söz vermek"
+    }
+   ],
+   "questions": [
+    {
+     "type": "mcq",
+     "q": "What might Hafsa do on Saturday?",
+     "options": [
+      "Drive to the lake",
+      "Go to a school fair or stay home and study",
+      "Work as a substitute",
+      "Play basketball"
+     ],
+     "answer": 1,
+     "whyTr": "Metin: 'She might go to a school fair on Saturday, or she might stay home and study.'",
+     "tag": "reading",
+     "level": "B1"
+    },
+    {
+     "type": "mcq",
+     "q": "Why might the district office call Hafsa?",
+     "options": [
+      "She forgot a form.",
+      "The school fair is canceled.",
+      "A teacher might be sick.",
+      "Mr. Brown needs a ride."
+     ],
+     "answer": 2,
+     "whyTr": "Metin: 'If a teacher is sick, the office could ask her to work as a substitute.'",
+     "tag": "reading",
+     "level": "B1"
+    },
+    {
+     "type": "mcq",
+     "q": "What could Emre do if the tickets are sold out?",
+     "options": [
+      "Go to the lake",
+      "Call the district",
+      "Study English",
+      "Stay home and cook dinner"
+     ],
+     "answer": 3,
+     "whyTr": "Metin: 'he could stay home and cook dinner with his mom.'",
+     "tag": "reading",
+     "level": "B1"
+    },
+    {
+     "type": "mcq",
+     "q": "When will they decide on their plans?",
+     "options": [
+      "On Friday evening",
+      "On Wednesday",
+      "On Saturday morning",
+      "On Sunday afternoon"
+     ],
+     "answer": 0,
+     "whyTr": "Metin: 'Let's decide on Friday evening.'",
+     "tag": "reading",
+     "level": "B1"
+    }
+   ]
+  }
+ },
+ "evening": {
+  "listening": {
+   "title": "Plans with Linda",
+   "script": [
+    {
+     "speaker": "Linda",
+     "text": "Hi, Hafsa. Are you free on Sunday?"
+    },
+    {
+     "speaker": "Hafsa",
+     "text": "I might be. Why?"
+    },
+    {
+     "speaker": "Linda",
+     "text": "I may drive to the lake. Do you want to come?"
+    },
+    {
+     "speaker": "Hafsa",
+     "text": "I would love to, but the district could call me for a sub job."
+    },
+    {
+     "speaker": "Linda",
+     "text": "On a Sunday?"
+    },
+    {
+     "speaker": "Hafsa",
+     "text": "No, I mean on Friday. If I work on Friday, I might be too tired for a trip."
+    },
+    {
+     "speaker": "Linda",
+     "text": "Okay. It might rain on Sunday anyway. The forecast is not clear."
+    },
+    {
+     "speaker": "Hafsa",
+     "text": "Then we could go next weekend instead. Perhaps it will be sunnier."
+    },
+    {
+     "speaker": "Linda",
+     "text": "Good idea. Or we could visit the museum if it rains. That is another option."
+    },
+    {
+     "speaker": "Hafsa",
+     "text": "I like that. Let me ask Emre. He may want to come with us."
+    },
+    {
+     "speaker": "Linda",
+     "text": "Great. Text me tonight and we will decide."
+    },
+    {
+     "speaker": "Hafsa",
+     "text": "Okay. I will confirm everything with you later."
+    }
+   ],
+   "questions": [
+    {
+     "type": "mcq",
+     "q": "Why might Hafsa be busy?",
+     "options": [
+      "She has a doctor's visit.",
+      "The district could call her for a sub job on Friday.",
+      "Emre needs help.",
+      "She has a class on Sunday."
+     ],
+     "answer": 1,
+     "whyTr": "Hafsa: 'the district could call me for a sub job... on Friday.'",
+     "tag": "listening",
+     "level": "B1"
+    },
+    {
+     "type": "mcq",
+     "q": "What does the forecast say about Sunday?",
+     "options": [
+      "It will snow.",
+      "It will be sunny.",
+      "It might rain.",
+      "It will be very hot."
+     ],
+     "answer": 2,
+     "whyTr": "Linda: 'It might rain on Sunday anyway.'",
+     "tag": "listening",
+     "level": "B1"
+    },
+    {
+     "type": "mcq",
+     "q": "What is another option for a rainy day?",
+     "options": [
+      "Going to the lake",
+      "Staying home",
+      "Visiting the school",
+      "Visiting the museum"
+     ],
+     "answer": 3,
+     "whyTr": "Linda: 'we could visit the museum if it rains.'",
+     "tag": "listening",
+     "level": "B1"
+    },
+    {
+     "type": "mcq",
+     "q": "What will Hafsa do next?",
+     "options": [
+      "Ask Emre if he wants to come",
+      "Call the district",
+      "Cancel the trip",
+      "Buy tickets"
+     ],
+     "answer": 0,
+     "whyTr": "Hafsa: 'Let me ask Emre.'",
+     "tag": "listening",
+     "level": "B1"
+    }
+   ]
+  },
+  "writing": {
+   "promptTr": "Hafta sonu için kesin olmayan planlarını yaz. might, may ve could kullan; neye bağlı olduğunu da belirt (80-120 kelime).",
+   "promptEn": "Write about your uncertain plans for the weekend. Use might, may and could.",
+   "frames": [
+    "On Saturday, I might ...",
+    "I may ... or I could ...",
+    "It depends on ...",
+    "If it rains, we could ..."
+   ],
+   "model": "This weekend my plans are not sure. On Saturday, I might go to the farmers market with Linda, or I may stay home and study English. It depends on the weather. If it rains, we could visit the museum instead. On Sunday, Emre might cook dinner, but he may be busy with his friends. The district could also call me for a sub job on Friday. If that happens, I might be too tired to go out. Perhaps I will decide on Friday evening.",
+   "checklistTr": [
+    "Might / may / could'tan sonra yalın fiil var mı (might goes değil)?",
+    "En az bir 'might not' veya 'may not' kullandın mı?",
+    "'It depends on' ile bir şart belirttin mi?",
+    "Cümleler büyük harfle başlıyor ve noktayla bitiyor mu?"
+   ],
+   "minWords": 80
+  },
+  "examSet": [
+   {
+    "type": "mcq",
+    "q": "It's cloudy. It ___ rain later.",
+    "options": [
+     "mights",
+     "might",
+     "might to",
+     "is might"
+    ],
+    "answer": 1,
+    "whyTr": "Olasılık: might + yalın fiil.",
+    "tag": "modals",
+    "level": "B1"
+   },
+   {
+    "type": "mcq",
+    "q": "Linda isn't here. She ___ be at lunch.",
+    "options": [
+     "mays",
+     "may to",
+     "may",
+     "is may"
+    ],
+    "answer": 2,
+    "whyTr": "May + yalın fiil.",
+    "tag": "modals",
+    "level": "B1"
+   },
+   {
+    "type": "mcq",
+    "q": "Which sentence is correct?",
+    "options": [
+     "They don't might come to the meeting.",
+     "They might not to come to the meeting.",
+     "They not might come to the meeting.",
+     "They might not come to the meeting."
+    ],
+    "answer": 3,
+    "whyTr": "Olumsuz: might not + yalın fiil.",
+    "tag": "negative-form",
+    "level": "B1"
+   },
+   {
+    "type": "mcq",
+    "q": "I can't ___ yet. I need more time to think.",
+    "options": [
+     "decide",
+     "confirm",
+     "depend",
+     "delay"
+    ],
+    "answer": 0,
+    "whyTr": "Karar vermek = decide.",
+    "tag": "vocab",
+    "level": "B1"
+   },
+   {
+    "type": "mcq",
+    "q": "If it snows, the school may ___ the field trip.",
+    "options": [
+     "introduce",
+     "cancel",
+     "expect",
+     "sign"
+    ],
+    "answer": 1,
+    "whyTr": "Kar yağarsa gezi iptal (cancel) edilebilir.",
+    "tag": "vocab",
+    "level": "B1"
+   },
+   {
+    "type": "mcq",
+    "q": "There is a small ___ of rain tonight.",
+    "options": [
+     "option",
+     "contract",
+     "chance",
+     "policy"
+    ],
+    "answer": 2,
+    "whyTr": "Yağmur ihtimali = a chance of rain.",
+    "tag": "vocab",
+    "level": "B1"
+   },
+   {
+    "type": "mcq",
+    "q": "Which word means almost the same as \"postpone\"?",
+    "options": [
+     "repeat",
+     "approve",
+     "finish",
+     "delay"
+    ],
+    "answer": 3,
+    "whyTr": "Postpone ve delay: ertelemek.",
+    "tag": "synonym",
+    "level": "B2"
+   },
+   {
+    "type": "mcq",
+    "q": "What is the opposite of \"possible\"?",
+    "options": [
+     "impossible",
+     "likely",
+     "easy",
+     "certain"
+    ],
+    "answer": 0,
+    "whyTr": "Possible'ın zıttı impossible.",
+    "tag": "antonym",
+    "level": "B2"
+   },
+   {
+    "type": "mcq",
+    "q": "I'll call you when I ___ home.",
+    "options": [
+     "will get",
+     "get",
+     "got",
+     "am get"
+    ],
+    "answer": 1,
+    "whyTr": "When'den sonra Present Simple.",
+    "tag": "future",
+    "level": "B1"
+   },
+   {
+    "type": "mcq",
+    "q": "By the time the bus came, we ___ for an hour.",
+    "options": [
+     "have waited",
+     "wait",
+     "had waited",
+     "were wait"
+    ],
+    "answer": 2,
+    "whyTr": "Otobüs gelmeden önce bir saat beklemişler: Past Perfect.",
+    "tag": "past-simple",
+    "level": "B1"
+   },
+   {
+    "type": "mcq",
+    "q": "Ali might move to Texas next year. His company has offered him a job there, but he has not decided yet. He may take it if the salary is higher, or he could stay and look for a new job here.\n\nWhat is true about Ali?",
+    "options": [
+     "He will move to Texas.",
+     "He lost his job.",
+     "He doesn't want a job.",
+     "He has not made a final decision."
+    ],
+    "answer": 3,
+    "whyTr": "Metin: 'he has not decided yet.'",
+    "tag": "reading",
+    "level": "B1"
+   },
+   {
+    "type": "mcq",
+    "q": "The school might close early on Friday because of a storm. Teachers will get an email by noon on Thursday. If the school closes, parents could pick up their children at one o'clock.\n\nWhen will teachers know the news?",
+    "options": [
+     "By noon on Thursday",
+     "On Friday morning",
+     "On Wednesday night",
+     "At one o'clock on Friday"
+    ],
+    "answer": 0,
+    "whyTr": "Metin: 'Teachers will get an email by noon on Thursday.'",
+    "tag": "reading",
+    "level": "B1"
+   }
+  ]
+ }
+}

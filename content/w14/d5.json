@@ -1,0 +1,936 @@
+{
+ "week": 14,
+ "day": 5,
+ "titleTr": "Sınıf yönetimi: stop, remember, try",
+ "theme": "classroom-management",
+ "morning": {
+  "grammar": {
+   "topic": "Verbs that change meaning: stop, remember, forget, try, regret",
+   "explainTr": [
+    "Bazı fiillerden sonra to + fiil ile -ing farklı anlam verir. stop + -ing: bir şeyi bırakmak (She stopped talking: konuşmayı kesti). stop + to + fiil: başka bir şey yapmak için durmak (She stopped to talk: konuşmak için durdu).",
+    "remember/forget + to + fiil: yapılacak şeyi hatırlamak/unutmak (Remember to lock the door). remember/forget + -ing: yapılmış şeyi hatırlamak/unutmamak (I remember locking it). regret + to + fiil: üzülerek söylemek (I regret to tell you...); regret + -ing: yaptığına pişman olmak (I regret shouting).",
+    "try + to + fiil: çabalamak, denemek zor olan şeyi (I tried to open it). try + -ing: sonucu görmek için bir yöntemi denemek (Try opening the window). Sınıf yönetiminde bu farkı sık kullanırsın."
+   ],
+   "compareTr": "Türkçede 'kapıyı kilitlemeyi unuttum' ve 'kapıyı kilitlediğimi unutmadım' fiil çekimiyle ayrılır. İngilizcede aynı fiil iki kalıpla farklı anlam verir: forget to lock (yapmadım), forget locking (yaptım ama unuttum).",
+   "table": [
+    [
+     "stop + -ing",
+     "bırakmak",
+     "He stopped talking."
+    ],
+    [
+     "stop + to + fiil",
+     "bir amaçla durmak",
+     "He stopped to answer the phone."
+    ],
+    [
+     "remember + to + fiil",
+     "yapılacak şey",
+     "Remember to sign in."
+    ],
+    [
+     "remember + -ing",
+     "geçmişte yapılan",
+     "I remember visiting that school."
+    ],
+    [
+     "try + to + fiil",
+     "çabalamak",
+     "I tried to open the door."
+    ],
+    [
+     "try + -ing",
+     "yöntem denemek",
+     "Try opening the window."
+    ]
+   ],
+   "examples": [
+    {
+     "en": "The teacher stopped talking and waited for silence.",
+     "tr": "Öğretmen konuşmayı kesip sessizliği bekledi."
+    },
+    {
+     "en": "Please remember to turn off the lights.",
+     "tr": "Lütfen ışıkları kapatmayı unutma."
+    },
+    {
+     "en": "I remember visiting my first classroom. It was tiny.",
+     "tr": "İlk sınıfımı ziyaret ettiğimi hatırlıyorum. Çok küçüktü."
+    },
+    {
+     "en": "The room was hot, so I tried opening the window.",
+     "tr": "Oda sıcaktı, bu yüzden pencereyi açmayı denedim."
+    },
+    {
+     "en": "She regrets shouting at the class.",
+     "tr": "Sınıfa bağırdığına pişman oluyor."
+    }
+   ],
+   "exercises": [
+    {
+     "type": "mcq",
+     "q": "The teacher stopped ___ because the class was noisy.",
+     "options": [
+      "talking",
+      "to talk",
+      "talk",
+      "to talking"
+     ],
+     "answer": 0,
+     "whyTr": "Konuşmayı kesmek: stop + -ing.",
+     "tag": "gerund-infinitive",
+     "level": "B2"
+    },
+    {
+     "type": "mcq",
+     "q": "Please remember ___ the lights when you leave.",
+     "options": [
+      "turning off",
+      "to turn off",
+      "turned off",
+      "turn off"
+     ],
+     "answer": 1,
+     "whyTr": "Yapılacak şey: remember + to + fiil.",
+     "tag": "gerund-infinitive",
+     "level": "B2"
+    },
+    {
+     "type": "mcq",
+     "q": "I remember ___ my first classroom. It was tiny.",
+     "options": [
+      "to visit",
+      "visit",
+      "visiting",
+      "visited"
+     ],
+     "answer": 2,
+     "whyTr": "Geçmişte yapılanı hatırlamak: remember + -ing.",
+     "tag": "gerund-infinitive",
+     "level": "B2"
+    },
+    {
+     "type": "order",
+     "promptTr": "Cümleyi sırala:",
+     "words": [
+      "the",
+      "stopped",
+      "She",
+      "answer",
+      "phone",
+      "to"
+     ],
+     "answer": "She stopped to answer the phone",
+     "whyTr": "Amaç anlatan 'to answer' fiilin devamıdır.",
+     "tag": "gerund-infinitive",
+     "level": "B2"
+    },
+    {
+     "type": "mcq",
+     "q": "I forgot ___ the permission slips, so the students couldn't go.",
+     "options": [
+      "collecting",
+      "collect",
+      "collected",
+      "to collect"
+     ],
+     "answer": 3,
+     "whyTr": "Yapılması gerekeni unutmak: forget + to + fiil.",
+     "tag": "gerund-infinitive",
+     "level": "B2"
+    },
+    {
+     "type": "mcq",
+     "q": "I'll never forget ___ the students sing on the last day.",
+     "options": [
+      "hearing",
+      "to hear",
+      "hear",
+      "heard"
+     ],
+     "answer": 0,
+     "whyTr": "Yaşanmış anıyı unutmamak: forget + -ing.",
+     "tag": "gerund-infinitive",
+     "level": "B2"
+    },
+    {
+     "type": "mcq",
+     "q": "The room was too hot. Try ___ the window and see if it helps.",
+     "options": [
+      "to open",
+      "opening",
+      "open",
+      "opened"
+     ],
+     "answer": 1,
+     "whyTr": "Yöntem denemek: try + -ing.",
+     "tag": "gerund-infinitive",
+     "level": "B2"
+    },
+    {
+     "type": "mcq",
+     "q": "I regret ___ you that the field trip is canceled.",
+     "options": [
+      "telling",
+      "tell",
+      "to tell",
+      "told"
+     ],
+     "answer": 2,
+     "whyTr": "Üzülerek bildirmek: regret + to + fiil.",
+     "tag": "gerund-infinitive",
+     "level": "B2"
+    },
+    {
+     "type": "mcq",
+     "q": "Hafsa shouted at the class yesterday and now feels sorry. Which is correct?",
+     "options": [
+      "She regrets to shout at the class.",
+      "She regrets shout at the class.",
+      "She regrets for shouting at the class.",
+      "She regrets shouting at the class."
+     ],
+     "answer": 3,
+     "whyTr": "Pişmanlık geçmiş eylemedir: regret + -ing.",
+     "tag": "gerund-infinitive",
+     "level": "B2"
+    },
+    {
+     "type": "order",
+     "promptTr": "Cümleyi sırala:",
+     "words": [
+      "the",
+      "remember",
+      "Please",
+      "to",
+      "sheet",
+      "attendance",
+      "sign"
+     ],
+     "answer": "Please remember to sign the attendance sheet",
+     "whyTr": "Yapılacak şey için 'remember to' kullanılır.",
+     "tag": "gerund-infinitive",
+     "level": "B2"
+    },
+    {
+     "type": "mcq",
+     "q": "I'm not used to ___ in front of a class.",
+     "options": [
+      "speaking",
+      "speak",
+      "speaks",
+      "spoke"
+     ],
+     "answer": 0,
+     "whyTr": "'Be used to' + -ing.",
+     "tag": "gerund-infinitive",
+     "level": "B2"
+    },
+    {
+     "type": "mcq",
+     "q": "Homework ___ late will lose points.",
+     "options": [
+      "handing in",
+      "handed in",
+      "hand in",
+      "hands in"
+     ],
+     "answer": 1,
+     "whyTr": "Ödev teslim edilir (edilgen): V3.",
+     "tag": "passive",
+     "level": "B2"
+    }
+   ]
+  },
+  "vocab": [
+   {
+    "id": "discipline",
+    "en": "discipline",
+    "tr": "disiplin",
+    "pos": "noun",
+    "example": "Good discipline begins with clear rules.",
+    "exampleTr": "İyi disiplin net kurallarla başlar.",
+    "syn": [],
+    "ant": [],
+    "level": "B2"
+   },
+   {
+    "id": "reinforce",
+    "en": "reinforce",
+    "tr": "pekiştirmek",
+    "pos": "verb",
+    "example": "Praise can reinforce good behavior.",
+    "exampleTr": "Övgü iyi davranışı pekiştirebilir.",
+    "syn": [
+     "strengthen"
+    ],
+    "ant": [],
+    "level": "B2"
+   },
+   {
+    "id": "redirect",
+    "en": "redirect",
+    "tr": "yönlendirmek",
+    "pos": "verb",
+    "example": "Quietly redirect a student who is off task.",
+    "exampleTr": "Görevden uzaklaşan öğrenciyi sessizce yönlendir.",
+    "syn": [],
+    "ant": [],
+    "level": "B2"
+   },
+   {
+    "id": "consistent",
+    "en": "consistent",
+    "tr": "tutarlı",
+    "pos": "adjective",
+    "example": "Be consistent so that children know what to expect.",
+    "exampleTr": "Çocuklar ne bekleyeceğini bilsin diye tutarlı ol.",
+    "syn": [
+     "steady"
+    ],
+    "ant": [
+     "inconsistent"
+    ],
+    "level": "B2"
+   },
+   {
+    "id": "expectation",
+    "en": "expectation",
+    "tr": "beklenti",
+    "pos": "noun",
+    "example": "Explain your expectations on the first day.",
+    "exampleTr": "Beklentilerini ilk gün açıkla.",
+    "syn": [],
+    "ant": [],
+    "level": "B2"
+   },
+   {
+    "id": "boundary",
+    "en": "boundary",
+    "tr": "sınır",
+    "pos": "noun",
+    "example": "Children feel safe when adults set clear boundaries.",
+    "exampleTr": "Büyükler net sınırlar koyunca çocuklar kendini güvende hisseder.",
+    "syn": [
+     "limit"
+    ],
+    "ant": [],
+    "level": "B2"
+   },
+   {
+    "id": "engage",
+    "en": "engage",
+    "tr": "ilgisini çekmek, katılımını sağlamak",
+    "pos": "verb",
+    "example": "A short game can engage the whole class.",
+    "exampleTr": "Kısa bir oyun bütün sınıfın ilgisini çekebilir.",
+    "syn": [
+     "involve"
+    ],
+    "ant": [],
+    "level": "B2"
+   },
+   {
+    "id": "focus",
+    "en": "focus",
+    "tr": "odaklanmak",
+    "pos": "verb",
+    "example": "It is hard to focus when the room is noisy.",
+    "exampleTr": "Oda gürültülüyken odaklanmak zordur.",
+    "syn": [
+     "concentrate"
+    ],
+    "ant": [],
+    "level": "B2"
+   },
+   {
+    "id": "monitor",
+    "en": "monitor",
+    "tr": "gözlemlemek, takip etmek",
+    "pos": "verb",
+    "example": "Walk around the room to monitor the groups.",
+    "exampleTr": "Grupları takip etmek için sınıfta dolaş.",
+    "syn": [
+     "observe"
+    ],
+    "ant": [],
+    "level": "B2"
+   },
+   {
+    "id": "misconduct",
+    "en": "misconduct",
+    "tr": "kötü davranış",
+    "pos": "noun",
+    "example": "Serious misconduct is reported to the principal.",
+    "exampleTr": "Ciddi kötü davranış müdüre bildirilir.",
+    "syn": [
+     "misbehavior"
+    ],
+    "ant": [],
+    "level": "B2"
+   },
+   {
+    "id": "warning",
+    "en": "warning",
+    "tr": "uyarı",
+    "pos": "noun",
+    "example": "A first mistake usually gets only a warning.",
+    "exampleTr": "İlk hata genellikle yalnızca uyarı alır.",
+    "syn": [],
+    "ant": [],
+    "level": "B2"
+   },
+   {
+    "id": "firm",
+    "en": "firm",
+    "tr": "kararlı, sağlam",
+    "pos": "adjective",
+    "example": "Use a firm but kind voice.",
+    "exampleTr": "Kararlı ama nazik bir ses tonu kullan.",
+    "syn": [
+     "strict"
+    ],
+    "ant": [
+     "lenient"
+    ],
+    "level": "B2"
+   },
+   {
+    "id": "tone",
+    "en": "tone",
+    "tr": "ses tonu",
+    "pos": "noun",
+    "example": "Your tone matters as much as your words.",
+    "exampleTr": "Ses tonun, kelimelerin kadar önemlidir.",
+    "syn": [],
+    "ant": [],
+    "level": "B2"
+   },
+   {
+    "id": "volume",
+    "en": "volume",
+    "tr": "ses seviyesi",
+    "pos": "noun",
+    "example": "Please lower the volume of your voices.",
+    "exampleTr": "Lütfen seslerinizin düzeyini azaltın.",
+    "syn": [],
+    "ant": [],
+    "level": "B2"
+   },
+   {
+    "id": "cue",
+    "en": "cue",
+    "tr": "işaret, ipucu",
+    "pos": "noun",
+    "example": "A raised hand is a quiet cue for silence.",
+    "exampleTr": "Kaldırılmış el, sessizlik için sessiz bir işarettir.",
+    "syn": [
+     "signal"
+    ],
+    "ant": [],
+    "level": "B2"
+   }
+  ],
+  "reading": {
+   "title": "Learning from a veteran teacher",
+   "text": "On Monday, Hafsa observed Ms. Dunn's third-grade class for two hours. She sat at the back with a notebook and tried writing down everything that helped the teacher keep the room calm.\n\nThe first thing she noticed was Ms. Dunn's routine. Every morning, students enter, hang their jackets, and begin a short writing task. \"If they are busy in the first five minutes, I rarely need to discipline anyone,\" Ms. Dunn explained later. Around ten o'clock, two boys began talking loudly. Instead of shouting, Ms. Dunn stopped speaking and stood quietly beside them. The boys stopped talking almost at once and looked up. She smiled and said, \"Thank you. Please remember to raise your hand when you have something to share.\"\n\nLater a girl kept forgetting to bring her pencil. Ms. Dunn did not scold her. She tried giving her a small job, handing out papers, and the girl became more focused. \"I tried reminding her many times,\" Ms. Dunn said, \"but a responsibility works better than a warning.\"\n\nHafsa also noticed how consistent the teacher was. The same expectations applied to everyone, and the consequences were always calm and predictable. When a student crossed the boundary, Ms. Dunn spoke in a firm but kind tone and offered a choice: finish the task now or finish it during recess. She never regretted setting clear limits. \"I remember trying to be everyone's friend during my first year,\" she said. \"It was exhausting, and the class got louder every day.\"\n\nAt the end of the day, Ms. Dunn gave Hafsa a piece of advice. \"When you substitute, don't forget to learn the names quickly. Use a seating chart and monitor the room by walking around. Stop and look at students who are off task rather than calling across the room. Most of the time, a quiet cue is enough.\"\n\nHafsa wrote the tips on the first page of her notebook. She realized that classroom management was not about being strict. It was about being predictable, patient, and prepared, and she felt she could learn all three.",
+   "glossary": [
+    {
+     "en": "observe",
+     "tr": "gözlemlemek"
+    },
+    {
+     "en": "scold",
+     "tr": "azarlamak"
+    },
+    {
+     "en": "responsibility",
+     "tr": "sorumluluk"
+    },
+    {
+     "en": "predictable",
+     "tr": "öngörülebilir"
+    },
+    {
+     "en": "seating chart",
+     "tr": "oturma planı"
+    },
+    {
+     "en": "off task",
+     "tr": "görevden uzak"
+    }
+   ],
+   "questions": [
+    {
+     "type": "mcq",
+     "q": "How did Ms. Dunn react when two boys talked loudly?",
+     "options": [
+      "She sent them to the principal.",
+      "She shouted louder than the boys.",
+      "She stopped speaking and stood quietly beside them.",
+      "She ended the lesson."
+     ],
+     "answer": 2,
+     "whyTr": "Metin: 'Ms. Dunn stopped speaking and stood quietly beside them'.",
+     "tag": "reading",
+     "level": "B2"
+    },
+    {
+     "type": "mcq",
+     "q": "What worked for the girl who forgot her pencil?",
+     "options": [
+      "A call to her parents",
+      "A new pencil box",
+      "A seat near the door",
+      "A small job, such as handing out papers"
+     ],
+     "answer": 3,
+     "whyTr": "Metin: 'She tried giving her a small job, handing out papers'.",
+     "tag": "reading",
+     "level": "B2"
+    },
+    {
+     "type": "mcq",
+     "q": "What choice did Ms. Dunn offer a student who crossed the boundary?",
+     "options": [
+      "Finish the task now or during recess",
+      "Go home or stay quiet",
+      "Call the parents or the nurse",
+      "Stand or sit"
+     ],
+     "answer": 0,
+     "whyTr": "Metin: 'finish the task now or finish it during recess'.",
+     "tag": "reading",
+     "level": "B2"
+    },
+    {
+     "type": "mcq",
+     "q": "What advice did Ms. Dunn give to substitutes?",
+     "options": [
+      "Always raise your voice.",
+      "Learn the names quickly and use a seating chart.",
+      "Avoid walking around the room.",
+      "Give no choices to students."
+     ],
+     "answer": 1,
+     "whyTr": "Metin: 'learn the names quickly. Use a seating chart'.",
+     "tag": "reading",
+     "level": "B2"
+    }
+   ]
+  }
+ },
+ "evening": {
+  "listening": {
+   "title": "After the first week",
+   "script": [
+    {
+     "speaker": "Hafsa",
+     "text": "Ms. Dunn, I tried using your quiet-cue trick today."
+    },
+    {
+     "speaker": "Ms. Dunn",
+     "text": "And how did it go?"
+    },
+    {
+     "speaker": "Hafsa",
+     "text": "Surprisingly well. I stopped talking, and the class became silent in ten seconds."
+    },
+    {
+     "speaker": "Ms. Dunn",
+     "text": "Wonderful. Did you remember to praise them afterward?"
+    },
+    {
+     "speaker": "Hafsa",
+     "text": "Unfortunately I forgot to do that. I only remembered when the bell rang."
+    },
+    {
+     "speaker": "Ms. Dunn",
+     "text": "Don't worry. Try thanking them first thing tomorrow."
+    },
+    {
+     "speaker": "Hafsa",
+     "text": "Good idea. One boy didn't stop whispering, though."
+    },
+    {
+     "speaker": "Ms. Dunn",
+     "text": "Try moving his seat closer to you. And don't scold him in front of everyone."
+    },
+    {
+     "speaker": "Hafsa",
+     "text": "I did that. I regret not doing it earlier."
+    },
+    {
+     "speaker": "Ms. Dunn",
+     "text": "You'll get better every day. Do you remember to write a note for the regular teacher?"
+    },
+    {
+     "speaker": "Hafsa",
+     "text": "Yes, I'm writing it now. I'll leave it on her desk."
+    },
+    {
+     "speaker": "Ms. Dunn",
+     "text": "Perfect. That's the best habit a substitute can have."
+    }
+   ],
+   "questions": [
+    {
+     "type": "mcq",
+     "q": "What happened when Hafsa stopped talking?",
+     "options": [
+      "The students started laughing.",
+      "The principal came in.",
+      "The class became silent in ten seconds.",
+      "The bell rang."
+     ],
+     "answer": 2,
+     "whyTr": "Hafsa: 'I stopped talking, and the class became silent in ten seconds.'",
+     "tag": "listening",
+     "level": "B2"
+    },
+    {
+     "type": "mcq",
+     "q": "What did Hafsa forget to do?",
+     "options": [
+      "Write a note",
+      "Move a boy's seat",
+      "Call a parent",
+      "Praise the class"
+     ],
+     "answer": 3,
+     "whyTr": "Hafsa: 'I forgot to do that' (praise them).",
+     "tag": "listening",
+     "level": "B2"
+    },
+    {
+     "type": "mcq",
+     "q": "What does Ms. Dunn suggest for the boy who whispers?",
+     "options": [
+      "Move his seat closer",
+      "Send him home",
+      "Scold him in front of the class",
+      "Ignore him"
+     ],
+     "answer": 0,
+     "whyTr": "Ms. Dunn: 'Try moving his seat closer to you.'",
+     "tag": "listening",
+     "level": "B2"
+    },
+    {
+     "type": "mcq",
+     "q": "What is Hafsa writing now?",
+     "options": [
+      "A letter to parents",
+      "A note for the regular teacher",
+      "A lesson plan",
+      "A grade report"
+     ],
+     "answer": 1,
+     "whyTr": "Hafsa: 'I'm writing it now. I'll leave it on her desk.'",
+     "tag": "listening",
+     "level": "B2"
+    }
+   ]
+  },
+  "writing": {
+   "promptTr": "Yeni bir vekil öğretmene sınıf yönetimi tavsiyeleri yaz. En az üç fiil kalıbı kullan: remember to, stop + -ing, try + -ing, regret + -ing, forget to. 120-180 kelime yaz.",
+   "promptEn": "Write advice to a new substitute teacher. Use at least three of these: remember to, stop + -ing, try + -ing, regret + -ing, forget to.",
+   "frames": [
+    "Remember to ...",
+    "Try ... -ing",
+    "I regret ... -ing",
+    "Don't forget to ..."
+   ],
+   "model": "Dear new substitute, here are some tips from my own experience. First, remember to arrive early and read the sub plan carefully. I once forgot to check the seating chart, and I regret losing the first ten minutes of the day. When the class gets noisy, try standing quietly in front of the room instead of shouting. Students usually stop talking after a few seconds. If one child keeps interrupting, stop and speak to him privately. Don't forget to praise good behavior as well. I remember seeing how a small compliment changed a whole lesson. At the end of the day, remember to leave a note for the regular teacher, and try describing both the good moments and the problems. If you follow these steps, you will probably feel more confident very quickly. Please come to my room if you need anything. I am always happy to help, and I know that nobody forgets their first day as a substitute. Good luck! Hafsa",
+   "checklistTr": [
+    "En az üç kalıp kullandın mı (remember to, try -ing, stop -ing...)?",
+    "Yapılacak şeyler için 'to + fiil', geçmiş deneyim için '-ing' kullandın mı?",
+    "Anlam farkını doğru yansıttın mı (stop to / stop -ing)?",
+    "Cümleler büyük harfle başlıyor mu?"
+   ],
+   "minWords": 120
+  },
+  "examSet": [
+   {
+    "type": "mcq",
+    "q": "I'll never forget ___ my son graduate.",
+    "options": [
+     "to see",
+     "see",
+     "seeing",
+     "saw"
+    ],
+    "answer": 2,
+    "whyTr": "Yaşanmış anı: forget + -ing.",
+    "tag": "gerund-infinitive",
+    "level": "B2"
+   },
+   {
+    "type": "mcq",
+    "q": "Remember ___ the door when you leave the room.",
+    "options": [
+     "locking",
+     "lock",
+     "locked",
+     "to lock"
+    ],
+    "answer": 3,
+    "whyTr": "Yapılacak şey: remember + to + fiil.",
+    "tag": "gerund-infinitive",
+    "level": "B2"
+   },
+   {
+    "type": "mcq",
+    "q": "The boy stopped ___ when the teacher entered.",
+    "options": [
+     "running",
+     "to run",
+     "run",
+     "runs"
+    ],
+    "answer": 0,
+    "whyTr": "Eylemi bırakmak: stop + -ing.",
+    "tag": "gerund-infinitive",
+    "level": "B2"
+   },
+   {
+    "type": "mcq",
+    "q": "She stopped ___ a sip of water because she was thirsty.",
+    "options": [
+     "taking",
+     "to take",
+     "take",
+     "taken"
+    ],
+    "answer": 1,
+    "whyTr": "Amaç belirtmek: stop + to + fiil.",
+    "tag": "gerund-infinitive",
+    "level": "B2"
+   },
+   {
+    "type": "mcq",
+    "q": "I regret ___ you that the trip is canceled.",
+    "options": [
+     "informing",
+     "inform",
+     "to inform",
+     "informed"
+    ],
+    "answer": 2,
+    "whyTr": "Üzülerek bildirmek: regret + to + fiil.",
+    "tag": "gerund-infinitive",
+    "level": "B2"
+   },
+   {
+    "type": "mcq",
+    "q": "I forgot ___ the form, so the nurse called me.",
+    "options": [
+     "signing",
+     "sign",
+     "signed",
+     "to sign"
+    ],
+    "answer": 3,
+    "whyTr": "Yapılması gerekeni unutmak: forget + to + fiil.",
+    "tag": "gerund-infinitive",
+    "level": "B2"
+   },
+   {
+    "type": "mcq",
+    "q": "She ___ be shy, but now she loves speaking in class.",
+    "options": [
+     "used to",
+     "is used to",
+     "gets used to",
+     "was used to"
+    ],
+    "answer": 0,
+    "whyTr": "Geçmiş durum: used to + yalın fiil.",
+    "tag": "past-simple",
+    "level": "B2"
+   },
+   {
+    "type": "mcq",
+    "q": "We are slowly getting used to ___ the new system.",
+    "options": [
+     "use",
+     "using",
+     "used",
+     "to use"
+    ],
+    "answer": 1,
+    "whyTr": "'Get used to' + -ing.",
+    "tag": "gerund-infinitive",
+    "level": "B2"
+   },
+   {
+    "type": "mcq",
+    "q": "Students ___ in the hall must be quiet.",
+    "options": [
+     "talked",
+     "talk",
+     "talking",
+     "to talk"
+    ],
+    "answer": 2,
+    "whyTr": "'Who are talking' kısalınca -ing.",
+    "tag": "relative-clauses",
+    "level": "B2"
+   },
+   {
+    "type": "mcq",
+    "q": "Ms. Dunn, ___ class I observed, is a veteran teacher.",
+    "options": [
+     "who",
+     "which",
+     "that",
+     "whose"
+    ],
+    "answer": 3,
+    "whyTr": "Aitlik için 'whose'.",
+    "tag": "relative-clauses",
+    "level": "B2"
+   },
+   {
+    "type": "mcq",
+    "q": "The teacher warned the class ___ near the window.",
+    "options": [
+     "not to stand",
+     "don't stand",
+     "not standing",
+     "to not standing"
+    ],
+    "answer": 0,
+    "whyTr": "'Warn' + kişi + not to + fiil.",
+    "tag": "reported-speech",
+    "level": "B2"
+   },
+   {
+    "type": "mcq",
+    "q": "A good teacher sets clear ___ and explains them.",
+    "options": [
+     "volumes",
+     "expectations",
+     "tones",
+     "interns"
+    ],
+    "answer": 1,
+    "whyTr": "Net beklentiler: expectations.",
+    "tag": "vocab",
+    "level": "B2"
+   },
+   {
+    "type": "mcq",
+    "q": "Rules must be ___. If you change them every day, children get confused.",
+    "options": [
+     "optional",
+     "fluent",
+     "consistent",
+     "awkward"
+    ],
+    "answer": 2,
+    "whyTr": "Her gün aynı olan kurallar: consistent.",
+    "tag": "vocab",
+    "level": "B2"
+   },
+   {
+    "type": "mcq",
+    "q": "What is the opposite of \"consistent\"?",
+    "options": [
+     "firm",
+     "calm",
+     "reliable",
+     "inconsistent"
+    ],
+    "answer": 3,
+    "whyTr": "Consistent'ın zıttı inconsistent.",
+    "tag": "antonym",
+    "level": "B2"
+   },
+   {
+    "type": "mcq",
+    "q": "Which word means almost the same as \"monitor\" (to watch carefully)?",
+    "options": [
+     "observe",
+     "ignore",
+     "reward",
+     "punish"
+    ],
+    "answer": 0,
+    "whyTr": "Monitor ve observe yakın anlamlıdır.",
+    "tag": "synonym",
+    "level": "B2"
+   },
+   {
+    "type": "mcq",
+    "q": "The teacher spoke in a ___ voice, but she was never angry.",
+    "options": [
+     "lonely",
+     "firm",
+     "mandatory",
+     "isolated"
+    ],
+    "answer": 1,
+    "whyTr": "Kararlı ses: firm.",
+    "tag": "vocab",
+    "level": "B2"
+   },
+   {
+    "type": "mcq",
+    "q": "Quietly ___ a student to the right activity is better than shouting.",
+    "options": [
+     "tolerating",
+     "retiring",
+     "redirecting",
+     "appointing"
+    ],
+    "answer": 2,
+    "whyTr": "Öğrenciyi yönlendirmek: redirect.",
+    "tag": "vocab",
+    "level": "B2"
+   },
+   {
+    "type": "mcq",
+    "q": "Mr. Hall stopped the lesson when the room became noisy. He waited for ten seconds without speaking. Then he said, \"Thank you for being ready.\" The students sat up, and he went on with the lesson.\n\nWhat did Mr. Hall do when the room became noisy?",
+    "options": [
+     "He shouted at the students.",
+     "He sent everyone to the principal.",
+     "He ended the class early.",
+     "He stopped the lesson and waited silently."
+    ],
+    "answer": 3,
+    "whyTr": "Metin: 'He waited for ten seconds without speaking'.",
+    "tag": "reading",
+    "level": "B2"
+   },
+   {
+    "type": "mcq",
+    "q": "Lena remembers feeling nervous on her first day as a substitute. She tried to hide it by speaking loudly, but the class laughed. Now she tries a calm voice, and she remembers to smile.\n\nWhat does Lena do now?",
+    "options": [
+     "She uses a calm voice and smiles.",
+     "She speaks loudly.",
+     "She hides from the class.",
+     "She avoids substitute jobs."
+    ],
+    "answer": 0,
+    "whyTr": "Metin: 'Now she tries a calm voice, and she remembers to smile.'",
+    "tag": "reading",
+    "level": "B2"
+   },
+   {
+    "type": "mcq",
+    "q": "Which sentence means the teacher paused in order to do something else?",
+    "options": [
+     "She stopped checking the attendance.",
+     "She stopped to check the attendance.",
+     "She stopped check the attendance.",
+     "She stops checked the attendance."
+    ],
+    "answer": 1,
+    "whyTr": "Amaç için durmak: stop + to + fiil.",
+    "tag": "gerund-infinitive",
+    "level": "B2"
+   }
+  ]
+ }
+}

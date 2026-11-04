@@ -1,0 +1,125 @@
+{
+  "week": 1,
+  "day": 3,
+  "titleTr": "Evim ve mahallem",
+  "theme": "home-neighborhood",
+  "morning": {
+    "grammar": {
+      "topic": "there is / there are + a / an / some / any + prepositions of place",
+      "explainTr": [
+        "Bir şeyin yerde var olduğunu söylerken 'there is' (tekil) ve 'there are' (çoğul) kullanırız. Tekil sayılabilir isimde a / an gelir: There is a bank. Çoğulda 'some' gelir: There are some chairs.",
+        "Olumsuz ve soruda 'some' yerine 'any' kullanılır: There aren't any stores. Are there any parks? Yer bildiren kelimeler: in (içinde), on (üstünde), under (altında), next to (yanında), between (arasında), across from (karşısında)."
+      ],
+      "compareTr": "Türkçede 'Evde bir masa var' dersin; 'var' sona gelir. İngilizcede 'var' kısmı başa gelir: 'There is a table in the house.' Olumsuzda 'yok' için de aynı yapı kullanılır: 'There isn't a table.'",
+      "table": [
+        ["there is", "a / an + tekil", "There is a bank."],
+        ["there are", "some + çoğul", "There are some chairs."],
+        ["olumsuz", "isn't a / aren't any", "There aren't any stores."],
+        ["soru", "Is there a ...? Are there any ...?", "Is there a pharmacy?"],
+        ["in / on / under", "içinde / üstünde / altında", "The cat is under the table."],
+        ["next to / between / across from", "yanında / arasında / karşısında", "The bank is across from the park."]
+      ],
+      "examples": [
+        {"en": "There is a park near my apartment.", "tr": "Dairemin yakınında bir park var."},
+        {"en": "There are two bedrooms.", "tr": "İki yatak odası var."},
+        {"en": "There aren't any chairs in the kitchen.", "tr": "Mutfakta hiç sandalye yok."},
+        {"en": "Is there a pharmacy next to the bank?", "tr": "Bankanın yanında eczane var mı?"}
+      ],
+      "exercises": [
+        {"type": "mcq", "q": "There ___ a bank on Main Street.", "options": ["is", "are", "am"], "answer": 0, "whyTr": "A bank tekil; 'there is' kullanılır.", "tag": "there-is", "level": "A1"},
+        {"type": "mcq", "q": "There ___ two bedrooms.", "options": ["is", "are", "be"], "answer": 1, "whyTr": "Two bedrooms çoğul; 'there are' gelir.", "tag": "there-is", "level": "A1"},
+        {"type": "mcq", "q": "There is ___ apple on the table.", "options": ["a", "an", "some"], "answer": 1, "whyTr": "Apple sesli harfle başlar; 'an' kullanılır.", "tag": "articles", "level": "A1"},
+        {"type": "mcq", "q": "There aren't ___ chairs in the kitchen.", "options": ["a", "any", "an"], "answer": 1, "whyTr": "Olumsuz çoğul cümlede 'any' kullanılır.", "tag": "there-is", "level": "A1"},
+        {"type": "mcq", "q": "Is there ___ pharmacy near here?", "options": ["a", "an", "any"], "answer": 0, "whyTr": "Pharmacy tekil ve 'p' ile başlar; 'a' gelir.", "tag": "articles", "level": "A1"},
+        {"type": "mcq", "q": "The park is ___ the pharmacy and the bank.", "options": ["on", "between", "under"], "answer": 1, "whyTr": "İki şeyin arasında 'between' kullanılır.", "tag": "prepositions-place", "level": "A1"},
+        {"type": "order", "promptTr": "Cümleyi sırala:", "words": ["is", "There", "a", "park", "near", "my", "apartment"], "answer": "There is a park near my apartment", "whyTr": "Cümle 'There is' ile başlar.", "tag": "word-order", "level": "A1"},
+        {"type": "order", "promptTr": "Soruyu sırala:", "words": ["Are", "there", "any", "stores", "on", "this", "street"], "answer": "Are there any stores on this street", "whyTr": "Soruda 'Are' başa geçer, çoğulda 'any' gelir.", "tag": "question-form", "level": "A1"},
+        {"type": "order", "promptTr": "Cümleyi sırala:", "words": ["The", "bakery", "is", "next", "to", "the", "bank"], "answer": "The bakery is next to the bank", "whyTr": "'next to' iki kelimeyle birlikte 'yanında' demektir.", "tag": "prepositions-place", "level": "A1"},
+        {"type": "order", "promptTr": "Cümleyi sırala:", "words": ["isn't", "There", "a", "window", "in", "the", "bedroom"], "answer": "There isn't a window in the bedroom", "whyTr": "Olumsuz: There isn't + a + isim.", "tag": "negative-form", "level": "A1"},
+        {"type": "fill", "q": "There are ___ apples in the kitchen.", "accept": ["some"], "hintTr": "olumlu, çoğul", "whyTr": "Olumlu çoğul cümlede 'some' kullanılır.", "tag": "there-is", "level": "A1"},
+        {"type": "fill", "q": "The cat is ___ the table. I can see it on the floor.", "accept": ["under"], "hintTr": "masanın altında", "whyTr": "Altında = 'under'.", "tag": "prepositions-place", "level": "A1"}
+      ]
+    },
+    "vocab": [
+      {"id": "apartment", "en": "apartment", "tr": "daire", "pos": "noun", "example": "Hafsa's apartment is on the second floor.", "exampleTr": "Hafsa'nın dairesi ikinci katta.", "syn": ["flat"], "ant": [], "level": "A1"},
+      {"id": "kitchen", "en": "kitchen", "tr": "mutfak", "pos": "noun", "example": "There is a small table in the kitchen.", "exampleTr": "Mutfakta küçük bir masa var.", "syn": [], "ant": [], "level": "A1"},
+      {"id": "bedroom", "en": "bedroom", "tr": "yatak odası", "pos": "noun", "example": "Emre's bedroom is next to the bathroom.", "exampleTr": "Emre'nin yatak odası banyonun yanında.", "syn": [], "ant": [], "level": "A1"},
+      {"id": "bathroom", "en": "bathroom", "tr": "banyo", "pos": "noun", "example": "There is a mirror in the bathroom.", "exampleTr": "Banyoda bir ayna var.", "syn": [], "ant": [], "level": "A1"},
+      {"id": "window", "en": "window", "tr": "pencere", "pos": "noun", "example": "Please open the window.", "exampleTr": "Lütfen pencereyi aç.", "syn": [], "ant": [], "level": "A1"},
+      {"id": "chair", "en": "chair", "tr": "sandalye", "pos": "noun", "example": "There are four chairs around the table.", "exampleTr": "Masanın etrafında dört sandalye var.", "syn": [], "ant": [], "level": "A1"},
+      {"id": "street", "en": "street", "tr": "sokak, cadde", "pos": "noun", "example": "My street is quiet at night.", "exampleTr": "Sokağım geceleri sessiz.", "syn": ["road"], "ant": [], "level": "A1"},
+      {"id": "corner", "en": "corner", "tr": "köşe", "pos": "noun", "example": "The bakery is on the corner.", "exampleTr": "Fırın köşede.", "syn": [], "ant": [], "level": "A1"},
+      {"id": "grocery", "en": "grocery store", "tr": "market", "pos": "noun", "example": "The grocery store is across from my building.", "exampleTr": "Market binamın karşısında.", "syn": ["supermarket"], "ant": [], "level": "A1"},
+      {"id": "pharmacy", "en": "pharmacy", "tr": "eczane", "pos": "noun", "example": "I buy medicine at the pharmacy.", "exampleTr": "İlacı eczaneden alıyorum.", "syn": [], "ant": [], "level": "A1"},
+      {"id": "park", "en": "park", "tr": "park", "pos": "noun", "example": "Emre plays in the park on Sunday.", "exampleTr": "Emre pazar günü parkta oynuyor.", "syn": [], "ant": [], "level": "A1"},
+      {"id": "near", "en": "near", "tr": "yakın", "pos": "adjective", "example": "The school is near our house.", "exampleTr": "Okul evimize yakın.", "syn": ["close"], "ant": ["far"], "level": "A1"},
+      {"id": "far", "en": "far", "tr": "uzak", "pos": "adjective", "example": "The bank is not far from here.", "exampleTr": "Banka buradan uzak değil.", "syn": [], "ant": ["near"], "level": "A1"},
+      {"id": "clean", "en": "clean", "tr": "temiz", "pos": "adjective", "example": "Her kitchen is always clean.", "exampleTr": "Mutfağı her zaman temiz.", "syn": [], "ant": ["dirty"], "level": "A1"},
+      {"id": "dirty", "en": "dirty", "tr": "kirli", "pos": "adjective", "example": "The windows are dirty.", "exampleTr": "Pencereler kirli.", "syn": [], "ant": ["clean"], "level": "A1"}
+    ],
+    "reading": {
+      "title": "Hafsa's apartment and street",
+      "text": "Hafsa's apartment is on the second floor. There is a small kitchen and there are two bedrooms. There is one bathroom. There are two big windows in the living room. The apartment is clean and bright.\n\nHer street is quiet. There is a grocery store across from her building. There is a pharmacy next to the grocery store. There is a park between the pharmacy and the bank. There aren't any restaurants on the street, but there is a bakery on the corner.\n\nHafsa likes her new neighborhood. Everything is near, and her neighbors are nice. On Sunday, she and Emre walk to the park.",
+      "glossary": [
+        {"en": "floor", "tr": "kat"},
+        {"en": "living room", "tr": "oturma odası"},
+        {"en": "bright", "tr": "aydınlık"},
+        {"en": "restaurant", "tr": "restoran"},
+        {"en": "neighborhood", "tr": "mahalle"}
+      ],
+      "questions": [
+        {"type": "mcq", "q": "Where is the grocery store?", "options": ["Next to the bank", "Across from Hafsa's building", "On the corner"], "answer": 1, "whyTr": "'There is a grocery store across from her building.'", "tag": "reading", "level": "A1"},
+        {"type": "mcq", "q": "What is between the pharmacy and the bank?", "options": ["A bakery", "A restaurant", "A park"], "answer": 2, "whyTr": "'There is a park between the pharmacy and the bank.'", "tag": "reading", "level": "A1"},
+        {"type": "mcq", "q": "How many bedrooms are there in Hafsa's apartment?", "options": ["One", "Two", "Three"], "answer": 1, "whyTr": "'There are two bedrooms.'", "tag": "reading", "level": "A1"},
+        {"type": "mcq", "q": "What is on the corner?", "options": ["A bakery", "A pharmacy", "A park"], "answer": 0, "whyTr": "'There is a bakery on the corner.'", "tag": "reading", "level": "A1"}
+      ]
+    }
+  },
+  "evening": {
+    "listening": {
+      "title": "Hafsa asks Linda about the neighborhood",
+      "script": [
+        {"speaker": "Hafsa", "text": "Linda, is there a good grocery store near here?"},
+        {"speaker": "Linda", "text": "Yes, there is. Fresh Market is on Oak Street. It is across from the bank."},
+        {"speaker": "Hafsa", "text": "Is it far from here?"},
+        {"speaker": "Linda", "text": "No, it isn't. It is five minutes from your apartment."},
+        {"speaker": "Hafsa", "text": "Great. Are there any pharmacies near here?"},
+        {"speaker": "Linda", "text": "Yes, there is a pharmacy next to the grocery store."},
+        {"speaker": "Hafsa", "text": "And is there a park? Emre likes to play outside."},
+        {"speaker": "Linda", "text": "There is a nice park next to the school. It is very clean."},
+        {"speaker": "Hafsa", "text": "Perfect. Are there any buses on Sunday?"},
+        {"speaker": "Linda", "text": "No, there aren't any buses on Sunday. You can walk, though."},
+        {"speaker": "Hafsa", "text": "Thank you for your help, Linda."},
+        {"speaker": "Linda", "text": "Anytime. We are neighbors!"}
+      ],
+      "questions": [
+        {"type": "mcq", "q": "Where is Fresh Market?", "options": ["Next to the school", "Across from the bank", "Next to the park"], "answer": 1, "whyTr": "'It is across from the bank.'", "tag": "listening", "level": "A1"},
+        {"type": "mcq", "q": "How far is the grocery store from Hafsa's apartment?", "options": ["Five minutes", "Fifteen minutes", "One hour"], "answer": 0, "whyTr": "'It is five minutes from your apartment.'", "tag": "listening", "level": "A1"},
+        {"type": "mcq", "q": "What is next to the grocery store?", "options": ["A bakery", "A pharmacy", "A park"], "answer": 1, "whyTr": "'There is a pharmacy next to the grocery store.'", "tag": "listening", "level": "A1"},
+        {"type": "mcq", "q": "Where is the park?", "options": ["Next to the school", "Across from the bank", "On the corner"], "answer": 0, "whyTr": "'There is a nice park next to the school.'", "tag": "listening", "level": "A1"}
+      ]
+    },
+    "writing": {
+      "promptTr": "Evini ve mahalleni 4-5 cümleyle anlat.",
+      "promptEn": "Describe your home and your neighborhood in 4-5 sentences.",
+      "frames": ["There is a ... in my apartment.", "There are two ...", "There isn't a ...", "The ... is next to the ...", "There aren't any ..."],
+      "model": "My apartment is small. There is a kitchen and there are two bedrooms. There isn't a balcony. There is a grocery store across from my building. The park is next to the school.",
+      "checklistTr": ["There is / There are doğru kullandın mı?", "Çoğul isimlerle 'are' ve 'some / any' kullandın mı?", "En az bir yer bildiren kelime (next to, across from, between) yazdın mı?"],
+      "minWords": 25
+    },
+    "examSet": [
+      {"type": "mcq", "q": "There ___ three chairs in the kitchen.", "options": ["is", "are", "isn't"], "answer": 1, "whyTr": "Three chairs çoğul; 'are' gelir.", "tag": "there-is", "level": "A1"},
+      {"type": "mcq", "q": "There ___ any milk in the kitchen.", "options": ["isn't", "aren't", "not"], "answer": 0, "whyTr": "Milk sayılamaz isim; tekil gibi 'isn't' kullanılır.", "tag": "there-is", "level": "A2"},
+      {"type": "mcq", "q": "There is ___ umbrella near the door.", "options": ["a", "an", "some"], "answer": 1, "whyTr": "Umbrella sesli harfle başlar; 'an' gelir.", "tag": "articles", "level": "A1"},
+      {"type": "mcq", "q": "The bed is ___ the window and the door.", "options": ["between", "on", "under"], "answer": 0, "whyTr": "İki şeyin arası = 'between'.", "tag": "prepositions-place", "level": "A1"},
+      {"type": "mcq", "q": "My shoes are ___ the bed. I can't see them.", "options": ["on", "under", "across from"], "answer": 1, "whyTr": "Göremiyorsan ayakkabılar yatağın altında; 'under'.", "tag": "prepositions-place", "level": "A2"},
+      {"type": "mcq", "q": "___ there any stores near your house?", "options": ["Is", "Are", "Do"], "answer": 1, "whyTr": "Stores çoğul; 'Are there any ...?' kullanılır.", "tag": "question-form", "level": "A1"},
+      {"type": "mcq", "q": "You cook food in the ___.", "options": ["bathroom", "bedroom", "kitchen"], "answer": 2, "whyTr": "Yemek mutfakta (kitchen) yapılır.", "tag": "vocab", "level": "A1"},
+      {"type": "mcq", "q": "You buy medicine at a ___.", "options": ["pharmacy", "park", "corner"], "answer": 0, "whyTr": "İlaç eczaneden (pharmacy) alınır.", "tag": "vocab", "level": "A1"},
+      {"type": "mcq", "q": "Which word is the opposite of 'clean'?", "options": ["near", "dirty", "far"], "answer": 1, "whyTr": "clean (temiz) ↔ dirty (kirli).", "tag": "antonym", "level": "A1"},
+      {"type": "mcq", "q": "Which word means the same as 'near'?", "options": ["close", "far", "small"], "answer": 0, "whyTr": "near ve close eş anlamlıdır (yakın).", "tag": "synonym", "level": "A2"},
+      {"type": "mcq", "q": "My apartment is small. There is one bedroom and one bathroom. There is a big window in the living room. There isn't a kitchen table.\n\nWhat is in the living room?", "options": ["A kitchen table", "A big window", "Two bedrooms"], "answer": 1, "whyTr": "'There is a big window in the living room.'", "tag": "reading", "level": "A1"},
+      {"type": "mcq", "q": "Our street is nice. The bank is across from the park. The bakery is next to the bank. There isn't a pharmacy, but there is a grocery store on the corner.\n\nWhere is the bakery?", "options": ["Across from the park", "Next to the bank", "On the corner"], "answer": 1, "whyTr": "'The bakery is next to the bank.'", "tag": "reading", "level": "A2"}
+    ]
+  }
+}

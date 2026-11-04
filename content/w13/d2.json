@@ -1,0 +1,910 @@
+{
+ "week": 13,
+ "day": 2,
+ "titleTr": "Kararlar ve sonuçları: karışık koşullar",
+ "theme": "decisions-career",
+ "morning": {
+  "grammar": {
+   "topic": "Mixed conditionals",
+   "explainTr": [
+    "Karışık koşul, geçmişteki bir olayın şimdiki sonucunu anlatır: If I had studied nursing, I would be a nurse now. (Geçmişte okumadım, bu yüzden şimdi hemşire değilim.)",
+    "Ters yönde de olur: şimdiki bir özellik geçmişte farklı bir sonuç verirdi: If I were more confident, I would have applied last year.",
+    "Kural: if kısmı ve sonuç kısmı farklı zamanlardan olabilir. Önce hangi zamanı anlatmak istediğini düşün, sonra yapıyı seç."
+   ],
+   "compareTr": "Türkçede 'Okusaydım şimdi hemşire olurdum' diyebilirsin; zaman ek ile anlaşılır. İngilizcede her bölüm kendi zamanını ister: geçmiş için had + V3, şimdi için would + fiil.",
+   "table": [
+    [
+     "Geçmiş neden → şimdiki sonuç",
+     "If + had + V3, would + fiil",
+     "If I had studied, I would be a teacher now."
+    ],
+    [
+     "Şimdiki özellik → geçmiş sonuç",
+     "If + past simple, would have + V3",
+     "If I were braver, I would have called."
+    ],
+    [
+     "Olumsuz",
+     "If + hadn't + V3, wouldn't + fiil",
+     "If I hadn't moved, I wouldn't be here."
+    ],
+    [
+     "Karşılaştır: saf 3. koşul",
+     "If + had + V3, would have + V3",
+     "If I had studied, I would have passed."
+    ]
+   ],
+   "examples": [
+    {
+     "en": "If Hafsa had finished her degree, she would be a teacher now.",
+     "tr": "Hafsa diplomasını bitirmiş olsaydı şimdi öğretmen olurdu."
+    },
+    {
+     "en": "If I were more patient, I wouldn't have shouted at him.",
+     "tr": "Daha sabırlı biri olsaydım ona bağırmazdım."
+    },
+    {
+     "en": "If we hadn't moved here, I wouldn't know Linda.",
+     "tr": "Buraya taşınmasaydık Linda'yı tanımazdım."
+    }
+   ],
+   "exercises": [
+    {
+     "type": "mcq",
+     "q": "If I had studied English as a child, I ___ fluent now.",
+     "options": [
+      "would be",
+      "would have been",
+      "will be",
+      "had been"
+     ],
+     "answer": 0,
+     "whyTr": "Geçmiş neden, şimdiki sonuç: if + had + V3, would + fiil.",
+     "tag": "modals",
+     "level": "B2"
+    },
+    {
+     "type": "mcq",
+     "q": "If she ___ more confident, she would have applied for the job last year.",
+     "options": [
+      "has been",
+      "were",
+      "is",
+      "would be"
+     ],
+     "answer": 1,
+     "whyTr": "Şimdiki özellik, geçmiş sonuç: if + past (were), would have + V3.",
+     "tag": "modals",
+     "level": "B2"
+    },
+    {
+     "type": "order",
+     "promptTr": "Cümleyi sırala:",
+     "words": [
+      "I",
+      "would",
+      "If",
+      "have",
+      "course,",
+      "taken",
+      "I",
+      "certificate",
+      "had",
+      "a",
+      "now",
+      "that"
+     ],
+     "answer": "If I had taken that course, I would have a certificate now",
+     "whyTr": "Geçmiş neden + şimdiki sonuç: had + V3, would + fiil.",
+     "tag": "modals",
+     "level": "B2"
+    },
+    {
+     "type": "mcq",
+     "q": "If Emre hadn't moved to Texas, he ___ with us now.",
+     "options": [
+      "would have lived",
+      "will live",
+      "had lived",
+      "would be living"
+     ],
+     "answer": 3,
+     "whyTr": "Geçmişteki karar, şimdiki durum: would be living.",
+     "tag": "modals",
+     "level": "B2"
+    },
+    {
+     "type": "mcq",
+     "q": "If I ___ a better memory, I wouldn't have forgotten the meeting.",
+     "options": [
+      "had",
+      "have",
+      "would have",
+      "will have"
+     ],
+     "answer": 0,
+     "whyTr": "Süregelen özellik (şimdi): if + past simple; sonuç geçmişte: wouldn't have forgotten.",
+     "tag": "modals",
+     "level": "B2"
+    },
+    {
+     "type": "mcq",
+     "q": "Which sentence is a MIXED conditional?",
+     "options": [
+      "If I leave school, I will be unemployed.",
+      "If I had left school, I would be unemployed today.",
+      "If I left school, I would be unemployed.",
+      "If I had left school, I would have been unemployed."
+     ],
+     "answer": 1,
+     "whyTr": "Geçmişteki neden (had left) ile şimdiki sonuç (would be) karışık koşuldur.",
+     "tag": "modals",
+     "level": "B2"
+    },
+    {
+     "type": "order",
+     "promptTr": "Cümleyi sırala:",
+     "words": [
+      "would",
+      "were",
+      "he",
+      "patient,",
+      "have",
+      "he",
+      "If",
+      "waited",
+      "us",
+      "more",
+      "for"
+     ],
+     "answer": "If he were more patient, he would have waited for us",
+     "whyTr": "Şimdiki özellik + geçmiş sonuç.",
+     "tag": "modals",
+     "level": "B2"
+    },
+    {
+     "type": "mcq",
+     "q": "If Hafsa had not moved to the U.S., she ___ here today.",
+     "options": [
+      "wouldn't have been",
+      "won't be",
+      "hadn't been",
+      "wouldn't be"
+     ],
+     "answer": 3,
+     "whyTr": "Karar geçmişte, sonuç şimdi: wouldn't be.",
+     "tag": "modals",
+     "level": "B2"
+    },
+    {
+     "type": "mcq",
+     "q": "If I weren't so busy, I ___ your call yesterday.",
+     "options": [
+      "would have answered",
+      "would answer",
+      "will answer",
+      "had answered"
+     ],
+     "answer": 0,
+     "whyTr": "Şimdiki durum + geçmiş sonuç: would have answered.",
+     "tag": "modals",
+     "level": "B2"
+    },
+    {
+     "type": "mcq",
+     "q": "If you ___ the form on time, you would have a place in the class now.",
+     "options": [
+      "submitted",
+      "had submitted",
+      "submit",
+      "would submit"
+     ],
+     "answer": 1,
+     "whyTr": "Geçmiş neden: had submitted.",
+     "tag": "modals",
+     "level": "B2"
+    },
+    {
+     "type": "fill",
+     "q": "If I had finished my degree, I ___ be a teacher now.",
+     "accept": [
+      "would"
+     ],
+     "hintTr": "olurdum",
+     "whyTr": "Karışık koşul: sonuç şimdiki zaman, would + fiil.",
+     "tag": "modals",
+     "level": "B2"
+    },
+    {
+     "type": "fill",
+     "q": "If she were braver, she would ___ spoken to the principal.",
+     "accept": [
+      "have"
+     ],
+     "hintTr": "yardımcı fiil",
+     "whyTr": "Geçmiş sonuç: would have + V3.",
+     "tag": "modals",
+     "level": "B2"
+    }
+   ]
+  },
+  "vocab": [
+   {
+    "id": "profession",
+    "en": "profession",
+    "tr": "meslek",
+    "pos": "noun",
+    "example": "Teaching is a respected profession.",
+    "exampleTr": "Öğretmenlik saygın bir meslektir.",
+    "syn": [
+     "occupation"
+    ],
+    "ant": [],
+    "level": "B2"
+   },
+   {
+    "id": "internship",
+    "en": "internship",
+    "tr": "staj",
+    "pos": "noun",
+    "example": "She did a short internship at an elementary school.",
+    "exampleTr": "Bir ilkokulda kısa bir staj yaptı.",
+    "syn": [],
+    "ant": [],
+    "level": "B2"
+   },
+   {
+    "id": "advisor",
+    "en": "advisor",
+    "tr": "danışman",
+    "pos": "noun",
+    "example": "The school advisor gave me good advice.",
+    "exampleTr": "Okul danışmanı bana iyi tavsiyeler verdi.",
+    "syn": [],
+    "ant": [],
+    "level": "B2"
+   },
+   {
+    "id": "vocational",
+    "en": "vocational",
+    "tr": "mesleki",
+    "pos": "adjective",
+    "example": "He took a vocational course in cooking.",
+    "exampleTr": "Aşçılık üzerine mesleki bir kurs aldı.",
+    "syn": [],
+    "ant": [],
+    "level": "B2"
+   },
+   {
+    "id": "skilled",
+    "en": "skilled",
+    "tr": "becerikli, kalifiye",
+    "pos": "adjective",
+    "example": "A skilled teacher keeps the class calm.",
+    "exampleTr": "Becerikli bir öğretmen sınıfı sakin tutar.",
+    "syn": [
+     "expert"
+    ],
+    "ant": [
+     "unskilled"
+    ],
+    "level": "B2"
+   },
+   {
+    "id": "applicant",
+    "en": "applicant",
+    "tr": "başvuran kişi",
+    "pos": "noun",
+    "example": "Every applicant must send two references.",
+    "exampleTr": "Her başvuran iki referans göndermelidir.",
+    "syn": [
+     "candidate"
+    ],
+    "ant": [],
+    "level": "B2"
+   },
+   {
+    "id": "promotion",
+    "en": "promotion",
+    "tr": "terfi",
+    "pos": "noun",
+    "example": "She got a promotion last month.",
+    "exampleTr": "Geçen ay terfi aldı.",
+    "syn": [],
+    "ant": [],
+    "level": "B2"
+   },
+   {
+    "id": "income",
+    "en": "income",
+    "tr": "gelir",
+    "pos": "noun",
+    "example": "Her income is low, so she needs help with tuition.",
+    "exampleTr": "Geliri düşük, bu yüzden okul ücretinde yardıma ihtiyacı var.",
+    "syn": [
+     "earnings"
+    ],
+    "ant": [],
+    "level": "B2"
+   },
+   {
+    "id": "loan",
+    "en": "loan",
+    "tr": "borç, kredi",
+    "pos": "noun",
+    "example": "He took out a loan to pay for college.",
+    "exampleTr": "Üniversite için kredi çekti.",
+    "syn": [],
+    "ant": [],
+    "level": "B2"
+   },
+   {
+    "id": "scholarship",
+    "en": "scholarship",
+    "tr": "burs",
+    "pos": "noun",
+    "example": "Emre won a scholarship to a good school.",
+    "exampleTr": "Emre iyi bir okula burs kazandı.",
+    "syn": [],
+    "ant": [],
+    "level": "B2"
+   },
+   {
+    "id": "diploma",
+    "en": "diploma",
+    "tr": "diploma",
+    "pos": "noun",
+    "example": "She received her high school diploma in 2005.",
+    "exampleTr": "Lise diplomasını 2005'te aldı.",
+    "syn": [],
+    "ant": [],
+    "level": "B2"
+   },
+   {
+    "id": "trainee",
+    "en": "trainee",
+    "tr": "stajyer, eğitim gören kişi",
+    "pos": "noun",
+    "example": "A trainee works and learns at the same time.",
+    "exampleTr": "Stajyer hem çalışır hem öğrenir.",
+    "syn": [],
+    "ant": [],
+    "level": "B2"
+   },
+   {
+    "id": "apprentice",
+    "en": "apprentice",
+    "tr": "çırak",
+    "pos": "noun",
+    "example": "The apprentice learned from an experienced baker.",
+    "exampleTr": "Çırak deneyimli bir fırıncıdan öğrendi.",
+    "syn": [],
+    "ant": [],
+    "level": "B2"
+   },
+   {
+    "id": "fluent",
+    "en": "fluent",
+    "tr": "akıcı",
+    "pos": "adjective",
+    "example": "She is fluent in three languages.",
+    "exampleTr": "Üç dilde akıcı konuşuyor.",
+    "syn": [],
+    "ant": [],
+    "level": "B2"
+   },
+   {
+    "id": "profit",
+    "en": "profit",
+    "tr": "kâr",
+    "pos": "noun",
+    "example": "The school sale made a small profit.",
+    "exampleTr": "Okul satışı küçük bir kâr getirdi.",
+    "syn": [
+     "gain"
+    ],
+    "ant": [
+     "loss"
+    ],
+    "level": "B2"
+   }
+  ],
+  "reading": {
+   "title": "The other road",
+   "text": "Hafsa sat at the kitchen table with a cup of tea and a pile of papers. She was reading about the requirements for becoming a substitute teacher in her state. Most districts wanted a college degree, a background check, and some experience with children. Hafsa had the experience, but she did not have a degree from an American university.\n\n\"If I had finished my studies in Turkey, I would have a degree now,\" she said to herself. Then she smiled sadly. \"And if I hadn't married young, I might have a different career today.\" She did not regret her family, but she often wondered about the other road.\n\nHer neighbor Linda stopped by with some cookies. \"You look serious,\" Linda said. Hafsa explained her problem. Linda listened carefully and then told her own story. \"Ten years ago, I decided not to take a job in Chicago. If I had accepted that offer, I would be a manager now, and I would earn much more money. But I would also be far from my friends. Every decision has a consequence.\"\n\n\"So what should I do?\" Hafsa asked.\n\n\"Take a smaller step,\" Linda said. \"Many community colleges have affordable programs. The tuition is not too high, and you can enroll in evening classes. If you start this fall, you could graduate in two years. If you wait, you will only lose time.\"\n\nThat night, Hafsa talked to her son Emre. He was excited. \"Mom, if you were afraid of risks, you wouldn't have moved here in the first place. You have already done something hard.\" Hafsa laughed. He was right. If she had stayed in Isparta, her life would be easier, but she would not have this opportunity.\n\nThe next morning, she called the community college. A friendly advisor explained the process and told her about a scholarship for adult students. \"If you had called last month, you would have missed the early discount,\" the advisor joked. \"But you're lucky. It's still open.\" Hafsa wrote the date in her calendar and felt, for the first time in weeks, that she was moving forward.",
+   "glossary": [
+    {
+     "en": "background check",
+     "tr": "sabıka ve geçmiş kontrolü"
+    },
+    {
+     "en": "community college",
+     "tr": "toplum koleji (2 yıllık)"
+    },
+    {
+     "en": "scholarship",
+     "tr": "burs"
+    },
+    {
+     "en": "advisor",
+     "tr": "danışman"
+    },
+    {
+     "en": "regret",
+     "tr": "pişman olmak"
+    }
+   ],
+   "questions": [
+    {
+     "type": "mcq",
+     "q": "What was Hafsa's main problem?",
+     "options": [
+      "She could not find a school.",
+      "She did not like children.",
+      "She did not have an American college degree.",
+      "She had no time at all."
+     ],
+     "answer": 2,
+     "whyTr": "Metin: she did not have a degree from an American university.",
+     "tag": "reading",
+     "level": "B2"
+    },
+    {
+     "type": "mcq",
+     "q": "Why didn't Linda take the job in Chicago?",
+     "options": [
+      "She did not get an offer.",
+      "She did not like managers.",
+      "She had no experience.",
+      "She wanted to stay near her friends."
+     ],
+     "answer": 3,
+     "whyTr": "Linda: she would also be far from her friends.",
+     "tag": "reading",
+     "level": "B2"
+    },
+    {
+     "type": "mcq",
+     "q": "What does Emre mean when he talks about risks?",
+     "options": [
+      "Hafsa already took a big risk by moving to the U.S.",
+      "Hafsa should avoid all risks.",
+      "Hafsa must go back to Isparta.",
+      "Hafsa is afraid of colleges."
+     ],
+     "answer": 0,
+     "whyTr": "Emre: if you were afraid of risks, you wouldn't have moved here.",
+     "tag": "reading",
+     "level": "B2"
+    },
+    {
+     "type": "mcq",
+     "q": "What good news did the advisor give Hafsa?",
+     "options": [
+      "The tuition was free.",
+      "There was a scholarship for adult students.",
+      "The classes were canceled.",
+      "She could skip the course."
+     ],
+     "answer": 1,
+     "whyTr": "Advisor: a scholarship for adult students.",
+     "tag": "reading",
+     "level": "B2"
+    }
+   ]
+  }
+ },
+ "evening": {
+  "listening": {
+   "title": "Calling the community college",
+   "script": [
+    {
+     "speaker": "Advisor",
+     "text": "Community college admissions. How can I help you?"
+    },
+    {
+     "speaker": "Hafsa",
+     "text": "Hello. My name is Hafsa Odabasi. I want to enroll in an education program, but I don't have a degree."
+    },
+    {
+     "speaker": "Advisor",
+     "text": "That's fine. You can start with our certificate program. Do you have any experience with children?"
+    },
+    {
+     "speaker": "Hafsa",
+     "text": "Yes. I volunteered at my son's school for three years."
+    },
+    {
+     "speaker": "Advisor",
+     "text": "Excellent. That is real experience. Now, about the tuition: it is two hundred dollars per credit."
+    },
+    {
+     "speaker": "Hafsa",
+     "text": "Hmm. If I had known earlier, I would have saved some money. Can I afford it with a scholarship?"
+    },
+    {
+     "speaker": "Advisor",
+     "text": "Possibly. If you had applied last month, you would have gotten the early discount. But you can still apply for the adult learner scholarship."
+    },
+    {
+     "speaker": "Hafsa",
+     "text": "What are the requirements?"
+    },
+    {
+     "speaker": "Advisor",
+     "text": "You need two references and a short essay about your background. The deadline is November twentieth."
+    },
+    {
+     "speaker": "Hafsa",
+     "text": "I will start the essay tonight. When do the evening classes begin?"
+    },
+    {
+     "speaker": "Advisor",
+     "text": "In January. If you enroll now, you will get a place in the Tuesday class."
+    },
+    {
+     "speaker": "Hafsa",
+     "text": "Wonderful. Please send me the application link."
+    }
+   ],
+   "questions": [
+    {
+     "type": "mcq",
+     "q": "Why is Hafsa calling the college?",
+     "options": [
+      "She wants to cancel a class.",
+      "She wants to find a job.",
+      "She wants to enroll in an education program.",
+      "She lost her certificate."
+     ],
+     "answer": 2,
+     "whyTr": "Hafsa: I want to enroll in an education program.",
+     "tag": "listening",
+     "level": "B2"
+    },
+    {
+     "type": "mcq",
+     "q": "What experience does Hafsa mention?",
+     "options": [
+      "Teaching at a college",
+      "Working as a nurse",
+      "Managing a store",
+      "Volunteering at her son's school"
+     ],
+     "answer": 3,
+     "whyTr": "Hafsa: I volunteered at my son's school for three years.",
+     "tag": "listening",
+     "level": "B2"
+    },
+    {
+     "type": "mcq",
+     "q": "What does the advisor say about the early discount?",
+     "options": [
+      "Hafsa missed it because she did not apply last month.",
+      "It is still available.",
+      "It is only for graduates.",
+      "It costs two hundred dollars."
+     ],
+     "answer": 0,
+     "whyTr": "Advisor: if you had applied last month, you would have gotten it.",
+     "tag": "listening",
+     "level": "B2"
+    },
+    {
+     "type": "mcq",
+     "q": "What does Hafsa need for the scholarship?",
+     "options": [
+      "A degree and a passport",
+      "Two references and a short essay",
+      "A test score",
+      "Three letters from her son"
+     ],
+     "answer": 1,
+     "whyTr": "Advisor: two references and a short essay.",
+     "tag": "listening",
+     "level": "B2"
+    }
+   ]
+  },
+  "writing": {
+   "promptTr": "Hayatındaki bir kararı ve sonuçlarını anlat (ör. başka bir ülkeye taşınmak, okumak, çalışmak). En az üç karışık koşul cümlesi kullan: geçmiş neden + şimdiki sonuç ya da şimdiki özellik + geçmiş sonuç. 120-180 kelime.",
+   "promptEn": "Write about an important decision in your life and its consequences. Use at least three mixed conditional sentences (120-180 words).",
+   "frames": [
+    "One important decision in my life was ...",
+    "If I had ..., I would ... now.",
+    "If I were ..., I would have ...",
+    "Every decision has a consequence because ..."
+   ],
+   "model": "One important decision in my life was moving to the United States. I made this decision five years ago, and it changed everything. If I had stayed in Isparta, I would have a quiet life now, and I would see my friends every week. But I would not speak English every day, and I would not have the dream of becoming a substitute teacher. Sometimes I think about the other path. If I were a braver person, I would have studied more when I was young. If I had finished a university degree, I would have a different job today. However, I do not regret my choice. Every decision has a consequence, and I try to learn from mine. My son Emre says that if I had not taken this risk, we would not have so many new opportunities. He is right. I am still learning, and I am proud of my progress.",
+   "checklistTr": [
+    "En az üç karışık koşul cümlen var mı?",
+    "Geçmiş neden için had + V3, şimdiki sonuç için would + fiil kullandın mı?",
+    "Şimdiki özellik için were/past simple ve geçmiş sonuç için would have + V3 kullandın mı?",
+    "Kararın sonuçlarını açıkça anlattın mı?"
+   ],
+   "minWords": 120
+  },
+  "examSet": [
+   {
+    "type": "mcq",
+    "q": "If I ___ harder in school, I would have a better job now.",
+    "options": [
+     "study",
+     "would study",
+     "had studied",
+     "have studied"
+    ],
+    "answer": 2,
+    "whyTr": "Geçmiş neden, şimdiki sonuç: had studied.",
+    "tag": "modals",
+    "level": "B2"
+   },
+   {
+    "type": "mcq",
+    "q": "If Linda weren't so busy, she ___ to the party last night.",
+    "options": [
+     "would come",
+     "will come",
+     "had come",
+     "would have come"
+    ],
+    "answer": 3,
+    "whyTr": "Şimdiki durum, geçmiş sonuç: would have come.",
+    "tag": "modals",
+    "level": "B2"
+   },
+   {
+    "type": "mcq",
+    "q": "If it rained tomorrow, we ___ the field trip. (ikinci koşul)",
+    "options": [
+     "would cancel",
+     "would have canceled",
+     "will cancel",
+     "had canceled"
+    ],
+    "answer": 0,
+    "whyTr": "Şimdiki/gelecek varsayım: would + fiil.",
+    "tag": "modals",
+    "level": "B2"
+   },
+   {
+    "type": "mcq",
+    "q": "If we ___ the bus, we will be late. (gerçekçi)",
+    "options": [
+     "missed",
+     "miss",
+     "had missed",
+     "would miss"
+    ],
+    "answer": 1,
+    "whyTr": "Birinci koşul: if + present.",
+    "tag": "future",
+    "level": "B2"
+   },
+   {
+    "type": "mcq",
+    "q": "If I had listened to my mother, I ___ that mistake.",
+    "options": [
+     "wouldn't make",
+     "won't make",
+     "wouldn't have made",
+     "hadn't made"
+    ],
+    "answer": 2,
+    "whyTr": "Üçüncü koşul sonuç kısmı: wouldn't have made.",
+    "tag": "modals",
+    "level": "B2"
+   },
+   {
+    "type": "mcq",
+    "q": "The classroom ___ every afternoon by the janitor.",
+    "options": [
+     "cleans",
+     "is cleaning",
+     "has cleaned",
+     "is cleaned"
+    ],
+    "answer": 3,
+    "whyTr": "Edilgen şimdiki zaman: is cleaned.",
+    "tag": "present-simple",
+    "level": "B2"
+   },
+   {
+    "type": "mcq",
+    "q": "She asked me where I ___.",
+    "options": [
+     "lived",
+     "live",
+     "do live",
+     "had live"
+    ],
+    "answer": 0,
+    "whyTr": "Dolaylı anlatım: lived.",
+    "tag": "word-order",
+    "level": "B2"
+   },
+   {
+    "type": "mcq",
+    "q": "Hafsa has been studying English ___ two hours.",
+    "options": [
+     "since",
+     "for",
+     "during",
+     "from"
+    ],
+    "answer": 1,
+    "whyTr": "Süre için for.",
+    "tag": "present-perfect",
+    "level": "B2"
+   },
+   {
+    "type": "mcq",
+    "q": "Her ___ is low, so she cannot pay the full tuition.",
+    "options": [
+     "diploma",
+     "sponsor",
+     "income",
+     "trainee"
+    ],
+    "answer": 2,
+    "whyTr": "Gelir: income.",
+    "tag": "vocab",
+    "level": "B2"
+   },
+   {
+    "type": "mcq",
+    "q": "Every ___ must send two references with the form.",
+    "options": [
+     "diploma",
+     "loan",
+     "profit",
+     "applicant"
+    ],
+    "answer": 3,
+    "whyTr": "Başvuran kişi: applicant.",
+    "tag": "vocab",
+    "level": "B2"
+   },
+   {
+    "type": "mcq",
+    "q": "A school ___ helps students plan their future.",
+    "options": [
+     "advisor",
+     "loan",
+     "profit",
+     "diploma"
+    ],
+    "answer": 0,
+    "whyTr": "Danışman: advisor.",
+    "tag": "vocab",
+    "level": "B2"
+   },
+   {
+    "type": "mcq",
+    "q": "Which word is closest in meaning to \"profession\"?",
+    "options": [
+     "promotion",
+     "occupation",
+     "diploma",
+     "loan"
+    ],
+    "answer": 1,
+    "whyTr": "Profession ≈ occupation.",
+    "tag": "synonym",
+    "level": "B2"
+   },
+   {
+    "type": "mcq",
+    "q": "He took out a ___ to pay for college. He must pay it back.",
+    "options": [
+     "diploma",
+     "promotion",
+     "loan",
+     "profit"
+    ],
+    "answer": 2,
+    "whyTr": "Kredi: loan.",
+    "tag": "vocab",
+    "level": "B2"
+   },
+   {
+    "type": "mcq",
+    "q": "What is the opposite of \"skilled\"?",
+    "options": [
+     "fluent",
+     "applicant",
+     "vocational",
+     "unskilled"
+    ],
+    "answer": 3,
+    "whyTr": "Skilled'in zıttı unskilled.",
+    "tag": "antonym",
+    "level": "B2"
+   },
+   {
+    "type": "mcq",
+    "q": "Which is the opposite of \"profit\"?",
+    "options": [
+     "loss",
+     "income",
+     "loan",
+     "promotion"
+    ],
+    "answer": 0,
+    "whyTr": "Profit kâr, loss zarar.",
+    "tag": "antonym",
+    "level": "B2"
+   },
+   {
+    "type": "mcq",
+    "q": "Which sentence is correct?",
+    "options": [
+     "If I would have known, I would be there now.",
+     "If I had known, I would be there now.",
+     "If I knew, I would be there yesterday.",
+     "If I had known, I will be there now."
+    ],
+    "answer": 1,
+    "whyTr": "Geçmiş neden + şimdiki sonuç: had known, would be.",
+    "tag": "modals",
+    "level": "B2"
+   },
+   {
+    "type": "mcq",
+    "q": "If you ___ me earlier, I would have helped you with the form.",
+    "options": [
+     "asked",
+     "ask",
+     "had asked",
+     "would ask"
+    ],
+    "answer": 2,
+    "whyTr": "Üçüncü koşul: had asked.",
+    "tag": "modals",
+    "level": "B2"
+   },
+   {
+    "type": "mcq",
+    "q": "If Tom were taller, he ___ the basketball team last year.",
+    "options": [
+     "would join",
+     "will join",
+     "had joined",
+     "would have joined"
+    ],
+    "answer": 3,
+    "whyTr": "Şimdiki özellik, geçmiş sonuç.",
+    "tag": "modals",
+    "level": "B2"
+   },
+   {
+    "type": "mcq",
+    "q": "Maria wanted to become a nurse, but she didn't finish her degree. Now she works in a store. She says, \"If I had finished my degree, I would be a nurse now.\"\n\nWhat is true?",
+    "options": [
+     "Maria is not a nurse because she did not finish her degree.",
+     "Maria is a nurse now.",
+     "Maria finished her degree.",
+     "Maria dislikes stores."
+    ],
+    "answer": 0,
+    "whyTr": "Gerçek durum koşulun tersidir.",
+    "tag": "reading",
+    "level": "B2"
+   },
+   {
+    "type": "mcq",
+    "q": "The school requires two references and a background check. Hafsa has one reference. She must find another before applying.\n\nWhat does Hafsa need?",
+    "options": [
+     "A new degree",
+     "One more reference",
+     "A background check only",
+     "Two more references"
+    ],
+    "answer": 1,
+    "whyTr": "İki gerekli, birisi var: bir tane daha.",
+    "tag": "reading",
+    "level": "B2"
+   }
+  ]
+ }
+}

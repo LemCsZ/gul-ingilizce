@@ -1,0 +1,785 @@
+{
+ "week": 8,
+ "day": 1,
+ "titleTr": "Okul kuralları: If ... will",
+ "theme": "school-rules",
+ "morning": {
+  "grammar": {
+   "topic": "1st conditional: if + present simple, will + verb",
+   "explainTr": [
+    "Gerçekten olabilecek durumları anlatırken 1st conditional kullanırsın: If + present simple, will + yalın fiil. If it rains, we will stay inside. If bölümü başta ise sonuna virgül koyarsın.",
+    "Çok sık yapılan hata: if'ten sonra 'will' kullanmak. If it will rain değil, If it rains denir. Gelecekten söz etsen bile if bölümü şimdiki zamanla kurulur.",
+    "Olumsuz için won't kullanılır: If you don't study, you won't pass. Sonuç kısmında can, must gibi kelimeler de gelebilir: If you finish, you can go out. Okul kurallarında bu yapı çok işine yarar."
+   ],
+   "compareTr": "Türkçede 'yağmur yağarsa kalırız' tek bir -sa/-ır yapısıyla kurulur. İngilizcede iki parça var: If it rains (şimdiki zaman) + we will stay (will + fiil). 'If it will rain' Türkçeden gelen tipik bir hatadır.",
+   "table": [
+    [
+     "If bölümü",
+     "If + present simple",
+     "If you run,"
+    ],
+    [
+     "Sonuç",
+     "will + yalın fiil",
+     "you will fall."
+    ],
+    [
+     "Olumsuz",
+     "won't + yalın fiil",
+     "You won't pass if you don't study."
+    ],
+    [
+     "Soru",
+     "What will happen if ...?",
+     "What will happen if I am late?"
+    ],
+    [
+     "Ters sıra",
+     "Sonuç + if (virgülsüz)",
+     "I will call you if it rains."
+    ]
+   ],
+   "examples": [
+    {
+     "en": "If you break the rule, you will get a warning.",
+     "tr": "Kuralı çiğnersen uyarı alırsın."
+    },
+    {
+     "en": "If it rains, we will eat lunch inside.",
+     "tr": "Yağmur yağarsa öğle yemeğini içeride yeriz."
+    },
+    {
+     "en": "If you don't follow the rules, you won't go on the trip.",
+     "tr": "Kurallara uymazsan geziye gitmeyeceksin."
+    },
+    {
+     "en": "What will you do if you lose the hall pass?",
+     "tr": "Hall pass'i kaybedersen ne yapacaksın?"
+    },
+    {
+     "en": "I will call the office if the student is sick.",
+     "tr": "Öğrenci hastaysa ofisi arayacağım."
+    }
+   ],
+   "exercises": [
+    {
+     "type": "mcq",
+     "q": "If you ___ late, you will miss the bus.",
+     "options": [
+      "are",
+      "will be",
+      "would be"
+     ],
+     "answer": 0,
+     "whyTr": "If cümlesinde gelecek için bile present simple kullanılır.",
+     "tag": "future",
+     "level": "B1"
+    },
+    {
+     "type": "mcq",
+     "q": "If it rains, we ___ lunch inside.",
+     "options": [
+      "ate",
+      "will eat",
+      "would eat"
+     ],
+     "answer": 1,
+     "whyTr": "Sonuç kısmında 'will + yalın fiil' gelir.",
+     "tag": "future",
+     "level": "B1"
+    },
+    {
+     "type": "order",
+     "promptTr": "Cümleyi sırala:",
+     "words": [
+      "break",
+      "the",
+      "rule,",
+      "you",
+      "will",
+      "stay",
+      "after",
+      "school",
+      "If",
+      "you"
+     ],
+     "answer": "If you break the rule, you will stay after school",
+     "whyTr": "If cümlesi önce gelirse sonuna virgül konur, sonra 'will' cümlesi gelir.",
+     "tag": "future",
+     "level": "B1"
+    },
+    {
+     "type": "mcq",
+     "q": "If students ___ their homework, the teacher will be happy.",
+     "options": [
+      "will do",
+      "did",
+      "do"
+     ],
+     "answer": 2,
+     "whyTr": "If'ten sonra 'will' kullanılmaz; present simple gelir.",
+     "tag": "future",
+     "level": "B1"
+    },
+    {
+     "type": "mcq",
+     "q": "She ___ your parents if you don't stop.",
+     "options": [
+      "will call",
+      "would call",
+      "called"
+     ],
+     "answer": 0,
+     "whyTr": "Gerçekçi bir sonuç için 'will + fiil' kullanılır.",
+     "tag": "future",
+     "level": "B1"
+    },
+    {
+     "type": "order",
+     "promptTr": "Cümleyi sırala:",
+     "words": [
+      "happen",
+      "if",
+      "I",
+      "forget",
+      "my",
+      "pass?",
+      "What",
+      "will"
+     ],
+     "answer": "What will happen if I forget my pass?",
+     "whyTr": "Soru: What will + özne + fiil + if cümlesi.",
+     "tag": "question-form",
+     "level": "B1"
+    },
+    {
+     "type": "mcq",
+     "q": "Which sentence is correct?",
+     "options": [
+      "If it will rain, we stay inside.",
+      "If it rains, we will stay inside.",
+      "If it rained, we will stay inside."
+     ],
+     "answer": 1,
+     "whyTr": "Türkçe 'yağarsa' için If + present simple kullan; if'ten sonra 'will' olmaz.",
+     "tag": "future",
+     "level": "B1"
+    },
+    {
+     "type": "mcq",
+     "q": "If you want to leave the room, you ___ ask the teacher first.",
+     "options": [
+      "cans",
+      "can to",
+      "can"
+     ],
+     "answer": 2,
+     "whyTr": "'Can' sonuç kısmında da kullanılabilir ve yalın fiil alır.",
+     "tag": "modals",
+     "level": "A2"
+    },
+    {
+     "type": "mcq",
+     "q": "Yesterday, Emre ___ his hall pass at home.",
+     "options": [
+      "forgets",
+      "will forget",
+      "forgot",
+      "forget"
+     ],
+     "answer": 2,
+     "whyTr": "'Yesterday' geçmiş zaman gösterir: forgot.",
+     "tag": "past-simple",
+     "level": "A2"
+    },
+    {
+     "type": "mcq",
+     "q": "My son ___ to school by bus every day.",
+     "options": [
+      "go",
+      "goes",
+      "going"
+     ],
+     "answer": 1,
+     "whyTr": "He/she/it ile fiile -s eklenir: goes.",
+     "tag": "present-simple",
+     "level": "A2"
+    },
+    {
+     "type": "fill",
+     "q": "If it ___ tomorrow, the field trip will be canceled.",
+     "accept": [
+      "rains"
+     ],
+     "hintTr": "rain (it için)",
+     "whyTr": "It tekil olduğu için rains; 'will rain' olmaz.",
+     "tag": "future",
+     "level": "B1"
+    },
+    {
+     "type": "fill",
+     "q": "If you break the rule, you ___ get a warning.",
+     "accept": [
+      "will",
+      "'ll"
+     ],
+     "hintTr": "gelecek yardımcı fiili",
+     "whyTr": "Sonuç cümlesinde 'will' kullanılır.",
+     "tag": "future",
+     "level": "B1"
+    }
+   ]
+  },
+  "vocab": [
+   {
+    "id": "rule",
+    "en": "rule",
+    "tr": "kural",
+    "pos": "noun",
+    "example": "Every school has a rule about phones.",
+    "exampleTr": "Her okulun telefon hakkında bir kuralı vardır.",
+    "syn": [
+     "regulation"
+    ],
+    "ant": [],
+    "level": "B1"
+   },
+   {
+    "id": "follow",
+    "en": "follow",
+    "tr": "uymak, takip etmek",
+    "pos": "verb",
+    "example": "Please follow the rules in the hallway.",
+    "exampleTr": "Lütfen koridorda kurallara uyun.",
+    "syn": [],
+    "ant": [],
+    "level": "B1"
+   },
+   {
+    "id": "break",
+    "en": "break",
+    "tr": "bozmak, ihlal etmek",
+    "pos": "verb",
+    "example": "If you break a rule, you get a warning.",
+    "exampleTr": "Bir kuralı çiğnersen uyarı alırsın.",
+    "syn": [],
+    "ant": [],
+    "level": "B1"
+   },
+   {
+    "id": "safe",
+    "en": "safe",
+    "tr": "güvenli",
+    "pos": "adjective",
+    "example": "The playground is safe for little children.",
+    "exampleTr": "Oyun alanı küçük çocuklar için güvenli.",
+    "syn": [
+     "secure"
+    ],
+    "ant": [
+     "dangerous"
+    ],
+    "level": "A2"
+   },
+   {
+    "id": "allowed",
+    "en": "allowed",
+    "tr": "izinli",
+    "pos": "adjective",
+    "example": "Students are not allowed to run inside.",
+    "exampleTr": "Öğrencilerin içeride koşmasına izin yok.",
+    "syn": [
+     "permitted"
+    ],
+    "ant": [
+     "forbidden"
+    ],
+    "level": "B1"
+   },
+   {
+    "id": "permission",
+    "en": "permission",
+    "tr": "izin",
+    "pos": "noun",
+    "example": "You need permission to leave the room.",
+    "exampleTr": "Odadan çıkmak için izne ihtiyacın var.",
+    "syn": [
+     "approval"
+    ],
+    "ant": [],
+    "level": "B1"
+   },
+   {
+    "id": "consequence",
+    "en": "consequence",
+    "tr": "sonuç, yaptırım",
+    "pos": "noun",
+    "example": "The consequence of cheating is a zero.",
+    "exampleTr": "Kopya çekmenin sonucu sıfır almaktır.",
+    "syn": [],
+    "ant": [],
+    "level": "B1"
+   },
+   {
+    "id": "warn",
+    "en": "warn",
+    "tr": "uyarmak",
+    "pos": "verb",
+    "example": "The teacher will warn you first.",
+    "exampleTr": "Öğretmen önce seni uyaracak.",
+    "syn": [
+     "caution"
+    ],
+    "ant": [],
+    "level": "B1"
+   },
+   {
+    "id": "behavior",
+    "en": "behavior",
+    "tr": "davranış",
+    "pos": "noun",
+    "example": "Good behavior makes a class calm.",
+    "exampleTr": "İyi davranış sınıfı huzurlu yapar.",
+    "syn": [],
+    "ant": [],
+    "level": "B1"
+   },
+   {
+    "id": "respect",
+    "en": "respect",
+    "tr": "saygı göstermek; saygı",
+    "pos": "verb",
+    "example": "We respect each other in this class.",
+    "exampleTr": "Bu sınıfta birbirimize saygı gösteririz.",
+    "syn": [],
+    "ant": [
+     "disrespect"
+    ],
+    "level": "B1"
+   },
+   {
+    "id": "hallway",
+    "en": "hallway",
+    "tr": "koridor",
+    "pos": "noun",
+    "example": "Don't run in the hallway.",
+    "exampleTr": "Koridorda koşma.",
+    "syn": [],
+    "ant": [],
+    "level": "B1"
+   },
+   {
+    "id": "bully",
+    "en": "bully",
+    "tr": "zorbalık yapmak; zorba",
+    "pos": "verb",
+    "example": "Teachers must stop children who bully others.",
+    "exampleTr": "Öğretmenler başkalarına zorbalık yapan çocukları durdurmalı.",
+    "syn": [],
+    "ant": [],
+    "level": "B1"
+   },
+   {
+    "id": "report",
+    "en": "report",
+    "tr": "bildirmek; rapor",
+    "pos": "verb",
+    "example": "Please report any problem to the office.",
+    "exampleTr": "Lütfen her sorunu ofise bildirin.",
+    "syn": [],
+    "ant": [],
+    "level": "B1"
+   },
+   {
+    "id": "detention",
+    "en": "detention",
+    "tr": "ceza olarak okulda kalma",
+    "pos": "noun",
+    "example": "He had detention after school on Friday.",
+    "exampleTr": "Cuma günü okuldan sonra ceza olarak kaldı.",
+    "syn": [],
+    "ant": [],
+    "level": "B1"
+   },
+   {
+    "id": "serious",
+    "en": "serious",
+    "tr": "ciddi",
+    "pos": "adjective",
+    "example": "Fighting is a serious problem.",
+    "exampleTr": "Kavga ciddi bir sorun.",
+    "syn": [
+     "important"
+    ],
+    "ant": [
+     "minor"
+    ],
+    "level": "B1"
+   }
+  ],
+  "reading": {
+   "title": "Hafsa's first rules",
+   "text": "On Monday morning, Hafsa arrives at Lincoln Elementary School for her first substitute job. Mr. Brown, the school secretary, gives her a folder. \"Read the school rules before class,\" he says. \"If you know the rules, the day will be much easier.\"\n\nHafsa sits in the front office and reads. The rules are simple. Students must walk in the hallway. They must listen when the teacher talks, and they must respect each other. If a student breaks a rule, the teacher gives a warning. If the student breaks the rule again, the teacher will call the front office. A serious problem, like bullying, goes to the principal. The student may get detention, and the parents will receive a phone call.\n\nThere are rules for adults too. Substitute teachers must wear a name badge, and they must not use their phones in class. \"If a child needs permission to leave the room, he or she takes the hall pass,\" Mr. Brown explains. \"No pass, no walking in the hallway.\"\n\nHafsa feels nervous, but she also feels ready. At 8:30 she walks into Room 12 with the folder in her hand. A boy raises his hand. \"Excuse me, can I go to the bathroom?\" Hafsa smiles and points to the pass on the wall. \"Of course. If you take the pass, you can go,\" she says. Her first rule works!",
+   "glossary": [
+    {
+     "en": "substitute job",
+     "tr": "vekil öğretmenlik işi"
+    },
+    {
+     "en": "front office",
+     "tr": "okul ofisi, danışma"
+    },
+    {
+     "en": "bullying",
+     "tr": "zorbalık"
+    },
+    {
+     "en": "hall pass",
+     "tr": "koridor geçiş kartı"
+    },
+    {
+     "en": "name badge",
+     "tr": "isim kartı"
+    }
+   ],
+   "questions": [
+    {
+     "type": "mcq",
+     "q": "What does Mr. Brown tell Hafsa to do before class?",
+     "options": [
+      "Call the principal",
+      "Buy a name badge",
+      "Read the school rules"
+     ],
+     "answer": 2,
+     "whyTr": "Metin: 'Read the school rules before class.'",
+     "tag": "reading",
+     "level": "B1"
+    },
+    {
+     "type": "mcq",
+     "q": "What will the teacher do if a student breaks a rule again?",
+     "options": [
+      "Call the front office",
+      "Send the student home",
+      "Give a hall pass"
+     ],
+     "answer": 0,
+     "whyTr": "Metin: 'the teacher will call the front office.'",
+     "tag": "reading",
+     "level": "B1"
+    },
+    {
+     "type": "mcq",
+     "q": "What must substitute teachers NOT do in class?",
+     "options": [
+      "Wear a name badge",
+      "Use their phones",
+      "Read the rules"
+     ],
+     "answer": 1,
+     "whyTr": "Metin: 'they must not use their phones in class.'",
+     "tag": "reading",
+     "level": "B1"
+    },
+    {
+     "type": "mcq",
+     "q": "Why can the boy go to the bathroom?",
+     "options": [
+      "He has detention.",
+      "Mr. Brown says yes.",
+      "He takes the hall pass."
+     ],
+     "answer": 2,
+     "whyTr": "Hafsa: 'If you take the pass, you can go.'",
+     "tag": "reading",
+     "level": "B1"
+    }
+   ]
+  }
+ },
+ "evening": {
+  "listening": {
+   "title": "Rules in a fourth-grade class",
+   "script": [
+    {
+     "speaker": "Ms. Carter",
+     "text": "Welcome, Hafsa. Today you're helping in my fourth-grade class."
+    },
+    {
+     "speaker": "Hafsa",
+     "text": "Thank you. What should I know about the rules?"
+    },
+    {
+     "speaker": "Ms. Carter",
+     "text": "Three things. First, if students finish early, they can read quietly."
+    },
+    {
+     "speaker": "Hafsa",
+     "text": "And what happens if they talk too much?"
+    },
+    {
+     "speaker": "Ms. Carter",
+     "text": "Give one warning. If they keep talking, they will lose five minutes of recess."
+    },
+    {
+     "speaker": "Hafsa",
+     "text": "What if somebody feels sick?"
+    },
+    {
+     "speaker": "Ms. Carter",
+     "text": "Send him to the nurse with a hall pass. If it's an emergency, call the front office."
+    },
+    {
+     "speaker": "Hafsa",
+     "text": "What if I don't know a student's name?"
+    },
+    {
+     "speaker": "Ms. Carter",
+     "text": "Use the seating chart on my desk. If you need help, Mr. Brown will answer the phone."
+    },
+    {
+     "speaker": "Hafsa",
+     "text": "Great. I feel better now."
+    },
+    {
+     "speaker": "Ms. Carter",
+     "text": "You'll do fine. Lunch is at noon, so please line up the students at five to twelve."
+    },
+    {
+     "speaker": "Hafsa",
+     "text": "Five to twelve. Got it. Thank you, Ms. Carter."
+    }
+   ],
+   "questions": [
+    {
+     "type": "mcq",
+     "q": "What will students lose if they keep talking?",
+     "options": [
+      "Five minutes of recess",
+      "Their lunch",
+      "Their hall pass"
+     ],
+     "answer": 0,
+     "whyTr": "Ms. Carter: 'they will lose five minutes of recess.'",
+     "tag": "listening",
+     "level": "B1"
+    },
+    {
+     "type": "mcq",
+     "q": "Where should Hafsa send a sick student?",
+     "options": [
+      "To the principal",
+      "To the nurse",
+      "Home"
+     ],
+     "answer": 1,
+     "whyTr": "Ms. Carter: 'Send him to the nurse with a hall pass.'",
+     "tag": "listening",
+     "level": "B1"
+    },
+    {
+     "type": "mcq",
+     "q": "How can Hafsa find the students' names?",
+     "options": [
+      "She can ask each parent.",
+      "She can read the rules.",
+      "She can use the seating chart."
+     ],
+     "answer": 2,
+     "whyTr": "Ms. Carter: 'Use the seating chart on my desk.'",
+     "tag": "listening",
+     "level": "B1"
+    },
+    {
+     "type": "mcq",
+     "q": "When should Hafsa line up the students?",
+     "options": [
+      "At 11:55",
+      "At noon",
+      "At 12:05"
+     ],
+     "answer": 0,
+     "whyTr": "'Five to twelve' = 11:55.",
+     "tag": "listening",
+     "level": "B1"
+    }
+   ]
+  },
+  "writing": {
+   "promptTr": "Sınıfındaki velilere kısa bir mesaj yaz: üç kural söyle ve kuralı bozarsa ne olacağını if cümleleriyle anlat.",
+   "promptEn": "Write a short message to the parents of your class. Explain three rules and use if-sentences to say what will happen if students break them.",
+   "frames": [
+    "Dear parents, ...",
+    "If a student is late, ...",
+    "If they run in the hallway, ...",
+    "If you have a question, ..."
+   ],
+   "model": "Dear parents, welcome to our class! I want to explain three simple rules. First, students must arrive on time. If a student is late, he or she will sign the late list in the front office. Second, we respect each other. If a student says something unkind, I will talk to him or her after class. Third, students walk in the hallway. If they run, they will lose a few minutes of recess. If you have a question, please send me an email. I am sure we will have a great year together. Thank you for your help. Best regards, Hafsa",
+   "checklistTr": [
+    "If cümlesinde present simple, sonuçta 'will' kullandın mı (if it will rain değil)?",
+    "En az üç kural ve üç if cümlesi var mı?",
+    "Selamlama ve kapanış (Dear parents / Best regards) var mı?"
+   ],
+   "minWords": 75
+  },
+  "examSet": [
+   {
+    "type": "mcq",
+    "q": "If the weather ___ bad, the picnic will be canceled.",
+    "options": [
+     "will be",
+     "is",
+     "would be"
+    ],
+    "answer": 1,
+    "whyTr": "If cümlesinde present simple kullanılır.",
+    "tag": "future",
+    "level": "B1"
+   },
+   {
+    "type": "mcq",
+    "q": "If you ___ your homework, you will get a good grade.",
+    "options": [
+     "will finish",
+     "finished",
+     "finish"
+    ],
+    "answer": 2,
+    "whyTr": "If + present simple.",
+    "tag": "future",
+    "level": "B1"
+   },
+   {
+    "type": "mcq",
+    "q": "What will you do if Mr. Brown ___ you a question?",
+    "options": [
+     "asks",
+     "will ask",
+     "asked"
+    ],
+    "answer": 0,
+    "whyTr": "If'ten sonra present simple gelir.",
+    "tag": "future",
+    "level": "B1"
+   },
+   {
+    "type": "mcq",
+    "q": "Which sentence is correct?",
+    "options": [
+     "If he will run, he falls.",
+     "If he runs, he will fall.",
+     "If he ran, he will fall."
+    ],
+    "answer": 1,
+    "whyTr": "If + present simple, will + fiil.",
+    "tag": "future",
+    "level": "B1"
+   },
+   {
+    "type": "mcq",
+    "q": "Linda ___ coffee every morning before work.",
+    "options": [
+     "drink",
+     "is drink",
+     "drinks"
+    ],
+    "answer": 2,
+    "whyTr": "Alışkanlık için present simple; she + -s.",
+    "tag": "present-simple",
+    "level": "A2"
+   },
+   {
+    "type": "mcq",
+    "q": "Hafsa ___ at the school last Monday.",
+    "options": [
+     "arrived",
+     "arrives",
+     "will arrive"
+    ],
+    "answer": 0,
+    "whyTr": "'Last Monday' geçmiş zamandır.",
+    "tag": "past-simple",
+    "level": "A2"
+   },
+   {
+    "type": "mcq",
+    "q": "Walking is ___ than running in the hallway.",
+    "options": [
+     "safe",
+     "safer",
+     "more safe"
+    ],
+    "answer": 1,
+    "whyTr": "Kısa sıfat + -er: safer.",
+    "tag": "comparatives",
+    "level": "A2"
+   },
+   {
+    "type": "mcq",
+    "q": "Students are not ___ to use phones in class.",
+    "options": [
+     "permission",
+     "rule",
+     "allowed"
+    ],
+    "answer": 2,
+    "whyTr": "'Be allowed to' = izin verilmek.",
+    "tag": "vocab",
+    "level": "B1"
+   },
+   {
+    "type": "mcq",
+    "q": "Which word means almost the same as \"allowed\"?",
+    "options": [
+     "permitted",
+     "forbidden",
+     "serious"
+    ],
+    "answer": 0,
+    "whyTr": "Allowed ve permitted eş anlamlıdır.",
+    "tag": "synonym",
+    "level": "B1"
+   },
+   {
+    "type": "mcq",
+    "q": "What is the opposite of \"safe\"?",
+    "options": [
+     "quiet",
+     "dangerous",
+     "allowed"
+    ],
+    "answer": 1,
+    "whyTr": "Safe'in zıttı dangerous.",
+    "tag": "antonym",
+    "level": "B1"
+   },
+   {
+    "type": "mcq",
+    "q": "Mia ran in the hallway, so she got a ___.",
+    "options": [
+     "permission",
+     "behavior",
+     "warning"
+    ],
+    "answer": 2,
+    "whyTr": "Kuralı bozunca uyarı (warning) alınır.",
+    "tag": "vocab",
+    "level": "B1"
+   },
+   {
+    "type": "mcq",
+    "q": "Tom forgot his lunch. He asked the front office for help. If Tom has no lunch, the office will call his mother.\n\nWho will the office call?",
+    "options": [
+     "Tom's mother",
+     "Mr. Brown",
+     "The principal"
+    ],
+    "answer": 0,
+    "whyTr": "Metin: 'the office will call his mother.'",
+    "tag": "reading",
+    "level": "B1"
+   }
+  ]
+ }
+}

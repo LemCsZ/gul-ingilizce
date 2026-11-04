@@ -1,0 +1,920 @@
+{
+ "week": 12,
+ "day": 1,
+ "titleTr": "Bir vekil öğretmen günü: hikâye anlatma zamanları",
+ "theme": "school-day",
+ "morning": {
+  "grammar": {
+   "topic": "Narrative tenses: past simple, past continuous, past perfect",
+   "explainTr": [
+    "Bir hikâye anlatırken üç zaman birlikte çalışır. Past simple olayları sırayla anlatır (She opened the door.), past continuous arka plandaki devam eden eylemi gösterir (The students were talking.), past perfect ise hikâyedeki başka bir andan önce olmuş şeyi anlatır (She had read the plan.).",
+    "Past continuous çoğu zaman bir olayın 'sırasında' kullanılır: While I was working, the phone rang. Uzun süren eylem continuous, araya giren kısa olay past simple olur. Past perfect'in kalıbı had + V3'tür ve before, by the time, after gibi kelimelerle çok gelir.",
+    "Eski alışkanlıklar için used to ve would da hikâyeye girer: I used to walk to school. 'Would' yalnız tekrarlanan eylemler için olur, durum fiilleriyle (live, have) 'used to' kullanılır."
+   ],
+   "compareTr": "Türkçede 'Geldiğimde ders başlamıştı' ile 'Geldiğimde ders başlıyordu' farkını ek belirler (-mıştı / -ıyordu). İngilizcede bu fark ayrı yapılardır: the class had started / the class was starting.",
+   "table": [
+    [
+     "Past simple",
+     "sıralı olaylar",
+     "She opened the door and sat down."
+    ],
+    [
+     "Past continuous",
+     "arka plan, devam eden eylem",
+     "The kids were talking."
+    ],
+    [
+     "Past perfect",
+     "daha önce olmuş şey",
+     "She had printed the plan."
+    ],
+    [
+     "used to / would",
+     "eski alışkanlık",
+     "I used to walk to school."
+    ]
+   ],
+   "examples": [
+    {
+     "en": "When Hafsa arrived, the bell had already rung.",
+     "tr": "Hafsa vardığında zil çoktan çalmıştı."
+    },
+    {
+     "en": "While she was taking attendance, a boy walked in.",
+     "tr": "Yoklama alırken bir çocuk içeri girdi."
+    },
+    {
+     "en": "She had never taught fifth grade before.",
+     "tr": "Daha önce hiç beşinci sınıfa ders vermemişti."
+    },
+    {
+     "en": "She turned on the lights and began the lesson.",
+     "tr": "Işıkları açtı ve derse başladı."
+    }
+   ],
+   "exercises": [
+    {
+     "type": "mcq",
+     "q": "By the time Hafsa arrived at school, the bell ___.",
+     "options": [
+      "already rang",
+      "was already ringing",
+      "has already rung",
+      "had already rung"
+     ],
+     "answer": 3,
+     "whyTr": "Varıştan önce tamamlanan eylem için past perfect gerekir.",
+     "tag": "past-simple",
+     "level": "B2"
+    },
+    {
+     "type": "mcq",
+     "q": "While Hafsa ___ the roll, a boy walked in late.",
+     "options": [
+      "was taking",
+      "took",
+      "had taken",
+      "takes"
+     ],
+     "answer": 0,
+     "whyTr": "Devam eden eylem (while) past continuous olur; araya giren olay past simple.",
+     "tag": "past-simple",
+     "level": "B2"
+    },
+    {
+     "type": "order",
+     "promptTr": "Cümleyi sırala:",
+     "words": [
+      "plan",
+      "She",
+      "the",
+      "rang",
+      "before",
+      "printed",
+      "sub",
+      "had",
+      "the",
+      "bell"
+     ],
+     "answer": "She had printed the sub plan before the bell rang",
+     "whyTr": "Önce olan eylem had + V3 ile, sonraki olay past simple ile gelir.",
+     "tag": "past-simple",
+     "level": "B2"
+    },
+    {
+     "type": "mcq",
+     "q": "First she opened the door. Then she ___ the lights on.",
+     "options": [
+      "turns",
+      "has turned",
+      "turn",
+      "turned"
+     ],
+     "answer": 3,
+     "whyTr": "Sırayla anlatılan olaylar past simple ile verilir.",
+     "tag": "past-simple",
+     "level": "B2"
+    },
+    {
+     "type": "mcq",
+     "q": "The students ___ loudly when the principal walked in, and they stopped at once.",
+     "options": [
+      "are talking",
+      "were talking",
+      "talks",
+      "had talked"
+     ],
+     "answer": 1,
+     "whyTr": "Arka planda devam eden eylem past continuous olur.",
+     "tag": "past-simple",
+     "level": "B2"
+    },
+    {
+     "type": "mcq",
+     "q": "Hafsa ___ at three different schools before she got this job.",
+     "options": [
+      "was substituting",
+      "has substituted",
+      "had substituted",
+      "will substitute"
+     ],
+     "answer": 2,
+     "whyTr": "'Before she got' ifadesinden önceki deneyim past perfect ile anlatılır.",
+     "tag": "past-simple",
+     "level": "B2"
+    },
+    {
+     "type": "fill",
+     "q": "She ___ already left when the teacher arrived.",
+     "accept": [
+      "had"
+     ],
+     "hintTr": "had + V3",
+     "whyTr": "Öğretmenin gelişinden önce olmuş: had left.",
+     "tag": "past-simple",
+     "level": "B2"
+    },
+    {
+     "type": "order",
+     "promptTr": "Hikâye cümlesini sırala:",
+     "words": [
+      "room",
+      "the",
+      "walked",
+      "While",
+      "students",
+      "working,",
+      "around",
+      "were",
+      "the",
+      "Hafsa"
+     ],
+     "answer": "While the students were working, Hafsa walked around the room",
+     "whyTr": "While + past continuous, ardından past simple gelir.",
+     "tag": "past-simple",
+     "level": "B2"
+    },
+    {
+     "type": "mcq",
+     "q": "Hafsa ___ in the US since 2023, so she knows the area well.",
+     "options": [
+      "lived",
+      "had lived",
+      "has lived",
+      "is living"
+     ],
+     "answer": 2,
+     "whyTr": "Since ile başlayıp hâlâ süren durum present perfect olur.",
+     "tag": "present-perfect",
+     "level": "B1"
+    },
+    {
+     "type": "mcq",
+     "q": "The sub plan ___ on the desk this morning by the teacher.",
+     "options": [
+      "was left",
+      "left",
+      "was leaving",
+      "leaves"
+     ],
+     "answer": 0,
+     "whyTr": "Eylemi yapan 'by' ile geliyor, cümle edilgen: was + V3.",
+     "tag": "past-simple",
+     "level": "B1"
+    },
+    {
+     "type": "mcq",
+     "q": "___ she was nervous, Hafsa smiled and greeted every student.",
+     "options": [
+      "Because",
+      "Although",
+      "Unless",
+      "So"
+     ],
+     "answer": 1,
+     "whyTr": "Zıtlık için although kullanılır: sinirliydi ama gülümsedi.",
+     "tag": "linkers",
+     "level": "B1"
+    },
+    {
+     "type": "mcq",
+     "q": "I ___ walk to school every day when I was a child.",
+     "options": [
+      "was used to",
+      "am used to",
+      "use to",
+      "used to"
+     ],
+     "answer": 3,
+     "whyTr": "Geçmiş alışkanlık için used to kullanılır.",
+     "tag": "past-simple",
+     "level": "B1"
+    }
+   ]
+  },
+  "vocab": [
+   {
+    "id": "assignment",
+    "en": "assignment",
+    "tr": "ödev, görev",
+    "pos": "noun",
+    "example": "The sub plan included a short reading assignment.",
+    "exampleTr": "Vekil öğretmen planında kısa bir okuma ödevi vardı.",
+    "syn": [
+     "task"
+    ],
+    "ant": [],
+    "level": "B2"
+   },
+   {
+    "id": "roster",
+    "en": "roster",
+    "tr": "sınıf listesi",
+    "pos": "noun",
+    "example": "Check the roster before you take attendance.",
+    "exampleTr": "Yoklama almadan önce sınıf listesine bak.",
+    "syn": [],
+    "ant": [],
+    "level": "B2"
+   },
+   {
+    "id": "struggle",
+    "en": "struggle",
+    "tr": "zorlanmak; mücadele",
+    "pos": "verb",
+    "example": "Some students struggle with long words.",
+    "exampleTr": "Bazı öğrenciler uzun kelimelerde zorlanıyor.",
+    "syn": [],
+    "ant": [],
+    "level": "B2"
+   },
+   {
+    "id": "manage",
+    "en": "manage",
+    "tr": "idare etmek, yönetmek",
+    "pos": "verb",
+    "example": "She can manage a class of thirty children.",
+    "exampleTr": "O, otuz çocuklu bir sınıfı idare edebilir.",
+    "syn": [
+     "handle"
+    ],
+    "ant": [],
+    "level": "B2"
+   },
+   {
+    "id": "behave",
+    "en": "behave",
+    "tr": "davranmak",
+    "pos": "verb",
+    "example": "The students behave well when they are busy.",
+    "exampleTr": "Öğrenciler meşgulken iyi davranıyor.",
+    "syn": [],
+    "ant": [],
+    "level": "B2"
+   },
+   {
+    "id": "behavior",
+    "en": "behavior",
+    "tr": "davranış",
+    "pos": "noun",
+    "example": "Good behavior earns a sticker.",
+    "exampleTr": "İyi davranış bir yıldız çıkartması kazandırır.",
+    "syn": [],
+    "ant": [],
+    "level": "B2"
+   },
+   {
+    "id": "disrupt",
+    "en": "disrupt",
+    "tr": "bölmek, aksatmak",
+    "pos": "verb",
+    "example": "A loud noise can disrupt the whole lesson.",
+    "exampleTr": "Yüksek bir ses bütün dersi aksatabilir.",
+    "syn": [
+     "interrupt"
+    ],
+    "ant": [],
+    "level": "B2"
+   },
+   {
+    "id": "praise",
+    "en": "praise",
+    "tr": "övmek; övgü",
+    "pos": "verb",
+    "example": "Praise students when they try hard.",
+    "exampleTr": "Öğrencileri çok çabaladıklarında öv.",
+    "syn": [
+     "compliment"
+    ],
+    "ant": [
+     "criticize"
+    ],
+    "level": "B2"
+   },
+   {
+    "id": "reward",
+    "en": "reward",
+    "tr": "ödül; ödüllendirmek",
+    "pos": "noun",
+    "example": "The reward for quiet work was extra recess.",
+    "exampleTr": "Sessiz çalışmanın ödülü fazladan teneffüstü.",
+    "syn": [],
+    "ant": [],
+    "level": "B2"
+   },
+   {
+    "id": "cooperate",
+    "en": "cooperate",
+    "tr": "iş birliği yapmak",
+    "pos": "verb",
+    "example": "The children cooperate in small groups.",
+    "exampleTr": "Çocuklar küçük gruplarda iş birliği yapıyor.",
+    "syn": [],
+    "ant": [],
+    "level": "B2"
+   },
+   {
+    "id": "supervise",
+    "en": "supervise",
+    "tr": "gözetmek, denetlemek",
+    "pos": "verb",
+    "example": "Teachers supervise the playground at lunch.",
+    "exampleTr": "Öğretmenler öğle arasında oyun alanını gözetir.",
+    "syn": [
+     "oversee"
+    ],
+    "ant": [],
+    "level": "B2"
+   },
+   {
+    "id": "dismiss",
+    "en": "dismiss",
+    "tr": "(sınıfı) göndermek; geçersiz saymak",
+    "pos": "verb",
+    "example": "The teacher dismissed the class at 3:00.",
+    "exampleTr": "Öğretmen sınıfı saat 3'te serbest bıraktı.",
+    "syn": [],
+    "ant": [],
+    "level": "B2"
+   },
+   {
+    "id": "handle",
+    "en": "handle",
+    "tr": "ele almak, başa çıkmak",
+    "pos": "verb",
+    "example": "How did you handle the fire drill?",
+    "exampleTr": "Yangın tatbikatını nasıl idare ettin?",
+    "syn": [
+     "deal with"
+    ],
+    "ant": [],
+    "level": "B2"
+   },
+   {
+    "id": "distract",
+    "en": "distract",
+    "tr": "dikkatini dağıtmak",
+    "pos": "verb",
+    "example": "Phones can distract students during a test.",
+    "exampleTr": "Telefonlar sınav sırasında öğrencilerin dikkatini dağıtabilir.",
+    "syn": [],
+    "ant": [],
+    "level": "B2"
+   },
+   {
+    "id": "calm",
+    "en": "calm",
+    "tr": "sakin",
+    "pos": "adjective",
+    "example": "Stay calm when a child is upset.",
+    "exampleTr": "Bir çocuk üzgünken sakin kal.",
+    "syn": [
+     "peaceful"
+    ],
+    "ant": [
+     "upset"
+    ],
+    "level": "B2"
+   }
+  ],
+  "reading": {
+   "title": "Hafsa's first day as a substitute",
+   "text": "Hafsa had been dreaming about this day for months. At 6:30 a.m. she was already standing in her kitchen, drinking tea and checking her email for the tenth time. Mr. Brown, the school secretary, had sent her the sub plan the night before. It said that she would teach fourth-grade math and reading in Room 14.\n\nWhen Hafsa arrived at Lincoln Elementary, the hallway was still quiet. Mr. Brown handed her a lanyard and a key. \"Ms. Carter is out sick today,\" he explained, \"so the class is yours. The students are friendly, but they sometimes get excited.\" Hafsa nodded and walked to Room 14. She turned on the lights, wrote her name on the whiteboard, and put the attendance sheet on the desk.\n\nAt eight o'clock the children came in. While Hafsa was taking attendance, a boy named Leo raised his hand. \"Ms. Carter always lets us start with a game,\" he said. Hafsa smiled. She had read about this in the sub plan, so she was ready. \"Today we will start with a math puzzle,\" she answered. The class cheered.\n\nThe morning went better than she had expected. Then, just before lunch, the fire alarm rang. Hafsa's heart was pounding, but she remembered what she had learned in training. She counted the students, took the attendance sheet, and led everyone outside. Twenty-three children stood in a straight line, and nobody was missing. It was only a drill, but Mr. Brown told her later that she had handled it like a professional.\n\nIn the afternoon, the students were writing short stories when a girl started to cry. She had lost her favorite pencil case. Hafsa knelt next to her and said quietly, \"Let's look for it together.\" They found it under a chair. The girl hugged her, and Hafsa felt something she had not felt for a long time: she was proud of herself.\n\nThat evening, she called her son Emre. \"How was it?\" he asked. \"Tiring,\" she said, \"but wonderful. I think I have finally found my place.\"",
+   "glossary": [
+    {
+     "en": "lanyard",
+     "tr": "boyun askısı (kimlik için)"
+    },
+    {
+     "en": "sub plan",
+     "tr": "vekil öğretmen planı"
+    },
+    {
+     "en": "drill",
+     "tr": "tatbikat"
+    },
+    {
+     "en": "pounding",
+     "tr": "güm güm atan"
+    },
+    {
+     "en": "handle",
+     "tr": "idare etmek"
+    }
+   ],
+   "questions": [
+    {
+     "type": "mcq",
+     "q": "Why was Hafsa teaching Room 14?",
+     "options": [
+      "Mr. Brown was away.",
+      "Ms. Carter was out sick.",
+      "It was a drill day.",
+      "Leo had asked her."
+     ],
+     "answer": 1,
+     "whyTr": "Metin: 'Ms. Carter is out sick today.'",
+     "tag": "reading",
+     "level": "B2"
+    },
+    {
+     "type": "mcq",
+     "q": "Why was Hafsa ready when Leo mentioned the game?",
+     "options": [
+      "Emre had told her about it.",
+      "Ms. Carter had called her.",
+      "She had played it before.",
+      "She had read about it in the sub plan."
+     ],
+     "answer": 3,
+     "whyTr": "Metin: 'She had read about this in the sub plan.'",
+     "tag": "reading",
+     "level": "B2"
+    },
+    {
+     "type": "mcq",
+     "q": "What did Hafsa do during the fire drill?",
+     "options": [
+      "She counted the students and led them outside.",
+      "She called Mr. Brown.",
+      "She stayed in the room.",
+      "She asked Leo to lead."
+     ],
+     "answer": 0,
+     "whyTr": "Metin: 'She counted the students... led everyone outside.'",
+     "tag": "reading",
+     "level": "B2"
+    },
+    {
+     "type": "mcq",
+     "q": "How did Hafsa feel at the end of the day?",
+     "options": [
+      "Angry and bored",
+      "Afraid and sad",
+      "Tired but proud",
+      "Calm and sleepy"
+     ],
+     "answer": 2,
+     "whyTr": "Metin: 'Tiring but wonderful... proud of herself.'",
+     "tag": "reading",
+     "level": "B2"
+    }
+   ]
+  }
+ },
+ "evening": {
+  "listening": {
+   "title": "After the first day",
+   "script": [
+    {
+     "speaker": "Linda",
+     "text": "Hafsa! You look exhausted. How was your first day?"
+    },
+    {
+     "speaker": "Hafsa",
+     "text": "Exhausting, but wonderful. When I arrived, the hallway was empty, and I was so nervous that I dropped my keys."
+    },
+    {
+     "speaker": "Linda",
+     "text": "Oh no! Did anyone see you?"
+    },
+    {
+     "speaker": "Hafsa",
+     "text": "Only Mr. Brown. He was making coffee, and he laughed kindly."
+    },
+    {
+     "speaker": "Linda",
+     "text": "And the students?"
+    },
+    {
+     "speaker": "Hafsa",
+     "text": "They were great. While I was taking attendance, a boy told me the class always starts with a game."
+    },
+    {
+     "speaker": "Linda",
+     "text": "Did you play it?"
+    },
+    {
+     "speaker": "Hafsa",
+     "text": "Yes, a math puzzle. Then, before lunch, we had a fire drill. I had practiced it in training, so I stayed calm."
+    },
+    {
+     "speaker": "Linda",
+     "text": "I think I would panic!"
+    },
+    {
+     "speaker": "Hafsa",
+     "text": "I almost did. Anyway, I want to do it again. Mr. Brown has already asked me to come back on Thursday."
+    },
+    {
+     "speaker": "Linda",
+     "text": "That's fantastic. Let's celebrate. I had planned to bake a cake today, and now I have a reason."
+    },
+    {
+     "speaker": "Hafsa",
+     "text": "Perfect. I'll bring the tea."
+    }
+   ],
+   "questions": [
+    {
+     "type": "mcq",
+     "q": "What did Hafsa drop?",
+     "options": [
+      "Her phone",
+      "Her coffee",
+      "The attendance sheet",
+      "Her keys"
+     ],
+     "answer": 3,
+     "whyTr": "Hafsa: 'I dropped my keys.'",
+     "tag": "listening",
+     "level": "B2"
+    },
+    {
+     "type": "mcq",
+     "q": "What was Mr. Brown doing when she dropped them?",
+     "options": [
+      "Taking attendance",
+      "Making coffee",
+      "Answering the phone",
+      "Reading the sub plan"
+     ],
+     "answer": 1,
+     "whyTr": "Hafsa: 'He was making coffee.'",
+     "tag": "listening",
+     "level": "B2"
+    },
+    {
+     "type": "mcq",
+     "q": "Why did Hafsa stay calm during the fire drill?",
+     "options": [
+      "She had been in a drill that morning.",
+      "Linda had warned her.",
+      "She had practiced it in training.",
+      "The students helped her."
+     ],
+     "answer": 2,
+     "whyTr": "Hafsa: 'I had practiced it in training.'",
+     "tag": "listening",
+     "level": "B2"
+    },
+    {
+     "type": "mcq",
+     "q": "What had Linda planned to do today?",
+     "options": [
+      "Bake a cake",
+      "Visit the school",
+      "Call Mr. Brown",
+      "Take Hafsa to lunch"
+     ],
+     "answer": 0,
+     "whyTr": "Linda: 'I had planned to bake a cake today.'",
+     "tag": "listening",
+     "level": "B2"
+    }
+   ]
+  },
+  "writing": {
+   "promptTr": "Yoğun bir okul ya da iş gününü anlat. Neler önceden olmuştu, o sırada neler oluyordu, sonra ne oldu? Üç zamanı birlikte kullan.",
+   "promptEn": "Write a paragraph (120-180 words) about a busy day at school or work. Say what had happened before, what was happening, and what happened next.",
+   "frames": [
+    "When I arrived, ... had already ...",
+    "While I was ..., ... happened.",
+    "I had never ... before.",
+    "At the end of the day, ..."
+   ],
+   "model": "Last Monday was a very busy day. When I arrived at the school, the principal had already left for a meeting, and the office was empty. I was looking for the sub plan when the phone rang. It was Mr. Brown, and he asked me to cover a second classroom. I had never taught fifth grade before, so I felt nervous. While the students were reading quietly, I walked around the room and helped a girl who was struggling with a difficult word. After lunch, we had a short math quiz. Nobody finished early, because I had given them a hard puzzle! At the end of the day, I was exhausted, but I was also proud. I had survived my first double day, and I had learned a lot about managing a classroom. Next time, I will prepare even more carefully.",
+   "checklistTr": [
+    "Past perfect (had + V3) en az iki yerde var mı?",
+    "'While' ile past continuous ve ardından past simple kullandın mı?",
+    "Olayları zaman sırasıyla anlattın mı?",
+    "Cümleler büyük harfle başlıyor ve noktayla bitiyor mu?"
+   ],
+   "minWords": 120
+  },
+  "examSet": [
+   {
+    "type": "mcq",
+    "q": "Hafsa ___ the report when the power went out.",
+    "options": [
+     "wrote",
+     "had written",
+     "was writing",
+     "has written"
+    ],
+    "answer": 2,
+    "whyTr": "Araya giren olay sırasında devam eden eylem: past continuous.",
+    "tag": "past-simple",
+    "level": "B2"
+   },
+   {
+    "type": "mcq",
+    "q": "By the time the substitute arrived, the students ___ already ___ their seats.",
+    "options": [
+     "had / taken",
+     "were / taking",
+     "have / taken",
+     "did / take"
+    ],
+    "answer": 0,
+    "whyTr": "Varıştan önce tamamlanmış: had taken.",
+    "tag": "past-simple",
+    "level": "B2"
+   },
+   {
+    "type": "mcq",
+    "q": "I couldn't open the classroom because I ___ my keys.",
+    "options": [
+     "have lost",
+     "had lost",
+     "was losing",
+     "would lose"
+    ],
+    "answer": 1,
+    "whyTr": "Olumsuz sonucun nedeni, önceki bir olay: past perfect.",
+    "tag": "past-simple",
+    "level": "B2"
+   },
+   {
+    "type": "order",
+    "promptTr": "Soruyu sırala:",
+    "words": [
+     "when",
+     "What",
+     "alarm",
+     "rang?",
+     "the",
+     "doing",
+     "you",
+     "fire",
+     "were"
+    ],
+    "answer": "What were you doing when the fire alarm rang?",
+    "whyTr": "Past continuous soru: What + were + özne + V-ing.",
+    "tag": "question-form",
+    "level": "B2"
+   },
+   {
+    "type": "mcq",
+    "q": "Yesterday I met Linda while I ___ to the store.",
+    "options": [
+     "walked",
+     "was walking",
+     "had walked",
+     "walk"
+    ],
+    "answer": 1,
+    "whyTr": "While ile devam eden eylem: was walking.",
+    "tag": "past-simple",
+    "level": "B2"
+   },
+   {
+    "type": "fill",
+    "q": "Hafsa ___ never taught fourth grade before that day.",
+    "accept": [
+     "had"
+    ],
+    "hintTr": "had + V3",
+    "whyTr": "'Before that day' önceki deneyim: had never taught.",
+    "tag": "past-simple",
+    "level": "B2"
+   },
+   {
+    "type": "mcq",
+    "q": "Good teachers ___ students when they work hard.",
+    "options": [
+     "disrupt",
+     "dismiss",
+     "distract",
+     "praise"
+    ],
+    "answer": 3,
+    "whyTr": "Çok çalışanı övmek: praise.",
+    "tag": "vocab",
+    "level": "B2"
+   },
+   {
+    "type": "mcq",
+    "q": "Which word is closest in meaning to \"calm\"?",
+    "options": [
+     "peaceful",
+     "noisy",
+     "nervous",
+     "busy"
+    ],
+    "answer": 0,
+    "whyTr": "Calm ve peaceful benzer anlamlıdır.",
+    "tag": "synonym",
+    "level": "B2"
+   },
+   {
+    "type": "mcq",
+    "q": "What is the opposite of \"praise\"?",
+    "options": [
+     "reward",
+     "admire",
+     "criticize",
+     "thank"
+    ],
+    "answer": 2,
+    "whyTr": "Praise'in zıddı criticize.",
+    "tag": "antonym",
+    "level": "B2"
+   },
+   {
+    "type": "mcq",
+    "q": "A good sub must ___ a noisy class without shouting.",
+    "options": [
+     "distract",
+     "behave",
+     "cooperate",
+     "handle"
+    ],
+    "answer": 3,
+    "whyTr": "Gürültülü sınıfı idare etmek: handle (manage).",
+    "tag": "vocab",
+    "level": "B2"
+   },
+   {
+    "type": "mcq",
+    "q": "How long ___ you ___ in the US?",
+    "options": [
+     "did / live",
+     "have / lived",
+     "had / lived",
+     "are / living"
+    ],
+    "answer": 1,
+    "whyTr": "Süren durum için present perfect: How long have you lived?",
+    "tag": "present-perfect",
+    "level": "B1"
+   },
+   {
+    "type": "mcq",
+    "q": "Hafsa smiled ___ she was very nervous.",
+    "options": [
+     "because",
+     "unless",
+     "although",
+     "so"
+    ],
+    "answer": 2,
+    "whyTr": "Zıtlık anlatan bağlaç: although.",
+    "tag": "linkers",
+    "level": "B1"
+   },
+   {
+    "type": "mcq",
+    "q": "Mia had been waiting for the bus for twenty minutes when she realized it was a holiday. She walked home and made tea.\n\nWhat had Mia done before she realized it was a holiday?",
+    "options": [
+     "She had waited for the bus.",
+     "She had made tea.",
+     "She had walked home.",
+     "She had called school."
+    ],
+    "answer": 0,
+    "whyTr": "Metin: 'had been waiting for the bus'.",
+    "tag": "reading",
+    "level": "B2"
+   },
+   {
+    "type": "mcq",
+    "q": "Mr. Lee was grading papers when the principal knocked. She asked him to cover a class because a teacher had called in sick. He packed his things and ran down the hall.\n\nWhy did Mr. Lee cover the class?",
+    "options": [
+     "He was late.",
+     "The principal was angry.",
+     "A teacher was sick.",
+     "He had finished grading."
+    ],
+    "answer": 2,
+    "whyTr": "Metin: 'a teacher had called in sick'.",
+    "tag": "reading",
+    "level": "B2"
+   },
+   {
+    "type": "mcq",
+    "q": "Which sentence is correct?",
+    "options": [
+     "While I was cleaning the board, the bell rang.",
+     "While I cleaned the board, the bell was rang.",
+     "While I was cleaned the board, the bell rang.",
+     "While I clean the board, the bell rang."
+    ],
+    "answer": 0,
+    "whyTr": "Devam eden eylem past continuous, araya giren olay past simple.",
+    "tag": "past-simple",
+    "level": "B2"
+   },
+   {
+    "type": "mcq",
+    "q": "If it rains tomorrow, the field trip ___.",
+    "options": [
+     "is cancel",
+     "will be canceled",
+     "would cancel",
+     "has canceled"
+    ],
+    "answer": 1,
+    "whyTr": "Gelecekteki olası durum: will be + V3.",
+    "tag": "future",
+    "level": "B1"
+   },
+   {
+    "type": "mcq",
+    "q": "When I was a child, my grandmother ___ tell us stories every night.",
+    "options": [
+     "was",
+     "had",
+     "is",
+     "would"
+    ],
+    "answer": 3,
+    "whyTr": "Tekrarlanan geçmiş alışkanlık için would kullanılabilir.",
+    "tag": "past-simple",
+    "level": "B2"
+   },
+   {
+    "type": "mcq",
+    "q": "After Hafsa ___ the form, she gave it to Mr. Brown.",
+    "options": [
+     "was signing",
+     "had signed",
+     "signs",
+     "signing"
+    ],
+    "answer": 1,
+    "whyTr": "Önce biten eylem: had signed.",
+    "tag": "past-simple",
+    "level": "B2"
+   },
+   {
+    "type": "mcq",
+    "q": "Which sentence describes a background action in a story?",
+    "options": [
+     "The bell rang suddenly.",
+     "She opened the door.",
+     "He had left early.",
+     "The sun was shining and children were playing."
+    ],
+    "answer": 3,
+    "whyTr": "Arka plan betimlemesi past continuous ile yapılır.",
+    "tag": "past-simple",
+    "level": "B2"
+   },
+   {
+    "type": "mcq",
+    "q": "The principal ___ the school before the parents arrived.",
+    "options": [
+     "had visited",
+     "was visit",
+     "visits",
+     "has visited"
+    ],
+    "answer": 0,
+    "whyTr": "Önceki eylem: had visited.",
+    "tag": "past-simple",
+    "level": "B2"
+   }
+  ]
+ }
+}

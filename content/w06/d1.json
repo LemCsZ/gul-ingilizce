@@ -1,0 +1,794 @@
+{
+ "week": 6,
+ "day": 1,
+ "titleTr": "Özgeçmişini anlat: Present Perfect ve Past Simple",
+ "theme": "work-history",
+ "morning": {
+  "grammar": {
+   "topic": "Present Perfect vs Past Simple",
+   "explainTr": [
+    "Past Simple (worked, moved), zamanı belli ve bitmiş olaylar için kullanılır: I worked in a bank in 2019. Yanında genelde in 2019, last year, ago, yesterday gibi bir zaman ifadesi olur.",
+    "Present Perfect (have/has + V3) zamanı belli olmayan ya da bugüne bağlanan olaylar için kullanılır: I have worked in three schools. Önemli olan sonuç ya da deneyimdir, zaman değil.",
+    "Pratik kural: Belli bir zaman ifadesi varsa Past Simple. Ever, never, already, yet, so far, this week varsa Present Perfect. Mülakatta 'Have you ever...?' diye başlarlar, detayı Past Simple ile anlatırsın."
+   ],
+   "compareTr": "Türkçede 'çalıştım' hem bitmiş hem bugüne uzanan durumu anlatabilir. İngilizce ikisini ayırır: 'I worked there in 2019' bitmiş bir iştir, 'I have worked there' deneyimdir. 'Dün' gibi belli zamanla Present Perfect kullanılmaz.",
+   "table": [
+    [
+     "Past Simple",
+     "V2 / did",
+     "I worked there in 2019."
+    ],
+    [
+     "Present Perfect",
+     "have / has + V3",
+     "I have worked in three schools."
+    ],
+    [
+     "Past Simple ipuçları",
+     "yesterday, ago, last year, in 2019, when",
+     "She moved two years ago."
+    ],
+    [
+     "Present Perfect ipuçları",
+     "ever, never, already, yet, so far, just",
+     "Have you ever taught?"
+    ],
+    [
+     "Deneyim sorusu, sonra detay",
+     "Have you...? Where did you...?",
+     "Have you ever lived abroad? Where did you live?"
+    ]
+   ],
+   "examples": [
+    {
+     "en": "I worked in a school office in Isparta for six years.",
+     "tr": "Isparta'da altı yıl bir okul ofisinde çalıştım."
+    },
+    {
+     "en": "I have volunteered at my son's school.",
+     "tr": "Oğlumun okulunda gönüllü olarak çalıştım (ve çalışıyorum)."
+    },
+    {
+     "en": "Have you ever taught a class?",
+     "tr": "Hiç ders verdin mi?"
+    },
+    {
+     "en": "She left her job two years ago.",
+     "tr": "İki yıl önce işinden ayrıldı."
+    },
+    {
+     "en": "We haven't received an answer yet.",
+     "tr": "Henüz bir cevap almadık."
+    }
+   ],
+   "exercises": [
+    {
+     "type": "mcq",
+     "q": "I ___ in a bakery in 2018.",
+     "options": [
+      "have worked",
+      "worked",
+      "work"
+     ],
+     "answer": 1,
+     "whyTr": "2018 bitmiş, belli bir zaman: Past Simple.",
+     "tag": "past-simple",
+     "level": "B1"
+    },
+    {
+     "type": "mcq",
+     "q": "She ___ three different jobs so far.",
+     "options": [
+      "has had",
+      "had",
+      "have had"
+     ],
+     "answer": 0,
+     "whyTr": "'So far' bugüne kadar demek: has + V3.",
+     "tag": "present-perfect",
+     "level": "B1"
+    },
+    {
+     "type": "mcq",
+     "q": "When ___ you move to Texas?",
+     "options": [
+      "did",
+      "have",
+      "do"
+     ],
+     "answer": 0,
+     "whyTr": "'When' ile belli zaman sorulur: did + yalın fiil.",
+     "tag": "past-simple",
+     "level": "B1"
+    },
+    {
+     "type": "mcq",
+     "q": "___ you ever worked with children?",
+     "options": [
+      "Did",
+      "Do",
+      "Have"
+     ],
+     "answer": 2,
+     "whyTr": "Deneyim sorusu: Have you ever + V3?",
+     "tag": "present-perfect",
+     "level": "B1"
+    },
+    {
+     "type": "order",
+     "promptTr": "Soruyu sırala:",
+     "words": [
+      "did",
+      "work",
+      "year?",
+      "Where",
+      "you",
+      "last"
+     ],
+     "answer": "Where did you work last year?",
+     "whyTr": "Sıra: soru kelimesi + did + özne + fiil.",
+     "tag": "past-simple",
+     "level": "B1"
+    },
+    {
+     "type": "mcq",
+     "q": "Emre ___ his homework yet.",
+     "options": [
+      "didn't finished",
+      "hasn't finished",
+      "doesn't finish"
+     ],
+     "answer": 1,
+     "whyTr": "'Yet' ile olumsuz: hasn't + V3.",
+     "tag": "present-perfect",
+     "level": "B1"
+    },
+    {
+     "type": "mcq",
+     "q": "I ___ to the United States ten years ago.",
+     "options": [
+      "came",
+      "have come",
+      "come"
+     ],
+     "answer": 0,
+     "whyTr": "'Ten years ago' bitmiş zaman belirtir: Past Simple.",
+     "tag": "past-simple",
+     "level": "B1"
+    },
+    {
+     "type": "order",
+     "promptTr": "Cümleyi sırala:",
+     "words": [
+      "have",
+      "worked",
+      "a",
+      "I",
+      "never",
+      "in",
+      "school."
+     ],
+     "answer": "I have never worked in a school.",
+     "whyTr": "never, have'ten sonra ve V3'ten önce gelir.",
+     "tag": "present-perfect",
+     "level": "B1"
+    },
+    {
+     "type": "mcq",
+     "q": "Which sentence is correct?",
+     "options": [
+      "I saw Linda yesterday.",
+      "I have seen Linda yesterday.",
+      "I have saw Linda yesterday."
+     ],
+     "answer": 0,
+     "whyTr": "'Yesterday' ile Present Perfect kullanılmaz; Past Simple gerekir.",
+     "tag": "past-simple",
+     "level": "B1"
+    },
+    {
+     "type": "fill",
+     "q": "I ___ studied English for two years, but I want to learn more.",
+     "accept": [
+      "have",
+      "'ve"
+     ],
+     "hintTr": "have / has",
+     "whyTr": "Süre bugüne kadar sürüyor: have + V3.",
+     "tag": "present-perfect",
+     "level": "B1"
+    },
+    {
+     "type": "mcq",
+     "q": "This job is ___ than my old job.",
+     "options": [
+      "more good",
+      "gooder",
+      "better"
+     ],
+     "answer": 2,
+     "whyTr": "Good'un karşılaştırması better'dır.",
+     "tag": "comparatives",
+     "level": "A2"
+    },
+    {
+     "type": "fill",
+     "q": "Linda ___ to Florida last summer.",
+     "accept": [
+      "went"
+     ],
+     "hintTr": "go (geçmiş)",
+     "whyTr": "'Last summer' belli zaman: went.",
+     "tag": "past-simple",
+     "level": "B1"
+    }
+   ]
+  },
+  "vocab": [
+   {
+    "id": "experience",
+    "en": "experience",
+    "tr": "deneyim, tecrübe",
+    "pos": "noun",
+    "example": "I have two years of experience in an office.",
+    "exampleTr": "Bir ofiste iki yıllık deneyimim var.",
+    "syn": [],
+    "ant": [],
+    "level": "B1"
+   },
+   {
+    "id": "resume",
+    "en": "resume",
+    "tr": "özgeçmiş (CV)",
+    "pos": "noun",
+    "example": "I sent my resume to the school.",
+    "exampleTr": "Özgeçmişimi okula gönderdim.",
+    "syn": [],
+    "ant": [],
+    "level": "B1"
+   },
+   {
+    "id": "apply",
+    "en": "apply",
+    "tr": "başvurmak",
+    "pos": "verb",
+    "example": "She applied for a job at the library.",
+    "exampleTr": "Kütüphanede bir işe başvurdu.",
+    "syn": [],
+    "ant": [],
+    "level": "B1"
+   },
+   {
+    "id": "hire",
+    "en": "hire",
+    "tr": "işe almak",
+    "pos": "verb",
+    "example": "The school hired a new secretary.",
+    "exampleTr": "Okul yeni bir sekreter işe aldı.",
+    "syn": [
+     "employ"
+    ],
+    "ant": [
+     "fire"
+    ],
+    "level": "B1"
+   },
+   {
+    "id": "employer",
+    "en": "employer",
+    "tr": "işveren",
+    "pos": "noun",
+    "example": "My employer is very kind.",
+    "exampleTr": "İşverenim çok nazik.",
+    "syn": [],
+    "ant": [
+     "employee"
+    ],
+    "level": "B1"
+   },
+   {
+    "id": "position",
+    "en": "position",
+    "tr": "pozisyon, iş",
+    "pos": "noun",
+    "example": "The position is open until Friday.",
+    "exampleTr": "Pozisyon cumaya kadar açık.",
+    "syn": [
+     "job"
+    ],
+    "ant": [],
+    "level": "B1"
+   },
+   {
+    "id": "qualification",
+    "en": "qualification",
+    "tr": "nitelik, yeterlilik",
+    "pos": "noun",
+    "example": "A teaching certificate is an important qualification.",
+    "exampleTr": "Öğretmenlik sertifikası önemli bir yeterliliktir.",
+    "syn": [],
+    "ant": [],
+    "level": "B1"
+   },
+   {
+    "id": "reference",
+    "en": "reference",
+    "tr": "referans",
+    "pos": "noun",
+    "example": "Linda is my reference for this job.",
+    "exampleTr": "Linda bu iş için referansım.",
+    "syn": [],
+    "ant": [],
+    "level": "B1"
+   },
+   {
+    "id": "responsibility",
+    "en": "responsibility",
+    "tr": "sorumluluk",
+    "pos": "noun",
+    "example": "Taking attendance is your responsibility.",
+    "exampleTr": "Yoklama almak senin sorumluluğun.",
+    "syn": [
+     "duty"
+    ],
+    "ant": [],
+    "level": "B1"
+   },
+   {
+    "id": "volunteer",
+    "en": "volunteer",
+    "tr": "gönüllü olarak çalışmak; gönüllü",
+    "pos": "verb",
+    "example": "I volunteer at my son's school.",
+    "exampleTr": "Oğlumun okulunda gönüllü çalışıyorum.",
+    "syn": [],
+    "ant": [],
+    "level": "B1"
+   },
+   {
+    "id": "manage",
+    "en": "manage",
+    "tr": "yönetmek",
+    "pos": "verb",
+    "example": "She manages a small team.",
+    "exampleTr": "Küçük bir ekibi yönetiyor.",
+    "syn": [
+     "run"
+    ],
+    "ant": [],
+    "level": "B1"
+   },
+   {
+    "id": "improve",
+    "en": "improve",
+    "tr": "geliştirmek, gelişmek",
+    "pos": "verb",
+    "example": "I want to improve my English.",
+    "exampleTr": "İngilizcemi geliştirmek istiyorum.",
+    "syn": [],
+    "ant": [],
+    "level": "B1"
+   },
+   {
+    "id": "gain",
+    "en": "gain",
+    "tr": "kazanmak, edinmek",
+    "pos": "verb",
+    "example": "You gain experience in every new job.",
+    "exampleTr": "Her yeni işte tecrübe kazanırsın.",
+    "syn": [],
+    "ant": [],
+    "level": "B1"
+   },
+   {
+    "id": "recently",
+    "en": "recently",
+    "tr": "geçenlerde, son zamanlarda",
+    "pos": "adverb",
+    "example": "I recently started a new course.",
+    "exampleTr": "Geçenlerde yeni bir kursa başladım.",
+    "syn": [
+     "lately"
+    ],
+    "ant": [],
+    "level": "B1"
+   },
+   {
+    "id": "available",
+    "en": "available",
+    "tr": "müsait, uygun",
+    "pos": "adjective",
+    "example": "Are you available on Monday?",
+    "exampleTr": "Pazartesi müsait misin?",
+    "syn": [],
+    "ant": [
+     "unavailable"
+    ],
+    "level": "B1"
+   }
+  ],
+  "reading": {
+   "title": "Hafsa writes her first American resume",
+   "text": "Hafsa is writing her first American resume, and Linda is helping her at the kitchen table. \"Start with your work experience,\" Linda says. \"What have you done so far?\"\n\nHafsa thinks for a moment. \"In Isparta, I worked in a school office for six years. I answered the phone, organized files, and helped parents. I left that job in 2019, when we moved to the United States.\"\n\n\"That is good experience,\" says Linda. \"What about here?\"\n\n\"Since we arrived, I have volunteered at Emre's school. I have helped in the library, and I have read stories to small children. Last spring I also joined a field trip as a parent helper.\"\n\nLinda smiles. \"Then write all of that down. Employers like to see both what you did in the past and what you have done recently. Be careful with your verbs. Use the past tense for jobs that ended, like 'worked' or 'organized.' Use 'have' for things that continue until now, like 'have volunteered.'\"\n\nHafsa types for an hour. At the end, she has a clear page with three sections: experience, skills, and references. Linda has agreed to be one of her references. \"I have never written a resume in English before,\" Hafsa says, \"but I think this one looks professional.\"\n\n\"It does,\" Linda says. \"Now send it to Mr. Brown. The school hasn't hired a new substitute yet.\" ",
+   "glossary": [
+    {
+     "en": "organize",
+     "tr": "düzenlemek"
+    },
+    {
+     "en": "files",
+     "tr": "dosyalar, evraklar"
+    },
+    {
+     "en": "field trip",
+     "tr": "okul gezisi"
+    },
+    {
+     "en": "professional",
+     "tr": "profesyonel, düzgün"
+    },
+    {
+     "en": "section",
+     "tr": "bölüm"
+    }
+   ],
+   "questions": [
+    {
+     "type": "mcq",
+     "q": "How long did Hafsa work in the school office in Isparta?",
+     "options": [
+      "Two years",
+      "Six years",
+      "Ten years",
+      "Six months"
+     ],
+     "answer": 1,
+     "whyTr": "Metin: 'for six years'.",
+     "tag": "reading",
+     "level": "B1"
+    },
+    {
+     "type": "mcq",
+     "q": "Why did Hafsa leave that job in 2019?",
+     "options": [
+      "She did not like the office.",
+      "She found a better job in Isparta.",
+      "Linda asked her to leave.",
+      "The family moved to the United States."
+     ],
+     "answer": 3,
+     "whyTr": "Metin: 'when we moved to the United States'.",
+     "tag": "reading",
+     "level": "B1"
+    },
+    {
+     "type": "mcq",
+     "q": "What has Hafsa done since she arrived?",
+     "options": [
+      "She has volunteered at Emre's school.",
+      "She has worked at a bank.",
+      "She has taught a class.",
+      "She has sent three applications."
+     ],
+     "answer": 0,
+     "whyTr": "Metin: 'I have volunteered at Emre's school'.",
+     "tag": "reading",
+     "level": "B1"
+    },
+    {
+     "type": "mcq",
+     "q": "According to Linda, when should Hafsa use 'have'?",
+     "options": [
+      "For jobs that ended long ago",
+      "Only in questions",
+      "For things that continue until now",
+      "Only with the word 'yesterday'"
+     ],
+     "answer": 2,
+     "whyTr": "Linda: 'Use have for things that continue until now.'",
+     "tag": "reading",
+     "level": "B1"
+    }
+   ]
+  }
+ },
+ "evening": {
+  "listening": {
+   "title": "A job interview at the school office",
+   "script": [
+    {
+     "speaker": "Mr. Brown",
+     "text": "Good morning, Hafsa. Thank you for coming. Please sit down."
+    },
+    {
+     "speaker": "Hafsa",
+     "text": "Good morning, Mr. Brown. Thank you for seeing me."
+    },
+    {
+     "speaker": "Mr. Brown",
+     "text": "I read your resume. You have a lot of office experience. Where did you work in Turkey?"
+    },
+    {
+     "speaker": "Hafsa",
+     "text": "I worked in a school office in Isparta for six years."
+    },
+    {
+     "speaker": "Mr. Brown",
+     "text": "Excellent. Have you ever worked in an American school?"
+    },
+    {
+     "speaker": "Hafsa",
+     "text": "Not as an employee. But I have volunteered in the library since last September."
+    },
+    {
+     "speaker": "Mr. Brown",
+     "text": "That helps. Have you ever substituted for a teacher?"
+    },
+    {
+     "speaker": "Hafsa",
+     "text": "No, I have never done that. But I have helped in a classroom many times."
+    },
+    {
+     "speaker": "Mr. Brown",
+     "text": "When did you start volunteering?"
+    },
+    {
+     "speaker": "Hafsa",
+     "text": "I started two years ago, when my son began fourth grade."
+    },
+    {
+     "speaker": "Mr. Brown",
+     "text": "Good. We have two open positions. Are you available on Mondays and Wednesdays?"
+    },
+    {
+     "speaker": "Hafsa",
+     "text": "Yes, I am. I have also finished the online safety course you sent me."
+    },
+    {
+     "speaker": "Mr. Brown",
+     "text": "Perfect. Please bring two references next week."
+    }
+   ],
+   "questions": [
+    {
+     "type": "mcq",
+     "q": "Where did Hafsa work in Turkey?",
+     "options": [
+      "In a library",
+      "In a school office",
+      "In a bakery",
+      "In a hospital"
+     ],
+     "answer": 1,
+     "whyTr": "Hafsa: 'in a school office in Isparta'.",
+     "tag": "listening",
+     "level": "B1"
+    },
+    {
+     "type": "mcq",
+     "q": "Has Hafsa ever substituted for a teacher?",
+     "options": [
+      "Yes, many times.",
+      "Yes, once.",
+      "Only in Turkey.",
+      "No, she hasn't."
+     ],
+     "answer": 3,
+     "whyTr": "Hafsa: 'No, I have never done that.'",
+     "tag": "listening",
+     "level": "B1"
+    },
+    {
+     "type": "mcq",
+     "q": "When did she start volunteering?",
+     "options": [
+      "Two years ago",
+      "Last week",
+      "Six years ago",
+      "Last September"
+     ],
+     "answer": 0,
+     "whyTr": "Hafsa: 'I started two years ago'.",
+     "tag": "listening",
+     "level": "B1"
+    },
+    {
+     "type": "mcq",
+     "q": "What should Hafsa bring next week?",
+     "options": [
+      "Her ID",
+      "A new resume",
+      "Two references",
+      "Her son"
+     ],
+     "answer": 2,
+     "whyTr": "Mr. Brown: 'bring two references next week'.",
+     "tag": "listening",
+     "level": "B1"
+    }
+   ]
+  },
+  "writing": {
+   "promptTr": "Mr. Brown'a başvuru e-postası yaz (80-120 kelime). Hem geçmiş (bitmiş) işlerini hem de bugüne kadar yaptıklarını anlat.",
+   "promptEn": "Write an email to Mr. Brown about a job at his school. Tell him about your past jobs and what you have done recently.",
+   "frames": [
+    "Dear Mr. Brown, I am writing to apply for ...",
+    "In (year), I worked as ...",
+    "I have volunteered / helped ... since ...",
+    "I have never ... , but I ...",
+    "Thank you for your time. Sincerely, ..."
+   ],
+   "model": "Dear Mr. Brown,\n\nI am writing to apply for the substitute position at Lincoln Elementary School. In Isparta, I worked in a school office for six years. I answered the phone, helped parents, and organized student files. I left that job in 2019 because my family moved to the United States.\n\nSince then, I have volunteered in the school library, and I have helped in my son's classroom many times. I have also finished an online safety course. I have never worked as a substitute teacher, but I learn quickly and I love working with children.\n\nI am available on Mondays and Wednesdays. Thank you for your time.\n\nSincerely,\nHafsa",
+   "checklistTr": [
+    "Bitmiş işler için Past Simple (worked, left) kullandın mı?",
+    "Bugüne kadar süren veya zamanı belli olmayan şeyler için have + V3 var mı?",
+    "'Yesterday, in 2019, ago' gibi ifadelerle Present Perfect kullanmadığından emin ol.",
+    "Selamlama ve kapanış (Dear..., Sincerely) var mı?"
+   ],
+   "minWords": 70
+  },
+  "examSet": [
+   {
+    "type": "mcq",
+    "q": "My sister ___ in Ankara in 2015, but now she lives in Izmir.",
+    "options": [
+     "has lived",
+     "lived",
+     "lives"
+    ],
+    "answer": 1,
+    "whyTr": "2015 bitmiş bir zaman: Past Simple.",
+    "tag": "past-simple",
+    "level": "B1"
+   },
+   {
+    "type": "mcq",
+    "q": "I ___ never taught a class, but I want to try.",
+    "options": [
+     "have",
+     "did",
+     "am"
+    ],
+    "answer": 0,
+    "whyTr": "Never ile have + V3 kullanılır.",
+    "tag": "present-perfect",
+    "level": "B1"
+   },
+   {
+    "type": "mcq",
+    "q": "___ you finish the report yesterday?",
+    "options": [
+     "Did",
+     "Have",
+     "Do"
+    ],
+    "answer": 0,
+    "whyTr": "Yesterday belli zaman: Did you...?",
+    "tag": "past-simple",
+    "level": "B1"
+   },
+   {
+    "type": "mcq",
+    "q": "Right now, Emre ___ his homework in his room.",
+    "options": [
+     "does",
+     "has done",
+     "is doing"
+    ],
+    "answer": 2,
+    "whyTr": "Şu an olan iş: Present Continuous.",
+    "tag": "present-continuous",
+    "level": "A2"
+   },
+   {
+    "type": "mcq",
+    "q": "You ___ wear a name tag at school. It is a rule.",
+    "options": [
+     "can",
+     "have to",
+     "would"
+    ],
+    "answer": 1,
+    "whyTr": "Kural için have to kullanılır.",
+    "tag": "modals",
+    "level": "A2"
+   },
+   {
+    "type": "mcq",
+    "q": "Which word means almost the same as \"hire\"?",
+    "options": [
+     "fire",
+     "teach",
+     "apply",
+     "employ"
+    ],
+    "answer": 3,
+    "whyTr": "Hire ve employ: işe almak.",
+    "tag": "synonym",
+    "level": "B1"
+   },
+   {
+    "type": "mcq",
+    "q": "What is the opposite of \"available\"?",
+    "options": [
+     "unavailable",
+     "recent",
+     "helpful",
+     "quiet"
+    ],
+    "answer": 0,
+    "whyTr": "Available'ın zıttı unavailable.",
+    "tag": "antonym",
+    "level": "B1"
+   },
+   {
+    "type": "mcq",
+    "q": "Hafsa put her resume and two ___ in the envelope. Linda and Mr. Brown wrote them.",
+    "options": [
+     "positions",
+     "responsibilities",
+     "references",
+     "employers"
+    ],
+    "answer": 2,
+    "whyTr": "Referans mektupları: references.",
+    "tag": "vocab",
+    "level": "B1"
+   },
+   {
+    "type": "mcq",
+    "q": "The ___ at the school is a clerk job. It is open until Friday.",
+    "options": [
+     "experience",
+     "position",
+     "resume",
+     "qualification"
+    ],
+    "answer": 1,
+    "whyTr": "Açık iş pozisyonu: position.",
+    "tag": "vocab",
+    "level": "B1"
+   },
+   {
+    "type": "mcq",
+    "q": "Tom looked for a job for months. In March, a bakery ___ him.",
+    "options": [
+     "hired",
+     "has hired",
+     "hires"
+    ],
+    "answer": 0,
+    "whyTr": "Bitmiş, belli bir olay: Past Simple (hired).",
+    "tag": "past-simple",
+    "level": "B1"
+   },
+   {
+    "type": "mcq",
+    "q": "Linda has lived on Maple Street since 2010. She has worked at the library for five years. She hasn't taken a vacation yet this year.\n\nWhich sentence is true?",
+    "options": [
+     "Linda has not had a vacation this year.",
+     "Linda moved last year.",
+     "Linda works at a school.",
+     "Linda lived in Florida in 2010."
+    ],
+    "answer": 0,
+    "whyTr": "Metin: 'hasn't taken a vacation yet this year'.",
+    "tag": "reading",
+    "level": "B1"
+   },
+   {
+    "type": "mcq",
+    "q": "A school bus is ___ than a city bus, so the children sit on small seats.",
+    "options": [
+     "more small",
+     "most small",
+     "smaller"
+    ],
+    "answer": 2,
+    "whyTr": "Kısa sıfat: small + er.",
+    "tag": "comparatives",
+    "level": "A2"
+   }
+  ]
+ }
+}

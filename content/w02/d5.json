@@ -1,0 +1,770 @@
+{
+ "week": 2,
+ "day": 5,
+ "titleTr": "Markette ve telefonda: Şu anda ne yapıyorsun?",
+ "theme": "shopping",
+ "morning": {
+  "grammar": {
+   "topic": "Present Continuous: şu anda olanlar (am/is/are + -ing)",
+   "explainTr": [
+    "Present Continuous, şu anda olan ya da bu dönemde devam eden bir işi anlatır. Yapı: am / is / are + fiil-ing. I am waiting. She is calling. They are standing.",
+    "Yazım: make → making (e düşer), run/sit/put → running/sitting/putting (ünsüz ikilenir). Olumsuz: isn't / aren't / am not + fiil-ing. Soru: Is she calling? Are you waiting?",
+    "Sık kullanılan işaretler: now, right now, at the moment, today, Look!, Listen!"
+   ],
+   "compareTr": "Türkçede 'bekliyorum' hem şu an hem alışkanlık için kullanılır. İngilizcede ayrım var: şu an için I am waiting, alışkanlık için I wait. Ayrıca 'am/is/are' unutulmamalı: 'I waiting' yanlış.",
+   "table": [
+    [
+     "I",
+     "am + fiil-ing",
+     "I am waiting."
+    ],
+    [
+     "he / she / it",
+     "is + fiil-ing",
+     "She is calling."
+    ],
+    [
+     "you / we / they",
+     "are + fiil-ing",
+     "They are standing."
+    ],
+    [
+     "Olumsuz",
+     "isn't / aren't / am not",
+     "He isn't buying."
+    ],
+    [
+     "Soru",
+     "Is / Are + özne + -ing?",
+     "Are you waiting?"
+    ]
+   ],
+   "examples": [
+    {
+     "en": "I am buying rice.",
+     "tr": "Pirinç alıyorum."
+    },
+    {
+     "en": "Emre is watching a movie.",
+     "tr": "Emre film izliyor."
+    },
+    {
+     "en": "We are waiting in line.",
+     "tr": "Sırada bekliyoruz."
+    },
+    {
+     "en": "She isn't using her phone.",
+     "tr": "Telefonunu kullanmıyor."
+    },
+    {
+     "en": "Are you making a cake?",
+     "tr": "Pasta mı yapıyorsun?"
+    }
+   ],
+   "exercises": [
+    {
+     "type": "mcq",
+     "q": "Hafsa ___ at the supermarket right now.",
+     "options": [
+      "is shopping",
+      "shops",
+      "shopping"
+     ],
+     "answer": 0,
+     "whyTr": "Şu an olan iş: am/is/are + fiil-ing.",
+     "tag": "present-continuous",
+     "level": "A2"
+    },
+    {
+     "type": "mcq",
+     "q": "I ___ for my son now.",
+     "options": [
+      "wait",
+      "am waiting",
+      "is waiting"
+     ],
+     "answer": 1,
+     "whyTr": "I ile 'am' + fiil-ing.",
+     "tag": "present-continuous",
+     "level": "A2"
+    },
+    {
+     "type": "mcq",
+     "q": "They ___ in the checkout line.",
+     "options": [
+      "is standing",
+      "stand",
+      "are standing"
+     ],
+     "answer": 2,
+     "whyTr": "They ile 'are' + fiil-ing.",
+     "tag": "present-continuous",
+     "level": "A2"
+    },
+    {
+     "type": "order",
+     "promptTr": "Cümleyi sırala:",
+     "words": [
+      "is",
+      "Linda",
+      "calling",
+      "me"
+     ],
+     "answer": "Linda is calling me",
+     "whyTr": "Sıra: özne + is + fiil-ing + gerisi.",
+     "tag": "word-order",
+     "level": "A2"
+    },
+    {
+     "type": "mcq",
+     "q": "She is ___ a cart.",
+     "options": [
+      "pushing",
+      "push",
+      "pushs"
+     ],
+     "answer": 0,
+     "whyTr": "is'ten sonra fiil-ing gelir: pushing.",
+     "tag": "present-continuous",
+     "level": "A2"
+    },
+    {
+     "type": "mcq",
+     "q": "He is ___ a sandwich.",
+     "options": [
+      "makeing",
+      "making",
+      "maks"
+     ],
+     "answer": 1,
+     "whyTr": "make: sondaki e düşer, -ing eklenir: making.",
+     "tag": "spelling",
+     "level": "A2"
+    },
+    {
+     "type": "mcq",
+     "q": "The cashier is ___ the bag.",
+     "options": [
+      "puting",
+      "puts",
+      "putting"
+     ],
+     "answer": 2,
+     "whyTr": "Kısa sesli + tek ünsüz biten fiilde ünsüz ikilenir: putting.",
+     "tag": "spelling",
+     "level": "A2"
+    },
+    {
+     "type": "mcq",
+     "q": "___ you talking to Linda?",
+     "options": [
+      "Do",
+      "Are",
+      "Is"
+     ],
+     "answer": 1,
+     "whyTr": "You ile soru: Are you...-ing?",
+     "tag": "question-form",
+     "level": "A2"
+    },
+    {
+     "type": "mcq",
+     "q": "Emre isn't ___ his homework. He is playing.",
+     "options": [
+      "do",
+      "doing",
+      "does"
+     ],
+     "answer": 1,
+     "whyTr": "Olumsuz: isn't + fiil-ing.",
+     "tag": "negative-form",
+     "level": "A2"
+    },
+    {
+     "type": "order",
+     "promptTr": "Cümleyi sırala:",
+     "words": [
+      "Is",
+      "buying",
+      "she",
+      "vegetables",
+      "?"
+     ],
+     "answer": "Is she buying vegetables ?",
+     "whyTr": "Soru: Is + özne + fiil-ing.",
+     "tag": "question-form",
+     "level": "A2"
+    },
+    {
+     "type": "fill",
+     "q": "We are ___ (look) for the milk.",
+     "accept": [
+      "looking"
+     ],
+     "hintTr": "look + ing",
+     "whyTr": "Fiil-ing: looking.",
+     "tag": "present-continuous",
+     "level": "A2"
+    },
+    {
+     "type": "mcq",
+     "q": "Which sentence is correct?",
+     "options": [
+      "I don't buying candy today.",
+      "I not am buying candy today.",
+      "I am not buying candy today."
+     ],
+     "answer": 2,
+     "whyTr": "Olumsuz: am not + fiil-ing; don't + -ing olmaz.",
+     "tag": "negative-form",
+     "level": "A2"
+    }
+   ]
+  },
+  "vocab": [
+   {
+    "id": "cart",
+    "en": "cart",
+    "tr": "alışveriş arabası",
+    "pos": "noun",
+    "example": "She pushes the cart down the aisle.",
+    "exampleTr": "Alışveriş arabasını koridor boyunca itiyor.",
+    "syn": [],
+    "ant": [],
+    "level": "A1"
+   },
+   {
+    "id": "aisle",
+    "en": "aisle",
+    "tr": "market koridoru",
+    "pos": "noun",
+    "example": "The milk is in aisle five.",
+    "exampleTr": "Süt beşinci koridorda.",
+    "syn": [],
+    "ant": [],
+    "level": "A1"
+   },
+   {
+    "id": "price",
+    "en": "price",
+    "tr": "fiyat",
+    "pos": "noun",
+    "example": "What is the price of this apple?",
+    "exampleTr": "Bu elmanın fiyatı nedir?",
+    "syn": [
+     "cost"
+    ],
+    "ant": [],
+    "level": "A1"
+   },
+   {
+    "id": "cost",
+    "en": "cost",
+    "tr": "(fiyatı) olmak",
+    "pos": "verb",
+    "example": "How much does it cost?",
+    "exampleTr": "Ne kadar tutuyor?",
+    "syn": [
+     "price"
+    ],
+    "ant": [],
+    "level": "A1"
+   },
+   {
+    "id": "cheap",
+    "en": "cheap",
+    "tr": "ucuz",
+    "pos": "adjective",
+    "example": "Bananas are cheap today.",
+    "exampleTr": "Muz bugün ucuz.",
+    "syn": [
+     "inexpensive"
+    ],
+    "ant": [
+     "expensive"
+    ],
+    "level": "A1"
+   },
+   {
+    "id": "expensive",
+    "en": "expensive",
+    "tr": "pahalı",
+    "pos": "adjective",
+    "example": "Meat is expensive.",
+    "exampleTr": "Et pahalı.",
+    "syn": [],
+    "ant": [
+     "cheap"
+    ],
+    "level": "A1"
+   },
+   {
+    "id": "cashier",
+    "en": "cashier",
+    "tr": "kasiyer",
+    "pos": "noun",
+    "example": "The cashier is very friendly.",
+    "exampleTr": "Kasiyer çok cana yakın.",
+    "syn": [],
+    "ant": [],
+    "level": "A1"
+   },
+   {
+    "id": "receipt",
+    "en": "receipt",
+    "tr": "fiş",
+    "pos": "noun",
+    "example": "Keep your receipt.",
+    "exampleTr": "Fişini sakla.",
+    "syn": [],
+    "ant": [],
+    "level": "A1"
+   },
+   {
+    "id": "sale",
+    "en": "sale",
+    "tr": "indirim",
+    "pos": "noun",
+    "example": "There is a sale on shoes.",
+    "exampleTr": "Ayakkabılarda indirim var.",
+    "syn": [],
+    "ant": [],
+    "level": "A1"
+   },
+   {
+    "id": "bag",
+    "en": "bag",
+    "tr": "çanta, poşet",
+    "pos": "noun",
+    "example": "Do you need a bag?",
+    "exampleTr": "Poşet gerekiyor mu?",
+    "syn": [],
+    "ant": [],
+    "level": "A1"
+   },
+   {
+    "id": "buy",
+    "en": "buy",
+    "tr": "satın almak",
+    "pos": "verb",
+    "example": "I am buying rice and milk.",
+    "exampleTr": "Pirinç ve süt alıyorum.",
+    "syn": [
+     "purchase"
+    ],
+    "ant": [
+     "sell"
+    ],
+    "level": "A1"
+   },
+   {
+    "id": "call",
+    "en": "call",
+    "tr": "aramak; telefon",
+    "pos": "verb",
+    "example": "I'm calling my neighbor.",
+    "exampleTr": "Komşumu arıyorum.",
+    "syn": [],
+    "ant": [],
+    "level": "A1"
+   },
+   {
+    "id": "text",
+    "en": "text",
+    "tr": "mesaj atmak; kısa mesaj",
+    "pos": "verb",
+    "example": "Emre is texting his friend.",
+    "exampleTr": "Emre arkadaşına mesaj atıyor.",
+    "syn": [],
+    "ant": [],
+    "level": "A1"
+   },
+   {
+    "id": "wait",
+    "en": "wait",
+    "tr": "beklemek",
+    "pos": "verb",
+    "example": "We are waiting in line.",
+    "exampleTr": "Sırada bekliyoruz.",
+    "syn": [],
+    "ant": [],
+    "level": "A1"
+   },
+   {
+    "id": "hold",
+    "en": "hold",
+    "tr": "tutmak; hatta beklemek",
+    "pos": "verb",
+    "example": "Can you hold the bag for me?",
+    "exampleTr": "Çantayı benim için tutabilir misin?",
+    "syn": [],
+    "ant": [],
+    "level": "A1"
+   }
+  ],
+  "reading": {
+   "title": "A busy Saturday at the market",
+   "text": "It is Saturday morning, and Hafsa is at the supermarket. She is pushing a cart down aisle three. She is looking for rice, but she can't find it. Right now, she is reading the signs.\n\nSuddenly her phone rings. It is Emre. \"Mom, where are you?\" he asks. \"I'm at the supermarket,\" Hafsa answers. \"I'm buying food for dinner. What are you doing?\" Emre says, \"I'm watching a movie, and Linda is sitting with me.\" Hafsa laughs. \"Please don't eat all the cookies!\"\n\nAfter the call, Hafsa sees a sale on rice. It is cheap today! She puts two bags in the cart. Then she goes to the checkout. The cashier is scanning the food. Many people are waiting in line, but nobody is angry. Hafsa takes her receipt and says, \"Thank you!\"",
+   "glossary": [
+    {
+     "en": "sign",
+     "tr": "tabela, işaret"
+    },
+    {
+     "en": "suddenly",
+     "tr": "birdenbire"
+    },
+    {
+     "en": "scan",
+     "tr": "taramak (barkod)"
+    },
+    {
+     "en": "checkout",
+     "tr": "kasa"
+    }
+   ],
+   "questions": [
+    {
+     "type": "mcq",
+     "q": "What is Hafsa looking for?",
+     "options": [
+      "Rice",
+      "Cookies",
+      "A cart"
+     ],
+     "answer": 0,
+     "whyTr": "Metin: 'She is looking for rice'.",
+     "tag": "reading",
+     "level": "A2"
+    },
+    {
+     "type": "mcq",
+     "q": "Who is calling Hafsa?",
+     "options": [
+      "Linda",
+      "Emre",
+      "The cashier"
+     ],
+     "answer": 1,
+     "whyTr": "Metin: 'It is Emre.'",
+     "tag": "reading",
+     "level": "A2"
+    },
+    {
+     "type": "mcq",
+     "q": "What is Emre doing?",
+     "options": [
+      "He is shopping.",
+      "He is cooking.",
+      "He is watching a movie."
+     ],
+     "answer": 2,
+     "whyTr": "Metin: 'I'm watching a movie'.",
+     "tag": "reading",
+     "level": "A2"
+    },
+    {
+     "type": "mcq",
+     "q": "Why does Hafsa buy two bags of rice?",
+     "options": [
+      "It is cheap today.",
+      "It is expensive.",
+      "Emre is hungry."
+     ],
+     "answer": 0,
+     "whyTr": "Metin: 'It is cheap today!'",
+     "tag": "reading",
+     "level": "A2"
+    }
+   ]
+  }
+ },
+ "evening": {
+  "listening": {
+   "title": "A phone call from the supermarket",
+   "script": [
+    {
+     "speaker": "Hafsa",
+     "text": "Hello, Linda? It's Hafsa. Are you busy?"
+    },
+    {
+     "speaker": "Linda",
+     "text": "No, I'm just sitting at home. Where are you?"
+    },
+    {
+     "speaker": "Hafsa",
+     "text": "I'm at the supermarket. I'm standing in the milk aisle."
+    },
+    {
+     "speaker": "Linda",
+     "text": "Oh good. Are you buying eggs?"
+    },
+    {
+     "speaker": "Hafsa",
+     "text": "Yes, I am. Do you need anything?"
+    },
+    {
+     "speaker": "Linda",
+     "text": "Yes, please. I'm making a cake, and I need sugar."
+    },
+    {
+     "speaker": "Hafsa",
+     "text": "Sure. How much sugar are you using?"
+    },
+    {
+     "speaker": "Linda",
+     "text": "Two cups. Emre is helping me, by the way."
+    },
+    {
+     "speaker": "Hafsa",
+     "text": "Emre is at your house? What is he doing?"
+    },
+    {
+     "speaker": "Linda",
+     "text": "He's reading a book in the living room. He isn't making noise!"
+    },
+    {
+     "speaker": "Hafsa",
+     "text": "That's great. I'm leaving the store in ten minutes."
+    },
+    {
+     "speaker": "Linda",
+     "text": "Perfect. The cake is baking, and it smells wonderful."
+    },
+    {
+     "speaker": "Hafsa",
+     "text": "Wonderful. See you soon!"
+    }
+   ],
+   "questions": [
+    {
+     "type": "mcq",
+     "q": "Where is Hafsa?",
+     "options": [
+      "At home",
+      "At school",
+      "At the supermarket"
+     ],
+     "answer": 2,
+     "whyTr": "Hafsa: 'I'm at the supermarket.'",
+     "tag": "listening",
+     "level": "A2"
+    },
+    {
+     "type": "mcq",
+     "q": "What does Linda need?",
+     "options": [
+      "Eggs",
+      "Milk",
+      "Sugar"
+     ],
+     "answer": 2,
+     "whyTr": "Linda: 'I need sugar.'",
+     "tag": "listening",
+     "level": "A2"
+    },
+    {
+     "type": "mcq",
+     "q": "What is Emre doing?",
+     "options": [
+      "He is reading a book.",
+      "He is making a cake.",
+      "He is watching a movie."
+     ],
+     "answer": 0,
+     "whyTr": "Linda: 'He's reading a book'.",
+     "tag": "listening",
+     "level": "A2"
+    },
+    {
+     "type": "mcq",
+     "q": "When is Hafsa leaving the store?",
+     "options": [
+      "Right now",
+      "In ten minutes",
+      "Tomorrow"
+     ],
+     "answer": 1,
+     "whyTr": "Hafsa: 'leaving the store in ten minutes'.",
+     "tag": "listening",
+     "level": "A2"
+    }
+   ]
+  },
+  "writing": {
+   "promptTr": "Şu anda ne yaptığını ve çevrendekilerin ne yaptığını 4-5 cümleyle yaz.",
+   "promptEn": "Write 4-5 sentences about what you and other people are doing right now.",
+   "frames": [
+    "Right now, I am ...",
+    "My son/neighbor is ...",
+    "The cashier is ...",
+    "We are ... but we aren't ..."
+   ],
+   "model": "Right now, I am sitting at the kitchen table. I am studying English on my phone. My son is playing a game. My neighbor is calling me. We aren't watching TV.",
+   "checklistTr": [
+    "am/is/are + fiil-ing var mı?",
+    "make, write, sit gibi fiillerin yazımını kontrol ettin mi (making, writing, sitting)?",
+    "Olumsuzda isn't/aren't/am not kullandın mı?"
+   ],
+   "minWords": 30
+  },
+  "examSet": [
+   {
+    "type": "mcq",
+    "q": "Look! Linda ___ a big cart.",
+    "options": [
+     "pushes",
+     "push",
+     "is pushing"
+    ],
+    "answer": 2,
+    "whyTr": "'Look!' şu an olan bir olay: is pushing.",
+    "tag": "present-continuous",
+    "level": "A2"
+   },
+   {
+    "type": "mcq",
+    "q": "Hafsa usually ___ tea in the morning.",
+    "options": [
+     "drinks",
+     "is drinking",
+     "drink"
+    ],
+    "answer": 0,
+    "whyTr": "Alışkanlık: Present Simple (bugünkü Present Continuous farkı).",
+    "tag": "present-simple",
+    "level": "A2"
+   },
+   {
+    "type": "mcq",
+    "q": "She ___ her phone right now.",
+    "options": [
+     "uses",
+     "is using",
+     "use"
+    ],
+    "answer": 1,
+    "whyTr": "'Right now' ile Present Continuous.",
+    "tag": "present-continuous",
+    "level": "A2"
+   },
+   {
+    "type": "mcq",
+    "q": "Does Emre ___ the bus every day?",
+    "options": [
+     "take",
+     "takes",
+     "taking"
+    ],
+    "answer": 0,
+    "whyTr": "Does'tan sonra yalın fiil.",
+    "tag": "question-form",
+    "level": "A2"
+   },
+   {
+    "type": "mcq",
+    "q": "What is the opposite of \"cheap\"?",
+    "options": [
+     "expensive",
+     "busy",
+     "strong"
+    ],
+    "answer": 0,
+    "whyTr": "Cheap'in zıttı expensive.",
+    "tag": "antonym",
+    "level": "A2"
+   },
+   {
+    "type": "mcq",
+    "q": "Which word means almost the same as \"price\"?",
+    "options": [
+     "sale",
+     "cost",
+     "aisle"
+    ],
+    "answer": 1,
+    "whyTr": "Price ve cost yakın anlamlı.",
+    "tag": "synonym",
+    "level": "A2"
+   },
+   {
+    "type": "mcq",
+    "q": "Which word is the opposite of \"buy\"?",
+    "options": [
+     "wait",
+     "hold",
+     "sell"
+    ],
+    "answer": 2,
+    "whyTr": "Buy'ın zıttı sell.",
+    "tag": "antonym",
+    "level": "A2"
+   },
+   {
+    "type": "mcq",
+    "q": "The ___ gives me a receipt at the checkout.",
+    "options": [
+     "cashier",
+     "aisle",
+     "habit"
+    ],
+    "answer": 0,
+    "whyTr": "Kasadaki kişi = cashier.",
+    "tag": "vocab",
+    "level": "A2"
+   },
+   {
+    "type": "mcq",
+    "q": "I ___ rice. I'm looking at the price.",
+    "options": [
+     "buy",
+     "am buying",
+     "buys"
+    ],
+    "answer": 1,
+    "whyTr": "Şu an olan iş: am buying.",
+    "tag": "present-continuous",
+    "level": "A2"
+   },
+   {
+    "type": "mcq",
+    "q": "Mr. Brown is on the phone. He is talking to a parent. He is writing a note.\n\nWhat is Mr. Brown doing?",
+    "options": [
+     "Eating lunch",
+     "Teaching a class",
+     "Talking on the phone"
+    ],
+    "answer": 2,
+    "whyTr": "Metin: 'He is talking to a parent.'",
+    "tag": "reading",
+    "level": "A2"
+   },
+   {
+    "type": "mcq",
+    "q": "She ___ breakfast on Sundays. (always)",
+    "options": [
+     "eats always",
+     "always eats",
+     "always eat"
+    ],
+    "answer": 1,
+    "whyTr": "Sıklık zarfı + fiil-s. (Dünün konusu)",
+    "tag": "present-simple",
+    "level": "A2"
+   },
+   {
+    "type": "mcq",
+    "q": "There ___ a sale at the store today. (Hafta 1 tekrarı)",
+    "options": [
+     "are",
+     "is",
+     "am"
+    ],
+    "answer": 1,
+    "whyTr": "Tekil isim: there is.",
+    "tag": "there-is",
+    "level": "A1"
+   }
+  ]
+ }
+}

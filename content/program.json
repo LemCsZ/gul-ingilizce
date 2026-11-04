@@ -1,0 +1,916 @@
+{
+ "weeks": 16,
+ "phases": [
+  {
+   "from": 1,
+   "to": 1,
+   "nameTr": "Tanı ve hızlı tekrar"
+  },
+  {
+   "from": 2,
+   "to": 5,
+   "nameTr": "A2 sağlamlaştırma"
+  },
+  {
+   "from": 6,
+   "to": 11,
+   "nameTr": "B1"
+  },
+  {
+   "from": 12,
+   "to": 16,
+   "nameTr": "B2 ve sınav"
+  }
+ ],
+ "lessons": [
+  {
+   "id": "w01d1",
+   "week": 1,
+   "day": 1,
+   "kind": "diagnostic",
+   "titleTr": "Seviye tespit testi"
+  },
+  {
+   "id": "w01d2",
+   "week": 1,
+   "day": 2,
+   "kind": "lesson",
+   "file": "w01/d2.json",
+   "titleTr": "Kendini ve aileni tanıt"
+  },
+  {
+   "id": "w01d3",
+   "week": 1,
+   "day": 3,
+   "kind": "lesson",
+   "file": "w01/d3.json",
+   "titleTr": "Evim ve mahallem"
+  },
+  {
+   "id": "w01d4",
+   "week": 1,
+   "day": 4,
+   "kind": "lesson",
+   "file": "w01/d4.json",
+   "titleTr": "Doktor randevusu"
+  },
+  {
+   "id": "w01d5",
+   "week": 1,
+   "day": 5,
+   "kind": "lesson",
+   "file": "w01/d5.json",
+   "titleTr": "Neler yapabilirsin? Okulda talimatlar"
+  },
+  {
+   "id": "w01d6",
+   "week": 1,
+   "day": 6,
+   "kind": "lesson",
+   "file": "w01/d6.json",
+   "titleTr": "Ne zaman, nerede, kaç? Randevu ve program"
+  },
+  {
+   "id": "w01d7",
+   "week": 1,
+   "day": 7,
+   "kind": "light",
+   "titleTr": "Hafif gün: tekrar ve oyun"
+  },
+  {
+   "id": "w02d1",
+   "week": 2,
+   "day": 1,
+   "kind": "lesson",
+   "file": "w02/d1.json",
+   "titleTr": "Günlük rutinin: Her sabah ne yapıyorsun?"
+  },
+  {
+   "id": "w02d2",
+   "week": 2,
+   "day": 2,
+   "kind": "lesson",
+   "file": "w02/d2.json",
+   "titleTr": "İş programı: Vardiyam ve yapmadıklarım"
+  },
+  {
+   "id": "w02d3",
+   "week": 2,
+   "day": 3,
+   "kind": "lesson",
+   "file": "w02/d3.json",
+   "titleTr": "İş arkadaşlarını tanımak: Soru sorma"
+  },
+  {
+   "id": "w02d4",
+   "week": 2,
+   "day": 4,
+   "kind": "lesson",
+   "file": "w02/d4.json",
+   "titleTr": "Sağlıklı alışkanlıklar: Ne sıklıkla?"
+  },
+  {
+   "id": "w02d5",
+   "week": 2,
+   "day": 5,
+   "kind": "lesson",
+   "file": "w02/d5.json",
+   "titleTr": "Markette ve telefonda: Şu anda ne yapıyorsun?"
+  },
+  {
+   "id": "w02d6",
+   "week": 2,
+   "day": 6,
+   "kind": "lesson",
+   "file": "w02/d6.json",
+   "titleTr": "Okulda bir gün: Genelde ve şu an"
+  },
+  {
+   "id": "w02d7",
+   "week": 2,
+   "day": 7,
+   "kind": "light",
+   "titleTr": "Hafif gün: tekrar ve oyun"
+  },
+  {
+   "id": "w03d1",
+   "week": 3,
+   "day": 1,
+   "kind": "lesson",
+   "file": "w03/d1.json",
+   "titleTr": "Çocukluğun: was ve were"
+  },
+  {
+   "id": "w03d2",
+   "week": 3,
+   "day": 2,
+   "kind": "lesson",
+   "file": "w03/d2.json",
+   "titleTr": "Geçen hafta sonu: düzenli fiiller (-ed)"
+  },
+  {
+   "id": "w03d3",
+   "week": 3,
+   "day": 3,
+   "kind": "lesson",
+   "file": "w03/d3.json",
+   "titleTr": "Amerika'ya taşınmak: düzensiz fiiller"
+  },
+  {
+   "id": "w03d4",
+   "week": 3,
+   "day": 4,
+   "kind": "lesson",
+   "file": "w03/d4.json",
+   "titleTr": "Bankada bir sorun: didn't ve Did...?"
+  },
+  {
+   "id": "w03d5",
+   "week": 3,
+   "day": 5,
+   "kind": "lesson",
+   "file": "w03/d5.json",
+   "titleTr": "Yoğun bir gün: ago, last, yesterday ve sıralama"
+  },
+  {
+   "id": "w03d6",
+   "week": 3,
+   "day": 6,
+   "kind": "lesson",
+   "file": "w03/d6.json",
+   "titleTr": "Arkadaşına e-posta: zamanların tekrarı"
+  },
+  {
+   "id": "w03d7",
+   "week": 3,
+   "day": 7,
+   "kind": "mock",
+   "file": "mocks/m03.json",
+   "titleTr": "Deneme sınavı"
+  },
+  {
+   "id": "w04d1",
+   "week": 4,
+   "day": 1,
+   "kind": "lesson",
+   "file": "w04/d1.json",
+   "titleTr": "Hafta sonu planların: going to"
+  },
+  {
+   "id": "w04d2",
+   "week": 4,
+   "day": 2,
+   "kind": "lesson",
+   "file": "w04/d2.json",
+   "titleTr": "Restoranda: will"
+  },
+  {
+   "id": "w04d3",
+   "week": 4,
+   "day": 3,
+   "kind": "lesson",
+   "file": "w04/d3.json",
+   "titleTr": "Ajandan: planlar ve randevular"
+  },
+  {
+   "id": "w04d4",
+   "week": 4,
+   "day": 4,
+   "kind": "lesson",
+   "file": "w04/d4.json",
+   "titleTr": "Şehrini anlat: a / an / the"
+  },
+  {
+   "id": "w04d5",
+   "week": 4,
+   "day": 5,
+   "kind": "lesson",
+   "file": "w04/d5.json",
+   "titleTr": "Yemek tarifi: sayılabilir ve sayılamayan"
+  },
+  {
+   "id": "w04d6",
+   "week": 4,
+   "day": 6,
+   "kind": "lesson",
+   "file": "w04/d6.json",
+   "titleTr": "Okul etkinlik takvimi: in / on / at"
+  },
+  {
+   "id": "w04d7",
+   "week": 4,
+   "day": 7,
+   "kind": "light",
+   "titleTr": "Hafif gün: tekrar ve oyun"
+  },
+  {
+   "id": "w05d1",
+   "week": 5,
+   "day": 1,
+   "kind": "lesson",
+   "file": "w05/d1.json",
+   "titleTr": "Hayat deneyimleri: Have you ever...?"
+  },
+  {
+   "id": "w05d2",
+   "week": 5,
+   "day": 2,
+   "kind": "lesson",
+   "file": "w05/d2.json",
+   "titleTr": "İşte yapılacaklar listesi: just, already, yet"
+  },
+  {
+   "id": "w05d3",
+   "week": 5,
+   "day": 3,
+   "kind": "lesson",
+   "file": "w05/d3.json",
+   "titleTr": "İş ve ev karşılaştırması: daha ... ve en ..."
+  },
+  {
+   "id": "w05d4",
+   "week": 5,
+   "day": 4,
+   "kind": "lesson",
+   "file": "w05/d4.json",
+   "titleTr": "Sağlık tavsiyesi: can, could, should"
+  },
+  {
+   "id": "w05d5",
+   "week": 5,
+   "day": 5,
+   "kind": "lesson",
+   "file": "w05/d5.json",
+   "titleTr": "İş yeri kuralları: have to, must, don't have to"
+  },
+  {
+   "id": "w05d6",
+   "week": 5,
+   "day": 6,
+   "kind": "lesson",
+   "file": "w05/d6.json",
+   "titleTr": "Hobiler ve iş tercihleri: like, want, because"
+  },
+  {
+   "id": "w05d7",
+   "week": 5,
+   "day": 7,
+   "kind": "mock",
+   "file": "mocks/m05.json",
+   "titleTr": "Deneme sınavı"
+  },
+  {
+   "id": "w06d1",
+   "week": 6,
+   "day": 1,
+   "kind": "lesson",
+   "file": "w06/d1.json",
+   "titleTr": "Özgeçmişini anlat: Present Perfect ve Past Simple"
+  },
+  {
+   "id": "w06d2",
+   "week": 6,
+   "day": 2,
+   "kind": "lesson",
+   "file": "w06/d2.json",
+   "titleTr": "Ne zamandır buradasın? for ve since"
+  },
+  {
+   "id": "w06d3",
+   "week": 6,
+   "day": 3,
+   "kind": "lesson",
+   "file": "w06/d3.json",
+   "titleTr": "Son zamanlarda ne yapıyorsun? Present Perfect Continuous"
+  },
+  {
+   "id": "w06d4",
+   "week": 6,
+   "day": 4,
+   "kind": "lesson",
+   "file": "w06/d4.json",
+   "titleTr": "Bir olay anlat: Past Continuous"
+  },
+  {
+   "id": "w06d5",
+   "week": 6,
+   "day": 5,
+   "kind": "lesson",
+   "file": "w06/d5.json",
+   "titleTr": "İşte bir olay: when ve while"
+  },
+  {
+   "id": "w06d6",
+   "week": 6,
+   "day": 6,
+   "kind": "lesson",
+   "file": "w06/d6.json",
+   "titleTr": "Eskiden nasıldı? used to"
+  },
+  {
+   "id": "w06d7",
+   "week": 6,
+   "day": 7,
+   "kind": "light",
+   "titleTr": "Hafif gün: tekrar ve oyun"
+  },
+  {
+   "id": "w07d1",
+   "week": 7,
+   "day": 1,
+   "kind": "lesson",
+   "file": "w07/d1.json",
+   "titleTr": "Başvuru süreci: önce ne oldu, sonra ne oldu?"
+  },
+  {
+   "id": "w07d2",
+   "week": 7,
+   "day": 2,
+   "kind": "lesson",
+   "file": "w07/d2.json",
+   "titleTr": "İşe başlarken: ne zaman, ne olacak?"
+  },
+  {
+   "id": "w07d3",
+   "week": 7,
+   "day": 3,
+   "kind": "lesson",
+   "file": "w07/d3.json",
+   "titleTr": "Belli olmayan planlar: might, may, could"
+  },
+  {
+   "id": "w07d4",
+   "week": 7,
+   "day": 4,
+   "kind": "lesson",
+   "file": "w07/d4.json",
+   "titleTr": "İşte bir gizem: must ve can't ile tahmin"
+  },
+  {
+   "id": "w07d5",
+   "week": 7,
+   "day": 5,
+   "kind": "lesson",
+   "file": "w07/d5.json",
+   "titleTr": "Mülakat tavsiyesi: should, ought to, had better"
+  },
+  {
+   "id": "w07d6",
+   "week": 7,
+   "day": 6,
+   "kind": "lesson",
+   "file": "w07/d6.json",
+   "titleTr": "Başvuru e-postası: although, however ve hafta tekrarı"
+  },
+  {
+   "id": "w07d7",
+   "week": 7,
+   "day": 7,
+   "kind": "mock",
+   "file": "mocks/m07.json",
+   "titleTr": "Deneme sınavı"
+  },
+  {
+   "id": "w08d1",
+   "week": 8,
+   "day": 1,
+   "kind": "lesson",
+   "file": "w08/d1.json",
+   "titleTr": "Okul kuralları: If ... will"
+  },
+  {
+   "id": "w08d2",
+   "week": 8,
+   "day": 2,
+   "kind": "lesson",
+   "file": "w08/d2.json",
+   "titleTr": "Öğretmen olsaydım..."
+  },
+  {
+   "id": "w08d3",
+   "week": 8,
+   "day": 3,
+   "kind": "lesson",
+   "file": "w08/d3.json",
+   "titleTr": "Yangın tatbikatı: genel kurallar ve unless"
+  },
+  {
+   "id": "w08d4",
+   "week": 8,
+   "day": 4,
+   "kind": "lesson",
+   "file": "w08/d4.json",
+   "titleTr": "Okulda işler nasıl yapılır?"
+  },
+  {
+   "id": "w08d5",
+   "week": 8,
+   "day": 5,
+   "kind": "lesson",
+   "file": "w08/d5.json",
+   "titleTr": "Okulun tarihi: was built, were donated"
+  },
+  {
+   "id": "w08d6",
+   "week": 8,
+   "day": 6,
+   "kind": "lesson",
+   "file": "w08/d6.json",
+   "titleTr": "Hafta tekrarı: okul duyurusunu oku"
+  },
+  {
+   "id": "w08d7",
+   "week": 8,
+   "day": 7,
+   "kind": "light",
+   "titleTr": "Hafif gün: tekrar ve oyun"
+  },
+  {
+   "id": "w09d1",
+   "week": 9,
+   "day": 1,
+   "kind": "lesson",
+   "file": "w09/d1.json",
+   "titleTr": "Okulda kim ne yapar? Who, which, that"
+  },
+  {
+   "id": "w09d2",
+   "week": 9,
+   "day": 2,
+   "kind": "lesson",
+   "file": "w09/d2.json",
+   "titleTr": "Okul binası ve sınıflar: where ve whose"
+  },
+  {
+   "id": "w09d3",
+   "week": 9,
+   "day": 3,
+   "kind": "lesson",
+   "file": "w09/d3.json",
+   "titleTr": "İşte sevdiklerin: -ing ve to + fiil"
+  },
+  {
+   "id": "w09d4",
+   "week": 9,
+   "day": 4,
+   "kind": "lesson",
+   "file": "w09/d4.json",
+   "titleTr": "Neden öğretmen olmak istiyorsun? Amaç cümleleri"
+  },
+  {
+   "id": "w09d5",
+   "week": 9,
+   "day": 5,
+   "kind": "lesson",
+   "file": "w09/d5.json",
+   "titleTr": "Okul ofisini aramak: kibar dolaylı sorular"
+  },
+  {
+   "id": "w09d6",
+   "week": 9,
+   "day": 6,
+   "kind": "lesson",
+   "file": "w09/d6.json",
+   "titleTr": "Mülakat hazırlığı: hafta tekrarı"
+  },
+  {
+   "id": "w09d7",
+   "week": 9,
+   "day": 7,
+   "kind": "mock",
+   "file": "mocks/m09.json",
+   "titleTr": "Deneme sınavı"
+  },
+  {
+   "id": "w10d1",
+   "week": 10,
+   "day": 1,
+   "kind": "lesson",
+   "file": "w10/d1.json",
+   "titleTr": "Müdürün mesajını aktarmak"
+  },
+  {
+   "id": "w10d2",
+   "week": 10,
+   "day": 2,
+   "kind": "lesson",
+   "file": "w10/d2.json",
+   "titleTr": "Velinin sorularını aktarmak"
+  },
+  {
+   "id": "w10d3",
+   "week": 10,
+   "day": 3,
+   "kind": "lesson",
+   "file": "w10/d3.json",
+   "titleTr": "Öğretmenin notu: rica ve emirleri aktarmak"
+  },
+  {
+   "id": "w10d4",
+   "week": 10,
+   "day": 4,
+   "kind": "lesson",
+   "file": "w10/d4.json",
+   "titleTr": "Sınıf ortamı: çok küçük mü, yeterince büyük mü?"
+  },
+  {
+   "id": "w10d5",
+   "week": 10,
+   "day": 5,
+   "kind": "lesson",
+   "file": "w10/d5.json",
+   "titleTr": "Öğrenci davranışlarını anlatmak"
+  },
+  {
+   "id": "w10d6",
+   "week": 10,
+   "day": 6,
+   "kind": "lesson",
+   "file": "w10/d6.json",
+   "titleTr": "Sınıf yönergeleri: phrasal verb'ler"
+  },
+  {
+   "id": "w10d7",
+   "week": 10,
+   "day": 7,
+   "kind": "light",
+   "titleTr": "Hafif gün: tekrar ve oyun"
+  },
+  {
+   "id": "w11d1",
+   "week": 11,
+   "day": 1,
+   "kind": "lesson",
+   "file": "w11/d1.json",
+   "titleTr": "Zor bir gün: so, such, despite"
+  },
+  {
+   "id": "w11d2",
+   "week": 11,
+   "day": 2,
+   "kind": "lesson",
+   "file": "w11/d2.json",
+   "titleTr": "Okul kararları: sebep ve sonuç"
+  },
+  {
+   "id": "w11d3",
+   "week": 11,
+   "day": 3,
+   "kind": "lesson",
+   "file": "w11/d3.json",
+   "titleTr": "Öğretmenler odasında sohbet: question tags"
+  },
+  {
+   "id": "w11d4",
+   "week": 11,
+   "day": 4,
+   "kind": "lesson",
+   "file": "w11/d4.json",
+   "titleTr": "Keşke farklı yapsaydım: should have / might have"
+  },
+  {
+   "id": "w11d5",
+   "week": 11,
+   "day": 5,
+   "kind": "lesson",
+   "file": "w11/d5.json",
+   "titleTr": "B1 tekrar: zamanlar ve substitute başvurusu"
+  },
+  {
+   "id": "w11d6",
+   "week": 11,
+   "day": 6,
+   "kind": "lesson",
+   "file": "w11/d6.json",
+   "titleTr": "B1 tekrar: modallar, koşul cümleleri, mülakat"
+  },
+  {
+   "id": "w11d7",
+   "week": 11,
+   "day": 7,
+   "kind": "mock",
+   "file": "mocks/m11.json",
+   "titleTr": "Deneme sınavı"
+  },
+  {
+   "id": "w12d1",
+   "week": 12,
+   "day": 1,
+   "kind": "lesson",
+   "file": "w12/d1.json",
+   "titleTr": "Bir vekil öğretmen günü: hikâye anlatma zamanları"
+  },
+  {
+   "id": "w12d2",
+   "week": 12,
+   "day": 2,
+   "kind": "lesson",
+   "file": "w12/d2.json",
+   "titleTr": "Uzun bir sabah: had been + V-ing"
+  },
+  {
+   "id": "w12d3",
+   "week": 12,
+   "day": 3,
+   "kind": "lesson",
+   "file": "w12/d3.json",
+   "titleTr": "Yarın bu saatte: will be + V-ing"
+  },
+  {
+   "id": "w12d4",
+   "week": 12,
+   "day": 4,
+   "kind": "lesson",
+   "file": "w12/d4.json",
+   "titleTr": "Dönem sonuna kadar: will have + V3"
+  },
+  {
+   "id": "w12d5",
+   "week": 12,
+   "day": 5,
+   "kind": "lesson",
+   "file": "w12/d5.json",
+   "titleTr": "Okul bölgesi duyuruları: tüm zamanlarda edilgen"
+  },
+  {
+   "id": "w12d6",
+   "week": 12,
+   "day": 6,
+   "kind": "lesson",
+   "file": "w12/d6.json",
+   "titleTr": "Okul işleri: modal edilgen ve have/get something done"
+  },
+  {
+   "id": "w12d7",
+   "week": 12,
+   "day": 7,
+   "kind": "mock",
+   "file": "mocks/m12.json",
+   "titleTr": "Deneme sınavı"
+  },
+  {
+   "id": "w13d1",
+   "week": 13,
+   "day": 1,
+   "kind": "lesson",
+   "file": "w13/d1.json",
+   "titleTr": "Sınıfta bir olay: üçüncü koşul (If I had known...)"
+  },
+  {
+   "id": "w13d2",
+   "week": 13,
+   "day": 2,
+   "kind": "lesson",
+   "file": "w13/d2.json",
+   "titleTr": "Kararlar ve sonuçları: karışık koşullar"
+  },
+  {
+   "id": "w13d3",
+   "week": 13,
+   "day": 3,
+   "kind": "lesson",
+   "file": "w13/d3.json",
+   "titleTr": "Pişmanlıklar: wish ve if only"
+  },
+  {
+   "id": "w13d4",
+   "week": 13,
+   "day": 4,
+   "kind": "lesson",
+   "file": "w13/d4.json",
+   "titleTr": "Kayıp eşya gizemi: geçmişte çıkarım"
+  },
+  {
+   "id": "w13d5",
+   "week": 13,
+   "day": 5,
+   "kind": "lesson",
+   "file": "w13/d5.json",
+   "titleTr": "Dersin değerlendirmesi: needn't have ve should have"
+  },
+  {
+   "id": "w13d6",
+   "week": 13,
+   "day": 6,
+   "kind": "lesson",
+   "file": "w13/d6.json",
+   "titleTr": "Hafta tekrarı: öğretmene olay raporu"
+  },
+  {
+   "id": "w13d7",
+   "week": 13,
+   "day": 7,
+   "kind": "mock",
+   "file": "mocks/m13.json",
+   "titleTr": "Deneme sınavı"
+  },
+  {
+   "id": "w14d1",
+   "week": 14,
+   "day": 1,
+   "kind": "lesson",
+   "file": "w14/d1.json",
+   "titleTr": "Toplantı notları: öneri, tavsiye, uyarı"
+  },
+  {
+   "id": "w14d2",
+   "week": 14,
+   "day": 2,
+   "kind": "lesson",
+   "file": "w14/d2.json",
+   "titleTr": "Okul ekibi ile tanışma"
+  },
+  {
+   "id": "w14d3",
+   "week": 14,
+   "day": 3,
+   "kind": "lesson",
+   "file": "w14/d3.json",
+   "titleTr": "Okul kuralları: kısaltılmış cümlecikler"
+  },
+  {
+   "id": "w14d4",
+   "week": 14,
+   "day": 4,
+   "kind": "lesson",
+   "file": "w14/d4.json",
+   "titleTr": "ABD hayatına alışmak: used to, be used to, get used to"
+  },
+  {
+   "id": "w14d5",
+   "week": 14,
+   "day": 5,
+   "kind": "lesson",
+   "file": "w14/d5.json",
+   "titleTr": "Sınıf yönetimi: stop, remember, try"
+  },
+  {
+   "id": "w14d6",
+   "week": 14,
+   "day": 6,
+   "kind": "lesson",
+   "file": "w14/d6.json",
+   "titleTr": "Hafta tekrarı: okul politikası metni"
+  },
+  {
+   "id": "w14d7",
+   "week": 14,
+   "day": 7,
+   "kind": "mock",
+   "file": "mocks/m14.json",
+   "titleTr": "Deneme sınavı"
+  },
+  {
+   "id": "w15d1",
+   "week": 15,
+   "day": 1,
+   "kind": "lesson",
+   "file": "w15/d1.json",
+   "titleTr": "Görüş yazısında bağlaçlar: tezat ve karşılaştırma"
+  },
+  {
+   "id": "w15d2",
+   "week": 15,
+   "day": 2,
+   "kind": "lesson",
+   "file": "w15/d2.json",
+   "titleTr": "Resmi ve gayriresmi dil: müdüre e-posta"
+  },
+  {
+   "id": "w15d3",
+   "week": 15,
+   "day": 3,
+   "kind": "lesson",
+   "file": "w15/d3.json",
+   "titleTr": "Önekler: un-, dis-, re-, mis- (eğitim haberi)"
+  },
+  {
+   "id": "w15d4",
+   "week": 15,
+   "day": 4,
+   "kind": "lesson",
+   "file": "w15/d4.json",
+   "titleTr": "Sonekler: -tion, -ment, -ful, -less, -ly (okul bülteni)"
+  },
+  {
+   "id": "w15d5",
+   "week": 15,
+   "day": 5,
+   "kind": "lesson",
+   "file": "w15/d5.json",
+   "titleTr": "Collocations: make / do, take / have (günlük işler)"
+  },
+  {
+   "id": "w15d6",
+   "week": 15,
+   "day": 6,
+   "kind": "lesson",
+   "file": "w15/d6.json",
+   "titleTr": "İleri phrasal verb'ler: sub plan geri bildirimi"
+  },
+  {
+   "id": "w15d7",
+   "week": 15,
+   "day": 7,
+   "kind": "mock",
+   "file": "mocks/m15.json",
+   "titleTr": "Deneme sınavı"
+  },
+  {
+   "id": "w16d1",
+   "week": 16,
+   "day": 1,
+   "kind": "lesson",
+   "file": "w16/d1.json",
+   "titleTr": "Tüm zamanlar karışık: mülakata hazırlık"
+  },
+  {
+   "id": "w16d2",
+   "week": 16,
+   "day": 2,
+   "kind": "lesson",
+   "file": "w16/d2.json",
+   "titleTr": "Koşul cümleleri ve wish: okulda ilk gün"
+  },
+  {
+   "id": "w16d3",
+   "week": 16,
+   "day": 3,
+   "kind": "lesson",
+   "file": "w16/d3.json",
+   "titleTr": "Passive ve reported speech: işe alım evrakları"
+  },
+  {
+   "id": "w16d4",
+   "week": 16,
+   "day": 4,
+   "kind": "lesson",
+   "file": "w16/d4.json",
+   "titleTr": "Modallar: kurallar, çıkarımlar, pişmanlıklar"
+  },
+  {
+   "id": "w16d5",
+   "week": 16,
+   "day": 5,
+   "kind": "lesson",
+   "file": "w16/d5.json",
+   "titleTr": "Kelime bilgisi ve kelime türetme"
+  },
+  {
+   "id": "w16d6",
+   "week": 16,
+   "day": 6,
+   "kind": "lesson",
+   "file": "w16/d6.json",
+   "titleTr": "Okuma stratejileri: ana fikir, çıkarım, bağlamdan tahmin"
+  },
+  {
+   "id": "w16d7",
+   "week": 16,
+   "day": 7,
+   "kind": "mock",
+   "file": "mocks/m16.json",
+   "titleTr": "Deneme sınavı"
+  }
+ ]
+}

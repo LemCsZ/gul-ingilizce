@@ -1,0 +1,801 @@
+{
+ "week": 6,
+ "day": 6,
+ "titleTr": "Eskiden nasıldı? used to",
+ "theme": "life-in-turkey",
+ "morning": {
+  "grammar": {
+   "topic": "used to",
+   "explainTr": [
+    "'Used to' geçmişte düzenli yaptığın ama artık yapmadığın şeyleri ya da eski durumları anlatır: I used to live in Isparta. Şimdi orada yaşamıyorum.",
+    "Olumlu: used to + yalın fiil. Olumsuz: didn't use to + yalın fiil. Soru: Did + özne + use to + fiil? Dikkat: did geldiğinde 'd' düşer, 'use to' yazılır.",
+    "Belli bir olay için used to kullanılmaz: 'Last year I visited Turkey' (used to visit değil). Used to sürekli bir alışkanlık ya da uzun süren bir durum içindir."
+   ],
+   "compareTr": "Türkçede 'eskiden ... yapardım' ya da '... idim' diyerek anlatırsın. İngilizce bunun için used to kalıbını kullanır: 'I used to walk to school.' Fiil hep yalın kalır, -ed ya da -ing almaz.",
+   "table": [
+    [
+     "Olumlu",
+     "özne + used to + fiil",
+     "I used to play outside."
+    ],
+    [
+     "Olumsuz",
+     "didn't use to + fiil",
+     "I didn't use to drive."
+    ],
+    [
+     "Soru",
+     "Did + özne + use to + fiil?",
+     "Did you use to live there?"
+    ],
+    [
+     "Durum",
+     "used to + have / be / live",
+     "She used to have long hair."
+    ],
+    [
+     "Şimdi ile fark",
+     "used to ... but now ...",
+     "I used to walk, but now I drive."
+    ]
+   ],
+   "examples": [
+    {
+     "en": "I used to live in a small house near a rose garden.",
+     "tr": "Gül bahçesinin yanında küçük bir evde yaşardım."
+    },
+    {
+     "en": "We used to play outside until dark.",
+     "tr": "Hava kararana kadar dışarıda oynardık."
+    },
+    {
+     "en": "I didn't use to drive, but now I do.",
+     "tr": "Eskiden araba kullanmazdım, ama şimdi kullanıyorum."
+    },
+    {
+     "en": "Did you use to go to the bazaar?",
+     "tr": "Eskiden çarşıya gider miydin?"
+    },
+    {
+     "en": "She used to be shy, but now she is confident.",
+     "tr": "Eskiden çekingendi, ama şimdi kendinden emin."
+    }
+   ],
+   "exercises": [
+    {
+     "type": "mcq",
+     "q": "When I was a child, I ___ play in the village streets.",
+     "options": [
+      "use to",
+      "used to",
+      "was used to",
+      "am used to"
+     ],
+     "answer": 1,
+     "whyTr": "Eski alışkanlık: used to + yalın fiil.",
+     "tag": "past-simple",
+     "level": "B1"
+    },
+    {
+     "type": "mcq",
+     "q": "We ___ have a big garden in Isparta.",
+     "options": [
+      "use to",
+      "are used to",
+      "used",
+      "used to"
+     ],
+     "answer": 3,
+     "whyTr": "Geçmişteki durum: used to + have.",
+     "tag": "past-simple",
+     "level": "B1"
+    },
+    {
+     "type": "order",
+     "promptTr": "Cümleyi sırala:",
+     "words": [
+      "used",
+      "walk",
+      "school.",
+      "I",
+      "to",
+      "to"
+     ],
+     "answer": "I used to walk to school.",
+     "whyTr": "Sıra: özne + used to + yalın fiil.",
+     "tag": "past-simple",
+     "level": "B1"
+    },
+    {
+     "type": "mcq",
+     "q": "I ___ drink coffee, but now I love it.",
+     "options": [
+      "didn't use to",
+      "didn't used to",
+      "don't use to",
+      "wasn't use to"
+     ],
+     "answer": 0,
+     "whyTr": "Olumsuzda did var, bu yüzden 'use to' (d'siz).",
+     "tag": "negative-form",
+     "level": "B1"
+    },
+    {
+     "type": "mcq",
+     "q": "___ you use to live in a village?",
+     "options": [
+      "Do",
+      "Were",
+      "Did",
+      "Have"
+     ],
+     "answer": 2,
+     "whyTr": "Geçmiş alışkanlık sorusu: Did + özne + use to...?",
+     "tag": "question-form",
+     "level": "B1"
+    },
+    {
+     "type": "order",
+     "promptTr": "Soruyu sırala:",
+     "words": [
+      "you",
+      "to",
+      "outside?",
+      "Did",
+      "use",
+      "play"
+     ],
+     "answer": "Did you use to play outside?",
+     "whyTr": "Sıra: Did + özne + use to + fiil.",
+     "tag": "question-form",
+     "level": "B1"
+    },
+    {
+     "type": "mcq",
+     "q": "Which sentence is correct?",
+     "options": [
+      "I used to going to the bazaar every Saturday.",
+      "I used to go to the bazaar every Saturday.",
+      "I use to go to the bazaar every Saturday.",
+      "I was used go to the bazaar every Saturday."
+     ],
+     "answer": 1,
+     "whyTr": "Used to'dan sonra yalın fiil gelir.",
+     "tag": "past-simple",
+     "level": "B1"
+    },
+    {
+     "type": "mcq",
+     "q": "She is very good at English now. She ___ English every day this month.",
+     "options": [
+      "used to practice",
+      "was practicing",
+      "practices",
+      "has been practicing"
+     ],
+     "answer": 3,
+     "whyTr": "Son zamanlarda süren eylem: has been practicing.",
+     "tag": "present-perfect",
+     "level": "B1"
+    },
+    {
+     "type": "mcq",
+     "q": "At seven last night, Emre ___ a video game.",
+     "options": [
+      "was playing",
+      "used to play",
+      "has played",
+      "plays"
+     ],
+     "answer": 0,
+     "whyTr": "Belli bir anda süren eylem: was playing.",
+     "tag": "past-simple",
+     "level": "B1"
+    },
+    {
+     "type": "fill",
+     "q": "My neighbor ___ to make bread every Friday.",
+     "accept": [
+      "used"
+     ],
+     "hintTr": "used / use",
+     "whyTr": "Geçmiş alışkanlık: used to.",
+     "tag": "past-simple",
+     "level": "B1"
+    },
+    {
+     "type": "fill",
+     "q": "I didn't ___ to like American food, but now I do.",
+     "accept": [
+      "use"
+     ],
+     "hintTr": "use / used",
+     "whyTr": "Didn't'ten sonra 'use to' gelir.",
+     "tag": "negative-form",
+     "level": "B1"
+    },
+    {
+     "type": "mcq",
+     "q": "I have lived in Texas ___ 2019.",
+     "options": [
+      "for",
+      "ago",
+      "since",
+      "from"
+     ],
+     "answer": 2,
+     "whyTr": "2019 başlangıç noktası: since.",
+     "tag": "prepositions-time",
+     "level": "B1"
+    }
+   ]
+  },
+  "vocab": [
+   {
+    "id": "tradition",
+    "en": "tradition",
+    "tr": "gelenek",
+    "pos": "noun",
+    "example": "Drinking tea after dinner is a family tradition.",
+    "exampleTr": "Yemekten sonra çay içmek bir aile geleneği.",
+    "syn": [
+     "custom"
+    ],
+    "ant": [],
+    "level": "B1"
+   },
+   {
+    "id": "village",
+    "en": "village",
+    "tr": "köy",
+    "pos": "noun",
+    "example": "He grew up in a small village.",
+    "exampleTr": "Küçük bir köyde büyüdü.",
+    "syn": [],
+    "ant": [],
+    "level": "B1"
+   },
+   {
+    "id": "bazaar",
+    "en": "bazaar",
+    "tr": "pazar yeri, çarşı",
+    "pos": "noun",
+    "example": "The bazaar sells fruit, cheese, and spices.",
+    "exampleTr": "Çarşıda meyve, peynir ve baharat satılıyor.",
+    "syn": [],
+    "ant": [],
+    "level": "B1"
+   },
+   {
+    "id": "harvest",
+    "en": "harvest",
+    "tr": "hasat, ürün toplamak",
+    "pos": "noun",
+    "example": "The harvest begins in September.",
+    "exampleTr": "Hasat eylülde başlar.",
+    "syn": [],
+    "ant": [],
+    "level": "B1"
+   },
+   {
+    "id": "memory",
+    "en": "memory",
+    "tr": "anı; hafıza",
+    "pos": "noun",
+    "example": "This photo brings back a happy memory.",
+    "exampleTr": "Bu fotoğraf mutlu bir anıyı geri getiriyor.",
+    "syn": [],
+    "ant": [],
+    "level": "B1"
+   },
+   {
+    "id": "childhood",
+    "en": "childhood",
+    "tr": "çocukluk",
+    "pos": "noun",
+    "example": "I had a happy childhood.",
+    "exampleTr": "Mutlu bir çocukluğum oldu.",
+    "syn": [],
+    "ant": [],
+    "level": "B1"
+   },
+   {
+    "id": "hometown",
+    "en": "hometown",
+    "tr": "memleket, doğup büyüdüğün şehir",
+    "pos": "noun",
+    "example": "My hometown is famous for its roses.",
+    "exampleTr": "Memleketim gülleriyle ünlü.",
+    "syn": [],
+    "ant": [],
+    "level": "B1"
+   },
+   {
+    "id": "generation",
+    "en": "generation",
+    "tr": "nesil, kuşak",
+    "pos": "noun",
+    "example": "Each generation learns from the last one.",
+    "exampleTr": "Her nesil bir öncekinden öğrenir.",
+    "syn": [],
+    "ant": [],
+    "level": "B1"
+   },
+   {
+    "id": "celebrate",
+    "en": "celebrate",
+    "tr": "kutlamak",
+    "pos": "verb",
+    "example": "We celebrate the holiday with a big dinner.",
+    "exampleTr": "Bayramı büyük bir yemekle kutluyoruz.",
+    "syn": [],
+    "ant": [],
+    "level": "B1"
+   },
+   {
+    "id": "relative",
+    "en": "relative",
+    "tr": "akraba",
+    "pos": "noun",
+    "example": "Many of my relatives still live in the village.",
+    "exampleTr": "Akrabalarımın çoğu hâlâ köyde yaşıyor.",
+    "syn": [],
+    "ant": [],
+    "level": "B1"
+   },
+   {
+    "id": "rural",
+    "en": "rural",
+    "tr": "kırsal",
+    "pos": "adjective",
+    "example": "Rural schools often have fewer students.",
+    "exampleTr": "Kırsal okullarda genelde daha az öğrenci olur.",
+    "syn": [],
+    "ant": [
+     "urban"
+    ],
+    "level": "B1"
+   },
+   {
+    "id": "urban",
+    "en": "urban",
+    "tr": "kentsel, şehirle ilgili",
+    "pos": "adjective",
+    "example": "Urban areas are usually crowded.",
+    "exampleTr": "Şehir bölgeleri genelde kalabalıktır.",
+    "syn": [],
+    "ant": [
+     "rural"
+    ],
+    "level": "B1"
+   },
+   {
+    "id": "traditional",
+    "en": "traditional",
+    "tr": "geleneksel",
+    "pos": "adjective",
+    "example": "She cooked a traditional Turkish meal.",
+    "exampleTr": "Geleneksel bir Türk yemeği pişirdi.",
+    "syn": [],
+    "ant": [
+     "modern"
+    ],
+    "level": "B1"
+   },
+   {
+    "id": "modern",
+    "en": "modern",
+    "tr": "modern, çağdaş",
+    "pos": "adjective",
+    "example": "The new school has modern classrooms.",
+    "exampleTr": "Yeni okulun modern sınıfları var.",
+    "syn": [
+     "up-to-date"
+    ],
+    "ant": [
+     "traditional"
+    ],
+    "level": "B1"
+   },
+   {
+    "id": "custom",
+    "en": "custom",
+    "tr": "âdet, görenek",
+    "pos": "noun",
+    "example": "It is a custom to take off your shoes at home.",
+    "exampleTr": "Evde ayakkabıyı çıkarmak bir görenektir.",
+    "syn": [
+     "tradition"
+    ],
+    "ant": [],
+    "level": "B1"
+   }
+  ],
+  "reading": {
+   "title": "Life in Isparta, then and now",
+   "text": "One evening, Emre has a school project called \"Life When I Was a Child.\" He asks Hafsa to tell him about her childhood in Isparta.\n\n\"Life was different,\" Hafsa begins. \"I used to live in a small house near a rose garden. Every summer, my friends and I used to pick roses, and the whole street used to smell sweet. In the evenings, children used to play outside until dark. Nobody used to stay inside with a phone.\"\n\n\"What did you do on weekends?\" Emre asks.\n\n\"On Saturdays, I used to go to the bazaar with my friends. We used to buy fruit, cheese, and warm bread. The sellers always used to give us a small gift. I didn't use to like the crowd, but I loved the colors and the smells.\"\n\nEmre writes quickly. \"And what about now? Is life here very different?\"\n\nHafsa thinks for a moment. \"Yes. In Isparta, I didn't use to drive. I used to walk or take a bus. Now I drive every day. I didn't use to speak English at all, and now I am studying for a teaching certificate. Some things are better here, but I still miss the roses.\"\n\nEmre smiles. \"Maybe we can visit your hometown next summer.\"\n\n\"I would love that,\" Hafsa says.",
+   "glossary": [
+    {
+     "en": "project",
+     "tr": "proje, ödev"
+    },
+    {
+     "en": "rose",
+     "tr": "gül"
+    },
+    {
+     "en": "seller",
+     "tr": "satıcı"
+    },
+    {
+     "en": "crowd",
+     "tr": "kalabalık"
+    },
+    {
+     "en": "miss",
+     "tr": "özlemek"
+    }
+   ],
+   "questions": [
+    {
+     "type": "mcq",
+     "q": "Where did Hafsa's house use to be?",
+     "options": [
+      "Next to a school",
+      "Near a rose garden",
+      "Near a bazaar",
+      "On a busy highway"
+     ],
+     "answer": 1,
+     "whyTr": "Metin: 'a small house near a rose garden'.",
+     "tag": "reading",
+     "level": "B1"
+    },
+    {
+     "type": "mcq",
+     "q": "What did Hafsa use to do on Saturdays?",
+     "options": [
+      "She worked in a school office.",
+      "She played video games.",
+      "She studied English.",
+      "She went to the bazaar with her friends."
+     ],
+     "answer": 3,
+     "whyTr": "Metin: 'On Saturdays, I used to go to the bazaar with my friends.'",
+     "tag": "reading",
+     "level": "B1"
+    },
+    {
+     "type": "mcq",
+     "q": "What didn't Hafsa use to like at the bazaar?",
+     "options": [
+      "The crowd",
+      "The bread",
+      "The colors",
+      "The sellers' gifts"
+     ],
+     "answer": 0,
+     "whyTr": "Metin: 'I didn't use to like the crowd'.",
+     "tag": "reading",
+     "level": "B1"
+    },
+    {
+     "type": "mcq",
+     "q": "What does Hafsa do now that she didn't use to do?",
+     "options": [
+      "She picks roses.",
+      "She walks to the bazaar.",
+      "She drives every day.",
+      "She plays outside until dark."
+     ],
+     "answer": 2,
+     "whyTr": "Metin: 'I didn't use to drive... Now I drive every day.'",
+     "tag": "reading",
+     "level": "B1"
+    }
+   ]
+  }
+ },
+ "evening": {
+  "listening": {
+   "title": "Tea with Linda: old habits",
+   "script": [
+    {
+     "speaker": "Linda",
+     "text": "Hafsa, you always talk about Isparta. What was it like when you were young?"
+    },
+    {
+     "speaker": "Hafsa",
+     "text": "Very different from Texas! We used to live in a small house with a garden."
+    },
+    {
+     "speaker": "Linda",
+     "text": "Did you use to grow vegetables?"
+    },
+    {
+     "speaker": "Hafsa",
+     "text": "Yes, tomatoes and peppers. In September, everybody used to help with the harvest."
+    },
+    {
+     "speaker": "Linda",
+     "text": "That sounds lovely. Did you use to cook with fresh vegetables every day?"
+    },
+    {
+     "speaker": "Hafsa",
+     "text": "Of course. And we used to drink tea in the garden after dinner."
+    },
+    {
+     "speaker": "Linda",
+     "text": "I didn't use to drink tea. I only drank coffee. Now I love Turkish tea."
+    },
+    {
+     "speaker": "Hafsa",
+     "text": "I'm glad. I didn't use to like coffee, but now I drink it every morning."
+    },
+    {
+     "speaker": "Linda",
+     "text": "Do you miss your old life?"
+    },
+    {
+     "speaker": "Hafsa",
+     "text": "Sometimes. But I have been happy here for seven years. I have a new life, and I am working toward a new job."
+    },
+    {
+     "speaker": "Linda",
+     "text": "I'm proud of you. Let's have tea at my house on Sunday."
+    },
+    {
+     "speaker": "Hafsa",
+     "text": "Perfect. I will bring some baklava."
+    }
+   ],
+   "questions": [
+    {
+     "type": "mcq",
+     "q": "What did Hafsa use to grow in her garden?",
+     "options": [
+      "Roses and flowers",
+      "Tomatoes and peppers",
+      "Apples and grapes",
+      "Corn and rice"
+     ],
+     "answer": 1,
+     "whyTr": "Hafsa: 'tomatoes and peppers'.",
+     "tag": "listening",
+     "level": "B1"
+    },
+    {
+     "type": "mcq",
+     "q": "When did everybody use to help with the harvest?",
+     "options": [
+      "In June",
+      "In December",
+      "On Sunday",
+      "In September"
+     ],
+     "answer": 3,
+     "whyTr": "Hafsa: 'In September, everybody used to help with the harvest.'",
+     "tag": "listening",
+     "level": "B1"
+    },
+    {
+     "type": "mcq",
+     "q": "What did Linda use to drink?",
+     "options": [
+      "Coffee",
+      "Tea",
+      "Juice",
+      "Milk"
+     ],
+     "answer": 0,
+     "whyTr": "Linda: 'I only drank coffee.'",
+     "tag": "listening",
+     "level": "B1"
+    },
+    {
+     "type": "mcq",
+     "q": "What will Hafsa bring on Sunday?",
+     "options": [
+      "Tea",
+      "Coffee",
+      "Baklava",
+      "Tomatoes"
+     ],
+     "answer": 2,
+     "whyTr": "Hafsa: 'I will bring some baklava.'",
+     "tag": "listening",
+     "level": "B1"
+    }
+   ]
+  },
+  "writing": {
+   "promptTr": "Eskiden nasıl yaşadığını ve şimdi neyin farklı olduğunu anlatan bir paragraf yaz (80-120 kelime). used to ve didn't use to kullan.",
+   "promptEn": "Write a paragraph about how your life used to be and how it is different now. Use used to and didn't use to.",
+   "frames": [
+    "When I was a child, I used to ...",
+    "We used to ... every ...",
+    "I didn't use to ... , but now I ...",
+    "Now I ... , and I miss ...",
+    "Life here is more ... than ..."
+   ],
+   "model": "When I was a child, I lived in Isparta. We used to live in a small house near a rose garden. Every summer, my friends and I used to pick roses. On Saturdays, I used to go to the bazaar and buy fresh bread. Children used to play outside until dark.\n\nNow my life is very different. I live in Texas, and I didn't use to drive, but now I drive every day. I didn't use to speak English, but now I study it for two hours a day. Life here is more modern and busier. I like my new life, but I still miss the roses and the quiet evenings of my hometown.",
+   "checklistTr": [
+    "used to + yalın fiil kalıbını en az 3 kez kullandın mı?",
+    "Olumsuzda 'didn't use to' (d olmadan) yazdın mı?",
+    "Geçmiş ile şimdiyi karşılaştırdın mı (now ...)?",
+    "Cümleler büyük harfle başlıyor mu?"
+   ],
+   "minWords": 70
+  },
+  "examSet": [
+   {
+    "type": "mcq",
+    "q": "I ___ walk to school every day, but now I take the bus.",
+    "options": [
+     "use to",
+     "used to",
+     "am used to",
+     "was used"
+    ],
+    "answer": 1,
+    "whyTr": "Eski alışkanlık: used to + fiil.",
+    "tag": "past-simple",
+    "level": "B1"
+   },
+   {
+    "type": "mcq",
+    "q": "Linda ___ like spicy food, but now she loves it.",
+    "options": [
+     "didn't used to",
+     "doesn't use to",
+     "isn't use to",
+     "didn't use to"
+    ],
+    "answer": 3,
+    "whyTr": "Olumsuz: didn't + use to.",
+    "tag": "negative-form",
+    "level": "B1"
+   },
+   {
+    "type": "mcq",
+    "q": "___ your family use to celebrate holidays together?",
+    "options": [
+     "Did",
+     "Do",
+     "Were",
+     "Has"
+    ],
+    "answer": 0,
+    "whyTr": "Geçmiş alışkanlık sorusu: Did + özne + use to...?",
+    "tag": "question-form",
+    "level": "B1"
+   },
+   {
+    "type": "mcq",
+    "q": "I was reading in the library when the lights ___ out.",
+    "options": [
+     "were going",
+     "go",
+     "went",
+     "have gone"
+    ],
+    "answer": 2,
+    "whyTr": "Kısa olay: Past Simple.",
+    "tag": "past-simple",
+    "level": "B1"
+   },
+   {
+    "type": "mcq",
+    "q": "My hair is wet because I ___ in the rain.",
+    "options": [
+     "used to walk",
+     "have been walking",
+     "walk",
+     "was walk"
+    ],
+    "answer": 1,
+    "whyTr": "Şimdi görülen sonuç: have been walking.",
+    "tag": "present-perfect",
+    "level": "B1"
+   },
+   {
+    "type": "mcq",
+    "q": "Tom has taught at this school ___ ten years.",
+    "options": [
+     "since",
+     "ago",
+     "during",
+     "for"
+    ],
+    "answer": 3,
+    "whyTr": "Süre için for.",
+    "tag": "prepositions-time",
+    "level": "B1"
+   },
+   {
+    "type": "mcq",
+    "q": "I have never ___ a school bus.",
+    "options": [
+     "driven",
+     "drove",
+     "drive",
+     "driving"
+    ],
+    "answer": 0,
+    "whyTr": "Never ile V3: driven.",
+    "tag": "present-perfect",
+    "level": "B1"
+   },
+   {
+    "type": "mcq",
+    "q": "What is the opposite of \"rural\"?",
+    "options": [
+     "modern",
+     "local",
+     "urban",
+     "familiar"
+    ],
+    "answer": 2,
+    "whyTr": "Rural'ın zıttı urban.",
+    "tag": "antonym",
+    "level": "B1"
+   },
+   {
+    "type": "mcq",
+    "q": "What is the opposite of \"traditional\"?",
+    "options": [
+     "rural",
+     "modern",
+     "calm",
+     "permanent"
+    ],
+    "answer": 1,
+    "whyTr": "Traditional'ın zıttı modern.",
+    "tag": "antonym",
+    "level": "B1"
+   },
+   {
+    "type": "mcq",
+    "q": "Which word means almost the same as \"tradition\"?",
+    "options": [
+     "harvest",
+     "memory",
+     "generation",
+     "custom"
+    ],
+    "answer": 3,
+    "whyTr": "Tradition ve custom: gelenek, görenek.",
+    "tag": "synonym",
+    "level": "B1"
+   },
+   {
+    "type": "mcq",
+    "q": "Every September, the whole village helps with the ___.",
+    "options": [
+     "harvest",
+     "bazaar",
+     "relative",
+     "accent"
+    ],
+    "answer": 0,
+    "whyTr": "Hasat zamanı: harvest.",
+    "tag": "vocab",
+    "level": "B1"
+   },
+   {
+    "type": "mcq",
+    "q": "When Maria was a girl, she lived in a small village. She used to help on the farm, and she didn't use to have a phone. Now she lives in a big city and works in an office.\n\nWhich sentence is true?",
+    "options": [
+     "Maria lives in a village now.",
+     "Maria used to work in an office.",
+     "Maria didn't use to have a phone.",
+     "Maria has a phone from childhood."
+    ],
+    "answer": 2,
+    "whyTr": "Metin: 'she didn't use to have a phone'.",
+    "tag": "reading",
+    "level": "B1"
+   }
+  ]
+ }
+}

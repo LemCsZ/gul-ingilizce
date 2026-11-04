@@ -1,0 +1,813 @@
+{
+ "week": 10,
+ "day": 1,
+ "titleTr": "Müdürün mesajını aktarmak",
+ "theme": "school-communication",
+ "morning": {
+  "grammar": {
+   "topic": "Reported speech: statements (said that / told me that)",
+   "explainTr": [
+    "Birinin sözünü başkasına aktarırken fiil genellikle bir adım geçmişe kayar: 'I am tired' → She said that she was tired. Present Simple → Past Simple, will → would, can → could, Present Perfect → Past Perfect.",
+    "'Say' ve 'tell' farklıdır: 'tell' yanında kişi alır (She told me that...), 'say' almaz (She said that...). 'That' günlük konuşmada düşebilir.",
+    "Zaman ve zamir de değişir: I → she/he, my → her/his, tomorrow → the next day, today → that day, now → then."
+   ],
+   "compareTr": "Türkçede 'Yarın arayacağım dedi' deriz; fiil zamanı kaymaz. İngilizcede 'She said that she would call the next day' demen gerekir: will → would, tomorrow → the next day.",
+   "table": [
+    [
+     "am / is / are",
+     "was / were",
+     "\"I am busy.\" → He said he was busy."
+    ],
+    [
+     "do / does (V1)",
+     "V2 (Past Simple)",
+     "\"I work.\" → She said she worked."
+    ],
+    [
+     "will / can",
+     "would / could",
+     "\"I can help.\" → He said he could help."
+    ],
+    [
+     "have / has + V3",
+     "had + V3",
+     "\"I have finished.\" → She said she had finished."
+    ],
+    [
+     "tomorrow / today",
+     "the next day / that day",
+     "\"I'll come tomorrow.\" → She said she'd come the next day."
+    ]
+   ],
+   "examples": [
+    {
+     "en": "She said that she would be late.",
+     "tr": "Geç kalacağını söyledi."
+    },
+    {
+     "en": "Mr. Brown told me that the office was closed.",
+     "tr": "Mr. Brown bana ofisin kapalı olduğunu söyledi."
+    },
+    {
+     "en": "The principal said that the test was easy.",
+     "tr": "Müdür sınavın kolay olduğunu söyledi."
+    },
+    {
+     "en": "Emre told me that he could help.",
+     "tr": "Emre bana yardım edebileceğini söyledi."
+    }
+   ],
+   "exercises": [
+    {
+     "type": "mcq",
+     "q": "Mr. Brown said, \"I am busy.\" → Mr. Brown said that he ___ busy.",
+     "options": [
+      "was",
+      "is",
+      "be",
+      "were"
+     ],
+     "answer": 0,
+     "whyTr": "Dolaylı anlatımda am/is bir adım geçmişe kayar: was.",
+     "tag": "past-simple",
+     "level": "B1"
+    },
+    {
+     "type": "mcq",
+     "q": "The principal said, \"I will call you.\" → She said that she ___ call me.",
+     "options": [
+      "will",
+      "would",
+      "is going",
+      "did"
+     ],
+     "answer": 1,
+     "whyTr": "will, dolaylı anlatımda would olur.",
+     "tag": "future",
+     "level": "B1"
+    },
+    {
+     "type": "mcq",
+     "q": "The teacher said, \"We have a test.\" → She told us that they ___ a test.",
+     "options": [
+      "have",
+      "has",
+      "had",
+      "having"
+     ],
+     "answer": 2,
+     "whyTr": "Present Simple (have) → Past Simple (had).",
+     "tag": "past-simple",
+     "level": "B1"
+    },
+    {
+     "type": "mcq",
+     "q": "The principal ___ me that the school would close early.",
+     "options": [
+      "said",
+      "talked",
+      "spoke",
+      "told"
+     ],
+     "answer": 3,
+     "whyTr": "'Tell' yanında kişi (me) ile gelir: told me. 'Said' kişisiz kullanılır: said that...",
+     "tag": "pronouns",
+     "level": "B1"
+    },
+    {
+     "type": "mcq",
+     "q": "Emre said, \"I can help you.\" → Emre said that he ___ help me.",
+     "options": [
+      "could",
+      "can",
+      "cans",
+      "may to"
+     ],
+     "answer": 0,
+     "whyTr": "can, dolaylı anlatımda could olur.",
+     "tag": "modals",
+     "level": "B1"
+    },
+    {
+     "type": "order",
+     "promptTr": "Dolaylı anlatım cümlesini sırala:",
+     "words": [
+      "said",
+      "She",
+      "that",
+      "tired",
+      "was",
+      "she"
+     ],
+     "answer": "She said that she was tired",
+     "whyTr": "Said that + özne + geçmişe kayan fiil.",
+     "tag": "word-order",
+     "level": "B1"
+    },
+    {
+     "type": "order",
+     "promptTr": "Dolaylı anlatım cümlesini sırala:",
+     "words": [
+      "told",
+      "four",
+      "would",
+      "Mr.",
+      "close",
+      "that",
+      "office",
+      "Brown",
+      "the",
+      "at",
+      "me"
+     ],
+     "answer": "Mr. Brown told me that the office would close at four",
+     "whyTr": "Told + kişi + that + cümle.",
+     "tag": "word-order",
+     "level": "B1"
+    },
+    {
+     "type": "mcq",
+     "q": "Linda said, \"I'll visit you tomorrow.\" → Linda said that she would visit me ___.",
+     "options": [
+      "tomorrow",
+      "the next day",
+      "yesterday",
+      "today"
+     ],
+     "answer": 1,
+     "whyTr": "Zaman ifadeleri de kayar: tomorrow → the next day.",
+     "tag": "pronouns",
+     "level": "B1"
+    },
+    {
+     "type": "mcq",
+     "q": "Ms. Park said, \"I have finished the report.\" → She said that she ___ the report.",
+     "options": [
+      "has finished",
+      "have finished",
+      "had finished",
+      "finishes"
+     ],
+     "answer": 2,
+     "whyTr": "Present Perfect → Past Perfect (had + V3).",
+     "tag": "present-perfect",
+     "level": "B1"
+    },
+    {
+     "type": "mcq",
+     "q": "Hafsa has lived in Texas ___ 2022.",
+     "options": [
+      "for",
+      "ago",
+      "in",
+      "since"
+     ],
+     "answer": 3,
+     "whyTr": "Başlangıç noktası (2022) ile since kullanılır. (Önceki hafta konusu.)",
+     "tag": "present-perfect",
+     "level": "B1"
+    },
+    {
+     "type": "fill",
+     "q": "Linda said, \"I am tired.\" → Linda said that she ___ tired.",
+     "accept": [
+      "was"
+     ],
+     "hintTr": "am/is geçmişi",
+     "whyTr": "am/is → was.",
+     "tag": "past-simple",
+     "level": "B1"
+    },
+    {
+     "type": "fill",
+     "q": "The principal said, \"We will start at nine.\" → She said that they ___ start at nine.",
+     "accept": [
+      "would"
+     ],
+     "hintTr": "will geçmişi",
+     "whyTr": "will → would.",
+     "tag": "future",
+     "level": "B1"
+    }
+   ]
+  },
+  "vocab": [
+   {
+    "id": "announce",
+    "en": "announce",
+    "tr": "duyurmak",
+    "pos": "verb",
+    "example": "The principal will announce the new schedule on Monday.",
+    "exampleTr": "Müdür yeni programı pazartesi duyuracak.",
+    "syn": [
+     "declare"
+    ],
+    "ant": [],
+    "level": "B1"
+   },
+   {
+    "id": "announcement",
+    "en": "announcement",
+    "tr": "duyuru",
+    "pos": "noun",
+    "example": "The announcement came over the speaker at noon.",
+    "exampleTr": "Duyuru öğlen hoparlörden geldi.",
+    "syn": [
+     "notice"
+    ],
+    "ant": [],
+    "level": "B1"
+   },
+   {
+    "id": "assembly",
+    "en": "assembly",
+    "tr": "okul toplantısı, tören",
+    "pos": "noun",
+    "example": "All students go to the gym for the assembly.",
+    "exampleTr": "Bütün öğrenciler tören için spor salonuna gidiyor.",
+    "syn": [],
+    "ant": [],
+    "level": "B1"
+   },
+   {
+    "id": "cancel",
+    "en": "cancel",
+    "tr": "iptal etmek",
+    "pos": "verb",
+    "example": "They had to cancel the field trip because of the rain.",
+    "exampleTr": "Yağmur yüzünden gezi iptal edilmek zorunda kaldı.",
+    "syn": [],
+    "ant": [
+     "confirm"
+    ],
+    "level": "B1"
+   },
+   {
+    "id": "postpone",
+    "en": "postpone",
+    "tr": "ertelemek",
+    "pos": "verb",
+    "example": "The school postponed the party until next week.",
+    "exampleTr": "Okul partiyi gelecek haftaya erteledi.",
+    "syn": [
+     "delay"
+    ],
+    "ant": [],
+    "level": "B1"
+   },
+   {
+    "id": "dismissal",
+    "en": "dismissal",
+    "tr": "paydos, okulun çıkış saati",
+    "pos": "noun",
+    "example": "Dismissal is at 3:15, so wait by the door.",
+    "exampleTr": "Çıkış saati 3.15, o yüzden kapıda bekle.",
+    "syn": [],
+    "ant": [],
+    "level": "B1"
+   },
+   {
+    "id": "deadline",
+    "en": "deadline",
+    "tr": "son tarih",
+    "pos": "noun",
+    "example": "The deadline for the form is Friday.",
+    "exampleTr": "Formun son tarihi cuma.",
+    "syn": [],
+    "ant": [],
+    "level": "B1"
+   },
+   {
+    "id": "permission",
+    "en": "permission",
+    "tr": "izin",
+    "pos": "noun",
+    "example": "Students need permission to leave the room.",
+    "exampleTr": "Öğrencilerin sınıftan çıkmak için izne ihtiyacı var.",
+    "syn": [],
+    "ant": [],
+    "level": "B1"
+   },
+   {
+    "id": "policy",
+    "en": "policy",
+    "tr": "kural, politika",
+    "pos": "noun",
+    "example": "The school policy says no phones in class.",
+    "exampleTr": "Okul kuralı sınıfta telefon yasak diyor.",
+    "syn": [],
+    "ant": [],
+    "level": "B1"
+   },
+   {
+    "id": "notice",
+    "en": "notice",
+    "tr": "bildiri; fark etmek",
+    "pos": "noun",
+    "example": "There is a notice on the door about the meeting.",
+    "exampleTr": "Kapıda toplantıyla ilgili bir bildiri var.",
+    "syn": [
+     "announcement"
+    ],
+    "ant": [],
+    "level": "B1"
+   },
+   {
+    "id": "inform",
+    "en": "inform",
+    "tr": "bilgilendirmek",
+    "pos": "verb",
+    "example": "Please inform the office if your child is sick.",
+    "exampleTr": "Çocuğunuz hastaysa lütfen ofisi bilgilendirin.",
+    "syn": [
+     "tell"
+    ],
+    "ant": [],
+    "level": "B1"
+   },
+   {
+    "id": "mention",
+    "en": "mention",
+    "tr": "söz etmek, bahsetmek",
+    "pos": "verb",
+    "example": "She did not mention the problem to me.",
+    "exampleTr": "Bana sorundan bahsetmedi.",
+    "syn": [
+     "say"
+    ],
+    "ant": [],
+    "level": "B1"
+   },
+   {
+    "id": "explain",
+    "en": "explain",
+    "tr": "açıklamak",
+    "pos": "verb",
+    "example": "Can you explain the new rule to the students?",
+    "exampleTr": "Yeni kuralı öğrencilere açıklayabilir misin?",
+    "syn": [],
+    "ant": [],
+    "level": "B1"
+   },
+   {
+    "id": "confirm",
+    "en": "confirm",
+    "tr": "onaylamak, doğrulamak",
+    "pos": "verb",
+    "example": "Please confirm that you can work on Tuesday.",
+    "exampleTr": "Lütfen salı günü çalışabileceğini onayla.",
+    "syn": [],
+    "ant": [
+     "cancel"
+    ],
+    "level": "B1"
+   },
+   {
+    "id": "require",
+    "en": "require",
+    "tr": "gerektirmek, şart koşmak",
+    "pos": "verb",
+    "example": "The district requires a background check.",
+    "exampleTr": "Okul bölgesi bir sabıka taraması şart koşuyor.",
+    "syn": [
+     "need"
+    ],
+    "ant": [],
+    "level": "B1"
+   }
+  ],
+  "reading": {
+   "title": "A message from the principal",
+   "text": "On Monday morning, Hafsa arrived early at Lincoln Elementary School. She was substituting for Mr. Walker's fourth-grade class, and she felt a little nervous. At the front office, Mr. Brown handed her a blue folder.\n\n\"The principal left a message for you,\" he said. \"She said that she would be at a district meeting all morning. She told me that you could call her cell phone if there was an emergency. She also said that the students had a spelling test that day.\"\n\nHafsa wrote everything down. Then Mr. Brown added, \"Oh, and Ms. Davis said that the assembly was moving to 1:30 because the gym was being cleaned. She told me to remind every sub about it.\"\n\n\"Thank you,\" Hafsa said. \"I will tell the students.\"\n\nAt lunch, Ms. Park, the teacher next door, asked how the morning was going. \"Fine,\" Hafsa answered. \"The principal said that the test would be easy, and she was right. The students finished in twenty minutes.\"\n\nMs. Park smiled. \"Ms. Davis always says that the first day is the hardest one.\"\n\nHafsa laughed. She felt much better now. She told Mr. Brown that she wanted to come back the next week, and he said that he would put her name on the list.",
+   "glossary": [
+    {
+     "en": "substitute",
+     "tr": "vekil olarak çalışmak"
+    },
+    {
+     "en": "handed",
+     "tr": "uzattı, verdi"
+    },
+    {
+     "en": "district meeting",
+     "tr": "okul bölgesi toplantısı"
+    },
+    {
+     "en": "emergency",
+     "tr": "acil durum"
+    },
+    {
+     "en": "spelling test",
+     "tr": "yazım sınavı"
+    }
+   ],
+   "questions": [
+    {
+     "type": "mcq",
+     "q": "Where was the principal on Monday morning?",
+     "options": [
+      "At a district meeting",
+      "In the gym",
+      "At the front office",
+      "On a field trip"
+     ],
+     "answer": 0,
+     "whyTr": "Metin: 'she would be at a district meeting all morning'.",
+     "tag": "reading",
+     "level": "B1"
+    },
+    {
+     "type": "mcq",
+     "q": "Why was the assembly moving to 1:30?",
+     "options": [
+      "The test was too long.",
+      "The gym was being cleaned.",
+      "The principal was late.",
+      "It was raining."
+     ],
+     "answer": 1,
+     "whyTr": "Metin: 'because the gym was being cleaned'.",
+     "tag": "reading",
+     "level": "B1"
+    },
+    {
+     "type": "mcq",
+     "q": "What did Hafsa tell Mr. Brown at the end?",
+     "options": [
+      "She wanted to leave early.",
+      "She did not like the school.",
+      "She wanted to come back the next week.",
+      "She needed a new folder."
+     ],
+     "answer": 2,
+     "whyTr": "Metin: 'She told Mr. Brown that she wanted to come back the next week'.",
+     "tag": "reading",
+     "level": "B1"
+    },
+    {
+     "type": "mcq",
+     "q": "What does Ms. Davis always say?",
+     "options": [
+      "The test is easy.",
+      "Every sub is nervous.",
+      "Lunch is at noon.",
+      "The first day is the hardest."
+     ],
+     "answer": 3,
+     "whyTr": "Metin: 'the first day is the hardest one'.",
+     "tag": "reading",
+     "level": "B1"
+    }
+   ]
+  }
+ },
+ "evening": {
+  "listening": {
+   "title": "Telling Emre about the day",
+   "script": [
+    {
+     "speaker": "Emre",
+     "text": "Hi, Mom. How was your day at school?"
+    },
+    {
+     "speaker": "Hafsa",
+     "text": "It was good. The principal sent me a message this morning."
+    },
+    {
+     "speaker": "Emre",
+     "text": "What did she say?"
+    },
+    {
+     "speaker": "Hafsa",
+     "text": "She said that the students were going on a field trip on Friday."
+    },
+    {
+     "speaker": "Emre",
+     "text": "Where are they going?"
+    },
+    {
+     "speaker": "Hafsa",
+     "text": "She told me that they were going to the science museum."
+    },
+    {
+     "speaker": "Emre",
+     "text": "That sounds fun. Did she say anything else?"
+    },
+    {
+     "speaker": "Hafsa",
+     "text": "Yes. She said that every student needed a permission form."
+    },
+    {
+     "speaker": "Emre",
+     "text": "When is the deadline?"
+    },
+    {
+     "speaker": "Hafsa",
+     "text": "Mr. Brown told me that the forms were due on Wednesday."
+    },
+    {
+     "speaker": "Emre",
+     "text": "Will you go on the trip too?"
+    },
+    {
+     "speaker": "Hafsa",
+     "text": "Maybe. He said that he would ask the teacher tomorrow."
+    },
+    {
+     "speaker": "Emre",
+     "text": "I hope they say yes. You should go, Mom."
+    },
+    {
+     "speaker": "Hafsa",
+     "text": "Thank you, Emre. I hope so too."
+    }
+   ],
+   "questions": [
+    {
+     "type": "mcq",
+     "q": "What did the principal say about Friday?",
+     "options": [
+      "The students were going on a field trip.",
+      "School was closed.",
+      "There was a spelling test.",
+      "The assembly was canceled."
+     ],
+     "answer": 0,
+     "whyTr": "Hafsa: 'the students were going on a field trip on Friday'.",
+     "tag": "listening",
+     "level": "B1"
+    },
+    {
+     "type": "mcq",
+     "q": "Where are the students going?",
+     "options": [
+      "To the library",
+      "To the science museum",
+      "To a park",
+      "To the airport"
+     ],
+     "answer": 1,
+     "whyTr": "Hafsa: 'they were going to the science museum'.",
+     "tag": "listening",
+     "level": "B1"
+    },
+    {
+     "type": "mcq",
+     "q": "When are the forms due?",
+     "options": [
+      "On Monday",
+      "On Friday",
+      "On Wednesday",
+      "On Sunday"
+     ],
+     "answer": 2,
+     "whyTr": "Mr. Brown told her the forms were due on Wednesday.",
+     "tag": "listening",
+     "level": "B1"
+    },
+    {
+     "type": "mcq",
+     "q": "What will Mr. Brown do tomorrow?",
+     "options": [
+      "Call the museum",
+      "Collect the forms",
+      "Cancel the trip",
+      "Ask the teacher about Hafsa"
+     ],
+     "answer": 3,
+     "whyTr": "Hafsa: 'he would ask the teacher tomorrow'.",
+     "tag": "listening",
+     "level": "B1"
+    }
+   ]
+  },
+  "writing": {
+   "promptTr": "Bir arkadaşına kısa bir e-posta yaz. Müdürün veya Mr. Brown'ın bugün söylediklerini dolaylı anlatımla aktar (said that / told me that).",
+   "promptEn": "Write a short email to a friend. Report what the principal or Mr. Brown said today.",
+   "frames": [
+    "Today the principal said that ...",
+    "She told me that ...",
+    "Mr. Brown said that I ...",
+    "The deadline was ..."
+   ],
+   "model": "Hi Linda, I had a busy day at school today. The principal said that the students were going on a field trip on Friday. She told me that every student needed a permission form. Mr. Brown said that the forms were due on Wednesday. He also told me that the assembly would start at 1:30. I wrote everything down, so I will not forget. I think the children will love the trip, and I am a little excited too. Talk to you soon, Hafsa",
+   "checklistTr": [
+    "Said that / told me that kullandın mı?",
+    "Fiilleri bir adım geçmişe kaydırdın mı (is → was, will → would)?",
+    "'Told' yanında kişi var mı (told me)?",
+    "Cümleler büyük harfle başlıyor ve noktayla bitiyor mu?"
+   ],
+   "minWords": 70
+  },
+  "examSet": [
+   {
+    "type": "mcq",
+    "q": "Mr. Brown said, \"The office closes at four.\" → Mr. Brown said that the office ___ at four.",
+    "options": [
+     "closed",
+     "close",
+     "will close",
+     "has closed"
+    ],
+    "answer": 0,
+    "whyTr": "Present Simple → Past Simple.",
+    "tag": "past-simple",
+    "level": "B1"
+   },
+   {
+    "type": "mcq",
+    "q": "The principal said, \"We are having a fire drill.\" → She said that they ___ a fire drill.",
+    "options": [
+     "are having",
+     "were having",
+     "had had",
+     "have"
+    ],
+    "answer": 1,
+    "whyTr": "Present Continuous → Past Continuous.",
+    "tag": "present-continuous",
+    "level": "B1"
+   },
+   {
+    "type": "mcq",
+    "q": "Emre ___ me that he would be late.",
+    "options": [
+     "said",
+     "spoke",
+     "told",
+     "says to"
+    ],
+    "answer": 2,
+    "whyTr": "told + kişi.",
+    "tag": "pronouns",
+    "level": "B1"
+   },
+   {
+    "type": "mcq",
+    "q": "\"I can't find my keys,\" said Linda. → Linda said that she ___ find her keys.",
+    "options": [
+     "can't",
+     "doesn't",
+     "won't",
+     "couldn't"
+    ],
+    "answer": 3,
+    "whyTr": "can't → couldn't.",
+    "tag": "modals",
+    "level": "B1"
+   },
+   {
+    "type": "mcq",
+    "q": "The woman ___ works at the front office is very kind.",
+    "options": [
+     "who",
+     "which",
+     "where",
+     "whose"
+    ],
+    "answer": 0,
+    "whyTr": "Kişi için relative pronoun: who.",
+    "tag": "pronouns",
+    "level": "B1"
+   },
+   {
+    "type": "mcq",
+    "q": "I ___ in this school for three years before I changed jobs.",
+    "options": [
+     "have worked",
+     "had worked",
+     "work",
+     "am working"
+    ],
+    "answer": 1,
+    "whyTr": "Geçmişteki bir olaydan önce: Past Perfect.",
+    "tag": "past-simple",
+    "level": "B1"
+   },
+   {
+    "type": "mcq",
+    "q": "The school will ___ the field trip because of the storm. Nobody can go.",
+    "options": [
+     "explain",
+     "mention",
+     "cancel",
+     "inform"
+    ],
+    "answer": 2,
+    "whyTr": "Gezi yapılmayacak: cancel (iptal etmek).",
+    "tag": "vocab",
+    "level": "B1"
+   },
+   {
+    "type": "mcq",
+    "q": "Which word means almost the same as \"require\"?",
+    "options": [
+     "avoid",
+     "borrow",
+     "forget",
+     "need"
+    ],
+    "answer": 3,
+    "whyTr": "Require ve need benzer anlamlı.",
+    "tag": "synonym",
+    "level": "B1"
+   },
+   {
+    "type": "mcq",
+    "q": "Which word means almost the same as \"postpone\"?",
+    "options": [
+     "delay",
+     "finish",
+     "announce",
+     "confirm"
+    ],
+    "answer": 0,
+    "whyTr": "Postpone ve delay: ertelemek.",
+    "tag": "synonym",
+    "level": "B1"
+   },
+   {
+    "type": "mcq",
+    "q": "The teacher read the ___ to the whole class: \"Tomorrow is a half day.\"",
+    "options": [
+     "permission",
+     "announcement",
+     "deadline",
+     "policy"
+    ],
+    "answer": 1,
+    "whyTr": "Herkese okunan duyuru: announcement.",
+    "tag": "vocab",
+    "level": "B1"
+   },
+   {
+    "type": "mcq",
+    "q": "Mr. Brown said that the ___ for the form was Friday. After that, nobody could turn it in.",
+    "options": [
+     "assembly",
+     "dismissal",
+     "deadline",
+     "notice"
+    ],
+    "answer": 2,
+    "whyTr": "Son tarih: deadline.",
+    "tag": "vocab",
+    "level": "B1"
+   },
+   {
+    "type": "mcq",
+    "q": "Ms. Davis said that she would call Hafsa the next day. She told Hafsa to wait for the call. She wanted to talk about Friday.\n\nWhen would Ms. Davis call?",
+    "options": [
+     "That night",
+     "Last week",
+     "On Friday",
+     "The next day"
+    ],
+    "answer": 3,
+    "whyTr": "Metin: 'the next day'.",
+    "tag": "reading",
+    "level": "B1"
+   }
+  ]
+ }
+}

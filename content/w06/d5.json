@@ -1,0 +1,796 @@
+{
+ "week": 6,
+ "day": 5,
+ "titleTr": "İşte bir olay: when ve while",
+ "theme": "school-incident",
+ "morning": {
+  "grammar": {
+   "topic": "Past Continuous + Past Simple (when / while)",
+   "explainTr": [
+    "Bir olay anlatırken uzun süren eylem Past Continuous, onu kesen kısa olay Past Simple olur: I was cooking when the phone rang. 'Ben yemek yapıyordum' arka plan, 'telefon çaldı' ani olaydır.",
+    "while + süren eylem (Past Continuous): While I was cooking, the phone rang. when + kısa olay (Past Simple): When the phone rang, I was cooking.",
+    "İki eylem aynı anda sürüyorsa ikisi de Past Continuous olabilir: While she was reading, he was cooking. Kısa olaylar peş peşe olduysa ikisi de Past Simple olur: When the bell rang, we left."
+   ],
+   "compareTr": "Türkçede 'ben yemek yaparken telefon çaldı' demek yeter, zaman ekleri kendiliğinden uyar. İngilizcede uzun eylem (was cooking) ile kısa olayı (rang) ayrı zamanlarla göstermen gerekir.",
+   "table": [
+    [
+     "Süren eylem",
+     "was / were + V-ing",
+     "I was cooking."
+    ],
+    [
+     "Kısa olay",
+     "Past Simple (V2)",
+     "The phone rang."
+    ],
+    [
+     "while",
+     "while + Past Continuous",
+     "While I was cooking, ..."
+    ],
+    [
+     "when",
+     "when + Past Simple",
+     "When the phone rang, ..."
+    ],
+    [
+     "İkisi birlikte",
+     "Past Continuous + when + Past Simple",
+     "I was walking when I saw Linda."
+    ]
+   ],
+   "examples": [
+    {
+     "en": "I was cooking when the phone rang.",
+     "tr": "Yemek yaparken telefon çaldı."
+    },
+    {
+     "en": "While the children were eating, a boy spilled his milk.",
+     "tr": "Çocuklar yemek yerken bir çocuk sütünü döktü."
+    },
+    {
+     "en": "When the alarm rang, we were sitting in the cafeteria.",
+     "tr": "Alarm çaldığında yemekhanede oturuyorduk."
+    },
+    {
+     "en": "She was walking to school when it started to rain.",
+     "tr": "Okula yürürken yağmur başladı."
+    },
+    {
+     "en": "While I was talking, nobody was listening.",
+     "tr": "Ben konuşurken kimse dinlemiyordu."
+    }
+   ],
+   "exercises": [
+    {
+     "type": "mcq",
+     "q": "Hafsa was helping in the cafeteria when the fire alarm ___.",
+     "options": [
+      "was ringing",
+      "rang",
+      "rings",
+      "has rung"
+     ],
+     "answer": 1,
+     "whyTr": "Ani kesen kısa olay: Past Simple (rang).",
+     "tag": "past-simple",
+     "level": "B1"
+    },
+    {
+     "type": "mcq",
+     "q": "While the children ___ lunch, a boy spilled his milk.",
+     "options": [
+      "ate",
+      "was eating",
+      "eat",
+      "were eating"
+     ],
+     "answer": 3,
+     "whyTr": "While ile süren eylem: were eating.",
+     "tag": "past-simple",
+     "level": "B1"
+    },
+    {
+     "type": "order",
+     "promptTr": "Cümleyi sırala:",
+     "words": [
+      "I",
+      "walking,",
+      "saw",
+      "While",
+      "was",
+      "I",
+      "Linda."
+     ],
+     "answer": "While I was walking, I saw Linda.",
+     "whyTr": "While + Past Continuous, + Past Simple.",
+     "tag": "past-simple",
+     "level": "B1"
+    },
+    {
+     "type": "mcq",
+     "q": "When the teacher ___ in, the students were talking.",
+     "options": [
+      "walked",
+      "was walking",
+      "walks",
+      "has walked"
+     ],
+     "answer": 0,
+     "whyTr": "When + kısa olay: Past Simple.",
+     "tag": "past-simple",
+     "level": "B1"
+    },
+    {
+     "type": "mcq",
+     "q": "I was cooking dinner when Emre ___ home.",
+     "options": [
+      "was coming",
+      "comes",
+      "came",
+      "come"
+     ],
+     "answer": 2,
+     "whyTr": "Kısa olay (geldi): Past Simple.",
+     "tag": "past-simple",
+     "level": "B1"
+    },
+    {
+     "type": "mcq",
+     "q": "Which sentence is correct?",
+     "options": [
+      "While she cleaned, the bell was ringing.",
+      "While she was cleaning, the bell rang.",
+      "While she was clean, the bell rang.",
+      "While she cleaning, the bell rang."
+     ],
+     "answer": 1,
+     "whyTr": "While ile süren eylem: was cleaning; kısa olay: rang.",
+     "tag": "past-simple",
+     "level": "B1"
+    },
+    {
+     "type": "order",
+     "promptTr": "Cümleyi sırala:",
+     "words": [
+      "bell",
+      "while",
+      "were",
+      "lunch.",
+      "The",
+      "rang",
+      "we",
+      "eating"
+     ],
+     "answer": "The bell rang while we were eating lunch.",
+     "whyTr": "Kısa olay (rang) önce, while + süren eylem sonra.",
+     "tag": "past-simple",
+     "level": "B1"
+    },
+    {
+     "type": "mcq",
+     "q": "___ you finished the lesson plan yet?",
+     "options": [
+      "Have",
+      "Were",
+      "Did"
+     ],
+     "answer": 0,
+     "whyTr": "Yet ile soru: Have you finished...?",
+     "tag": "present-perfect",
+     "level": "B1"
+    },
+    {
+     "type": "mcq",
+     "q": "The principal ___ an announcement when the lights went out.",
+     "options": [
+      "was making",
+      "made",
+      "were making",
+      "has made"
+     ],
+     "answer": 0,
+     "whyTr": "Süren eylem kesildi: was making.",
+     "tag": "past-simple",
+     "level": "B1"
+    },
+    {
+     "type": "fill",
+     "q": "While I ___ talking to Mr. Brown, the phone rang.",
+     "accept": [
+      "was"
+     ],
+     "hintTr": "was / were",
+     "whyTr": "I ile was kullanılır.",
+     "tag": "past-simple",
+     "level": "B1"
+    },
+    {
+     "type": "fill",
+     "q": "The students ___ playing outside when it started to rain.",
+     "accept": [
+      "were"
+     ],
+     "hintTr": "was / were",
+     "whyTr": "Çoğul özne: were.",
+     "tag": "past-simple",
+     "level": "B1"
+    },
+    {
+     "type": "mcq",
+     "q": "I have worked at this school ___ 2022.",
+     "options": [
+      "for",
+      "ago",
+      "since",
+      "during"
+     ],
+     "answer": 2,
+     "whyTr": "2022 başlangıç noktası: since.",
+     "tag": "prepositions-time",
+     "level": "B1"
+    }
+   ]
+  },
+  "vocab": [
+   {
+    "id": "supervise",
+    "en": "supervise",
+    "tr": "gözetmek, denetlemek",
+    "pos": "verb",
+    "example": "Teachers supervise the children at lunch.",
+    "exampleTr": "Öğretmenler öğle yemeğinde çocukları gözetir.",
+    "syn": [
+     "oversee"
+    ],
+    "ant": [],
+    "level": "B1"
+   },
+   {
+    "id": "cafeteria",
+    "en": "cafeteria",
+    "tr": "okul yemekhanesi",
+    "pos": "noun",
+    "example": "The cafeteria is very loud at noon.",
+    "exampleTr": "Yemekhane öğlen çok gürültülü.",
+    "syn": [],
+    "ant": [],
+    "level": "B1"
+   },
+   {
+    "id": "hallway",
+    "en": "hallway",
+    "tr": "koridor",
+    "pos": "noun",
+    "example": "Don't run in the hallway.",
+    "exampleTr": "Koridorda koşma.",
+    "syn": [],
+    "ant": [],
+    "level": "B1"
+   },
+   {
+    "id": "alarm",
+    "en": "alarm",
+    "tr": "alarm",
+    "pos": "noun",
+    "example": "The fire alarm rang at 11:30.",
+    "exampleTr": "Yangın alarmı 11.30'da çaldı.",
+    "syn": [],
+    "ant": [],
+    "level": "B1"
+   },
+   {
+    "id": "announcement",
+    "en": "announcement",
+    "tr": "duyuru",
+    "pos": "noun",
+    "example": "Please listen to the announcement.",
+    "exampleTr": "Lütfen duyuruyu dinleyin.",
+    "syn": [],
+    "ant": [],
+    "level": "B1"
+   },
+   {
+    "id": "evacuate",
+    "en": "evacuate",
+    "tr": "tahliye etmek, boşaltmak",
+    "pos": "verb",
+    "example": "They evacuated the building in two minutes.",
+    "exampleTr": "Binayı iki dakikada tahliye ettiler.",
+    "syn": [],
+    "ant": [],
+    "level": "B1"
+   },
+   {
+    "id": "principal",
+    "en": "principal",
+    "tr": "okul müdürü",
+    "pos": "noun",
+    "example": "The principal talked to all the parents.",
+    "exampleTr": "Müdür bütün velilerle konuştu.",
+    "syn": [],
+    "ant": [],
+    "level": "B1"
+   },
+   {
+    "id": "attendance",
+    "en": "attendance",
+    "tr": "yoklama, devam",
+    "pos": "noun",
+    "example": "I take attendance every morning.",
+    "exampleTr": "Her sabah yoklama alıyorum.",
+    "syn": [],
+    "ant": [],
+    "level": "B1"
+   },
+   {
+    "id": "recess",
+    "en": "recess",
+    "tr": "teneffüs, oyun molası",
+    "pos": "noun",
+    "example": "The children play outside at recess.",
+    "exampleTr": "Çocuklar teneffüste dışarıda oynar.",
+    "syn": [],
+    "ant": [],
+    "level": "B1"
+   },
+   {
+    "id": "spill",
+    "en": "spill",
+    "tr": "dökmek, dökülmek",
+    "pos": "verb",
+    "example": "Be careful. Don't spill the juice.",
+    "exampleTr": "Dikkat et. Meyve suyunu dökme.",
+    "syn": [],
+    "ant": [],
+    "level": "B1"
+   },
+   {
+    "id": "argue",
+    "en": "argue",
+    "tr": "tartışmak, kavga etmek",
+    "pos": "verb",
+    "example": "The boys argued about the soccer ball.",
+    "exampleTr": "Çocuklar futbol topu yüzünden tartıştı.",
+    "syn": [
+     "quarrel"
+    ],
+    "ant": [],
+    "level": "B1"
+   },
+   {
+    "id": "interrupt",
+    "en": "interrupt",
+    "tr": "sözünü kesmek, araya girmek",
+    "pos": "verb",
+    "example": "Please don't interrupt the teacher.",
+    "exampleTr": "Lütfen öğretmenin sözünü kesme.",
+    "syn": [],
+    "ant": [],
+    "level": "B1"
+   },
+   {
+    "id": "respond",
+    "en": "respond",
+    "tr": "cevap vermek",
+    "pos": "verb",
+    "example": "He didn't respond to my email.",
+    "exampleTr": "E-postama cevap vermedi.",
+    "syn": [
+     "reply"
+    ],
+    "ant": [],
+    "level": "B1"
+   },
+   {
+    "id": "gather",
+    "en": "gather",
+    "tr": "toplanmak, toplamak",
+    "pos": "verb",
+    "example": "The students gathered in the gym.",
+    "exampleTr": "Öğrenciler spor salonunda toplandı.",
+    "syn": [
+     "assemble"
+    ],
+    "ant": [],
+    "level": "B1"
+   },
+   {
+    "id": "ignore",
+    "en": "ignore",
+    "tr": "görmezden gelmek",
+    "pos": "verb",
+    "example": "Don't ignore the alarm.",
+    "exampleTr": "Alarmı görmezden gelme.",
+    "syn": [],
+    "ant": [],
+    "level": "B1"
+   }
+  ],
+  "reading": {
+   "title": "The alarm in the cafeteria",
+   "text": "On Tuesday, Hafsa was helping in the school cafeteria as a lunch volunteer. While the children were eating, two boys started to argue about a seat. Hafsa was walking toward them when a girl spilled her juice on the floor. She was getting a towel when the fire alarm suddenly rang.\n\nThe cafeteria became very loud. Some children were laughing, and some were crying. Hafsa remembered her training. While the lunch teacher was calling the principal on the radio, Hafsa raised her hand and said calmly, \"Everybody, stop talking. Line up at the door.\" The children listened. They gathered in a line, and she counted them.\n\nWhen they reached the playground, the alarm was still ringing. Teachers from every classroom were standing on the grass with their students. The principal, Ms. Torres, was talking to a firefighter when Hafsa arrived. A few minutes later, the firefighter laughed. \"It's a false alarm,\" he said. \"Someone was burning popcorn in the teachers' lounge.\"\n\nWhile the children were walking back inside, Ms. Torres thanked Hafsa. \"You were calm while everyone else was running around,\" she said.\n\nHafsa smiled. \"I was nervous,\" she answered, \"but I remembered what I learned.\" ",
+   "glossary": [
+    {
+     "en": "firefighter",
+     "tr": "itfaiyeci"
+    },
+    {
+     "en": "false alarm",
+     "tr": "yanlış alarm"
+    },
+    {
+     "en": "line up",
+     "tr": "sıraya girmek"
+    },
+    {
+     "en": "lounge",
+     "tr": "dinlenme odası"
+    },
+    {
+     "en": "radio",
+     "tr": "telsiz"
+    }
+   ],
+   "questions": [
+    {
+     "type": "mcq",
+     "q": "What were the children doing when two boys started to argue?",
+     "options": [
+      "Playing outside",
+      "Eating lunch",
+      "Reading books",
+      "Waiting for the bus"
+     ],
+     "answer": 1,
+     "whyTr": "Metin: 'While the children were eating'.",
+     "tag": "reading",
+     "level": "B1"
+    },
+    {
+     "type": "mcq",
+     "q": "What happened when Hafsa was getting a towel?",
+     "options": [
+      "A boy fell down.",
+      "The lights went out.",
+      "Ms. Torres came in.",
+      "The fire alarm rang."
+     ],
+     "answer": 3,
+     "whyTr": "Metin: 'She was getting a towel when the fire alarm suddenly rang.'",
+     "tag": "reading",
+     "level": "B1"
+    },
+    {
+     "type": "mcq",
+     "q": "What did Hafsa tell the children?",
+     "options": [
+      "To stop talking and line up at the door",
+      "To run outside quickly",
+      "To stay in their seats",
+      "To call their parents"
+     ],
+     "answer": 0,
+     "whyTr": "Metin: 'Everybody, stop talking. Line up at the door.'",
+     "tag": "reading",
+     "level": "B1"
+    },
+    {
+     "type": "mcq",
+     "q": "What caused the alarm?",
+     "options": [
+      "A real fire in the cafeteria",
+      "A broken phone",
+      "Burning popcorn",
+      "A loud boy"
+     ],
+     "answer": 2,
+     "whyTr": "Metin: 'Someone was burning popcorn'.",
+     "tag": "reading",
+     "level": "B1"
+    }
+   ]
+  }
+ },
+ "evening": {
+  "listening": {
+   "title": "Telling Linda about a crazy day",
+   "script": [
+    {
+     "speaker": "Linda",
+     "text": "Hafsa, you sound excited! How was your day at school?"
+    },
+    {
+     "speaker": "Hafsa",
+     "text": "Crazy! I was helping in the cafeteria when the fire alarm rang."
+    },
+    {
+     "speaker": "Linda",
+     "text": "Oh no! What did you do?"
+    },
+    {
+     "speaker": "Hafsa",
+     "text": "While the lunch teacher was calling the principal, I told the children to line up."
+    },
+    {
+     "speaker": "Linda",
+     "text": "Were they scared?"
+    },
+    {
+     "speaker": "Hafsa",
+     "text": "Some of them were crying, but they listened to me."
+    },
+    {
+     "speaker": "Linda",
+     "text": "Where did you go?"
+    },
+    {
+     "speaker": "Hafsa",
+     "text": "We went out to the playground. The principal was talking to a firefighter when we arrived."
+    },
+    {
+     "speaker": "Linda",
+     "text": "Was there really a fire?"
+    },
+    {
+     "speaker": "Hafsa",
+     "text": "No. Someone was making popcorn in the teachers' lounge, and it burned."
+    },
+    {
+     "speaker": "Linda",
+     "text": "That's funny! I'm proud of you. You stayed calm."
+    },
+    {
+     "speaker": "Hafsa",
+     "text": "Thank you. Ms. Torres said the same thing while we were walking back inside."
+    }
+   ],
+   "questions": [
+    {
+     "type": "mcq",
+     "q": "What was Hafsa doing when the alarm rang?",
+     "options": [
+      "Teaching a class",
+      "Helping in the cafeteria",
+      "Talking to the firefighter",
+      "Driving to school"
+     ],
+     "answer": 1,
+     "whyTr": "Hafsa: 'I was helping in the cafeteria when the fire alarm rang.'",
+     "tag": "listening",
+     "level": "B1"
+    },
+    {
+     "type": "mcq",
+     "q": "What did Hafsa tell the children to do?",
+     "options": [
+      "Go home",
+      "Eat quickly",
+      "Call the principal",
+      "Line up"
+     ],
+     "answer": 3,
+     "whyTr": "Hafsa: 'I told the children to line up.'",
+     "tag": "listening",
+     "level": "B1"
+    },
+    {
+     "type": "mcq",
+     "q": "What caused the alarm?",
+     "options": [
+      "Burned popcorn",
+      "A real fire",
+      "A broken door",
+      "A lunch tray"
+     ],
+     "answer": 0,
+     "whyTr": "Hafsa: 'popcorn in the teachers' lounge, and it burned'.",
+     "tag": "listening",
+     "level": "B1"
+    },
+    {
+     "type": "mcq",
+     "q": "How does Linda feel about Hafsa?",
+     "options": [
+      "Angry",
+      "Jealous",
+      "Proud",
+      "Bored"
+     ],
+     "answer": 2,
+     "whyTr": "Linda: 'I'm proud of you.'",
+     "tag": "listening",
+     "level": "B1"
+    }
+   ]
+  },
+  "writing": {
+   "promptTr": "İşte ya da okulda olan bir olayı anlatan kısa bir hikâye yaz (80-120 kelime). when ve while kullan; süren eylem için Past Continuous, ani olay için Past Simple.",
+   "promptEn": "Write a short story about an event at work or school. Use when and while with the past continuous and past simple.",
+   "frames": [
+    "Last ..., I was ...-ing when ...",
+    "While I was ...-ing, ...",
+    "When I ..., everyone was ...-ing.",
+    "Luckily, ...",
+    "In the end, ..."
+   ],
+   "model": "Last Wednesday, I was helping in the school library when the lights went out. The children were reading quietly, and a few of them were working on computers. Suddenly everything became dark, and a little girl started to cry.\n\nWhile the librarian was looking for a flashlight, I sat with the girl and told her a short story. The other children listened carefully. When the lights came back, everybody clapped.\n\nLater, the principal said the problem was a broken wire outside. I was happy because the children stayed calm. It was a small event, but I learned that a quiet voice can help a lot.",
+   "checklistTr": [
+    "when veya while ile en az 3 cümle kurdun mu?",
+    "Süren eylem Past Continuous, ani olay Past Simple mı?",
+    "'While I was walk' gibi eksik yapılardan kaçındın mı?",
+    "Olayı baştan sona sıralı anlattın mı?"
+   ],
+   "minWords": 70
+  },
+  "examSet": [
+   {
+    "type": "mcq",
+    "q": "The children were playing outside when it ___ to rain.",
+    "options": [
+     "was starting",
+     "started",
+     "starts",
+     "has started"
+    ],
+    "answer": 1,
+    "whyTr": "Ani olay: Past Simple.",
+    "tag": "past-simple",
+    "level": "B1"
+   },
+   {
+    "type": "mcq",
+    "q": "While Linda ___ dinner, her phone rang.",
+    "options": [
+     "cooked",
+     "is cooking",
+     "were cooking",
+     "was cooking"
+    ],
+    "answer": 3,
+    "whyTr": "While ile süren eylem: was cooking.",
+    "tag": "past-simple",
+    "level": "B1"
+   },
+   {
+    "type": "mcq",
+    "q": "What was Hafsa doing ___ the principal called?",
+    "options": [
+     "when",
+     "during",
+     "since",
+     "for"
+    ],
+    "answer": 0,
+    "whyTr": "Kısa olayı bağlayan kelime: when.",
+    "tag": "linkers",
+    "level": "B1"
+   },
+   {
+    "type": "mcq",
+    "q": "It was 7 a.m., and it ___ heavily.",
+    "options": [
+     "rained",
+     "has rained",
+     "was raining"
+    ],
+    "answer": 2,
+    "whyTr": "Sahneyi kuran süren eylem: was raining.",
+    "tag": "past-simple",
+    "level": "B1"
+   },
+   {
+    "type": "mcq",
+    "q": "My neighbor has been sick ___ Monday.",
+    "options": [
+     "for",
+     "since",
+     "ago",
+     "from"
+    ],
+    "answer": 1,
+    "whyTr": "Monday başlangıç noktası: since.",
+    "tag": "prepositions-time",
+    "level": "B1"
+   },
+   {
+    "type": "mcq",
+    "q": "You look tired. What ___ you ___ lately?",
+    "options": [
+     "did, do",
+     "were, doing",
+     "are, done",
+     "have, been doing"
+    ],
+    "answer": 3,
+    "whyTr": "Son zamanlardaki süreç: have been doing.",
+    "tag": "present-perfect",
+    "level": "B1"
+   },
+   {
+    "type": "mcq",
+    "q": "Which word means almost the same as \"respond\"?",
+    "options": [
+     "reply",
+     "ignore",
+     "spill",
+     "argue"
+    ],
+    "answer": 0,
+    "whyTr": "Respond ve reply: cevap vermek.",
+    "tag": "synonym",
+    "level": "B1"
+   },
+   {
+    "type": "mcq",
+    "q": "Which word means almost the same as \"gather\"?",
+    "options": [
+     "interrupt",
+     "supervise",
+     "assemble",
+     "evacuate"
+    ],
+    "answer": 2,
+    "whyTr": "Gather ve assemble: toplanmak.",
+    "tag": "synonym",
+    "level": "B1"
+   },
+   {
+    "type": "mcq",
+    "q": "What is the opposite of \"calm\"?",
+    "options": [
+     "quiet",
+     "anxious",
+     "safe",
+     "relaxed"
+    ],
+    "answer": 1,
+    "whyTr": "Calm'ın zıttı anxious.",
+    "tag": "antonym",
+    "level": "B1"
+   },
+   {
+    "type": "mcq",
+    "q": "The principal made an ___ about the field trip over the speaker.",
+    "options": [
+     "attendance",
+     "recess",
+     "cafeteria",
+     "announcement"
+    ],
+    "answer": 3,
+    "whyTr": "Hoparlörden yapılan duyuru: announcement.",
+    "tag": "vocab",
+    "level": "B1"
+   },
+   {
+    "type": "mcq",
+    "q": "When the fire alarm rang, the teachers had to ___ the building.",
+    "options": [
+     "evacuate",
+     "spill",
+     "interrupt",
+     "ignore"
+    ],
+    "answer": 0,
+    "whyTr": "Binayı tahliye etmek: evacuate.",
+    "tag": "vocab",
+    "level": "B1"
+   },
+   {
+    "type": "mcq",
+    "q": "Ms. Lee was taking attendance when two students came in late. She wrote their names on a list and kept going.\n\nWhat was Ms. Lee doing when the students came in?",
+    "options": [
+     "Eating lunch",
+     "Calling the principal",
+     "Taking attendance",
+     "Reading a story"
+    ],
+    "answer": 2,
+    "whyTr": "Metin: 'was taking attendance when two students came in late'.",
+    "tag": "reading",
+    "level": "B1"
+   }
+  ]
+ }
+}

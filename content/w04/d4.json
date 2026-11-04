@@ -1,0 +1,767 @@
+{
+ "week": 4,
+ "day": 4,
+ "titleTr": "Şehrini anlat: a / an / the",
+ "theme": "city",
+ "morning": {
+  "grammar": {
+   "topic": "articles: a / an / the / no article",
+   "explainTr": [
+    "'A' ve 'an' ilk kez söz ettiğin tek bir şeyin önüne gelir: I have a cat. Sesli sesle başlıyorsa 'an': an apple, an hour. Kelimenin yazılışına değil, okunuşuna bak.",
+    "'The' hem konuşanın hem dinleyenin bildiği şeyin önüne gelir: The cat is small (az önce söylediğim kedi). Dünyada tek olan şeylerde de 'the' kullanılır: the sun, the moon.",
+    "Artikel hiç kullanılmayan yerler: genel çoğul ve sayılamayan isimler (I like music), diller (Turkish), öğünler (breakfast), şehir ve ülke adları ve go to school / go to work / go home kalıpları."
+   ],
+   "compareTr": "Türkçede artikel yoktur; 'bir' kelimesi her zaman gerekmez. İngilizcede tekil sayılabilir isimden önce mutlaka a/an ya da the gerekir: 'I have car' yanlış, 'I have a car' doğru.",
+   "table": [
+    [
+     "a + sessiz ses",
+     "a city, a bridge",
+     "She has a car."
+    ],
+    [
+     "an + sesli ses",
+     "an apple, an hour",
+     "I need an umbrella."
+    ],
+    [
+     "the",
+     "belli / tek şey",
+     "The sun is hot."
+    ],
+    [
+     "artikel yok",
+     "genel çoğul, dil, öğün",
+     "I like music."
+    ],
+    [
+     "artikel yok",
+     "kalıplar",
+     "go to school / work"
+    ]
+   ],
+   "examples": [
+    {
+     "en": "I live in a small city.",
+     "tr": "Küçük bir şehirde yaşıyorum."
+    },
+    {
+     "en": "She has an umbrella.",
+     "tr": "Onun bir şemsiyesi var."
+    },
+    {
+     "en": "I have a dog. The dog is brown.",
+     "tr": "Bir köpeğim var. Köpek kahverengi."
+    },
+    {
+     "en": "The sun is very hot today.",
+     "tr": "Güneş bugün çok sıcak."
+    },
+    {
+     "en": "Hafsa speaks Turkish and English.",
+     "tr": "Hafsa Türkçe ve İngilizce konuşuyor."
+    }
+   ],
+   "exercises": [
+    {
+     "type": "mcq",
+     "q": "She lives in ___ small town.",
+     "options": [
+      "a",
+      "an",
+      "the"
+     ],
+     "answer": 0,
+     "whyTr": "Small sessiz harfle başlar; ilk kez söz edilen tekil isim: 'a'.",
+     "tag": "articles",
+     "level": "A1"
+    },
+    {
+     "type": "mcq",
+     "q": "I need ___ umbrella. It's raining.",
+     "options": [
+      "a",
+      "an",
+      "the"
+     ],
+     "answer": 1,
+     "whyTr": "Umbrella sesli harfle başlar: 'an'.",
+     "tag": "articles",
+     "level": "A1"
+    },
+    {
+     "type": "mcq",
+     "q": "Hafsa has a cat. ___ cat is very small.",
+     "options": [
+      "A",
+      "An",
+      "The"
+     ],
+     "answer": 2,
+     "whyTr": "Aynı kedi ikinci kez geçiyor: 'the'.",
+     "tag": "articles",
+     "level": "A2"
+    },
+    {
+     "type": "mcq",
+     "q": "My son goes to ___ school by bus.",
+     "options": [
+      "the",
+      "no article",
+      "a"
+     ],
+     "answer": 1,
+     "whyTr": "'Go to school' kalıbında artikel kullanılmaz.",
+     "tag": "articles",
+     "level": "A2"
+    },
+    {
+     "type": "order",
+     "promptTr": "Cümleyi sırala:",
+     "words": [
+      "are",
+      "to",
+      "visit",
+      "museum",
+      "the",
+      "We",
+      "going"
+     ],
+     "answer": "We are going to visit the museum",
+     "whyTr": "Sıra: özne + am/is/are + going to + fiil.",
+     "tag": "future",
+     "level": "A2"
+    },
+    {
+     "type": "mcq",
+     "q": "___ sun is very hot in July.",
+     "options": [
+      "The",
+      "A",
+      "An"
+     ],
+     "answer": 0,
+     "whyTr": "Dünyada tek olan şeylerle 'the' kullanılır.",
+     "tag": "articles",
+     "level": "A2"
+    },
+    {
+     "type": "mcq",
+     "q": "It's hot in here. I ___ open the window.",
+     "options": [
+      "am open",
+      "going",
+      "will"
+     ],
+     "answer": 2,
+     "whyTr": "Anlık karar: will.",
+     "tag": "future",
+     "level": "A2"
+    },
+    {
+     "type": "mcq",
+     "q": "Can you pass me ___ salt, please?",
+     "options": [
+      "the",
+      "a",
+      "an"
+     ],
+     "answer": 0,
+     "whyTr": "Masadaki belli tuz: 'the salt'.",
+     "tag": "articles",
+     "level": "A2"
+    },
+    {
+     "type": "mcq",
+     "q": "Mr. Brown is ___ honest man.",
+     "options": [
+      "a",
+      "an",
+      "the"
+     ],
+     "answer": 1,
+     "whyTr": "Honest 'h' okunmaz, sesli harfle başlar: 'an'.",
+     "tag": "articles",
+     "level": "A2"
+    },
+    {
+     "type": "order",
+     "promptTr": "Cümleyi sırala:",
+     "words": [
+      "school",
+      "next",
+      "to",
+      "is",
+      "library",
+      "The",
+      "the"
+     ],
+     "answer": "The school is next to the library",
+     "whyTr": "Belli yerlerde 'the' kullanılır.",
+     "tag": "articles",
+     "level": "A2"
+    },
+    {
+     "type": "mcq",
+     "q": "Hafsa speaks ___ Turkish and English.",
+     "options": [
+      "the",
+      "no article",
+      "a"
+     ],
+     "answer": 1,
+     "whyTr": "Dil isimlerinde artikel kullanılmaz.",
+     "tag": "articles",
+     "level": "A2"
+    },
+    {
+     "type": "fill",
+     "q": "Emre has ___ egg for breakfast.",
+     "accept": [
+      "an"
+     ],
+     "hintTr": "a mı an mı?",
+     "whyTr": "Egg sesli harfle başlar: 'an'.",
+     "tag": "articles",
+     "level": "A2"
+    }
+   ]
+  },
+  "vocab": [
+   {
+    "id": "city",
+    "en": "city",
+    "tr": "şehir",
+    "pos": "noun",
+    "example": "I live in a big city.",
+    "exampleTr": "Büyük bir şehirde yaşıyorum.",
+    "syn": [],
+    "ant": [],
+    "level": "A2"
+   },
+   {
+    "id": "downtown",
+    "en": "downtown",
+    "tr": "şehir merkezi",
+    "pos": "noun",
+    "example": "The market is downtown.",
+    "exampleTr": "Pazar şehir merkezinde.",
+    "syn": [],
+    "ant": [],
+    "level": "A2"
+   },
+   {
+    "id": "traffic",
+    "en": "traffic",
+    "tr": "trafik",
+    "pos": "noun",
+    "example": "The traffic is bad at five o'clock.",
+    "exampleTr": "Saat beşte trafik kötü.",
+    "syn": [],
+    "ant": [],
+    "level": "A2"
+   },
+   {
+    "id": "crowded",
+    "en": "crowded",
+    "tr": "kalabalık",
+    "pos": "adjective",
+    "example": "The bus is crowded.",
+    "exampleTr": "Otobüs kalabalık.",
+    "syn": [],
+    "ant": [
+     "empty"
+    ],
+    "level": "A2"
+   },
+   {
+    "id": "bridge",
+    "en": "bridge",
+    "tr": "köprü",
+    "pos": "noun",
+    "example": "The bridge is very old.",
+    "exampleTr": "Köprü çok eski.",
+    "syn": [],
+    "ant": [],
+    "level": "A2"
+   },
+   {
+    "id": "library",
+    "en": "library",
+    "tr": "kütüphane",
+    "pos": "noun",
+    "example": "I go to the library every week.",
+    "exampleTr": "Her hafta kütüphaneye giderim.",
+    "syn": [],
+    "ant": [],
+    "level": "A2"
+   },
+   {
+    "id": "market",
+    "en": "market",
+    "tr": "pazar, market",
+    "pos": "noun",
+    "example": "There is a market on Saturday.",
+    "exampleTr": "Cumartesi pazar kuruluyor.",
+    "syn": [],
+    "ant": [],
+    "level": "A2"
+   },
+   {
+    "id": "tourist",
+    "en": "tourist",
+    "tr": "turist",
+    "pos": "noun",
+    "example": "Many tourists visit the bridge.",
+    "exampleTr": "Birçok turist köprüyü ziyaret ediyor.",
+    "syn": [],
+    "ant": [],
+    "level": "A2"
+   },
+   {
+    "id": "famous",
+    "en": "famous",
+    "tr": "ünlü",
+    "pos": "adjective",
+    "example": "This museum is famous.",
+    "exampleTr": "Bu müze ünlü.",
+    "syn": [
+     "well-known"
+    ],
+    "ant": [],
+    "level": "A2"
+   },
+   {
+    "id": "popular",
+    "en": "popular",
+    "tr": "popüler, sevilen",
+    "pos": "adjective",
+    "example": "This restaurant is very popular.",
+    "exampleTr": "Bu restoran çok popüler.",
+    "syn": [],
+    "ant": [],
+    "level": "A2"
+   },
+   {
+    "id": "safe",
+    "en": "safe",
+    "tr": "güvenli",
+    "pos": "adjective",
+    "example": "My neighborhood is safe.",
+    "exampleTr": "Mahallem güvenli.",
+    "syn": [],
+    "ant": [
+     "dangerous"
+    ],
+    "level": "A2"
+   },
+   {
+    "id": "dangerous",
+    "en": "dangerous",
+    "tr": "tehlikeli",
+    "pos": "adjective",
+    "example": "The road is dangerous at night.",
+    "exampleTr": "Yol geceleri tehlikeli.",
+    "syn": [],
+    "ant": [
+     "safe"
+    ],
+    "level": "A2"
+   },
+   {
+    "id": "neighborhood",
+    "en": "neighborhood",
+    "tr": "mahalle",
+    "pos": "noun",
+    "example": "Our neighborhood has a small park.",
+    "exampleTr": "Mahallemizde küçük bir park var.",
+    "syn": [],
+    "ant": [],
+    "level": "A2"
+   },
+   {
+    "id": "bus",
+    "en": "bus",
+    "tr": "otobüs",
+    "pos": "noun",
+    "example": "I take the bus to work.",
+    "exampleTr": "İşe otobüsle giderim.",
+    "syn": [],
+    "ant": [],
+    "level": "A2"
+   },
+   {
+    "id": "hospital",
+    "en": "hospital",
+    "tr": "hastane",
+    "pos": "noun",
+    "example": "The hospital is near the school.",
+    "exampleTr": "Hastane okulun yakınında.",
+    "syn": [],
+    "ant": [],
+    "level": "A2"
+   }
+  ],
+  "reading": {
+   "title": "Hafsa's new city",
+   "text": "Hafsa lives in a small city. The city has a river, a big library and a famous bridge. Tourists often take photos of the bridge. Downtown, there is a market on Saturdays. Hafsa buys fruit and bread there.\n\nHer neighborhood is safe and friendly. There is a school at the end of the street, and a hospital is near it. Hafsa goes to the library every week, because the library has free English classes. The traffic in the morning is bad, so she usually walks.\n\nOn weekends, Hafsa and Emre often walk along the river and sit in the park. Sometimes they eat ice cream near the bridge. Isparta is smaller, and she misses it sometimes. But Hafsa likes her new city too. \"It isn't Isparta,\" she says, \"but it's home now.\"",
+   "glossary": [
+    {
+     "en": "river",
+     "tr": "nehir"
+    },
+    {
+     "en": "friendly",
+     "tr": "cana yakın"
+    },
+    {
+     "en": "miss",
+     "tr": "özlemek"
+    },
+    {
+     "en": "photo",
+     "tr": "fotoğraf"
+    }
+   ],
+   "questions": [
+    {
+     "type": "mcq",
+     "q": "What is famous in Hafsa's city?",
+     "options": [
+      "The hospital",
+      "The school",
+      "The bridge"
+     ],
+     "answer": 2,
+     "whyTr": "Metin: 'a famous bridge'.",
+     "tag": "reading",
+     "level": "A2"
+    },
+    {
+     "type": "mcq",
+     "q": "When is the market?",
+     "options": [
+      "Every day",
+      "On Saturdays",
+      "On Sundays"
+     ],
+     "answer": 1,
+     "whyTr": "Metin: 'a market on Saturdays'.",
+     "tag": "reading",
+     "level": "A2"
+    },
+    {
+     "type": "mcq",
+     "q": "Why does Hafsa go to the library?",
+     "options": [
+      "It is near the hospital.",
+      "She works there.",
+      "It has free English classes."
+     ],
+     "answer": 2,
+     "whyTr": "Metin: 'the library has free English classes'.",
+     "tag": "reading",
+     "level": "A2"
+    },
+    {
+     "type": "mcq",
+     "q": "How does Hafsa usually go out in the morning?",
+     "options": [
+      "She walks.",
+      "She drives.",
+      "She takes the bus."
+     ],
+     "answer": 0,
+     "whyTr": "Metin: 'so she usually walks'.",
+     "tag": "reading",
+     "level": "A2"
+    }
+   ]
+  }
+ },
+ "evening": {
+  "listening": {
+   "title": "Directions downtown",
+   "script": [
+    {
+     "speaker": "Tourist",
+     "text": "Excuse me, is there a bank near here?"
+    },
+    {
+     "speaker": "Hafsa",
+     "text": "Yes, there is a bank on Main Street, next to the library."
+    },
+    {
+     "speaker": "Tourist",
+     "text": "Is it far?"
+    },
+    {
+     "speaker": "Hafsa",
+     "text": "No. It's a five-minute walk. Go straight, and turn left at the bridge."
+    },
+    {
+     "speaker": "Tourist",
+     "text": "Thank you. Is there a good restaurant downtown?"
+    },
+    {
+     "speaker": "Hafsa",
+     "text": "Yes, there's an Italian restaurant near the market. It's very popular."
+    },
+    {
+     "speaker": "Tourist",
+     "text": "Is it expensive?"
+    },
+    {
+     "speaker": "Hafsa",
+     "text": "Not really. The pizza is cheap and delicious."
+    },
+    {
+     "speaker": "Tourist",
+     "text": "Great. Is the city safe at night?"
+    },
+    {
+     "speaker": "Hafsa",
+     "text": "Yes, it's a safe city, but the traffic is bad at five o'clock."
+    },
+    {
+     "speaker": "Tourist",
+     "text": "Thanks for your help!"
+    },
+    {
+     "speaker": "Hafsa",
+     "text": "You're welcome. Enjoy the city!"
+    }
+   ],
+   "questions": [
+    {
+     "type": "mcq",
+     "q": "Where is the bank?",
+     "options": [
+      "Near the market",
+      "Behind the hospital",
+      "Next to the library"
+     ],
+     "answer": 2,
+     "whyTr": "Hafsa: 'next to the library'.",
+     "tag": "listening",
+     "level": "A2"
+    },
+    {
+     "type": "mcq",
+     "q": "How far is the bank?",
+     "options": [
+      "A five-minute walk",
+      "A ten-minute bus ride",
+      "One hour"
+     ],
+     "answer": 0,
+     "whyTr": "Hafsa: 'It's a five-minute walk.'",
+     "tag": "listening",
+     "level": "A2"
+    },
+    {
+     "type": "mcq",
+     "q": "What is near the market?",
+     "options": [
+      "A bank",
+      "An Italian restaurant",
+      "A school"
+     ],
+     "answer": 1,
+     "whyTr": "Hafsa: 'an Italian restaurant near the market'.",
+     "tag": "listening",
+     "level": "A2"
+    },
+    {
+     "type": "mcq",
+     "q": "When is the traffic bad?",
+     "options": [
+      "At five o'clock",
+      "In the morning",
+      "At night"
+     ],
+     "answer": 0,
+     "whyTr": "Hafsa: 'the traffic is bad at five o'clock'.",
+     "tag": "listening",
+     "level": "A2"
+    }
+   ]
+  },
+  "writing": {
+   "promptTr": "Yaşadığın şehri ya da mahalleni 4-5 cümleyle anlat.",
+   "promptEn": "Describe your city or neighborhood in 4-5 sentences.",
+   "frames": [
+    "I live in a ...",
+    "There is a ... in my city.",
+    "The ... is famous / popular.",
+    "I like the ... because ..."
+   ],
+   "model": "I live in a small city. There is a big library and a famous bridge. The market is downtown, and I go there on Saturdays. My neighborhood is safe. I like the city because the people are friendly.",
+   "checklistTr": [
+    "Tekil sayılabilir isimlerden önce a/an var mı (a city, an apartment)?",
+    "Daha önce geçen ya da tek olan şeyde 'the' kullandın mı?",
+    "Cümleler büyük harfle başlıyor ve noktayla bitiyor mu?"
+   ],
+   "minWords": 35
+  },
+  "examSet": [
+   {
+    "type": "mcq",
+    "q": "Linda has ___ new car.",
+    "options": [
+     "an",
+     "a",
+     "the"
+    ],
+    "answer": 1,
+    "whyTr": "New sessiz sesle başlar: 'a'.",
+    "tag": "articles",
+    "level": "A2"
+   },
+   {
+    "type": "mcq",
+    "q": "I have ___ idea. Let's go to the lake!",
+    "options": [
+     "a",
+     "the",
+     "an"
+    ],
+    "answer": 2,
+    "whyTr": "Idea sesli harfle başlar: 'an'.",
+    "tag": "articles",
+    "level": "A2"
+   },
+   {
+    "type": "mcq",
+    "q": "We saw a bridge and a church. ___ bridge was beautiful.",
+    "options": [
+     "A",
+     "The",
+     "An"
+    ],
+    "answer": 1,
+    "whyTr": "Önceden geçen bridge: 'the'.",
+    "tag": "articles",
+    "level": "A2"
+   },
+   {
+    "type": "mcq",
+    "q": "Emre likes ___ pizza.",
+    "options": [
+     "the",
+     "a",
+     "no article"
+    ],
+    "answer": 2,
+    "whyTr": "Genel olarak yiyecek: artikel yok.",
+    "tag": "articles",
+    "level": "A2"
+   },
+   {
+    "type": "mcq",
+    "q": "Last summer, we ___ to Isparta.",
+    "options": [
+     "went",
+     "go",
+     "goes",
+     "going"
+    ],
+    "answer": 0,
+    "whyTr": "Go düzensiz fiildir: went.",
+    "tag": "past-simple",
+    "level": "A2"
+   },
+   {
+    "type": "mcq",
+    "q": "Hafsa ___ a meeting at the school tomorrow at ten.",
+    "options": [
+     "has had",
+     "have",
+     "is having",
+     "having"
+    ],
+    "answer": 2,
+    "whyTr": "Ayarlanmış plan: is having.",
+    "tag": "future",
+    "level": "A2"
+   },
+   {
+    "type": "mcq",
+    "q": "Look at the sky! It ___ rain.",
+    "options": [
+     "is going to",
+     "will to",
+     "rains"
+    ],
+    "answer": 0,
+    "whyTr": "İşarete bakarak tahmin: going to.",
+    "tag": "future",
+    "level": "A2"
+   },
+   {
+    "type": "mcq",
+    "q": "Tourists love this city. It is very ___.",
+    "options": [
+     "empty",
+     "famous",
+     "dangerous"
+    ],
+    "answer": 1,
+    "whyTr": "Turistlerin sevdiği şehir: ünlü (famous).",
+    "tag": "vocab",
+    "level": "A2"
+   },
+   {
+    "type": "mcq",
+    "q": "The bus is ___ in the morning. There are no seats.",
+    "options": [
+     "crowded",
+     "safe",
+     "quiet"
+    ],
+    "answer": 0,
+    "whyTr": "Yer yoksa otobüs kalabalıktır.",
+    "tag": "vocab",
+    "level": "A2"
+   },
+   {
+    "type": "mcq",
+    "q": "What is the opposite of \"safe\"?",
+    "options": [
+     "crowded",
+     "dangerous",
+     "popular"
+    ],
+    "answer": 1,
+    "whyTr": "Safe'in zıttı dangerous.",
+    "tag": "antonym",
+    "level": "A2"
+   },
+   {
+    "type": "mcq",
+    "q": "Which word means almost the same as \"famous\"?",
+    "options": [
+     "empty",
+     "small",
+     "well-known"
+    ],
+    "answer": 2,
+    "whyTr": "Famous ve well-known: ünlü.",
+    "tag": "synonym",
+    "level": "A2"
+   },
+   {
+    "type": "mcq",
+    "q": "Ben lives in a big city. He takes the bus to work every day. The bus is always crowded, but the ride is only twenty minutes.\n\nHow does Ben go to work?",
+    "options": [
+     "On foot",
+     "By bus",
+     "By car"
+    ],
+    "answer": 1,
+    "whyTr": "Metin: 'He takes the bus to work'.",
+    "tag": "reading",
+    "level": "A2"
+   }
+  ]
+ }
+}

@@ -1,0 +1,770 @@
+{
+ "week": 3,
+ "day": 2,
+ "titleTr": "Geçen hafta sonu: düzenli fiiller (-ed)",
+ "theme": "weekend",
+ "morning": {
+  "grammar": {
+   "topic": "Past Simple: düzenli fiiller (-ed) ve yazımı",
+   "explainTr": [
+    "Düzenli fiillerde geçmiş zaman için fiilin sonuna -ed eklenir: walk - walked, visit - visited. Her özne için aynıdır; I, she, they hepsi 'walked' der. 'Did' gerekmez, -s de yoktur.",
+    "Yazım kuralları: e ile bitenlere sadece -d gelir (like - liked). Ünsüz + y biterse y düşer, -ied olur (study - studied). Tek heceli, ünlü + ünsüz biten kısa fiillerde son harf ikilenir (stop - stopped, plan - planned).",
+    "Geçen hafta sonunu anlatırken şu zaman ifadeleri işe yarar: last weekend, last Saturday, yesterday, on Sunday."
+   ],
+   "compareTr": "Türkçede 'yıkadım, yıkadın, yıkadı' gibi kişiye göre ek değişir. İngilizcede -ed hep aynıdır: I washed, he washed, they washed. Kişi eki yok, sadece özne kelimesi var.",
+   "table": [
+    [
+     "Çoğu fiil",
+     "+ ed",
+     "walk - walked"
+    ],
+    [
+     "e ile biten",
+     "+ d",
+     "like - liked, bake - baked"
+    ],
+    [
+     "ünsüz + y",
+     "y - ied",
+     "study - studied, try - tried"
+    ],
+    [
+     "ünlü + y",
+     "+ ed",
+     "play - played, enjoy - enjoyed"
+    ],
+    [
+     "kısa, ünlü + ünsüz",
+     "son harf çift + ed",
+     "stop - stopped, plan - planned"
+    ]
+   ],
+   "examples": [
+    {
+     "en": "We visited Linda on Saturday.",
+     "tr": "Cumartesi Linda'yı ziyaret ettik."
+    },
+    {
+     "en": "I washed the laundry yesterday.",
+     "tr": "Dün çamaşırları yıkadım."
+    },
+    {
+     "en": "She baked a cake.",
+     "tr": "O bir kek yaptı."
+    },
+    {
+     "en": "He studied English last night.",
+     "tr": "Dün gece İngilizce çalıştı."
+    },
+    {
+     "en": "They stopped at the park.",
+     "tr": "Parkta durdular."
+    }
+   ],
+   "exercises": [
+    {
+     "type": "mcq",
+     "q": "Last Saturday we ___ Linda's house.",
+     "options": [
+      "visited",
+      "visit",
+      "visiting"
+     ],
+     "answer": 0,
+     "whyTr": "Last Saturday geçmiş zaman; fiile -ed gelir.",
+     "tag": "past-simple",
+     "level": "A2"
+    },
+    {
+     "type": "mcq",
+     "q": "Hafsa ___ the dishes after dinner yesterday.",
+     "options": [
+      "washes",
+      "washed",
+      "wash"
+     ],
+     "answer": 1,
+     "whyTr": "Yesterday geçmiş zaman: washed.",
+     "tag": "past-simple",
+     "level": "A2"
+    },
+    {
+     "type": "mcq",
+     "q": "The past of \"study\" is ___.",
+     "options": [
+      "studyed",
+      "studed",
+      "studied"
+     ],
+     "answer": 2,
+     "whyTr": "Ünsüz + y biten fiilde y düşer, -ied gelir.",
+     "tag": "spelling",
+     "level": "A2"
+    },
+    {
+     "type": "mcq",
+     "q": "The past of \"stop\" is ___.",
+     "options": [
+      "stopped",
+      "stoped",
+      "stopt"
+     ],
+     "answer": 0,
+     "whyTr": "Kısa fiilde son harf ikilenir: stopped.",
+     "tag": "spelling",
+     "level": "A2"
+    },
+    {
+     "type": "order",
+     "promptTr": "Cümleyi sırala:",
+     "words": [
+      "Emre",
+      "painted",
+      "the",
+      "wall"
+     ],
+     "answer": "Emre painted the wall",
+     "whyTr": "Sıra: özne + fiil-ed + gerisi.",
+     "tag": "word-order",
+     "level": "A2"
+    },
+    {
+     "type": "mcq",
+     "q": "Emre ___ to school every day.",
+     "options": [
+      "walked",
+      "walks",
+      "walk"
+     ],
+     "answer": 1,
+     "whyTr": "Every day alışkanlık anlatır; present simple, he/Emre ile -s.",
+     "tag": "present-simple",
+     "level": "A2"
+    },
+    {
+     "type": "mcq",
+     "q": "I ___ TV last night.",
+     "options": [
+      "watch",
+      "watches",
+      "watched"
+     ],
+     "answer": 2,
+     "whyTr": "Last night geçmiş zaman: watched.",
+     "tag": "past-simple",
+     "level": "A2"
+    },
+    {
+     "type": "mcq",
+     "q": "Which sentence is correct?",
+     "options": [
+      "He liked the movie.",
+      "He likeed the movie.",
+      "He like the movie."
+     ],
+     "answer": 0,
+     "whyTr": "'Like' e ile bittiği için sadece -d eklenir.",
+     "tag": "spelling",
+     "level": "A2"
+    },
+    {
+     "type": "order",
+     "promptTr": "Cümleyi sırala:",
+     "words": [
+      "Last",
+      "weekend",
+      "we",
+      "relaxed",
+      "at",
+      "home"
+     ],
+     "answer": "Last weekend we relaxed at home",
+     "whyTr": "Zaman ifadesi başa gelebilir.",
+     "tag": "word-order",
+     "level": "A2"
+    },
+    {
+     "type": "mcq",
+     "q": "The picnic ___ great last Sunday.",
+     "options": [
+      "were",
+      "was",
+      "is"
+     ],
+     "answer": 1,
+     "whyTr": "Önceki konu: tekil özne + geçmiş = was.",
+     "tag": "to-be",
+     "level": "A2"
+    },
+    {
+     "type": "fill",
+     "q": "She ___ a cake for Emre's birthday.",
+     "accept": [
+      "baked"
+     ],
+     "hintTr": "bake, geçmiş",
+     "whyTr": "Bake e ile biter; sadece -d gelir: baked.",
+     "tag": "past-simple",
+     "level": "A2"
+    },
+    {
+     "type": "fill",
+     "q": "They ___ the movie last night.",
+     "accept": [
+      "enjoyed"
+     ],
+     "hintTr": "enjoy, geçmiş",
+     "whyTr": "Ünlü + y biten fiile sadece -ed gelir: enjoyed.",
+     "tag": "past-simple",
+     "level": "A2"
+    }
+   ]
+  },
+  "vocab": [
+   {
+    "id": "visit",
+    "en": "visit",
+    "tr": "ziyaret etmek",
+    "pos": "verb",
+    "example": "We visited a school last week.",
+    "exampleTr": "Geçen hafta bir okulu ziyaret ettik.",
+    "syn": [],
+    "ant": [],
+    "level": "A2"
+   },
+   {
+    "id": "wash",
+    "en": "wash",
+    "tr": "yıkamak",
+    "pos": "verb",
+    "example": "I washed my hands before dinner.",
+    "exampleTr": "Akşam yemeğinden önce ellerimi yıkadım.",
+    "syn": [],
+    "ant": [],
+    "level": "A2"
+   },
+   {
+    "id": "laundry",
+    "en": "laundry",
+    "tr": "çamaşır",
+    "pos": "noun",
+    "example": "She did the laundry on Saturday.",
+    "exampleTr": "Cumartesi çamaşırları yaptı.",
+    "syn": [],
+    "ant": [],
+    "level": "A2"
+   },
+   {
+    "id": "invite",
+    "en": "invite",
+    "tr": "davet etmek",
+    "pos": "verb",
+    "example": "Linda invited us to a picnic.",
+    "exampleTr": "Linda bizi pikniğe davet etti.",
+    "syn": [],
+    "ant": [],
+    "level": "A2"
+   },
+   {
+    "id": "walk",
+    "en": "walk",
+    "tr": "yürümek; yürüyüş",
+    "pos": "verb",
+    "example": "We walked to the park.",
+    "exampleTr": "Parka yürüyerek gittik.",
+    "syn": [],
+    "ant": [],
+    "level": "A2"
+   },
+   {
+    "id": "movie",
+    "en": "movie",
+    "tr": "film",
+    "pos": "noun",
+    "example": "The movie was long but funny.",
+    "exampleTr": "Film uzundu ama komikti.",
+    "syn": [
+     "film"
+    ],
+    "ant": [],
+    "level": "A2"
+   },
+   {
+    "id": "picnic",
+    "en": "picnic",
+    "tr": "piknik",
+    "pos": "noun",
+    "example": "We had a picnic under a big tree.",
+    "exampleTr": "Büyük bir ağacın altında piknik yaptık.",
+    "syn": [],
+    "ant": [],
+    "level": "A2"
+   },
+   {
+    "id": "bake",
+    "en": "bake",
+    "tr": "fırında pişirmek",
+    "pos": "verb",
+    "example": "Hafsa baked a cake for the party.",
+    "exampleTr": "Hafsa parti için bir kek yaptı.",
+    "syn": [],
+    "ant": [],
+    "level": "A2"
+   },
+   {
+    "id": "cake",
+    "en": "cake",
+    "tr": "kek, pasta",
+    "pos": "noun",
+    "example": "The chocolate cake was delicious.",
+    "exampleTr": "Çikolatalı kek çok lezzetliydi.",
+    "syn": [],
+    "ant": [],
+    "level": "A2"
+   },
+   {
+    "id": "paint",
+    "en": "paint",
+    "tr": "boyamak; boya",
+    "pos": "verb",
+    "example": "They painted the door blue.",
+    "exampleTr": "Kapıyı mavi boyadılar.",
+    "syn": [],
+    "ant": [],
+    "level": "A2"
+   },
+   {
+    "id": "relax",
+    "en": "relax",
+    "tr": "dinlenmek, rahatlamak",
+    "pos": "verb",
+    "example": "I relaxed on the sofa after work.",
+    "exampleTr": "İşten sonra kanepede dinlendim.",
+    "syn": [
+     "rest"
+    ],
+    "ant": [
+     "work"
+    ],
+    "level": "A2"
+   },
+   {
+    "id": "enjoy",
+    "en": "enjoy",
+    "tr": "keyif almak",
+    "pos": "verb",
+    "example": "We enjoyed the sunny weather.",
+    "exampleTr": "Güneşli havanın keyfini çıkardık.",
+    "syn": [
+     "like"
+    ],
+    "ant": [],
+    "level": "A2"
+   },
+   {
+    "id": "call",
+    "en": "call",
+    "tr": "aramak; çağırmak",
+    "pos": "verb",
+    "example": "I called the school office on Monday.",
+    "exampleTr": "Pazartesi okul ofisini aradım.",
+    "syn": [
+     "phone"
+    ],
+    "ant": [],
+    "level": "A2"
+   },
+   {
+    "id": "finish",
+    "en": "finish",
+    "tr": "bitirmek",
+    "pos": "verb",
+    "example": "He finished his homework at nine.",
+    "exampleTr": "Ödevini dokuzda bitirdi.",
+    "syn": [
+     "complete"
+    ],
+    "ant": [
+     "start",
+     "begin"
+    ],
+    "level": "A2"
+   },
+   {
+    "id": "carry",
+    "en": "carry",
+    "tr": "taşımak",
+    "pos": "verb",
+    "example": "Emre carried the heavy bags.",
+    "exampleTr": "Emre ağır çantaları taşıdı.",
+    "syn": [],
+    "ant": [],
+    "level": "A2"
+   }
+  ],
+  "reading": {
+   "title": "Hafsa's busy weekend",
+   "text": "Last weekend was busy but nice for Hafsa. On Saturday morning she washed the laundry and cleaned the apartment. In the afternoon she baked a cake because her neighbor Linda invited her to a small picnic in the park.\n\nThe weather was perfect. Linda walked to the park with her dog, and Hafsa carried the cake. They talked, laughed and enjoyed the sun. Emre joined them and played soccer with two boys. Many families also enjoyed the park that day, and the children played near the trees. Nobody stayed inside!\n\nOn Sunday, Hafsa relaxed at home. It was a quiet day, and she liked it. She watched a Turkish movie and called an old classmate in Isparta. At night she finished her homework for English class. \"It was a lovely weekend,\" she thought.",
+   "glossary": [
+    {
+     "en": "joined",
+     "tr": "katıldı"
+    },
+    {
+     "en": "nobody",
+     "tr": "hiç kimse"
+    },
+    {
+     "en": "stayed inside",
+     "tr": "içeride kaldı"
+    },
+    {
+     "en": "classmate",
+     "tr": "sınıf arkadaşı"
+    }
+   ],
+   "questions": [
+    {
+     "type": "mcq",
+     "q": "Why did Hafsa bake a cake?",
+     "options": [
+      "It was Emre's birthday.",
+      "She visited a school.",
+      "Linda invited her to a picnic."
+     ],
+     "answer": 2,
+     "whyTr": "Metin: 'Linda invited her to a small picnic'.",
+     "tag": "reading",
+     "level": "A2"
+    },
+    {
+     "type": "mcq",
+     "q": "Who played soccer in the park?",
+     "options": [
+      "Emre",
+      "Linda",
+      "Hafsa"
+     ],
+     "answer": 0,
+     "whyTr": "Metin: 'Emre joined them and played soccer'.",
+     "tag": "reading",
+     "level": "A2"
+    },
+    {
+     "type": "mcq",
+     "q": "What did Hafsa do on Sunday?",
+     "options": [
+      "She painted the apartment.",
+      "She relaxed and watched a movie.",
+      "She walked to school."
+     ],
+     "answer": 1,
+     "whyTr": "Metin: 'she relaxed at home. She watched a Turkish movie'.",
+     "tag": "reading",
+     "level": "A2"
+    },
+    {
+     "type": "mcq",
+     "q": "What did Hafsa finish at night?",
+     "options": [
+      "Her laundry",
+      "Her cake",
+      "Her English homework"
+     ],
+     "answer": 2,
+     "whyTr": "Metin: 'she finished her homework for English class'.",
+     "tag": "reading",
+     "level": "A2"
+    }
+   ]
+  }
+ },
+ "evening": {
+  "listening": {
+   "title": "Monday morning at the school office",
+   "script": [
+    {
+     "speaker": "Mr. Brown",
+     "text": "Good morning, Hafsa. How was your weekend?"
+    },
+    {
+     "speaker": "Hafsa",
+     "text": "It was nice, thank you. I visited Linda on Saturday."
+    },
+    {
+     "speaker": "Mr. Brown",
+     "text": "Great. Tell me more."
+    },
+    {
+     "speaker": "Hafsa",
+     "text": "We baked a cake and walked in the park."
+    },
+    {
+     "speaker": "Mr. Brown",
+     "text": "That sounds lovely. Was the weather good?"
+    },
+    {
+     "speaker": "Hafsa",
+     "text": "Yes, it was warm and sunny. Emre played soccer with some boys."
+    },
+    {
+     "speaker": "Mr. Brown",
+     "text": "And on Sunday?"
+    },
+    {
+     "speaker": "Hafsa",
+     "text": "I stayed home. I relaxed and watched a movie."
+    },
+    {
+     "speaker": "Mr. Brown",
+     "text": "Nice. I painted my garage all weekend."
+    },
+    {
+     "speaker": "Hafsa",
+     "text": "Oh, that is hard work!"
+    },
+    {
+     "speaker": "Mr. Brown",
+     "text": "Yes. I finished at nine o'clock on Sunday night, and I was exhausted."
+    },
+    {
+     "speaker": "Hafsa",
+     "text": "You need to relax this week, Mr. Brown."
+    },
+    {
+     "speaker": "Mr. Brown",
+     "text": "I know. Thank you, Hafsa."
+    }
+   ],
+   "questions": [
+    {
+     "type": "mcq",
+     "q": "Who did Hafsa visit on Saturday?",
+     "options": [
+      "Linda",
+      "Emre",
+      "Mr. Brown"
+     ],
+     "answer": 0,
+     "whyTr": "Hafsa: 'I visited Linda on Saturday'.",
+     "tag": "listening",
+     "level": "A2"
+    },
+    {
+     "type": "mcq",
+     "q": "What did Emre do in the park?",
+     "options": [
+      "He baked a cake.",
+      "He played soccer.",
+      "He painted a door."
+     ],
+     "answer": 1,
+     "whyTr": "Hafsa: 'Emre played soccer with some boys'.",
+     "tag": "listening",
+     "level": "A2"
+    },
+    {
+     "type": "mcq",
+     "q": "What did Mr. Brown paint?",
+     "options": [
+      "His kitchen",
+      "His door",
+      "His garage"
+     ],
+     "answer": 2,
+     "whyTr": "Mr. Brown: 'I painted my garage all weekend'.",
+     "tag": "listening",
+     "level": "A2"
+    },
+    {
+     "type": "mcq",
+     "q": "When did Mr. Brown finish?",
+     "options": [
+      "At nine o'clock on Sunday night",
+      "On Saturday morning",
+      "At six o'clock on Sunday"
+     ],
+     "answer": 0,
+     "whyTr": "Mr. Brown: 'I finished at nine o'clock on Sunday night'.",
+     "tag": "listening",
+     "level": "A2"
+    }
+   ]
+  },
+  "writing": {
+   "promptTr": "Geçen hafta sonunu 4-5 cümleyle anlat. Fiillerin geçmiş halini (-ed) kullan.",
+   "promptEn": "Write 4-5 sentences about your last weekend.",
+   "frames": [
+    "Last weekend I ...",
+    "On Saturday we ...",
+    "On Sunday I ...",
+    "I enjoyed ..."
+   ],
+   "model": "Last weekend I visited my neighbor Linda. We baked a cake and walked in the park. I enjoyed the sunny weather. On Sunday I relaxed at home and watched a movie. I finished my English homework at night. It was a nice weekend.",
+   "checklistTr": [
+    "Geçmiş eylemlerde -ed var mı (visited, walked)?",
+    "Yazım doğru mu (baked, studied, stopped)?",
+    "Cümleler büyük harfle başlıyor ve noktayla bitiyor mu?"
+   ],
+   "minWords": 35
+  },
+  "examSet": [
+   {
+    "type": "mcq",
+    "q": "Emre ___ his room yesterday.",
+    "options": [
+     "paint",
+     "painted",
+     "paints"
+    ],
+    "answer": 1,
+    "whyTr": "Yesterday geçmiş zaman; fiile -ed gelir.",
+    "tag": "past-simple",
+    "level": "A2"
+   },
+   {
+    "type": "mcq",
+    "q": "We ___ for the bus for twenty minutes.",
+    "options": [
+     "wait",
+     "waiting",
+     "waited"
+    ],
+    "answer": 2,
+    "whyTr": "Geçmiş eylem: waited.",
+    "tag": "past-simple",
+    "level": "A2"
+   },
+   {
+    "type": "mcq",
+    "q": "The past of \"try\" is ___.",
+    "options": [
+     "tried",
+     "tryed",
+     "tride"
+    ],
+    "answer": 0,
+    "whyTr": "Ünsüz + y: y düşer, -ied gelir.",
+    "tag": "spelling",
+    "level": "A2"
+   },
+   {
+    "type": "mcq",
+    "q": "The past of \"plan\" is ___.",
+    "options": [
+     "planed",
+     "planned",
+     "plant"
+    ],
+    "answer": 1,
+    "whyTr": "Kısa fiilde son harf ikilenir.",
+    "tag": "spelling",
+    "level": "A2"
+   },
+   {
+    "type": "mcq",
+    "q": "The cake ___ delicious.",
+    "options": [
+     "were",
+     "did",
+     "was"
+    ],
+    "answer": 2,
+    "whyTr": "Önceki konu: tekil özne + geçmiş = was.",
+    "tag": "to-be",
+    "level": "A2"
+   },
+   {
+    "type": "mcq",
+    "q": "We had a ___ in the park and ate sandwiches.",
+    "options": [
+     "picnic",
+     "laundry",
+     "movie"
+    ],
+    "answer": 0,
+    "whyTr": "Parkta yemek yemek: picnic.",
+    "tag": "vocab",
+    "level": "A2"
+   },
+   {
+    "type": "mcq",
+    "q": "Hafsa put her clothes in the washing machine. She did the ___.",
+    "options": [
+     "picnic",
+     "laundry",
+     "cake"
+    ],
+    "answer": 1,
+    "whyTr": "Kirli kıyafetlerin yıkanması: laundry.",
+    "tag": "vocab",
+    "level": "A2"
+   },
+   {
+    "type": "mcq",
+    "q": "Which word means almost the same as \"call\"?",
+    "options": [
+     "carry",
+     "paint",
+     "phone"
+    ],
+    "answer": 2,
+    "whyTr": "Call ve phone (aramak) benzer anlamlı.",
+    "tag": "synonym",
+    "level": "A2"
+   },
+   {
+    "type": "mcq",
+    "q": "What is the opposite of \"finish\"?",
+    "options": [
+     "start",
+     "wash",
+     "bake"
+    ],
+    "answer": 0,
+    "whyTr": "Finish'in zıttı start.",
+    "tag": "antonym",
+    "level": "A2"
+   },
+   {
+    "type": "mcq",
+    "q": "Mr. Brown ___ at eight every day.",
+    "options": [
+     "work",
+     "works",
+     "working"
+    ],
+    "answer": 1,
+    "whyTr": "Present simple: he/Mr. Brown ile -s.",
+    "tag": "present-simple",
+    "level": "A2"
+   },
+   {
+    "type": "mcq",
+    "q": "On Saturday Emre invited two boys to the apartment. They watched a movie and ate cake. The boys stayed until six o'clock.\n\nWhat did the boys eat?",
+    "options": [
+     "Sandwiches",
+     "Apples",
+     "Cake"
+    ],
+    "answer": 2,
+    "whyTr": "Metin: 'ate cake'.",
+    "tag": "reading",
+    "level": "A2"
+   },
+   {
+    "type": "mcq",
+    "q": "Linda painted her front door last Sunday. It was hard work, but she enjoyed it. Hafsa carried the water and helped. After the work, they relaxed in the garden.\n\nWhat did Linda paint?",
+    "options": [
+     "Her front door",
+     "Her garden",
+     "Her car"
+    ],
+    "answer": 0,
+    "whyTr": "Metin: 'Linda painted her front door'.",
+    "tag": "reading",
+    "level": "A2"
+   }
+  ]
+ }
+}

@@ -1,0 +1,779 @@
+{
+ "week": 8,
+ "day": 4,
+ "titleTr": "Okulda işler nasıl yapılır?",
+ "theme": "school-safety",
+ "morning": {
+  "grammar": {
+   "topic": "Simple passive (present): am / is / are + past participle",
+   "explainTr": [
+    "Kimin yaptığı önemli değilse veya belli ise edilgen (passive) kullanırız: Lunch is served at noon. (Öğle yemeği servis edilir.) Yapı: am/is/are + fiilin 3. hali (past participle).",
+    "Özneye göre be fiilini seç: The bus is driven. The buses are driven. Olumsuz: Phones aren't allowed. Soru: Where are the supplies kept?",
+    "Yapanı da söylemek istersen 'by' kullanırsın: The doors are opened by the custodian. Ama çoğu zaman yapanı söylemeyiz. Kurallar, duyurular ve prosedürlerde edilgen çok yaygındır."
+   ],
+   "compareTr": "Türkçede edilgen fiile ek getirir: 'servis edilir', 'açılır'. İngilizcede ek yok; 'is/are' + 3. hal kullanırsın: is served, are opened. Türkçe 'yapılıyor' diye düşünüp 'is doing' dersen yanlış olur; doğrusu is done.",
+   "table": [
+    [
+     "Olumlu",
+     "am/is/are + V3",
+     "The doors are locked."
+    ],
+    [
+     "Olumsuz",
+     "am/is/are + not + V3",
+     "Phones aren't allowed."
+    ],
+    [
+     "Soru",
+     "Am/Is/Are + özne + V3?",
+     "Is lunch served at noon?"
+    ],
+    [
+     "Wh- sorusu",
+     "Where/When + is/are + özne + V3?",
+     "Where are the supplies kept?"
+    ],
+    [
+     "Yapan (by)",
+     "... V3 + by + kişi",
+     "Attendance is taken by the teacher."
+    ]
+   ],
+   "examples": [
+    {
+     "en": "Lunch is served in the cafeteria.",
+     "tr": "Öğle yemeği yemekhanede servis edilir."
+    },
+    {
+     "en": "The classrooms are cleaned every evening.",
+     "tr": "Sınıflar her akşam temizlenir."
+    },
+    {
+     "en": "Attendance is taken every morning.",
+     "tr": "Yoklama her sabah alınır."
+    },
+    {
+     "en": "Phones aren't allowed in class.",
+     "tr": "Sınıfta telefona izin verilmez."
+    },
+    {
+     "en": "Where are the supplies kept?",
+     "tr": "Malzemeler nerede tutuluyor?"
+    }
+   ],
+   "exercises": [
+    {
+     "type": "mcq",
+     "q": "Lunch ___ in the cafeteria at noon.",
+     "options": [
+      "is served",
+      "serves",
+      "is serve"
+     ],
+     "answer": 0,
+     "whyTr": "Edilgen: am/is/are + V3. Lunch tekil: is served.",
+     "tag": "present-simple",
+     "level": "B1"
+    },
+    {
+     "type": "mcq",
+     "q": "The classrooms ___ every evening.",
+     "options": [
+      "are clean",
+      "are cleaned",
+      "cleans"
+     ],
+     "answer": 1,
+     "whyTr": "Çoğul özne + are + past participle.",
+     "tag": "present-simple",
+     "level": "B1"
+    },
+    {
+     "type": "order",
+     "promptTr": "Cümleyi sırala:",
+     "words": [
+      "taken",
+      "every",
+      "morning",
+      "Attendance",
+      "is"
+     ],
+     "answer": "Attendance is taken every morning",
+     "whyTr": "Edilgen: özne + is/are + V3 + gerisi.",
+     "tag": "present-simple",
+     "level": "B1"
+    },
+    {
+     "type": "mcq",
+     "q": "The school bus ___ by Mr. Lee.",
+     "options": [
+      "drives",
+      "is drive",
+      "is driven"
+     ],
+     "answer": 2,
+     "whyTr": "Edilgen: is + driven (V3).",
+     "tag": "present-simple",
+     "level": "B1"
+    },
+    {
+     "type": "mcq",
+     "q": "Many emails ___ to parents every week.",
+     "options": [
+      "are sent",
+      "is sent",
+      "send"
+     ],
+     "answer": 0,
+     "whyTr": "Emails çoğul: are sent.",
+     "tag": "present-simple",
+     "level": "B1"
+    },
+    {
+     "type": "mcq",
+     "q": "English ___ in many countries.",
+     "options": [
+      "speaks",
+      "is spoken",
+      "are spoken"
+     ],
+     "answer": 1,
+     "whyTr": "English tekil: is spoken.",
+     "tag": "present-simple",
+     "level": "B1"
+    },
+    {
+     "type": "mcq",
+     "q": "If the lunch ___ free, more children would eat at school.",
+     "options": [
+      "is",
+      "would be",
+      "were"
+     ],
+     "answer": 2,
+     "whyTr": "2nd conditional: if + past (were).",
+     "tag": "future",
+     "level": "B1"
+    },
+    {
+     "type": "mcq",
+     "q": "Phones ___ in class.",
+     "options": [
+      "aren't allowed",
+      "isn't allowed",
+      "don't allowed"
+     ],
+     "answer": 0,
+     "whyTr": "Edilgen olumsuz: aren't + V3.",
+     "tag": "negative-form",
+     "level": "B1"
+    },
+    {
+     "type": "order",
+     "promptTr": "Cümleyi sırala:",
+     "words": [
+      "the",
+      "supplies",
+      "kept?",
+      "Where",
+      "are"
+     ],
+     "answer": "Where are the supplies kept?",
+     "whyTr": "Edilgen soru: Where + are + özne + V3?",
+     "tag": "question-form",
+     "level": "B1"
+    },
+    {
+     "type": "mcq",
+     "q": "The secretary ___ the phone every day.",
+     "options": [
+      "is answered",
+      "answers",
+      "answer"
+     ],
+     "answer": 1,
+     "whyTr": "Özne işi kendisi yapıyorsa etken (active) cümle kurulur.",
+     "tag": "present-simple",
+     "level": "B1"
+    },
+    {
+     "type": "mcq",
+     "q": "If the alarm rings, students ___ the room in a line.",
+     "options": [
+      "will leave to",
+      "are leaving",
+      "leave"
+     ],
+     "answer": 2,
+     "whyTr": "Zero conditional: if + present, present.",
+     "tag": "present-simple",
+     "level": "B1"
+    },
+    {
+     "type": "fill",
+     "q": "The forms ___ signed by the parents.",
+     "accept": [
+      "are"
+     ],
+     "hintTr": "be (çoğul)",
+     "whyTr": "Forms çoğul olduğu için are.",
+     "tag": "present-simple",
+     "level": "B1"
+    }
+   ]
+  },
+  "vocab": [
+   {
+    "id": "cafeteria",
+    "en": "cafeteria",
+    "tr": "okul yemekhanesi",
+    "pos": "noun",
+    "example": "Lunch is served in the cafeteria.",
+    "exampleTr": "Öğle yemeği yemekhanede servis edilir.",
+    "syn": [],
+    "ant": [],
+    "level": "B1"
+   },
+   {
+    "id": "supply",
+    "en": "supply",
+    "tr": "malzeme; sağlamak",
+    "pos": "noun",
+    "example": "The school buys new supplies every September.",
+    "exampleTr": "Okul her eylülde yeni malzeme alır.",
+    "syn": [
+     "stock"
+    ],
+    "ant": [],
+    "level": "B1"
+   },
+   {
+    "id": "provide",
+    "en": "provide",
+    "tr": "sağlamak, vermek",
+    "pos": "verb",
+    "example": "The school provides free lunch.",
+    "exampleTr": "Okul ücretsiz öğle yemeği sağlıyor.",
+    "syn": [
+     "give"
+    ],
+    "ant": [],
+    "level": "B1"
+   },
+   {
+    "id": "serve",
+    "en": "serve",
+    "tr": "servis etmek",
+    "pos": "verb",
+    "example": "They serve pizza on Fridays.",
+    "exampleTr": "Cuma günleri pizza servis ediyorlar.",
+    "syn": [],
+    "ant": [],
+    "level": "B1"
+   },
+   {
+    "id": "check",
+    "en": "check",
+    "tr": "kontrol etmek",
+    "pos": "verb",
+    "example": "The teacher checks the homework.",
+    "exampleTr": "Öğretmen ödevi kontrol ediyor.",
+    "syn": [
+     "inspect"
+    ],
+    "ant": [],
+    "level": "A2"
+   },
+   {
+    "id": "collect",
+    "en": "collect",
+    "tr": "toplamak",
+    "pos": "verb",
+    "example": "Please collect the papers.",
+    "exampleTr": "Lütfen kağıtları toplayın.",
+    "syn": [
+     "gather"
+    ],
+    "ant": [],
+    "level": "B1"
+   },
+   {
+    "id": "deliver",
+    "en": "deliver",
+    "tr": "teslim etmek",
+    "pos": "verb",
+    "example": "The boxes are delivered on Monday.",
+    "exampleTr": "Kutular pazartesi teslim edilir.",
+    "syn": [
+     "bring"
+    ],
+    "ant": [],
+    "level": "B1"
+   },
+   {
+    "id": "announce",
+    "en": "announce",
+    "tr": "duyurmak",
+    "pos": "verb",
+    "example": "The principal announces the news every morning.",
+    "exampleTr": "Müdür haberi her sabah duyuruyor.",
+    "syn": [
+     "declare"
+    ],
+    "ant": [],
+    "level": "B1"
+   },
+   {
+    "id": "require",
+    "en": "require",
+    "tr": "gerektirmek, şart koşmak",
+    "pos": "verb",
+    "example": "The trip requires a permission slip.",
+    "exampleTr": "Gezi için izin kağıdı gerekir.",
+    "syn": [
+     "need"
+    ],
+    "ant": [],
+    "level": "B1"
+   },
+   {
+    "id": "post",
+    "en": "post",
+    "tr": "asmak, yayımlamak",
+    "pos": "verb",
+    "example": "The school posts news on its website.",
+    "exampleTr": "Okul haberleri web sitesinde yayımlar.",
+    "syn": [],
+    "ant": [],
+    "level": "B1"
+   },
+   {
+    "id": "record",
+    "en": "record",
+    "tr": "kaydetmek; kayıt",
+    "pos": "verb",
+    "example": "Teachers record the grades on the computer.",
+    "exampleTr": "Öğretmenler notları bilgisayara kaydeder.",
+    "syn": [
+     "write down"
+    ],
+    "ant": [],
+    "level": "B1"
+   },
+   {
+    "id": "sign",
+    "en": "sign",
+    "tr": "imzalamak; işaret",
+    "pos": "verb",
+    "example": "Parents sign the permission slip.",
+    "exampleTr": "Veliler izin kağıdını imzalar.",
+    "syn": [],
+    "ant": [],
+    "level": "A2"
+   },
+   {
+    "id": "submit",
+    "en": "submit",
+    "tr": "teslim etmek, sunmak",
+    "pos": "verb",
+    "example": "Students submit their homework on Friday.",
+    "exampleTr": "Öğrenciler ödevlerini cuma günü teslim eder.",
+    "syn": [
+     "hand in"
+    ],
+    "ant": [],
+    "level": "B1"
+   },
+   {
+    "id": "supervise",
+    "en": "supervise",
+    "tr": "gözetim etmek",
+    "pos": "verb",
+    "example": "Teachers supervise the children at recess.",
+    "exampleTr": "Öğretmenler teneffüste çocukları gözetler.",
+    "syn": [
+     "watch over"
+    ],
+    "ant": [],
+    "level": "B2"
+   },
+   {
+    "id": "maintain",
+    "en": "maintain",
+    "tr": "bakımını yapmak, sürdürmek",
+    "pos": "verb",
+    "example": "The custodian maintains the building.",
+    "exampleTr": "Hizmetli binanın bakımını yapar.",
+    "syn": [
+     "keep"
+    ],
+    "ant": [],
+    "level": "B2"
+   }
+  ],
+  "reading": {
+   "title": "How a school day works",
+   "text": "Hafsa spends a morning in the front office to learn how the school works. Mr. Brown shows her around.\n\n\"At 7:30 the doors are opened by the custodian,\" he says. \"School buses arrive at 8:00. The buses are driven by trained drivers, and the children are supervised by teachers at the entrance.\" Hafsa takes notes.\n\nIn each classroom, attendance is taken in the first ten minutes. The names are entered into the computer, and the list is sent to the front office. \"If a child is absent, a parent is called,\" Mr. Brown explains. \"Safety comes first.\"\n\nAt noon, lunch is served in the cafeteria. Free lunch is provided for families who need it, and no child is asked to pay in front of the others. School supplies, like pencils and paper, are delivered every month and kept in a locked room. Teachers must fill out a form when they need something.\n\nAt 3:00, the bell is rung, and students are dismissed by grade. Some children are picked up by their parents, and others are taken home by bus. Announcements are made over the speaker, and important news is posted on the school website.\n\n\"Wow,\" says Hafsa. \"So many things are done before I even drink my coffee!\" Mr. Brown laughs. \"Welcome to school life.\"",
+   "glossary": [
+    {
+     "en": "custodian",
+     "tr": "okul hizmetlisi"
+    },
+    {
+     "en": "absent",
+     "tr": "devamsız, yok"
+    },
+    {
+     "en": "dismissed",
+     "tr": "salıverilmek, çıkış yaptırılmak"
+    },
+    {
+     "en": "pick up",
+     "tr": "almak (çocuğu)"
+    },
+    {
+     "en": "locked",
+     "tr": "kilitli"
+    }
+   ],
+   "questions": [
+    {
+     "type": "mcq",
+     "q": "Who opens the school doors at 7:30?",
+     "options": [
+      "The custodian",
+      "Mr. Brown",
+      "The bus drivers"
+     ],
+     "answer": 0,
+     "whyTr": "Metin: 'the doors are opened by the custodian.'",
+     "tag": "reading",
+     "level": "B1"
+    },
+    {
+     "type": "mcq",
+     "q": "What happens if a child is absent?",
+     "options": [
+      "The bus is sent.",
+      "A parent is called.",
+      "The child gets detention."
+     ],
+     "answer": 1,
+     "whyTr": "Metin: 'If a child is absent, a parent is called.'",
+     "tag": "reading",
+     "level": "B1"
+    },
+    {
+     "type": "mcq",
+     "q": "Where are school supplies kept?",
+     "options": [
+      "In the cafeteria",
+      "In the front office",
+      "In a locked room"
+     ],
+     "answer": 2,
+     "whyTr": "Metin: 'kept in a locked room.'",
+     "tag": "reading",
+     "level": "B1"
+    },
+    {
+     "type": "mcq",
+     "q": "How is important news shared?",
+     "options": [
+      "It is posted on the school website.",
+      "It is mailed to teachers only.",
+      "It is told at lunch."
+     ],
+     "answer": 0,
+     "whyTr": "Metin: 'important news is posted on the school website.'",
+     "tag": "reading",
+     "level": "B1"
+    }
+   ]
+  }
+ },
+ "evening": {
+  "listening": {
+   "title": "How are field trips organized?",
+   "script": [
+    {
+     "speaker": "Hafsa",
+     "text": "Mr. Brown, can I ask how field trips are organized?"
+    },
+    {
+     "speaker": "Mr. Brown",
+     "text": "Of course. First, a request is sent to the principal."
+    },
+    {
+     "speaker": "Hafsa",
+     "text": "And then?"
+    },
+    {
+     "speaker": "Mr. Brown",
+     "text": "If it is approved, permission slips are sent home. They must be signed and returned within a week."
+    },
+    {
+     "speaker": "Hafsa",
+     "text": "What about the bus?"
+    },
+    {
+     "speaker": "Mr. Brown",
+     "text": "The bus is booked by the front office. Trips are canceled in heavy rain, so the weather is checked too."
+    },
+    {
+     "speaker": "Hafsa",
+     "text": "Who goes with the children?"
+    },
+    {
+     "speaker": "Mr. Brown",
+     "text": "Teachers, and some parents. Volunteers are always welcome, by the way."
+    },
+    {
+     "speaker": "Hafsa",
+     "text": "And lunch?"
+    },
+    {
+     "speaker": "Mr. Brown",
+     "text": "Sack lunches are prepared by the cafeteria for children who need them."
+    },
+    {
+     "speaker": "Hafsa",
+     "text": "That is very well organized."
+    },
+    {
+     "speaker": "Mr. Brown",
+     "text": "It has to be. Thirty children are a lot to count!"
+    }
+   ],
+   "questions": [
+    {
+     "type": "mcq",
+     "q": "What is the first step for a field trip?",
+     "options": [
+      "The bus is booked.",
+      "A request is sent to the principal.",
+      "Parents sign a paper."
+     ],
+     "answer": 1,
+     "whyTr": "Mr. Brown: 'a request is sent to the principal.'",
+     "tag": "listening",
+     "level": "B1"
+    },
+    {
+     "type": "mcq",
+     "q": "What must parents do with the permission slip?",
+     "options": [
+      "Read it aloud",
+      "Keep it at home",
+      "Sign it and return it"
+     ],
+     "answer": 2,
+     "whyTr": "Mr. Brown: 'signed and returned within a week.'",
+     "tag": "listening",
+     "level": "B1"
+    },
+    {
+     "type": "mcq",
+     "q": "Who books the bus?",
+     "options": [
+      "The front office",
+      "The parents",
+      "The cafeteria"
+     ],
+     "answer": 0,
+     "whyTr": "Mr. Brown: 'The bus is booked by the front office.'",
+     "tag": "listening",
+     "level": "B1"
+    },
+    {
+     "type": "mcq",
+     "q": "Who prepares sack lunches?",
+     "options": [
+      "The teachers",
+      "The cafeteria",
+      "The parents"
+     ],
+     "answer": 1,
+     "whyTr": "Mr. Brown: 'prepared by the cafeteria'.",
+     "tag": "listening",
+     "level": "B1"
+    }
+   ]
+  },
+  "writing": {
+   "promptTr": "Bildiğin bir yerde (okul, fırın, market, iş yeri) bir işin nasıl yapıldığını edilgen yapıyla anlat. En az beş edilgen cümle kur.",
+   "promptEn": "Describe how things are done in a place you know, such as a school, a bakery or a store. Use at least five passive sentences.",
+   "frames": [
+    "In ..., ... is made every morning.",
+    "The ... are ... at ...",
+    "Customers are ...",
+    "Everything is done with ..."
+   ],
+   "model": "In a small bakery near my old house in Isparta, bread is made every morning. The dough is prepared at night, and the ovens are turned on at five o'clock. The bread is baked fresh, and it is sold until noon. Customers are greeted at the door, and the bread is wrapped in paper. Nothing is wasted: old bread is given to people who need it. The bakery is cleaned every evening, and the prices are written on a small board. I love this place because everything is done with care.",
+   "checklistTr": [
+    "Edilgen cümlelerde am/is/are + V3 var mı (bread is made)?",
+    "Tekil/çoğul uyumunu kontrol ettin mi (the ovens are turned on)?",
+    "En az beş edilgen cümle var mı?"
+   ],
+   "minWords": 70
+  },
+  "examSet": [
+   {
+    "type": "mcq",
+    "q": "Attendance ___ every morning.",
+    "options": [
+     "takes",
+     "are taken",
+     "is taken"
+    ],
+    "answer": 2,
+    "whyTr": "Attendance tekil: is taken.",
+    "tag": "present-simple",
+    "level": "B1"
+   },
+   {
+    "type": "mcq",
+    "q": "Letters ___ to parents every month.",
+    "options": [
+     "are sent",
+     "is sent",
+     "send"
+    ],
+    "answer": 0,
+    "whyTr": "Letters çoğul: are sent.",
+    "tag": "present-simple",
+    "level": "B1"
+   },
+   {
+    "type": "mcq",
+    "q": "The secretary ___ the calls in the front office.",
+    "options": [
+     "is answered",
+     "answers",
+     "answer"
+    ],
+    "answer": 1,
+    "whyTr": "Özne işi yapıyor: etken cümle.",
+    "tag": "present-simple",
+    "level": "B1"
+   },
+   {
+    "type": "mcq",
+    "q": "Which sentence is correct?",
+    "options": [
+     "The doors locked at night.",
+     "The doors are lock at night.",
+     "The doors are locked at night."
+    ],
+    "answer": 2,
+    "whyTr": "Edilgen: are + V3.",
+    "tag": "present-simple",
+    "level": "B1"
+   },
+   {
+    "type": "mcq",
+    "q": "If you ___ the form today, you will get your badge tomorrow.",
+    "options": [
+     "submit",
+     "will submit",
+     "submitted"
+    ],
+    "answer": 0,
+    "whyTr": "1st conditional: if + present simple.",
+    "tag": "future",
+    "level": "B1"
+   },
+   {
+    "type": "mcq",
+    "q": "If a child is sick, the nurse ___ his parents.",
+    "options": [
+     "calling",
+     "calls",
+     "will called"
+    ],
+    "answer": 1,
+    "whyTr": "Zero conditional: if + present, present.",
+    "tag": "present-simple",
+    "level": "B1"
+   },
+   {
+    "type": "mcq",
+    "q": "Mr. Brown ___ the announcement yesterday.",
+    "options": [
+     "makes",
+     "will make",
+     "made"
+    ],
+    "answer": 2,
+    "whyTr": "'Yesterday' geçmiş zaman: made.",
+    "tag": "past-simple",
+    "level": "A2"
+   },
+   {
+    "type": "mcq",
+    "q": "A permission slip is ___ for the field trip.",
+    "options": [
+     "required",
+     "supervised",
+     "delivered"
+    ],
+    "answer": 0,
+    "whyTr": "'Is required' = gereklidir.",
+    "tag": "vocab",
+    "level": "B1"
+   },
+   {
+    "type": "mcq",
+    "q": "Which word means almost the same as \"provide\"?",
+    "options": [
+     "lose",
+     "give",
+     "ask"
+    ],
+    "answer": 1,
+    "whyTr": "Provide ve give eş anlamlıdır.",
+    "tag": "synonym",
+    "level": "B1"
+   },
+   {
+    "type": "mcq",
+    "q": "Which word means almost the same as \"submit\" (homework)?",
+    "options": [
+     "throw away",
+     "give up",
+     "hand in"
+    ],
+    "answer": 2,
+    "whyTr": "Submit = hand in.",
+    "tag": "synonym",
+    "level": "B1"
+   },
+   {
+    "type": "mcq",
+    "q": "Pencils and paper are school ___.",
+    "options": [
+     "supplies",
+     "records",
+     "exits"
+    ],
+    "answer": 0,
+    "whyTr": "Pencils ve paper = supplies.",
+    "tag": "vocab",
+    "level": "B1"
+   },
+   {
+    "type": "mcq",
+    "q": "The bus arrives at 8:00. The children are supervised by teachers at the entrance. Then the doors are opened.\n\nWho watches the children at the entrance?",
+    "options": [
+     "Drivers",
+     "Teachers",
+     "Parents"
+    ],
+    "answer": 1,
+    "whyTr": "Metin: 'supervised by teachers'.",
+    "tag": "reading",
+    "level": "B1"
+   }
+  ]
+ }
+}

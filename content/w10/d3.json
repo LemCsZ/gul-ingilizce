@@ -1,0 +1,811 @@
+{
+ "week": 10,
+ "day": 3,
+ "titleTr": "Öğretmenin notu: rica ve emirleri aktarmak",
+ "theme": "school-communication",
+ "morning": {
+  "grammar": {
+   "topic": "Reported requests and commands (asked me to / told me not to)",
+   "explainTr": [
+    "Rica ya da emri aktarırken that cümlesi kurmayız; 'asked / told + kişi + to + fiil' kullanırız: 'Please wait.' → She asked me to wait. 'Sit down!' → He told us to sit down.",
+    "Olumsuzda 'not' to'dan önce gelir: 'Don't run!' → The teacher told them not to run. 'Don't to run' veya 'to not run' gibi kalıplardan kaçın.",
+    "'Ask' nazik rica, 'tell' daha net emir için kullanılır. İkisinden sonra da kişi (me, us, him) mutlaka gelir."
+   ],
+   "compareTr": "Türkçede 'Oturmamı söyledi' tek bir yapıdır. İngilizcede 'She told me to sit' dersin; kişi (me) ve 'to' eksik olmamalı. 'She told to sit' hatalıdır.",
+   "table": [
+    [
+     "Olumlu rica",
+     "asked + kişi + to + fiil",
+     "\"Please help.\" → She asked me to help."
+    ],
+    [
+     "Olumlu emir",
+     "told + kişi + to + fiil",
+     "\"Sit down!\" → He told us to sit down."
+    ],
+    [
+     "Olumsuz",
+     "asked / told + kişi + not to + fiil",
+     "\"Don't talk.\" → She told us not to talk."
+    ],
+    [
+     "Yanlış kalıp",
+     "told that / told to",
+     "\"She told me that sit\" ✗"
+    ]
+   ],
+   "examples": [
+    {
+     "en": "She asked me to take attendance.",
+     "tr": "Benden yoklama almamı istedi."
+    },
+    {
+     "en": "He told us to open our books.",
+     "tr": "Bize kitaplarımızı açmamızı söyledi."
+    },
+    {
+     "en": "The teacher told them not to run.",
+     "tr": "Öğretmen onlara koşmamalarını söyledi."
+    },
+    {
+     "en": "Ms. Park asked me not to leave the room.",
+     "tr": "Ms. Park benden sınıftan çıkmamamı istedi."
+    }
+   ],
+   "exercises": [
+    {
+     "type": "mcq",
+     "q": "\"Please open the door.\" → She asked me ___ the door.",
+     "options": [
+      "open",
+      "opening",
+      "to open",
+      "that I open"
+     ],
+     "answer": 2,
+     "whyTr": "İstek aktarımı: asked + kişi + to + fiil.",
+     "tag": "imperatives",
+     "level": "B1"
+    },
+    {
+     "type": "mcq",
+     "q": "\"Don't talk!\" → The teacher told the students ___ talk.",
+     "options": [
+      "don't to",
+      "not",
+      "to no",
+      "not to"
+     ],
+     "answer": 3,
+     "whyTr": "Olumsuz emir: told + kişi + not to + fiil.",
+     "tag": "imperatives",
+     "level": "B1"
+    },
+    {
+     "type": "mcq",
+     "q": "\"Sit down,\" said Ms. Park. → Ms. Park told us ___.",
+     "options": [
+      "to sit down",
+      "sat down",
+      "we sit down",
+      "that sit down"
+     ],
+     "answer": 0,
+     "whyTr": "Emir aktarımı: told + kişi + to + fiil.",
+     "tag": "imperatives",
+     "level": "B1"
+    },
+    {
+     "type": "order",
+     "promptTr": "İstek cümlesini sırala:",
+     "words": [
+      "me",
+      "the",
+      "asked",
+      "Brown",
+      "Mr.",
+      "to",
+      "form",
+      "sign"
+     ],
+     "answer": "Mr. Brown asked me to sign the form",
+     "whyTr": "Asked + kişi + to + fiil.",
+     "tag": "word-order",
+     "level": "B1"
+    },
+    {
+     "type": "order",
+     "promptTr": "Emir cümlesini sırala:",
+     "words": [
+      "hallway",
+      "The",
+      "to",
+      "run",
+      "principal",
+      "the",
+      "in",
+      "told",
+      "not",
+      "us"
+     ],
+     "answer": "The principal told us not to run in the hallway",
+     "whyTr": "Told + kişi + not to + fiil.",
+     "tag": "word-order",
+     "level": "B1"
+    },
+    {
+     "type": "mcq",
+     "q": "\"Could you collect the papers?\" → She asked me ___ the papers.",
+     "options": [
+      "collect",
+      "to collect",
+      "collecting",
+      "that collect"
+     ],
+     "answer": 1,
+     "whyTr": "Rica aktarımı de aynı yapı: asked me to collect.",
+     "tag": "imperatives",
+     "level": "B1"
+    },
+    {
+     "type": "mcq",
+     "q": "Which sentence is correct?",
+     "options": [
+      "She told me wait.",
+      "She told me that wait.",
+      "She told me to wait.",
+      "She told to me wait."
+     ],
+     "answer": 2,
+     "whyTr": "Told + kişi + to + yalın fiil.",
+     "tag": "imperatives",
+     "level": "B1"
+    },
+    {
+     "type": "mcq",
+     "q": "Ms. Park asked me not ___ the classroom door.",
+     "options": [
+      "lock",
+      "locking",
+      "that I lock",
+      "to lock"
+     ],
+     "answer": 3,
+     "whyTr": "Olumsuz rica: asked me not to + fiil.",
+     "tag": "imperatives",
+     "level": "B1"
+    },
+    {
+     "type": "mcq",
+     "q": "\"Where is the folder?\" → He asked me where the folder ___.",
+     "options": [
+      "was",
+      "is",
+      "was it",
+      "did"
+     ],
+     "answer": 0,
+     "whyTr": "Dolaylı soru (önceki gün): soru sırası yok, fiil geçmişe kayar.",
+     "tag": "question-form",
+     "level": "B1"
+    },
+    {
+     "type": "mcq",
+     "q": "\"I will email you,\" said the principal. → The principal said that she ___ email me.",
+     "options": [
+      "will",
+      "would",
+      "does",
+      "did"
+     ],
+     "answer": 1,
+     "whyTr": "will → would (1. gün konusu).",
+     "tag": "future",
+     "level": "B1"
+    },
+    {
+     "type": "fill",
+     "q": "\"Please wait here.\" → He asked me ___ wait there.",
+     "accept": [
+      "to"
+     ],
+     "hintTr": "emir bağlacı",
+     "whyTr": "Asked me to + fiil.",
+     "tag": "imperatives",
+     "level": "B1"
+    },
+    {
+     "type": "fill",
+     "q": "\"Don't touch the computer.\" → The teacher told us ___ to touch it.",
+     "accept": [
+      "not"
+     ],
+     "hintTr": "olumsuz",
+     "whyTr": "Not to + fiil.",
+     "tag": "imperatives",
+     "level": "B1"
+    }
+   ]
+  },
+  "vocab": [
+   {
+    "id": "instruction",
+    "en": "instruction",
+    "tr": "talimat",
+    "pos": "noun",
+    "example": "The sub plan has clear instructions for each hour.",
+    "exampleTr": "Sub planında her ders saati için net talimatlar var.",
+    "syn": [
+     "direction"
+    ],
+    "ant": [],
+    "level": "B1"
+   },
+   {
+    "id": "supervise",
+    "en": "supervise",
+    "tr": "gözetmek, denetlemek",
+    "pos": "verb",
+    "example": "Teachers supervise the students at recess.",
+    "exampleTr": "Öğretmenler teneffüste öğrencileri gözetir.",
+    "syn": [
+     "watch over"
+    ],
+    "ant": [],
+    "level": "B1"
+   },
+   {
+    "id": "collect",
+    "en": "collect",
+    "tr": "toplamak",
+    "pos": "verb",
+    "example": "Please collect the homework at the end of class.",
+    "exampleTr": "Lütfen ders sonunda ödevleri topla.",
+    "syn": [
+     "gather"
+    ],
+    "ant": [
+     "give out"
+    ],
+    "level": "B1"
+   },
+   {
+    "id": "worksheet",
+    "en": "worksheet",
+    "tr": "çalışma kâğıdı",
+    "pos": "noun",
+    "example": "Each student gets a math worksheet.",
+    "exampleTr": "Her öğrenci bir matematik çalışma kâğıdı alıyor.",
+    "syn": [],
+    "ant": [],
+    "level": "B1"
+   },
+   {
+    "id": "folder",
+    "en": "folder",
+    "tr": "dosya, klasör",
+    "pos": "noun",
+    "example": "The sub plan is in the green folder.",
+    "exampleTr": "Sub planı yeşil dosyanın içinde.",
+    "syn": [],
+    "ant": [],
+    "level": "B1"
+   },
+   {
+    "id": "roster",
+    "en": "roster",
+    "tr": "sınıf listesi",
+    "pos": "noun",
+    "example": "The roster has the name of every student.",
+    "exampleTr": "Sınıf listesinde her öğrencinin adı var.",
+    "syn": [
+     "class list"
+    ],
+    "ant": [],
+    "level": "B1"
+   },
+   {
+    "id": "attention",
+    "en": "attention",
+    "tr": "dikkat",
+    "pos": "noun",
+    "example": "Please pay attention to the board.",
+    "exampleTr": "Lütfen tahtaya dikkat edin.",
+    "syn": [
+     "focus"
+    ],
+    "ant": [],
+    "level": "B1"
+   },
+   {
+    "id": "seat",
+    "en": "seat",
+    "tr": "oturtmak; koltuk",
+    "pos": "verb",
+    "example": "Please seat the students in alphabetical order.",
+    "exampleTr": "Lütfen öğrencileri alfabetik sırayla oturt.",
+    "syn": [],
+    "ant": [],
+    "level": "B1"
+   },
+   {
+    "id": "request",
+    "en": "request",
+    "tr": "rica etmek; rica",
+    "pos": "verb",
+    "example": "The teacher requested a quiet lunch line.",
+    "exampleTr": "Öğretmen sessiz bir yemek kuyruğu rica etti.",
+    "syn": [
+     "ask for"
+    ],
+    "ant": [],
+    "level": "B1"
+   },
+   {
+    "id": "politely",
+    "en": "politely",
+    "tr": "nazikçe",
+    "pos": "adverb",
+    "example": "She politely asked the boys to sit down.",
+    "exampleTr": "Erkek çocuklardan nazikçe oturmalarını istedi.",
+    "syn": [],
+    "ant": [
+     "rudely"
+    ],
+    "level": "B1"
+   },
+   {
+    "id": "urge",
+    "en": "urge",
+    "tr": "güçlü biçimde teşvik etmek",
+    "pos": "verb",
+    "example": "The teacher urged the students to read every night.",
+    "exampleTr": "Öğretmen öğrencileri her gece okumaya teşvik etti.",
+    "syn": [
+     "encourage"
+    ],
+    "ant": [],
+    "level": "B1"
+   },
+   {
+    "id": "copy",
+    "en": "copy",
+    "tr": "kopyalamak; fotokopi",
+    "pos": "verb",
+    "example": "I need to copy twenty worksheets before class.",
+    "exampleTr": "Dersten önce yirmi çalışma kâğıdını kopyalamam lazım.",
+    "syn": [],
+    "ant": [],
+    "level": "B1"
+   },
+   {
+    "id": "substitute",
+    "en": "substitute",
+    "tr": "vekil; yerine geçmek",
+    "pos": "noun",
+    "example": "A substitute is teaching the class today.",
+    "exampleTr": "Bugün sınıfa bir vekil öğretmen giriyor.",
+    "syn": [
+     "replacement"
+    ],
+    "ant": [],
+    "level": "B1"
+   },
+   {
+    "id": "binder",
+    "en": "binder",
+    "tr": "ring dosya",
+    "pos": "noun",
+    "example": "Every student keeps a binder for science.",
+    "exampleTr": "Her öğrenci fen için bir ring dosya tutuyor.",
+    "syn": [],
+    "ant": [],
+    "level": "B1"
+   },
+   {
+    "id": "lunchroom",
+    "en": "lunchroom",
+    "tr": "yemekhane",
+    "pos": "noun",
+    "example": "The students line up outside the lunchroom.",
+    "exampleTr": "Öğrenciler yemekhanenin dışında sıraya giriyor.",
+    "syn": [],
+    "ant": [],
+    "level": "B1"
+   }
+  ],
+  "reading": {
+   "title": "Ms. Park's sub note",
+   "text": "On Thursday, Hafsa substituted for Ms. Park's fifth-grade class. When she arrived, she found a sub note on the desk. It was a long note, so she read it slowly.\n\nMs. Park asked her to take attendance first and to send the list to the office. She told Hafsa to hand out a reading worksheet at 8:30. She also asked her to walk the students to the lunchroom at noon and to stay with them. The note said that Hafsa could ask Ms. Kim next door for help.\n\nAt the end, there was a warning. Ms. Park told Hafsa not to let the students use their phones and not to leave the room without a hall pass. She also asked her to leave a short note about the day.\n\nThe morning went well. At lunch, Mr. Brown stopped by. \"Did you find the sub note?\" he asked.\n\n\"Yes,\" Hafsa answered. \"Ms. Park asked me to take attendance and to send the list to you. She told me not to let the children use their phones.\"\n\n\"Good,\" he said. \"That is the most important rule.\"\n\nAfter school, Hafsa wrote her own note. She asked Ms. Park to check the worksheets and told her that the class had been wonderful. Then she put the note under the stapler, exactly where she had found hers.",
+   "glossary": [
+    {
+     "en": "sub note",
+     "tr": "vekil öğretmen notu"
+    },
+    {
+     "en": "take attendance",
+     "tr": "yoklama almak"
+    },
+    {
+     "en": "hand out",
+     "tr": "dağıtmak"
+    },
+    {
+     "en": "hall pass",
+     "tr": "koridor izin kartı"
+    },
+    {
+     "en": "stapler",
+     "tr": "zımba"
+    }
+   ],
+   "questions": [
+    {
+     "type": "mcq",
+     "q": "What did Ms. Park ask Hafsa to do first?",
+     "options": [
+      "Call the principal",
+      "Hand out the worksheets",
+      "Take attendance",
+      "Walk to the lunchroom"
+     ],
+     "answer": 2,
+     "whyTr": "Metin: 'asked her to take attendance first'.",
+     "tag": "reading",
+     "level": "B1"
+    },
+    {
+     "type": "mcq",
+     "q": "Who could help Hafsa during the day?",
+     "options": [
+      "Mr. Walker",
+      "Linda",
+      "Emre",
+      "Ms. Kim"
+     ],
+     "answer": 3,
+     "whyTr": "Metin: 'ask Ms. Kim next door for help'.",
+     "tag": "reading",
+     "level": "B1"
+    },
+    {
+     "type": "mcq",
+     "q": "What did Ms. Park tell Hafsa not to allow?",
+     "options": [
+      "Phones in class",
+      "Reading in class",
+      "Questions",
+      "Lunch in the room"
+     ],
+     "answer": 0,
+     "whyTr": "Metin: 'not to let the students use their phones'.",
+     "tag": "reading",
+     "level": "B1"
+    },
+    {
+     "type": "mcq",
+     "q": "What did Hafsa do after school?",
+     "options": [
+      "She called Mr. Brown.",
+      "She wrote a note for Ms. Park.",
+      "She copied the worksheets.",
+      "She took the roster home."
+     ],
+     "answer": 1,
+     "whyTr": "Metin: 'Hafsa wrote her own note'.",
+     "tag": "reading",
+     "level": "B1"
+    }
+   ]
+  }
+ },
+ "evening": {
+  "listening": {
+   "title": "Hafsa tells Linda about her day",
+   "script": [
+    {
+     "speaker": "Linda",
+     "text": "Hafsa, how was your day at school?"
+    },
+    {
+     "speaker": "Hafsa",
+     "text": "It was busy, but good. Ms. Park left me a long note."
+    },
+    {
+     "speaker": "Linda",
+     "text": "What did she ask you to do?"
+    },
+    {
+     "speaker": "Hafsa",
+     "text": "She asked me to take attendance and to send the list to the office."
+    },
+    {
+     "speaker": "Linda",
+     "text": "That sounds easy."
+    },
+    {
+     "speaker": "Hafsa",
+     "text": "It was. She also told me to give the students a reading worksheet."
+    },
+    {
+     "speaker": "Linda",
+     "text": "Did she give you any rules?"
+    },
+    {
+     "speaker": "Hafsa",
+     "text": "Yes. She told me not to let the students use their phones."
+    },
+    {
+     "speaker": "Linda",
+     "text": "That is a good rule. Anything else?"
+    },
+    {
+     "speaker": "Hafsa",
+     "text": "She asked me not to leave the room without a hall pass."
+    },
+    {
+     "speaker": "Linda",
+     "text": "Did you follow the plan?"
+    },
+    {
+     "speaker": "Hafsa",
+     "text": "I did. She also asked me to write a note about the day, so I did that too."
+    },
+    {
+     "speaker": "Linda",
+     "text": "You are going to be a great sub, Hafsa."
+    },
+    {
+     "speaker": "Hafsa",
+     "text": "Thank you, Linda. I am learning every day."
+    }
+   ],
+   "questions": [
+    {
+     "type": "mcq",
+     "q": "What did Ms. Park ask Hafsa to send to the office?",
+     "options": [
+      "The worksheets",
+      "A hall pass",
+      "The attendance list",
+      "An email"
+     ],
+     "answer": 2,
+     "whyTr": "Hafsa: 'send the list to the office'.",
+     "tag": "listening",
+     "level": "B1"
+    },
+    {
+     "type": "mcq",
+     "q": "What did Ms. Park tell Hafsa not to allow?",
+     "options": [
+      "Reading",
+      "Lunch",
+      "Talking to Linda",
+      "The use of phones"
+     ],
+     "answer": 3,
+     "whyTr": "Hafsa: 'not to let the students use their phones'.",
+     "tag": "listening",
+     "level": "B1"
+    },
+    {
+     "type": "mcq",
+     "q": "What is the rule about the hall pass?",
+     "options": [
+      "Students must have one to leave the room.",
+      "Students must give it to Linda.",
+      "Students must buy one.",
+      "Only Hafsa needs one."
+     ],
+     "answer": 0,
+     "whyTr": "Not to leave the room without a hall pass.",
+     "tag": "listening",
+     "level": "B1"
+    },
+    {
+     "type": "mcq",
+     "q": "What did Hafsa do after the lesson?",
+     "options": [
+      "She cleaned the room.",
+      "She wrote a note about the day.",
+      "She called Ms. Park.",
+      "She took a test."
+     ],
+     "answer": 1,
+     "whyTr": "Hafsa: 'She also asked me to write a note... so I did that too.'",
+     "tag": "listening",
+     "level": "B1"
+    }
+   ]
+  },
+  "writing": {
+   "promptTr": "Bir öğretmenin sub planında senden istediklerini bir arkadaşına anlat. Asked me to / told me (not) to kullan.",
+   "promptEn": "Tell a friend what a teacher asked or told you to do in a sub note.",
+   "frames": [
+    "The teacher asked me to ...",
+    "She told me to ...",
+    "She also told me not to ...",
+    "She asked me not to ..."
+   ],
+   "model": "Hi Linda, I substituted for Ms. Park today. She left me a long note. She asked me to take attendance and to send the list to the office. She told me to hand out a reading worksheet at 8:30. She also told me not to let the students use their phones. She asked me not to leave the room without a hall pass. At the end, she asked me to write a note about the day. I followed every instruction, and the class was wonderful. I was proud of myself. See you soon, Hafsa",
+   "checklistTr": [
+    "Asked / told + kişi + to + fiil yapısını kullandın mı?",
+    "Olumsuzda 'not to' var mı (don't to değil)?",
+    "Her cümlede kişi (me) var mı?",
+    "Cümleler büyük harfle başlıyor ve noktayla bitiyor mu?"
+   ],
+   "minWords": 70
+  },
+  "examSet": [
+   {
+    "type": "mcq",
+    "q": "\"Please close the window.\" → The teacher asked me ___ the window.",
+    "options": [
+     "close",
+     "closing",
+     "to close",
+     "that close"
+    ],
+    "answer": 2,
+    "whyTr": "Asked me to + fiil.",
+    "tag": "imperatives",
+    "level": "B1"
+   },
+   {
+    "type": "mcq",
+    "q": "\"Don't be late,\" said Mr. Brown. → Mr. Brown told me ___ late.",
+    "options": [
+     "don't be",
+     "to not",
+     "not be",
+     "not to be"
+    ],
+    "answer": 3,
+    "whyTr": "Not to be late.",
+    "tag": "imperatives",
+    "level": "B1"
+   },
+   {
+    "type": "mcq",
+    "q": "\"Can you open the door?\" → She asked ___ the door.",
+    "options": [
+     "me to open",
+     "me open",
+     "that I open",
+     "to me open"
+    ],
+    "answer": 0,
+    "whyTr": "Asked + kişi + to + fiil.",
+    "tag": "imperatives",
+    "level": "B1"
+   },
+   {
+    "type": "mcq",
+    "q": "\"Where is the principal's office?\" → He asked me where the principal's office ___.",
+    "options": [
+     "are",
+     "was",
+     "was it",
+     "did"
+    ],
+    "answer": 1,
+    "whyTr": "Dolaylı soru: düz sıra, geçmişe kayma.",
+    "tag": "question-form",
+    "level": "B1"
+   },
+   {
+    "type": "mcq",
+    "q": "\"Are you a teacher?\" → The woman asked me ___ a teacher.",
+    "options": [
+     "that I was",
+     "was I",
+     "if I was",
+     "if was I"
+    ],
+    "answer": 2,
+    "whyTr": "Evet/hayır sorusu: if + özne + fiil.",
+    "tag": "question-form",
+    "level": "B1"
+   },
+   {
+    "type": "mcq",
+    "q": "My son has ___ in the United States for three years.",
+    "options": [
+     "live",
+     "living",
+     "lives",
+     "lived"
+    ],
+    "answer": 3,
+    "whyTr": "Present Perfect: have/has + V3.",
+    "tag": "present-perfect",
+    "level": "B1"
+   },
+   {
+    "type": "mcq",
+    "q": "The students must ___ attention when the teacher talks.",
+    "options": [
+     "pay",
+     "give",
+     "do",
+     "take"
+    ],
+    "answer": 0,
+    "whyTr": "Pay attention: dikkat etmek.",
+    "tag": "vocab",
+    "level": "B1"
+   },
+   {
+    "type": "mcq",
+    "q": "Which word means almost the same as \"collect\"?",
+    "options": [
+     "forget",
+     "gather",
+     "copy",
+     "explain"
+    ],
+    "answer": 1,
+    "whyTr": "Collect ve gather: toplamak.",
+    "tag": "synonym",
+    "level": "B1"
+   },
+   {
+    "type": "mcq",
+    "q": "What is the opposite of \"politely\"?",
+    "options": [
+     "slowly",
+     "quietly",
+     "rudely",
+     "happily"
+    ],
+    "answer": 2,
+    "whyTr": "Politely'nin zıttı rudely.",
+    "tag": "antonym",
+    "level": "B1"
+   },
+   {
+    "type": "mcq",
+    "q": "Ms. Park asked the students to line up outside the ___.",
+    "options": [
+     "roster",
+     "binder",
+     "worksheet",
+     "lunchroom"
+    ],
+    "answer": 3,
+    "whyTr": "Yemek için sıraya girilen yer: lunchroom.",
+    "tag": "vocab",
+    "level": "B1"
+   },
+   {
+    "type": "mcq",
+    "q": "The ___ has the names of all the students. I use it to take attendance.",
+    "options": [
+     "roster",
+     "folder",
+     "seat",
+     "request"
+    ],
+    "answer": 0,
+    "whyTr": "Öğrenci isimleri listesi: roster.",
+    "tag": "vocab",
+    "level": "B1"
+   },
+   {
+    "type": "mcq",
+    "q": "The sub note said that the students should do page 12 first. Then they should read quietly. The teacher asked the sub to collect the work at the end.\n\nWhat did the teacher ask the sub to do at the end?",
+    "options": [
+     "Read page 12",
+     "Collect the work",
+     "Call the principal",
+     "Take attendance"
+    ],
+    "answer": 1,
+    "whyTr": "Metin: 'asked the sub to collect the work at the end'.",
+    "tag": "reading",
+    "level": "B1"
+   }
+  ]
+ }
+}

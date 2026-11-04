@@ -1,0 +1,786 @@
+{
+ "week": 6,
+ "day": 3,
+ "titleTr": "Son zamanlarda ne yapıyorsun? Present Perfect Continuous",
+ "theme": "certificate-preparation",
+ "morning": {
+  "grammar": {
+   "topic": "Present Perfect Continuous",
+   "explainTr": [
+    "Present Perfect Continuous (have/has been + V-ing) geçmişte başlayıp hâlâ süren ya da yeni biten eylemi anlatır: I have been studying for two hours. Süreye ve sürece odaklanır.",
+    "Kullanım: 1) Süren eylem + for/since: She has been working here since 2020. 2) Şimdi görülen bir sonucun nedeni: His hands are dirty. He has been working in the garden.",
+    "Biten ve sayılan işlerde Present Perfect Simple kullanılır: I have read three chapters. Süreç değil sonuç önemlidir. Olumsuz: haven't/hasn't been + V-ing."
+   ],
+   "compareTr": "Türkçede 'iki saattir çalışıyorum' dersin. İngilizce bunu 'I have been working for two hours' diye söyler; şimdiki zaman (I am working for two hours) yanlıştır.",
+   "table": [
+    [
+     "Olumlu",
+     "have / has + been + V-ing",
+     "I have been studying."
+    ],
+    [
+     "Olumsuz",
+     "haven't / hasn't + been + V-ing",
+     "She hasn't been sleeping well."
+    ],
+    [
+     "Soru",
+     "Have / Has + özne + been + V-ing?",
+     "Have you been waiting long?"
+    ],
+    [
+     "Süre",
+     "for + süre / since + başlangıç",
+     "He has been working since 8 a.m."
+    ],
+    [
+     "Soru kelimesi",
+     "What / How long + have + özne + been + V-ing?",
+     "What have you been doing lately?"
+    ]
+   ],
+   "examples": [
+    {
+     "en": "I have been studying English for two hours.",
+     "tr": "İki saattir İngilizce çalışıyorum."
+    },
+    {
+     "en": "She has been working here since 2020.",
+     "tr": "2020'den beri burada çalışıyor."
+    },
+    {
+     "en": "What have you been doing lately?",
+     "tr": "Son zamanlarda neler yapıyorsun?"
+    },
+    {
+     "en": "He is tired because he has been running.",
+     "tr": "Koştuğu için yorgun."
+    },
+    {
+     "en": "I haven't been sleeping well this week.",
+     "tr": "Bu hafta iyi uyuyamıyorum."
+    }
+   ],
+   "exercises": [
+    {
+     "type": "mcq",
+     "q": "I ___ English every evening this month.",
+     "options": [
+      "am study",
+      "have been studying",
+      "have been study",
+      "has been studying"
+     ],
+     "answer": 1,
+     "whyTr": "Son zamanlarda süren eylem: have been + V-ing.",
+     "tag": "present-perfect",
+     "level": "B1"
+    },
+    {
+     "type": "mcq",
+     "q": "Linda is tired. She ___ all morning.",
+     "options": [
+      "is working",
+      "has been work",
+      "have worked",
+      "has been working"
+     ],
+     "answer": 3,
+     "whyTr": "Özne she: has been + V-ing.",
+     "tag": "present-perfect",
+     "level": "B1"
+    },
+    {
+     "type": "order",
+     "promptTr": "Cümleyi sırala:",
+     "words": [
+      "have",
+      "waiting",
+      "an",
+      "I",
+      "been",
+      "for",
+      "hour."
+     ],
+     "answer": "I have been waiting for an hour.",
+     "whyTr": "Sıra: özne + have been + V-ing + for + süre.",
+     "tag": "present-perfect",
+     "level": "B1"
+    },
+    {
+     "type": "mcq",
+     "q": "How long ___ you ___ for the exam?",
+     "options": [
+      "have, been preparing",
+      "are, preparing",
+      "did, been preparing",
+      "have, prepare"
+     ],
+     "answer": 0,
+     "whyTr": "Soru: How long + have + özne + been + V-ing?",
+     "tag": "present-perfect",
+     "level": "B1"
+    },
+    {
+     "type": "mcq",
+     "q": "Emre is very tired because he ___ soccer all afternoon.",
+     "options": [
+      "plays",
+      "has been play",
+      "has been playing",
+      "is played"
+     ],
+     "answer": 2,
+     "whyTr": "Sonucu şimdi görülen süren eylem: has been playing.",
+     "tag": "present-perfect",
+     "level": "B1"
+    },
+    {
+     "type": "mcq",
+     "q": "Hafsa looks tired. She ___ well lately.",
+     "options": [
+      "doesn't sleeping",
+      "hasn't been sleeping",
+      "hasn't been sleep",
+      "isn't sleep"
+     ],
+     "answer": 1,
+     "whyTr": "Olumsuz: hasn't been + V-ing.",
+     "tag": "negative-form",
+     "level": "B1"
+    },
+    {
+     "type": "order",
+     "promptTr": "Soruyu sırala:",
+     "words": [
+      "have",
+      "been",
+      "lately?",
+      "What",
+      "you",
+      "doing"
+     ],
+     "answer": "What have you been doing lately?",
+     "whyTr": "Sıra: soru kelimesi + have + özne + been + V-ing.",
+     "tag": "question-form",
+     "level": "B1"
+    },
+    {
+     "type": "mcq",
+     "q": "I ___ three chapters of the handbook today. Only two are left.",
+     "options": [
+      "have read",
+      "have been reading",
+      "am read"
+     ],
+     "answer": 0,
+     "whyTr": "Biten ve sayılan iş (three chapters): Present Perfect Simple.",
+     "tag": "present-perfect",
+     "level": "B1"
+    },
+    {
+     "type": "mcq",
+     "q": "Her hands are dirty. She ___ in the garden.",
+     "options": [
+      "has been working",
+      "works",
+      "did work",
+      "is worked"
+     ],
+     "answer": 0,
+     "whyTr": "Şimdi görülen sonucun nedeni süren eylem: has been working.",
+     "tag": "present-perfect",
+     "level": "B1"
+    },
+    {
+     "type": "fill",
+     "q": "How long have you ___ waiting?",
+     "accept": [
+      "been"
+     ],
+     "hintTr": "have ... ___ + V-ing",
+     "whyTr": "Sıra: have + been + V-ing.",
+     "tag": "present-perfect",
+     "level": "B1"
+    },
+    {
+     "type": "fill",
+     "q": "I have been learning English ___ four years.",
+     "accept": [
+      "for"
+     ],
+     "hintTr": "süre için",
+     "whyTr": "Four years bir süre: for.",
+     "tag": "prepositions-time",
+     "level": "B1"
+    },
+    {
+     "type": "mcq",
+     "q": "Yesterday I ___ my application at the district office.",
+     "options": [
+      "have handed in",
+      "hand in",
+      "handed in"
+     ],
+     "answer": 2,
+     "whyTr": "Yesterday ile Past Simple.",
+     "tag": "past-simple",
+     "level": "B1"
+    }
+   ]
+  },
+  "vocab": [
+   {
+    "id": "prepare",
+    "en": "prepare",
+    "tr": "hazırlanmak, hazırlamak",
+    "pos": "verb",
+    "example": "I am preparing for an important exam.",
+    "exampleTr": "Önemli bir sınava hazırlanıyorum.",
+    "syn": [],
+    "ant": [],
+    "level": "B1"
+   },
+   {
+    "id": "course",
+    "en": "course",
+    "tr": "kurs, ders",
+    "pos": "noun",
+    "example": "She is taking an online course.",
+    "exampleTr": "Çevrimiçi bir kurs alıyor.",
+    "syn": [],
+    "ant": [],
+    "level": "B1"
+   },
+   {
+    "id": "certificate",
+    "en": "certificate",
+    "tr": "sertifika, belge",
+    "pos": "noun",
+    "example": "You need a certificate to teach.",
+    "exampleTr": "Öğretmenlik için bir sertifika gerekir.",
+    "syn": [],
+    "ant": [],
+    "level": "B1"
+   },
+   {
+    "id": "exhausted",
+    "en": "exhausted",
+    "tr": "bitkin, çok yorgun",
+    "pos": "adjective",
+    "example": "After the long day, I was exhausted.",
+    "exampleTr": "Uzun günden sonra bitkindim.",
+    "syn": [
+     "worn out"
+    ],
+    "ant": [],
+    "level": "B1"
+   },
+   {
+    "id": "progress",
+    "en": "progress",
+    "tr": "ilerleme",
+    "pos": "noun",
+    "example": "You are making great progress.",
+    "exampleTr": "Harika ilerleme kaydediyorsun.",
+    "syn": [
+     "improvement"
+    ],
+    "ant": [],
+    "level": "B1"
+   },
+   {
+    "id": "struggle",
+    "en": "struggle",
+    "tr": "zorlanmak, uğraşmak",
+    "pos": "verb",
+    "example": "Many students struggle with spelling.",
+    "exampleTr": "Birçok öğrenci yazımda zorlanıyor.",
+    "syn": [],
+    "ant": [],
+    "level": "B1"
+   },
+   {
+    "id": "effort",
+    "en": "effort",
+    "tr": "çaba, gayret",
+    "pos": "noun",
+    "example": "She puts a lot of effort into her work.",
+    "exampleTr": "İşine çok çaba harcıyor.",
+    "syn": [],
+    "ant": [],
+    "level": "B1"
+   },
+   {
+    "id": "deadline",
+    "en": "deadline",
+    "tr": "son teslim tarihi",
+    "pos": "noun",
+    "example": "The deadline for the form is Friday.",
+    "exampleTr": "Formun son tarihi cuma.",
+    "syn": [],
+    "ant": [],
+    "level": "B1"
+   },
+   {
+    "id": "application",
+    "en": "application",
+    "tr": "başvuru, başvuru formu",
+    "pos": "noun",
+    "example": "I submitted my application online.",
+    "exampleTr": "Başvurumu internetten gönderdim.",
+    "syn": [],
+    "ant": [],
+    "level": "B1"
+   },
+   {
+    "id": "motivated",
+    "en": "motivated",
+    "tr": "istekli, motive olmuş",
+    "pos": "adjective",
+    "example": "She feels motivated to learn.",
+    "exampleTr": "Öğrenmek için istekli hissediyor.",
+    "syn": [],
+    "ant": [],
+    "level": "B1"
+   },
+   {
+    "id": "regularly",
+    "en": "regularly",
+    "tr": "düzenli olarak",
+    "pos": "adverb",
+    "example": "I practice English regularly.",
+    "exampleTr": "İngilizceyi düzenli olarak çalışıyorum.",
+    "syn": [],
+    "ant": [],
+    "level": "B1"
+   },
+   {
+    "id": "requirement",
+    "en": "requirement",
+    "tr": "şart, gereklilik",
+    "pos": "noun",
+    "example": "A background check is a requirement for this job.",
+    "exampleTr": "Sabıka taraması bu iş için bir şart.",
+    "syn": [],
+    "ant": [],
+    "level": "B1"
+   },
+   {
+    "id": "training",
+    "en": "training",
+    "tr": "eğitim, hazırlık",
+    "pos": "noun",
+    "example": "The school offers free training for substitutes.",
+    "exampleTr": "Okul vekil öğretmenlere ücretsiz eğitim veriyor.",
+    "syn": [],
+    "ant": [],
+    "level": "B1"
+   },
+   {
+    "id": "fingerprint",
+    "en": "fingerprint",
+    "tr": "parmak izi",
+    "pos": "noun",
+    "example": "They took my fingerprints at the office.",
+    "exampleTr": "Ofiste parmak izlerimi aldılar.",
+    "syn": [],
+    "ant": [],
+    "level": "B1"
+   },
+   {
+    "id": "tutor",
+    "en": "tutor",
+    "tr": "özel öğretmen, destek öğretmeni",
+    "pos": "noun",
+    "example": "Emre has a tutor for math.",
+    "exampleTr": "Emre'nin matematik için özel öğretmeni var.",
+    "syn": [],
+    "ant": [],
+    "level": "B1"
+   }
+  ],
+  "reading": {
+   "title": "Three busy months",
+   "text": "For the last three months, Hafsa has been preparing for her substitute teacher certificate. Her days are very full. She has been getting up at six, making breakfast for Emre, and studying for two hours before she goes to the school library. \"I have been reading the state handbook every day,\" she says. \"It has many rules about safety and attendance.\"\n\nShe has also been taking an online course about classroom management. Last week she finished the third lesson, and she has already completed twelve quizzes. In the evenings, Linda has been helping her practice with flashcards. \"Hafsa has been working so hard that I am a little jealous,\" Linda jokes.\n\nThe process is not only studying. Hafsa has been collecting documents too. She has sent her application, and she has given her fingerprints for the background check. The results haven't arrived yet, so she has been checking her email every day.\n\nLately Hafsa has been feeling tired but proud. \"My English has been improving every week,\" she says. \"At first, I was afraid of the handbook. Now I understand most of it.\"\n\nHer next step is the final exam at the end of the month. She has been practicing sample questions every night, and she has already read the handbook twice. \"I am not afraid anymore,\" she says with a smile. \"I am just very, very busy.\"",
+   "glossary": [
+    {
+     "en": "handbook",
+     "tr": "el kitabı, kılavuz"
+    },
+    {
+     "en": "classroom management",
+     "tr": "sınıf yönetimi"
+    },
+    {
+     "en": "flashcards",
+     "tr": "bilgi kartları"
+    },
+    {
+     "en": "background check",
+     "tr": "sabıka/geçmiş taraması"
+    },
+    {
+     "en": "jealous",
+     "tr": "kıskanç"
+    }
+   ],
+   "questions": [
+    {
+     "type": "mcq",
+     "q": "How long has Hafsa been preparing for the certificate?",
+     "options": [
+      "For three years",
+      "For three months",
+      "Since last week",
+      "For two hours"
+     ],
+     "answer": 1,
+     "whyTr": "Metin: 'For the last three months'.",
+     "tag": "reading",
+     "level": "B1"
+    },
+    {
+     "type": "mcq",
+     "q": "What has Linda been doing?",
+     "options": [
+      "Taking the online course",
+      "Reading the handbook for Hafsa",
+      "Driving Hafsa to school",
+      "Helping Hafsa practice with flashcards"
+     ],
+     "answer": 3,
+     "whyTr": "Metin: 'Linda has been helping her practice with flashcards'.",
+     "tag": "reading",
+     "level": "B1"
+    },
+    {
+     "type": "mcq",
+     "q": "What hasn't arrived yet?",
+     "options": [
+      "The results of the background check",
+      "The handbook",
+      "The exam date",
+      "Hafsa's fingerprints"
+     ],
+     "answer": 0,
+     "whyTr": "Metin: 'The results haven't arrived yet'.",
+     "tag": "reading",
+     "level": "B1"
+    },
+    {
+     "type": "mcq",
+     "q": "How does Hafsa feel lately?",
+     "options": [
+      "Afraid and lazy",
+      "Jealous and angry",
+      "Tired but proud",
+      "Bored and quiet"
+     ],
+     "answer": 2,
+     "whyTr": "Metin: 'feeling tired but proud'.",
+     "tag": "reading",
+     "level": "B1"
+    }
+   ]
+  }
+ },
+ "evening": {
+  "listening": {
+   "title": "Catching up with Linda",
+   "script": [
+    {
+     "speaker": "Linda",
+     "text": "Hafsa, I haven't seen you in days! What have you been doing lately?"
+    },
+    {
+     "speaker": "Hafsa",
+     "text": "Studying, mostly. I have been preparing for my substitute exam."
+    },
+    {
+     "speaker": "Linda",
+     "text": "Oh, that's great. How long have you been studying?"
+    },
+    {
+     "speaker": "Hafsa",
+     "text": "For three months now. I study every morning and every evening."
+    },
+    {
+     "speaker": "Linda",
+     "text": "No wonder you look tired. Have you been sleeping enough?"
+    },
+    {
+     "speaker": "Hafsa",
+     "text": "Not really. I have been going to bed very late."
+    },
+    {
+     "speaker": "Linda",
+     "text": "Well, you have been working hard. Is the course difficult?"
+    },
+    {
+     "speaker": "Hafsa",
+     "text": "Some parts are. I have been struggling with the long legal words."
+    },
+    {
+     "speaker": "Linda",
+     "text": "Do you want a tutor? My cousin has been helping students at the library."
+    },
+    {
+     "speaker": "Hafsa",
+     "text": "Yes, please. Does she charge a lot?"
+    },
+    {
+     "speaker": "Linda",
+     "text": "No, she has been working for free this month. I will call her tonight."
+    },
+    {
+     "speaker": "Hafsa",
+     "text": "Thank you, Linda. You have been so kind to me."
+    }
+   ],
+   "questions": [
+    {
+     "type": "mcq",
+     "q": "What has Hafsa been doing lately?",
+     "options": [
+      "Looking for a new apartment",
+      "Preparing for her substitute exam",
+      "Taking care of a sick friend",
+      "Working at a bakery"
+     ],
+     "answer": 1,
+     "whyTr": "Hafsa: 'I have been preparing for my substitute exam.'",
+     "tag": "listening",
+     "level": "B1"
+    },
+    {
+     "type": "mcq",
+     "q": "How long has she been studying?",
+     "options": [
+      "For three weeks",
+      "Since Monday",
+      "For three years",
+      "For three months"
+     ],
+     "answer": 3,
+     "whyTr": "Hafsa: 'For three months now.'",
+     "tag": "listening",
+     "level": "B1"
+    },
+    {
+     "type": "mcq",
+     "q": "What has Hafsa been struggling with?",
+     "options": [
+      "Long legal words",
+      "Driving to school",
+      "Cooking dinner",
+      "Her son's homework"
+     ],
+     "answer": 0,
+     "whyTr": "Hafsa: 'struggling with the long legal words'.",
+     "tag": "listening",
+     "level": "B1"
+    },
+    {
+     "type": "mcq",
+     "q": "What will Linda do tonight?",
+     "options": [
+      "Visit the library",
+      "Cook dinner",
+      "Call her cousin",
+      "Write an email to Mr. Brown"
+     ],
+     "answer": 2,
+     "whyTr": "Linda: 'I will call her tonight.'",
+     "tag": "listening",
+     "level": "B1"
+    }
+   ]
+  },
+  "writing": {
+   "promptTr": "Bir arkadaşına son zamanlarda neler yaptığını anlatan kısa bir e-posta yaz (80-120 kelime). have/has been + V-ing kullan.",
+   "promptEn": "Write an email to a friend about what you have been doing lately. Use the present perfect continuous.",
+   "frames": [
+    "Hi ..., How are you?",
+    "Lately I have been ...-ing ...",
+    "I have been ...-ing for ...",
+    "I haven't been ...-ing ...",
+    "Write soon! ..."
+   ],
+   "model": "Hi Linda,\n\nHow are you? I am sorry I haven't called. I have been very busy lately. I have been preparing for my substitute teacher exam for three months. Every morning I have been reading the handbook, and every evening I have been practicing questions.\n\nI haven't been sleeping very well, so I am tired. But I am also proud because my English has been getting better. I have been using flashcards, and they really help.\n\nEmre has been helping me too. He has been asking me questions at dinner. Can we have coffee this weekend?\n\nYour friend,\nHafsa",
+   "checklistTr": [
+    "have/has been + V-ing kalıbını en az 4 kez kullandın mı?",
+    "Süre için for, başlangıç için since kullandın mı?",
+    "Olumsuz bir cümle (haven't been -ing) var mı?",
+    "Selamlama ve kapanış var mı?"
+   ],
+   "minWords": 70
+  },
+  "examSet": [
+   {
+    "type": "mcq",
+    "q": "Emre is out of breath. He ___ in the park.",
+    "options": [
+     "runs",
+     "has been running",
+     "is run",
+     "has been run"
+    ],
+    "answer": 1,
+    "whyTr": "Şimdi görülen sonucun nedeni: has been running.",
+    "tag": "present-perfect",
+    "level": "B1"
+   },
+   {
+    "type": "mcq",
+    "q": "I have been studying English ___ October.",
+    "options": [
+     "for",
+     "ago",
+     "during",
+     "since"
+    ],
+    "answer": 3,
+    "whyTr": "October bir başlangıç noktası: since.",
+    "tag": "prepositions-time",
+    "level": "B1"
+   },
+   {
+    "type": "mcq",
+    "q": "I ___ the first two chapters. I am on chapter three now.",
+    "options": [
+     "have finished",
+     "have been finish",
+     "am finished"
+    ],
+    "answer": 0,
+    "whyTr": "Biten iş: Present Perfect Simple.",
+    "tag": "present-perfect",
+    "level": "B1"
+   },
+   {
+    "type": "mcq",
+    "q": "My sister ___ to Turkey last month.",
+    "options": [
+     "has gone",
+     "has been going",
+     "went"
+    ],
+    "answer": 2,
+    "whyTr": "Last month belli zaman: Past Simple.",
+    "tag": "past-simple",
+    "level": "B1"
+   },
+   {
+    "type": "mcq",
+    "q": "This new job is ___ than my old one. I can walk to work.",
+    "options": [
+     "most convenient",
+     "more convenient",
+     "convenienter"
+    ],
+    "answer": 1,
+    "whyTr": "Uzun sıfat: more + sıfat + than.",
+    "tag": "comparatives",
+    "level": "A2"
+   },
+   {
+    "type": "mcq",
+    "q": "You ___ see a doctor. Your cough is getting worse.",
+    "options": [
+     "should",
+     "are",
+     "would"
+    ],
+    "answer": 0,
+    "whyTr": "Tavsiye için should kullanılır.",
+    "tag": "modals",
+    "level": "A2"
+   },
+   {
+    "type": "mcq",
+    "q": "Which word means almost the same as \"exhausted\"?",
+    "options": [
+     "very tired",
+     "very happy",
+     "very fast",
+     "very early"
+    ],
+    "answer": 0,
+    "whyTr": "Exhausted çok yorgun demektir.",
+    "tag": "synonym",
+    "level": "B1"
+   },
+   {
+    "type": "mcq",
+    "q": "Which word means almost the same as \"progress\"?",
+    "options": [
+     "problem",
+     "deadline",
+     "improvement",
+     "requirement"
+    ],
+    "answer": 2,
+    "whyTr": "Progress ve improvement: ilerleme.",
+    "tag": "synonym",
+    "level": "B1"
+   },
+   {
+    "type": "mcq",
+    "q": "What is the opposite of \"permanent\"?",
+    "options": [
+     "certain",
+     "temporary",
+     "regular",
+     "exhausted"
+    ],
+    "answer": 1,
+    "whyTr": "Permanent'ın zıttı temporary.",
+    "tag": "antonym",
+    "level": "B1"
+   },
+   {
+    "type": "mcq",
+    "q": "The ___ for the application is Friday, so we must send it before then.",
+    "options": [
+     "effort",
+     "tutor",
+     "training",
+     "deadline"
+    ],
+    "answer": 3,
+    "whyTr": "Son teslim tarihi: deadline.",
+    "tag": "vocab",
+    "level": "B1"
+   },
+   {
+    "type": "mcq",
+    "q": "A background check is a ___ for this job. Everyone must do it.",
+    "options": [
+     "requirement",
+     "progress",
+     "fingerprint",
+     "routine"
+    ],
+    "answer": 0,
+    "whyTr": "Şart: requirement.",
+    "tag": "vocab",
+    "level": "B1"
+   },
+   {
+    "type": "mcq",
+    "q": "Anna has been taking a sewing course since January. She goes every Tuesday and she has already made two dresses.\n\nWhat has Anna been doing?",
+    "options": [
+     "Selling dresses",
+     "Teaching sewing",
+     "Taking a sewing course",
+     "Looking for a job"
+    ],
+    "answer": 2,
+    "whyTr": "Metin: 'has been taking a sewing course'.",
+    "tag": "reading",
+    "level": "B1"
+   }
+  ]
+ }
+}

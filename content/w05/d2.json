@@ -1,0 +1,800 @@
+{
+ "week": 5,
+ "day": 2,
+ "titleTr": "İşte yapılacaklar listesi: just, already, yet",
+ "theme": "work-tasks",
+ "morning": {
+  "grammar": {
+   "topic": "Present Perfect: just / already / yet",
+   "explainTr": [
+    "Present Perfect ile 'just' (az önce), 'already' (çoktan) ve 'yet' (henüz) kullanılır. Hepsi yakın zamanda biten ya da bitmeyen işleri anlatır: I have just finished. (Az önce bitirdim.)",
+    "'Just' ve 'already' have/has ile fiilin arasına girer: I have already sent it. 'Yet' olumsuz cümlelerin ve soruların sonuna gelir: I haven't finished yet. Have you finished yet?",
+    "Olumlu cümlede 'yet' kullanma; 'already' kullan. Kısa cevaplar: Yes, I have. / No, not yet."
+   ],
+   "compareTr": "Türkçede 'bitirdim' cümlesi aynı kalır, 'az önce', 'çoktan', 'henüz' kelimeleri eklenir. İngilizcede bu kelimelerin cümledeki yeri sabittir: just ve already ortada, yet sonda.",
+   "table": [
+    [
+     "just",
+     "have/has + just + V3",
+     "I have just called him."
+    ],
+    [
+     "already",
+     "have/has + already + V3",
+     "She has already left."
+    ],
+    [
+     "yet (olumsuz)",
+     "haven't + V3 + yet",
+     "I haven't finished yet."
+    ],
+    [
+     "yet (soru)",
+     "Have you + V3 + yet?",
+     "Have you sent it yet?"
+    ],
+    [
+     "Kısa cevap",
+     "Yes, I have. / No, not yet.",
+     "Have you printed it? No, not yet."
+    ]
+   ],
+   "examples": [
+    {
+     "en": "I have just finished the report.",
+     "tr": "Raporu az önce bitirdim."
+    },
+    {
+     "en": "She has already sent the email.",
+     "tr": "O e-postayı çoktan gönderdi."
+    },
+    {
+     "en": "I haven't called the parents yet.",
+     "tr": "Velileri henüz aramadım."
+    },
+    {
+     "en": "Have you printed the forms yet?",
+     "tr": "Formları henüz yazdırdın mı?"
+    },
+    {
+     "en": "No, not yet.",
+     "tr": "Hayır, henüz değil."
+    }
+   ],
+   "exercises": [
+    {
+     "type": "mcq",
+     "q": "I have ___ finished the report. I sent it a minute ago.",
+     "options": [
+      "just",
+      "yet",
+      "never",
+      "ever"
+     ],
+     "answer": 0,
+     "whyTr": "'Just' = az önce; have ile fiil arasına girer.",
+     "tag": "present-perfect",
+     "level": "A2"
+    },
+    {
+     "type": "mcq",
+     "q": "Mr. Brown: \"Have you printed the forms ___?\"",
+     "options": [
+      "already",
+      "yet",
+      "just",
+      "never"
+     ],
+     "answer": 1,
+     "whyTr": "Soruda 'yet' (henüz) cümle sonuna gelir.",
+     "tag": "present-perfect",
+     "level": "A2"
+    },
+    {
+     "type": "mcq",
+     "q": "I haven't called the parents ___.",
+     "options": [
+      "already",
+      "ever",
+      "yet",
+      "just"
+     ],
+     "answer": 2,
+     "whyTr": "Olumsuz cümlede 'yet' = henüz.",
+     "tag": "present-perfect",
+     "level": "A2"
+    },
+    {
+     "type": "order",
+     "promptTr": "Cümleyi sırala:",
+     "words": [
+      "sent",
+      "the",
+      "email.",
+      "She",
+      "has",
+      "already"
+     ],
+     "answer": "She has already sent the email.",
+     "whyTr": "Have/has + already + V3.",
+     "tag": "present-perfect",
+     "level": "A2"
+    },
+    {
+     "type": "mcq",
+     "q": "He has ___ left. His desk is empty.",
+     "options": [
+      "yet",
+      "ever",
+      "never",
+      "already"
+     ],
+     "answer": 3,
+     "whyTr": "Olumlu cümlede 'already' (çoktan) kullanılır.",
+     "tag": "present-perfect",
+     "level": "A2"
+    },
+    {
+     "type": "mcq",
+     "q": "We ___ finished the list yet.",
+     "options": [
+      "haven't",
+      "didn't",
+      "don't",
+      "aren't"
+     ],
+     "answer": 0,
+     "whyTr": "Olumsuz Present Perfect: haven't + V3.",
+     "tag": "negative-form",
+     "level": "A2"
+    },
+    {
+     "type": "order",
+     "promptTr": "Soruyu sırala:",
+     "words": [
+      "the",
+      "report",
+      "yet?",
+      "Have",
+      "you",
+      "finished"
+     ],
+     "answer": "Have you finished the report yet?",
+     "whyTr": "Soru: Have + özne + V3 + yet?",
+     "tag": "question-form",
+     "level": "A2"
+    },
+    {
+     "type": "mcq",
+     "q": "Linda has just ___ a cup of coffee.",
+     "options": [
+      "make",
+      "made",
+      "making",
+      "makes"
+     ],
+     "answer": 1,
+     "whyTr": "Has just + V3: made.",
+     "tag": "present-perfect",
+     "level": "A2"
+    },
+    {
+     "type": "mcq",
+     "q": "Which sentence is correct?",
+     "options": [
+      "I have finished yet.",
+      "I didn't have finished yet.",
+      "I haven't finished yet.",
+      "I not finished yet."
+     ],
+     "answer": 2,
+     "whyTr": "Olumsuz + yet: haven't + V3 + yet.",
+     "tag": "present-perfect",
+     "level": "A2"
+    },
+    {
+     "type": "mcq",
+     "q": "Hafsa ___ the form yesterday.",
+     "options": [
+      "has filled",
+      "fills",
+      "fill",
+      "filled"
+     ],
+     "answer": 3,
+     "whyTr": "'Yesterday' ile Past Simple kullanılır.",
+     "tag": "past-simple",
+     "level": "A2"
+    },
+    {
+     "type": "fill",
+     "q": "I have ___ sent the invoice. It is done.",
+     "accept": [
+      "already"
+     ],
+     "hintTr": "çoktan",
+     "whyTr": "'Already' bitmiş bir işi vurgular.",
+     "tag": "present-perfect",
+     "level": "A2"
+    },
+    {
+     "type": "mcq",
+     "q": "___ you help me with this list, please?",
+     "options": [
+      "Can",
+      "Do",
+      "Are",
+      "Have"
+     ],
+     "answer": 0,
+     "whyTr": "Rica için 'Can you...?' kullanılır.",
+     "tag": "modals",
+     "level": "A2"
+    }
+   ]
+  },
+  "vocab": [
+   {
+    "id": "task",
+    "en": "task",
+    "tr": "görev, iş",
+    "pos": "noun",
+    "example": "My first task is to print the forms.",
+    "exampleTr": "İlk görevim formları yazdırmak.",
+    "syn": [
+     "job"
+    ],
+    "ant": [],
+    "level": "A2"
+   },
+   {
+    "id": "list",
+    "en": "list",
+    "tr": "liste",
+    "pos": "noun",
+    "example": "I have a long to-do list today.",
+    "exampleTr": "Bugün uzun bir yapılacaklar listem var.",
+    "syn": [],
+    "ant": [],
+    "level": "A2"
+   },
+   {
+    "id": "finish",
+    "en": "finish",
+    "tr": "bitirmek",
+    "pos": "verb",
+    "example": "I have finished my work.",
+    "exampleTr": "İşimi bitirdim.",
+    "syn": [
+     "complete"
+    ],
+    "ant": [
+     "start"
+    ],
+    "level": "A2"
+   },
+   {
+    "id": "report",
+    "en": "report",
+    "tr": "rapor",
+    "pos": "noun",
+    "example": "She is writing a report for the principal.",
+    "exampleTr": "Müdür için bir rapor yazıyor.",
+    "syn": [],
+    "ant": [],
+    "level": "A2"
+   },
+   {
+    "id": "print",
+    "en": "print",
+    "tr": "yazdırmak",
+    "pos": "verb",
+    "example": "Can you print this page?",
+    "exampleTr": "Bu sayfayı yazdırabilir misin?",
+    "syn": [],
+    "ant": [],
+    "level": "A2"
+   },
+   {
+    "id": "copy",
+    "en": "copy",
+    "tr": "kopyalamak; fotokopi",
+    "pos": "verb",
+    "example": "I need to copy ten forms.",
+    "exampleTr": "On form kopyalamam lazım.",
+    "syn": [],
+    "ant": [],
+    "level": "A2"
+   },
+   {
+    "id": "send",
+    "en": "send",
+    "tr": "göndermek",
+    "pos": "verb",
+    "example": "Please send the letter today.",
+    "exampleTr": "Lütfen mektubu bugün gönder.",
+    "syn": [],
+    "ant": [
+     "receive"
+    ],
+    "level": "A2"
+   },
+   {
+    "id": "deadline",
+    "en": "deadline",
+    "tr": "son tarih",
+    "pos": "noun",
+    "example": "The deadline is Friday.",
+    "exampleTr": "Son tarih cuma.",
+    "syn": [],
+    "ant": [],
+    "level": "A2"
+   },
+   {
+    "id": "meeting",
+    "en": "meeting",
+    "tr": "toplantı",
+    "pos": "noun",
+    "example": "We have a meeting at ten.",
+    "exampleTr": "Saat onda toplantımız var.",
+    "syn": [],
+    "ant": [],
+    "level": "A2"
+   },
+   {
+    "id": "boss",
+    "en": "boss",
+    "tr": "patron, amir",
+    "pos": "noun",
+    "example": "My boss is very kind.",
+    "exampleTr": "Patronum çok nazik.",
+    "syn": [
+     "supervisor"
+    ],
+    "ant": [],
+    "level": "A2"
+   },
+   {
+    "id": "ready",
+    "en": "ready",
+    "tr": "hazır",
+    "pos": "adjective",
+    "example": "The room is ready for the students.",
+    "exampleTr": "Sınıf öğrenciler için hazır.",
+    "syn": [],
+    "ant": [],
+    "level": "A2"
+   },
+   {
+    "id": "forget",
+    "en": "forget",
+    "tr": "unutmak",
+    "pos": "verb",
+    "example": "Don't forget your badge.",
+    "exampleTr": "Kimliğini unutma.",
+    "syn": [],
+    "ant": [
+     "remember"
+    ],
+    "level": "A2"
+   },
+   {
+    "id": "remind",
+    "en": "remind",
+    "tr": "hatırlatmak",
+    "pos": "verb",
+    "example": "Please remind me about the meeting.",
+    "exampleTr": "Lütfen bana toplantıyı hatırlat.",
+    "syn": [],
+    "ant": [],
+    "level": "A2"
+   },
+   {
+    "id": "prepare",
+    "en": "prepare",
+    "tr": "hazırlamak",
+    "pos": "verb",
+    "example": "I prepare the lessons every night.",
+    "exampleTr": "Dersleri her gece hazırlarım.",
+    "syn": [],
+    "ant": [],
+    "level": "A2"
+   },
+   {
+    "id": "form",
+    "en": "form",
+    "tr": "form",
+    "pos": "noun",
+    "example": "Please fill out this form.",
+    "exampleTr": "Lütfen bu formu doldur.",
+    "syn": [],
+    "ant": [],
+    "level": "A2"
+   }
+  ],
+  "reading": {
+   "title": "The to-do list",
+   "text": "It is Hafsa's first week at the front office. On Monday morning, Mr. Brown gives her a to-do list.\n\n\"Have you finished the attendance report yet?\" he asks. \"Not yet,\" Hafsa says. \"But I have already printed the forms, and I have just copied the new lunch menu.\" Mr. Brown nods. \"Good. The principal's meeting is at ten. Have you sent her the agenda yet?\" Hafsa checks her computer. \"Yes, I have. I sent it five minutes ago.\"\n\nThen the phone rings. A parent wants to talk to Ms. Carter. \"Ms. Carter hasn't come in yet,\" Hafsa says, \"but I can take a message.\" After the call, Mr. Brown smiles. \"You have done a lot this morning. The only task you haven't done yet is lunch!\" Hafsa laughs and writes the last item on her list: eat lunch.",
+   "glossary": [
+    {
+     "en": "front office",
+     "tr": "okulun ön ofisi"
+    },
+    {
+     "en": "agenda",
+     "tr": "gündem, toplantı programı"
+    },
+    {
+     "en": "message",
+     "tr": "mesaj, not"
+    },
+    {
+     "en": "item",
+     "tr": "madde"
+    }
+   ],
+   "questions": [
+    {
+     "type": "mcq",
+     "q": "What has Hafsa already printed?",
+     "options": [
+      "The report",
+      "The forms",
+      "The agenda",
+      "The lunch menu"
+     ],
+     "answer": 1,
+     "whyTr": "Metin: 'I have already printed the forms'.",
+     "tag": "reading",
+     "level": "A2"
+    },
+    {
+     "type": "mcq",
+     "q": "When is the principal's meeting?",
+     "options": [
+      "At nine",
+      "At noon",
+      "At ten",
+      "At two"
+     ],
+     "answer": 2,
+     "whyTr": "Metin: 'The principal's meeting is at ten.'",
+     "tag": "reading",
+     "level": "A2"
+    },
+    {
+     "type": "mcq",
+     "q": "Why can't the parent talk to Ms. Carter?",
+     "options": [
+      "She is in a meeting.",
+      "She is sick.",
+      "She is on the phone.",
+      "She hasn't come in yet."
+     ],
+     "answer": 3,
+     "whyTr": "Metin: 'Ms. Carter hasn't come in yet'.",
+     "tag": "reading",
+     "level": "A2"
+    },
+    {
+     "type": "mcq",
+     "q": "Which task hasn't Hafsa done yet?",
+     "options": [
+      "Eating lunch",
+      "Sending the agenda",
+      "Printing the forms",
+      "Copying the menu"
+     ],
+     "answer": 0,
+     "whyTr": "Metin: 'The only task you haven't done yet is lunch!'",
+     "tag": "reading",
+     "level": "A2"
+    }
+   ]
+  }
+ },
+ "evening": {
+  "listening": {
+   "title": "Checking the list",
+   "script": [
+    {
+     "speaker": "Mr. Brown",
+     "text": "Hafsa, let's check the list before lunch."
+    },
+    {
+     "speaker": "Hafsa",
+     "text": "Okay. Which task is first?"
+    },
+    {
+     "speaker": "Mr. Brown",
+     "text": "Have you sent the letters to the parents yet?"
+    },
+    {
+     "speaker": "Hafsa",
+     "text": "Yes, I have. I sent them an hour ago."
+    },
+    {
+     "speaker": "Mr. Brown",
+     "text": "Great. Have you copied the field trip forms?"
+    },
+    {
+     "speaker": "Hafsa",
+     "text": "Not yet. The copy machine isn't working."
+    },
+    {
+     "speaker": "Mr. Brown",
+     "text": "I have just called the repair person. He is coming at one."
+    },
+    {
+     "speaker": "Hafsa",
+     "text": "Good. I have already printed the new class lists, though."
+    },
+    {
+     "speaker": "Mr. Brown",
+     "text": "Perfect. Is the deadline for the report on Friday?"
+    },
+    {
+     "speaker": "Hafsa",
+     "text": "Yes, and I have almost finished it. I just need the final numbers."
+    },
+    {
+     "speaker": "Mr. Brown",
+     "text": "Have you called Ms. Carter about the meeting?"
+    },
+    {
+     "speaker": "Hafsa",
+     "text": "Not yet. I am going to call her now."
+    },
+    {
+     "speaker": "Mr. Brown",
+     "text": "Thank you. You are doing a great job."
+    }
+   ],
+   "questions": [
+    {
+     "type": "mcq",
+     "q": "When did Hafsa send the letters?",
+     "options": [
+      "Yesterday",
+      "An hour ago",
+      "Five minutes ago",
+      "Last week"
+     ],
+     "answer": 1,
+     "whyTr": "Hafsa: 'I sent them an hour ago.'",
+     "tag": "listening",
+     "level": "A2"
+    },
+    {
+     "type": "mcq",
+     "q": "Why hasn't Hafsa copied the forms?",
+     "options": [
+      "She forgot.",
+      "She is at lunch.",
+      "The machine isn't working.",
+      "The forms are lost."
+     ],
+     "answer": 2,
+     "whyTr": "Hafsa: 'The copy machine isn't working.'",
+     "tag": "listening",
+     "level": "A2"
+    },
+    {
+     "type": "mcq",
+     "q": "Who has Mr. Brown just called?",
+     "options": [
+      "Ms. Carter",
+      "The principal",
+      "A parent",
+      "The repair person"
+     ],
+     "answer": 3,
+     "whyTr": "Mr. Brown: 'I have just called the repair person.'",
+     "tag": "listening",
+     "level": "A2"
+    },
+    {
+     "type": "mcq",
+     "q": "What is Hafsa going to do now?",
+     "options": [
+      "Call Ms. Carter",
+      "Print the lists",
+      "Eat lunch",
+      "Write the report"
+     ],
+     "answer": 0,
+     "whyTr": "Hafsa: 'I am going to call her now.'",
+     "tag": "listening",
+     "level": "A2"
+    }
+   ]
+  },
+  "writing": {
+   "promptTr": "Bugünkü yapılacaklar listen hakkında yaz: neleri çoktan yaptın, neleri henüz yapmadın (4-5 cümle).",
+   "promptEn": "Write about your to-do list: what you have already done and what you haven't done yet.",
+   "frames": [
+    "I have already ...",
+    "I have just ...",
+    "I haven't ... yet.",
+    "Have you ... yet?"
+   ],
+   "model": "I have already cleaned my house. I have just called my son. I haven't cooked dinner yet. I haven't finished my English homework yet.",
+   "checklistTr": [
+    "'Already' ve 'just' have/has ile fiil arasında mı?",
+    "'Yet' olumsuz cümlenin sonunda mı?",
+    "Fiillerin 3. hali doğru mu (finished, called, cooked)?"
+   ],
+   "minWords": 25
+  },
+  "examSet": [
+   {
+    "type": "mcq",
+    "q": "I have ___ eaten lunch. I'm full.",
+    "options": [
+     "yet",
+     "already",
+     "ever",
+     "never"
+    ],
+    "answer": 1,
+    "whyTr": "Olumlu cümlede 'already' kullanılır.",
+    "tag": "present-perfect",
+    "level": "A2"
+   },
+   {
+    "type": "mcq",
+    "q": "She hasn't finished the report ___.",
+    "options": [
+     "already",
+     "just",
+     "yet",
+     "ever"
+    ],
+    "answer": 2,
+    "whyTr": "Olumsuz cümle sonunda 'yet'.",
+    "tag": "present-perfect",
+    "level": "A2"
+   },
+   {
+    "type": "mcq",
+    "q": "He has just ___ the door.",
+    "options": [
+     "close",
+     "closing",
+     "closes",
+     "closed"
+    ],
+    "answer": 3,
+    "whyTr": "Has just + V3: closed.",
+    "tag": "present-perfect",
+    "level": "A2"
+   },
+   {
+    "type": "mcq",
+    "q": "Have you ___ been to Boston?",
+    "options": [
+     "ever",
+     "yet",
+     "already",
+     "just"
+    ],
+    "answer": 0,
+    "whyTr": "Deneyim sorusu: Have you ever...?",
+    "tag": "present-perfect",
+    "level": "A2"
+   },
+   {
+    "type": "mcq",
+    "q": "Which word means almost the same as \"finish\"?",
+    "options": [
+     "forget",
+     "complete",
+     "copy",
+     "remind"
+    ],
+    "answer": 1,
+    "whyTr": "Finish ve complete benzer anlamlı.",
+    "tag": "synonym",
+    "level": "A2"
+   },
+   {
+    "type": "mcq",
+    "q": "What is the opposite of \"forget\"?",
+    "options": [
+     "prepare",
+     "print",
+     "remember",
+     "send"
+    ],
+    "answer": 2,
+    "whyTr": "Forget'in zıttı remember.",
+    "tag": "antonym",
+    "level": "A2"
+   },
+   {
+    "type": "mcq",
+    "q": "The ___ for the report is Friday.",
+    "options": [
+     "meeting",
+     "form",
+     "boss",
+     "deadline"
+    ],
+    "answer": 3,
+    "whyTr": "Son tarih = deadline.",
+    "tag": "vocab",
+    "level": "A2"
+   },
+   {
+    "type": "mcq",
+    "q": "Can you ___ this email to the principal?",
+    "options": [
+     "send",
+     "print",
+     "remind",
+     "finish"
+    ],
+    "answer": 0,
+    "whyTr": "E-posta göndermek = send an email.",
+    "tag": "vocab",
+    "level": "A2"
+   },
+   {
+    "type": "mcq",
+    "q": "Mr. Brown ___ a meeting every Monday.",
+    "options": [
+     "have",
+     "has",
+     "is have",
+     "having"
+    ],
+    "answer": 1,
+    "whyTr": "Alışkanlık: Present Simple; he + has.",
+    "tag": "present-simple",
+    "level": "A2"
+   },
+   {
+    "type": "mcq",
+    "q": "I ___ come to the meeting. I am sick.",
+    "options": [
+     "can",
+     "don't can",
+     "can't",
+     "am not can"
+    ],
+    "answer": 2,
+    "whyTr": "Hasta olduğu için gelemiyor: can't.",
+    "tag": "modals",
+    "level": "A2"
+   },
+   {
+    "type": "mcq",
+    "q": "Ana checked her list. She has already printed the forms. She hasn't called the parents yet.\n\nWhat hasn't Ana done?",
+    "options": [
+     "Printed the forms",
+     "Checked her list",
+     "Gone home",
+     "Called the parents"
+    ],
+    "answer": 3,
+    "whyTr": "Metin: 'She hasn't called the parents yet.'",
+    "tag": "reading",
+    "level": "A2"
+   },
+   {
+    "type": "mcq",
+    "q": "Tom has a meeting at two. It is one o'clock. He has just finished lunch and he is ready.\n\nWhat has Tom just done?",
+    "options": [
+     "Finished lunch",
+     "Started a meeting",
+     "Sent a letter",
+     "Lost his list"
+    ],
+    "answer": 0,
+    "whyTr": "Metin: 'He has just finished lunch'.",
+    "tag": "reading",
+    "level": "A2"
+   }
+  ]
+ }
+}

@@ -1,0 +1,767 @@
+{
+ "week": 11,
+ "day": 4,
+ "titleTr": "Keşke farklı yapsaydım: should have / might have",
+ "theme": "work-school",
+ "morning": {
+  "grammar": {
+   "topic": "should have / might have (introduction)",
+   "explainTr": [
+    "'Should have + V3' geçmişte yapılması gereken ama yapılmayan şeyi anlatır; pişmanlık ya da eleştiri taşır: I should have called you. (Seni aramalıydım.) Olumsuzu: I shouldn't have said that. (Bunu söylememeliydim.)",
+    "'Might have + V3' geçmişle ilgili bir olasılıktır: She might have forgotten. (Unutmuş olabilir.) Emin değilsin, tahmin ediyorsun.",
+    "Dikkat: 'should' tek başına şimdi ya da gelecek için tavsiyedir: You should rest. 'Should have' ise bitmiş bir olaya bakar. Fiilin 3. halini (V3) kullanmayı unutma: done, made, gone, forgotten."
+   ],
+   "compareTr": "Türkçede 'aramalıydım' tek kelimeyle pişmanlık verir; 'unutmuş olabilir' ise tahmin demektir. İngilizcede bunun için iki parça gerekir: should have + V3 (pişmanlık) ve might have + V3 (olasılık). 'Have' hep yalın kalır, fiil 3. hale geçer.",
+   "table": [
+    [
+     "should have + V3",
+     "geçmişte yapılması gereken",
+     "I should have asked."
+    ],
+    [
+     "shouldn't have + V3",
+     "geçmişte yapılmaması gereken",
+     "I shouldn't have shouted."
+    ],
+    [
+     "might have + V3",
+     "geçmişte olabilir",
+     "She might have left."
+    ],
+    [
+     "should + fiil",
+     "şimdi / gelecek tavsiye",
+     "You should rest."
+    ]
+   ],
+   "examples": [
+    {
+     "en": "I should have read the whole plan.",
+     "tr": "Planın tamamını okumalıydım."
+    },
+    {
+     "en": "You shouldn't have worried so much.",
+     "tr": "Bu kadar endişelenmemeliydin."
+    },
+    {
+     "en": "He might have forgotten his keys.",
+     "tr": "Anahtarlarını unutmuş olabilir."
+    },
+    {
+     "en": "They might not have heard the bell.",
+     "tr": "Zili duymamış olabilirler."
+    },
+    {
+     "en": "You should see a doctor.",
+     "tr": "Bir doktora görünmelisin."
+    }
+   ],
+   "exercises": [
+    {
+     "type": "mcq",
+     "q": "I failed the quiz. I ___ studied more.",
+     "options": [
+      "should have",
+      "should",
+      "might"
+     ],
+     "answer": 0,
+     "whyTr": "Geçmişteki pişmanlık: should have + V3.",
+     "tag": "modals",
+     "level": "B1"
+    },
+    {
+     "type": "mcq",
+     "q": "She ___ left the children alone. It was dangerous.",
+     "options": [
+      "shouldn't",
+      "shouldn't have",
+      "might not"
+     ],
+     "answer": 1,
+     "whyTr": "Geçmişte yapılmaması gereken şey: shouldn't have + V3.",
+     "tag": "modals",
+     "level": "B1"
+    },
+    {
+     "type": "mcq",
+     "q": "I don't know where Emre is. He ___ gone to the library.",
+     "options": [
+      "should have",
+      "might",
+      "might have"
+     ],
+     "answer": 2,
+     "whyTr": "Geçmişle ilgili bir olasılık: might have + V3.",
+     "tag": "modals",
+     "level": "B1"
+    },
+    {
+     "type": "mcq",
+     "q": "You look sick. You ___ see a doctor.",
+     "options": [
+      "should",
+      "should have",
+      "might have"
+     ],
+     "answer": 0,
+     "whyTr": "Şimdi için tavsiye: should + yalın fiil.",
+     "tag": "modals",
+     "level": "B1"
+    },
+    {
+     "type": "mcq",
+     "q": "Hafsa didn't read the sub plan. She ___ read it.",
+     "options": [
+      "should",
+      "should have",
+      "has to"
+     ],
+     "answer": 1,
+     "whyTr": "Yapmadı ve pişman: should have read.",
+     "tag": "modals",
+     "level": "B1"
+    },
+    {
+     "type": "mcq",
+     "q": "I should have ___ earlier.",
+     "options": [
+      "leave",
+      "leaving",
+      "left"
+     ],
+     "answer": 2,
+     "whyTr": "'Should have' den sonra V3 gelir: left.",
+     "tag": "modals",
+     "level": "B1"
+    },
+    {
+     "type": "order",
+     "promptTr": "Cümleyi sırala:",
+     "words": [
+      "should",
+      "I",
+      "asked",
+      "have",
+      "for",
+      "help"
+     ],
+     "answer": "I should have asked for help",
+     "whyTr": "Sıra: özne + should have + V3 + gerisi.",
+     "tag": "modals",
+     "level": "B1"
+    },
+    {
+     "type": "order",
+     "promptTr": "Cümleyi sırala:",
+     "words": [
+      "might",
+      "have",
+      "She",
+      "her",
+      "keys",
+      "forgotten"
+     ],
+     "answer": "She might have forgotten her keys",
+     "whyTr": "Sıra: özne + might have + V3.",
+     "tag": "modals",
+     "level": "B1"
+    },
+    {
+     "type": "mcq",
+     "q": "The door is open. Someone ___ forgotten to close it.",
+     "options": [
+      "might have",
+      "might",
+      "should"
+     ],
+     "answer": 0,
+     "whyTr": "Geçmişle ilgili tahmin: might have + V3.",
+     "tag": "modals",
+     "level": "B1"
+    },
+    {
+     "type": "mcq",
+     "q": "Which sentence expresses regret?",
+     "options": [
+      "I should call you.",
+      "I should have called you.",
+      "I might call you."
+     ],
+     "answer": 1,
+     "whyTr": "Pişmanlık geçmişe bakar: should have + V3.",
+     "tag": "modals",
+     "level": "B1"
+    },
+    {
+     "type": "mcq",
+     "q": "Mr. Brown isn't here today, ___?",
+     "options": [
+      "isn't he",
+      "does he",
+      "is he"
+     ],
+     "answer": 2,
+     "whyTr": "Olumsuz cümle → olumlu tag (karışık tekrar).",
+     "tag": "question-form",
+     "level": "B1"
+    },
+    {
+     "type": "fill",
+     "q": "You should ___ told me about the test.",
+     "accept": [
+      "have"
+     ],
+     "hintTr": "should ___ told",
+     "whyTr": "'Should have' + V3 kalıbı.",
+     "tag": "modals",
+     "level": "B1"
+    }
+   ]
+  },
+  "vocab": [
+   {
+    "id": "regret",
+    "en": "regret",
+    "tr": "pişmanlık duymak",
+    "pos": "verb",
+    "example": "I regret missing the meeting.",
+    "exampleTr": "Toplantıyı kaçırdığıma pişmanım.",
+    "syn": [],
+    "ant": [],
+    "level": "B1"
+   },
+   {
+    "id": "admit",
+    "en": "admit",
+    "tr": "kabul etmek, itiraf etmek",
+    "pos": "verb",
+    "example": "He admitted his mistake.",
+    "exampleTr": "Hatasını kabul etti.",
+    "syn": [
+     "confess"
+    ],
+    "ant": [
+     "deny"
+    ],
+    "level": "B1"
+   },
+   {
+    "id": "overlook",
+    "en": "overlook",
+    "tr": "gözden kaçırmak",
+    "pos": "verb",
+    "example": "I overlooked the second page.",
+    "exampleTr": "İkinci sayfayı gözden kaçırdım.",
+    "syn": [
+     "miss"
+    ],
+    "ant": [],
+    "level": "B1"
+   },
+   {
+    "id": "apologize",
+    "en": "apologize",
+    "tr": "özür dilemek",
+    "pos": "verb",
+    "example": "I want to apologize for being late.",
+    "exampleTr": "Geç kaldığım için özür dilemek istiyorum.",
+    "syn": [],
+    "ant": [],
+    "level": "B1"
+   },
+   {
+    "id": "blame",
+    "en": "blame",
+    "tr": "suçlamak",
+    "pos": "verb",
+    "example": "Don't blame yourself for one mistake.",
+    "exampleTr": "Tek bir hata için kendini suçlama.",
+    "syn": [],
+    "ant": [],
+    "level": "B1"
+   },
+   {
+    "id": "apology",
+    "en": "apology",
+    "tr": "özür",
+    "pos": "noun",
+    "example": "She wrote an apology to the parents.",
+    "exampleTr": "Velilere bir özür yazdı.",
+    "syn": [],
+    "ant": [],
+    "level": "B1"
+   },
+   {
+    "id": "realize",
+    "en": "realize",
+    "tr": "fark etmek",
+    "pos": "verb",
+    "example": "I realized my mistake after lunch.",
+    "exampleTr": "Hatamı öğle yemeğinden sonra fark ettim.",
+    "syn": [
+     "notice"
+    ],
+    "ant": [],
+    "level": "B1"
+   },
+   {
+    "id": "misunderstand",
+    "en": "misunderstand",
+    "tr": "yanlış anlamak",
+    "pos": "verb",
+    "example": "I misunderstood the instructions.",
+    "exampleTr": "Talimatları yanlış anladım.",
+    "syn": [],
+    "ant": [],
+    "level": "B1"
+   },
+   {
+    "id": "double-check",
+    "en": "double-check",
+    "tr": "iki kez kontrol etmek",
+    "pos": "verb",
+    "example": "Always double-check the sub plan.",
+    "exampleTr": "Vekil planını her zaman iki kez kontrol et.",
+    "syn": [],
+    "ant": [],
+    "level": "B1"
+   },
+   {
+    "id": "forgive",
+    "en": "forgive",
+    "tr": "affetmek",
+    "pos": "verb",
+    "example": "Ms. Carter forgave her quickly.",
+    "exampleTr": "Ms. Carter onu çabucak affetti.",
+    "syn": [],
+    "ant": [],
+    "level": "B1"
+   },
+   {
+    "id": "embarrassed",
+    "en": "embarrassed",
+    "tr": "utanmış",
+    "pos": "adjective",
+    "example": "She felt embarrassed in front of the class.",
+    "exampleTr": "Sınıfın önünde utandı.",
+    "syn": [
+     "ashamed"
+    ],
+    "ant": [],
+    "level": "B1"
+   },
+   {
+    "id": "disappointed",
+    "en": "disappointed",
+    "tr": "hayal kırıklığına uğramış",
+    "pos": "adjective",
+    "example": "I was disappointed with my test score.",
+    "exampleTr": "Sınav sonucumdan hayal kırıklığına uğradım.",
+    "syn": [
+     "let down"
+    ],
+    "ant": [
+     "satisfied"
+    ],
+    "level": "B1"
+   },
+   {
+    "id": "oversight",
+    "en": "oversight",
+    "tr": "gözden kaçma, ihmal",
+    "pos": "noun",
+    "example": "The missing page was an oversight.",
+    "exampleTr": "Eksik sayfa bir ihmaldi.",
+    "syn": [],
+    "ant": [],
+    "level": "B1"
+   },
+   {
+    "id": "oversleep",
+    "en": "oversleep",
+    "tr": "fazla uyumak, uyanamamak",
+    "pos": "verb",
+    "example": "I overslept and missed the bus.",
+    "exampleTr": "Uyanamadım ve otobüsü kaçırdım.",
+    "syn": [],
+    "ant": [],
+    "level": "B1"
+   },
+   {
+    "id": "lesson-learned",
+    "en": "lesson-learned",
+    "tr": "alınan ders",
+    "pos": "noun",
+    "example": "That mistake was a lesson learned.",
+    "exampleTr": "O hata alınan bir dersti.",
+    "syn": [],
+    "ant": [],
+    "level": "B1"
+   }
+  ],
+  "reading": {
+   "title": "A mistake and a lesson",
+   "text": "Last Thursday, Hafsa made a mistake. Ms. Carter left a sub plan for her math class, but Hafsa only read the first page. She did not notice the second page, which said, \"Give the spelling test at 10:00.\" The students were confused, and Hafsa realized her error only after lunch. She felt embarrassed.\n\nThat night, she told Emre what happened. \"I should have read the whole plan,\" she said. \"I should have arrived earlier, too, to check everything.\" Emre listened carefully. \"Maybe some students knew about the test,\" he said. \"You should have asked them. But you shouldn't blame yourself so much, Mom.\"\n\nThe next morning, Hafsa apologized to Ms. Carter. Ms. Carter smiled and forgave her. \"My first day as a teacher was worse,\" she said. \"I might have lost the classroom keys that day! Everyone makes mistakes. The important thing is to learn from them.\" She also gave Hafsa some advice: \"Prepare the night before, and always read the whole plan.\"\n\nHafsa felt disappointed in herself, but she also felt better. At home, she wrote a short checklist and put it on her kitchen wall. It said, \"Read every page. Ask the students. Arrive early.\" She decided that a mistake is not the end of the story. It is the beginning of a better plan.",
+   "glossary": [
+    {
+     "en": "spelling test",
+     "tr": "heceleme sınavı"
+    },
+    {
+     "en": "confused",
+     "tr": "kafası karışmış"
+    },
+    {
+     "en": "checklist",
+     "tr": "kontrol listesi"
+    },
+    {
+     "en": "error",
+     "tr": "hata"
+    }
+   ],
+   "questions": [
+    {
+     "type": "mcq",
+     "q": "What did Hafsa miss?",
+     "options": [
+      "The bus to school",
+      "The spelling test on page two",
+      "A meeting with Mr. Brown",
+      "The lunch break"
+     ],
+     "answer": 1,
+     "whyTr": "Metin: 'She did not notice the second page ... spelling test'.",
+     "tag": "reading",
+     "level": "B1"
+    },
+    {
+     "type": "mcq",
+     "q": "What did Hafsa say to Emre?",
+     "options": [
+      "She wanted to quit.",
+      "She should have read the whole plan.",
+      "The students were bad."
+     ],
+     "answer": 1,
+     "whyTr": "Metin: 'I should have read the whole plan.'",
+     "tag": "reading",
+     "level": "B1"
+    },
+    {
+     "type": "mcq",
+     "q": "How did Ms. Carter react?",
+     "options": [
+      "She was very angry.",
+      "She called the principal.",
+      "She forgave Hafsa and gave advice."
+     ],
+     "answer": 2,
+     "whyTr": "Metin: 'Ms. Carter smiled and forgave her.'",
+     "tag": "reading",
+     "level": "B1"
+    },
+    {
+     "type": "mcq",
+     "q": "What did Hafsa put on her kitchen wall?",
+     "options": [
+      "A checklist",
+      "A calendar",
+      "A photo"
+     ],
+     "answer": 0,
+     "whyTr": "Metin: 'wrote a short checklist and put it on her kitchen wall'.",
+     "tag": "reading",
+     "level": "B1"
+    }
+   ]
+  }
+ },
+ "evening": {
+  "listening": {
+   "title": "Talking to a neighbor",
+   "script": [
+    {
+     "speaker": "Linda",
+     "text": "You look upset, Hafsa. What happened?"
+    },
+    {
+     "speaker": "Hafsa",
+     "text": "I made a mistake at school. I forgot to give the spelling test."
+    },
+    {
+     "speaker": "Linda",
+     "text": "Oh, that isn't terrible. Did anybody get angry?"
+    },
+    {
+     "speaker": "Hafsa",
+     "text": "No. But I should have read the whole sub plan. I only read the first page."
+    },
+    {
+     "speaker": "Linda",
+     "text": "Everyone makes mistakes. You should have asked the students, too. They might have known about the test."
+    },
+    {
+     "speaker": "Hafsa",
+     "text": "You're right. Children often know the routine."
+    },
+    {
+     "speaker": "Linda",
+     "text": "Did you apologize to the teacher?"
+    },
+    {
+     "speaker": "Hafsa",
+     "text": "Yes, this morning. She was very kind."
+    },
+    {
+     "speaker": "Linda",
+     "text": "Then you shouldn't worry so much. Next time you'll be better prepared."
+    },
+    {
+     "speaker": "Hafsa",
+     "text": "I wrote a checklist, and I will read every page."
+    },
+    {
+     "speaker": "Linda",
+     "text": "That's a great idea. I should have made one when I started my job!"
+    },
+    {
+     "speaker": "Hafsa",
+     "text": "Thank you, Linda. You always make me feel better."
+    }
+   ],
+   "questions": [
+    {
+     "type": "mcq",
+     "q": "What did Hafsa forget to do?",
+     "options": [
+      "Call the parents",
+      "Give the spelling test",
+      "Take attendance",
+      "Bring her ID"
+     ],
+     "answer": 1,
+     "whyTr": "Hafsa: 'I forgot to give the spelling test.'",
+     "tag": "listening",
+     "level": "B1"
+    },
+    {
+     "type": "mcq",
+     "q": "What did Hafsa read of the sub plan?",
+     "options": [
+      "Nothing",
+      "The whole plan",
+      "Only the first page"
+     ],
+     "answer": 2,
+     "whyTr": "Hafsa: 'I only read the first page.'",
+     "tag": "listening",
+     "level": "B1"
+    },
+    {
+     "type": "mcq",
+     "q": "What might the students have known?",
+     "options": [
+      "About the test",
+      "About the bus",
+      "About the weather"
+     ],
+     "answer": 0,
+     "whyTr": "Linda: 'They might have known about the test.'",
+     "tag": "listening",
+     "level": "B1"
+    },
+    {
+     "type": "mcq",
+     "q": "What did Hafsa write?",
+     "options": [
+      "A letter",
+      "A checklist",
+      "A story"
+     ],
+     "answer": 1,
+     "whyTr": "Hafsa: 'I wrote a checklist.'",
+     "tag": "listening",
+     "level": "B1"
+    }
+   ]
+  },
+  "writing": {
+   "promptTr": "Yaptığın bir hatayı ve neyi farklı yapman gerektiğini yaz. should have, shouldn't have ve might have kullan (80-100 kelime).",
+   "promptEn": "Write about a mistake you made and what you should have done. Use should have, shouldn't have and might have (80-100 words).",
+   "frames": [
+    "Last week I ... by mistake.",
+    "I should have ...",
+    "I shouldn't have ...",
+    "Someone might have ..."
+   ],
+   "model": "Last week I made a mistake at the bank. I forgot my ID, so I could not open the account. I should have checked my bag before I left home. I shouldn't have been in such a hurry. The clerk was kind and said that other customers might have done the same thing. Today I went back with my ID, and everything was fine. I also learned something useful. Next time, I will prepare a small list the night before. A list is simple, but it can save a lot of time.",
+   "checklistTr": [
+    "En az bir 'should have + V3' cümlen var mı?",
+    "'shouldn't have' ile yapılmaması gereken bir şey yazdın mı?",
+    "'might have' ile bir olasılık anlattın mı?",
+    "'Have' den sonra fiilin 3. hali (done, made, forgotten) geldi mi?"
+   ],
+   "minWords": 70
+  },
+  "examSet": [
+   {
+    "type": "mcq",
+    "q": "I was late. I ___ left home earlier.",
+    "options": [
+     "should",
+     "might",
+     "should have"
+    ],
+    "answer": 2,
+    "whyTr": "Geçmişte pişmanlık: should have + V3.",
+    "tag": "modals",
+    "level": "B1"
+   },
+   {
+    "type": "mcq",
+    "q": "They ___ shouted at the children. It was not kind.",
+    "options": [
+     "shouldn't have",
+     "shouldn't",
+     "might"
+    ],
+    "answer": 0,
+    "whyTr": "Yapılmaması gereken geçmiş eylem: shouldn't have.",
+    "tag": "modals",
+    "level": "B1"
+   },
+   {
+    "type": "mcq",
+    "q": "Linda isn't answering. She ___ gone to bed early.",
+    "options": [
+     "should have",
+     "might have",
+     "might"
+    ],
+    "answer": 1,
+    "whyTr": "Geçmişle ilgili tahmin: might have + V3.",
+    "tag": "modals",
+    "level": "B1"
+   },
+   {
+    "type": "mcq",
+    "q": "You should have ___ the whole page.",
+    "options": [
+     "reading",
+     "to read",
+     "read"
+    ],
+    "answer": 2,
+    "whyTr": "Should have + V3 (read).",
+    "tag": "modals",
+    "level": "B1"
+   },
+   {
+    "type": "mcq",
+    "q": "You are the new teacher, ___?",
+    "options": [
+     "aren't you",
+     "are you",
+     "don't you"
+    ],
+    "answer": 0,
+    "whyTr": "Olumlu cümle → olumsuz tag (tekrar).",
+    "tag": "question-form",
+    "level": "B1"
+   },
+   {
+    "type": "mcq",
+    "q": "The school closed ___ the storm.",
+    "options": [
+     "because",
+     "because of",
+     "therefore"
+    ],
+    "answer": 1,
+    "whyTr": "Isim önünde 'because of' (tekrar).",
+    "tag": "linkers",
+    "level": "B1"
+   },
+   {
+    "type": "mcq",
+    "q": "I want to ___ for being late to class.",
+    "options": [
+     "warn",
+     "prepare",
+     "apologize"
+    ],
+    "answer": 2,
+    "whyTr": "Özür dilemek = apologize.",
+    "tag": "vocab",
+    "level": "B1"
+   },
+   {
+    "type": "mcq",
+    "q": "She felt ___ when she made the mistake in front of everyone.",
+    "options": [
+     "embarrassed",
+     "careless",
+     "patient"
+    ],
+    "answer": 0,
+    "whyTr": "Utanmış = embarrassed.",
+    "tag": "vocab",
+    "level": "B1"
+   },
+   {
+    "type": "mcq",
+    "q": "Which word is closest in meaning to \"advice\"?",
+    "options": [
+     "accident",
+     "suggestion",
+     "excuse"
+    ],
+    "answer": 1,
+    "whyTr": "Advice ve suggestion benzer anlamlıdır.",
+    "tag": "synonym",
+    "level": "B1"
+   },
+   {
+    "type": "mcq",
+    "q": "What is the opposite of \"careless\"?",
+    "options": [
+     "embarrassed",
+     "late",
+     "careful"
+    ],
+    "answer": 2,
+    "whyTr": "Careless'in zıttı careful.",
+    "tag": "antonym",
+    "level": "B1"
+   },
+   {
+    "type": "mcq",
+    "q": "Tom didn't check his alarm and overslept. He missed the first class. He said, \"I should have set two alarms.\"\n\nWhat does Tom regret?",
+    "options": [
+     "Not setting two alarms",
+     "Missing lunch",
+     "Buying a clock"
+    ],
+    "answer": 0,
+    "whyTr": "Metin: 'I should have set two alarms.'",
+    "tag": "reading",
+    "level": "B1"
+   },
+   {
+    "type": "mcq",
+    "q": "Maria forgot her keys. She called her neighbor, who might have an extra set. Luckily, the neighbor was home.\n\nWhy did Maria call her neighbor?",
+    "options": [
+     "She was lonely.",
+     "The neighbor might have an extra key.",
+     "She wanted a ride."
+    ],
+    "answer": 1,
+    "whyTr": "Metin: 'who might have an extra set'.",
+    "tag": "reading",
+    "level": "B1"
+   }
+  ]
+ }
+}

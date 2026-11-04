@@ -1,0 +1,161 @@
+{
+  "titleTr": "Seviye tespit testi",
+  "introTr": "Bu test sınav değil, sadece sana en uygun başlangıç noktasını bulmak için. Geçme ya da kalma yok, bu yüzden hiç stres yapma. Bilmediğin soruda tahmin edebilirsin; toplam 50-60 dakika sürer, istersen aralara mola verebilirsin.",
+  "sections": [
+    {
+      "id": "grammar",
+      "titleTr": "Dil bilgisi",
+      "items": [
+        {"type":"mcq","q":"My sister ___ a nurse.","options":["are","be","is","am"],"answer":2,"whyTr":"My sister (she) tekil olduğu için 'is' kullanılır.","tag":"to-be","level":"A1"},
+        {"type":"mcq","q":"___ two chairs in the kitchen.","options":["There are","There is","Is there","They is"],"answer":0,"whyTr":"Çoğul isimle (two chairs) 'There are' kullanılır.","tag":"there-is","level":"A1"},
+        {"type":"mcq","q":"I have ___ apple and a sandwich.","options":["a","an","the","two"],"answer":1,"whyTr":"Ünlü sesle başlayan kelimeden (apple) önce 'an' gelir.","tag":"articles","level":"A1"},
+        {"type":"mcq","q":"I get up ___ 7:00 every morning.","options":["in","on","to","at"],"answer":3,"whyTr":"Saatlerle 'at' kullanılır: at 7:00.","tag":"prepositions-time","level":"A1"},
+        {"type":"mcq","q":"Emre ___ to school by bus every day.","options":["go","going","goes","is go"],"answer":2,"whyTr":"He/she/Emre ile şimdiki geniş zamanda fiile -s/-es eklenir: goes.","tag":"present-simple","level":"A2"},
+        {"type":"mcq","q":"___ you like coffee?","options":["Do","Does","Are","Is"],"answer":0,"whyTr":"You ile geniş zaman sorusu 'Do' ile kurulur.","tag":"question-form","level":"A2"},
+        {"type":"mcq","q":"Yesterday we ___ to the supermarket after work.","options":["go","went","goed","have gone"],"answer":1,"whyTr":"'Yesterday' geçmiş zaman ister; go fiilinin geçmişi 'went'.","tag":"past-simple","level":"A2"},
+        {"type":"mcq","q":"Please be quiet. The baby ___.","options":["sleeps","sleep","is sleeping","does sleeping"],"answer":2,"whyTr":"Şu anda olan bir eylem için am/is/are + fiil-ing kullanılır.","tag":"present-continuous","level":"A2"},
+        {"type":"mcq","q":"I don't have ___ money with me today.","options":["some","any","a","an"],"answer":1,"whyTr":"Olumsuz cümlede sayılamayan isimle 'any' kullanılır.","tag":"countable","level":"A2"},
+        {"type":"mcq","q":"This apartment is ___ than my old one.","options":["more big","biggest","more bigger","bigger"],"answer":3,"whyTr":"Kısa sıfatlara -er eklenir: bigger than.","tag":"comparatives","level":"A2"},
+        {"type":"mcq","q":"I ___ in this city since 2019.","options":["live","have lived","lived","am living"],"answer":1,"whyTr":"'Since' ile başlayıp hâlâ devam eden durumda present perfect (have lived) kullanılır.","tag":"present-perfect","level":"B1"},
+        {"type":"mcq","q":"If it rains tomorrow, we ___ the picnic.","options":["cancel","would cancel","will cancel","have cancelled"],"answer":2,"whyTr":"Gerçekçi gelecek durumlarında: If + geniş zaman, will + fiil.","tag":"future","level":"B1"},
+        {"type":"mcq","q":"You ___ wear a seatbelt. It's the law.","options":["can","must","might","would"],"answer":1,"whyTr":"Kanunla gelen zorunluluk için 'must' kullanılır.","tag":"modals","level":"B1"},
+        {"type":"mcq","q":"Do you know where ___?","options":["is the post office","does the post office","the post office is","the post office it is"],"answer":2,"whyTr":"Dolaylı soruda düz cümle sırası kullanılır: where the post office is.","tag":"word-order","level":"B1"},
+        {"type":"mcq","q":"The report ___ by the principal yesterday.","options":["wrote","was written","has written","is wrote"],"answer":1,"whyTr":"Raporu yazan değil, yazılan olduğu için edilgen yapı: was written.","tag":"past-simple","level":"B1"},
+        {"type":"mcq","q":"I don't know ___ she will come to the meeting or not.","options":["whether","that","what","which"],"answer":0,"whyTr":"'Or not' ile birlikte 'whether' kullanılır.","tag":"linkers","level":"B1"},
+        {"type":"mcq","q":"If I ___ more time, I would volunteer at the school.","options":["will have","would have","have","had"],"answer":3,"whyTr":"Gerçek dışı şimdiki durumda: If + geçmiş zaman, would + fiil.","tag":"modals","level":"B2"},
+        {"type":"mcq","q":"If she had studied harder, she ___ the test.","options":["would pass","will have passed","had passed","would have passed"],"answer":3,"whyTr":"Geçmişteki gerçek dışı durumda: If + had + V3, would have + V3.","tag":"modals","level":"B2"},
+        {"type":"mcq","q":"I wish I ___ speak Spanish better.","options":["would","can","will","could"],"answer":3,"whyTr":"'Wish' ile şimdiki istek için 'could' kullanılır.","tag":"modals","level":"B2"},
+        {"type":"mcq","q":"The teacher, ___ son goes to my school, is very kind.","options":["who","which","whose","that"],"answer":2,"whyTr":"Sahiplik bildiren (onun oğlu) ilgi zamiri 'whose' olur.","tag":"pronouns","level":"B2"}
+      ]
+    },
+    {
+      "id": "vocab",
+      "titleTr": "Kelime",
+      "items": [
+        {"type":"mcq","q":"What is the opposite of 'big'?","options":["long","tall","small","late"],"answer":2,"whyTr":"'Big' kelimesinin zıttı 'small'.","tag":"antonym","level":"A1"},
+        {"type":"mcq","q":"I need to ___ the bus to get to work.","options":["make","do","take","play"],"answer":2,"whyTr":"Toplu taşıma için 'take the bus' denir.","tag":"vocab","level":"A1"},
+        {"type":"mcq","q":"'Be careful. The floor is wet and slippery.' Slippery means:","options":["very clean","easy to fall on","very old","not safe to drink"],"answer":1,"whyTr":"Slippery, ayağın kolay kaydığı yüzey demektir.","tag":"vocab","level":"A2"},
+        {"type":"mcq","q":"Which word means the same as 'begin'?","options":["finish","wait","start","stay"],"answer":2,"whyTr":"Begin ve start aynı anlama gelir.","tag":"synonym","level":"A2"},
+        {"type":"mcq","q":"I have to ___ an appointment with the dentist.","options":["do","make","take","give"],"answer":1,"whyTr":"Randevu almak için 'make an appointment' denir.","tag":"vocab","level":"A2"},
+        {"type":"mcq","q":"What is the opposite of 'arrive'?","options":["leave","enter","return","wait"],"answer":0,"whyTr":"Arrive (varmak) kelimesinin zıttı leave (ayrılmak).","tag":"antonym","level":"A2"},
+        {"type":"mcq","q":"'Linda is very reliable. You can always count on her.' Reliable means:","options":["very funny","someone you can trust to do things","always busy","very tall"],"answer":1,"whyTr":"Reliable, güvenilir ve sözüne bağlı demektir.","tag":"vocab","level":"B1"},
+        {"type":"mcq","q":"Which word means the same as 'prevent'?","options":["allow","stop something from happening","repeat","plan"],"answer":1,"whyTr":"Prevent, bir şeyin olmasını engellemek demektir.","tag":"synonym","level":"B1"},
+        {"type":"mcq","q":"She ___ a good impression at the interview.","options":["did","had","made","took"],"answer":2,"whyTr":"'Make an impression' sabit bir kalıptır.","tag":"vocab","level":"B1"},
+        {"type":"mcq","q":"What is the opposite of 'temporary'?","options":["permanent","quick","simple","recent"],"answer":0,"whyTr":"Temporary (geçici) kelimesinin zıttı permanent (kalıcı).","tag":"antonym","level":"B1"},
+        {"type":"mcq","q":"'The school is facing a shortage of substitute teachers.' Shortage means:","options":["a change","a good result","not enough of something","a long meeting"],"answer":2,"whyTr":"Shortage, yeterli miktarda olmama, eksiklik demektir.","tag":"vocab","level":"B2"},
+        {"type":"mcq","q":"Which word means the same as 'reluctant'?","options":["unwilling","careful","angry","polite"],"answer":0,"whyTr":"Reluctant, isteksiz demektir; unwilling ile aynı anlamda.","tag":"synonym","level":"B2"}
+      ]
+    },
+    {
+      "id": "reading",
+      "titleTr": "Okuma",
+      "passages": [
+        {
+          "title": "Saturday with Linda",
+          "level": "A2",
+          "text": "Hafsa lives in a small apartment in Ohio with her son, Emre. Her neighbor, Linda, is very friendly. Every Saturday morning, they walk to the farmers market together. Hafsa buys vegetables and bread, and Linda buys flowers.\n\nLast Saturday it was cold and rainy, so they went to a coffee shop instead. Linda ordered tea, and Hafsa had hot chocolate. Linda told Hafsa about a free English class at the library. It starts next Tuesday at 6:00 p.m. Hafsa was happy. She wants to practice her English and meet new people. She wrote the time in her calendar.",
+          "questions": [
+            {"type":"mcq","q":"Where do Hafsa and Linda usually go on Saturday morning?","options":["To the library","To a coffee shop","To the farmers market","To Emre's school"],"answer":2,"whyTr":"Metinde: 'Every Saturday morning, they walk to the farmers market.'","tag":"reading","level":"A2"},
+            {"type":"mcq","q":"Why did they go to a coffee shop last Saturday?","options":["The weather was bad.","Linda wanted tea.","The market was closed.","Hafsa was tired."],"answer":0,"whyTr":"Metinde hava soğuk ve yağmurluydu.","tag":"reading","level":"A2"},
+            {"type":"mcq","q":"When does the English class start?","options":["Saturday at 6:00 p.m.","Tuesday at 6:00 a.m.","Next Saturday morning","Next Tuesday at 6:00 p.m."],"answer":3,"whyTr":"Metinde: 'It starts next Tuesday at 6:00 p.m.'","tag":"reading","level":"A2"}
+          ]
+        },
+        {
+          "title": "A visit to Lincoln Elementary",
+          "level": "B1",
+          "text": "On Monday, Hafsa visited Lincoln Elementary School to ask about volunteering. The school secretary, Mr. Brown, welcomed her and gave her a form. 'Before you can work with students, we need a background check,' he explained. 'It usually takes about two weeks.' Hafsa was a little nervous because she had never done one before, but Mr. Brown said it was simple. She only had to show her ID and give her fingerprints at the police station.\n\nMr. Brown also told her that the school needs help in the library on Thursday afternoons. 'The librarian is busy, and many students want to borrow books,' he said. 'If you have time, we would love your help.' Hafsa said she could start in three weeks, after the background check was finished.\n\nBefore she left, Mr. Brown showed her the teachers' lounge and introduced her to a few teachers. One of them, Ms. Carter, said that the school often looks for substitute teachers. Hafsa smiled. That was exactly her dream. She took a brochure and promised to read it at home.",
+          "questions": [
+            {"type":"mcq","q":"Why did Hafsa visit the school?","options":["To meet her son's teacher","To ask about volunteering","To apply for a full-time job","To borrow some books"],"answer":1,"whyTr":"Metnin başında: 'to ask about volunteering'.","tag":"reading","level":"B1"},
+            {"type":"mcq","q":"What does Hafsa need before she can work with students?","options":["A teaching degree","A medical exam","A letter from Ms. Carter","A background check"],"answer":3,"whyTr":"Mr. Brown 'we need a background check' diyor.","tag":"reading","level":"B1"},
+            {"type":"mcq","q":"When does the school need help in the library?","options":["Monday mornings","Thursday afternoons","Every day after school","Friday evenings"],"answer":1,"whyTr":"Metinde: 'help in the library on Thursday afternoons'.","tag":"reading","level":"B1"},
+            {"type":"mcq","q":"Why did Hafsa smile at the end?","options":["She heard that the school looks for substitute teachers, which is her dream.","She finished the background check.","She got the library job right away.","She liked the teachers' lounge."],"answer":0,"whyTr":"Ms. Carter substitute teacher arandığını söyledi; bu Hafsa'nın hayaliydi.","tag":"reading","level":"B1"}
+          ]
+        },
+        {
+          "title": "Working as a substitute teacher",
+          "level": "B2",
+          "text": "Substitute teachers play an important role in American schools. When a regular teacher is sick or away for training, a substitute takes over the class so that students do not lose valuable learning time. Although the job can be unpredictable, many people find it rewarding.\n\nRequirements vary from state to state. In some places, candidates need a bachelor's degree, while others only ask for 60 college credits or a high school diploma. Almost every district requires a background check, and some also ask for a short training course. Candidates usually apply directly to the school district, which then adds them to a list of approved substitutes.\n\nMost substitutes work on a day-by-day basis. Each morning, a computer system or a phone call informs them of available jobs. Because there is no guarantee of work, the income can be irregular, and benefits such as health insurance are often limited. On the other hand, the schedule is flexible, which suits parents who want to be home when their children return from school.\n\nExperienced substitutes say that preparation is the key to success. They arrive early, read the lesson plan carefully and learn the students' names as quickly as possible. They also keep a few extra activities in their bags in case the plan is too short. 'The first ten minutes decide how the day will go,' one veteran said. 'If students see that you are calm and organized, they usually respect you.'",
+          "questions": [
+            {"type":"mcq","q":"What is the main idea of the passage?","options":["Substitute teachers earn more than regular teachers.","Substitute teaching is a flexible job that requires preparation and meeting local requirements.","Every state asks for a college degree from substitutes.","Students do not respect substitute teachers."],"answer":1,"whyTr":"Metin şartları, çalışma düzenini ve başarı için hazırlığı anlatıyor.","tag":"reading","level":"B2"},
+            {"type":"mcq","q":"According to the passage, why can a substitute's income be irregular?","options":["Substitutes work only in the summer.","Districts pay different amounts each week.","There is no guarantee that work is available every day.","Substitutes must take unpaid training courses."],"answer":2,"whyTr":"Metinde: 'there is no guarantee of work'.","tag":"reading","level":"B2"},
+            {"type":"mcq","q":"What does the veteran mean by 'The first ten minutes decide how the day will go'?","options":["A substitute should leave after ten minutes.","Students are usually tired at the start of class.","The lesson plan must be finished in ten minutes.","A calm, organized start usually shapes how students behave all day."],"answer":3,"whyTr":"Devamında sakin ve düzenli görünmenin saygı kazandırdığı söyleniyor.","tag":"reading","level":"B2"}
+          ]
+        }
+      ]
+    },
+    {
+      "id": "listening",
+      "titleTr": "Dinleme",
+      "passages": [
+        {
+          "title": "A phone call to the school office",
+          "level": "A2",
+          "script": [
+            {"speaker":"Mr. Brown","text":"Good morning, Lincoln Elementary. This is Mr. Brown."},
+            {"speaker":"Hafsa","text":"Hello, Mr. Brown. This is Hafsa. I would like to talk to the principal about my son."},
+            {"speaker":"Mr. Brown","text":"Of course. The principal has time on Wednesday at 3:30 or on Friday at 9:00."},
+            {"speaker":"Hafsa","text":"Friday morning is better for me. I work in the afternoon."},
+            {"speaker":"Mr. Brown","text":"Okay, Friday at 9:00. Please bring your son's school card."},
+            {"speaker":"Hafsa","text":"Thank you. Do I need to bring anything else?"},
+            {"speaker":"Mr. Brown","text":"No, that's all. See you on Friday."}
+          ],
+          "questions": [
+            {"type":"mcq","q":"When is the appointment?","options":["Wednesday at 3:30","Friday at 9:00","Friday at 3:30","Wednesday at 9:00"],"answer":1,"whyTr":"Hafsa Friday at 9:00'ı seçiyor.","tag":"listening","level":"A2"},
+            {"type":"mcq","q":"Why does Hafsa choose Friday morning?","options":["She works in the afternoon.","Her son is sick.","She is busy in the morning.","The school is closed on Wednesday."],"answer":0,"whyTr":"Hafsa 'I work in the afternoon' diyor.","tag":"listening","level":"A2"},
+            {"type":"mcq","q":"What should Hafsa bring?","options":["Her ID card","A form from the library","Her son's school card","Nothing"],"answer":2,"whyTr":"Mr. Brown 'bring your son's school card' diyor ve başka bir şey gerekmiyor.","tag":"listening","level":"A2"}
+          ]
+        },
+        {
+          "title": "A job interview",
+          "level": "B1",
+          "script": [
+            {"speaker":"Ms. Carter","text":"Thanks for coming in, Hafsa. Please have a seat. Tell me why you want to work as a classroom aide."},
+            {"speaker":"Hafsa","text":"I love working with children. I have a nine-year-old son, and I help at his school every week."},
+            {"speaker":"Ms. Carter","text":"That's great. Do you have any experience in a classroom?"},
+            {"speaker":"Hafsa","text":"Not in the United States. But in Turkey, I taught English to small groups for two years."},
+            {"speaker":"Ms. Carter","text":"Interesting. What would you say is your biggest strength?"},
+            {"speaker":"Hafsa","text":"I am patient, and I am always on time."},
+            {"speaker":"Ms. Carter","text":"Good. The job starts at 8:00 and finishes at 2:30. Would that be a problem?"},
+            {"speaker":"Hafsa","text":"No, it works well. My son finishes school at 3:00, so I can pick him up."},
+            {"speaker":"Ms. Carter","text":"Perfect. We will call you by the end of the week."}
+          ],
+          "questions": [
+            {"type":"mcq","q":"What classroom experience does Hafsa have?","options":["She worked as a librarian.","She taught English to small groups in Turkey.","She was a substitute teacher in Ohio.","She has no experience at all."],"answer":1,"whyTr":"Hafsa Türkiye'de iki yıl küçük gruplara İngilizce öğrettiğini söylüyor.","tag":"listening","level":"B1"},
+            {"type":"mcq","q":"What does Hafsa say is her biggest strength?","options":["She speaks three languages.","She works very fast.","She is good with computers.","She is patient and on time."],"answer":3,"whyTr":"Hafsa 'I am patient, and I am always on time' diyor.","tag":"listening","level":"B1"},
+            {"type":"mcq","q":"What will happen next?","options":["Hafsa will start work on Monday.","The school will call her by the end of the week.","Hafsa must take a test tomorrow.","Ms. Carter will visit her home."],"answer":1,"whyTr":"Ms. Carter 'We will call you by the end of the week' diyor.","tag":"listening","level":"B1"}
+          ]
+        },
+        {
+          "title": "A change of assignment",
+          "level": "B2",
+          "script": [
+            {"speaker":"Mr. Brown","text":"Hafsa, I'm afraid I have to change your assignment for tomorrow. Mrs. Davis is coming back from her trip earlier than expected, so she won't need a substitute in room 12."},
+            {"speaker":"Hafsa","text":"Oh, I see. I had already prepared some activities for her fourth graders."},
+            {"speaker":"Mr. Brown","text":"That was thoughtful, but don't worry. There's another opening. The art teacher is out with the flu, and the class is fifth grade. It's only a half day, though, ending at noon."},
+            {"speaker":"Hafsa","text":"Half a day is fine, but I'm not sure I'm qualified to teach art."},
+            {"speaker":"Mr. Brown","text":"You won't need to be. The teacher left simple lesson plans, mostly drawing and a short video. Your main job is keeping the students on task."},
+            {"speaker":"Hafsa","text":"In that case, I'll take it. Should I check in with the office when I arrive?"},
+            {"speaker":"Mr. Brown","text":"Yes, and please pick up the key to the art room before 7:45."}
+          ],
+          "questions": [
+            {"type":"mcq","q":"Why was Hafsa's original assignment canceled?","options":["The fourth graders went on a trip.","The class was moved to another room.","Mrs. Davis got sick.","The regular teacher returned earlier than planned."],"answer":3,"whyTr":"Mrs. Davis beklenenden erken dönüyor, bu yüzden yedek öğretmene gerek kalmıyor.","tag":"listening","level":"B2"},
+            {"type":"mcq","q":"What is Hafsa worried about regarding the new job?","options":["Whether she is qualified to teach art","Whether the job lasts all day","Whether the students are too young","Whether she can find the school"],"answer":0,"whyTr":"Hafsa 'I'm not sure I'm qualified to teach art' diyor.","tag":"listening","level":"B2"}
+          ]
+        }
+      ]
+    }
+  ],
+  "writing": {
+    "promptTr": "Bir okul müdürüne kısa bir e-posta yaz. Kendini tanıt, neden substitute teacher olmak istediğini ve hangi günler çalışabileceğini anlat. Hata yapmaktan korkma; amaç sadece yazma seviyeni görmek.",
+    "promptEn": "Write a short email to a school principal. Introduce yourself, explain why you want to work as a substitute teacher, and say which days you are available.",
+    "minWords": 40,
+    "checklistTr": [
+      "Selamlama ile başladım mı (Dear Principal ...)?",
+      "Kendimi tanıttım mı (adım, nereden geldiğim)?",
+      "Neden substitute teacher olmak istediğimi yazdım mı?",
+      "Hangi günler çalışabileceğimi belirttim mi?",
+      "Cümlelerim büyük harfle başlıyor ve nokta ile bitiyor mu?",
+      "Kapanış yaptım mı (Thank you, Sincerely ...)?"
+    ]
+  }
+}

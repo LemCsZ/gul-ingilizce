@@ -1,0 +1,919 @@
+{
+ "week": 13,
+ "day": 6,
+ "titleTr": "Hafta tekrarı: öğretmene olay raporu",
+ "theme": "incident-report",
+ "morning": {
+  "grammar": {
+   "topic": "Review: 3rd and mixed conditionals, wish, past modals",
+   "explainTr": [
+    "Bu hafta geçmişe dönük yapıları öğrendin: üçüncü koşul (If I had known, I would have helped), karışık koşul (If I had studied, I would be a teacher now), wish / if only ve geçmiş modallar.",
+    "Geçmiş modallar: must have (kesin çıkarım), might have (olasılık), can't have (imkânsız), should have (yapmalıydı), needn't have (gerekmiyordu). Hepsinde have + V3.",
+    "Olay raporu yazarken tarafsız ol; kimseyi suçlama. Kendi düşüncelerini 'I should have...' veya 'If I had..., ...' ile nazikçe ifade edebilirsin."
+   ],
+   "compareTr": "Türkçede 'yapsaydım, olurdu' ve 'yapmalıydım' ekle anlatılır. İngilizcede zaman farkı yapıyla gösterilir: had + V3, would have + V3, should have + V3.",
+   "table": [
+    [
+     "3. koşul",
+     "If + had + V3, would have + V3",
+     "If I had seen it, I would have helped."
+    ],
+    [
+     "Karışık koşul",
+     "If + had + V3, would + fiil",
+     "If I had studied, I would be a nurse."
+    ],
+    [
+     "Wish (geçmiş)",
+     "wish + had + V3",
+     "I wish I had asked."
+    ],
+    [
+     "Geçmiş modallar",
+     "must / might / can't / should / needn't have + V3",
+     "He must have forgotten."
+    ]
+   ],
+   "examples": [
+    {
+     "en": "If I had checked the floor, Amy wouldn't have slipped.",
+     "tr": "Zemini kontrol etmiş olsaydım Amy kaymazdı."
+    },
+    {
+     "en": "I should have asked for a mop immediately.",
+     "tr": "Hemen bir paspas istemeliydim."
+    },
+    {
+     "en": "Daniel needn't have been afraid.",
+     "tr": "Daniel'in korkmasına gerek yoktu."
+    }
+   ],
+   "exercises": [
+    {
+     "type": "mcq",
+     "q": "If the bell ___ earlier, the students would have been safe.",
+     "options": [
+      "had rung",
+      "rang",
+      "rings",
+      "would ring"
+     ],
+     "answer": 0,
+     "whyTr": "Üçüncü koşul: had rung.",
+     "tag": "modals",
+     "level": "B2"
+    },
+    {
+     "type": "mcq",
+     "q": "If I ___ the principal now, I would hire more nurses.",
+     "options": [
+      "had been",
+      "were",
+      "am",
+      "would be"
+     ],
+     "answer": 1,
+     "whyTr": "Şimdiki hayali durum: were.",
+     "tag": "modals",
+     "level": "B2"
+    },
+    {
+     "type": "mcq",
+     "q": "If I had listened to the advice, I ___ in this situation now.",
+     "options": [
+      "wouldn't have been",
+      "won't be",
+      "wouldn't be",
+      "hadn't been"
+     ],
+     "answer": 2,
+     "whyTr": "Karışık koşul: geçmiş neden, şimdiki sonuç.",
+     "tag": "modals",
+     "level": "B2"
+    },
+    {
+     "type": "order",
+     "promptTr": "Cümleyi sırala:",
+     "words": [
+      "had",
+      "written",
+      "report",
+      "earlier",
+      "I",
+      "the",
+      "I",
+      "wish"
+     ],
+     "answer": "I wish I had written the report earlier",
+     "whyTr": "Geçmiş pişmanlık: wish + had + V3.",
+     "tag": "modals",
+     "level": "B2"
+    },
+    {
+     "type": "mcq",
+     "q": "The window is broken and there is a ball in the room. A student ___ thrown it.",
+     "options": [
+      "must have",
+      "should have",
+      "needn't have",
+      "wouldn't have"
+     ],
+     "answer": 0,
+     "whyTr": "Güçlü çıkarım: must have thrown.",
+     "tag": "modals",
+     "level": "B2"
+    },
+    {
+     "type": "mcq",
+     "q": "The nurse wasn't there that day, so she ___ treated the boy.",
+     "options": [
+      "must have",
+      "can't have",
+      "should have",
+      "needn't have"
+     ],
+     "answer": 1,
+     "whyTr": "Orada değildi, imkânsız: can't have treated.",
+     "tag": "modals",
+     "level": "B2"
+    },
+    {
+     "type": "mcq",
+     "q": "You saw the wet floor but did nothing. You ___ told someone.",
+     "options": [
+      "needn't have",
+      "can't have",
+      "should have",
+      "might"
+     ],
+     "answer": 2,
+     "whyTr": "Yapmalıydın: should have told.",
+     "tag": "modals",
+     "level": "B2"
+    },
+    {
+     "type": "order",
+     "promptTr": "Cümleyi sırala:",
+     "words": [
+      "the",
+      "floor",
+      "might",
+      "He",
+      "have",
+      "wet",
+      "slipped",
+      "on"
+     ],
+     "answer": "He might have slipped on the wet floor",
+     "whyTr": "Olasılık: might have + V3.",
+     "tag": "modals",
+     "level": "B2"
+    },
+    {
+     "type": "mcq",
+     "q": "We brought a first-aid kit, but nobody got hurt. We ___ brought it.",
+     "options": [
+      "needn't have",
+      "mustn't have",
+      "can't have",
+      "should have"
+     ],
+     "answer": 0,
+     "whyTr": "Gereksiz çaba: needn't have brought.",
+     "tag": "modals",
+     "level": "B2"
+    },
+    {
+     "type": "mcq",
+     "q": "Which sentence is a wish about a repeated annoying habit?",
+     "options": [
+      "I wish the students stopped running.",
+      "I wish the students would stop running.",
+      "I wish the students had stopped running.",
+      "I wish the students are stopping."
+     ],
+     "answer": 1,
+     "whyTr": "Sinir bozucu alışkanlık: wish + would.",
+     "tag": "modals",
+     "level": "B2"
+    },
+    {
+     "type": "fill",
+     "q": "If she had called the office, help ___ have arrived sooner.",
+     "accept": [
+      "would"
+     ],
+     "hintTr": "olurdu",
+     "whyTr": "Üçüncü koşul: would have + V3.",
+     "tag": "modals",
+     "level": "B2"
+    },
+    {
+     "type": "fill",
+     "q": "He ___ have lost it. It's in his bag!",
+     "accept": [
+      "can't"
+     ],
+     "hintTr": "olamaz",
+     "whyTr": "İmkânsız geçmiş çıkarımı: can't have + V3.",
+     "tag": "modals",
+     "level": "B2"
+    }
+   ]
+  },
+  "vocab": [
+   {
+    "id": "summarize",
+    "en": "summarize",
+    "tr": "özetlemek",
+    "pos": "verb",
+    "example": "Please summarize the incident in two sentences.",
+    "exampleTr": "Lütfen olayı iki cümleyle özetle.",
+    "syn": [
+     "sum up"
+    ],
+    "ant": [],
+    "level": "B2"
+   },
+   {
+    "id": "accurate",
+    "en": "accurate",
+    "tr": "doğru, hatasız",
+    "pos": "adjective",
+    "example": "An incident report must be accurate.",
+    "exampleTr": "Olay raporu doğru olmalıdır.",
+    "syn": [
+     "correct"
+    ],
+    "ant": [
+     "inaccurate"
+    ],
+    "level": "B2"
+   },
+   {
+    "id": "occur",
+    "en": "occur",
+    "tr": "meydana gelmek",
+    "pos": "verb",
+    "example": "The accident occurred at noon.",
+    "exampleTr": "Kaza öğlen meydana geldi.",
+    "syn": [
+     "happen"
+    ],
+    "ant": [],
+    "level": "B2"
+   },
+   {
+    "id": "involve",
+    "en": "involve",
+    "tr": "içermek, karıştırmak",
+    "pos": "verb",
+    "example": "The incident involved two students.",
+    "exampleTr": "Olaya iki öğrenci karışmıştı.",
+    "syn": [],
+    "ant": [],
+    "level": "B2"
+   },
+   {
+    "id": "initially",
+    "en": "initially",
+    "tr": "başlangıçta",
+    "pos": "adverb",
+    "example": "Initially, nobody noticed the problem.",
+    "exampleTr": "Başlangıçta kimse sorunu fark etmedi.",
+    "syn": [
+     "at first"
+    ],
+    "ant": [],
+    "level": "B2"
+   },
+   {
+    "id": "subsequently",
+    "en": "subsequently",
+    "tr": "daha sonra",
+    "pos": "adverb",
+    "example": "Subsequently, the nurse called the parents.",
+    "exampleTr": "Daha sonra hemşire aileleri aradı.",
+    "syn": [
+     "afterward"
+    ],
+    "ant": [],
+    "level": "B2"
+   },
+   {
+    "id": "furthermore",
+    "en": "furthermore",
+    "tr": "ayrıca, üstelik",
+    "pos": "adverb",
+    "example": "Furthermore, the floor was wet.",
+    "exampleTr": "Ayrıca zemin ıslaktı.",
+    "syn": [
+     "moreover"
+    ],
+    "ant": [],
+    "level": "B2"
+   },
+   {
+    "id": "document",
+    "en": "document",
+    "tr": "belgelemek; belge",
+    "pos": "verb",
+    "example": "Always document accidents in writing.",
+    "exampleTr": "Kazaları her zaman yazılı olarak belgele.",
+    "syn": [],
+    "ant": [],
+    "level": "B2"
+   },
+   {
+    "id": "confidential",
+    "en": "confidential",
+    "tr": "gizli",
+    "pos": "adjective",
+    "example": "Student records are confidential.",
+    "exampleTr": "Öğrenci kayıtları gizlidir.",
+    "syn": [
+     "private"
+    ],
+    "ant": [
+     "public"
+    ],
+    "level": "B2"
+   },
+   {
+    "id": "resolve",
+    "en": "resolve",
+    "tr": "çözmek",
+    "pos": "verb",
+    "example": "We resolved the problem quickly.",
+    "exampleTr": "Sorunu hızlıca çözdük.",
+    "syn": [
+     "solve"
+    ],
+    "ant": [],
+    "level": "B2"
+   },
+   {
+    "id": "sequence",
+    "en": "sequence",
+    "tr": "sıra, olayların sırası",
+    "pos": "noun",
+    "example": "Describe the sequence of events.",
+    "exampleTr": "Olayların sırasını anlat.",
+    "syn": [
+     "order"
+    ],
+    "ant": [],
+    "level": "B2"
+   },
+   {
+    "id": "factual",
+    "en": "factual",
+    "tr": "gerçeklere dayalı",
+    "pos": "adjective",
+    "example": "A report should be factual, not emotional.",
+    "exampleTr": "Rapor duygusal değil, gerçeklere dayalı olmalıdır.",
+    "syn": [],
+    "ant": [],
+    "level": "B2"
+   },
+   {
+    "id": "neutral",
+    "en": "neutral",
+    "tr": "tarafsız",
+    "pos": "adjective",
+    "example": "Use neutral language in your report.",
+    "exampleTr": "Raporunda tarafsız bir dil kullan.",
+    "syn": [
+     "impartial"
+    ],
+    "ant": [
+     "biased"
+    ],
+    "level": "B2"
+   },
+   {
+    "id": "thorough",
+    "en": "thorough",
+    "tr": "ayrıntılı, kapsamlı",
+    "pos": "adjective",
+    "example": "She wrote a thorough report.",
+    "exampleTr": "Kapsamlı bir rapor yazdı.",
+    "syn": [
+     "detailed"
+    ],
+    "ant": [],
+    "level": "B2"
+   },
+   {
+    "id": "clarify",
+    "en": "clarify",
+    "tr": "açıklığa kavuşturmak",
+    "pos": "verb",
+    "example": "Could you clarify what happened?",
+    "exampleTr": "Ne olduğunu açıklar mısın?",
+    "syn": [
+     "explain"
+    ],
+    "ant": [],
+    "level": "B2"
+   }
+  ],
+  "reading": {
+   "title": "Hafsa's first incident report",
+   "text": "On Tuesday evening, Hafsa sat at her laptop and prepared to write her first official incident report. She had a clear goal: to summarize what happened in the cafeteria that day in an accurate and appropriate way. She knew that the principal and the parents would read it, so every word mattered.\n\nShe started with the facts. The incident occurred at 12:15 during lunch. A fifth-grade student named Daniel dropped his tray, and food fell on the floor. Initially, nobody noticed. A few seconds later, another student, Amy, stepped on a piece of fruit and slipped. She hit her knee on a bench. Furthermore, two other students tripped over the tray while trying to help her.\n\nNext, Hafsa described how the adults responded. \"I immediately asked the students to move back. Mr. Brown called the nurse, and a custodian cleaned the floor. Subsequently, the nurse checked Amy's knee and called her mother.\" Hafsa also wrote that there was no serious injury, only a small bruise.\n\nThen she wrote about her thoughts. \"If the floor had been cleaned immediately, Amy wouldn't have slipped. I should have asked for a mop right away. Daniel needn't have been afraid; he didn't do it on purpose. I wish the cafeteria had more staff during lunch.\"\n\nShe paused. A report should not blame anyone, she remembered. So she deleted one sentence that sounded too harsh and replaced it with a calmer one. She also marked the document \"confidential,\" because it included names.\n\nAt the end, Hafsa listed her concerns and suggestions: more supervision, a quick cleaning procedure, and clearer rules about carrying trays. She wrote, \"I believe these changes can prevent similar accidents.\"\n\nWhen she finished, she read the report twice and corrected two small mistakes. Then she sent it to Mr. Brown with a polite message: \"Please find my report attached. Let me know if you need more details.\" A few minutes later, he replied: \"Excellent work, Hafsa. Clear, accurate, and professional.\" She smiled. A year ago she could not have written this in English.",
+   "glossary": [
+    {
+     "en": "tray",
+     "tr": "yemek tepsisi"
+    },
+    {
+     "en": "custodian",
+     "tr": "temizlik görevlisi"
+    },
+    {
+     "en": "bench",
+     "tr": "bank"
+    },
+    {
+     "en": "on purpose",
+     "tr": "bilerek"
+    },
+    {
+     "en": "attached",
+     "tr": "ekte"
+    }
+   ],
+   "questions": [
+    {
+     "type": "mcq",
+     "q": "What was Hafsa's goal when writing the report?",
+     "options": [
+      "To blame the student",
+      "To ask for a day off",
+      "To describe the incident accurately and appropriately",
+      "To change the lunch menu"
+     ],
+     "answer": 2,
+     "whyTr": "Metin: summarize ... in an accurate and appropriate way.",
+     "tag": "reading",
+     "level": "B2"
+    },
+    {
+     "type": "mcq",
+     "q": "How did Amy get hurt?",
+     "options": [
+      "She fell off a chair.",
+      "She ran into Daniel.",
+      "She dropped a tray.",
+      "She slipped on food and hit her knee."
+     ],
+     "answer": 3,
+     "whyTr": "Metin: Amy stepped on fruit, slipped, hit her knee.",
+     "tag": "reading",
+     "level": "B2"
+    },
+    {
+     "type": "mcq",
+     "q": "Why did Hafsa delete one sentence?",
+     "options": [
+      "It sounded too harsh.",
+      "It was too long.",
+      "It had a spelling error.",
+      "It was not true."
+     ],
+     "answer": 0,
+     "whyTr": "Metin: too harsh; replaced with a calmer one.",
+     "tag": "reading",
+     "level": "B2"
+    },
+    {
+     "type": "mcq",
+     "q": "What did Mr. Brown say about the report?",
+     "options": [
+      "It was too short.",
+      "It was clear, accurate, and professional.",
+      "It needed more names.",
+      "It was late."
+     ],
+     "answer": 1,
+     "whyTr": "Mr. Brown: Clear, accurate, and professional.",
+     "tag": "reading",
+     "level": "B2"
+    }
+   ]
+  }
+ },
+ "evening": {
+  "listening": {
+   "title": "Reviewing the report",
+   "script": [
+    {
+     "speaker": "Mr. Brown",
+     "text": "Hafsa, I'm reviewing your incident report. May I ask a few questions?"
+    },
+    {
+     "speaker": "Hafsa",
+     "text": "Of course. Is something unclear?"
+    },
+    {
+     "speaker": "Mr. Brown",
+     "text": "Not at all. The summary is very good. I only need one detail: what time exactly did the accident occur?"
+    },
+    {
+     "speaker": "Hafsa",
+     "text": "At twelve fifteen. I looked at the clock right after it happened."
+    },
+    {
+     "speaker": "Mr. Brown",
+     "text": "Good. And who else was involved besides Amy?"
+    },
+    {
+     "speaker": "Hafsa",
+     "text": "Two students tripped over the tray. They weren't hurt, but I listed their names in the report."
+    },
+    {
+     "speaker": "Mr. Brown",
+     "text": "That's fine, but please remember that the document is confidential. Don't share it with other parents."
+    },
+    {
+     "speaker": "Hafsa",
+     "text": "I understand. Should I call Amy's mother again? She was a little worried."
+    },
+    {
+     "speaker": "Mr. Brown",
+     "text": "Yes, that would be appropriate. Our procedure says to follow up within twenty-four hours."
+    },
+    {
+     "speaker": "Hafsa",
+     "text": "I'll do that tomorrow morning. Is there anything urgent I should fix in the report?"
+    },
+    {
+     "speaker": "Mr. Brown",
+     "text": "Just one small thing. You wrote 'I should of asked for a mop.' It should be 'should have'."
+    },
+    {
+     "speaker": "Hafsa",
+     "text": "Oh, thank you! I see my mistake. I'll correct it right away."
+    }
+   ],
+   "questions": [
+    {
+     "type": "mcq",
+     "q": "What detail does Mr. Brown need?",
+     "options": [
+      "The name of the nurse",
+      "The color of the tray",
+      "The exact time of the accident",
+      "The weather"
+     ],
+     "answer": 2,
+     "whyTr": "Mr. Brown: what time exactly did it occur?",
+     "tag": "listening",
+     "level": "B2"
+    },
+    {
+     "type": "mcq",
+     "q": "Why must the document be treated carefully?",
+     "options": [
+      "It is too long.",
+      "It is not finished.",
+      "It is handwritten.",
+      "It is confidential."
+     ],
+     "answer": 3,
+     "whyTr": "Mr. Brown: the document is confidential.",
+     "tag": "listening",
+     "level": "B2"
+    },
+    {
+     "type": "mcq",
+     "q": "What does Mr. Brown say about the procedure?",
+     "options": [
+      "Follow up with the parent within twenty-four hours.",
+      "Never call parents.",
+      "Write a new report every day.",
+      "Wait one week."
+     ],
+     "answer": 0,
+     "whyTr": "Mr. Brown: follow up within twenty-four hours.",
+     "tag": "listening",
+     "level": "B2"
+    },
+    {
+     "type": "mcq",
+     "q": "What mistake did Hafsa make in the report?",
+     "options": [
+      "She forgot the date.",
+      "She wrote 'should of' instead of 'should have'.",
+      "She wrote the wrong name.",
+      "She used the wrong form."
+     ],
+     "answer": 1,
+     "whyTr": "Mr. Brown: It should be 'should have'.",
+     "tag": "listening",
+     "level": "B2"
+    }
+   ]
+  },
+  "writing": {
+   "promptTr": "Sınıfta olan bir olayı anlatan resmi bir rapor/e-posta yaz (Mr. Brown'a veya öğretmene). Olayı sırayla anlat; hafta boyunca öğrendiğin yapıları (üçüncü koşul, karışık koşul, wish, must/might/can't have, should/needn't have) kullan. 120-180 kelime.",
+   "promptEn": "Write a formal incident report to Mr. Brown about an event in a classroom. Use this week's grammar: third and mixed conditionals, wish, past modals (120-180 words).",
+   "frames": [
+    "Dear Mr. Brown, I am writing to report an incident that occurred ...",
+    "Initially, ... Subsequently, ... Furthermore, ...",
+    "If ... had ..., ... would have ...",
+    "I should have ... / I wish ... had ..."
+   ],
+   "model": "Dear Mr. Brown, I am writing to report an incident that occurred in my classroom on Tuesday at 10:30. Initially, the students were working quietly. Then a boy named Jacob dropped a bottle of water, and the floor became wet. A girl, Maya, slipped and hurt her elbow. Subsequently, I sent a student to the nurse, and the nurse responded within five minutes. Fortunately, Maya only has a small bruise. If I had checked the floor earlier, I would have seen the water. I should have asked for a mop immediately. Jacob needn't have been so afraid, because it was an accident. I wish the room had more paper towels. Furthermore, I suggest a clear procedure for spills. I believe it can prevent similar accidents. This report is confidential. Please contact me if you need more information. Sincerely, Hafsa Odabasi",
+   "checklistTr": [
+    "Resmi selam ve kapanış var mı?",
+    "Olayı sırayla (initially, subsequently, furthermore) anlattın mı?",
+    "En az üç farklı hafta konusu yapısı kullandın mı?",
+    "Kimseyi suçlamayan, nesnel bir dil kullandın mı?"
+   ],
+   "minWords": 120
+  },
+  "examSet": [
+   {
+    "type": "mcq",
+    "q": "If the teacher ___ the rule, the students would have followed it.",
+    "options": [
+     "explained",
+     "explains",
+     "had explained",
+     "would explain"
+    ],
+    "answer": 2,
+    "whyTr": "Üçüncü koşul: had explained.",
+    "tag": "modals",
+    "level": "B2"
+   },
+   {
+    "type": "mcq",
+    "q": "If I had a car, I ___ you home last night.",
+    "options": [
+     "would drive",
+     "will drive",
+     "had driven",
+     "would have driven"
+    ],
+    "answer": 3,
+    "whyTr": "Şimdiki durum, geçmiş sonuç: would have driven.",
+    "tag": "modals",
+    "level": "B2"
+   },
+   {
+    "type": "mcq",
+    "q": "If she had studied nursing, she ___ in a hospital now.",
+    "options": [
+     "would be working",
+     "would have worked",
+     "will work",
+     "had worked"
+    ],
+    "answer": 0,
+    "whyTr": "Karışık koşul: would be working.",
+    "tag": "modals",
+    "level": "B2"
+   },
+   {
+    "type": "mcq",
+    "q": "I wish I ___ more time to prepare yesterday.",
+    "options": [
+     "had",
+     "had had",
+     "have had",
+     "would have"
+    ],
+    "answer": 1,
+    "whyTr": "Geçmiş pişmanlık: had had.",
+    "tag": "modals",
+    "level": "B2"
+   },
+   {
+    "type": "mcq",
+    "q": "My son leaves his shoes in the hall every day. I wish he ___ them away.",
+    "options": [
+     "had put",
+     "put",
+     "would put",
+     "puts"
+    ],
+    "answer": 2,
+    "whyTr": "Alışkanlık: wish + would.",
+    "tag": "modals",
+    "level": "B2"
+   },
+   {
+    "type": "mcq",
+    "q": "The cookies disappeared. It ___ been the cat; the door was closed.",
+    "options": [
+     "must have",
+     "should have",
+     "needn't have",
+     "can't have"
+    ],
+    "answer": 3,
+    "whyTr": "İmkânsız: can't have been.",
+    "tag": "modals",
+    "level": "B2"
+   },
+   {
+    "type": "mcq",
+    "q": "There was a hole in the fence. Someone ___ climbed through it.",
+    "options": [
+     "might have",
+     "needn't have",
+     "shouldn't",
+     "can't"
+    ],
+    "answer": 0,
+    "whyTr": "Olasılık: might have climbed.",
+    "tag": "modals",
+    "level": "B2"
+   },
+   {
+    "type": "mcq",
+    "q": "I forgot to lock the door. I ___ locked it.",
+    "options": [
+     "needn't have",
+     "should have",
+     "can't have",
+     "must have"
+    ],
+    "answer": 1,
+    "whyTr": "Yapmalıydım: should have locked.",
+    "tag": "modals",
+    "level": "B2"
+   },
+   {
+    "type": "mcq",
+    "q": "The room was already warm, so you ___ turned on the heater.",
+    "options": [
+     "should have",
+     "must have",
+     "needn't have",
+     "might have"
+    ],
+    "answer": 2,
+    "whyTr": "Gereksiz: needn't have turned on.",
+    "tag": "modals",
+    "level": "B2"
+   },
+   {
+    "type": "mcq",
+    "q": "Mr. Brown asked me ___ the report had been sent.",
+    "options": [
+     "that",
+     "what",
+     "if had",
+     "whether"
+    ],
+    "answer": 3,
+    "whyTr": "Dolaylı soru: whether the report had been sent.",
+    "tag": "word-order",
+    "level": "B2"
+   },
+   {
+    "type": "mcq",
+    "q": "The report ___ by the principal before Friday.",
+    "options": [
+     "will be read",
+     "reads",
+     "will reading",
+     "is read"
+    ],
+    "answer": 0,
+    "whyTr": "Edilgen gelecek: will be read.",
+    "tag": "future",
+    "level": "B2"
+   },
+   {
+    "type": "mcq",
+    "q": "The accident ___ at noon, when most students were in the cafeteria.",
+    "options": [
+     "involved",
+     "occurred",
+     "summarized",
+     "documented"
+    ],
+    "answer": 1,
+    "whyTr": "Meydana geldi: occurred.",
+    "tag": "vocab",
+    "level": "B2"
+   },
+   {
+    "type": "mcq",
+    "q": "A good report must be ___ and include only the facts.",
+    "options": [
+     "urgent",
+     "confidential",
+     "accurate",
+     "selfish"
+    ],
+    "answer": 2,
+    "whyTr": "Doğru: accurate.",
+    "tag": "vocab",
+    "level": "B2"
+   },
+   {
+    "type": "mcq",
+    "q": "Could you ___ what you mean? I don't understand.",
+    "options": [
+     "resolve",
+     "document",
+     "occur",
+     "clarify"
+    ],
+    "answer": 3,
+    "whyTr": "Açıklığa kavuşturmak: clarify.",
+    "tag": "vocab",
+    "level": "B2"
+   },
+   {
+    "type": "mcq",
+    "q": "Which word is closest in meaning to \"occur\"?",
+    "options": [
+     "happen",
+     "resolve",
+     "document",
+     "involve"
+    ],
+    "answer": 0,
+    "whyTr": "Occur = happen.",
+    "tag": "synonym",
+    "level": "B2"
+   },
+   {
+    "type": "mcq",
+    "q": "Which word is closest in meaning to \"furthermore\"?",
+    "options": [
+     "initially",
+     "moreover",
+     "therefore",
+     "however"
+    ],
+    "answer": 1,
+    "whyTr": "Furthermore = moreover.",
+    "tag": "synonym",
+    "level": "B2"
+   },
+   {
+    "type": "mcq",
+    "q": "What is the opposite of \"accurate\"?",
+    "options": [
+     "urgent",
+     "private",
+     "inaccurate",
+     "suitable"
+    ],
+    "answer": 2,
+    "whyTr": "Accurate'in zıttı inaccurate.",
+    "tag": "antonym",
+    "level": "B2"
+   },
+   {
+    "type": "mcq",
+    "q": "What is the opposite of \"confidential\"?",
+    "options": [
+     "urgent",
+     "accurate",
+     "appropriate",
+     "public"
+    ],
+    "answer": 3,
+    "whyTr": "Confidential'in zıttı public.",
+    "tag": "antonym",
+    "level": "B2"
+   },
+   {
+    "type": "mcq",
+    "q": "Hafsa wrote a report about a spill in the hallway. She named the students involved and marked the report \"confidential.\" She sent it only to Mr. Brown.\n\nWhy did she mark it confidential?",
+    "options": [
+     "It included student names.",
+     "It was very long.",
+     "It was an advertisement.",
+     "It was a joke."
+    ],
+    "answer": 0,
+    "whyTr": "Metin: named the students involved.",
+    "tag": "reading",
+    "level": "B2"
+   },
+   {
+    "type": "mcq",
+    "q": "Yesterday, Ms. Carter's class went on a short field trip. A student forgot his lunch, and Hafsa shared hers. \"I needn't have packed so much,\" she laughed, \"but I'm glad I did.\"\n\nWhat does Hafsa mean?",
+    "options": [
+     "She forgot her lunch.",
+     "She had more food than she needed, but it helped.",
+     "She disliked the trip.",
+     "She lost the student."
+    ],
+    "answer": 1,
+    "whyTr": "Needn't have = gereksizdi ama işe yaradı.",
+    "tag": "reading",
+    "level": "B2"
+   }
+  ]
+ }
+}

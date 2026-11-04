@@ -1,0 +1,770 @@
+{
+ "week": 11,
+ "day": 5,
+ "titleTr": "B1 tekrar: zamanlar ve substitute başvurusu",
+ "theme": "work-school",
+ "morning": {
+  "grammar": {
+   "topic": "B1 review: mixed tenses",
+   "explainTr": [
+    "Doğru zamanı seçmenin sırrı ipucu kelimelerde: 'last week, in 2019, yesterday' → past simple. 'since, for, yet, already, ever' → present perfect. 'while, when ... was doing' → past continuous. 'tomorrow, next week, I'm going to' → future.",
+    "Past simple biten bir olayı, present perfect hâlâ süren ya da şimdiyle bağlantılı bir olayı anlatır: I lived in Isparta (artık orada değilim). I have lived in the U.S. since 2019 (hâlâ buradayım).",
+    "Past continuous bir eylemin sürdüğü sırada başka bir şeyin olduğunu gösterir: I was filling out the form when the phone rang. Başvuru yazılarında bu üç zamanı birlikte kullanırsın."
+   ],
+   "compareTr": "Türkçede 'yaşadım / yaşıyorum / yaşamışım' gibi tek bir fiilin ekleri zamanı gösterir. İngilizcede yardımcı fiil seçersin: lived, have lived, was living, will live. Türkçede 'beri' ve 'için' için tek kalıp var; İngilizcede since (başlangıç), for (süre) ayrımı yapılır.",
+   "table": [
+    [
+     "Past simple",
+     "V2 / did",
+     "I applied last week."
+    ],
+    [
+     "Present perfect",
+     "have / has + V3",
+     "I have worked here since May."
+    ],
+    [
+     "Past continuous",
+     "was / were + V-ing",
+     "I was waiting when he called."
+    ],
+    [
+     "Future",
+     "will / am going to",
+     "I will finish in December."
+    ]
+   ],
+   "examples": [
+    {
+     "en": "I moved to the U.S. in 2019.",
+     "tr": "2019'da ABD'ye taşındım."
+    },
+    {
+     "en": "I have lived here since 2019.",
+     "tr": "2019'dan beri burada yaşıyorum."
+    },
+    {
+     "en": "I was filling out the form when the phone rang.",
+     "tr": "Form doldururken telefon çaldı."
+    },
+    {
+     "en": "I am going to arrive early.",
+     "tr": "Erken varacağım."
+    },
+    {
+     "en": "I haven't finished the form yet.",
+     "tr": "Formu henüz bitirmedim."
+    }
+   ],
+   "exercises": [
+    {
+     "type": "mcq",
+     "q": "Hafsa ___ in Isparta until she moved to the U.S.",
+     "options": [
+      "lived",
+      "has lived",
+      "lives"
+     ],
+     "answer": 0,
+     "whyTr": "Bitmiş bir dönem: past simple (lived).",
+     "tag": "past-simple",
+     "level": "B1"
+    },
+    {
+     "type": "mcq",
+     "q": "She ___ in the U.S. since 2019.",
+     "options": [
+      "lived",
+      "has lived",
+      "is living"
+     ],
+     "answer": 1,
+     "whyTr": "'Since' ile present perfect kullanılır.",
+     "tag": "present-perfect",
+     "level": "B1"
+    },
+    {
+     "type": "mcq",
+     "q": "At nine yesterday morning, I ___ the application form.",
+     "options": [
+      "filled out",
+      "have filled out",
+      "was filling out"
+     ],
+     "answer": 2,
+     "whyTr": "Geçmişte belli bir anda süren iş: past continuous.",
+     "tag": "past-simple",
+     "level": "B1"
+    },
+    {
+     "type": "mcq",
+     "q": "Next week Hafsa ___ an interview at the district office.",
+     "options": [
+      "will have",
+      "had",
+      "has had"
+     ],
+     "answer": 0,
+     "whyTr": "Gelecek hafta için future: will have.",
+     "tag": "future",
+     "level": "B1"
+    },
+    {
+     "type": "mcq",
+     "q": "How long ___ you been studying English?",
+     "options": [
+      "did",
+      "have",
+      "are"
+     ],
+     "answer": 1,
+     "whyTr": "Present perfect continuous: have you been studying.",
+     "tag": "present-perfect",
+     "level": "B1"
+    },
+    {
+     "type": "mcq",
+     "q": "I ___ my resume when the phone rang.",
+     "options": [
+      "updated",
+      "have updated",
+      "was updating"
+     ],
+     "answer": 2,
+     "whyTr": "Telefon çalarken süren eylem: was updating.",
+     "tag": "past-simple",
+     "level": "B1"
+    },
+    {
+     "type": "order",
+     "promptTr": "Cümleyi sırala:",
+     "words": [
+      "never",
+      "I",
+      "worked",
+      "have",
+      "in",
+      "a",
+      "school"
+     ],
+     "answer": "I have never worked in a school",
+     "whyTr": "Present perfect: have + never + V3.",
+     "tag": "present-perfect",
+     "level": "B1"
+    },
+    {
+     "type": "order",
+     "promptTr": "Cümleyi sırala:",
+     "words": [
+      "While",
+      "waiting,",
+      "I",
+      "I",
+      "was",
+      "filled",
+      "out",
+      "the",
+      "form"
+     ],
+     "answer": "While I was waiting, I filled out the form",
+     "whyTr": "Süren eylem (was waiting) + kısa eylem (filled out).",
+     "tag": "past-simple",
+     "level": "B1"
+    },
+    {
+     "type": "mcq",
+     "q": "When ___ you apply to the school?",
+     "options": [
+      "did",
+      "have",
+      "do"
+     ],
+     "answer": 0,
+     "whyTr": "Belli bir geçmiş zaman sorusu: When did you ...?",
+     "tag": "question-form",
+     "level": "B1"
+    },
+    {
+     "type": "mcq",
+     "q": "I ___ the form yet.",
+     "options": [
+      "don't finish",
+      "haven't finished",
+      "am not finishing"
+     ],
+     "answer": 1,
+     "whyTr": "'Yet' ile present perfect olumsuz: haven't finished.",
+     "tag": "present-perfect",
+     "level": "B1"
+    },
+    {
+     "type": "mcq",
+     "q": "___ I was nervous, I did well in the interview.",
+     "options": [
+      "Despite",
+      "Because of",
+      "Although"
+     ],
+     "answer": 2,
+     "whyTr": "Arkasında cümle var: Although.",
+     "tag": "linkers",
+     "level": "B1"
+    },
+    {
+     "type": "fill",
+     "q": "I have lived here ___ 2020.",
+     "accept": [
+      "since"
+     ],
+     "hintTr": "-den beri",
+     "whyTr": "Başlangıç noktası verildiğinde 'since' kullanılır.",
+     "tag": "present-perfect",
+     "level": "B1"
+    }
+   ]
+  },
+  "vocab": [
+   {
+    "id": "employment",
+    "en": "employment",
+    "tr": "istihdam, iş",
+    "pos": "noun",
+    "example": "She is looking for part-time employment.",
+    "exampleTr": "Yarı zamanlı iş arıyor.",
+    "syn": [
+     "work"
+    ],
+    "ant": [
+     "unemployment"
+    ],
+    "level": "B1"
+   },
+   {
+    "id": "vacancy",
+    "en": "vacancy",
+    "tr": "boş kadro",
+    "pos": "noun",
+    "example": "There is a vacancy at Lincoln Elementary.",
+    "exampleTr": "Lincoln İlkokulu'nda boş kadro var.",
+    "syn": [
+     "opening"
+    ],
+    "ant": [],
+    "level": "B1"
+   },
+   {
+    "id": "eligible",
+    "en": "eligible",
+    "tr": "uygun, hak sahibi",
+    "pos": "adjective",
+    "example": "You are eligible for the program.",
+    "exampleTr": "Programa katılmaya uygunsun.",
+    "syn": [],
+    "ant": [
+     "ineligible"
+    ],
+    "level": "B1"
+   },
+   {
+    "id": "wage",
+    "en": "wage",
+    "tr": "saat ücreti",
+    "pos": "noun",
+    "example": "The hourly wage is fifteen dollars.",
+    "exampleTr": "Saatlik ücret on beş dolar.",
+    "syn": [],
+    "ant": [],
+    "level": "B1"
+   },
+   {
+    "id": "paperwork",
+    "en": "paperwork",
+    "tr": "evrak işleri",
+    "pos": "noun",
+    "example": "I finished the paperwork on Friday.",
+    "exampleTr": "Evrak işlerini cuma günü bitirdim.",
+    "syn": [],
+    "ant": [],
+    "level": "B1"
+   },
+   {
+    "id": "recommendation",
+    "en": "recommendation",
+    "tr": "tavsiye mektubu",
+    "pos": "noun",
+    "example": "I asked Mr. Brown for a recommendation.",
+    "exampleTr": "Mr. Brown'dan tavsiye mektubu istedim.",
+    "syn": [],
+    "ant": [],
+    "level": "B1"
+   },
+   {
+    "id": "identification",
+    "en": "identification",
+    "tr": "kimlik belgesi",
+    "pos": "noun",
+    "example": "Bring identification to the interview.",
+    "exampleTr": "Mülakata kimlik belgesi getir.",
+    "syn": [
+     "ID"
+    ],
+    "ant": [],
+    "level": "B1"
+   },
+   {
+    "id": "clearance",
+    "en": "clearance",
+    "tr": "güvenlik izni",
+    "pos": "noun",
+    "example": "You need clearance before you work with children.",
+    "exampleTr": "Çocuklarla çalışmadan önce güvenlik izni gerekir.",
+    "syn": [],
+    "ant": [],
+    "level": "B1"
+   },
+   {
+    "id": "proof",
+    "en": "proof",
+    "tr": "kanıt, belge",
+    "pos": "noun",
+    "example": "Bring proof of address.",
+    "exampleTr": "Adres belgesi getir.",
+    "syn": [
+     "evidence"
+    ],
+    "ant": [],
+    "level": "B1"
+   },
+   {
+    "id": "portfolio",
+    "en": "portfolio",
+    "tr": "dosya, çalışma örnekleri",
+    "pos": "noun",
+    "example": "She showed her portfolio of lesson plans.",
+    "exampleTr": "Ders planı dosyasını gösterdi.",
+    "syn": [],
+    "ant": [],
+    "level": "B1"
+   },
+   {
+    "id": "timesheet",
+    "en": "timesheet",
+    "tr": "çalışma saati çizelgesi",
+    "pos": "noun",
+    "example": "Please sign your timesheet every Friday.",
+    "exampleTr": "Lütfen çalışma çizelgeni her cuma imzala.",
+    "syn": [],
+    "ant": [],
+    "level": "B1"
+   },
+   {
+    "id": "license",
+    "en": "license",
+    "tr": "ruhsat, lisans",
+    "pos": "noun",
+    "example": "Teachers need a state license.",
+    "exampleTr": "Öğretmenlerin eyalet lisansı olmalı.",
+    "syn": [],
+    "ant": [],
+    "level": "B1"
+   },
+   {
+    "id": "screening",
+    "en": "screening",
+    "tr": "ön eleme, tarama",
+    "pos": "noun",
+    "example": "The district does a screening before hiring.",
+    "exampleTr": "Bölge işe almadan önce ön eleme yapıyor.",
+    "syn": [],
+    "ant": [],
+    "level": "B1"
+   },
+   {
+    "id": "permit",
+    "en": "permit",
+    "tr": "izin belgesi",
+    "pos": "noun",
+    "example": "You need a work permit to start.",
+    "exampleTr": "Başlamak için çalışma izni gerekir.",
+    "syn": [],
+    "ant": [],
+    "level": "B1"
+   },
+   {
+    "id": "enrollment",
+    "en": "enrollment",
+    "tr": "kayıt",
+    "pos": "noun",
+    "example": "Enrollment opens in August.",
+    "exampleTr": "Kayıt ağustosta açılıyor.",
+    "syn": [],
+    "ant": [],
+    "level": "B1"
+   }
+  ],
+  "reading": {
+   "title": "Hafsa's application",
+   "text": "Hafsa has wanted to be a substitute teacher for a long time. Last month, she found the school district website and started her application. First, she created an account. While she was filling out the form, Emre helped her with some difficult words. She uploaded her resume and described her experience. In Turkey, she helped at her neighborhood school, and she has been reading with children at the library since March. She also attached a reference from Mr. Brown.\n\nThe form asked about qualifications. The district requires a high school diploma and a substitute certificate. Hafsa has her diploma, and she is taking an online class for the certificate. She will finish the class in December.\n\nLast week, an email arrived. \"We have received your application,\" it said. \"Please come for your fingerprints and a background check on Monday.\" Hafsa was excited, but she was also nervous. She has never done a background check before. On Monday she is going to take her passport and two forms to the district office. \"I am going to arrive early,\" she told Linda. \"Maybe I will get a job offer by spring!\"\n\nHer application is not perfect, but she did her best. She knows that being available, patient, and ready to learn is important, and she believes the next step will be easier than the first one.",
+   "glossary": [
+    {
+     "en": "district",
+     "tr": "okul bölgesi"
+    },
+    {
+     "en": "upload",
+     "tr": "yüklemek"
+    },
+    {
+     "en": "diploma",
+     "tr": "diploma"
+    },
+    {
+     "en": "job offer",
+     "tr": "iş teklifi"
+    }
+   ],
+   "questions": [
+    {
+     "type": "mcq",
+     "q": "Who helped Hafsa with the difficult words?",
+     "options": [
+      "Emre",
+      "Linda",
+      "Mr. Brown"
+     ],
+     "answer": 0,
+     "whyTr": "Metin: 'Emre helped her with some difficult words'.",
+     "tag": "reading",
+     "level": "B1"
+    },
+    {
+     "type": "mcq",
+     "q": "How long has Hafsa been reading with children at the library?",
+     "options": [
+      "For ten years",
+      "Since March",
+      "Since last week"
+     ],
+     "answer": 1,
+     "whyTr": "Metin: 'has been reading with children at the library since March'.",
+     "tag": "reading",
+     "level": "B1"
+    },
+    {
+     "type": "mcq",
+     "q": "What does the district require?",
+     "options": [
+      "A college degree only",
+      "A driver's license",
+      "Ten years of experience",
+      "A high school diploma and a substitute certificate"
+     ],
+     "answer": 3,
+     "whyTr": "Metin: 'requires a high school diploma and a substitute certificate'.",
+     "tag": "reading",
+     "level": "B1"
+    },
+    {
+     "type": "mcq",
+     "q": "What will Hafsa do on Monday?",
+     "options": [
+      "Give fingerprints and do a background check",
+      "Start teaching",
+      "Take an English test"
+     ],
+     "answer": 0,
+     "whyTr": "Metin: 'come for your fingerprints and a background check on Monday'.",
+     "tag": "reading",
+     "level": "B1"
+    }
+   ]
+  }
+ },
+ "evening": {
+  "listening": {
+   "title": "A call from the district office",
+   "script": [
+    {
+     "speaker": "Mr. Davis",
+     "text": "Hello, is this Hafsa? This is Mr. Davis from the district office."
+    },
+    {
+     "speaker": "Hafsa",
+     "text": "Yes, speaking. Good morning."
+    },
+    {
+     "speaker": "Mr. Davis",
+     "text": "I'm calling about your application. We received it last week."
+    },
+    {
+     "speaker": "Hafsa",
+     "text": "Thank you. I have been waiting for your call."
+    },
+    {
+     "speaker": "Mr. Davis",
+     "text": "Your resume is strong. How long have you been volunteering at the library?"
+    },
+    {
+     "speaker": "Hafsa",
+     "text": "Since March. I read with children twice a week."
+    },
+    {
+     "speaker": "Mr. Davis",
+     "text": "Wonderful. Are you available on weekdays?"
+    },
+    {
+     "speaker": "Hafsa",
+     "text": "Yes, I am. I can work every weekday."
+    },
+    {
+     "speaker": "Mr. Davis",
+     "text": "Great. Next, you need fingerprints and a background check. Can you come on Monday at ten?"
+    },
+    {
+     "speaker": "Hafsa",
+     "text": "Yes. I will bring my passport and the two forms."
+    },
+    {
+     "speaker": "Mr. Davis",
+     "text": "Perfect. After that, you will take a short online training."
+    },
+    {
+     "speaker": "Hafsa",
+     "text": "I'm looking forward to it. Thank you for calling."
+    }
+   ],
+   "questions": [
+    {
+     "type": "mcq",
+     "q": "Who is calling Hafsa?",
+     "options": [
+      "Mr. Brown",
+      "Mr. Davis from the district office",
+      "Ms. Carter",
+      "A parent"
+     ],
+     "answer": 1,
+     "whyTr": "Mr. Davis: 'This is Mr. Davis from the district office.'",
+     "tag": "listening",
+     "level": "B1"
+    },
+    {
+     "type": "mcq",
+     "q": "How long has Hafsa been volunteering at the library?",
+     "options": [
+      "For two weeks",
+      "Since January",
+      "Since March"
+     ],
+     "answer": 2,
+     "whyTr": "Hafsa: 'Since March.'",
+     "tag": "listening",
+     "level": "B1"
+    },
+    {
+     "type": "mcq",
+     "q": "What will happen on Monday at ten?",
+     "options": [
+      "Fingerprints and a background check",
+      "A job interview",
+      "The first day of work"
+     ],
+     "answer": 0,
+     "whyTr": "Mr. Davis: 'Can you come on Monday at ten?' (fingerprints and a background check)",
+     "tag": "listening",
+     "level": "B1"
+    },
+    {
+     "type": "mcq",
+     "q": "What will Hafsa bring?",
+     "options": [
+      "Her resume",
+      "Her passport and two forms",
+      "A reference letter"
+     ],
+     "answer": 1,
+     "whyTr": "Hafsa: 'I will bring my passport and the two forms.'",
+     "tag": "listening",
+     "level": "B1"
+    }
+   ]
+  },
+  "writing": {
+   "promptTr": "Vekil öğretmenlik başvurusu için kısa bir tanıtım paragrafı yaz: geçmişin, şimdiki durumun ve gelecek planın (100-120 kelime).",
+   "promptEn": "Write a short paragraph for a substitute teacher application: your past, your present and your plans (100-120 words).",
+   "frames": [
+    "I moved to ... in ...",
+    "I have been ... since ...",
+    "Last year I ...",
+    "I am available ...",
+    "In the future, I will ..."
+   ],
+   "model": "My name is Hafsa, and I am from Isparta, Turkey. I moved to the United States in 2019. Last year I started volunteering at the public library, and I have been reading with children there since March. I enjoy working with young students, and I am very patient. I am also taking an online class for my substitute certificate. I will finish it in December. I am available every weekday, and I can start immediately. While I was preparing this application, I learned a lot about American schools. In the future, I would like to become a reliable substitute teacher at Lincoln Elementary.",
+   "checklistTr": [
+    "Geçmiş (past simple), 'since/for' ile present perfect ve gelecek (will / going to) cümlelerinin hepsi var mı?",
+    "Zamanlar doğru seçildi mi (since + başlangıç, for + süre)?",
+    "Müsait olduğun günleri yazdın mı?",
+    "Cümleler büyük harfle başlıyor ve noktayla bitiyor mu?"
+   ],
+   "minWords": 80
+  },
+  "examSet": [
+   {
+    "type": "mcq",
+    "q": "Hafsa ___ to the district office last Monday.",
+    "options": [
+     "has gone",
+     "goes",
+     "went"
+    ],
+    "answer": 2,
+    "whyTr": "'Last Monday' belli geçmiş zaman: past simple.",
+    "tag": "past-simple",
+    "level": "B1"
+   },
+   {
+    "type": "mcq",
+    "q": "I ___ here for two years.",
+    "options": [
+     "have worked",
+     "worked",
+     "am working"
+    ],
+    "answer": 0,
+    "whyTr": "'For two years' (hâlâ sürüyor): present perfect.",
+    "tag": "present-perfect",
+    "level": "B1"
+   },
+   {
+    "type": "mcq",
+    "q": "When the principal called, I ___ lunch.",
+    "options": [
+     "ate",
+     "was eating",
+     "have eaten"
+    ],
+    "answer": 1,
+    "whyTr": "Telefon çalarken süren eylem: was eating.",
+    "tag": "past-simple",
+    "level": "B1"
+   },
+   {
+    "type": "mcq",
+    "q": "Mr. Davis isn't here today, ___?",
+    "options": [
+     "isn't he",
+     "does he",
+     "is he"
+    ],
+    "answer": 2,
+    "whyTr": "Olumsuz cümle → olumlu tag.",
+    "tag": "question-form",
+    "level": "B1"
+   },
+   {
+    "type": "mcq",
+    "q": "I ___ studied the instructions. Now I don't understand the form.",
+    "options": [
+     "should have",
+     "should",
+     "might"
+    ],
+    "answer": 0,
+    "whyTr": "Pişmanlık: should have + V3.",
+    "tag": "modals",
+    "level": "B1"
+   },
+   {
+    "type": "mcq",
+    "q": "The deadline was extended ___ the holiday.",
+    "options": [
+     "because",
+     "because of",
+     "therefore"
+    ],
+    "answer": 1,
+    "whyTr": "Isim önünde 'because of'.",
+    "tag": "linkers",
+    "level": "B1"
+   },
+   {
+    "type": "mcq",
+    "q": "To get a job, you must send an ___ and a resume.",
+    "options": [
+     "advice",
+     "experience",
+     "application"
+    ],
+    "answer": 2,
+    "whyTr": "Başvuru = application.",
+    "tag": "vocab",
+    "level": "B1"
+   },
+   {
+    "type": "mcq",
+    "q": "The district checks every ___'s background before hiring.",
+    "options": [
+     "candidate",
+     "certificate",
+     "license"
+    ],
+    "answer": 0,
+    "whyTr": "Aday = candidate.",
+    "tag": "vocab",
+    "level": "B1"
+   },
+   {
+    "type": "mcq",
+    "q": "Which word is closest in meaning to \"submit\"?",
+    "options": [
+     "throw away",
+     "hand in",
+     "take back"
+    ],
+    "answer": 1,
+    "whyTr": "Submit = hand in (teslim etmek).",
+    "tag": "synonym",
+    "level": "B1"
+   },
+   {
+    "type": "mcq",
+    "q": "What is the opposite of \"available\"?",
+    "options": [
+     "qualified",
+     "patient",
+     "unavailable"
+    ],
+    "answer": 2,
+    "whyTr": "Available'ın zıttı unavailable.",
+    "tag": "antonym",
+    "level": "B1"
+   },
+   {
+    "type": "mcq",
+    "q": "Ana has been a volunteer at a school since 2021. She helps with reading every Tuesday. She will apply for a substitute job next spring.\n\nWhat will Ana do next spring?",
+    "options": [
+     "Apply for a job",
+     "Start volunteering",
+     "Leave the school"
+    ],
+    "answer": 0,
+    "whyTr": "Metin: 'She will apply for a substitute job next spring'.",
+    "tag": "reading",
+    "level": "B1"
+   },
+   {
+    "type": "mcq",
+    "q": "Ben sent his application on Friday. Yesterday the district called him, and he has an interview next week. He is excited but nervous.\n\nWhen is Ben's interview?",
+    "options": [
+     "Yesterday",
+     "Next week",
+     "On Friday"
+    ],
+    "answer": 1,
+    "whyTr": "Metin: 'he has an interview next week'.",
+    "tag": "reading",
+    "level": "B1"
+   }
+  ]
+ }
+}

@@ -1,0 +1,800 @@
+{
+ "week": 9,
+ "day": 4,
+ "titleTr": "Neden öğretmen olmak istiyorsun? Amaç cümleleri",
+ "theme": "teaching-goals",
+ "morning": {
+  "grammar": {
+   "topic": "Purpose: to / in order to / so that",
+   "explainTr": [
+    "Bir şeyin amacını söylemek için 'to + fiil' kullanırsın: I study English to get a better job. Daha vurgulu söylemek için 'in order to + fiil' kullanılır; anlamı aynıdır. Olumsuzu: in order not to be late.",
+    "Amaçtan sonra yeni bir özne geliyorsa 'so that + özne + fiil' kullanırsın: I speak slowly so that the children can understand me. Genelde so that'ten sonra can, will ya da don't gelir.",
+    "Dikkat: 'for' + fiil kullanılmaz (for ask değil). 'For' yalnız isimle gelir: I went to the store for milk."
+   ],
+   "compareTr": "Türkçede amaç '-mak için' ekiyle yapılır: 'öğrenmek için çalışıyorum'. İngilizcede 'to learn' yeterli. Türkler sık sık 'for learn' der; bu yanlış, 'to' ya da 'in order to' kullan.",
+   "table": [
+    [
+     "Amaç + fiil",
+     "to / in order to + fiil",
+     "I study to pass."
+    ],
+    [
+     "Olumsuz amaç",
+     "in order not to + fiil",
+     "in order not to be late"
+    ],
+    [
+     "Yeni özne",
+     "so that + özne + fiil",
+     "so that I can speak"
+    ],
+    [
+     "Amaç + isim",
+     "for + isim",
+     "for some milk"
+    ]
+   ],
+   "examples": [
+    {
+     "en": "I work hard in order to become a teacher.",
+     "tr": "Öğretmen olmak için çok çalışıyorum."
+    },
+    {
+     "en": "She calls early so that the office can help her.",
+     "tr": "Ofis ona yardım edebilsin diye erken arıyor."
+    },
+    {
+     "en": "I use English every day to improve it.",
+     "tr": "Geliştirmek için İngilizceyi her gün kullanıyorum."
+    },
+    {
+     "en": "He left early in order not to be late.",
+     "tr": "Geç kalmamak için erken çıktı."
+    }
+   ],
+   "exercises": [
+    {
+     "type": "mcq",
+     "q": "Hafsa goes to the school ___ ask about a job.",
+     "options": [
+      "to",
+      "for",
+      "so that",
+      "in order"
+     ],
+     "answer": 0,
+     "whyTr": "Amaç için 'to + fiil' kullanılır; 'for ask' yanlış.",
+     "tag": "linkers",
+     "level": "B1"
+    },
+    {
+     "type": "mcq",
+     "q": "I study every night ___ pass the test.",
+     "options": [
+      "for",
+      "in order to",
+      "so",
+      "in order"
+     ],
+     "answer": 1,
+     "whyTr": "Amaç: 'in order to + fiil' ('to' ile aynı anlam, biraz daha vurgulu).",
+     "tag": "linkers",
+     "level": "B1"
+    },
+    {
+     "type": "mcq",
+     "q": "She calls the office early ___ the secretary can prepare the form.",
+     "options": [
+      "to",
+      "in order to",
+      "so that",
+      "for"
+     ],
+     "answer": 2,
+     "whyTr": "İkinci cümlede yeni bir özne (the secretary) var; 'so that' kullanılır.",
+     "tag": "linkers",
+     "level": "B1"
+    },
+    {
+     "type": "mcq",
+     "q": "I went to the store ___ some milk.",
+     "options": [
+      "to",
+      "so that",
+      "in order",
+      "for"
+     ],
+     "answer": 3,
+     "whyTr": "Arkasında isim varsa 'for' gelir: for some milk.",
+     "tag": "linkers",
+     "level": "B1"
+    },
+    {
+     "type": "mcq",
+     "q": "Which sentence is correct?",
+     "options": [
+      "I learn English to get a better job.",
+      "I learn English for get a better job.",
+      "I learn English for to get a better job.",
+      "I learn English that get a better job."
+     ],
+     "answer": 0,
+     "whyTr": "Amaç için 'to + fiil'; 'for' + fiil yapılmaz.",
+     "tag": "linkers",
+     "level": "B1"
+    },
+    {
+     "type": "mcq",
+     "q": "I leave early ___ be late for the bus.",
+     "options": [
+      "in order don't",
+      "in order not to",
+      "for not",
+      "so not"
+     ],
+     "answer": 1,
+     "whyTr": "Olumsuz amaç: 'in order not to + fiil'.",
+     "tag": "linkers",
+     "level": "B1"
+    },
+    {
+     "type": "mcq",
+     "q": "She wants ___ a substitute teacher.",
+     "options": [
+      "being",
+      "be",
+      "to be",
+      "is"
+     ],
+     "answer": 2,
+     "whyTr": "Want + to + fiil (Gün 3 tekrarı).",
+     "tag": "word-order",
+     "level": "B1"
+    },
+    {
+     "type": "mcq",
+     "q": "This is the school ___ I want to work.",
+     "options": [
+      "whose",
+      "who",
+      "which",
+      "where"
+     ],
+     "answer": 3,
+     "whyTr": "Yer için 'where' (Gün 2 tekrarı).",
+     "tag": "pronouns",
+     "level": "B1"
+    },
+    {
+     "type": "order",
+     "promptTr": "Cümleyi sırala:",
+     "words": [
+      "hard",
+      "in",
+      "order",
+      "to",
+      "become",
+      "a",
+      "teacher",
+      "She",
+      "works"
+     ],
+     "answer": "She works hard in order to become a teacher",
+     "whyTr": "'In order to' + yalın fiil, amacı bildirir.",
+     "tag": "linkers",
+     "level": "B1"
+    },
+    {
+     "type": "order",
+     "promptTr": "Cümleyi sırala:",
+     "words": [
+      "a",
+      "list",
+      "so",
+      "that",
+      "I",
+      "don't",
+      "forget",
+      "anything",
+      "I",
+      "wrote"
+     ],
+     "answer": "I wrote a list so that I don't forget anything",
+     "whyTr": "'So that' + özne + fiil; amaç cümlesi.",
+     "tag": "linkers",
+     "level": "B1"
+    },
+    {
+     "type": "fill",
+     "q": "She studies English ___ get a better job.",
+     "accept": [
+      "to"
+     ],
+     "hintTr": "amaç için kısa kelime",
+     "whyTr": "Amaç için 'to + fiil' kullanılır.",
+     "tag": "linkers",
+     "level": "B1"
+    },
+    {
+     "type": "fill",
+     "q": "Please call early ___ that I can plan my day.",
+     "accept": [
+      "so"
+     ],
+     "hintTr": "so that",
+     "whyTr": "'So that' kalıbında ilk kelime 'so'.",
+     "tag": "linkers",
+     "level": "B1"
+    }
+   ]
+  },
+  "vocab": [
+   {
+    "id": "goal",
+    "en": "goal",
+    "tr": "hedef, amaç",
+    "pos": "noun",
+    "example": "My goal is to work in a school.",
+    "exampleTr": "Hedefim bir okulda çalışmak.",
+    "syn": [
+     "aim"
+    ],
+    "ant": [],
+    "level": "B1"
+   },
+   {
+    "id": "career",
+    "en": "career",
+    "tr": "kariyer, meslek hayatı",
+    "pos": "noun",
+    "example": "Teaching is a rewarding career.",
+    "exampleTr": "Öğretmenlik tatmin edici bir kariyerdir.",
+    "syn": [],
+    "ant": [],
+    "level": "B1"
+   },
+   {
+    "id": "degree",
+    "en": "degree",
+    "tr": "üniversite diploması",
+    "pos": "noun",
+    "example": "She has a degree in education.",
+    "exampleTr": "Eğitim alanında diploması var.",
+    "syn": [],
+    "ant": [],
+    "level": "B1"
+   },
+   {
+    "id": "certificate",
+    "en": "certificate",
+    "tr": "sertifika",
+    "pos": "noun",
+    "example": "You need a certificate to start.",
+    "exampleTr": "Başlamak için bir sertifikaya ihtiyacın var.",
+    "syn": [],
+    "ant": [],
+    "level": "B1"
+   },
+   {
+    "id": "experience",
+    "en": "experience",
+    "tr": "deneyim, tecrübe",
+    "pos": "noun",
+    "example": "He has five years of experience.",
+    "exampleTr": "Beş yıllık tecrübesi var.",
+    "syn": [],
+    "ant": [],
+    "level": "A2"
+   },
+   {
+    "id": "improve",
+    "en": "improve",
+    "tr": "geliştirmek, gelişmek",
+    "pos": "verb",
+    "example": "I read daily to improve my English.",
+    "exampleTr": "İngilizcemi geliştirmek için her gün okuyorum.",
+    "syn": [
+     "get better"
+    ],
+    "ant": [
+     "worsen"
+    ],
+    "level": "B1"
+   },
+   {
+    "id": "support",
+    "en": "support",
+    "tr": "desteklemek; destek",
+    "pos": "verb",
+    "example": "Parents support the school.",
+    "exampleTr": "Veliler okulu destekliyor.",
+    "syn": [
+     "help"
+    ],
+    "ant": [],
+    "level": "B1"
+   },
+   {
+    "id": "inspire",
+    "en": "inspire",
+    "tr": "ilham vermek",
+    "pos": "verb",
+    "example": "A good teacher can inspire students.",
+    "exampleTr": "İyi bir öğretmen öğrencilere ilham verebilir.",
+    "syn": [
+     "motivate"
+    ],
+    "ant": [],
+    "level": "B1"
+   },
+   {
+    "id": "encourage",
+    "en": "encourage",
+    "tr": "cesaretlendirmek",
+    "pos": "verb",
+    "example": "She encourages every child to try.",
+    "exampleTr": "Her çocuğu denemeye cesaretlendiriyor.",
+    "syn": [],
+    "ant": [
+     "discourage"
+    ],
+    "level": "B1"
+   },
+   {
+    "id": "patient",
+    "en": "patient",
+    "tr": "sabırlı",
+    "pos": "adjective",
+    "example": "A teacher must be patient.",
+    "exampleTr": "Bir öğretmen sabırlı olmalı.",
+    "syn": [],
+    "ant": [
+     "impatient"
+    ],
+    "level": "B1"
+   },
+   {
+    "id": "opportunity",
+    "en": "opportunity",
+    "tr": "fırsat",
+    "pos": "noun",
+    "example": "This job is a great opportunity.",
+    "exampleTr": "Bu iş harika bir fırsat.",
+    "syn": [
+     "chance"
+    ],
+    "ant": [],
+    "level": "B1"
+   },
+   {
+    "id": "reason",
+    "en": "reason",
+    "tr": "sebep, neden",
+    "pos": "noun",
+    "example": "What is your reason for applying?",
+    "exampleTr": "Başvurmanın sebebi nedir?",
+    "syn": [
+     "cause"
+    ],
+    "ant": [],
+    "level": "A2"
+   },
+   {
+    "id": "require",
+    "en": "require",
+    "tr": "gerektirmek, şart koşmak",
+    "pos": "verb",
+    "example": "The district requires a certificate.",
+    "exampleTr": "Bölge bir sertifika şart koşuyor.",
+    "syn": [
+     "need"
+    ],
+    "ant": [],
+    "level": "B1"
+   },
+   {
+    "id": "apply",
+    "en": "apply",
+    "tr": "başvurmak",
+    "pos": "verb",
+    "example": "I want to apply for a job at the school.",
+    "exampleTr": "Okulda bir işe başvurmak istiyorum.",
+    "syn": [],
+    "ant": [],
+    "level": "B1"
+   },
+   {
+    "id": "qualification",
+    "en": "qualification",
+    "tr": "yeterlilik, nitelik",
+    "pos": "noun",
+    "example": "A certificate is a useful qualification.",
+    "exampleTr": "Sertifika faydalı bir niteliktir.",
+    "syn": [],
+    "ant": [],
+    "level": "B1"
+   }
+  ],
+  "reading": {
+   "title": "Hafsa's reasons",
+   "text": "Last week, the principal asked Hafsa to write about her reasons for wanting to work in schools. She sat at her desk and thought for a long time. Then she began to write.\n\n\"First, I want to be a substitute teacher in order to help children learn. Every child needs someone who believes in them, and a small kindness can change a whole day. Second, I want this career to improve my English. I use English every day at school, so I learn new words quickly. Third, I need a flexible job so that I can spend time with my family. Substitute work gives me that freedom.\n\n\"I know the job is not easy. Teachers need a lot of patience to manage a noisy class, and they need good plans to keep students busy. I have started an online course to learn about classroom management. I also read children's books aloud every evening in order to practice my pronunciation.\"\n\nEmre read the letter and smiled. \"Mom, you should send it today,\" he said. \"Write your name at the bottom so that they know who sent it!\" Hafsa laughed, signed the letter, and printed it. Tomorrow she will take it to the office and give it to Mr. Brown.",
+   "glossary": [
+    {
+     "en": "flexible",
+     "tr": "esnek"
+    },
+    {
+     "en": "kindness",
+     "tr": "nezaket, iyilik"
+    },
+    {
+     "en": "classroom management",
+     "tr": "sınıf yönetimi"
+    },
+    {
+     "en": "pronunciation",
+     "tr": "telaffuz"
+    }
+   ],
+   "questions": [
+    {
+     "type": "mcq",
+     "q": "Why does Hafsa want to be a substitute teacher?",
+     "options": [
+      "To help children learn",
+      "To earn a lot of money",
+      "To avoid English",
+      "To meet Mr. Brown"
+     ],
+     "answer": 0,
+     "whyTr": "Metin: 'in order to help children learn'.",
+     "tag": "reading",
+     "level": "B1"
+    },
+    {
+     "type": "mcq",
+     "q": "Why does she want a flexible job?",
+     "options": [
+      "So that she can travel",
+      "So that she can spend time with her family",
+      "So that she can sleep late",
+      "So that she can study law"
+     ],
+     "answer": 1,
+     "whyTr": "Metin: 'so that I can spend time with my family'.",
+     "tag": "reading",
+     "level": "B1"
+    },
+    {
+     "type": "mcq",
+     "q": "What has Hafsa started in order to learn about classroom management?",
+     "options": [
+      "A night class at the school",
+      "A book club",
+      "An online course",
+      "A weekend trip"
+     ],
+     "answer": 2,
+     "whyTr": "Metin: 'I have started an online course'.",
+     "tag": "reading",
+     "level": "B1"
+    },
+    {
+     "type": "mcq",
+     "q": "Why does Emre tell her to write her name?",
+     "options": [
+      "So that the letter is longer",
+      "So that Mr. Brown laughs",
+      "So that she can print it",
+      "So that they know who sent the letter"
+     ],
+     "answer": 3,
+     "whyTr": "Metin: 'so that they know who sent it'.",
+     "tag": "reading",
+     "level": "B1"
+    }
+   ]
+  }
+ },
+ "evening": {
+  "listening": {
+   "title": "Why do you want to teach?",
+   "script": [
+    {
+     "speaker": "Linda",
+     "text": "Hafsa, tell me honestly. Why do you want to be a teacher?"
+    },
+    {
+     "speaker": "Hafsa",
+     "text": "I want to work with children in order to help them learn. It makes me happy."
+    },
+    {
+     "speaker": "Linda",
+     "text": "That's a beautiful reason. What are you doing to prepare?"
+    },
+    {
+     "speaker": "Hafsa",
+     "text": "I'm taking an online course to learn about classroom management."
+    },
+    {
+     "speaker": "Linda",
+     "text": "Is that enough to get hired?"
+    },
+    {
+     "speaker": "Hafsa",
+     "text": "Not yet. I also need a certificate so that the district can hire me."
+    },
+    {
+     "speaker": "Linda",
+     "text": "How do you pay for the classes?"
+    },
+    {
+     "speaker": "Hafsa",
+     "text": "I work part-time at a bakery to save money for them."
+    },
+    {
+     "speaker": "Linda",
+     "text": "You are so organized! Is the training center close to here?"
+    },
+    {
+     "speaker": "Hafsa",
+     "text": "No, it's a long way. I take two buses to get there."
+    },
+    {
+     "speaker": "Linda",
+     "text": "I will drive you on Saturday so that you don't have to take the buses."
+    },
+    {
+     "speaker": "Hafsa",
+     "text": "Thank you, Linda! I'll bring coffee for both of us."
+    }
+   ],
+   "questions": [
+    {
+     "type": "mcq",
+     "q": "Why is Hafsa taking an online course?",
+     "options": [
+      "To learn about classroom management",
+      "To learn to bake",
+      "To meet more neighbors",
+      "To get a driver's license"
+     ],
+     "answer": 0,
+     "whyTr": "Hafsa: 'to learn about classroom management'.",
+     "tag": "listening",
+     "level": "B1"
+    },
+    {
+     "type": "mcq",
+     "q": "Why does Hafsa need a certificate?",
+     "options": [
+      "So that she can drive",
+      "So that the district can hire her",
+      "So that she can buy a house",
+      "So that Linda can visit"
+     ],
+     "answer": 1,
+     "whyTr": "Hafsa: 'so that the district can hire me'.",
+     "tag": "listening",
+     "level": "B1"
+    },
+    {
+     "type": "mcq",
+     "q": "Why does Hafsa work part-time at a bakery?",
+     "options": [
+      "To learn English",
+      "To meet Linda",
+      "To save money for classes",
+      "To bring cookies to school"
+     ],
+     "answer": 2,
+     "whyTr": "Hafsa: 'to save money for them'.",
+     "tag": "listening",
+     "level": "B1"
+    },
+    {
+     "type": "mcq",
+     "q": "Why will Linda drive Hafsa on Saturday?",
+     "options": [
+      "So that they can buy coffee",
+      "So that Hafsa can visit Emre",
+      "So that Linda can see the school",
+      "So that Hafsa doesn't have to take two buses"
+     ],
+     "answer": 3,
+     "whyTr": "Linda: 'so that you don't have to take the buses'.",
+     "tag": "listening",
+     "level": "B1"
+    }
+   ]
+  },
+  "writing": {
+   "promptTr": "Neden vekil öğretmen olmak istediğini yaz. 'to', 'in order to' ve 'so that' kullan (80-120 kelime).",
+   "promptEn": "Write why you want to become a substitute teacher. Use to, in order to and so that. (80-120 words)",
+   "frames": [
+    "I want to become a teacher in order to ...",
+    "I study English every day to ...",
+    "I need a flexible job so that I can ...",
+    "I am taking a course to ..."
+   ],
+   "model": "I want to become a substitute teacher for several reasons. First, I want to work in a school in order to help children learn. Second, I study English every day to improve my reading and writing. I also practice with my neighbor Linda so that I can speak with more confidence. I need a flexible job so that I can take care of my home. Next month I will take an online course to get a certificate. In order to be ready, I am reading children's books every evening. I believe I can be a patient and kind teacher.",
+   "checklistTr": [
+    "'To' ve 'in order to'dan sonra yalın fiil var mı (to helps değil)?",
+    "'So that'ten sonra özne + fiil var mı (so that I can ...)?",
+    "'For' + fiil yazmadın, değil mi?",
+    "Cümleler büyük harfle başlıyor ve noktayla bitiyor mu?"
+   ],
+   "minWords": 80
+  },
+  "examSet": [
+   {
+    "type": "mcq",
+    "q": "Hafsa visits the school ___ meet the principal.",
+    "options": [
+     "to",
+     "for",
+     "so",
+     "that"
+    ],
+    "answer": 0,
+    "whyTr": "Amaç: to + fiil.",
+    "tag": "linkers",
+    "level": "B1"
+   },
+   {
+    "type": "mcq",
+    "q": "I study at night ___ I can pass the test.",
+    "options": [
+     "in order to",
+     "so that",
+     "for",
+     "to"
+    ],
+    "answer": 1,
+    "whyTr": "Arkasında özne (I) var; 'so that' kullanılır.",
+    "tag": "linkers",
+    "level": "B1"
+   },
+   {
+    "type": "mcq",
+    "q": "Which sentence is correct?",
+    "options": [
+     "I use my phone for learn English.",
+     "I use my phone for to learn English.",
+     "I use my phone to learn English.",
+     "I use my phone that learn English."
+    ],
+    "answer": 2,
+    "whyTr": "Amaç için 'to + fiil'.",
+    "tag": "linkers",
+    "level": "B1"
+   },
+   {
+    "type": "mcq",
+    "q": "My ___ is to become a full-time teacher.",
+    "options": [
+     "floor",
+     "entrance",
+     "duty",
+     "goal"
+    ],
+    "answer": 3,
+    "whyTr": "Hedef = goal.",
+    "tag": "vocab",
+    "level": "B1"
+   },
+   {
+    "type": "mcq",
+    "q": "In some districts you need a ___ to work as a substitute.",
+    "options": [
+     "certificate",
+     "locker",
+     "playground",
+     "entrance"
+    ],
+    "answer": 0,
+    "whyTr": "Sertifika = certificate.",
+    "tag": "vocab",
+    "level": "B1"
+   },
+   {
+    "type": "mcq",
+    "q": "Which word is closest in meaning to 'opportunity'?",
+    "options": [
+     "reason",
+     "chance",
+     "problem",
+     "rule"
+    ],
+    "answer": 1,
+    "whyTr": "Opportunity = chance (fırsat).",
+    "tag": "synonym",
+    "level": "A2"
+   },
+   {
+    "type": "mcq",
+    "q": "Which word is closest in meaning to 'require'?",
+    "options": [
+     "avoid",
+     "enjoy",
+     "need",
+     "refuse"
+    ],
+    "answer": 2,
+    "whyTr": "Require = need (gerektirmek).",
+    "tag": "synonym",
+    "level": "B1"
+   },
+   {
+    "type": "mcq",
+    "q": "What is the opposite of 'patient'?",
+    "options": [
+     "quiet",
+     "helpful",
+     "careful",
+     "impatient"
+    ],
+    "answer": 3,
+    "whyTr": "Patient'ın zıttı impatient.",
+    "tag": "antonym",
+    "level": "B1"
+   },
+   {
+    "type": "mcq",
+    "q": "What is the opposite of 'encourage'?",
+    "options": [
+     "discourage",
+     "improve",
+     "apply",
+     "support"
+    ],
+    "answer": 0,
+    "whyTr": "Encourage'ın zıttı discourage.",
+    "tag": "antonym",
+    "level": "B1"
+   },
+   {
+    "type": "mcq",
+    "q": "Hafsa enjoys ___ with Linda.",
+    "options": [
+     "to talk",
+     "talking",
+     "talk",
+     "talked"
+    ],
+    "answer": 1,
+    "whyTr": "Enjoy + -ing (Gün 3 tekrarı).",
+    "tag": "word-order",
+    "level": "B1"
+   },
+   {
+    "type": "mcq",
+    "q": "Sam wants a new career. He is taking classes at night in order to earn a degree. His wife works so that he can study. Sam says, \"It is hard, but my goal is clear.\"\n\nWhy does Sam take classes?",
+    "options": [
+     "To meet his wife",
+     "To find a house",
+     "To earn a degree",
+     "To teach English"
+    ],
+    "answer": 2,
+    "whyTr": "Metin: 'in order to earn a degree'.",
+    "tag": "reading",
+    "level": "B1"
+   },
+   {
+    "type": "mcq",
+    "q": "Ms. Reed speaks slowly so that the new students can understand her. She also writes the key words on the whiteboard.\n\nWhy does Ms. Reed speak slowly?",
+    "options": [
+     "Because she is tired",
+     "Because she is angry",
+     "So that the class ends late",
+     "So that new students can understand her"
+    ],
+    "answer": 3,
+    "whyTr": "Metin: 'so that the new students can understand her'.",
+    "tag": "reading",
+    "level": "B1"
+   }
+  ]
+ }
+}

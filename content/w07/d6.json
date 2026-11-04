@@ -1,0 +1,815 @@
+{
+ "week": 7,
+ "day": 6,
+ "titleTr": "Başvuru e-postası: although, however ve hafta tekrarı",
+ "theme": "application-email",
+ "morning": {
+  "grammar": {
+   "topic": "although / however (karşıtlık) ve hafta tekrarı",
+   "explainTr": [
+    "'Although' (ya da 'though') bir karşıtlık cümleciği başlatır: Although she was nervous, she did well. Bu yapıda ikinci cümleye 'but' eklenmez; bir cümlede ya Although ya da but olur, ikisi birden olmaz.",
+    "'However' ise yeni bir cümleyi bağlar ve genelde başa gelir; arkasından virgül konur: She was nervous. However, she did well. Noktalı virgülden sonra da kullanılır: She was nervous; however, she did well.",
+    "Bugün hafta tekrarı da var: Past Perfect (had + V3), future time clauses (when + Present Simple), might / must / can't ve should / had better. Resmi bir e-postada although ve however cümlelerini güzel birleştirir."
+   ],
+   "compareTr": "Türkçede 'rağmen' ve 'ama' birlikte kullanılabilir: 'Yorgun olmama rağmen ama çalıştım' demezsin; ama 'Yorgundum ama çalıştım' dersin. İngilizcede Although I was tired, I worked. Burada 'but' kullanma. Cümle başında 'However' ise 'Ancak, ...' demektir.",
+   "table": [
+    [
+     "Although",
+     "Although + cümle, cümle",
+     "Although it rained, we went."
+    ],
+    [
+     "Though",
+     "Though + cümle, cümle",
+     "Though he is tired, he works."
+    ],
+    [
+     "However",
+     "Cümle. However, cümle",
+     "It rained. However, we went."
+    ],
+    [
+     "But (karşılaştır)",
+     "cümle, but cümle",
+     "It rained, but we went."
+    ],
+    [
+     "Hata",
+     "Although ... but ✗",
+     "Although it rained, but we went ✗"
+    ]
+   ],
+   "examples": [
+    {
+     "en": "Although she was nervous, she did well.",
+     "tr": "Gergin olmasına rağmen iyi yaptı."
+    },
+    {
+     "en": "The salary is low. However, I like the job.",
+     "tr": "Maaş düşük. Ancak işi seviyorum."
+    },
+    {
+     "en": "Although I am new, I am enthusiastic.",
+     "tr": "Yeni olmama rağmen hevesliyim."
+    },
+    {
+     "en": "I studied a lot. However, the test was hard.",
+     "tr": "Çok çalıştım. Ancak sınav zordu."
+    }
+   ],
+   "exercises": [
+    {
+     "type": "mcq",
+     "q": "___ Hafsa was nervous, she did well in the interview.",
+     "options": [
+      "Although",
+      "However",
+      "Because",
+      "So"
+     ],
+     "answer": 0,
+     "whyTr": "'Although' + özne + fiil: karşıtlık cümleciği kurar.",
+     "tag": "linkers",
+     "level": "B1"
+    },
+    {
+     "type": "mcq",
+     "q": "Hafsa was nervous. ___, she did well in the interview.",
+     "options": [
+      "Although",
+      "However",
+      "Because",
+      "Even"
+     ],
+     "answer": 1,
+     "whyTr": "Yeni cümle başında 'However,' kullanılır; ardından virgül gelir.",
+     "tag": "linkers",
+     "level": "B1"
+    },
+    {
+     "type": "mcq",
+     "q": "Although the salary is low, ___.",
+     "options": [
+      "but she wants the job",
+      "however she wants the job",
+      "she wants the job",
+      "so she wants the job"
+     ],
+     "answer": 2,
+     "whyTr": "Although ile 'but' birlikte kullanılmaz (Türkçedeki 'ama' hatası).",
+     "tag": "linkers",
+     "level": "B1"
+    },
+    {
+     "type": "order",
+     "promptTr": "Cümleyi sırala:",
+     "words": [
+      "we",
+      "Although",
+      "it",
+      "to",
+      "walked",
+      "school",
+      "raining,",
+      "was"
+     ],
+     "answer": "Although it was raining, we walked to school",
+     "whyTr": "Although cümleciği başa gelirse virgülle ayrılır.",
+     "tag": "linkers",
+     "level": "B1"
+    },
+    {
+     "type": "order",
+     "promptTr": "Cümleyi sırala:",
+     "words": [
+      "However,",
+      "are",
+      "the",
+      "hours",
+      "job",
+      "The",
+      "pays",
+      "long",
+      "well."
+     ],
+     "answer": "The job pays well. However, the hours are long",
+     "whyTr": "However yeni cümlede başa gelir, ardından virgül.",
+     "tag": "linkers",
+     "level": "B1"
+    },
+    {
+     "type": "mcq",
+     "q": "Which sentence is correct?",
+     "options": [
+      "Although I was tired, but I finished the report.",
+      "Although I was tired however I finished the report.",
+      "However I was tired, I finished the report.",
+      "Although I was tired, I finished the report."
+     ],
+     "answer": 3,
+     "whyTr": "Although tek başına yeter; but ya da however eklenmez.",
+     "tag": "linkers",
+     "level": "B1"
+    },
+    {
+     "type": "mcq",
+     "q": "It was very cold. ___, the students played outside.",
+     "options": [
+      "However",
+      "Although",
+      "Because",
+      "Since"
+     ],
+     "answer": 0,
+     "whyTr": "Önceki cümleyle zıtlık: However, ...",
+     "tag": "linkers",
+     "level": "B1"
+    },
+    {
+     "type": "mcq",
+     "q": "\"Though it was late, she called.\" Here \"though\" means:",
+     "options": [
+      "because",
+      "although",
+      "after",
+      "so"
+     ],
+     "answer": 1,
+     "whyTr": "Though, although ile aynı anlamdadır.",
+     "tag": "linkers",
+     "level": "B1"
+    },
+    {
+     "type": "mcq",
+     "q": "You ___ send a thank-you email after the interview.",
+     "options": [
+      "shoulds",
+      "should to",
+      "should",
+      "are should"
+     ],
+     "answer": 2,
+     "whyTr": "Tavsiye: should + yalın fiil.",
+     "tag": "modals",
+     "level": "B1"
+    },
+    {
+     "type": "mcq",
+     "q": "Before she applied, she ___ the requirements twice.",
+     "options": [
+      "has read",
+      "reads",
+      "was read",
+      "had read"
+     ],
+     "answer": 3,
+     "whyTr": "Başvurudan önce olan iş: Past Perfect.",
+     "tag": "past-simple",
+     "level": "B1"
+    },
+    {
+     "type": "fill",
+     "q": "She is very qualified. ___, she felt nervous.",
+     "accept": [
+      "However"
+     ],
+     "hintTr": "yine de (cümle başında)",
+     "whyTr": "Yeni cümlede zıtlık: However, ...",
+     "tag": "linkers",
+     "level": "B1"
+    },
+    {
+     "type": "mcq",
+     "q": "I will send the email as soon as I ___ my resume.",
+     "options": [
+      "finish",
+      "will finish",
+      "finished",
+      "am finish"
+     ],
+     "answer": 0,
+     "whyTr": "As soon as sonrası Present Simple.",
+     "tag": "future",
+     "level": "B1"
+    }
+   ]
+  },
+  "vocab": [
+   {
+    "id": "attach",
+    "en": "attach",
+    "tr": "eklemek, iliştirmek",
+    "pos": "verb",
+    "example": "Please attach your resume to the email.",
+    "exampleTr": "Lütfen özgeçmişini e-postaya ekle.",
+    "syn": [],
+    "ant": [],
+    "level": "B1"
+   },
+   {
+    "id": "regarding",
+    "en": "regarding",
+    "tr": "...ile ilgili",
+    "pos": "preposition",
+    "example": "I am writing regarding the open position.",
+    "exampleTr": "Açık pozisyonla ilgili yazıyorum.",
+    "syn": [
+     "about"
+    ],
+    "ant": [],
+    "level": "B1"
+   },
+   {
+    "id": "grateful",
+    "en": "grateful",
+    "tr": "minnettar",
+    "pos": "adjective",
+    "example": "I am grateful for your help.",
+    "exampleTr": "Yardımın için minnettarım.",
+    "syn": [
+     "thankful"
+    ],
+    "ant": [],
+    "level": "B1"
+   },
+   {
+    "id": "opportunity",
+    "en": "opportunity",
+    "tr": "fırsat",
+    "pos": "noun",
+    "example": "This job is a great opportunity.",
+    "exampleTr": "Bu iş harika bir fırsat.",
+    "syn": [
+     "chance"
+    ],
+    "ant": [],
+    "level": "B1"
+   },
+   {
+    "id": "respond",
+    "en": "respond",
+    "tr": "yanıt vermek",
+    "pos": "verb",
+    "example": "Please respond by Friday.",
+    "exampleTr": "Lütfen cumaya kadar yanıt verin.",
+    "syn": [
+     "reply"
+    ],
+    "ant": [],
+    "level": "B1"
+   },
+   {
+    "id": "request",
+    "en": "request",
+    "tr": "rica; rica etmek",
+    "pos": "noun",
+    "example": "I have a request about my schedule.",
+    "exampleTr": "Programımla ilgili bir ricam var.",
+    "syn": [],
+    "ant": [],
+    "level": "B1"
+   },
+   {
+    "id": "inform",
+    "en": "inform",
+    "tr": "bilgilendirmek",
+    "pos": "verb",
+    "example": "We will inform you about the decision.",
+    "exampleTr": "Sizi karar hakkında bilgilendireceğiz.",
+    "syn": [
+     "tell"
+    ],
+    "ant": [],
+    "level": "B1"
+   },
+   {
+    "id": "hire",
+    "en": "hire",
+    "tr": "işe almak",
+    "pos": "verb",
+    "example": "The district wants to hire three new subs.",
+    "exampleTr": "Bölge üç yeni vekil öğretmen almak istiyor.",
+    "syn": [],
+    "ant": [
+     "fire"
+    ],
+    "level": "B1"
+   },
+   {
+    "id": "reply",
+    "en": "reply",
+    "tr": "cevap vermek; cevap",
+    "pos": "verb",
+    "example": "She replied to my email quickly.",
+    "exampleTr": "E-postama çabucak cevap verdi.",
+    "syn": [
+     "respond"
+    ],
+    "ant": [],
+    "level": "B1"
+   },
+   {
+    "id": "enthusiastic",
+    "en": "enthusiastic",
+    "tr": "hevesli, istekli",
+    "pos": "adjective",
+    "example": "He is enthusiastic about teaching.",
+    "exampleTr": "Öğretmenlik konusunda hevesli.",
+    "syn": [
+     "eager"
+    ],
+    "ant": [],
+    "level": "B1"
+   },
+   {
+    "id": "contact",
+    "en": "contact",
+    "tr": "iletişime geçmek; iletişim",
+    "pos": "verb",
+    "example": "You can contact me by phone.",
+    "exampleTr": "Benimle telefonla iletişime geçebilirsin.",
+    "syn": [
+     "reach"
+    ],
+    "ant": [],
+    "level": "B1"
+   },
+   {
+    "id": "recent",
+    "en": "recent",
+    "tr": "yakın zamandaki, son",
+    "pos": "adjective",
+    "example": "Her recent job was at a library.",
+    "exampleTr": "Son işi bir kütüphanedeydi.",
+    "syn": [
+     "latest"
+    ],
+    "ant": [],
+    "level": "B1"
+   },
+   {
+    "id": "suitable",
+    "en": "suitable",
+    "tr": "uygun",
+    "pos": "adjective",
+    "example": "This time is suitable for me.",
+    "exampleTr": "Bu saat bana uygun.",
+    "syn": [
+     "appropriate"
+    ],
+    "ant": [
+     "unsuitable"
+    ],
+    "level": "B1"
+   },
+   {
+    "id": "recommend",
+    "en": "recommend",
+    "tr": "tavsiye etmek",
+    "pos": "verb",
+    "example": "I recommend this book for beginners.",
+    "exampleTr": "Bu kitabı yeni başlayanlara tavsiye ederim.",
+    "syn": [
+     "suggest"
+    ],
+    "ant": [],
+    "level": "B1"
+   },
+   {
+    "id": "convenient",
+    "en": "convenient",
+    "tr": "uygun, elverişli",
+    "pos": "adjective",
+    "example": "Is Monday convenient for you?",
+    "exampleTr": "Pazartesi sana uygun mu?",
+    "syn": [],
+    "ant": [
+     "inconvenient"
+    ],
+    "level": "B1"
+   }
+  ],
+  "reading": {
+   "title": "The follow-up email",
+   "text": "After the interview, Hafsa waited for a week. Although she felt good about her answers, she was still nervous. Then she remembered Linda's advice: send a polite follow-up email. However, she was not sure how to write one.\n\nThat evening, Emre helped her with a first draft. \"Start with the reason you are writing,\" he said. \"Although the email is short, it should still sound professional.\" Hafsa typed carefully: \"Dear Ms. Rivera, I am writing regarding my recent interview for the substitute teacher position. Thank you for the opportunity. Although I am new to American schools, I am enthusiastic and ready to learn. I have attached my updated resume and two letters of recommendation. Please let me know if you need more information. I am available at any time that is convenient for you. Sincerely, Hafsa.\"\n\nEmre read it twice. \"It's good, Mom. However, you should check the spelling of 'opportunity.'\" She fixed it and pressed send.\n\nTwo days later, the reply came. Ms. Rivera wrote that the district would like to hire Hafsa as a substitute teacher. Although this was exactly the news she wanted, Hafsa could hardly believe it. She read the email three times and then called Linda. \"I got the job!\" she said. Linda laughed. \"Of course you did. You prepared, you were polite, and you were honest. You never stopped trying.\"\n\nThat night, Hafsa wrote a new line at the top of her study list: \"First day of work: next Monday.\" Her English was not perfect yet. However, for the first time, she felt that her goal was real.",
+   "glossary": [
+    {
+     "en": "follow-up",
+     "tr": "takip, ardından gelen"
+    },
+    {
+     "en": "draft",
+     "tr": "taslak"
+    },
+    {
+     "en": "letters of recommendation",
+     "tr": "referans mektupları"
+    },
+    {
+     "en": "hardly",
+     "tr": "zorlukla, neredeyse hiç"
+    }
+   ],
+   "questions": [
+    {
+     "type": "mcq",
+     "q": "Why did Hafsa write an email after the interview?",
+     "options": [
+      "To cancel the interview",
+      "To follow up in a polite way",
+      "To ask for a vacation",
+      "To change her name"
+     ],
+     "answer": 1,
+     "whyTr": "Metin: 'send a polite follow-up email.'",
+     "tag": "reading",
+     "level": "B1"
+    },
+    {
+     "type": "mcq",
+     "q": "What did Hafsa attach to the email?",
+     "options": [
+      "A photo and a contract",
+      "A handbook and a badge",
+      "Her updated resume and two letters of recommendation",
+      "A map and a schedule"
+     ],
+     "answer": 2,
+     "whyTr": "Metin: 'I have attached my updated resume and two letters of recommendation.'",
+     "tag": "reading",
+     "level": "B1"
+    },
+    {
+     "type": "mcq",
+     "q": "What did Emre tell her to check?",
+     "options": [
+      "The date",
+      "Ms. Rivera's address",
+      "The salary",
+      "The spelling of 'opportunity'"
+     ],
+     "answer": 3,
+     "whyTr": "Metin: 'you should check the spelling of opportunity.'",
+     "tag": "reading",
+     "level": "B1"
+    },
+    {
+     "type": "mcq",
+     "q": "What did Ms. Rivera's reply say?",
+     "options": [
+      "The district would like to hire Hafsa.",
+      "The job was gone.",
+      "Hafsa needs another interview.",
+      "The school was closed."
+     ],
+     "answer": 0,
+     "whyTr": "Metin: 'the district would like to hire Hafsa.'",
+     "tag": "reading",
+     "level": "B1"
+    }
+   ]
+  }
+ },
+ "evening": {
+  "listening": {
+   "title": "The job offer",
+   "script": [
+    {
+     "speaker": "Ms. Rivera",
+     "text": "Hello, Hafsa. This is Ms. Rivera. I received your email, and I wanted to call you."
+    },
+    {
+     "speaker": "Hafsa",
+     "text": "Hello, Ms. Rivera. Thank you for replying so quickly."
+    },
+    {
+     "speaker": "Ms. Rivera",
+     "text": "Although we interviewed several candidates, your answers were the most honest. However, we need one more thing from you."
+    },
+    {
+     "speaker": "Hafsa",
+     "text": "Of course. What is it?"
+    },
+    {
+     "speaker": "Ms. Rivera",
+     "text": "The district needs an official English translation of your reference letter from Turkey."
+    },
+    {
+     "speaker": "Hafsa",
+     "text": "I already have one. A translator did it last month. I will send it today."
+    },
+    {
+     "speaker": "Ms. Rivera",
+     "text": "Perfect. Although the school year has already started, we have an open position at Lincoln Elementary. Can you start on Monday?"
+    },
+    {
+     "speaker": "Hafsa",
+     "text": "Yes, I can. Thank you so much for the opportunity."
+    },
+    {
+     "speaker": "Ms. Rivera",
+     "text": "The job is part-time at first. However, there is a good chance of more hours later."
+    },
+    {
+     "speaker": "Hafsa",
+     "text": "That is fine with me. I am very grateful."
+    },
+    {
+     "speaker": "Ms. Rivera",
+     "text": "Welcome to the team. Please come to orientation at eight thirty."
+    },
+    {
+     "speaker": "Hafsa",
+     "text": "I will be there. Thank you again."
+    }
+   ],
+   "questions": [
+    {
+     "type": "mcq",
+     "q": "What did Ms. Rivera like about Hafsa's interview?",
+     "options": [
+      "Her long resume",
+      "Her honest answers",
+      "Her uniform",
+      "Her fast speaking"
+     ],
+     "answer": 1,
+     "whyTr": "Ms. Rivera: 'your answers were the most honest.'",
+     "tag": "listening",
+     "level": "B1"
+    },
+    {
+     "type": "mcq",
+     "q": "What does the district still need?",
+     "options": [
+      "A new resume",
+      "Another interview",
+      "An English translation of a reference letter",
+      "A photo ID"
+     ],
+     "answer": 2,
+     "whyTr": "Ms. Rivera: 'an official English translation of your reference letter.'",
+     "tag": "listening",
+     "level": "B1"
+    },
+    {
+     "type": "mcq",
+     "q": "When can Hafsa start?",
+     "options": [
+      "On Friday",
+      "Next month",
+      "Today",
+      "On Monday"
+     ],
+     "answer": 3,
+     "whyTr": "Ms. Rivera: 'Can you start on Monday?'",
+     "tag": "listening",
+     "level": "B1"
+    },
+    {
+     "type": "mcq",
+     "q": "What is the job like at first?",
+     "options": [
+      "It is part-time.",
+      "It is full-time.",
+      "It is only online.",
+      "It is only a trial."
+     ],
+     "answer": 0,
+     "whyTr": "Ms. Rivera: 'The job is part-time at first.'",
+     "tag": "listening",
+     "level": "B1"
+    }
+   ]
+  },
+  "writing": {
+   "promptTr": "Mülakattan sonra Ms. Rivera'ya resmi bir başvuru e-postası yaz. Although ve However kullan; neden yazdığını söyle, teşekkür et (80-120 kelime).",
+   "promptEn": "Write a formal application email to Ms. Rivera after your interview. Use although and however, and thank her.",
+   "frames": [
+    "Dear Ms. Rivera, I am writing regarding ...",
+    "Thank you for the opportunity to ...",
+    "Although I ..., I ...",
+    "However, ...",
+    "Sincerely,"
+   ],
+   "model": "Dear Ms. Rivera, I am writing regarding the substitute teacher position at Lincoln Elementary. Thank you for the opportunity to interview last week. Although I am new to American schools, I am enthusiastic and I learn quickly. However, I know that I still need to improve my English, so I study every day. I have attached my resume and two letters of recommendation. Please let me know if you need more information. I am available any day that is convenient for you. Sincerely, Hafsa",
+   "checklistTr": [
+    "Although ile 'but' kullanmadın mı?",
+    "However cümle başında ve ardından virgül var mı?",
+    "Selam ('Dear ...') ve kapanış ('Sincerely,') var mı?",
+    "Teşekkür ve iletişim cümlesi yazdın mı?"
+   ],
+   "minWords": 80
+  },
+  "examSet": [
+   {
+    "type": "mcq",
+    "q": "___ the interview was difficult, Hafsa felt proud.",
+    "options": [
+     "However",
+     "Although",
+     "Because",
+     "So"
+    ],
+    "answer": 1,
+    "whyTr": "Although + özne + fiil: karşıtlık.",
+    "tag": "linkers",
+    "level": "B1"
+   },
+   {
+    "type": "mcq",
+    "q": "It rained all day. ___, we had the field trip.",
+    "options": [
+     "Although",
+     "Because",
+     "However",
+     "Even"
+    ],
+    "answer": 2,
+    "whyTr": "Önceki cümleyle zıtlık: However, ...",
+    "tag": "linkers",
+    "level": "B1"
+   },
+   {
+    "type": "mcq",
+    "q": "Which sentence is correct?",
+    "options": [
+     "Although he was tired, but he went to work.",
+     "However he was tired, he went to work.",
+     "Although he was tired however he went to work.",
+     "Although he was tired, he went to work."
+    ],
+    "answer": 3,
+    "whyTr": "Although tek başına yeterlidir.",
+    "tag": "linkers",
+    "level": "B1"
+   },
+   {
+    "type": "mcq",
+    "q": "By the time Hafsa got to the school, the bus ___.",
+    "options": [
+     "had left",
+     "has left",
+     "leaves",
+     "was leave"
+    ],
+    "answer": 0,
+    "whyTr": "Varıştan önce giden otobüs: Past Perfect.",
+    "tag": "past-simple",
+    "level": "B1"
+   },
+   {
+    "type": "mcq",
+    "q": "I'll call you as soon as I ___ the email.",
+    "options": [
+     "will read",
+     "read",
+     "reading",
+     "am read"
+    ],
+    "answer": 1,
+    "whyTr": "Zaman bağlacından sonra Present Simple.",
+    "tag": "future",
+    "level": "B1"
+   },
+   {
+    "type": "mcq",
+    "q": "I'm not sure. The meeting ___ be on Friday.",
+    "options": [
+     "mights",
+     "might to",
+     "might",
+     "is might"
+    ],
+    "answer": 2,
+    "whyTr": "Emin olmadığın olasılık: might + yalın fiil.",
+    "tag": "modals",
+    "level": "B1"
+   },
+   {
+    "type": "mcq",
+    "q": "He has worked here for thirty years. He ___ know everything about the school.",
+    "options": [
+     "can't",
+     "mustn't",
+     "don't",
+     "must"
+    ],
+    "answer": 3,
+    "whyTr": "Otuz yıldır çalışıyor; bildiğinden eminiz: must know.",
+    "tag": "modals",
+    "level": "B1"
+   },
+   {
+    "type": "mcq",
+    "q": "You ___ read the contract carefully before you sign it.",
+    "options": [
+     "should",
+     "shoulds",
+     "should to",
+     "are should"
+    ],
+    "answer": 0,
+    "whyTr": "Tavsiye: should + yalın fiil.",
+    "tag": "modals",
+    "level": "B1"
+   },
+   {
+    "type": "mcq",
+    "q": "Please ___ your resume to the email.",
+    "options": [
+     "hire",
+     "attach",
+     "inform",
+     "recommend"
+    ],
+    "answer": 1,
+    "whyTr": "E-postaya belge eklemek = attach.",
+    "tag": "vocab",
+    "level": "B1"
+   },
+   {
+    "type": "mcq",
+    "q": "Which word means almost the same as \"reply\"?",
+    "options": [
+     "ignore",
+     "attach",
+     "respond",
+     "hire"
+    ],
+    "answer": 2,
+    "whyTr": "Reply ve respond: cevap vermek.",
+    "tag": "synonym",
+    "level": "B2"
+   },
+   {
+    "type": "mcq",
+    "q": "What is the opposite of \"hire\"?",
+    "options": [
+     "invite",
+     "contact",
+     "follow",
+     "fire"
+    ],
+    "answer": 3,
+    "whyTr": "Hire (işe almak) zıttı fire (işten çıkarmak).",
+    "tag": "antonym",
+    "level": "B2"
+   },
+   {
+    "type": "mcq",
+    "q": "Dear Mr. Hill, I am writing regarding the open position at Lincoln Elementary. Although I do not have much experience in American schools, I worked with children for six years in Turkey. I have attached my resume. Sincerely, Mia\n\nWhy is Mia writing?",
+    "options": [
+     "She wants to apply for a job.",
+     "She wants to cancel a trip.",
+     "She wants to hire Mr. Hill.",
+     "She wants to buy a book."
+    ],
+    "answer": 0,
+    "whyTr": "Metin: 'I am writing regarding the open position... I have attached my resume.'",
+    "tag": "reading",
+    "level": "B1"
+   }
+  ]
+ }
+}

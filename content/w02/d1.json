@@ -1,0 +1,764 @@
+{
+ "week": 2,
+ "day": 1,
+ "titleTr": "Günlük rutinin: Her sabah ne yapıyorsun?",
+ "theme": "daily-life",
+ "morning": {
+  "grammar": {
+   "topic": "Present Simple: olumlu cümleler ve he/she/it -s",
+   "explainTr": [
+    "Present Simple, düzenli yaptığın şeyleri anlatır: rutinler, alışkanlıklar. I get up at six. We eat dinner at seven.",
+    "I, you, we, they ile fiil yalın kalır. He, she, it ile fiilin sonuna -s gelir: She gets up. He takes the bus.",
+    "go, do, watch, brush, teach gibi (-o, -ch, -sh, -s, -x ile biten) fiillere -es eklenir: goes, watches. Sessiz harf + y ile bitenlerde y düşer, -ies gelir: study - studies."
+   ],
+   "compareTr": "Türkçede kişi eki fiilin sonuna gelir (uyanırım, uyanır). İngilizcede ek yalnızca he/she/it için gelir ve -s'dir: I wake, she wakes. Bu -s'yi unutmak çok yapılan bir hatadır.",
+   "table": [
+    [
+     "I / you / we / they",
+     "fiil (yalın)",
+     "I wake up."
+    ],
+    [
+     "he / she / it",
+     "fiil + s",
+     "She wakes up."
+    ],
+    [
+     "go, do, watch, brush",
+     "+ es",
+     "He goes. She brushes."
+    ],
+    [
+     "study, carry",
+     "y → ies",
+     "He studies."
+    ]
+   ],
+   "examples": [
+    {
+     "en": "I get up at six.",
+     "tr": "Altıda kalkarım."
+    },
+    {
+     "en": "Emre takes the bus to school.",
+     "tr": "Emre okula otobüsle gider."
+    },
+    {
+     "en": "Linda calls me every morning.",
+     "tr": "Linda beni her sabah arar."
+    },
+    {
+     "en": "She washes the dishes.",
+     "tr": "Bulaşıkları yıkar."
+    },
+    {
+     "en": "He studies English at night.",
+     "tr": "Geceleri İngilizce çalışır."
+    }
+   ],
+   "exercises": [
+    {
+     "type": "mcq",
+     "q": "Hafsa ___ up at six every morning.",
+     "options": [
+      "wakes",
+      "wake",
+      "waking"
+     ],
+     "answer": 0,
+     "whyTr": "Hafsa = she; fiile -s eklenir: wakes.",
+     "tag": "present-simple",
+     "level": "A2"
+    },
+    {
+     "type": "mcq",
+     "q": "I ___ breakfast at seven.",
+     "options": [
+      "has",
+      "have",
+      "having"
+     ],
+     "answer": 1,
+     "whyTr": "I ile fiil yalın kalır: have.",
+     "tag": "present-simple",
+     "level": "A1"
+    },
+    {
+     "type": "mcq",
+     "q": "My son ___ the bus to school.",
+     "options": [
+      "take",
+      "taking",
+      "takes"
+     ],
+     "answer": 2,
+     "whyTr": "My son = he; take + s = takes.",
+     "tag": "present-simple",
+     "level": "A2"
+    },
+    {
+     "type": "mcq",
+     "q": "Linda ___ her teeth after dinner.",
+     "options": [
+      "brushes",
+      "brushs",
+      "brush"
+     ],
+     "answer": 0,
+     "whyTr": "-sh ile biten fiile -es eklenir: brushes.",
+     "tag": "spelling",
+     "level": "A2"
+    },
+    {
+     "type": "order",
+     "promptTr": "Cümleyi sırala:",
+     "words": [
+      "gets",
+      "Emre",
+      "up",
+      "at",
+      "seven"
+     ],
+     "answer": "Emre gets up at seven",
+     "whyTr": "Sıra: özne + fiil(-s) + gerisi.",
+     "tag": "word-order",
+     "level": "A2"
+    },
+    {
+     "type": "mcq",
+     "q": "She ___ to work at eight.",
+     "options": [
+      "go",
+      "goes",
+      "gos"
+     ],
+     "answer": 1,
+     "whyTr": "go fiiline -es eklenir: goes.",
+     "tag": "spelling",
+     "level": "A2"
+    },
+    {
+     "type": "mcq",
+     "q": "We ___ dinner at six o'clock.",
+     "options": [
+      "has",
+      "haves",
+      "have"
+     ],
+     "answer": 2,
+     "whyTr": "We ile fiil yalın kalır: have.",
+     "tag": "present-simple",
+     "level": "A1"
+    },
+    {
+     "type": "mcq",
+     "q": "Mr. Brown ___ English to the students.",
+     "options": [
+      "teach",
+      "teaches",
+      "teachs"
+     ],
+     "answer": 1,
+     "whyTr": "-ch ile biten fiile -es eklenir: teaches.",
+     "tag": "spelling",
+     "level": "A2"
+    },
+    {
+     "type": "order",
+     "promptTr": "Cümleyi sırala:",
+     "words": [
+      "every",
+      "drinks",
+      "tea",
+      "Hafsa",
+      "morning"
+     ],
+     "answer": "Hafsa drinks tea every morning",
+     "whyTr": "Sıklık ifadesi genelde sonda: Hafsa drinks tea every morning.",
+     "tag": "word-order",
+     "level": "A2"
+    },
+    {
+     "type": "mcq",
+     "q": "The students ___ their homework in the evening.",
+     "options": [
+      "does",
+      "do",
+      "doing"
+     ],
+     "answer": 1,
+     "whyTr": "Çoğul özne (the students) = they; yalın fiil: do.",
+     "tag": "present-simple",
+     "level": "A2"
+    },
+    {
+     "type": "fill",
+     "q": "He ___ (study) English at night.",
+     "accept": [
+      "studies"
+     ],
+     "hintTr": "study fiilinin he ile hali",
+     "whyTr": "Sessiz harf + y: y düşer, -ies gelir: studies.",
+     "tag": "spelling",
+     "level": "A2"
+    },
+    {
+     "type": "mcq",
+     "q": "Which sentence is correct?",
+     "options": [
+      "My mother cook every day.",
+      "My mother cookes every day.",
+      "My mother cooks every day."
+     ],
+     "answer": 2,
+     "whyTr": "Tekil 3. kişide fiile -s gelir: cooks.",
+     "tag": "present-simple",
+     "level": "A2"
+    }
+   ]
+  },
+  "vocab": [
+   {
+    "id": "wake",
+    "en": "wake",
+    "tr": "uyanmak",
+    "pos": "verb",
+    "example": "I wake up at six o'clock.",
+    "exampleTr": "Saat altıda uyanırım.",
+    "syn": [],
+    "ant": [
+     "sleep"
+    ],
+    "level": "A1"
+   },
+   {
+    "id": "breakfast",
+    "en": "breakfast",
+    "tr": "kahvaltı",
+    "pos": "noun",
+    "example": "We eat breakfast together.",
+    "exampleTr": "Kahvaltıyı birlikte yeriz.",
+    "syn": [],
+    "ant": [],
+    "level": "A1"
+   },
+   {
+    "id": "shower",
+    "en": "shower",
+    "tr": "duş",
+    "pos": "noun",
+    "example": "Emre takes a shower in the morning.",
+    "exampleTr": "Emre sabahları duş alır.",
+    "syn": [],
+    "ant": [],
+    "level": "A1"
+   },
+   {
+    "id": "brush",
+    "en": "brush",
+    "tr": "fırçalamak",
+    "pos": "verb",
+    "example": "I brush my teeth twice a day.",
+    "exampleTr": "Dişlerimi günde iki kez fırçalarım.",
+    "syn": [],
+    "ant": [],
+    "level": "A1"
+   },
+   {
+    "id": "wash",
+    "en": "wash",
+    "tr": "yıkamak",
+    "pos": "verb",
+    "example": "She washes the dishes after dinner.",
+    "exampleTr": "Akşam yemeğinden sonra bulaşıkları yıkar.",
+    "syn": [],
+    "ant": [],
+    "level": "A1"
+   },
+   {
+    "id": "start",
+    "en": "start",
+    "tr": "başlamak",
+    "pos": "verb",
+    "example": "School starts at eight thirty.",
+    "exampleTr": "Okul sekiz buçukta başlar.",
+    "syn": [
+     "begin"
+    ],
+    "ant": [
+     "finish"
+    ],
+    "level": "A1"
+   },
+   {
+    "id": "finish",
+    "en": "finish",
+    "tr": "bitirmek; bitmek",
+    "pos": "verb",
+    "example": "Work finishes at four.",
+    "exampleTr": "İş dörtte biter.",
+    "syn": [
+     "end"
+    ],
+    "ant": [
+     "start"
+    ],
+    "level": "A1"
+   },
+   {
+    "id": "lunch",
+    "en": "lunch",
+    "tr": "öğle yemeği",
+    "pos": "noun",
+    "example": "I eat lunch at noon.",
+    "exampleTr": "Öğle yemeğini öğlen yerim.",
+    "syn": [],
+    "ant": [],
+    "level": "A1"
+   },
+   {
+    "id": "dinner",
+    "en": "dinner",
+    "tr": "akşam yemeği",
+    "pos": "noun",
+    "example": "Dinner is ready at six.",
+    "exampleTr": "Akşam yemeği altıda hazır olur.",
+    "syn": [],
+    "ant": [],
+    "level": "A1"
+   },
+   {
+    "id": "bus",
+    "en": "bus",
+    "tr": "otobüs",
+    "pos": "noun",
+    "example": "The bus comes at seven fifteen.",
+    "exampleTr": "Otobüs yediyi çeyrek geçe gelir.",
+    "syn": [],
+    "ant": [],
+    "level": "A1"
+   },
+   {
+    "id": "sleep",
+    "en": "sleep",
+    "tr": "uyumak",
+    "pos": "verb",
+    "example": "Children sleep about nine hours.",
+    "exampleTr": "Çocuklar yaklaşık dokuz saat uyur.",
+    "syn": [],
+    "ant": [
+     "wake"
+    ],
+    "level": "A1"
+   },
+   {
+    "id": "morning",
+    "en": "morning",
+    "tr": "sabah",
+    "pos": "noun",
+    "example": "I drink tea every morning.",
+    "exampleTr": "Her sabah çay içerim.",
+    "syn": [],
+    "ant": [
+     "evening"
+    ],
+    "level": "A1"
+   },
+   {
+    "id": "evening",
+    "en": "evening",
+    "tr": "akşam",
+    "pos": "noun",
+    "example": "In the evening, we watch TV.",
+    "exampleTr": "Akşamları televizyon izleriz.",
+    "syn": [],
+    "ant": [
+     "morning"
+    ],
+    "level": "A1"
+   },
+   {
+    "id": "bed",
+    "en": "bed",
+    "tr": "yatak",
+    "pos": "noun",
+    "example": "Emre goes to bed at ten.",
+    "exampleTr": "Emre saat onda yatağa gider.",
+    "syn": [],
+    "ant": [],
+    "level": "A1"
+   },
+   {
+    "id": "homework",
+    "en": "homework",
+    "tr": "ev ödevi",
+    "pos": "noun",
+    "example": "He does his homework after school.",
+    "exampleTr": "Okuldan sonra ev ödevini yapar.",
+    "syn": [],
+    "ant": [],
+    "level": "A1"
+   }
+  ],
+  "reading": {
+   "title": "Hafsa's morning",
+   "text": "Hafsa gets up at six o'clock every morning. First, she takes a shower and brushes her teeth. Then she makes tea and breakfast. She usually eats bread, cheese and olives.\n\nHer son Emre wakes up at seven. He takes a shower, and he gets dressed for school. He drinks a glass of milk and eats his breakfast fast. At seven forty, he takes the bus to school.\n\nAfter Emre leaves, Hafsa washes the dishes. Her neighbor Linda calls her every morning. They talk about the weather and the news. Sometimes Linda laughs and says, \"Hafsa, you work too hard!\" Hafsa smiles and drinks more tea. At nine o'clock, Hafsa studies English for one hour. She loves her morning routine because the house is quiet and peaceful.",
+   "glossary": [
+    {
+     "en": "get dressed",
+     "tr": "giyinmek"
+    },
+    {
+     "en": "routine",
+     "tr": "günlük düzen"
+    },
+    {
+     "en": "peaceful",
+     "tr": "huzurlu"
+    },
+    {
+     "en": "weather",
+     "tr": "hava durumu"
+    }
+   ],
+   "questions": [
+    {
+     "type": "mcq",
+     "q": "What time does Hafsa get up?",
+     "options": [
+      "At six",
+      "At seven",
+      "At nine"
+     ],
+     "answer": 0,
+     "whyTr": "Metin: 'gets up at six o'clock'.",
+     "tag": "reading",
+     "level": "A2"
+    },
+    {
+     "type": "mcq",
+     "q": "How does Emre go to school?",
+     "options": [
+      "On foot",
+      "By bus",
+      "By car"
+     ],
+     "answer": 1,
+     "whyTr": "Metin: 'he takes the bus to school'.",
+     "tag": "reading",
+     "level": "A2"
+    },
+    {
+     "type": "mcq",
+     "q": "Who calls Hafsa every morning?",
+     "options": [
+      "Mr. Brown",
+      "Emre",
+      "Linda"
+     ],
+     "answer": 2,
+     "whyTr": "Metin: 'Linda calls her every morning'.",
+     "tag": "reading",
+     "level": "A2"
+    },
+    {
+     "type": "mcq",
+     "q": "Why does Hafsa love her morning routine?",
+     "options": [
+      "The house is quiet.",
+      "She goes to school.",
+      "She cooks lunch."
+     ],
+     "answer": 0,
+     "whyTr": "Metin: 'the house is quiet and peaceful'.",
+     "tag": "reading",
+     "level": "A2"
+    }
+   ]
+  }
+ },
+ "evening": {
+  "listening": {
+   "title": "Two neighbors talk about the morning",
+   "script": [
+    {
+     "speaker": "Linda",
+     "text": "Good morning, Hafsa! You look happy today."
+    },
+    {
+     "speaker": "Hafsa",
+     "text": "Good morning, Linda. I get up early, so I feel good."
+    },
+    {
+     "speaker": "Linda",
+     "text": "What time do you get up?"
+    },
+    {
+     "speaker": "Hafsa",
+     "text": "At six. My son wakes up at seven, and he takes the bus at seven forty."
+    },
+    {
+     "speaker": "Linda",
+     "text": "I get up late. My family says I sleep too much!"
+    },
+    {
+     "speaker": "Hafsa",
+     "text": "Ha ha! What do you do in the morning?"
+    },
+    {
+     "speaker": "Linda",
+     "text": "I make coffee and eat breakfast. Then I walk to the library. I work there."
+    },
+    {
+     "speaker": "Hafsa",
+     "text": "Oh, nice. Does it start early?"
+    },
+    {
+     "speaker": "Linda",
+     "text": "It starts at nine and finishes at five. And you?"
+    },
+    {
+     "speaker": "Hafsa",
+     "text": "I study English at home. I do my homework every day."
+    },
+    {
+     "speaker": "Linda",
+     "text": "That is great. Come to my house for dinner on Friday!"
+    },
+    {
+     "speaker": "Hafsa",
+     "text": "Thank you, Linda. I love that idea."
+    }
+   ],
+   "questions": [
+    {
+     "type": "mcq",
+     "q": "What time does Hafsa's son take the bus?",
+     "options": [
+      "At six",
+      "At nine",
+      "At seven forty"
+     ],
+     "answer": 2,
+     "whyTr": "Hafsa: 'he takes the bus at seven forty'.",
+     "tag": "listening",
+     "level": "A2"
+    },
+    {
+     "type": "mcq",
+     "q": "What does Linda do in the morning?",
+     "options": [
+      "She studies English.",
+      "She takes the bus.",
+      "She eats breakfast and goes to the library."
+     ],
+     "answer": 2,
+     "whyTr": "Linda: 'eat breakfast. Then I walk to the library'.",
+     "tag": "listening",
+     "level": "A2"
+    },
+    {
+     "type": "mcq",
+     "q": "When does Linda's work finish?",
+     "options": [
+      "At five",
+      "At nine",
+      "At seven"
+     ],
+     "answer": 0,
+     "whyTr": "Linda: 'starts at nine and finishes at five'.",
+     "tag": "listening",
+     "level": "A2"
+    },
+    {
+     "type": "mcq",
+     "q": "What does Linda say at the end?",
+     "options": [
+      "Come to the library.",
+      "Come to my house for dinner.",
+      "Call me at six."
+     ],
+     "answer": 1,
+     "whyTr": "Linda invites Hafsa for dinner.",
+     "tag": "listening",
+     "level": "A2"
+    }
+   ]
+  },
+  "writing": {
+   "promptTr": "Sabah rutinini 4-5 cümleyle anlat.",
+   "promptEn": "Write 4-5 sentences about your morning.",
+   "frames": [
+    "I get up at ...",
+    "I eat ... for breakfast.",
+    "My son/neighbor ...",
+    "Then I ..."
+   ],
+   "model": "I get up at six o'clock. I make tea and eat breakfast. My son takes the bus to school at seven forty. Then I wash the dishes. At nine I study English.",
+   "checklistTr": [
+    "I/we/you/they ile fiil yalın, he/she/it ile fiilde -s var mı?",
+    "go, watch, brush gibi fiillere -es ekledin mi?",
+    "Cümleler büyük harfle başlıyor ve noktayla bitiyor mu?"
+   ],
+   "minWords": 30
+  },
+  "examSet": [
+   {
+    "type": "mcq",
+    "q": "My neighbor ___ coffee every morning.",
+    "options": [
+     "drink",
+     "drinking",
+     "drinks"
+    ],
+    "answer": 2,
+    "whyTr": "Tekil 3. kişi: drinks.",
+    "tag": "present-simple",
+    "level": "A2"
+   },
+   {
+    "type": "mcq",
+    "q": "Hafsa ___ a student of English.",
+    "options": [
+     "is",
+     "am",
+     "are"
+    ],
+    "answer": 0,
+    "whyTr": "Hafsa = she; to be: is. (Hafta 1 tekrarı)",
+    "tag": "to-be",
+    "level": "A1"
+   },
+   {
+    "type": "mcq",
+    "q": "Emre ___ his teeth before bed.",
+    "options": [
+     "brush",
+     "brushes",
+     "brushs"
+    ],
+    "answer": 1,
+    "whyTr": "-sh için -es: brushes.",
+    "tag": "spelling",
+    "level": "A2"
+   },
+   {
+    "type": "mcq",
+    "q": "There ___ two chairs in the kitchen.",
+    "options": [
+     "are",
+     "is",
+     "am"
+    ],
+    "answer": 0,
+    "whyTr": "Çoğul isimle 'there are'. (Hafta 1 tekrarı)",
+    "tag": "there-is",
+    "level": "A1"
+   },
+   {
+    "type": "mcq",
+    "q": "What is the opposite of \"morning\"?",
+    "options": [
+     "evening",
+     "lunch",
+     "breakfast"
+    ],
+    "answer": 0,
+    "whyTr": "Morning'in zıttı evening.",
+    "tag": "antonym",
+    "level": "A2"
+   },
+   {
+    "type": "mcq",
+    "q": "Which word means almost the same as \"start\"?",
+    "options": [
+     "finish",
+     "begin",
+     "sleep"
+    ],
+    "answer": 1,
+    "whyTr": "Start ile begin eş anlamlı.",
+    "tag": "synonym",
+    "level": "A2"
+   },
+   {
+    "type": "mcq",
+    "q": "Which word is the opposite of \"wake\"?",
+    "options": [
+     "brush",
+     "start",
+     "sleep"
+    ],
+    "answer": 2,
+    "whyTr": "Wake up ve sleep zıt anlamlı.",
+    "tag": "antonym",
+    "level": "A2"
+   },
+   {
+    "type": "mcq",
+    "q": "The bus ___ at eight o'clock.",
+    "options": [
+     "comes",
+     "come",
+     "coming"
+    ],
+    "answer": 0,
+    "whyTr": "The bus = it; fiile -s gelir.",
+    "tag": "present-simple",
+    "level": "A2"
+   },
+   {
+    "type": "mcq",
+    "q": "I eat ___ at noon. It is my midday meal.",
+    "options": [
+     "breakfast",
+     "lunch",
+     "homework"
+    ],
+    "answer": 1,
+    "whyTr": "Öğle yemeği = lunch.",
+    "tag": "vocab",
+    "level": "A2"
+   },
+   {
+    "type": "mcq",
+    "q": "Mr. Brown works at the school. He ___ the phone every day.",
+    "options": [
+     "answer",
+     "answeres",
+     "answers"
+    ],
+    "answer": 2,
+    "whyTr": "Tekil özne: answers.",
+    "tag": "present-simple",
+    "level": "A2"
+   },
+   {
+    "type": "mcq",
+    "q": "Anna takes a shower, brushes her teeth and eats breakfast. Then she goes to work.\n\nWhat does Anna do after breakfast?",
+    "options": [
+     "She takes a shower.",
+     "She goes to work.",
+     "She brushes her teeth."
+    ],
+    "answer": 1,
+    "whyTr": "Metin: 'Then she goes to work.'",
+    "tag": "reading",
+    "level": "A2"
+   },
+   {
+    "type": "mcq",
+    "q": "\"___ I borrow your pen?\" \"Yes, you can.\" (Hafta 1 tekrarı)",
+    "options": [
+     "Do",
+     "Can",
+     "Is"
+    ],
+    "answer": 1,
+    "whyTr": "İzin istemek için Can I...?",
+    "tag": "modals",
+    "level": "A1"
+   }
+  ]
+ }
+}

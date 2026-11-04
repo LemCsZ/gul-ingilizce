@@ -1,0 +1,792 @@
+{
+ "week": 8,
+ "day": 3,
+ "titleTr": "Yangın tatbikatı: genel kurallar ve unless",
+ "theme": "school-safety",
+ "morning": {
+  "grammar": {
+   "topic": "Zero conditional + unless",
+   "explainTr": [
+    "Her zaman doğru olan şeyleri ve genel kuralları anlatırken zero conditional kullanırsın: If + present simple, present simple. If you heat ice, it melts. 'If' burada 'her seferinde' gibi çalışır, 'will' yoktur.",
+    "Güvenlik talimatlarında sonuç kısmı genelde talimat olur: If you hear the alarm, leave the room. Yani sonuç cümlesi yalın fiille başlayabilir.",
+    "'Unless' = 'if ... not' demektir (-medikçe). You can't enter unless you have a badge. Unless'ten sonra olumlu fiil gelir; 'unless you don't' yanlıştır, çünkü anlam zaten olumsuz."
+   ],
+   "compareTr": "Türkçede 'alarm çalarsa çıkarız' ve 'izin vermedikçe çıkamazsın' için -sa ve -medikçe ekleri vardır. İngilizcede iki ayrı kelime var: if ve unless. Unless'in içinde 'değilse' anlamı gizli, o yüzden yanına ayrıca 'not' koymazsın.",
+   "table": [
+    [
+     "Genel kural",
+     "If + present, present",
+     "If it rains, we stay inside."
+    ],
+    [
+     "Talimat",
+     "If + present, yalın fiil",
+     "If you hear the alarm, leave."
+    ],
+    [
+     "Unless",
+     "Unless + olumlu present, sonuç",
+     "Unless you have a pass, you can't leave."
+    ],
+    [
+     "Aynı anlam",
+     "Unless = if ... not",
+     "If you don't have a pass, you can't leave."
+    ],
+    [
+     "Dikkat",
+     "unless + not yok",
+     "Unless you don't ... (yanlış)"
+    ]
+   ],
+   "examples": [
+    {
+     "en": "If the alarm rings, we leave the room.",
+     "tr": "Alarm çalarsa odadan çıkarız."
+    },
+    {
+     "en": "If you hear the alarm, walk to the exit.",
+     "tr": "Alarmı duyarsan çıkışa yürü."
+    },
+    {
+     "en": "Water boils if you heat it to 100 degrees.",
+     "tr": "Suyu 100 dereceye kadar ısıtırsan kaynar."
+    },
+    {
+     "en": "You can't enter unless you have a badge.",
+     "tr": "Kimliğin yoksa içeri giremezsin."
+    },
+    {
+     "en": "Nobody goes outside unless the teacher says so.",
+     "tr": "Öğretmen söylemedikçe kimse dışarı çıkmaz."
+    }
+   ],
+   "exercises": [
+    {
+     "type": "mcq",
+     "q": "If the alarm rings, students ___ the classroom in a line.",
+     "options": [
+      "leave",
+      "left",
+      "leaving"
+     ],
+     "answer": 0,
+     "whyTr": "Genel kural: If + present simple, present simple.",
+     "tag": "present-simple",
+     "level": "B1"
+    },
+    {
+     "type": "mcq",
+     "q": "If you hear the alarm, ___ the building calmly.",
+     "options": [
+      "leaves",
+      "leave",
+      "you leaving"
+     ],
+     "answer": 1,
+     "whyTr": "Talimat için yalın fiil kullanılır.",
+     "tag": "imperatives",
+     "level": "B1"
+    },
+    {
+     "type": "mcq",
+     "q": "___ you push this door, it opens automatically.",
+     "options": [
+      "Unless",
+      "Because",
+      "If"
+     ],
+     "answer": 2,
+     "whyTr": "Bu bir olumlu koşul: If.",
+     "tag": "linkers",
+     "level": "B1"
+    },
+    {
+     "type": "mcq",
+     "q": "You can't go out ___ the teacher says yes.",
+     "options": [
+      "unless",
+      "if",
+      "when"
+     ],
+     "answer": 0,
+     "whyTr": "'Unless' = if not; 'öğretmen evet demedikçe'.",
+     "tag": "linkers",
+     "level": "B1"
+    },
+    {
+     "type": "order",
+     "promptTr": "Cümleyi sırala:",
+     "words": [
+      "have",
+      "a",
+      "pass,",
+      "you",
+      "can't",
+      "leave",
+      "Unless",
+      "you"
+     ],
+     "answer": "Unless you have a pass, you can't leave",
+     "whyTr": "'Unless' zaten olumsuz anlam taşır; yanına 'not' koymazsın.",
+     "tag": "linkers",
+     "level": "B1"
+    },
+    {
+     "type": "mcq",
+     "q": "Which sentence means the same as \"If you don't have a badge, you can't enter\"?",
+     "options": [
+      "Unless you don't have a badge, you can't enter.",
+      "Unless you have a badge, you can't enter.",
+      "If you have a badge, you can't enter."
+     ],
+     "answer": 1,
+     "whyTr": "Unless = if ... not.",
+     "tag": "linkers",
+     "level": "B1"
+    },
+    {
+     "type": "mcq",
+     "q": "Water boils if you ___ it to 100 degrees.",
+     "options": [
+      "will heat",
+      "heated",
+      "heat"
+     ],
+     "answer": 2,
+     "whyTr": "Bilimsel gerçek: if + present simple, present simple.",
+     "tag": "present-simple",
+     "level": "B1"
+    },
+    {
+     "type": "mcq",
+     "q": "Unless it ___, the class goes outside for recess.",
+     "options": [
+      "rains",
+      "doesn't rain",
+      "won't rain"
+     ],
+     "answer": 0,
+     "whyTr": "Unless'ten sonra olumlu fiil gelir; anlam zaten olumsuz.",
+     "tag": "linkers",
+     "level": "B1"
+    },
+    {
+     "type": "order",
+     "promptTr": "Cümleyi sırala:",
+     "words": [
+      "the",
+      "elevator",
+      "if",
+      "there",
+      "is",
+      "a",
+      "fire",
+      "Don't",
+      "use"
+     ],
+     "answer": "Don't use the elevator if there is a fire",
+     "whyTr": "Yasak talimat: Don't + fiil + if cümlesi.",
+     "tag": "imperatives",
+     "level": "B1"
+    },
+    {
+     "type": "mcq",
+     "q": "Last Friday, the school ___ a fire drill.",
+     "options": [
+      "has",
+      "had",
+      "will have"
+     ],
+     "answer": 1,
+     "whyTr": "'Last Friday' geçmiş zaman: had.",
+     "tag": "past-simple",
+     "level": "A2"
+    },
+    {
+     "type": "mcq",
+     "q": "If I were the principal, I ___ more drills.",
+     "options": [
+      "will plan",
+      "plan",
+      "would plan"
+     ],
+     "answer": 2,
+     "whyTr": "Hayali durum: would + fiil.",
+     "tag": "future",
+     "level": "B1"
+    },
+    {
+     "type": "fill",
+     "q": "Unless you ___ a pass, you cannot leave the room.",
+     "accept": [
+      "have"
+     ],
+     "hintTr": "have (şimdiki zaman)",
+     "whyTr": "Unless'ten sonra olumlu present simple gelir.",
+     "tag": "linkers",
+     "level": "B1"
+    }
+   ]
+  },
+  "vocab": [
+   {
+    "id": "emergency",
+    "en": "emergency",
+    "tr": "acil durum",
+    "pos": "noun",
+    "example": "In an emergency, call 911.",
+    "exampleTr": "Acil durumda 911'i ara.",
+    "syn": [],
+    "ant": [],
+    "level": "B1"
+   },
+   {
+    "id": "alarm",
+    "en": "alarm",
+    "tr": "alarm",
+    "pos": "noun",
+    "example": "The fire alarm is very loud.",
+    "exampleTr": "Yangın alarmı çok gürültülü.",
+    "syn": [],
+    "ant": [],
+    "level": "B1"
+   },
+   {
+    "id": "exit",
+    "en": "exit",
+    "tr": "çıkış; çıkmak",
+    "pos": "noun",
+    "example": "The exit is at the end of the hallway.",
+    "exampleTr": "Çıkış koridorun sonunda.",
+    "syn": [
+     "way out"
+    ],
+    "ant": [
+     "entrance"
+    ],
+    "level": "A2"
+   },
+   {
+    "id": "drill",
+    "en": "drill",
+    "tr": "tatbikat",
+    "pos": "noun",
+    "example": "We have a fire drill every month.",
+    "exampleTr": "Her ay yangın tatbikatı yapıyoruz.",
+    "syn": [],
+    "ant": [],
+    "level": "B1"
+   },
+   {
+    "id": "evacuate",
+    "en": "evacuate",
+    "tr": "tahliye etmek",
+    "pos": "verb",
+    "example": "Everyone must evacuate the building.",
+    "exampleTr": "Herkes binayı tahliye etmeli.",
+    "syn": [
+     "leave"
+    ],
+    "ant": [],
+    "level": "B2"
+   },
+   {
+    "id": "calm",
+    "en": "calm",
+    "tr": "sakin",
+    "pos": "adjective",
+    "example": "Stay calm and walk to the exit.",
+    "exampleTr": "Sakin kal ve çıkışa yürü.",
+    "syn": [
+     "relaxed"
+    ],
+    "ant": [
+     "nervous"
+    ],
+    "level": "B1"
+   },
+   {
+    "id": "lockdown",
+    "en": "lockdown",
+    "tr": "okul kilitleme (güvenlik prosedürü)",
+    "pos": "noun",
+    "example": "During a lockdown, the doors stay locked.",
+    "exampleTr": "Kilitleme sırasında kapılar kilitli kalır.",
+    "syn": [],
+    "ant": [],
+    "level": "B2"
+   },
+   {
+    "id": "instruction",
+    "en": "instruction",
+    "tr": "talimat",
+    "pos": "noun",
+    "example": "Follow the teacher's instructions.",
+    "exampleTr": "Öğretmenin talimatlarına uy.",
+    "syn": [
+     "direction"
+    ],
+    "ant": [],
+    "level": "B1"
+   },
+   {
+    "id": "gather",
+    "en": "gather",
+    "tr": "toplanmak, toplamak",
+    "pos": "verb",
+    "example": "Students gather on the playground.",
+    "exampleTr": "Öğrenciler oyun alanında toplanır.",
+    "syn": [
+     "collect"
+    ],
+    "ant": [
+     "scatter"
+    ],
+    "level": "B1"
+   },
+   {
+    "id": "shelter",
+    "en": "shelter",
+    "tr": "sığınak; barınmak",
+    "pos": "noun",
+    "example": "The basement is a safe shelter.",
+    "exampleTr": "Bodrum güvenli bir sığınak.",
+    "syn": [
+     "refuge"
+    ],
+    "ant": [],
+    "level": "B2"
+   },
+   {
+    "id": "smoke",
+    "en": "smoke",
+    "tr": "duman",
+    "pos": "noun",
+    "example": "Smoke filled the hallway.",
+    "exampleTr": "Duman koridoru doldurdu.",
+    "syn": [],
+    "ant": [],
+    "level": "A2"
+   },
+   {
+    "id": "escape",
+    "en": "escape",
+    "tr": "kaçmak, kurtulmak",
+    "pos": "verb",
+    "example": "Everyone escaped from the building safely.",
+    "exampleTr": "Herkes binadan güvenle kurtuldu.",
+    "syn": [
+     "flee"
+    ],
+    "ant": [],
+    "level": "B1"
+   },
+   {
+    "id": "hurry",
+    "en": "hurry",
+    "tr": "acele etmek",
+    "pos": "verb",
+    "example": "Don't hurry; walk calmly.",
+    "exampleTr": "Acele etme; sakince yürü.",
+    "syn": [
+     "rush"
+    ],
+    "ant": [],
+    "level": "A2"
+   },
+   {
+    "id": "prepare",
+    "en": "prepare",
+    "tr": "hazırlanmak, hazırlamak",
+    "pos": "verb",
+    "example": "We prepare for emergencies with drills.",
+    "exampleTr": "Tatbikatlarla acil durumlara hazırlanırız.",
+    "syn": [
+     "get ready"
+    ],
+    "ant": [],
+    "level": "B1"
+   },
+   {
+    "id": "danger",
+    "en": "danger",
+    "tr": "tehlike",
+    "pos": "noun",
+    "example": "Smoke is a danger to our health.",
+    "exampleTr": "Duman sağlığımız için bir tehlike.",
+    "syn": [
+     "risk"
+    ],
+    "ant": [
+     "safety"
+    ],
+    "level": "B1"
+   }
+  ],
+  "reading": {
+   "title": "The fire drill",
+   "text": "On Wednesday morning, the fire alarm rings at Lincoln Elementary. It is only a drill, but nobody knows the exact time. That is the point of a drill: if people prepare, they stay safe in a real emergency.\n\nHafsa is helping in Ms. Carter's class today. Before school, Ms. Carter tells her the plan. \"If the alarm rings, we stop what we are doing. We leave the room in a line, and the last student closes the door. Unless the hallway is full of smoke, we use the main exit.\"\n\nNow the alarm is loud and the plan is real. Hafsa says, \"Please stand up and walk calmly. Don't run, and don't take your backpacks.\" The children line up quickly. Hafsa carries the attendance list, because the teacher counts the students outside. In the hallway, other classes are walking too. Nobody hurries or shouts.\n\nOn the playground, every class gathers in its own place. Hafsa counts twenty-two students. Twenty-two! Nobody is missing. She gives the number to Mr. Brown, who writes it on his clipboard. After five minutes, the principal says, \"Good job, everyone. You may go back inside.\"\n\nOn the way back, a little girl asks, \"If there is a real fire, will we do the same thing?\" Hafsa smiles. \"Yes. If we practice, we know exactly what to do, and we stay calm.\"",
+   "glossary": [
+    {
+     "en": "fire drill",
+     "tr": "yangın tatbikatı"
+    },
+    {
+     "en": "line up",
+     "tr": "sıraya girmek"
+    },
+    {
+     "en": "backpack",
+     "tr": "sırt çantası"
+    },
+    {
+     "en": "clipboard",
+     "tr": "altlıklı not defteri"
+    },
+    {
+     "en": "missing",
+     "tr": "eksik, kayıp"
+    }
+   ],
+   "questions": [
+    {
+     "type": "mcq",
+     "q": "What is happening at the school on Wednesday?",
+     "options": [
+      "A fire drill",
+      "A real fire",
+      "A lockdown"
+     ],
+     "answer": 0,
+     "whyTr": "Metin: 'It is only a drill.'",
+     "tag": "reading",
+     "level": "B1"
+    },
+    {
+     "type": "mcq",
+     "q": "What does the last student do when the class leaves?",
+     "options": [
+      "He or she turns on the lights.",
+      "He or she closes the door.",
+      "He or she counts the students."
+     ],
+     "answer": 1,
+     "whyTr": "Metin: 'the last student closes the door.'",
+     "tag": "reading",
+     "level": "B1"
+    },
+    {
+     "type": "mcq",
+     "q": "What should the students NOT take outside?",
+     "options": [
+      "Their coats",
+      "Their friends",
+      "Their backpacks"
+     ],
+     "answer": 2,
+     "whyTr": "Hafsa: 'don't take your backpacks.'",
+     "tag": "reading",
+     "level": "B1"
+    },
+    {
+     "type": "mcq",
+     "q": "Why does Hafsa carry the attendance list?",
+     "options": [
+      "The teacher counts the students outside with it.",
+      "The principal wants to read it.",
+      "It tells the time of the drill."
+     ],
+     "answer": 0,
+     "whyTr": "Metin: 'the teacher counts the students outside.'",
+     "tag": "reading",
+     "level": "B1"
+    }
+   ]
+  }
+ },
+ "evening": {
+  "listening": {
+   "title": "The emergency plan",
+   "script": [
+    {
+     "speaker": "Mr. Brown",
+     "text": "Hafsa, before you start, let me explain the emergency plan."
+    },
+    {
+     "speaker": "Hafsa",
+     "text": "Yes, please. I'm a little worried."
+    },
+    {
+     "speaker": "Mr. Brown",
+     "text": "Don't worry. If you hear a long alarm, it's a fire drill. Take your students outside."
+    },
+    {
+     "speaker": "Hafsa",
+     "text": "Which exit do I use?"
+    },
+    {
+     "speaker": "Mr. Brown",
+     "text": "Unless the hallway is blocked, use the blue exit near the gym. If it's blocked, use the back door."
+    },
+    {
+     "speaker": "Hafsa",
+     "text": "And what if the alarm is a different sound?"
+    },
+    {
+     "speaker": "Mr. Brown",
+     "text": "Three short alarms mean lockdown. If you hear three short alarms, lock the door and turn off the lights."
+    },
+    {
+     "speaker": "Hafsa",
+     "text": "Do the students stay in the classroom?"
+    },
+    {
+     "speaker": "Mr. Brown",
+     "text": "Yes. They sit quietly on the floor. Unless you get a message from the office, nobody leaves the room."
+    },
+    {
+     "speaker": "Hafsa",
+     "text": "And my phone?"
+    },
+    {
+     "speaker": "Mr. Brown",
+     "text": "Keep it with you, but use it only for emergencies."
+    },
+    {
+     "speaker": "Hafsa",
+     "text": "Thank you. I feel much more prepared now."
+    }
+   ],
+   "questions": [
+    {
+     "type": "mcq",
+     "q": "What does a long alarm mean?",
+     "options": [
+      "It is a lockdown.",
+      "It is a fire drill.",
+      "It is lunch time."
+     ],
+     "answer": 1,
+     "whyTr": "Mr. Brown: 'If you hear a long alarm, it's a fire drill.'",
+     "tag": "listening",
+     "level": "B1"
+    },
+    {
+     "type": "mcq",
+     "q": "Which exit should Hafsa use if the hallway is not blocked?",
+     "options": [
+      "The back door",
+      "The front office",
+      "The blue exit near the gym"
+     ],
+     "answer": 2,
+     "whyTr": "Mr. Brown: 'Unless the hallway is blocked, use the blue exit near the gym.'",
+     "tag": "listening",
+     "level": "B1"
+    },
+    {
+     "type": "mcq",
+     "q": "What do three short alarms mean?",
+     "options": [
+      "Lockdown",
+      "Fire drill",
+      "The end of school"
+     ],
+     "answer": 0,
+     "whyTr": "Mr. Brown: 'Three short alarms mean lockdown.'",
+     "tag": "listening",
+     "level": "B1"
+    },
+    {
+     "type": "mcq",
+     "q": "What do students do during a lockdown?",
+     "options": [
+      "They walk to the playground.",
+      "They sit quietly on the floor.",
+      "They call their parents."
+     ],
+     "answer": 1,
+     "whyTr": "Mr. Brown: 'They sit quietly on the floor.'",
+     "tag": "listening",
+     "level": "B1"
+    }
+   ]
+  },
+  "writing": {
+   "promptTr": "Öğrencilere yangın tatbikatı için kısa bir güvenlik notu yaz. En az üç if cümlesi ve bir unless cümlesi kullan.",
+   "promptEn": "Write a short safety note to students about a fire drill. Use at least three if-sentences and one unless-sentence.",
+   "frames": [
+    "Dear students, ...",
+    "If you hear the alarm, ...",
+    "Unless your teacher says something different, ...",
+    "If you don't understand, ..."
+   ],
+   "model": "Dear students, please read our fire drill rules. If you hear the alarm, stop what you are doing. Leave your backpack at your desk, and walk to the door in a line. Don't run, and don't talk. Unless your teacher says something different, use the main exit. If the hallway is full of smoke, use the back door. When you are outside, stay with your class. Your teacher counts everyone. Nobody goes back inside unless the principal says it is safe. If you don't understand a rule, ask your teacher. Practice makes us safe. Thank you, Hafsa",
+   "checklistTr": [
+    "If cümlelerinde present simple, sonuçta talimat veya present simple var mı?",
+    "'Unless' cümlesinde olumlu fiil kullandın mı (unless you don't değil)?",
+    "Kısa, net talimatlar yazdın mı?"
+   ],
+   "minWords": 72
+  },
+  "examSet": [
+   {
+    "type": "mcq",
+    "q": "If you press this button, the alarm ___ loudly.",
+    "options": [
+     "ringing",
+     "will to ring",
+     "rings"
+    ],
+    "answer": 2,
+    "whyTr": "Genel gerçek: if + present simple, present simple.",
+    "tag": "present-simple",
+    "level": "B1"
+   },
+   {
+    "type": "mcq",
+    "q": "You can't leave the building ___ the teacher gives permission.",
+    "options": [
+     "unless",
+     "if",
+     "because"
+    ],
+    "answer": 0,
+    "whyTr": "Unless = if not.",
+    "tag": "linkers",
+    "level": "B1"
+   },
+   {
+    "type": "mcq",
+    "q": "Ice ___ if you heat it.",
+    "options": [
+     "melt",
+     "melts",
+     "melted"
+    ],
+    "answer": 1,
+    "whyTr": "Genel gerçek; ice tekil: melts.",
+    "tag": "present-simple",
+    "level": "B1"
+   },
+   {
+    "type": "mcq",
+    "q": "If I were the principal, I ___ more drills.",
+    "options": [
+     "will plan",
+     "plan",
+     "would plan"
+    ],
+    "answer": 2,
+    "whyTr": "Hayali durum: would + fiil.",
+    "tag": "future",
+    "level": "B1"
+   },
+   {
+    "type": "mcq",
+    "q": "If you finish early, you ___ read a book.",
+    "options": [
+     "can",
+     "cans",
+     "to can"
+    ],
+    "answer": 0,
+    "whyTr": "'Can' yalın fiil alır.",
+    "tag": "modals",
+    "level": "A2"
+   },
+   {
+    "type": "mcq",
+    "q": "Which sentence is correct?",
+    "options": [
+     "Unless it doesn't rain, we go outside.",
+     "Unless it rains, we go outside.",
+     "If unless it rains, we go outside."
+    ],
+    "answer": 1,
+    "whyTr": "Unless'ten sonra olumlu fiil gelir.",
+    "tag": "linkers",
+    "level": "B1"
+   },
+   {
+    "type": "mcq",
+    "q": "The students ___ the building in two minutes yesterday.",
+    "options": [
+     "leave",
+     "leaves",
+     "left"
+    ],
+    "answer": 2,
+    "whyTr": "'Yesterday' geçmiş zaman: left.",
+    "tag": "past-simple",
+    "level": "A2"
+   },
+   {
+    "type": "mcq",
+    "q": "In an ___, call 911.",
+    "options": [
+     "emergency",
+     "exit",
+     "instruction"
+    ],
+    "answer": 0,
+    "whyTr": "Acil durum = emergency.",
+    "tag": "vocab",
+    "level": "B1"
+   },
+   {
+    "type": "mcq",
+    "q": "Which word means almost the same as \"hurry\"?",
+    "options": [
+     "wait",
+     "rush",
+     "stay"
+    ],
+    "answer": 1,
+    "whyTr": "Hurry ve rush eş anlamlıdır.",
+    "tag": "synonym",
+    "level": "B1"
+   },
+   {
+    "type": "mcq",
+    "q": "What is the opposite of \"exit\" (the door)?",
+    "options": [
+     "alarm",
+     "drill",
+     "entrance"
+    ],
+    "answer": 2,
+    "whyTr": "Exit'in zıttı entrance.",
+    "tag": "antonym",
+    "level": "B1"
+   },
+   {
+    "type": "mcq",
+    "q": "The teacher's voice was ___, so the children felt safe.",
+    "options": [
+     "calm",
+     "loud",
+     "danger"
+    ],
+    "answer": 0,
+    "whyTr": "Sakin (calm) ses çocukları rahatlatır.",
+    "tag": "vocab",
+    "level": "B1"
+   },
+   {
+    "type": "mcq",
+    "q": "Today we have a lockdown drill. Students sit on the floor. If the office sends a message, the teacher reads it. Unless there is a message, nobody leaves the room.\n\nWhen can students leave the room?",
+    "options": [
+     "When the bell rings",
+     "When the office sends a message",
+     "When they are tired"
+    ],
+    "answer": 1,
+    "whyTr": "Metin: 'Unless there is a message, nobody leaves the room.'",
+    "tag": "reading",
+    "level": "B1"
+   }
+  ]
+ }
+}

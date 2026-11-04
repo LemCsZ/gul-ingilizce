@@ -1,0 +1,869 @@
+{
+ "titleTr": "5. hafta deneme sınavı",
+ "introTr": "İki hafta daha geçti ve artık deneyimlerinden, planlarından ve kurallardan söz edebiliyorsun. Bu deneme sana nerede güçlendiğini gösterecek. Not için değil, kendini tanımak için çöz.",
+ "sections": [
+  {
+   "id": "grammar",
+   "titleTr": "Dil bilgisi",
+   "items": [
+    {
+     "type": "mcq",
+     "q": "Have you ever ___ to New York?",
+     "options": [
+      "went",
+      "been",
+      "be",
+      "go"
+     ],
+     "answer": 1,
+     "whyTr": "Present perfect: have/has + V3. Be fiilinin V3'ü 'been'.",
+     "tag": "present-perfect",
+     "level": "A2"
+    },
+    {
+     "type": "mcq",
+     "q": "I have never ___ sushi.",
+     "options": [
+      "ate",
+      "eat",
+      "eaten",
+      "eating"
+     ],
+     "answer": 2,
+     "whyTr": "Have never + V3: eat - ate - eaten.",
+     "tag": "present-perfect",
+     "level": "A2"
+    },
+    {
+     "type": "mcq",
+     "q": "She has ___ finished the report. It's on your desk.",
+     "options": [
+      "yet",
+      "ever",
+      "ago",
+      "already"
+     ],
+     "answer": 3,
+     "whyTr": "Olumlu cümlede 'bitti bile' anlamı için already kullanılır.",
+     "tag": "present-perfect",
+     "level": "A2"
+    },
+    {
+     "type": "mcq",
+     "q": "Have you cleaned the classroom ___?",
+     "options": [
+      "yet",
+      "already",
+      "just",
+      "ever"
+     ],
+     "answer": 0,
+     "whyTr": "Soru ve olumsuz cümlede 'henüz' anlamı için yet kullanılır.",
+     "tag": "present-perfect",
+     "level": "A2"
+    },
+    {
+     "type": "mcq",
+     "q": "This job is ___ than my old job.",
+     "options": [
+      "gooder",
+      "better",
+      "more good",
+      "best"
+     ],
+     "answer": 1,
+     "whyTr": "Good'un karşılaştırması düzensizdir: good - better - best.",
+     "tag": "comparatives",
+     "level": "A2"
+    },
+    {
+     "type": "mcq",
+     "q": "Ms. Carter is the ___ teacher in our school.",
+     "options": [
+      "more helpful",
+      "helpfulest",
+      "most helpful",
+      "much helpful"
+     ],
+     "answer": 2,
+     "whyTr": "Uzun sıfatlarda en üstünlük: the most + sıfat.",
+     "tag": "comparatives",
+     "level": "A2"
+    },
+    {
+     "type": "mcq",
+     "q": "You look tired. You ___ go to bed early tonight.",
+     "options": [
+      "shoulds",
+      "must to",
+      "are",
+      "should"
+     ],
+     "answer": 3,
+     "whyTr": "Tavsiye için should + fiil yalın hali kullanılır.",
+     "tag": "modals",
+     "level": "A2"
+    },
+    {
+     "type": "mcq",
+     "q": "When I was ten, I ___ swim very well.",
+     "options": [
+      "could",
+      "can",
+      "coulds",
+      "am able"
+     ],
+     "answer": 0,
+     "whyTr": "Geçmişte yetenek için could kullanılır.",
+     "tag": "modals",
+     "level": "A2"
+    },
+    {
+     "type": "mcq",
+     "q": "At work, we ___ wear a name badge. It's a rule.",
+     "options": [
+      "has to",
+      "have to",
+      "must to",
+      "are have to"
+     ],
+     "answer": 1,
+     "whyTr": "Zorunluluk: have to + fiil. We ile 'have'.",
+     "tag": "modals",
+     "level": "A2"
+    },
+    {
+     "type": "mcq",
+     "q": "You ___ bring lunch. The school gives free lunch.",
+     "options": [
+      "mustn't",
+      "can't to",
+      "don't have to",
+      "haven't to"
+     ],
+     "answer": 2,
+     "whyTr": "Gerek yok anlamı için don't have to; mustn't 'yasak' demektir.",
+     "tag": "modals",
+     "level": "A2"
+    },
+    {
+     "type": "mcq",
+     "q": "Would you like ___ some tea?",
+     "options": [
+      "having",
+      "have",
+      "had",
+      "to have"
+     ],
+     "answer": 3,
+     "whyTr": "Would like + to + fiil.",
+     "tag": "gerund-infinitive",
+     "level": "A2"
+    },
+    {
+     "type": "mcq",
+     "q": "Do you know where ___?",
+     "options": [
+      "the library is",
+      "is the library",
+      "does the library",
+      "the library it is"
+     ],
+     "answer": 0,
+     "whyTr": "Dolaylı soruda düz cümle sırası kullanılır.",
+     "tag": "word-order",
+     "level": "B1"
+    },
+    {
+     "type": "mcq",
+     "q": "It was raining, ___ we took an umbrella.",
+     "options": [
+      "because",
+      "so",
+      "but",
+      "if"
+     ],
+     "answer": 1,
+     "whyTr": "Sonuç bildirmek için so kullanılır.",
+     "tag": "linkers",
+     "level": "A2"
+    },
+    {
+     "type": "mcq",
+     "q": "Hafsa wants to ___ a substitute teacher.",
+     "options": [
+      "being",
+      "been",
+      "be",
+      "is"
+     ],
+     "answer": 2,
+     "whyTr": "Want + to + fiilin yalın hali.",
+     "tag": "gerund-infinitive",
+     "level": "A2"
+    },
+    {
+     "type": "mcq",
+     "q": "We are going to visit ___ Statue of Liberty.",
+     "options": [
+      "a",
+      "an",
+      "some",
+      "the"
+     ],
+     "answer": 3,
+     "whyTr": "Bilinen, tek olan yer adlarında the kullanılır.",
+     "tag": "articles",
+     "level": "A2"
+    },
+    {
+     "type": "mcq",
+     "q": "I need ___ water, please.",
+     "options": [
+      "some",
+      "many",
+      "a few",
+      "several"
+     ],
+     "answer": 0,
+     "whyTr": "Sayılamayan isimle some kullanılır; many ve a few sayılabilir isimle.",
+     "tag": "countable",
+     "level": "A2"
+    },
+    {
+     "type": "mcq",
+     "q": "How ___ sugar do you want in your coffee?",
+     "options": [
+      "many",
+      "much",
+      "few",
+      "lot"
+     ],
+     "answer": 1,
+     "whyTr": "Sayılamayan isimlerle how much kullanılır.",
+     "tag": "countable",
+     "level": "A2"
+    },
+    {
+     "type": "mcq",
+     "q": "The meeting is ___ Thursday ___ 4:00 p.m.",
+     "options": [
+      "in / at",
+      "at / on",
+      "on / at",
+      "on / in"
+     ],
+     "answer": 2,
+     "whyTr": "Günlerle on, saatlerle at kullanılır.",
+     "tag": "prepositions-time",
+     "level": "A2"
+    },
+    {
+     "type": "mcq",
+     "q": "I'm ___ my manager tomorrow at ten. It's in my calendar.",
+     "options": [
+      "meet",
+      "will meeting",
+      "met",
+      "meeting"
+     ],
+     "answer": 3,
+     "whyTr": "Ajandadaki kesin plan için present continuous kullanılır.",
+     "tag": "present-continuous",
+     "level": "A2"
+    },
+    {
+     "type": "mcq",
+     "q": "She has worked here ___ 2019.",
+     "options": [
+      "since",
+      "for",
+      "ago",
+      "from"
+     ],
+     "answer": 0,
+     "whyTr": "Başlangıç noktasıyla (2019) since kullanılır.",
+     "tag": "present-perfect",
+     "level": "B1"
+    }
+   ]
+  },
+  {
+   "id": "vocab",
+   "titleTr": "Kelime",
+   "items": [
+    {
+     "type": "mcq",
+     "q": "What is the opposite of 'safe'?",
+     "options": [
+      "careful",
+      "dangerous",
+      "quiet",
+      "empty"
+     ],
+     "answer": 1,
+     "whyTr": "Safe (güvenli) kelimesinin zıttı dangerous (tehlikeli).",
+     "tag": "antonym",
+     "level": "A2"
+    },
+    {
+     "type": "mcq",
+     "q": "'Do you have any experience with children?' Experience means:",
+     "options": [
+      "a large family",
+      "a university degree",
+      "knowledge from doing something",
+      "a free day"
+     ],
+     "answer": 2,
+     "whyTr": "Experience, bir işi yaparak kazanılan tecrübedir.",
+     "tag": "vocab",
+     "level": "A2"
+    },
+    {
+     "type": "mcq",
+     "q": "Which word means the same as 'sick'?",
+     "options": [
+      "late",
+      "quiet",
+      "angry",
+      "ill"
+     ],
+     "answer": 3,
+     "whyTr": "Sick ve ill aynı anlama gelir.",
+     "tag": "synonym",
+     "level": "A2"
+    },
+    {
+     "type": "mcq",
+     "q": "I have to ___ the laundry today.",
+     "options": [
+      "do",
+      "make",
+      "take",
+      "give"
+     ],
+     "answer": 0,
+     "whyTr": "'Do the laundry' çamaşır yıkamak demektir.",
+     "tag": "collocations",
+     "level": "A2"
+    },
+    {
+     "type": "mcq",
+     "q": "What is the opposite of 'full'?",
+     "options": [
+      "heavy",
+      "empty",
+      "short",
+      "thin"
+     ],
+     "answer": 1,
+     "whyTr": "Full (dolu) kelimesinin zıttı empty (boş).",
+     "tag": "antonym",
+     "level": "A2"
+    },
+    {
+     "type": "mcq",
+     "q": "'You should drink plenty of water.' Plenty of means:",
+     "options": [
+      "a little",
+      "no",
+      "a lot of",
+      "cold"
+     ],
+     "answer": 2,
+     "whyTr": "Plenty of, bol miktarda demektir.",
+     "tag": "vocab",
+     "level": "A2"
+    },
+    {
+     "type": "mcq",
+     "q": "Please ___ a seat. The doctor will see you soon.",
+     "options": [
+      "make",
+      "do",
+      "put",
+      "take"
+     ],
+     "answer": 3,
+     "whyTr": "'Take a seat' oturmak demektir.",
+     "tag": "collocations",
+     "level": "A2"
+    },
+    {
+     "type": "mcq",
+     "q": "Which word means the same as 'boss'?",
+     "options": [
+      "manager",
+      "customer",
+      "neighbor",
+      "student"
+     ],
+     "answer": 0,
+     "whyTr": "Boss ve manager benzer anlamdadır: patron, yönetici.",
+     "tag": "synonym",
+     "level": "A2"
+    },
+    {
+     "type": "mcq",
+     "q": "'The doctor gave me some good advice.' Advice means:",
+     "options": [
+      "a free medicine",
+      "a helpful suggestion",
+      "a small bill",
+      "a long wait"
+     ],
+     "answer": 1,
+     "whyTr": "Advice, yararlı bir tavsiyedir.",
+     "tag": "vocab",
+     "level": "A2"
+    },
+    {
+     "type": "mcq",
+     "q": "'The company offers good benefits, like health insurance.' Benefits are:",
+     "options": [
+      "rules for new workers",
+      "free classes for children",
+      "extra things an employee gets besides pay",
+      "long meetings"
+     ],
+     "answer": 2,
+     "whyTr": "Benefits, maaş dışında sağlanan yan haklardır.",
+     "tag": "vocab",
+     "level": "B1"
+    },
+    {
+     "type": "mcq",
+     "q": "What is the opposite of 'allow'?",
+     "options": [
+      "agree",
+      "invite",
+      "offer",
+      "forbid"
+     ],
+     "answer": 3,
+     "whyTr": "Allow (izin vermek) kelimesinin zıttı forbid (yasaklamak).",
+     "tag": "antonym",
+     "level": "B1"
+    },
+    {
+     "type": "mcq",
+     "q": "'Hafsa is nervous before the interview.' Nervous means:",
+     "options": [
+      "a little afraid or worried",
+      "very happy",
+      "very tired",
+      "very angry"
+     ],
+     "answer": 0,
+     "whyTr": "Nervous, gergin ve endişeli demektir.",
+     "tag": "vocab",
+     "level": "A2"
+    }
+   ]
+  },
+  {
+   "id": "reading",
+   "titleTr": "Okuma",
+   "passages": [
+    {
+     "title": "Practicing for the interview",
+     "level": "A2",
+     "text": "Hafsa has a job interview tomorrow at Lincoln Elementary. She is nervous, so she is practicing with Emre.\n\nEmre asks, 'Have you ever worked in a school?' Hafsa answers, 'Yes, I have. In Turkey, I taught English to children for two years.' 'Have you ever worked in an American school?' 'No, I haven't. But I have helped at your school many times.' Emre says her answers are good.\n\nHafsa has already chosen her clothes, and she has just finished ironing her blouse. She hasn't written her questions for the principal yet. She will do that tonight.",
+     "questions": [
+      {
+       "type": "mcq",
+       "q": "Why is Hafsa practicing with Emre?",
+       "options": [
+        "She has a test today.",
+        "She has an interview tomorrow.",
+        "Emre wants a new job.",
+        "She is learning Turkish."
+       ],
+       "answer": 1,
+       "whyTr": "Metinde: 'a job interview tomorrow'.",
+       "tag": "reading",
+       "level": "A2"
+      },
+      {
+       "type": "mcq",
+       "q": "Has Hafsa ever worked in an American school?",
+       "options": [
+        "Yes, for two years.",
+        "Yes, as a principal.",
+        "No, she has only helped at Emre's school.",
+        "No, she has never been in a school."
+       ],
+       "answer": 2,
+       "whyTr": "Hafsa: 'No, I haven't. But I have helped at your school many times.'",
+       "tag": "reading",
+       "level": "A2"
+      },
+      {
+       "type": "mcq",
+       "q": "What hasn't Hafsa done yet?",
+       "options": [
+        "Chosen her clothes",
+        "Ironed her blouse",
+        "Practiced with Emre",
+        "Written her questions for the principal"
+       ],
+       "answer": 3,
+       "whyTr": "Metinde: 'She hasn't written her questions for the principal yet.'",
+       "tag": "reading",
+       "level": "A2"
+      }
+     ]
+    },
+    {
+     "title": "Rules for volunteers",
+     "level": "A2",
+     "text": "Hafsa volunteers in the front office once a week. There are a few rules for volunteers.\n\nVolunteers have to wear a name badge and sign in at the desk every morning. They must not use their phones in front of students. They don't have to wear a uniform, but they should dress neatly.\n\nMr. Brown says volunteers can take a fifteen-minute break at 10:30. If a parent asks a question about a student, volunteers should call Mr. Brown. They shouldn't share any information about students.",
+     "questions": [
+      {
+       "type": "mcq",
+       "q": "What do volunteers have to do every morning?",
+       "options": [
+        "Sign in at the desk",
+        "Wear a uniform",
+        "Call the parents",
+        "Clean the office"
+       ],
+       "answer": 0,
+       "whyTr": "Metinde: 'sign in at the desk every morning'.",
+       "tag": "reading",
+       "level": "A2"
+      },
+      {
+       "type": "mcq",
+       "q": "What don't volunteers have to wear?",
+       "options": [
+        "A name badge",
+        "A uniform",
+        "Neat clothes",
+        "A jacket"
+       ],
+       "answer": 1,
+       "whyTr": "Metinde: 'They don't have to wear a uniform'.",
+       "tag": "reading",
+       "level": "A2"
+      },
+      {
+       "type": "mcq",
+       "q": "What should a volunteer do when a parent asks about a student?",
+       "options": [
+        "Answer the question",
+        "Use a phone in class",
+        "Call Mr. Brown",
+        "Ask the student"
+       ],
+       "answer": 2,
+       "whyTr": "Metinde: 'volunteers should call Mr. Brown'.",
+       "tag": "reading",
+       "level": "A2"
+      },
+      {
+       "type": "mcq",
+       "q": "When can volunteers take a break?",
+       "options": [
+        "At noon",
+        "At 8:00",
+        "At 2:30",
+        "At 10:30"
+       ],
+       "answer": 3,
+       "whyTr": "Metinde: 'a fifteen-minute break at 10:30'.",
+       "tag": "reading",
+       "level": "A2"
+      }
+     ]
+    },
+    {
+     "title": "Two job offers",
+     "level": "B1",
+     "text": "Hafsa has two job offers. The first one is at a grocery store. It pays more money, fifteen dollars an hour, and the store is closer to her home. However, she has to work on weekends, and she would be on her feet all day.\n\nThe second job is a classroom aide at an elementary school. It pays less, thirteen dollars an hour, and it is farther away. But the hours are better: she finishes at 2:30 and has the same holidays as Emre. It is also the best way to learn about American schools.\n\nHafsa thinks the aide job is more interesting than the store job, so she is going to accept it.",
+     "questions": [
+      {
+       "type": "mcq",
+       "q": "Which job pays more?",
+       "options": [
+        "The grocery store job",
+        "The classroom aide job",
+        "They pay the same",
+        "The text does not say"
+       ],
+       "answer": 0,
+       "whyTr": "Mağaza saatte 15, okul yardımcılığı 13 dolar.",
+       "tag": "reading",
+       "level": "A2"
+      },
+      {
+       "type": "mcq",
+       "q": "Why does Hafsa choose the aide job?",
+       "options": [
+        "It pays more money.",
+        "She thinks it is more interesting and has better hours.",
+        "It is closer to her home.",
+        "She has to work on weekends."
+       ],
+       "answer": 1,
+       "whyTr": "Metin: daha ilginç, saatler daha iyi.",
+       "tag": "reading",
+       "level": "B1"
+      },
+      {
+       "type": "mcq",
+       "q": "What is true about the grocery store job?",
+       "options": [
+        "It ends at 2:30.",
+        "It has school holidays.",
+        "It is closer but she must work on weekends.",
+        "It is farther from home."
+       ],
+       "answer": 2,
+       "whyTr": "Metinde mağaza daha yakın ama hafta sonu çalışmak gerekiyor.",
+       "tag": "reading",
+       "level": "B1"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "listening",
+   "titleTr": "Dinleme",
+   "passages": [
+    {
+     "title": "Interview questions",
+     "level": "A2",
+     "script": [
+      {
+       "speaker": "Ms. Carter",
+       "text": "Have you ever worked with children?"
+      },
+      {
+       "speaker": "Hafsa",
+       "text": "Yes, I have. I taught English in Turkey for two years."
+      },
+      {
+       "speaker": "Ms. Carter",
+       "text": "Have you ever worked in an American school?"
+      },
+      {
+       "speaker": "Hafsa",
+       "text": "No, I haven't, but I have helped at my son's school many times."
+      },
+      {
+       "speaker": "Ms. Carter",
+       "text": "That's good. Can you start next Monday?"
+      },
+      {
+       "speaker": "Hafsa",
+       "text": "Yes, I can."
+      },
+      {
+       "speaker": "Ms. Carter",
+       "text": "One more thing. Have you sent us a copy of your ID yet?"
+      },
+      {
+       "speaker": "Hafsa",
+       "text": "Not yet. I will bring it tomorrow."
+      }
+     ],
+     "questions": [
+      {
+       "type": "mcq",
+       "q": "What did Hafsa do in Turkey?",
+       "options": [
+        "She was a nurse.",
+        "She worked in a bank.",
+        "She drove a bus.",
+        "She taught English."
+       ],
+       "answer": 3,
+       "whyTr": "Hafsa: 'I taught English in Turkey for two years.'",
+       "tag": "listening",
+       "level": "A2"
+      },
+      {
+       "type": "mcq",
+       "q": "Has Hafsa worked in an American school?",
+       "options": [
+        "No, but she has helped at her son's school.",
+        "Yes, for two years.",
+        "Yes, last year.",
+        "No, she has never helped at a school."
+       ],
+       "answer": 0,
+       "whyTr": "Hafsa: 'No, I haven't, but I have helped at my son's school.'",
+       "tag": "listening",
+       "level": "A2"
+      },
+      {
+       "type": "mcq",
+       "q": "What hasn't Hafsa done yet?",
+       "options": [
+        "She hasn't met Ms. Carter.",
+        "She hasn't sent a copy of her ID.",
+        "She hasn't found a school.",
+        "She hasn't learned English."
+       ],
+       "answer": 1,
+       "whyTr": "Hafsa: 'Not yet.' ID kopyasını göndermedi.",
+       "tag": "listening",
+       "level": "A2"
+      }
+     ]
+    },
+    {
+     "title": "At the doctor's office",
+     "level": "A2",
+     "script": [
+      {
+       "speaker": "Doctor",
+       "text": "What's the problem, Hafsa?"
+      },
+      {
+       "speaker": "Hafsa",
+       "text": "I have a bad cough, and I feel tired all the time."
+      },
+      {
+       "speaker": "Doctor",
+       "text": "How long have you had the cough?"
+      },
+      {
+       "speaker": "Hafsa",
+       "text": "For about a week."
+      },
+      {
+       "speaker": "Doctor",
+       "text": "I think you should drink a lot of water and get more sleep. You shouldn't go to work for two days."
+      },
+      {
+       "speaker": "Hafsa",
+       "text": "Can I take some medicine?"
+      },
+      {
+       "speaker": "Doctor",
+       "text": "Yes, you can take this one twice a day. If you don't feel better in a week, come back."
+      }
+     ],
+     "questions": [
+      {
+       "type": "mcq",
+       "q": "What is Hafsa's problem?",
+       "options": [
+        "She has a headache.",
+        "She broke her arm.",
+        "She has a cough and feels tired.",
+        "She cannot sleep because of noise."
+       ],
+       "answer": 2,
+       "whyTr": "Hafsa: 'I have a bad cough, and I feel tired.'",
+       "tag": "listening",
+       "level": "A2"
+      },
+      {
+       "type": "mcq",
+       "q": "What shouldn't Hafsa do?",
+       "options": [
+        "Drink water",
+        "Sleep more",
+        "Take medicine",
+        "Go to work for two days"
+       ],
+       "answer": 3,
+       "whyTr": "Doktor: 'You shouldn't go to work for two days.'",
+       "tag": "listening",
+       "level": "A2"
+      },
+      {
+       "type": "mcq",
+       "q": "How often should she take the medicine?",
+       "options": [
+        "Twice a day",
+        "Once a week",
+        "Every hour",
+        "Only at night"
+       ],
+       "answer": 0,
+       "whyTr": "Doktor: 'twice a day'.",
+       "tag": "listening",
+       "level": "A2"
+      }
+     ]
+    },
+    {
+     "title": "First morning as a volunteer",
+     "level": "A2",
+     "script": [
+      {
+       "speaker": "Mr. Brown",
+       "text": "Welcome, Hafsa. Here are the rules for volunteers. You have to sign in every morning."
+      },
+      {
+       "speaker": "Hafsa",
+       "text": "Okay. Do I have to wear a uniform?"
+      },
+      {
+       "speaker": "Mr. Brown",
+       "text": "No, you don't. But you must wear your name badge. Here is yours."
+      },
+      {
+       "speaker": "Hafsa",
+       "text": "Thank you. Where can I put my coat?"
+      },
+      {
+       "speaker": "Mr. Brown",
+       "text": "There is a closet behind my desk."
+      }
+     ],
+     "questions": [
+      {
+       "type": "mcq",
+       "q": "What does Hafsa have to do every morning?",
+       "options": [
+        "Wear a uniform",
+        "Sign in",
+        "Call Mr. Brown",
+        "Clean the closet"
+       ],
+       "answer": 1,
+       "whyTr": "Mr. Brown: 'You have to sign in every morning.'",
+       "tag": "listening",
+       "level": "A2"
+      },
+      {
+       "type": "mcq",
+       "q": "What must Hafsa wear?",
+       "options": [
+        "A uniform",
+        "A coat",
+        "A name badge",
+        "A hat"
+       ],
+       "answer": 2,
+       "whyTr": "Mr. Brown: 'you must wear your name badge'.",
+       "tag": "listening",
+       "level": "A2"
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "writing": {
+  "promptTr": "Bir iş arkadaşına kısa bir mesaj yaz: Hangi işi yapmak istiyorsun ve neden? Daha önce hangi deneyimlerin var? Because, so ve but kullan.",
+  "promptEn": "Write a short message about the job you would like to do and why. Say what experience you have. Use because, so and but.",
+  "minWords": 50,
+  "checklistTr": [
+   "Would like to / want to + fiil kullandım mı?",
+   "I have worked / I have never ... gibi bir deneyim cümlesi yazdım mı?",
+   "Because, so veya but ile en az iki cümleyi birleştirdim mi?",
+   "Like/love + -ing ile bir tercih belirttim mi?",
+   "Karşılaştırma (more interesting than...) yaptım mı?",
+   "Cümleler büyük harfle başlıyor ve nokta ile bitiyor mu?"
+  ],
+  "model": "I would like to work in a school because I love working with children. I have taught English in Turkey for two years, but I have never worked in an American school. I have already volunteered at my son's school, so I know some of the rules. I think a school job is more interesting than an office job. I like helping students, and I am very patient."
+ }
+}

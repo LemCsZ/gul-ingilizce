@@ -1,0 +1,803 @@
+{
+ "week": 5,
+ "day": 5,
+ "titleTr": "İş yeri kuralları: have to, must, don't have to",
+ "theme": "workplace-rules",
+ "morning": {
+  "grammar": {
+   "topic": "have to / must / don't have to",
+   "explainTr": [
+    "Zorunlu şeyler için 'have to' ya da 'must' kullanılır: You have to wear a badge. (Kimliği takmak zorundasın.) He / she / it ile 'has to' gelir: She has to sign in. İkisinden sonra da fiil yalın kalır.",
+    "Soru ve olumsuz için 'do/does' kullanılır: Do I have to sign in? He doesn't have to work on Friday. (Gerek yok, serbest.)",
+    "Dikkat: 'don't have to' (gerek yok) ile 'mustn't' (yasak) aynı değildir. You mustn't use your phone. = Kullanman yasak."
+   ],
+   "compareTr": "Türkçede 'gerekmiyor' ve 'yasak' farklı kelimelerdir (zorunda değilsin / yasak). İngilizcede de ayrıdır: don't have to = gerek yok, mustn't = yasak. Türkçe 'zorundayım' tek ek ile gelir; İngilizcede 'have to' ayrı yazılır.",
+   "table": [
+    [
+     "Zorunluluk",
+     "have to / has to + fiil",
+     "I have to sign in."
+    ],
+    [
+     "Güçlü zorunluluk",
+     "must + fiil",
+     "You must wear a badge."
+    ],
+    [
+     "Gerek yok",
+     "don't / doesn't have to + fiil",
+     "You don't have to wear a uniform."
+    ],
+    [
+     "Yasak",
+     "mustn't + fiil",
+     "You mustn't run."
+    ],
+    [
+     "Soru",
+     "Do/Does + özne + have to + fiil?",
+     "Do I have to sign in?"
+    ],
+    [
+     "Kısa cevap",
+     "Yes, I do. / No, I don't.",
+     "Does she have to? Yes, she does."
+    ]
+   ],
+   "examples": [
+    {
+     "en": "I have to wear a badge.",
+     "tr": "Kimlik kartı takmak zorundayım."
+    },
+    {
+     "en": "She has to sign in every day.",
+     "tr": "O her gün kayıt yaptırmak zorunda."
+    },
+    {
+     "en": "You don't have to wear a uniform.",
+     "tr": "Üniforma giymek zorunda değilsin."
+    },
+    {
+     "en": "You mustn't use your phone in class.",
+     "tr": "Sınıfta telefon kullanmak yasak."
+    },
+    {
+     "en": "Do I have to work on Friday?",
+     "tr": "Cuma günü çalışmak zorunda mıyım?"
+    }
+   ],
+   "exercises": [
+    {
+     "type": "mcq",
+     "q": "Visitors ___ sign in at the front office.",
+     "options": [
+      "have to",
+      "has to",
+      "have",
+      "must to"
+     ],
+     "answer": 0,
+     "whyTr": "Zorunluluk: have to + yalın fiil (visitors çoğul).",
+     "tag": "modals",
+     "level": "A2"
+    },
+    {
+     "type": "mcq",
+     "q": "She ___ wear a badge at work.",
+     "options": [
+      "have to",
+      "has to",
+      "has",
+      "must to"
+     ],
+     "answer": 1,
+     "whyTr": "She ile 'has to' kullanılır.",
+     "tag": "modals",
+     "level": "A2"
+    },
+    {
+     "type": "order",
+     "promptTr": "Cümleyi sırala:",
+     "words": [
+      "wear",
+      "a",
+      "badge.",
+      "All",
+      "teachers",
+      "must"
+     ],
+     "answer": "All teachers must wear a badge.",
+     "whyTr": "Özne + must + fiil + gerisi.",
+     "tag": "modals",
+     "level": "A2"
+    },
+    {
+     "type": "mcq",
+     "q": "You ___ run in the hallway. It is dangerous.",
+     "options": [
+      "don't have to",
+      "haven't to",
+      "mustn't",
+      "mustn't to"
+     ],
+     "answer": 2,
+     "whyTr": "Yasak: mustn't (yapma).",
+     "tag": "modals",
+     "level": "A2"
+    },
+    {
+     "type": "mcq",
+     "q": "You ___ wear a uniform. You can wear your own clothes.",
+     "options": [
+      "mustn't",
+      "must",
+      "have to",
+      "don't have to"
+     ],
+     "answer": 3,
+     "whyTr": "Zorunlu değil, serbest: don't have to.",
+     "tag": "modals",
+     "level": "A2"
+    },
+    {
+     "type": "mcq",
+     "q": "___ I have to bring my ID?",
+     "options": [
+      "Do",
+      "Must",
+      "Have",
+      "Am"
+     ],
+     "answer": 0,
+     "whyTr": "have to ile soru: Do + özne + have to?",
+     "tag": "question-form",
+     "level": "A2"
+    },
+    {
+     "type": "order",
+     "promptTr": "Soruyu sırala:",
+     "words": [
+      "to",
+      "sign",
+      "in?",
+      "Do",
+      "I",
+      "have"
+     ],
+     "answer": "Do I have to sign in?",
+     "whyTr": "Do + özne + have to + fiil?",
+     "tag": "question-form",
+     "level": "A2"
+    },
+    {
+     "type": "mcq",
+     "q": "He ___ work on Sundays. It is his day off.",
+     "options": [
+      "don't have to",
+      "doesn't have to",
+      "mustn't",
+      "hasn't to"
+     ],
+     "answer": 1,
+     "whyTr": "He ile 'doesn't have to' kullanılır: çalışması gerekmiyor.",
+     "tag": "negative-form",
+     "level": "A2"
+    },
+    {
+     "type": "mcq",
+     "q": "Which sentence is correct?",
+     "options": [
+      "She has to arrives at seven.",
+      "She have to arrive at seven.",
+      "She has to arrive at seven.",
+      "She must to arrive at seven."
+     ],
+     "answer": 2,
+     "whyTr": "Has to + yalın fiil.",
+     "tag": "modals",
+     "level": "A2"
+    },
+    {
+     "type": "mcq",
+     "q": "Students ___ use their phones during the test. It is not allowed.",
+     "options": [
+      "don't have to",
+      "doesn't have to",
+      "haven't to",
+      "mustn't"
+     ],
+     "answer": 3,
+     "whyTr": "Yasak: mustn't.",
+     "tag": "modals",
+     "level": "A2"
+    },
+    {
+     "type": "fill",
+     "q": "Teachers ___ come early. School starts at eight.",
+     "accept": [
+      "must"
+     ],
+     "hintTr": "zorunlu",
+     "whyTr": "Güçlü zorunluluk için 'must' kullanılır.",
+     "tag": "modals",
+     "level": "A2"
+    },
+    {
+     "type": "mcq",
+     "q": "You look tired. You ___ go home and rest.",
+     "options": [
+      "should",
+      "must to",
+      "shoulds",
+      "are should"
+     ],
+     "answer": 0,
+     "whyTr": "Tavsiye için 'should' kullanılır.",
+     "tag": "modals",
+     "level": "A2"
+    }
+   ]
+  },
+  "vocab": [
+   {
+    "id": "rule",
+    "en": "rule",
+    "tr": "kural",
+    "pos": "noun",
+    "example": "The first rule is to be on time.",
+    "exampleTr": "İlk kural zamanında olmak.",
+    "syn": [],
+    "ant": [],
+    "level": "A2"
+   },
+   {
+    "id": "badge",
+    "en": "badge",
+    "tr": "kimlik kartı, rozet",
+    "pos": "noun",
+    "example": "Every worker wears a badge.",
+    "exampleTr": "Her çalışan kimlik kartı takar.",
+    "syn": [],
+    "ant": [],
+    "level": "A2"
+   },
+   {
+    "id": "uniform",
+    "en": "uniform",
+    "tr": "üniforma",
+    "pos": "noun",
+    "example": "The bus driver wears a uniform.",
+    "exampleTr": "Otobüs şoförü üniforma giyer.",
+    "syn": [],
+    "ant": [],
+    "level": "A2"
+   },
+   {
+    "id": "visitor",
+    "en": "visitor",
+    "tr": "ziyaretçi",
+    "pos": "noun",
+    "example": "Every visitor has to sign in.",
+    "exampleTr": "Her ziyaretçi kayıt yaptırmak zorunda.",
+    "syn": [],
+    "ant": [],
+    "level": "A2"
+   },
+   {
+    "id": "sign",
+    "en": "sign",
+    "tr": "imzalamak; işaret",
+    "pos": "verb",
+    "example": "Please sign your name here.",
+    "exampleTr": "Lütfen adını buraya imzala.",
+    "syn": [],
+    "ant": [],
+    "level": "A2"
+   },
+   {
+    "id": "allowed",
+    "en": "allowed",
+    "tr": "izinli",
+    "pos": "adjective",
+    "example": "Phones are not allowed in class.",
+    "exampleTr": "Sınıfta telefon izinli değil.",
+    "syn": [
+     "permitted"
+    ],
+    "ant": [
+     "forbidden"
+    ],
+    "level": "A2"
+   },
+   {
+    "id": "permission",
+    "en": "permission",
+    "tr": "izin",
+    "pos": "noun",
+    "example": "You need permission to leave early.",
+    "exampleTr": "Erken ayrılmak için izne ihtiyacın var.",
+    "syn": [],
+    "ant": [],
+    "level": "A2"
+   },
+   {
+    "id": "break",
+    "en": "break",
+    "tr": "mola; ara",
+    "pos": "noun",
+    "example": "We have a ten-minute break at ten.",
+    "exampleTr": "Saat onda on dakika molamız var.",
+    "syn": [],
+    "ant": [],
+    "level": "A2"
+   },
+   {
+    "id": "lunch",
+    "en": "lunch",
+    "tr": "öğle yemeği",
+    "pos": "noun",
+    "example": "Teachers eat lunch at noon.",
+    "exampleTr": "Öğretmenler öğlen yemek yer.",
+    "syn": [],
+    "ant": [],
+    "level": "A2"
+   },
+   {
+    "id": "shift",
+    "en": "shift",
+    "tr": "vardiya",
+    "pos": "noun",
+    "example": "My shift starts at seven.",
+    "exampleTr": "Vardiyam yedide başlıyor.",
+    "syn": [],
+    "ant": [],
+    "level": "A2"
+   },
+   {
+    "id": "policy",
+    "en": "policy",
+    "tr": "politika, kural düzeni",
+    "pos": "noun",
+    "example": "The school has a safety policy.",
+    "exampleTr": "Okulun bir güvenlik politikası var.",
+    "syn": [],
+    "ant": [],
+    "level": "A2"
+   },
+   {
+    "id": "wear",
+    "en": "wear",
+    "tr": "giymek, takmak",
+    "pos": "verb",
+    "example": "You have to wear your badge.",
+    "exampleTr": "Kimlik kartını takmak zorundasın.",
+    "syn": [],
+    "ant": [],
+    "level": "A2"
+   },
+   {
+    "id": "follow",
+    "en": "follow",
+    "tr": "uymak; takip etmek",
+    "pos": "verb",
+    "example": "Please follow the rules.",
+    "exampleTr": "Lütfen kurallara uy.",
+    "syn": [],
+    "ant": [],
+    "level": "A2"
+   },
+   {
+    "id": "required",
+    "en": "required",
+    "tr": "zorunlu",
+    "pos": "adjective",
+    "example": "A uniform is required.",
+    "exampleTr": "Üniforma zorunlu.",
+    "syn": [
+     "necessary"
+    ],
+    "ant": [
+     "optional"
+    ],
+    "level": "A2"
+   },
+   {
+    "id": "lock",
+    "en": "lock",
+    "tr": "kilitlemek; kilit",
+    "pos": "verb",
+    "example": "Please lock the door at night.",
+    "exampleTr": "Lütfen geceleri kapıyı kilitle.",
+    "syn": [],
+    "ant": [
+     "unlock"
+    ],
+    "level": "A2"
+   }
+  ],
+  "reading": {
+   "title": "Rules at the school",
+   "text": "On her first day, Hafsa reads the rules for school workers. Mr. Brown explains them in the front office.\n\n\"First, you have to wear your badge all day,\" he says. \"Second, you have to sign in when you arrive. Visitors have to sign in, too, and they must wear a visitor badge.\" Hafsa writes this on her notebook.\n\n\"What about a uniform?\" Hafsa asks. \"You don't have to wear a uniform,\" Mr. Brown says. \"But you must look neat. And you mustn't use your phone in front of students. That is against the policy.\"\n\n\"Do I have to work every day?\" \"No, you don't. You only have to work Monday to Thursday. You have a thirty-minute break for lunch. And remember: the last person has to lock the office door.\" Hafsa smiles. \"I understand. It is easy to follow these rules.\"",
+   "glossary": [
+    {
+     "en": "neat",
+     "tr": "derli toplu"
+    },
+    {
+     "en": "against the policy",
+     "tr": "kurallara aykırı"
+    },
+    {
+     "en": "explain",
+     "tr": "açıklamak"
+    },
+    {
+     "en": "understand",
+     "tr": "anlamak"
+    }
+   ],
+   "questions": [
+    {
+     "type": "mcq",
+     "q": "What do visitors have to wear?",
+     "options": [
+      "A uniform",
+      "A visitor badge",
+      "A hat",
+      "Nothing"
+     ],
+     "answer": 1,
+     "whyTr": "Metin: 'they must wear a visitor badge'.",
+     "tag": "reading",
+     "level": "A2"
+    },
+    {
+     "type": "mcq",
+     "q": "Does Hafsa have to wear a uniform?",
+     "options": [
+      "Yes, she does.",
+      "Yes, every day.",
+      "No, she doesn't.",
+      "Only on Monday."
+     ],
+     "answer": 2,
+     "whyTr": "Metin: 'You don't have to wear a uniform'.",
+     "tag": "reading",
+     "level": "A2"
+    },
+    {
+     "type": "mcq",
+     "q": "What mustn't Hafsa do in front of students?",
+     "options": [
+      "Drink water",
+      "Write notes",
+      "Answer questions",
+      "Use her phone"
+     ],
+     "answer": 3,
+     "whyTr": "Metin: 'you mustn't use your phone in front of students'.",
+     "tag": "reading",
+     "level": "A2"
+    },
+    {
+     "type": "mcq",
+     "q": "Who has to lock the office door?",
+     "options": [
+      "The last person",
+      "Mr. Brown",
+      "The first person",
+      "The visitors"
+     ],
+     "answer": 0,
+     "whyTr": "Metin: 'the last person has to lock the office door'.",
+     "tag": "reading",
+     "level": "A2"
+    }
+   ]
+  }
+ },
+ "evening": {
+  "listening": {
+   "title": "Rules at the new job",
+   "script": [
+    {
+     "speaker": "Hafsa",
+     "text": "Mr. Brown, do I have to wear a uniform?"
+    },
+    {
+     "speaker": "Mr. Brown",
+     "text": "No, you don't. But you must wear your badge."
+    },
+    {
+     "speaker": "Hafsa",
+     "text": "Do I have to sign in every day?"
+    },
+    {
+     "speaker": "Mr. Brown",
+     "text": "Yes, you do. The computer is by the door."
+    },
+    {
+     "speaker": "Hafsa",
+     "text": "Can I use my phone in the office?"
+    },
+    {
+     "speaker": "Mr. Brown",
+     "text": "Only on your break. You mustn't use it when students are here."
+    },
+    {
+     "speaker": "Hafsa",
+     "text": "What time does my shift start?"
+    },
+    {
+     "speaker": "Mr. Brown",
+     "text": "At seven thirty. You have to be here ten minutes early."
+    },
+    {
+     "speaker": "Hafsa",
+     "text": "Do I have to work on Fridays?"
+    },
+    {
+     "speaker": "Mr. Brown",
+     "text": "No, you don't have to. Fridays are free for you."
+    },
+    {
+     "speaker": "Hafsa",
+     "text": "That is good. Is there anything else?"
+    },
+    {
+     "speaker": "Mr. Brown",
+     "text": "Yes. You have to follow the safety policy. I will give you a copy."
+    },
+    {
+     "speaker": "Hafsa",
+     "text": "Thank you. I will read it tonight."
+    }
+   ],
+   "questions": [
+    {
+     "type": "mcq",
+     "q": "What does Hafsa have to wear?",
+     "options": [
+      "A uniform",
+      "Her badge",
+      "A hat",
+      "A coat"
+     ],
+     "answer": 1,
+     "whyTr": "Mr. Brown: 'you must wear your badge'.",
+     "tag": "listening",
+     "level": "A2"
+    },
+    {
+     "type": "mcq",
+     "q": "When can Hafsa use her phone?",
+     "options": [
+      "During class",
+      "All day",
+      "On her break",
+      "Never"
+     ],
+     "answer": 2,
+     "whyTr": "Mr. Brown: 'Only on your break.'",
+     "tag": "listening",
+     "level": "A2"
+    },
+    {
+     "type": "mcq",
+     "q": "What time does her shift start?",
+     "options": [
+      "At eight",
+      "At ten",
+      "At seven",
+      "At seven thirty"
+     ],
+     "answer": 3,
+     "whyTr": "Mr. Brown: 'At seven thirty.'",
+     "tag": "listening",
+     "level": "A2"
+    },
+    {
+     "type": "mcq",
+     "q": "Does Hafsa have to work on Fridays?",
+     "options": [
+      "No, she doesn't.",
+      "Yes, she does.",
+      "Yes, every Friday.",
+      "Only in the morning."
+     ],
+     "answer": 0,
+     "whyTr": "Mr. Brown: 'No, you don't have to.'",
+     "tag": "listening",
+     "level": "A2"
+    }
+   ]
+  },
+  "writing": {
+   "promptTr": "Bir iş yerinin (ya da okulun) kurallarını 4-5 cümleyle yaz.",
+   "promptEn": "Write 4-5 sentences about the rules at a workplace or school.",
+   "frames": [
+    "You have to ...",
+    "You must ...",
+    "You mustn't ...",
+    "You don't have to ..."
+   ],
+   "model": "You have to wear a badge. You must sign in every day. You mustn't use your phone in class. You don't have to wear a uniform.",
+   "checklistTr": [
+    "Have to / must'tan sonra yalın fiil var mı?",
+    "'Mustn't' (yasak) ile 'don't have to' (gerek yok) farkını kullandın mı?",
+    "He/she ile 'has to' yazdın mı?"
+   ],
+   "minWords": 25
+  },
+  "examSet": [
+   {
+    "type": "mcq",
+    "q": "Every visitor ___ sign in.",
+    "options": [
+     "have to",
+     "has to",
+     "must to",
+     "has"
+    ],
+    "answer": 1,
+    "whyTr": "Every visitor tekil; has to.",
+    "tag": "modals",
+    "level": "A2"
+   },
+   {
+    "type": "mcq",
+    "q": "You ___ drive fast near the school. It is dangerous.",
+    "options": [
+     "don't have to",
+     "doesn't have to",
+     "mustn't",
+     "haven't to"
+    ],
+    "answer": 2,
+    "whyTr": "Yasak: mustn't.",
+    "tag": "modals",
+    "level": "A2"
+   },
+   {
+    "type": "mcq",
+    "q": "We ___ come early on Saturday. It is a free day.",
+    "options": [
+     "mustn't",
+     "must",
+     "has to",
+     "don't have to"
+    ],
+    "answer": 3,
+    "whyTr": "Zorunlu değil: don't have to.",
+    "tag": "modals",
+    "level": "A2"
+   },
+   {
+    "type": "mcq",
+    "q": "You ___ drink more water. It is good for you.",
+    "options": [
+     "should",
+     "should to",
+     "must to",
+     "shoulds"
+    ],
+    "answer": 0,
+    "whyTr": "Tavsiye: should + yalın fiil.",
+    "tag": "modals",
+    "level": "A2"
+   },
+   {
+    "type": "mcq",
+    "q": "Which word means almost the same as \"required\"?",
+    "options": [
+     "allowed",
+     "necessary",
+     "optional",
+     "cheap"
+    ],
+    "answer": 1,
+    "whyTr": "Required ve necessary benzer anlamlı.",
+    "tag": "synonym",
+    "level": "A2"
+   },
+   {
+    "type": "mcq",
+    "q": "What is the opposite of \"allowed\"?",
+    "options": [
+     "required",
+     "easy",
+     "forbidden",
+     "ready"
+    ],
+    "answer": 2,
+    "whyTr": "Allowed'ın zıttı forbidden.",
+    "tag": "antonym",
+    "level": "A2"
+   },
+   {
+    "type": "mcq",
+    "q": "My ___ starts at seven and ends at three.",
+    "options": [
+     "policy",
+     "rule",
+     "badge",
+     "shift"
+    ],
+    "answer": 3,
+    "whyTr": "Vardiya = shift.",
+    "tag": "vocab",
+    "level": "A2"
+   },
+   {
+    "type": "mcq",
+    "q": "Please ___ your name at the bottom of the page.",
+    "options": [
+     "sign",
+     "lock",
+     "wear",
+     "follow"
+    ],
+    "answer": 0,
+    "whyTr": "İmzalamak = sign.",
+    "tag": "vocab",
+    "level": "A2"
+   },
+   {
+    "type": "mcq",
+    "q": "Emre is ___ than his friend.",
+    "options": [
+     "more tall",
+     "taller",
+     "tallest",
+     "tall"
+    ],
+    "answer": 1,
+    "whyTr": "Kısa sıfat: tall, taller than.",
+    "tag": "comparatives",
+    "level": "A2"
+   },
+   {
+    "type": "mcq",
+    "q": "Have you ___ been to a school as a volunteer?",
+    "options": [
+     "yet",
+     "already",
+     "ever",
+     "just"
+    ],
+    "answer": 2,
+    "whyTr": "Deneyim sorusu: Have you ever...?",
+    "tag": "present-perfect",
+    "level": "A2"
+   },
+   {
+    "type": "mcq",
+    "q": "At Ocean School, teachers have to wear a badge. They don't have to wear a uniform. They mustn't use phones in class.\n\nWhat mustn't teachers do?",
+    "options": [
+     "Wear a badge",
+     "Wear a uniform",
+     "Come to work",
+     "Use phones in class"
+    ],
+    "answer": 3,
+    "whyTr": "Metin: 'They mustn't use phones in class.'",
+    "tag": "reading",
+    "level": "A2"
+   },
+   {
+    "type": "mcq",
+    "q": "Ben works the early shift. He has to be at the school at six thirty. He doesn't have to work on weekends.\n\nWhen does Ben have to be at school?",
+    "options": [
+     "At six thirty",
+     "At seven",
+     "At eight",
+     "On weekends"
+    ],
+    "answer": 0,
+    "whyTr": "Metin: 'at the school at six thirty'.",
+    "tag": "reading",
+    "level": "A2"
+   }
+  ]
+ }
+}

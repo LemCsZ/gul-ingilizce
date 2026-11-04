@@ -1,0 +1,937 @@
+{
+ "week": 15,
+ "day": 5,
+ "titleTr": "Collocations: make / do, take / have (günlük işler)",
+ "theme": "daily-chores",
+ "morning": {
+  "grammar": {
+   "topic": "Collocations: make / do, take / have",
+   "explainTr": [
+    "Collocation, bazı kelimelerin birlikte doğal duran eşleşmesidir. Türkçede hepsi 'yapmak' olan şeyleri İngilizce ayırır: do homework (ödev yapmak) ama make a mistake (hata yapmak).",
+    "'Do' çoğunlukla iş, görev ve genel faaliyetler için kullanılır: do the dishes, do the laundry, do a favor, do your best. 'Make' ise bir şey üretmek ya da ortaya çıkarmak için: make a decision, make a phone call, make an effort, make a mess, make money.",
+    "'Take' alınan, yapılan eylemlerle gelir: take a break, take notes, take a shower, take a bus, take a chance. 'Have' ise yemek, deneyim ve durumlarla: have lunch, have a conversation, have a problem, have fun, have a headache. Bunları tek tek ezberlemek yerine çiftler hâlinde öğren."
+   ],
+   "compareTr": "Türkçede 'yapmak' çoğu şeye uyar: ödev yapmak, hata yapmak, karar vermek. İngilizcede 'make a decision' (karar vermek), 'do homework' (ödev yapmak) gibi her isim kendi fiilini ister; 'do a mistake' veya 'make homework' hata sayılır.",
+   "table": [
+    [
+     "do",
+     "homework, the dishes, the laundry, a favor, your best, chores",
+     "I do the laundry on Sunday."
+    ],
+    [
+     "make",
+     "a mistake, a decision, a phone call, an effort, a mess, money",
+     "She made a phone call."
+    ],
+    [
+     "take",
+     "a break, notes, a shower, a nap, a bus, a chance",
+     "Let's take a break."
+    ],
+    [
+     "have",
+     "lunch, a conversation, fun, a problem, a headache",
+     "We had a long conversation."
+    ]
+   ],
+   "examples": [
+    {
+     "en": "I do the laundry every Saturday morning.",
+     "tr": "Her Cumartesi sabahı çamaşır yıkarım."
+    },
+    {
+     "en": "Emre made a mistake on the math test.",
+     "tr": "Emre matematik sınavında bir hata yaptı."
+    },
+    {
+     "en": "Please take notes during the lecture.",
+     "tr": "Lütfen ders sırasında not alın."
+    },
+    {
+     "en": "We had a nice conversation with the principal.",
+     "tr": "Müdürle güzel bir sohbet ettik."
+    }
+   ],
+   "exercises": [
+    {
+     "type": "mcq",
+     "q": "Can you ___ me a favor and drop off this form?",
+     "options": [
+      "make",
+      "take",
+      "do",
+      "have"
+     ],
+     "answer": 2,
+     "whyTr": "'Do someone a favor' sabit kalıp.",
+     "tag": "collocations",
+     "level": "B2"
+    },
+    {
+     "type": "mcq",
+     "q": "I always ___ my homework before dinner.",
+     "options": [
+      "do",
+      "make",
+      "take",
+      "have"
+     ],
+     "answer": 0,
+     "whyTr": "Ödev yapmak: do homework.",
+     "tag": "collocations",
+     "level": "B2"
+    },
+    {
+     "type": "mcq",
+     "q": "Hafsa has to ___ an important decision this week.",
+     "options": [
+      "do",
+      "take",
+      "have",
+      "make"
+     ],
+     "answer": 3,
+     "whyTr": "Karar vermek: make a decision.",
+     "tag": "collocations",
+     "level": "B2"
+    },
+    {
+     "type": "mcq",
+     "q": "Let's ___ a short break. We have been working for two hours.",
+     "options": [
+      "make",
+      "take",
+      "do",
+      "have"
+     ],
+     "answer": 1,
+     "whyTr": "Mola vermek: take a break.",
+     "tag": "collocations",
+     "level": "B2"
+    },
+    {
+     "type": "order",
+     "promptTr": "Cümleyi sırala:",
+     "words": [
+      "Please",
+      "the",
+      "take",
+      "notes",
+      "meeting.",
+      "during"
+     ],
+     "answer": "Please take notes during the meeting.",
+     "whyTr": "Not almak: take notes.",
+     "tag": "collocations",
+     "level": "B2"
+    },
+    {
+     "type": "mcq",
+     "q": "We ___ a great time at the school picnic.",
+     "options": [
+      "made",
+      "had",
+      "did",
+      "took"
+     ],
+     "answer": 1,
+     "whyTr": "İyi vakit geçirmek: have a good time.",
+     "tag": "collocations",
+     "level": "B2"
+    },
+    {
+     "type": "mcq",
+     "q": "Don't forget to ___ the dishes after lunch.",
+     "options": [
+      "make",
+      "take",
+      "have",
+      "do"
+     ],
+     "answer": 3,
+     "whyTr": "Bulaşık yıkamak: do the dishes.",
+     "tag": "collocations",
+     "level": "B2"
+    },
+    {
+     "type": "mcq",
+     "q": "The kids ___ a mess in the kitchen.",
+     "options": [
+      "made",
+      "did",
+      "took",
+      "had"
+     ],
+     "answer": 0,
+     "whyTr": "Ortalığı dağıtmak: make a mess.",
+     "tag": "collocations",
+     "level": "B2"
+    },
+    {
+     "type": "order",
+     "promptTr": "Cümleyi sırala:",
+     "words": [
+      "office.",
+      "the",
+      "to",
+      "phone",
+      "I",
+      "school",
+      "a",
+      "call",
+      "made"
+     ],
+     "answer": "I made a phone call to the school office.",
+     "whyTr": "Telefon etmek: make a phone call.",
+     "tag": "collocations",
+     "level": "B2"
+    },
+    {
+     "type": "mcq",
+     "q": "I'm not feeling well. I ___ a headache since morning.",
+     "options": [
+      "am having",
+      "had",
+      "have had",
+      "was having"
+     ],
+     "answer": 2,
+     "whyTr": "Sabahtan beri süren durum: present perfect.",
+     "tag": "present-perfect",
+     "level": "B2"
+    },
+    {
+     "type": "mcq",
+     "q": "If you ___ the bus, you will arrive at school by eight.",
+     "options": [
+      "will take",
+      "took",
+      "would take",
+      "take"
+     ],
+     "answer": 3,
+     "whyTr": "Birinci tip koşul: If + present, will.",
+     "tag": "conditionals",
+     "level": "B2"
+    },
+    {
+     "type": "fill",
+     "q": "She ___ a lot of effort to learn English. (make)",
+     "accept": [
+      "makes",
+      "made"
+     ],
+     "hintTr": "make",
+     "whyTr": "Çaba göstermek: make an effort.",
+     "tag": "collocations",
+     "level": "B2"
+    }
+   ]
+  },
+  "vocab": [
+   {
+    "id": "hassle",
+    "en": "hassle",
+    "tr": "dert, zahmet",
+    "pos": "noun",
+    "example": "Parking near the school is a real hassle.",
+    "exampleTr": "Okulun yakınına park etmek gerçek bir dert.",
+    "syn": [
+     "nuisance"
+    ],
+    "ant": [
+     "convenience"
+    ],
+    "level": "B2"
+   },
+   {
+    "id": "chore",
+    "en": "chore",
+    "tr": "ev işi, angarya",
+    "pos": "noun",
+    "example": "Doing the dishes is Emre's daily chore.",
+    "exampleTr": "Bulaşık yıkamak Emre'nin günlük işi.",
+    "syn": [],
+    "ant": [],
+    "level": "B2"
+   },
+   {
+    "id": "favor",
+    "en": "favor",
+    "tr": "iyilik, rica",
+    "pos": "noun",
+    "example": "Could you do me a favor and watch my bag?",
+    "exampleTr": "Bana bir iyilik yapıp çantama göz kulak olabilir misin?",
+    "syn": [
+     "kindness"
+    ],
+    "ant": [],
+    "level": "B2"
+   },
+   {
+    "id": "gesture",
+    "en": "gesture",
+    "tr": "jest, nazik davranış",
+    "pos": "noun",
+    "example": "Bringing flowers for the teacher was a kind gesture.",
+    "exampleTr": "Öğretmene çiçek getirmek nazik bir jestti.",
+    "syn": [
+     "act"
+    ],
+    "ant": [],
+    "level": "B2"
+   },
+   {
+    "id": "timetable",
+    "en": "timetable",
+    "tr": "zaman çizelgesi, ders programı",
+    "pos": "noun",
+    "example": "The bus timetable changes in the summer.",
+    "exampleTr": "Otobüs saatleri yazın değişiyor.",
+    "syn": [
+     "schedule"
+    ],
+    "ant": [],
+    "level": "B2"
+   },
+   {
+    "id": "leisure",
+    "en": "leisure",
+    "tr": "boş zaman",
+    "pos": "noun",
+    "example": "She reads novels in her leisure time.",
+    "exampleTr": "Boş zamanında roman okur.",
+    "syn": [
+     "free time"
+    ],
+    "ant": [
+     "work"
+    ],
+    "level": "B2"
+   },
+   {
+    "id": "commute",
+    "en": "commute",
+    "tr": "işe/okula gidiş geliş",
+    "pos": "noun",
+    "example": "My commute to school takes twenty minutes.",
+    "exampleTr": "Okula gidiş geliş yolum yirmi dakika sürüyor.",
+    "syn": [
+     "journey"
+    ],
+    "ant": [],
+    "level": "B2"
+   },
+   {
+    "id": "guess",
+    "en": "guess",
+    "tr": "tahmin etmek; tahmin",
+    "pos": "verb",
+    "example": "Can you guess how many students are in the room?",
+    "exampleTr": "Odada kaç öğrenci olduğunu tahmin edebilir misin?",
+    "syn": [
+     "estimate"
+    ],
+    "ant": [],
+    "level": "B2"
+   },
+   {
+    "id": "shortcut",
+    "en": "shortcut",
+    "tr": "kestirme yol",
+    "pos": "noun",
+    "example": "Take the shortcut through the park.",
+    "exampleTr": "Parktan kestirme yolu kullan.",
+    "syn": [],
+    "ant": [
+     "detour"
+    ],
+    "level": "B2"
+   },
+   {
+    "id": "nap",
+    "en": "nap",
+    "tr": "şekerleme",
+    "pos": "noun",
+    "example": "The kindergarten kids take a nap after lunch.",
+    "exampleTr": "Anaokulu çocukları öğle yemeğinden sonra şekerleme yapar.",
+    "syn": [
+     "doze"
+    ],
+    "ant": [],
+    "level": "B2"
+   },
+   {
+    "id": "bargain",
+    "en": "bargain",
+    "tr": "kelepir, indirimli ürün",
+    "pos": "noun",
+    "example": "This coat was a real bargain.",
+    "exampleTr": "Bu mont gerçek bir kelepirdi.",
+    "syn": [
+     "good deal"
+    ],
+    "ant": [],
+    "level": "B2"
+   },
+   {
+    "id": "complaint",
+    "en": "complaint",
+    "tr": "şikâyet",
+    "pos": "noun",
+    "example": "The parents made a complaint about the bus schedule.",
+    "exampleTr": "Veliler otobüs saatleri hakkında şikâyette bulundu.",
+    "syn": [
+     "objection"
+    ],
+    "ant": [
+     "compliment"
+    ],
+    "level": "B2"
+   },
+   {
+    "id": "suggestion",
+    "en": "suggestion",
+    "tr": "öneri",
+    "pos": "noun",
+    "example": "Do you have any suggestions for the class party?",
+    "exampleTr": "Sınıf partisi için önerin var mı?",
+    "syn": [
+     "proposal"
+    ],
+    "ant": [],
+    "level": "B2"
+   },
+   {
+    "id": "difference",
+    "en": "difference",
+    "tr": "fark",
+    "pos": "noun",
+    "example": "A kind word can make a big difference.",
+    "exampleTr": "Nazik bir söz büyük fark yaratabilir.",
+    "syn": [
+     "contrast"
+    ],
+    "ant": [
+     "similarity"
+    ],
+    "level": "B2"
+   },
+   {
+    "id": "supermarket",
+    "en": "supermarket",
+    "tr": "süpermarket",
+    "pos": "noun",
+    "example": "I buy fruit and bread at the supermarket.",
+    "exampleTr": "Süpermarketten meyve ve ekmek alırım.",
+    "syn": [
+     "grocery store"
+    ],
+    "ant": [],
+    "level": "B2"
+   }
+  ],
+  "reading": {
+   "title": "Hafsa's busy Saturday",
+   "text": "Saturday is Hafsa's busiest day, but it is also her favorite. It is the one day when she does not have to hurry to class or to an appointment, so she can take care of everything at her own pace.\n\nShe begins at seven o'clock by making a cup of Turkish tea and taking a few minutes for herself on the balcony. Then she makes a to-do list. Today, it has five errands: do the laundry, make a phone call to the school district, have lunch with her neighbor Linda, buy groceries, and help her son Emre with his science project.\n\nAt eight, Emre comes into the kitchen with his hair standing up. \"Mom, I made a mistake,\" he says. \"I forgot that the deadline for my project is Monday, not next week.\" Hafsa laughs and makes a plan. \"Do your best, and take it step by step. We will do it together this afternoon.\" This is a habit she has developed: she does not scold, but she makes a suggestion, and the problem seems smaller at once.\n\nThe phone call takes longer than expected. The district office puts her on hold twice, but she makes an effort to stay calm and speak clearly. In the end, she makes an appointment for a training session, and she writes the date in her notebook right away. She feels proud.\n\nAt noon she has lunch with Linda at the little café near the park. They have a long conversation about their children and about the new bus route. Linda tells her about a bargain at the grocery store, so Hafsa takes the shortcut through the park on the way home and buys fruit for the week.\n\nBack at home, she and Emre do the science project. They take photos of the plants, take notes about the results, and make a poster. Emre makes a mess with the glue, but nobody minds. When it is finally finished, Hafsa takes a short nap on the sofa. \"Today I made a difference in my own life,\" she thinks, \"even if it was only a small one.\"",
+   "glossary": [
+    {
+     "en": "pace",
+     "tr": "tempo, hız"
+    },
+    {
+     "en": "to-do list",
+     "tr": "yapılacaklar listesi"
+    },
+    {
+     "en": "scold",
+     "tr": "azarlamak"
+    },
+    {
+     "en": "put on hold",
+     "tr": "beklemeye almak"
+    },
+    {
+     "en": "step by step",
+     "tr": "adım adım"
+    },
+    {
+     "en": "poster",
+     "tr": "poster, afiş"
+    }
+   ],
+   "questions": [
+    {
+     "type": "mcq",
+     "q": "Why is Saturday Hafsa's favorite day?",
+     "options": [
+      "She works at the school.",
+      "She does not have to hurry.",
+      "She has no chores.",
+      "Emre is away."
+     ],
+     "answer": 1,
+     "whyTr": "Metin: 'she does not have to hurry to class or to an appointment'.",
+     "tag": "reading",
+     "level": "B2"
+    },
+    {
+     "type": "mcq",
+     "q": "What mistake did Emre make?",
+     "options": [
+      "He lost his science notebook.",
+      "He missed the bus.",
+      "He forgot the real deadline.",
+      "He broke a glass."
+     ],
+     "answer": 2,
+     "whyTr": "Emre: 'I forgot that the deadline for my project is Monday, not next week.'",
+     "tag": "reading",
+     "level": "B2"
+    },
+    {
+     "type": "mcq",
+     "q": "How does Hafsa react to Emre's problem?",
+     "options": [
+      "She makes a plan and a suggestion.",
+      "She scolds him.",
+      "She cancels lunch.",
+      "She asks Linda to help."
+     ],
+     "answer": 0,
+     "whyTr": "Metin: 'she does not scold, but she makes a suggestion'.",
+     "tag": "reading",
+     "level": "B2"
+    },
+    {
+     "type": "mcq",
+     "q": "What do we learn about the phone call to the district office?",
+     "options": [
+      "It was difficult, but Hafsa stayed calm.",
+      "It was short and easy.",
+      "She hung up angrily.",
+      "Nobody answered."
+     ],
+     "answer": 0,
+     "whyTr": "Metin: 'she makes an effort to stay calm'.",
+     "tag": "reading",
+     "level": "B2"
+    }
+   ]
+  }
+ },
+ "evening": {
+  "listening": {
+   "title": "Dividing the weekend chores",
+   "script": [
+    {
+     "speaker": "Hafsa",
+     "text": "Emre, we need to talk about the weekend. I have a long list, and I cannot do everything alone."
+    },
+    {
+     "speaker": "Emre",
+     "text": "Okay, Mom. What do you need?"
+    },
+    {
+     "speaker": "Hafsa",
+     "text": "First, someone has to do the laundry. Then we need to make dinner and take out the trash."
+    },
+    {
+     "speaker": "Emre",
+     "text": "I can do the laundry, but only if I can take a break after lunch."
+    },
+    {
+     "speaker": "Hafsa",
+     "text": "That is fair. And please do the dishes tonight. Last night you made a big mess in the kitchen."
+    },
+    {
+     "speaker": "Emre",
+     "text": "Sorry about that. I will clean it up. Do you want me to make a phone call to Mr. Brown, too?"
+    },
+    {
+     "speaker": "Hafsa",
+     "text": "Yes, thank you. Ask him if the volunteer schedule has changed."
+    },
+    {
+     "speaker": "Emre",
+     "text": "Sure. By the way, I have a favor to ask. Can you take me to the library tomorrow?"
+    },
+    {
+     "speaker": "Hafsa",
+     "text": "Of course. I will take the car, and we can have lunch near the park."
+    },
+    {
+     "speaker": "Emre",
+     "text": "Perfect. I need to do some research for my history homework."
+    },
+    {
+     "speaker": "Hafsa",
+     "text": "Good. Then we have a plan. Let's both make an effort to finish early."
+    },
+    {
+     "speaker": "Emre",
+     "text": "Deal. I will start with the laundry right now."
+    }
+   ],
+   "questions": [
+    {
+     "type": "mcq",
+     "q": "What does Emre agree to do first?",
+     "options": [
+      "The dishes",
+      "Grocery shopping",
+      "The laundry",
+      "Taking out the trash"
+     ],
+     "answer": 2,
+     "whyTr": "Emre: 'I can do the laundry...'",
+     "tag": "listening",
+     "level": "B2"
+    },
+    {
+     "type": "mcq",
+     "q": "What condition does Emre set?",
+     "options": [
+      "He wants extra money.",
+      "He wants a break after lunch.",
+      "He wants to skip dinner.",
+      "He wants to play outside all day."
+     ],
+     "answer": 1,
+     "whyTr": "Emre: 'only if I can take a break after lunch'.",
+     "tag": "listening",
+     "level": "B2"
+    },
+    {
+     "type": "mcq",
+     "q": "Who is Emre going to call?",
+     "options": [
+      "Linda",
+      "The principal",
+      "His teacher",
+      "Mr. Brown"
+     ],
+     "answer": 3,
+     "whyTr": "Emre: 'Do you want me to make a phone call to Mr. Brown, too?' Hafsa: 'Yes.'",
+     "tag": "listening",
+     "level": "B2"
+    },
+    {
+     "type": "mcq",
+     "q": "Why does Emre need to go to the library?",
+     "options": [
+      "To return a book",
+      "To meet a friend",
+      "To do research for his homework",
+      "To use the computer lab for a game"
+     ],
+     "answer": 2,
+     "whyTr": "Emre: 'I need to do some research for my history homework.'",
+     "tag": "listening",
+     "level": "B2"
+    }
+   ]
+  },
+  "writing": {
+   "promptTr": "Bir günlük programını ya da hafta sonu işlerini anlat (120-180 kelime). En az altı collocation kullan (do the laundry, make a decision, take a break, have lunch, make an effort...).",
+   "promptEn": "Describe a busy day or a weekend when you had many things to do. Write 120-180 words and use at least six collocations with make, do, take or have.",
+   "frames": [
+    "First, I did the ... / I made ...",
+    "Then I took a break and had ...",
+    "I made an effort to ...",
+    "I made a mistake when ...",
+    "In the end, I felt ..."
+   ],
+   "model": "Last Saturday was one of my busiest days, but I managed everything. In the morning, I did the laundry and cleaned the kitchen. Then I made a phone call to the school office, because I needed to make an appointment for a training session. After that, I took the bus downtown to buy groceries. On my way, I made a quick decision to visit my neighbor Linda, and we had lunch together at a small café. We had a long conversation about our children and the new school rules. In the afternoon, I helped my son Emre with his science project. He made a mess with the glue, but we finished on time. I took a short nap and then did my English homework. I made a few mistakes, but I made an effort to correct them. In the evening, I took a long shower, and I felt tired but happy. It was a good day.",
+   "checklistTr": [
+    "En az altı collocation kullandın mı (make/do/take/have)?",
+    "'Do homework' ve 'make a mistake' gibi ayrımları doğru yaptın mı?",
+    "Geçmiş zaman fiillerini doğru kullandın mı (did, made, took, had)?",
+    "Cümleleri sırayla (first, then, after that) bağladın mı?"
+   ],
+   "minWords": 120
+  },
+  "examSet": [
+   {
+    "type": "mcq",
+    "q": "Please ___ your best on the exam tomorrow.",
+    "options": [
+     "do",
+     "make",
+     "take",
+     "have"
+    ],
+    "answer": 0,
+    "whyTr": "En iyisini yapmak: do your best.",
+    "tag": "collocations",
+    "level": "B2"
+   },
+   {
+    "type": "mcq",
+    "q": "The teacher asked us to ___ notes during the video.",
+    "options": [
+     "make",
+     "do",
+     "have",
+     "take"
+    ],
+    "answer": 3,
+    "whyTr": "Not almak: take notes.",
+    "tag": "collocations",
+    "level": "B2"
+   },
+   {
+    "type": "mcq",
+    "q": "Can I ___ a suggestion about the schedule?",
+    "options": [
+     "do",
+     "make",
+     "take",
+     "have"
+    ],
+    "answer": 1,
+    "whyTr": "Öneride bulunmak: make a suggestion.",
+    "tag": "collocations",
+    "level": "B2"
+   },
+   {
+    "type": "mcq",
+    "q": "We ___ a nice talk about the project after class.",
+    "options": [
+     "did",
+     "had",
+     "made",
+     "took"
+    ],
+    "answer": 1,
+    "whyTr": "Sohbet etmek: have a talk/conversation.",
+    "tag": "collocations",
+    "level": "B2"
+   },
+   {
+    "type": "mcq",
+    "q": "I'd like to ___ a complaint about the noise.",
+    "options": [
+     "do",
+     "take",
+     "have",
+     "make"
+    ],
+    "answer": 3,
+    "whyTr": "Şikâyet etmek: make a complaint.",
+    "tag": "collocations",
+    "level": "B2"
+   },
+   {
+    "type": "mcq",
+    "q": "Linda asked me to ___ her a favor.",
+    "options": [
+     "do",
+     "make",
+     "take",
+     "have"
+    ],
+    "answer": 0,
+    "whyTr": "İyilik yapmak: do a favor.",
+    "tag": "collocations",
+    "level": "B2"
+   },
+   {
+    "type": "mcq",
+    "q": "He ___ a shower and left for work.",
+    "options": [
+     "made",
+     "did",
+     "took",
+     "got"
+    ],
+    "answer": 2,
+    "whyTr": "Duş almak: take a shower.",
+    "tag": "collocations",
+    "level": "B2"
+   },
+   {
+    "type": "mcq",
+    "q": "I ___ the dishes while my mother was cooking.",
+    "options": [
+     "was making",
+     "was taking",
+     "did making",
+     "was doing"
+    ],
+    "answer": 3,
+    "whyTr": "Aynı anda süren eylem: past continuous; bulaşık yıkamak: do the dishes.",
+    "tag": "past-continuous",
+    "level": "B2"
+   },
+   {
+    "type": "mcq",
+    "q": "Emre said that he ___ his homework already.",
+    "options": [
+     "has done",
+     "had done",
+     "did",
+     "does"
+    ],
+    "answer": 1,
+    "whyTr": "Dolaylı anlatım: had done.",
+    "tag": "reported-speech",
+    "level": "B2"
+   },
+   {
+    "type": "mcq",
+    "q": "She has no time. ___, she always makes time for her family.",
+    "options": [
+     "Moreover",
+     "Therefore",
+     "Nevertheless",
+     "Whereas"
+    ],
+    "answer": 2,
+    "whyTr": "Tezat: Nevertheless.",
+    "tag": "linkers",
+    "level": "B2"
+   },
+   {
+    "type": "mcq",
+    "q": "Doing the dishes is Emre's daily ___.",
+    "options": [
+     "chore",
+     "bargain",
+     "guess",
+     "shortcut"
+    ],
+    "answer": 0,
+    "whyTr": "Günlük ev işi: chore.",
+    "tag": "vocab",
+    "level": "B2"
+   },
+   {
+    "type": "mcq",
+    "q": "The bus ___ changes in summer, so check it online.",
+    "options": [
+     "timetable",
+     "nap",
+     "favor",
+     "bargain"
+    ],
+    "answer": 0,
+    "whyTr": "Otobüs saatleri: timetable.",
+    "tag": "vocab",
+    "level": "B2"
+   },
+   {
+    "type": "mcq",
+    "q": "It was a real ___: the jacket cost only ten dollars.",
+    "options": [
+     "complaint",
+     "errand",
+     "bargain",
+     "effort"
+    ],
+    "answer": 2,
+    "whyTr": "Kelepir: bargain.",
+    "tag": "vocab",
+    "level": "B2"
+   },
+   {
+    "type": "mcq",
+    "q": "A small ___ of kindness can make a big difference.",
+    "options": [
+     "nap",
+     "gesture",
+     "chore",
+     "complaint"
+    ],
+    "answer": 1,
+    "whyTr": "Nazik davranış: gesture.",
+    "tag": "vocab",
+    "level": "B2"
+   },
+   {
+    "type": "mcq",
+    "q": "Which word means almost the same as \"hassle\"?",
+    "options": [
+     "holiday",
+     "bargain",
+     "meal",
+     "nuisance"
+    ],
+    "answer": 3,
+    "whyTr": "Hassle = nuisance (baş ağrısı, dert).",
+    "tag": "synonym",
+    "level": "B2"
+   },
+   {
+    "type": "mcq",
+    "q": "What is the opposite of \"shortcut\"?",
+    "options": [
+     "highway",
+     "path",
+     "detour",
+     "route"
+    ],
+    "answer": 2,
+    "whyTr": "Shortcut (kestirme) ↔ detour (dolambaçlı yol).",
+    "tag": "antonym",
+    "level": "B2"
+   },
+   {
+    "type": "mcq",
+    "q": "Which expression means almost the same as \"leisure\"?",
+    "options": [
+     "free time",
+     "homework",
+     "deadline",
+     "errand"
+    ],
+    "answer": 0,
+    "whyTr": "Leisure = free time.",
+    "tag": "synonym",
+    "level": "B2"
+   },
+   {
+    "type": "mcq",
+    "q": "What is the opposite of \"complaint\"?",
+    "options": [
+     "suggestion",
+     "question",
+     "effort",
+     "compliment"
+    ],
+    "answer": 3,
+    "whyTr": "Complaint (şikâyet) ↔ compliment (iltifat).",
+    "tag": "antonym",
+    "level": "B2"
+   },
+   {
+    "type": "mcq",
+    "q": "Last night my brother and I made dinner together. I washed the vegetables, and he cooked the meat. Afterwards, we did the dishes.\n\nWhat did they do after dinner?",
+    "options": [
+     "They made dinner again.",
+     "They did the dishes.",
+     "They took a nap.",
+     "They went shopping."
+    ],
+    "answer": 1,
+    "whyTr": "Metinde: 'Afterwards, we did the dishes.'",
+    "tag": "reading",
+    "level": "B2"
+   },
+   {
+    "type": "mcq",
+    "q": "Mr. Brown was in a hurry, so he took the shortcut and made a quick phone call on the way.\n\nWhat did Mr. Brown do?",
+    "options": [
+     "He took a long break.",
+     "He took a shorter road.",
+     "He did his homework.",
+     "He had lunch at school."
+    ],
+    "answer": 1,
+    "whyTr": "Shortcut = kestirme yol.",
+    "tag": "reading",
+    "level": "B2"
+   }
+  ]
+ }
+}

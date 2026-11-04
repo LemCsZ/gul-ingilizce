@@ -1,0 +1,760 @@
+{
+ "week": 1,
+ "day": 5,
+ "titleTr": "Neler yapabilirsin? Okulda talimatlar",
+ "theme": "work-school",
+ "morning": {
+  "grammar": {
+   "topic": "can / can't and imperatives",
+   "explainTr": [
+    "'Can' yapabildiğin şeyleri anlatır: I can drive. Olumsuzu 'can't' (cannot): I can't swim. 'Can'den sonra fiil yalın gelir, -s veya 'to' almaz.",
+    "'Can' ile rica ve izin de istenir: Can you help me? (Bana yardım edebilir misin?) Can I sit here? (Burada oturabilir miyim?)",
+    "Talimat (imperative) için özneyi yazmazsın: Open your books. Yasak için başa 'Don't' koyarsın: Don't run. Öğretmenlerin sürekli kullandığı kalıplar bunlar."
+   ],
+   "compareTr": "Türkçede 'yapabilirim' fiilin sonuna eklenir (yüzebilirim). İngilizcede 'can' ayrı kelimedir ve fiil yalın kalır: I can swim. Türkçe 'Kitabını aç' İngilizcede Open your book; özne ve ek yok.",
+   "table": [
+    [
+     "I / you / he / she / we / they",
+     "can + fiil",
+     "She can cook."
+    ],
+    [
+     "Olumsuz",
+     "can't + fiil",
+     "I can't drive."
+    ],
+    [
+     "Soru",
+     "Can + özne + fiil?",
+     "Can you help me?"
+    ],
+    [
+     "Kısa cevap",
+     "Yes, I can. / No, I can't.",
+     "Can he swim? No, he can't."
+    ],
+    [
+     "Talimat",
+     "Fiil (yalın)",
+     "Sit down."
+    ],
+    [
+     "Yasak",
+     "Don't + fiil",
+     "Don't talk."
+    ]
+   ],
+   "examples": [
+    {
+     "en": "I can use a computer.",
+     "tr": "Bilgisayar kullanabilirim."
+    },
+    {
+     "en": "She can't drive a bus.",
+     "tr": "O otobüs kullanamaz."
+    },
+    {
+     "en": "Can you open the window, please?",
+     "tr": "Pencereyi açabilir misin lütfen?"
+    },
+    {
+     "en": "Can I go to the restroom?",
+     "tr": "Tuvalete gidebilir miyim?"
+    },
+    {
+     "en": "Open your books. Don't run.",
+     "tr": "Kitaplarınızı açın. Koşmayın."
+    }
+   ],
+   "exercises": [
+    {
+     "type": "mcq",
+     "q": "I ___ use a computer.",
+     "options": [
+      "can",
+      "cans",
+      "can to"
+     ],
+     "answer": 0,
+     "whyTr": "'Can' her özneyle aynı kalır ve fiil yalın gelir.",
+     "tag": "modals",
+     "level": "A1"
+    },
+    {
+     "type": "mcq",
+     "q": "She can ___ English very well.",
+     "options": [
+      "speaks",
+      "speak",
+      "to speak"
+     ],
+     "answer": 1,
+     "whyTr": "'Can'den sonra fiil yalın gelir: speak.",
+     "tag": "modals",
+     "level": "A1"
+    },
+    {
+     "type": "order",
+     "promptTr": "Cümleyi sırala:",
+     "words": [
+      "can",
+      "I",
+      "type",
+      "fast"
+     ],
+     "answer": "I can type fast",
+     "whyTr": "Sıra: özne + can + fiil + gerisi.",
+     "tag": "modals",
+     "level": "A1"
+    },
+    {
+     "type": "mcq",
+     "q": "My son ___ swim. He is afraid of the water.",
+     "options": [
+      "can",
+      "can't",
+      "cans"
+     ],
+     "answer": 1,
+     "whyTr": "Su korkusu var, yani yüzemiyor: can't.",
+     "tag": "negative-form",
+     "level": "A1"
+    },
+    {
+     "type": "mcq",
+     "q": "___ you help me, please?",
+     "options": [
+      "Do",
+      "Can",
+      "Are"
+     ],
+     "answer": 1,
+     "whyTr": "Rica için 'Can you...?' kullanılır.",
+     "tag": "modals",
+     "level": "A1"
+    },
+    {
+     "type": "mcq",
+     "q": "Teacher, ___ I use the restroom?",
+     "options": [
+      "Can",
+      "Do",
+      "Are"
+     ],
+     "answer": 0,
+     "whyTr": "İzin istemek için 'Can I...?' kullanılır.",
+     "tag": "modals",
+     "level": "A1"
+    },
+    {
+     "type": "order",
+     "promptTr": "Rica cümlesini sırala:",
+     "words": [
+      "you",
+      "Can",
+      "open",
+      "the",
+      "window?"
+     ],
+     "answer": "Can you open the window?",
+     "whyTr": "Soruda 'Can' başa gelir.",
+     "tag": "modals",
+     "level": "A1"
+    },
+    {
+     "type": "mcq",
+     "q": "The teacher says: \"___ your books.\"",
+     "options": [
+      "Open",
+      "Opens",
+      "You open"
+     ],
+     "answer": 0,
+     "whyTr": "Talimatta özne yazılmaz, yalın fiil kullanılır.",
+     "tag": "imperatives",
+     "level": "A1"
+    },
+    {
+     "type": "mcq",
+     "q": "\"___ run in the hallway!\"",
+     "options": [
+      "Not",
+      "Don't",
+      "No"
+     ],
+     "answer": 1,
+     "whyTr": "Yasak için fiilin önüne 'Don't' konur.",
+     "tag": "imperatives",
+     "level": "A1"
+    },
+    {
+     "type": "order",
+     "promptTr": "Talimatı sırala:",
+     "words": [
+      "your",
+      "Open",
+      "books"
+     ],
+     "answer": "Open your books",
+     "whyTr": "Talimat fiille başlar.",
+     "tag": "imperatives",
+     "level": "A1"
+    },
+    {
+     "type": "fill",
+     "q": "She ___ drive a bus. She has a license.",
+     "accept": [
+      "can"
+     ],
+     "hintTr": "yapabilir",
+     "whyTr": "Ehliyeti var, yani sürebilir: can.",
+     "tag": "modals",
+     "level": "A1"
+    },
+    {
+     "type": "fill",
+     "q": "Please ___ talk during the test.",
+     "accept": [
+      "don't",
+      "do not"
+     ],
+     "hintTr": "yasak (olumsuz)",
+     "whyTr": "Yasak için 'don't' kullanılır.",
+     "tag": "imperatives",
+     "level": "A1"
+    }
+   ]
+  },
+  "vocab": [
+   {
+    "id": "teacher",
+    "en": "teacher",
+    "tr": "öğretmen",
+    "pos": "noun",
+    "example": "My teacher is very kind.",
+    "exampleTr": "Öğretmenim çok nazik.",
+    "syn": [],
+    "ant": [],
+    "level": "A1"
+   },
+   {
+    "id": "student",
+    "en": "student",
+    "tr": "öğrenci",
+    "pos": "noun",
+    "example": "Every student has a notebook.",
+    "exampleTr": "Her öğrencinin bir defteri var.",
+    "syn": [],
+    "ant": [],
+    "level": "A1"
+   },
+   {
+    "id": "secretary",
+    "en": "secretary",
+    "tr": "sekreter",
+    "pos": "noun",
+    "example": "The school secretary answers the phone.",
+    "exampleTr": "Okul sekreteri telefona bakıyor.",
+    "syn": [],
+    "ant": [],
+    "level": "A1"
+   },
+   {
+    "id": "classroom",
+    "en": "classroom",
+    "tr": "sınıf",
+    "pos": "noun",
+    "example": "The classroom is big and bright.",
+    "exampleTr": "Sınıf büyük ve aydınlık.",
+    "syn": [],
+    "ant": [],
+    "level": "A1"
+   },
+   {
+    "id": "desk",
+    "en": "desk",
+    "tr": "sıra, masa",
+    "pos": "noun",
+    "example": "Please sit at your desk.",
+    "exampleTr": "Lütfen sıranıza oturun.",
+    "syn": [],
+    "ant": [],
+    "level": "A1"
+   },
+   {
+    "id": "whiteboard",
+    "en": "whiteboard",
+    "tr": "beyaz tahta",
+    "pos": "noun",
+    "example": "The teacher writes on the whiteboard.",
+    "exampleTr": "Öğretmen beyaz tahtaya yazıyor.",
+    "syn": [],
+    "ant": [],
+    "level": "A1"
+   },
+   {
+    "id": "notebook",
+    "en": "notebook",
+    "tr": "defter",
+    "pos": "noun",
+    "example": "Open your notebook, please.",
+    "exampleTr": "Defterinizi açın lütfen.",
+    "syn": [],
+    "ant": [],
+    "level": "A1"
+   },
+   {
+    "id": "skill",
+    "en": "skill",
+    "tr": "beceri",
+    "pos": "noun",
+    "example": "Using a computer is a useful skill.",
+    "exampleTr": "Bilgisayar kullanmak faydalı bir beceri.",
+    "syn": [
+     "ability"
+    ],
+    "ant": [],
+    "level": "A1"
+   },
+   {
+    "id": "computer",
+    "en": "computer",
+    "tr": "bilgisayar",
+    "pos": "noun",
+    "example": "I can use a computer and send email.",
+    "exampleTr": "Bilgisayar kullanabilirim ve e-posta gönderebilirim.",
+    "syn": [],
+    "ant": [],
+    "level": "A1"
+   },
+   {
+    "id": "cook",
+    "en": "cook",
+    "tr": "yemek yapmak",
+    "pos": "verb",
+    "example": "I can cook Turkish food.",
+    "exampleTr": "Türk yemeği yapabilirim.",
+    "syn": [],
+    "ant": [],
+    "level": "A1"
+   },
+   {
+    "id": "drive",
+    "en": "drive",
+    "tr": "araba sürmek",
+    "pos": "verb",
+    "example": "My neighbor can drive a school bus.",
+    "exampleTr": "Komşum okul otobüsü kullanabilir.",
+    "syn": [],
+    "ant": [],
+    "level": "A1"
+   },
+   {
+    "id": "quiet",
+    "en": "quiet",
+    "tr": "sessiz",
+    "pos": "adjective",
+    "example": "The library is quiet.",
+    "exampleTr": "Kütüphane sessiz.",
+    "syn": [],
+    "ant": [
+     "loud"
+    ],
+    "level": "A1"
+   },
+   {
+    "id": "loud",
+    "en": "loud",
+    "tr": "gürültülü, yüksek sesli",
+    "pos": "adjective",
+    "example": "The music is too loud.",
+    "exampleTr": "Müzik çok yüksek sesli.",
+    "syn": [],
+    "ant": [
+     "quiet"
+    ],
+    "level": "A1"
+   },
+   {
+    "id": "open",
+    "en": "open",
+    "tr": "açmak; açık",
+    "pos": "verb",
+    "example": "Please open the door.",
+    "exampleTr": "Lütfen kapıyı aç.",
+    "syn": [],
+    "ant": [
+     "close"
+    ],
+    "level": "A1"
+   },
+   {
+    "id": "listen",
+    "en": "listen",
+    "tr": "dinlemek",
+    "pos": "verb",
+    "example": "Listen to the teacher, please.",
+    "exampleTr": "Lütfen öğretmeni dinleyin.",
+    "syn": [],
+    "ant": [],
+    "level": "A1"
+   }
+  ],
+  "reading": {
+   "title": "Hafsa visits a classroom",
+   "text": "Today Hafsa visits Lincoln Elementary School. She wants to work as a substitute teacher, so she wants to see a real classroom.\n\nMs. Carter, a fourth-grade teacher, shows her the room. There are twenty-two desks and a big whiteboard. At nine o'clock the students come in. Ms. Carter says, \"Good morning, class. Sit down, please. Open your notebooks.\" The students are quiet and listen. Then she says, \"Don't talk, please. Look at the board.\"\n\nAfter class, Ms. Carter asks, \"Can you use a computer, Hafsa?\" Hafsa smiles. \"Yes, I can. I can also help children read. I can't drive a school bus, but I can learn!\" Ms. Carter laughs. \"That is fine. You can come back next week.\"",
+   "glossary": [
+    {
+     "en": "substitute teacher",
+     "tr": "vekil öğretmen"
+    },
+    {
+     "en": "fourth-grade",
+     "tr": "dördüncü sınıf"
+    },
+    {
+     "en": "come back",
+     "tr": "geri gelmek"
+    },
+    {
+     "en": "learn",
+     "tr": "öğrenmek"
+    }
+   ],
+   "questions": [
+    {
+     "type": "mcq",
+     "q": "Why does Hafsa visit the school?",
+     "options": [
+      "She wants to be a substitute teacher.",
+      "She wants to buy a desk.",
+      "Her son is a student there."
+     ],
+     "answer": 0,
+     "whyTr": "Metin: 'She wants to work as a substitute teacher.'",
+     "tag": "reading",
+     "level": "A1"
+    },
+    {
+     "type": "mcq",
+     "q": "How many desks are in the room?",
+     "options": [
+      "Twelve",
+      "Twenty-two",
+      "Thirty-two"
+     ],
+     "answer": 1,
+     "whyTr": "Metin: 'twenty-two desks'.",
+     "tag": "reading",
+     "level": "A1"
+    },
+    {
+     "type": "mcq",
+     "q": "What can't Hafsa do?",
+     "options": [
+      "Use a computer",
+      "Help children read",
+      "Drive a school bus"
+     ],
+     "answer": 2,
+     "whyTr": "Metin: 'I can't drive a school bus'.",
+     "tag": "reading",
+     "level": "A1"
+    },
+    {
+     "type": "mcq",
+     "q": "What does Ms. Carter say at the end?",
+     "options": [
+      "Hafsa can come back next week.",
+      "Hafsa can't come back.",
+      "Hafsa must buy a computer."
+     ],
+     "answer": 0,
+     "whyTr": "Son cümle: 'You can come back next week.'",
+     "tag": "reading",
+     "level": "A1"
+    }
+   ]
+  }
+ },
+ "evening": {
+  "listening": {
+   "title": "At the school office",
+   "script": [
+    {
+     "speaker": "Mr. Brown",
+     "text": "Good morning, Hafsa. Please come in and sit down."
+    },
+    {
+     "speaker": "Hafsa",
+     "text": "Thank you, Mr. Brown. Can I ask a question?"
+    },
+    {
+     "speaker": "Mr. Brown",
+     "text": "Of course. What is it?"
+    },
+    {
+     "speaker": "Hafsa",
+     "text": "Can I work as a substitute teacher here?"
+    },
+    {
+     "speaker": "Mr. Brown",
+     "text": "Yes, you can, but first you need to fill out a form. Can you use a computer?"
+    },
+    {
+     "speaker": "Hafsa",
+     "text": "Yes, I can. I can type, and I can use email."
+    },
+    {
+     "speaker": "Mr. Brown",
+     "text": "Great. Can you speak Spanish? Many of our parents speak it."
+    },
+    {
+     "speaker": "Hafsa",
+     "text": "No, I can't. I speak Turkish, and I'm learning English."
+    },
+    {
+     "speaker": "Mr. Brown",
+     "text": "That's fine. Please fill out this form, and don't forget your ID."
+    },
+    {
+     "speaker": "Hafsa",
+     "text": "Can you give me a pen, please?"
+    },
+    {
+     "speaker": "Mr. Brown",
+     "text": "Sure. Here you are. Bring the form back on Friday."
+    }
+   ],
+   "questions": [
+    {
+     "type": "mcq",
+     "q": "What does Hafsa want?",
+     "options": [
+      "To work as a substitute teacher",
+      "To buy a computer",
+      "To learn Spanish"
+     ],
+     "answer": 0,
+     "whyTr": "Hafsa: 'Can I work as a substitute teacher here?'",
+     "tag": "listening",
+     "level": "A1"
+    },
+    {
+     "type": "mcq",
+     "q": "Which skill does Hafsa have?",
+     "options": [
+      "She can type.",
+      "She can speak Spanish.",
+      "She can drive a bus."
+     ],
+     "answer": 0,
+     "whyTr": "Hafsa: 'I can type, and I can use email.'",
+     "tag": "listening",
+     "level": "A1"
+    },
+    {
+     "type": "mcq",
+     "q": "What should Hafsa not forget?",
+     "options": [
+      "Her ID",
+      "Her book",
+      "Her phone"
+     ],
+     "answer": 0,
+     "whyTr": "Mr. Brown: 'don't forget your ID'.",
+     "tag": "listening",
+     "level": "A1"
+    },
+    {
+     "type": "mcq",
+     "q": "When does she bring the form back?",
+     "options": [
+      "On Monday",
+      "On Friday",
+      "On Sunday"
+     ],
+     "answer": 1,
+     "whyTr": "Mr. Brown: 'Bring the form back on Friday.'",
+     "tag": "listening",
+     "level": "A1"
+    }
+   ]
+  },
+  "writing": {
+   "promptTr": "Neler yapabildiğini ve yapamadığını 4-5 cümleyle yaz.",
+   "promptEn": "Write 4-5 sentences about what you can and can't do.",
+   "frames": [
+    "I can ...",
+    "I can also ...",
+    "I can't ...",
+    "Can I ... ?"
+   ],
+   "model": "I can cook Turkish food. I can use a computer and send email. I can help children with reading. I can't drive a big bus. Can I work at your school?",
+   "checklistTr": [
+    "'Can' veya 'can't'den sonra yalın fiil var mı (can cooks değil)?",
+    "En az bir 'I can't' cümlen var mı?",
+    "Cümleler büyük harfle başlıyor ve noktayla bitiyor mu?"
+   ],
+   "minWords": 25
+  },
+  "examSet": [
+   {
+    "type": "mcq",
+    "q": "My son ___ ride a bike very well.",
+    "options": [
+     "can",
+     "cans",
+     "is can"
+    ],
+    "answer": 0,
+    "whyTr": "'Can' -s almaz.",
+    "tag": "modals",
+    "level": "A1"
+   },
+   {
+    "type": "mcq",
+    "q": "\"Can you cook?\" \"Yes, I ___.\"",
+    "options": [
+     "can",
+     "do",
+     "am"
+    ],
+    "answer": 0,
+    "whyTr": "Can sorusuna 'Yes, I can.' diye cevap verilir.",
+    "tag": "modals",
+    "level": "A1"
+   },
+   {
+    "type": "mcq",
+    "q": "I ___ speak French. I only speak English and Turkish.",
+    "options": [
+     "can",
+     "can't",
+     "don't can"
+    ],
+    "answer": 1,
+    "whyTr": "Fransızca bilmiyor: can't.",
+    "tag": "negative-form",
+    "level": "A1"
+   },
+   {
+    "type": "mcq",
+    "q": "___ you please close the window? It is cold.",
+    "options": [
+     "Can",
+     "Are",
+     "Do"
+    ],
+    "answer": 0,
+    "whyTr": "Rica: Can you...?",
+    "tag": "modals",
+    "level": "A1"
+   },
+   {
+    "type": "mcq",
+    "q": "Library sign: \"___ in the library. Please be quiet.\"",
+    "options": [
+     "Don't talk",
+     "Not talk",
+     "Talks"
+    ],
+    "answer": 0,
+    "whyTr": "Yasak: Don't + fiil.",
+    "tag": "imperatives",
+    "level": "A1"
+   },
+   {
+    "type": "mcq",
+    "q": "The students sit at their ___.",
+    "options": [
+     "desks",
+     "skills",
+     "computers"
+    ],
+    "answer": 0,
+    "whyTr": "Öğrenciler sıralarında (desks) oturur.",
+    "tag": "vocab",
+    "level": "A1"
+   },
+   {
+    "type": "mcq",
+    "q": "Driving is a useful ___.",
+    "options": [
+     "skill",
+     "classroom",
+     "desk"
+    ],
+    "answer": 0,
+    "whyTr": "Beceri = skill.",
+    "tag": "vocab",
+    "level": "A1"
+   },
+   {
+    "type": "mcq",
+    "q": "Which word means almost the same as \"skill\"?",
+    "options": [
+     "ability",
+     "problem",
+     "lesson"
+    ],
+    "answer": 0,
+    "whyTr": "Skill ve ability benzer anlamlı.",
+    "tag": "synonym",
+    "level": "A2"
+   },
+   {
+    "type": "mcq",
+    "q": "What is the opposite of \"quiet\"?",
+    "options": [
+     "loud",
+     "slow",
+     "small"
+    ],
+    "answer": 0,
+    "whyTr": "Quiet'ın zıttı loud.",
+    "tag": "antonym",
+    "level": "A1"
+   },
+   {
+    "type": "mcq",
+    "q": "Which sentence is correct?",
+    "options": [
+     "She can sings well.",
+     "She can sing well.",
+     "She cans sing well."
+    ],
+    "answer": 1,
+    "whyTr": "Can + yalın fiil.",
+    "tag": "modals",
+    "level": "A1"
+   },
+   {
+    "type": "mcq",
+    "q": "Tom is a new teacher. He can use a computer and he can speak Spanish. He can't sing. Today he says, \"Open your books, please.\"\n\nWhat can't Tom do?",
+    "options": [
+     "Use a computer",
+     "Speak Spanish",
+     "Sing"
+    ],
+    "answer": 2,
+    "whyTr": "Metin: 'He can't sing.'",
+    "tag": "reading",
+    "level": "A2"
+   },
+   {
+    "type": "mcq",
+    "q": "Anna works in a school office. She can answer the phone and use email. She can't drive, so she takes the bus.\n\nHow does Anna go to work?",
+    "options": [
+     "By bus",
+     "By car",
+     "On foot"
+    ],
+    "answer": 0,
+    "whyTr": "Metin: 'she takes the bus'.",
+    "tag": "reading",
+    "level": "A2"
+   }
+  ]
+ }
+}

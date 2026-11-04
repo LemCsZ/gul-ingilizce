@@ -1,0 +1,928 @@
+{
+ "week": 12,
+ "day": 5,
+ "titleTr": "Okul bölgesi duyuruları: tüm zamanlarda edilgen",
+ "theme": "district-announcements",
+ "morning": {
+  "grammar": {
+   "topic": "Passive voice in all tenses",
+   "explainTr": [
+    "Edilgen yapıda önemli olan eylemi yapan değil, olan şeydir: The newsletter is sent every Friday. Kalıp: be + V3. Zamanı 'be' fiili belirler: is sent, was sent, has been sent, will be sent, is being sent, was being sent, had been sent.",
+    "Eylemi yapanı söylemek istersen 'by' kullanırsın: The rule was approved by the board. Yapan belli değilse ya da önemli değilse söylenmez. Okul bölgesi duyurularında bu yüzden çok edilgen görürsün: Parents have been notified.",
+    "Edilgen yapıda yalnız nesnesi olan (geçişli) fiiller kullanılır. 'Happen, arrive, sleep' edilgen olmaz: The meeting was happened yanlıştır, The meeting happened doğrudur."
+   ],
+   "compareTr": "Türkçede edilgenlik fiile eklenir (gönderildi, yapılıyor). İngilizcede ek yoktur: be fiili zamanı taşır, ana fiil V3 olur. 'Bina yapılıyor' = The building is being built.",
+   "table": [
+    [
+     "Present simple",
+     "am/is/are + V3",
+     "The newsletter is sent."
+    ],
+    [
+     "Past simple",
+     "was/were + V3",
+     "The gym was built in 1990."
+    ],
+    [
+     "Present continuous",
+     "am/is/are being + V3",
+     "The roof is being repaired."
+    ],
+    [
+     "Present perfect",
+     "has/have been + V3",
+     "Parents have been notified."
+    ],
+    [
+     "Future",
+     "will be + V3",
+     "The bus will be rerouted."
+    ],
+    [
+     "Past perfect",
+     "had been + V3",
+     "The test had been canceled."
+    ]
+   ],
+   "examples": [
+    {
+     "en": "Parents have been notified by letter.",
+     "tr": "Velilere mektupla haber verildi."
+    },
+    {
+     "en": "The gym is being renovated this summer.",
+     "tr": "Spor salonu bu yaz yenileniyor."
+    },
+    {
+     "en": "The old floor was damaged by water.",
+     "tr": "Eski zemin su yüzünden hasar gördü."
+    },
+    {
+     "en": "The results will be sent by email.",
+     "tr": "Sonuçlar e-postayla gönderilecek."
+    }
+   ],
+   "exercises": [
+    {
+     "type": "mcq",
+     "q": "A new bus schedule ___ by the district next month.",
+     "options": [
+      "will announce",
+      "will be announced",
+      "announced",
+      "is announce"
+     ],
+     "answer": 1,
+     "whyTr": "Gelecekte yapılacak edilgen: will be + V3.",
+     "tag": "future",
+     "level": "B2"
+    },
+    {
+     "type": "mcq",
+     "q": "All students ___ to wear ID badges since September.",
+     "options": [
+      "were requiring",
+      "are require",
+      "have been required",
+      "have required"
+     ],
+     "answer": 2,
+     "whyTr": "Süren durum edilgen: have been + V3.",
+     "tag": "present-perfect",
+     "level": "B2"
+    },
+    {
+     "type": "order",
+     "promptTr": "Cümleyi sırala:",
+     "words": [
+      "The",
+      "is",
+      "being",
+      "summer",
+      "renovated",
+      "this",
+      "gym"
+     ],
+     "answer": "The gym is being renovated this summer",
+     "whyTr": "Present continuous passive: is being + V3.",
+     "tag": "present-continuous",
+     "level": "B2"
+    },
+    {
+     "type": "mcq",
+     "q": "The roof ___ right now, so please use the east entrance.",
+     "options": [
+      "repairs",
+      "was repaired",
+      "is being repaired",
+      "will repair"
+     ],
+     "answer": 2,
+     "whyTr": "Şu anda süren edilgen: is being + V3.",
+     "tag": "present-continuous",
+     "level": "B2"
+    },
+    {
+     "type": "mcq",
+     "q": "The school ___ in 1952.",
+     "options": [
+      "was built",
+      "built",
+      "has been built",
+      "is building"
+     ],
+     "answer": 0,
+     "whyTr": "Belirli geçmiş tarih: was + V3.",
+     "tag": "past-simple",
+     "level": "B2"
+    },
+    {
+     "type": "order",
+     "promptTr": "Cümleyi sırala:",
+     "words": [
+      "email",
+      "to",
+      "sent",
+      "will",
+      "results",
+      "parents",
+      "be",
+      "by",
+      "The"
+     ],
+     "answer": "The results will be sent to parents by email",
+     "whyTr": "Future passive: will be + V3.",
+     "tag": "future",
+     "level": "B2"
+    },
+    {
+     "type": "mcq",
+     "q": "Parents ___ of any changes by the end of the day.",
+     "options": [
+      "will notify",
+      "are notifying",
+      "notified",
+      "will be notified"
+     ],
+     "answer": 3,
+     "whyTr": "Gelecekte haber verilecek: will be notified.",
+     "tag": "future",
+     "level": "B2"
+    },
+    {
+     "type": "fill",
+     "q": "The meeting has ___ postponed until Friday.",
+     "accept": [
+      "been"
+     ],
+     "hintTr": "has ___ + V3",
+     "whyTr": "Present perfect passive: has been postponed.",
+     "tag": "present-perfect",
+     "level": "B2"
+    },
+    {
+     "type": "mcq",
+     "q": "By the time we arrived, the meeting ___ canceled.",
+     "options": [
+      "was been",
+      "had been",
+      "has been",
+      "will be"
+     ],
+     "answer": 1,
+     "whyTr": "Geçmişteki bir andan önce: had been + V3.",
+     "tag": "past-simple",
+     "level": "B2"
+    },
+    {
+     "type": "mcq",
+     "q": "By the end of the year, I ___ my credential.",
+     "options": [
+      "receive",
+      "had received",
+      "am receiving",
+      "will have received"
+     ],
+     "answer": 3,
+     "whyTr": "Gelecekteki tarihe kadar tamamlanmış olacak: future perfect.",
+     "tag": "future",
+     "level": "B2"
+    },
+    {
+     "type": "mcq",
+     "q": "At noon tomorrow, I ___ the cafeteria.",
+     "options": [
+      "will be supervising",
+      "will supervise",
+      "supervised",
+      "have supervised"
+     ],
+     "answer": 0,
+     "whyTr": "O anda süren eylem: future continuous.",
+     "tag": "future",
+     "level": "B2"
+    },
+    {
+     "type": "mcq",
+     "q": "Which sentence is correct?",
+     "options": [
+      "The tests were grade yesterday.",
+      "The tests graded yesterday.",
+      "The tests were graded yesterday.",
+      "The tests did grade yesterday."
+     ],
+     "answer": 2,
+     "whyTr": "Past simple passive: were + V3.",
+     "tag": "past-simple",
+     "level": "B2"
+    }
+   ]
+  },
+  "vocab": [
+   {
+    "id": "district",
+    "en": "district",
+    "tr": "okul bölgesi; bölge",
+    "pos": "noun",
+    "example": "The district sends a newsletter every Friday.",
+    "exampleTr": "Okul bölgesi her cuma bir bülten gönderir.",
+    "syn": [],
+    "ant": [],
+    "level": "B2"
+   },
+   {
+    "id": "notify",
+    "en": "notify",
+    "tr": "haber vermek, bildirmek",
+    "pos": "verb",
+    "example": "The school will notify parents by email.",
+    "exampleTr": "Okul velilere e-postayla haber verecek.",
+    "syn": [
+     "inform"
+    ],
+    "ant": [],
+    "level": "B2"
+   },
+   {
+    "id": "distribute",
+    "en": "distribute",
+    "tr": "dağıtmak",
+    "pos": "verb",
+    "example": "The new handbooks will be distributed on Monday.",
+    "exampleTr": "Yeni el kitapları pazartesi dağıtılacak.",
+    "syn": [
+     "hand out"
+    ],
+    "ant": [],
+    "level": "B2"
+   },
+   {
+    "id": "publish",
+    "en": "publish",
+    "tr": "yayımlamak",
+    "pos": "verb",
+    "example": "The district publishes its schedule online.",
+    "exampleTr": "Okul bölgesi programını internette yayımlıyor.",
+    "syn": [
+     "release"
+    ],
+    "ant": [],
+    "level": "B2"
+   },
+   {
+    "id": "install",
+    "en": "install",
+    "tr": "kurmak, takmak",
+    "pos": "verb",
+    "example": "New cameras were installed at the entrance.",
+    "exampleTr": "Girişe yeni kameralar takıldı.",
+    "syn": [],
+    "ant": [],
+    "level": "B2"
+   },
+   {
+    "id": "inspect",
+    "en": "inspect",
+    "tr": "denetlemek, incelemek",
+    "pos": "verb",
+    "example": "The fire alarms are inspected every year.",
+    "exampleTr": "Yangın alarmları her yıl denetlenir.",
+    "syn": [
+     "examine"
+    ],
+    "ant": [],
+    "level": "B2"
+   },
+   {
+    "id": "committee",
+    "en": "committee",
+    "tr": "komite",
+    "pos": "noun",
+    "example": "A parent committee organizes the winter concert.",
+    "exampleTr": "Veli komitesi kış konserini düzenliyor.",
+    "syn": [],
+    "ant": [],
+    "level": "B2"
+   },
+   {
+    "id": "vote",
+    "en": "vote",
+    "tr": "oy vermek; oy",
+    "pos": "verb",
+    "example": "The school board will vote on Tuesday.",
+    "exampleTr": "Okul kurulu salı günü oy kullanacak.",
+    "syn": [],
+    "ant": [],
+    "level": "B2"
+   },
+   {
+    "id": "revise",
+    "en": "revise",
+    "tr": "gözden geçirip değiştirmek",
+    "pos": "verb",
+    "example": "The rules were revised last year.",
+    "exampleTr": "Kurallar geçen yıl yeniden düzenlendi.",
+    "syn": [
+     "update"
+    ],
+    "ant": [],
+    "level": "B2"
+   },
+   {
+    "id": "enforce",
+    "en": "enforce",
+    "tr": "uygulatmak, yürürlükte tutmak",
+    "pos": "verb",
+    "example": "Teachers must enforce the dress code.",
+    "exampleTr": "Öğretmenler kıyafet kuralını uygulatmalı.",
+    "syn": [],
+    "ant": [],
+    "level": "B2"
+   },
+   {
+    "id": "implement",
+    "en": "implement",
+    "tr": "uygulamaya koymak",
+    "pos": "verb",
+    "example": "The new program will be implemented in January.",
+    "exampleTr": "Yeni program ocakta uygulamaya konacak.",
+    "syn": [
+     "carry out"
+    ],
+    "ant": [],
+    "level": "B2"
+   },
+   {
+    "id": "authorize",
+    "en": "authorize",
+    "tr": "yetki vermek, izin vermek",
+    "pos": "verb",
+    "example": "Only the principal can authorize a field trip.",
+    "exampleTr": "Gezi iznini yalnız müdür verebilir.",
+    "syn": [
+     "permit"
+    ],
+    "ant": [
+     "prohibit"
+    ],
+    "level": "B2"
+   },
+   {
+    "id": "consent",
+    "en": "consent",
+    "tr": "onay, izin",
+    "pos": "noun",
+    "example": "Parents must give written consent for the trip.",
+    "exampleTr": "Veliler gezi için yazılı izin vermeli.",
+    "syn": [
+     "permission"
+    ],
+    "ant": [],
+    "level": "B2"
+   },
+   {
+    "id": "bulletin",
+    "en": "bulletin",
+    "tr": "duyuru, bülten",
+    "pos": "noun",
+    "example": "The bulletin board is next to the office.",
+    "exampleTr": "Duyuru panosu ofisin yanında.",
+    "syn": [],
+    "ant": [],
+    "level": "B2"
+   },
+   {
+    "id": "prohibit",
+    "en": "prohibit",
+    "tr": "yasaklamak",
+    "pos": "verb",
+    "example": "The school prohibits phones during tests.",
+    "exampleTr": "Okul sınavlarda telefonları yasaklıyor.",
+    "syn": [
+     "forbid"
+    ],
+    "ant": [
+     "allow"
+    ],
+    "level": "B2"
+   }
+  ],
+  "reading": {
+   "title": "The Friday newsletter",
+   "text": "Every Friday, Hafsa receives the district newsletter by email. This week's issue was longer than usual, so she made a cup of tea and read it carefully.\n\nThe first article was about the new schedule. \"Starting in January, school buses will be rerouted,\" it said. \"Parents have been notified by letter, and a new map has been posted on the district website. Students will be picked up fifteen minutes earlier at some stops.\" Hafsa wrote this down, because she would be working at Lincoln Elementary and might need to answer questions. Parents often call the office when a route changes, and she wanted to sound helpful and calm.\n\nThe second article explained why the gym at Lincoln Elementary is being renovated. The old floor was damaged by water last spring, and the heating system has not been inspected since 2015. \"The work will be finished by March,\" the article promised. \"Until then, physical education classes are being held outside or in the cafeteria.\"\n\nThe third article was about safety. A new rule was approved by the school board last Tuesday: all visitors must be checked in at the front office, and a photo ID will be required. \"Visitor badges will be provided by the front office,\" it said. \"Substitute teachers are asked to wear their badges at all times.\" Hafsa smiled. She already wore hers like a medal.\n\nAt the end, there was a short thank-you note. Volunteers had been invited to help at the winter concert, and more than forty parents had already signed up. \"The concert will be held on December 12 at 6 p.m.,\" the note said. \"Tickets can be bought at the front office.\"\n\nHafsa closed her laptop. She realized that she understood almost every sentence, even the long ones. Three months ago, a newsletter like this would have been impossible for her to read. Now it was just another Friday evening.",
+   "glossary": [
+    {
+     "en": "reroute",
+     "tr": "güzergâhı değiştirmek"
+    },
+    {
+     "en": "renovate",
+     "tr": "yenilemek"
+    },
+    {
+     "en": "school board",
+     "tr": "okul kurulu"
+    },
+    {
+     "en": "photo ID",
+     "tr": "fotoğraflı kimlik"
+    },
+    {
+     "en": "sign up",
+     "tr": "kaydolmak"
+    }
+   ],
+   "questions": [
+    {
+     "type": "mcq",
+     "q": "What will happen to the school buses in January?",
+     "options": [
+      "They will be canceled.",
+      "They will be sold.",
+      "They will be painted.",
+      "They will be rerouted."
+     ],
+     "answer": 3,
+     "whyTr": "Metin: 'school buses will be rerouted'.",
+     "tag": "reading",
+     "level": "B2"
+    },
+    {
+     "type": "mcq",
+     "q": "Where are PE classes being held until March?",
+     "options": [
+      "In the library",
+      "Outside or in the cafeteria",
+      "In the new gym",
+      "At another school"
+     ],
+     "answer": 1,
+     "whyTr": "Metin: 'held outside or in the cafeteria'.",
+     "tag": "reading",
+     "level": "B2"
+    },
+    {
+     "type": "mcq",
+     "q": "What will be required from every visitor?",
+     "options": [
+      "A letter from the district",
+      "A visitor ticket",
+      "A photo ID and a check-in at the front office",
+      "A parent's signature"
+     ],
+     "answer": 2,
+     "whyTr": "Metin: 'checked in at the front office, and a photo ID will be required'.",
+     "tag": "reading",
+     "level": "B2"
+    },
+    {
+     "type": "mcq",
+     "q": "What did Hafsa realize at the end?",
+     "options": [
+      "She could understand almost every sentence.",
+      "She had missed the concert.",
+      "She needed a new badge.",
+      "She had to call the district."
+     ],
+     "answer": 0,
+     "whyTr": "Metin: 'she understood almost every sentence'.",
+     "tag": "reading",
+     "level": "B2"
+    }
+   ]
+  }
+ },
+ "evening": {
+  "listening": {
+   "title": "News at the front office",
+   "script": [
+    {
+     "speaker": "Mr. Brown",
+     "text": "Hafsa, did you see the district email? Many things have changed."
+    },
+    {
+     "speaker": "Hafsa",
+     "text": "I read it quickly. The gym is being renovated, right?"
+    },
+    {
+     "speaker": "Mr. Brown",
+     "text": "Yes. The work started last week and will be finished in March."
+    },
+    {
+     "speaker": "Hafsa",
+     "text": "What about the buses? I read that they will be rerouted."
+    },
+    {
+     "speaker": "Mr. Brown",
+     "text": "Correct. A letter was sent to every family yesterday, and a map has been posted online."
+    },
+    {
+     "speaker": "Hafsa",
+     "text": "Good. Does that affect me?"
+    },
+    {
+     "speaker": "Mr. Brown",
+     "text": "Only a little. Subs are now expected to arrive thirty minutes before the first bell."
+    },
+    {
+     "speaker": "Hafsa",
+     "text": "I see. Is there anything else?"
+    },
+    {
+     "speaker": "Mr. Brown",
+     "text": "Yes. Badges must be worn at all times. Last month, three visitors were stopped at the door because they had no badges."
+    },
+    {
+     "speaker": "Hafsa",
+     "text": "I never take mine off."
+    },
+    {
+     "speaker": "Mr. Brown",
+     "text": "I know. That's why you were chosen for the Friday sub list."
+    },
+    {
+     "speaker": "Hafsa",
+     "text": "Thank you. I'm honored."
+    }
+   ],
+   "questions": [
+    {
+     "type": "mcq",
+     "q": "When will the gym work be finished?",
+     "options": [
+      "Next week",
+      "In December",
+      "In March",
+      "This Friday"
+     ],
+     "answer": 2,
+     "whyTr": "Mr. Brown: 'will be finished in March'.",
+     "tag": "listening",
+     "level": "B2"
+    },
+    {
+     "type": "mcq",
+     "q": "How were families informed about the buses?",
+     "options": [
+      "By a letter",
+      "By a phone call",
+      "By a text message",
+      "By the principal"
+     ],
+     "answer": 0,
+     "whyTr": "Mr. Brown: 'A letter was sent to every family'.",
+     "tag": "listening",
+     "level": "B2"
+    },
+    {
+     "type": "mcq",
+     "q": "How early must subs arrive now?",
+     "options": [
+      "Ten minutes before the first bell",
+      "Thirty minutes before the first bell",
+      "One hour before school",
+      "At the first bell"
+     ],
+     "answer": 1,
+     "whyTr": "Mr. Brown: 'thirty minutes before the first bell'.",
+     "tag": "listening",
+     "level": "B2"
+    },
+    {
+     "type": "mcq",
+     "q": "Why were three visitors stopped last month?",
+     "options": [
+      "They were late.",
+      "They had no tickets.",
+      "They were too loud.",
+      "They had no badges."
+     ],
+     "answer": 3,
+     "whyTr": "Mr. Brown: 'stopped at the door because they had no badges'.",
+     "tag": "listening",
+     "level": "B2"
+    }
+   ]
+  },
+  "writing": {
+   "promptTr": "Velilere kısa bir okul duyurusu yaz (etkinlik, tadilat ya da yeni kural). Edilgen yapıyı en az beş kez, farklı zamanlarda kullan.",
+   "promptEn": "Write a short school announcement (120-180 words) for parents about an event, a repair or a new rule. Use the passive in at least five sentences and in different tenses.",
+   "frames": [
+    "Dear parents, we would like to inform you that ...",
+    "The ... has been ...",
+    "The work will be finished by ...",
+    "Parents are asked to ..."
+   ],
+   "model": "Dear parents, we would like to inform you about some changes at Lincoln Elementary. The gym is being renovated this winter, and the work will be finished by March. Until then, physical education classes are being held outside or in the cafeteria. A new bus schedule has been published on the district website, and a letter has been sent to every family. Please note that visitors are now asked to show a photo ID at the front office. Visitor badges will be provided, and they must be worn at all times. The winter concert will be held on December 12 at 6 p.m. Tickets can be bought at the office, and volunteers are still needed. The concert was planned by a group of parents, and many students have been invited to perform. If you have any questions, please call the office. Thank you for your support and understanding.",
+   "checklistTr": [
+    "En az beş edilgen cümle var mı (be + V3)?",
+    "Farklı zamanlar kullandın mı (is being, has been, will be, was)?",
+    "Gereksiz yere 'by' ile yapanı yazmadın mı?",
+    "Cümleler büyük harfle başlıyor ve noktayla bitiyor mu?"
+   ],
+   "minWords": 120
+  },
+  "examSet": [
+   {
+    "type": "mcq",
+    "q": "The test results ___ to parents next week.",
+    "options": [
+     "will send",
+     "will be sent",
+     "are sending",
+     "sent"
+    ],
+    "answer": 1,
+    "whyTr": "Gelecekte edilgen: will be + V3.",
+    "tag": "future",
+    "level": "B2"
+   },
+   {
+    "type": "mcq",
+    "q": "The new rule ___ by the board last Tuesday.",
+    "options": [
+     "approved",
+     "has approved",
+     "is approving",
+     "was approved"
+    ],
+    "answer": 3,
+    "whyTr": "Geçmişte edilgen: was + V3.",
+    "tag": "past-simple",
+    "level": "B2"
+   },
+   {
+    "type": "order",
+    "promptTr": "Cümleyi sırala:",
+    "words": [
+     "been",
+     "Monday",
+     "since",
+     "The",
+     "office",
+     "closed",
+     "has"
+    ],
+    "answer": "The office has been closed since Monday",
+    "whyTr": "Present perfect passive: has been + V3.",
+    "tag": "present-perfect",
+    "level": "B2"
+   },
+   {
+    "type": "fill",
+    "q": "All visitors are ___ to sign in. (ask)",
+    "accept": [
+     "asked"
+    ],
+    "hintTr": "ask → V3",
+    "whyTr": "Edilgen: are asked.",
+    "tag": "vocab",
+    "level": "B2"
+   },
+   {
+    "type": "mcq",
+    "q": "The school board will ___ on the new budget tomorrow.",
+    "options": [
+     "install",
+     "distribute",
+     "vote",
+     "publish"
+    ],
+    "answer": 2,
+    "whyTr": "Oy kullanmak: vote.",
+    "tag": "vocab",
+    "level": "B2"
+   },
+   {
+    "type": "mcq",
+    "q": "Teachers will ___ the new handbook to every student.",
+    "options": [
+     "vote",
+     "inspect",
+     "prohibit",
+     "distribute"
+    ],
+    "answer": 3,
+    "whyTr": "Dağıtmak: distribute.",
+    "tag": "vocab",
+    "level": "B2"
+   },
+   {
+    "type": "mcq",
+    "q": "A small group that makes decisions for a school is a ___.",
+    "options": [
+     "bulletin",
+     "committee",
+     "consent",
+     "district"
+    ],
+    "answer": 1,
+    "whyTr": "Karar veren küçük grup: committee.",
+    "tag": "vocab",
+    "level": "B2"
+   },
+   {
+    "type": "mcq",
+    "q": "Which word is closest in meaning to \"implement\"?",
+    "options": [
+     "give up",
+     "hold back",
+     "carry out",
+     "put off"
+    ],
+    "answer": 2,
+    "whyTr": "Implement ve carry out benzer anlamlıdır.",
+    "tag": "synonym",
+    "level": "B2"
+   },
+   {
+    "type": "mcq",
+    "q": "What is the opposite of \"authorize\"?",
+    "options": [
+     "prohibit",
+     "install",
+     "revise",
+     "publish"
+    ],
+    "answer": 0,
+    "whyTr": "Authorize'ın zıddı prohibit.",
+    "tag": "antonym",
+    "level": "B2"
+   },
+   {
+    "type": "mcq",
+    "q": "The cafeteria menu has been changed. Fried food will no longer be served on Fridays, and fresh fruit will be offered every day.\n\nWhat will no longer be served on Fridays?",
+    "options": [
+     "Fresh fruit",
+     "Milk",
+     "Fried food",
+     "Sandwiches"
+    ],
+    "answer": 2,
+    "whyTr": "Metin: 'Fried food will no longer be served on Fridays.'",
+    "tag": "reading",
+    "level": "B2"
+   },
+   {
+    "type": "mcq",
+    "q": "The old computer lab was closed in June. New laptops were ordered in July, and they will be delivered next month.\n\nWhen will the laptops be delivered?",
+    "options": [
+     "Next month",
+     "In June",
+     "Last July",
+     "Next week"
+    ],
+    "answer": 0,
+    "whyTr": "Metin: 'they will be delivered next month'.",
+    "tag": "reading",
+    "level": "B2"
+   },
+   {
+    "type": "mcq",
+    "q": "The roof ___ at the moment, so the hallway is closed.",
+    "options": [
+     "repairs",
+     "is being repaired",
+     "was repair",
+     "will repair"
+    ],
+    "answer": 1,
+    "whyTr": "Şu anda süren edilgen.",
+    "tag": "present-continuous",
+    "level": "B2"
+   },
+   {
+    "type": "mcq",
+    "q": "The school ___ in 1960 and renovated in 2015.",
+    "options": [
+     "built",
+     "has built",
+     "is built",
+     "was built"
+    ],
+    "answer": 3,
+    "whyTr": "Geçmişteki tarihler: was built.",
+    "tag": "past-simple",
+    "level": "B2"
+   },
+   {
+    "type": "mcq",
+    "q": "By the time Hafsa arrived, the announcement ___.",
+    "options": [
+     "was making",
+     "had been made",
+     "has made",
+     "will be made"
+    ],
+    "answer": 1,
+    "whyTr": "Geçmişteki andan önce: had been made.",
+    "tag": "past-simple",
+    "level": "B2"
+   },
+   {
+    "type": "mcq",
+    "q": "While I was walking in, someone ___ my name.",
+    "options": [
+     "calls",
+     "was call",
+     "had called",
+     "called"
+    ],
+    "answer": 3,
+    "whyTr": "Araya giren olay: past simple.",
+    "tag": "past-simple",
+    "level": "B2"
+   },
+   {
+    "type": "mcq",
+    "q": "By Monday, the gym ___ cleaned.",
+    "options": [
+     "will have been",
+     "will be being",
+     "has been",
+     "was"
+    ],
+    "answer": 0,
+    "whyTr": "Gelecekteki tarihe kadar tamamlanmış olacak: will have been + V3.",
+    "tag": "future",
+    "level": "B2"
+   },
+   {
+    "type": "mcq",
+    "q": "At eleven tomorrow, I ___ in the gym.",
+    "options": [
+     "will have stood",
+     "stood",
+     "will be standing",
+     "stand"
+    ],
+    "answer": 2,
+    "whyTr": "O anda süren eylem: future continuous.",
+    "tag": "future",
+    "level": "B2"
+   },
+   {
+    "type": "mcq",
+    "q": "Visitor badges ___ be worn at all times.",
+    "options": [
+     "are",
+     "do",
+     "have",
+     "must"
+    ],
+    "answer": 3,
+    "whyTr": "Modal edilgen: must be + V3.",
+    "tag": "modals",
+    "level": "B1"
+   },
+   {
+    "type": "mcq",
+    "q": "Buses will be late ___ the heavy snow.",
+    "options": [
+     "because",
+     "because of",
+     "although",
+     "so"
+    ],
+    "answer": 1,
+    "whyTr": "İsimle 'because of' kullanılır.",
+    "tag": "linkers",
+    "level": "B1"
+   },
+   {
+    "type": "mcq",
+    "q": "Which sentence is passive?",
+    "options": [
+     "The principal announced the rule.",
+     "The principal is announcing the rule.",
+     "The rule was announced by the principal.",
+     "The principal will announce the rule."
+    ],
+    "answer": 2,
+    "whyTr": "Be + V3 edilgendir.",
+    "tag": "past-simple",
+    "level": "B2"
+   }
+  ]
+ }
+}

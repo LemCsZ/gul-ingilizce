@@ -1,0 +1,796 @@
+{
+ "week": 7,
+ "day": 2,
+ "titleTr": "İşe başlarken: ne zaman, ne olacak?",
+ "theme": "starting-work",
+ "morning": {
+  "grammar": {
+   "topic": "Future time clauses (when, as soon as, before, after, until)",
+   "explainTr": [
+    "Gelecekten bahsederken 'when, as soon as, before, after, until' gibi bağlaçlardan sonra will kullanmayız; Present Simple kullanırız. Ana cümlede ise will gelir: I will call you when I arrive.",
+    "Zaman cümleciği başta da gelebilir, sonda da. Başta gelirse virgül koyarsın: As soon as she signs, she will start. Sonda gelirse virgül gerekmez: She will start as soon as she signs.",
+    "'As soon as' = ...ir ...mez; 'until' = ...e kadar; 'before' = ...den önce; 'after' = ...den sonra; 'when' = ...ince / ...dığında."
+   ],
+   "compareTr": "Türkçede 'geldiğimde ararım' dersin: 'geldiğimde' şimdiki-geniş gibi kurulur. İngilizcede de benzer: 'when I arrive' (will arrive değil). Türkler genelde 'when I will arrive' hatası yapar, bunu dikkatle ayır.",
+   "table": [
+    [
+     "when",
+     "Present Simple, will + fiil",
+     "When I arrive, I will call."
+    ],
+    [
+     "as soon as",
+     "Present Simple, will + fiil",
+     "As soon as she signs, she will start."
+    ],
+    [
+     "before",
+     "will + fiil + before + Present Simple",
+     "I will eat before I leave."
+    ],
+    [
+     "after",
+     "After + Present Simple, will + fiil",
+     "After he finishes, he will go home."
+    ],
+    [
+     "until",
+     "will + fiil + until + Present Simple",
+     "I will wait until you come."
+    ]
+   ],
+   "examples": [
+    {
+     "en": "When I arrive at school, I will call you.",
+     "tr": "Okula vardığımda seni arayacağım."
+    },
+    {
+     "en": "As soon as she signs the contract, she will start work.",
+     "tr": "Sözleşmeyi imzalar imzalamaz işe başlayacak."
+    },
+    {
+     "en": "I will wait until the principal arrives.",
+     "tr": "Müdür gelene kadar bekleyeceğim."
+    },
+    {
+     "en": "Before you leave, you will get your badge.",
+     "tr": "Ayrılmadan önce yaka kartını alacaksın."
+    }
+   ],
+   "exercises": [
+    {
+     "type": "mcq",
+     "q": "I will call you when I ___ at school.",
+     "options": [
+      "arrive",
+      "will arrive",
+      "arrived",
+      "am arrive"
+     ],
+     "answer": 0,
+     "whyTr": "When ile gelecek zaman cümleciğinde Present Simple kullanılır, will kullanılmaz.",
+     "tag": "future",
+     "level": "B1"
+    },
+    {
+     "type": "mcq",
+     "q": "As soon as Hafsa ___ the contract, she will start work.",
+     "options": [
+      "will sign",
+      "signs",
+      "signed",
+      "sign"
+     ],
+     "answer": 1,
+     "whyTr": "'As soon as' sonrası Present Simple; Hafsa üçüncü tekil kişi: signs.",
+     "tag": "future",
+     "level": "B1"
+    },
+    {
+     "type": "mcq",
+     "q": "Before the students ___, I will write the plan on the board.",
+     "options": [
+      "will come",
+      "came",
+      "come",
+      "coming"
+     ],
+     "answer": 2,
+     "whyTr": "'Before' sonrası gelecek için Present Simple: come.",
+     "tag": "future",
+     "level": "B1"
+    },
+    {
+     "type": "order",
+     "promptTr": "Cümleyi sırala:",
+     "words": [
+      "as",
+      "will",
+      "finish",
+      "call",
+      "soon",
+      "as",
+      "I",
+      "I",
+      "you"
+     ],
+     "answer": "I will call you as soon as I finish",
+     "whyTr": "Ana cümle will ile, zaman cümleciği Present Simple ile kurulur.",
+     "tag": "future",
+     "level": "B1"
+    },
+    {
+     "type": "mcq",
+     "q": "She will wait until the principal ___.",
+     "options": [
+      "will arrive",
+      "arrive",
+      "arrived",
+      "arrives"
+     ],
+     "answer": 3,
+     "whyTr": "'Until' sonrası Present Simple; the principal tekil: arrives.",
+     "tag": "future",
+     "level": "B1"
+    },
+    {
+     "type": "mcq",
+     "q": "Which sentence is correct?",
+     "options": [
+      "When Emre gets home, we will have dinner.",
+      "When Emre will get home, we will have dinner.",
+      "When Emre gets home, we have will dinner.",
+      "When Emre got home, we will have dinner."
+     ],
+     "answer": 0,
+     "whyTr": "When'den sonra will gelmez; gets home doğrudur.",
+     "tag": "future",
+     "level": "B1"
+    },
+    {
+     "type": "mcq",
+     "q": "After she ___ the orientation, she will meet her supervisor.",
+     "options": [
+      "will finish",
+      "finishes",
+      "finished",
+      "finishing"
+     ],
+     "answer": 1,
+     "whyTr": "'After' ile gelecek için Present Simple: finishes.",
+     "tag": "future",
+     "level": "B1"
+    },
+    {
+     "type": "order",
+     "promptTr": "Cümleyi sırala:",
+     "words": [
+      "I",
+      "a",
+      "my",
+      "I",
+      "photo",
+      "badge",
+      "send",
+      "will",
+      "you",
+      "get",
+      "When"
+     ],
+     "answer": "When I get my badge I will send you a photo",
+     "whyTr": "When cümleciği Present Simple, ana cümle will + fiil.",
+     "tag": "future",
+     "level": "B1"
+    },
+    {
+     "type": "mcq",
+     "q": "I won't leave ___ the students are safe.",
+     "options": [
+      "since",
+      "during",
+      "until",
+      "because"
+     ],
+     "answer": 2,
+     "whyTr": "'Until' = ...e kadar; I won't leave until ...",
+     "tag": "linkers",
+     "level": "B1"
+    },
+    {
+     "type": "mcq",
+     "q": "By the time she started the new job, she ___ the training.",
+     "options": [
+      "has finished",
+      "finishes",
+      "will finish",
+      "had finished"
+     ],
+     "answer": 3,
+     "whyTr": "Geçmişte bir andan önce biten iş: Past Perfect.",
+     "tag": "past-simple",
+     "level": "B1"
+    },
+    {
+     "type": "fill",
+     "q": "As soon as I get my first paycheck, I ___ buy a new bag.",
+     "accept": [
+      "will",
+      "'ll"
+     ],
+     "hintTr": "gelecek yardımcı fiili",
+     "whyTr": "Ana cümlede söz/karar: will.",
+     "tag": "future",
+     "level": "B1"
+    },
+    {
+     "type": "mcq",
+     "q": "So far, Hafsa ___ three interviews.",
+     "options": [
+      "has had",
+      "have had",
+      "is having",
+      "will have"
+     ],
+     "answer": 0,
+     "whyTr": "'So far' ile Present Perfect; Hafsa tekil: has had.",
+     "tag": "present-perfect",
+     "level": "B1"
+    }
+   ]
+  },
+  "vocab": [
+   {
+    "id": "orientation",
+    "en": "orientation",
+    "tr": "oryantasyon",
+    "pos": "noun",
+    "example": "The orientation starts at nine.",
+    "exampleTr": "Oryantasyon dokuzda başlıyor.",
+    "syn": [],
+    "ant": [],
+    "level": "B1"
+   },
+   {
+    "id": "supervisor",
+    "en": "supervisor",
+    "tr": "amir, süpervizör",
+    "pos": "noun",
+    "example": "My supervisor is very helpful.",
+    "exampleTr": "Amirim çok yardımsever.",
+    "syn": [],
+    "ant": [],
+    "level": "B1"
+   },
+   {
+    "id": "badge",
+    "en": "badge",
+    "tr": "yaka kartı, rozet",
+    "pos": "noun",
+    "example": "Wear your badge at all times.",
+    "exampleTr": "Yaka kartını her zaman tak.",
+    "syn": [],
+    "ant": [],
+    "level": "B1"
+   },
+   {
+    "id": "contract",
+    "en": "contract",
+    "tr": "sözleşme",
+    "pos": "noun",
+    "example": "She signed the contract on Friday.",
+    "exampleTr": "Sözleşmeyi cuma günü imzaladı.",
+    "syn": [],
+    "ant": [],
+    "level": "B1"
+   },
+   {
+    "id": "salary",
+    "en": "salary",
+    "tr": "maaş",
+    "pos": "noun",
+    "example": "The salary is paid every month.",
+    "exampleTr": "Maaş her ay ödeniyor.",
+    "syn": [
+     "pay"
+    ],
+    "ant": [],
+    "level": "B1"
+   },
+   {
+    "id": "benefit",
+    "en": "benefit",
+    "tr": "yan hak, fayda",
+    "pos": "noun",
+    "example": "Health insurance is a good benefit.",
+    "exampleTr": "Sağlık sigortası iyi bir yan hak.",
+    "syn": [],
+    "ant": [],
+    "level": "B1"
+   },
+   {
+    "id": "policy",
+    "en": "policy",
+    "tr": "kural, politika",
+    "pos": "noun",
+    "example": "The school policy is on page two.",
+    "exampleTr": "Okul politikası ikinci sayfada.",
+    "syn": [],
+    "ant": [],
+    "level": "B1"
+   },
+   {
+    "id": "procedure",
+    "en": "procedure",
+    "tr": "prosedür, işlem sırası",
+    "pos": "noun",
+    "example": "Follow the safety procedure.",
+    "exampleTr": "Güvenlik prosedürünü izle.",
+    "syn": [
+     "process"
+    ],
+    "ant": [],
+    "level": "B1"
+   },
+   {
+    "id": "introduce",
+    "en": "introduce",
+    "tr": "tanıştırmak; kendini tanıtmak",
+    "pos": "verb",
+    "example": "Let me introduce myself.",
+    "exampleTr": "Kendimi tanıtayım.",
+    "syn": [],
+    "ant": [],
+    "level": "B1"
+   },
+   {
+    "id": "colleague",
+    "en": "colleague",
+    "tr": "iş arkadaşı",
+    "pos": "noun",
+    "example": "Her colleague showed her the copy room.",
+    "exampleTr": "İş arkadaşı ona fotokopi odasını gösterdi.",
+    "syn": [
+     "coworker"
+    ],
+    "ant": [],
+    "level": "B1"
+   },
+   {
+    "id": "responsibility",
+    "en": "responsibility",
+    "tr": "sorumluluk",
+    "pos": "noun",
+    "example": "Safety is every teacher's responsibility.",
+    "exampleTr": "Güvenlik her öğretmenin sorumluluğu.",
+    "syn": [],
+    "ant": [],
+    "level": "B1"
+   },
+   {
+    "id": "expect",
+    "en": "expect",
+    "tr": "beklemek, ummak",
+    "pos": "verb",
+    "example": "We expect you to arrive on time.",
+    "exampleTr": "Zamanında gelmeni bekliyoruz.",
+    "syn": [],
+    "ant": [],
+    "level": "B1"
+   },
+   {
+    "id": "manager",
+    "en": "manager",
+    "tr": "müdür, yönetici",
+    "pos": "noun",
+    "example": "The manager is in a meeting.",
+    "exampleTr": "Yönetici toplantıda.",
+    "syn": [],
+    "ant": [],
+    "level": "B1"
+   },
+   {
+    "id": "handbook",
+    "en": "handbook",
+    "tr": "el kitabı",
+    "pos": "noun",
+    "example": "The staff handbook explains the rules.",
+    "exampleTr": "Personel el kitabı kuralları açıklıyor.",
+    "syn": [],
+    "ant": [],
+    "level": "B1"
+   },
+   {
+    "id": "sign",
+    "en": "sign",
+    "tr": "imzalamak; işaret",
+    "pos": "verb",
+    "example": "Please sign here.",
+    "exampleTr": "Lütfen buraya imzalayın.",
+    "syn": [],
+    "ant": [],
+    "level": "B1"
+   }
+  ],
+  "reading": {
+   "title": "Hafsa's first week",
+   "text": "Hafsa got the job! Next Monday she will go to orientation at the district office. Before she starts, she has a long list of things to do, and Emre is helping her make a plan.\n\n\"First, you have to sign the contract,\" Emre says. \"When you sign it, the district will send you a welcome email.\" Hafsa nods. She has read the contract twice. The salary is not very high, but she will also get some benefits, and she is happy about that.\n\nOn Monday, a supervisor named Ms. Rivera will meet the new staff. As soon as everyone arrives, she will explain the school policies. Then the group will go over the main procedures: how to take attendance, how to call the front office, and what to do in an emergency. After orientation ends, each person will get a handbook and a staff badge.\n\nHafsa is a little worried about her English. \"What will I do if I don't understand something?\" she asks. Emre smiles. \"You will ask a colleague. Before you leave home, put a small notepad in your bag. When you hear a new word, write it down.\"\n\nLinda also has advice. \"As soon as you meet your colleagues, introduce yourself and smile. Teachers always help new people. When you feel nervous, remember that your responsibility is just to do your best.\" Hafsa feels better. This evening she will pack her bag, and every night this week she will practice her introduction until it sounds natural.",
+   "glossary": [
+    {
+     "en": "worried",
+     "tr": "endişeli"
+    },
+    {
+     "en": "go over",
+     "tr": "gözden geçirmek"
+    },
+    {
+     "en": "attendance",
+     "tr": "yoklama"
+    },
+    {
+     "en": "notepad",
+     "tr": "not defteri, küçük defter"
+    }
+   ],
+   "questions": [
+    {
+     "type": "mcq",
+     "q": "When will the district send Hafsa a welcome email?",
+     "options": [
+      "Before orientation starts",
+      "After she signs the contract",
+      "When she gets her badge",
+      "After she meets Ms. Rivera"
+     ],
+     "answer": 1,
+     "whyTr": "Metin: 'When you sign it, the district will send you a welcome email.'",
+     "tag": "reading",
+     "level": "B1"
+    },
+    {
+     "type": "mcq",
+     "q": "What will Ms. Rivera do as soon as everyone arrives?",
+     "options": [
+      "Give out badges",
+      "Take attendance",
+      "Explain the school policies",
+      "Visit a classroom"
+     ],
+     "answer": 2,
+     "whyTr": "Metin: 'As soon as everyone arrives, she will explain the school policies.'",
+     "tag": "reading",
+     "level": "B1"
+    },
+    {
+     "type": "mcq",
+     "q": "What will each person get after orientation ends?",
+     "options": [
+      "A contract and a salary",
+      "A classroom and a schedule",
+      "A uniform and a laptop",
+      "A handbook and a staff badge"
+     ],
+     "answer": 3,
+     "whyTr": "Metin: 'each person will get a handbook and a staff badge.'",
+     "tag": "reading",
+     "level": "B1"
+    },
+    {
+     "type": "mcq",
+     "q": "What does Emre tell Hafsa to do when she hears a new word?",
+     "options": [
+      "Write it down",
+      "Ask Linda",
+      "Look at the badge",
+      "Wait until the end"
+     ],
+     "answer": 0,
+     "whyTr": "Metin: 'When you hear a new word, write it down.'",
+     "tag": "reading",
+     "level": "B1"
+    }
+   ]
+  }
+ },
+ "evening": {
+  "listening": {
+   "title": "A call about the first day",
+   "script": [
+    {
+     "speaker": "Ms. Rivera",
+     "text": "Hello, Hafsa. This is Ms. Rivera from the district. I'm calling about your first day."
+    },
+    {
+     "speaker": "Hafsa",
+     "text": "Hello, Ms. Rivera. Thank you for calling."
+    },
+    {
+     "speaker": "Ms. Rivera",
+     "text": "Please arrive at eight thirty. When you get there, go to the front office and ask for me."
+    },
+    {
+     "speaker": "Hafsa",
+     "text": "Okay. Should I bring anything?"
+    },
+    {
+     "speaker": "Ms. Rivera",
+     "text": "Bring your ID and the signed contract. As soon as I see them, I will make your badge."
+    },
+    {
+     "speaker": "Hafsa",
+     "text": "And what happens after I get the badge?"
+    },
+    {
+     "speaker": "Ms. Rivera",
+     "text": "Before the training starts, we will have coffee and meet the other new staff. After lunch, you will visit a classroom."
+    },
+    {
+     "speaker": "Hafsa",
+     "text": "Will I teach on the first day?"
+    },
+    {
+     "speaker": "Ms. Rivera",
+     "text": "No, you will just watch. When you feel ready, we will give you a short lesson."
+    },
+    {
+     "speaker": "Hafsa",
+     "text": "That sounds good. I will be there on time."
+    },
+    {
+     "speaker": "Ms. Rivera",
+     "text": "Great. Call me if you have any questions before Monday."
+    },
+    {
+     "speaker": "Hafsa",
+     "text": "Thank you very much. See you soon."
+    }
+   ],
+   "questions": [
+    {
+     "type": "mcq",
+     "q": "What time should Hafsa arrive?",
+     "options": [
+      "At eight",
+      "At eight thirty",
+      "At nine thirty",
+      "At ten"
+     ],
+     "answer": 1,
+     "whyTr": "Ms. Rivera: 'Please arrive at eight thirty.'",
+     "tag": "listening",
+     "level": "B1"
+    },
+    {
+     "type": "mcq",
+     "q": "What should Hafsa bring?",
+     "options": [
+      "Her resume and a photo",
+      "Her handbook and a pen",
+      "Her ID and the signed contract",
+      "Her badge and a book"
+     ],
+     "answer": 2,
+     "whyTr": "Ms. Rivera: 'Bring your ID and the signed contract.'",
+     "tag": "listening",
+     "level": "B1"
+    },
+    {
+     "type": "mcq",
+     "q": "What will Ms. Rivera do as soon as she sees the papers?",
+     "options": [
+      "Start the training",
+      "Call the principal",
+      "Give Hafsa a salary",
+      "Make Hafsa's badge"
+     ],
+     "answer": 3,
+     "whyTr": "Ms. Rivera: 'As soon as I see them, I will make your badge.'",
+     "tag": "listening",
+     "level": "B1"
+    },
+    {
+     "type": "mcq",
+     "q": "Will Hafsa teach on the first day?",
+     "options": [
+      "No, she will watch a classroom.",
+      "Yes, all day.",
+      "Yes, after lunch.",
+      "No, she will stay home."
+     ],
+     "answer": 0,
+     "whyTr": "Ms. Rivera: 'No, you will just watch.'",
+     "tag": "listening",
+     "level": "B1"
+    }
+   ]
+  },
+  "writing": {
+   "promptTr": "İlk iş gününü planla: when, as soon as, before, after ve until ile 6-8 cümle yaz (80-120 kelime).",
+   "promptEn": "Write about your plans for your first day at work. Use when, as soon as, before, after and until.",
+   "frames": [
+    "As soon as I get to school, I will ...",
+    "Before the training starts, I will ...",
+    "When I meet my colleagues, I will ...",
+    "I will wait until ..."
+   ],
+   "model": "On my first day, I will wake up early. As soon as I get to school, I will go to the front office and ask for Ms. Rivera. Before the training starts, I will introduce myself to my new colleagues. When I get my badge, I will wear it all day. After the first week ends, I will write down new words and practice them at home. I will not worry until I really have a problem. When I feel ready, I will teach my first lesson.",
+   "checklistTr": [
+    "When / as soon as / before / after / until'den sonra 'will' kullanmadın mı?",
+    "Ana cümlede will + yalın fiil var mı?",
+    "En az üç farklı zaman bağlacı kullandın mı?",
+    "Cümleler büyük harfle başlıyor ve noktayla bitiyor mu?"
+   ],
+   "minWords": 80
+  },
+  "examSet": [
+   {
+    "type": "mcq",
+    "q": "I will send the email as soon as I ___ the form.",
+    "options": [
+     "will finish",
+     "finish",
+     "finished",
+     "am finish"
+    ],
+    "answer": 1,
+    "whyTr": "Zaman bağlacından sonra Present Simple.",
+    "tag": "future",
+    "level": "B1"
+   },
+   {
+    "type": "mcq",
+    "q": "When the bell ___, the students will go to lunch.",
+    "options": [
+     "will ring",
+     "rang",
+     "rings",
+     "ring"
+    ],
+    "answer": 2,
+    "whyTr": "'When' sonrası Present Simple; the bell tekil: rings.",
+    "tag": "future",
+    "level": "B1"
+   },
+   {
+    "type": "mcq",
+    "q": "She won't start until her supervisor ___ her.",
+    "options": [
+     "will call",
+     "called",
+     "call",
+     "calls"
+    ],
+    "answer": 3,
+    "whyTr": "'Until' sonrası Present Simple: calls.",
+    "tag": "future",
+    "level": "B1"
+   },
+   {
+    "type": "mcq",
+    "q": "Every new employee must sign a ___ before starting.",
+    "options": [
+     "contract",
+     "badge",
+     "procedure",
+     "handbook"
+    ],
+    "answer": 0,
+    "whyTr": "İmzalanan belge sözleşmedir (contract).",
+    "tag": "vocab",
+    "level": "B1"
+   },
+   {
+    "type": "mcq",
+    "q": "He wears a ___ so everyone can see his name.",
+    "options": [
+     "salary",
+     "badge",
+     "benefit",
+     "policy"
+    ],
+    "answer": 1,
+    "whyTr": "Ad yazılı yaka kartı = badge.",
+    "tag": "vocab",
+    "level": "B1"
+   },
+   {
+    "type": "mcq",
+    "q": "Which word means almost the same as \"colleague\"?",
+    "options": [
+     "stranger",
+     "customer",
+     "coworker",
+     "visitor"
+    ],
+    "answer": 2,
+    "whyTr": "Colleague ve coworker aynı anlamda.",
+    "tag": "synonym",
+    "level": "B2"
+   },
+   {
+    "type": "mcq",
+    "q": "What is the opposite of \"start\"?",
+    "options": [
+     "follow",
+     "carry",
+     "hold",
+     "finish"
+    ],
+    "answer": 3,
+    "whyTr": "Start'ın zıttı finish.",
+    "tag": "antonym",
+    "level": "A2"
+   },
+   {
+    "type": "mcq",
+    "q": "By the time Hafsa arrived at orientation, the group ___ already started.",
+    "options": [
+     "had",
+     "has",
+     "have",
+     "was"
+    ],
+    "answer": 0,
+    "whyTr": "Varıştan önce başlamış: had already started.",
+    "tag": "past-simple",
+    "level": "B1"
+   },
+   {
+    "type": "mcq",
+    "q": "How long ___ she worked at this school?",
+    "options": [
+     "did",
+     "has",
+     "had",
+     "is"
+    ],
+    "answer": 1,
+    "whyTr": "'How long' ile Present Perfect: has worked.",
+    "tag": "present-perfect",
+    "level": "B1"
+   },
+   {
+    "type": "mcq",
+    "q": "Tom starts a new job on Monday. As soon as he arrives, he will meet his supervisor. After that, he will get a badge, and before lunch he will visit the classrooms.\n\nWhat will Tom do before lunch?",
+    "options": [
+     "Meet his supervisor",
+     "Sign a contract",
+     "Visit the classrooms",
+     "Go home"
+    ],
+    "answer": 2,
+    "whyTr": "Metin: 'before lunch he will visit the classrooms.'",
+    "tag": "reading",
+    "level": "B1"
+   },
+   {
+    "type": "mcq",
+    "q": "Nina is a substitute teacher. When a teacher is sick, the school calls her early in the morning. As soon as she gets the call, she checks the sub plan on her phone. She leaves home after she eats breakfast.\n\nWhat does Nina do as soon as she gets the call?",
+    "options": [
+     "She eats breakfast.",
+     "She leaves home.",
+     "She calls the teacher.",
+     "She checks the sub plan."
+    ],
+    "answer": 3,
+    "whyTr": "Metin: 'As soon as she gets the call, she checks the sub plan.'",
+    "tag": "reading",
+    "level": "B1"
+   },
+   {
+    "type": "mcq",
+    "q": "Which sentence is correct?",
+    "options": [
+     "I'll call you before I leave the school.",
+     "I'll call you before I will leave the school.",
+     "I call you before I'll leave the school.",
+     "I'll call you before I'll leave the school."
+    ],
+    "answer": 0,
+    "whyTr": "Zaman bağlacından sonra will kullanılmaz.",
+    "tag": "future",
+    "level": "B1"
+   }
+  ]
+ }
+}

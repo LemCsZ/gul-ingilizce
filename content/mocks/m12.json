@@ -1,0 +1,880 @@
+{
+ "titleTr": "12. hafta deneme sınavı",
+ "introTr": "Bu hafta anlatı zamanlarını, gelecek zamanları ve edilgen yapıyı çalıştın. Bu deneme sınavı bunları denemek için; sakin ol, bilmediğin soruda tahmin edebilirsin. Her yanlıştan yeni bir şey öğreneceksin.",
+ "sections": [
+  {
+   "id": "grammar",
+   "titleTr": "Dil bilgisi",
+   "items": [
+    {
+     "type": "mcq",
+     "q": "By the time Hafsa arrived at school, the first bell ___.",
+     "options": [
+      "already rang",
+      "had already rung",
+      "has already rung",
+      "was already ringing"
+     ],
+     "answer": 1,
+     "whyTr": "'By the time' ile daha önce tamamlanmış olay için past perfect kullanılır.",
+     "tag": "past-perfect",
+     "level": "B1"
+    },
+    {
+     "type": "mcq",
+     "q": "While the students ___ their quiz, a fire alarm went off.",
+     "options": [
+      "took",
+      "had taken",
+      "are taking",
+      "were taking"
+     ],
+     "answer": 3,
+     "whyTr": "Sürmekte olan eylem (quiz) için past continuous kullanılır.",
+     "tag": "past-continuous",
+     "level": "B1"
+    },
+    {
+     "type": "mcq",
+     "q": "Hafsa was exhausted because she ___ since 6 a.m.",
+     "options": [
+      "had been working",
+      "has been working",
+      "was working",
+      "worked"
+     ],
+     "answer": 0,
+     "whyTr": "Geçmişteki bir ana kadar süren eylem için past perfect continuous kullanılır.",
+     "tag": "past-perfect",
+     "level": "B2"
+    },
+    {
+     "type": "mcq",
+     "q": "This time tomorrow, I ___ in front of a fifth-grade class.",
+     "options": [
+      "will have stood",
+      "stood",
+      "will be standing",
+      "would stand"
+     ],
+     "answer": 2,
+     "whyTr": "Yarın o saatte sürmekte olacak eylem için future continuous kullanılır.",
+     "tag": "future",
+     "level": "B2"
+    },
+    {
+     "type": "mcq",
+     "q": "By June, the school ___ the new library.",
+     "options": [
+      "finished",
+      "finishes",
+      "will have finished",
+      "would finish"
+     ],
+     "answer": 2,
+     "whyTr": "Belirli bir zamana kadar tamamlanmış olacak iş için future perfect kullanılır.",
+     "tag": "future",
+     "level": "B2"
+    },
+    {
+     "type": "mcq",
+     "q": "The test scores ___ to parents already.",
+     "options": [
+      "have been sent",
+      "have sent",
+      "were send",
+      "are sending"
+     ],
+     "answer": 0,
+     "whyTr": "Skorlar gönderilen şeydir; present perfect passive: have been sent.",
+     "tag": "passive",
+     "level": "B1"
+    },
+    {
+     "type": "mcq",
+     "q": "The new schedule ___ next Monday.",
+     "options": [
+      "will announce",
+      "will be announce",
+      "is announce",
+      "will be announced"
+     ],
+     "answer": 3,
+     "whyTr": "Future passive: will be + V3.",
+     "tag": "passive",
+     "level": "B1"
+    },
+    {
+     "type": "mcq",
+     "q": "Phones must ___ in lockers during class.",
+     "options": [
+      "keep",
+      "be kept",
+      "been kept",
+      "be keeping"
+     ],
+     "answer": 1,
+     "whyTr": "Modal passive: modal + be + V3.",
+     "tag": "passive",
+     "level": "B2"
+    },
+    {
+     "type": "mcq",
+     "q": "Hafsa ___ her ID photo taken at the DMV yesterday.",
+     "options": [
+      "had",
+      "took",
+      "made",
+      "did"
+     ],
+     "answer": 0,
+     "whyTr": "'Have something done': başkasına yaptırmak. Geçmişte 'had'.",
+     "tag": "passive",
+     "level": "B2"
+    },
+    {
+     "type": "mcq",
+     "q": "I need to ___ my résumé checked by a native speaker.",
+     "options": [
+      "make",
+      "do",
+      "get",
+      "put"
+     ],
+     "answer": 2,
+     "whyTr": "'Get something checked' yaptırmak anlamında kullanılır.",
+     "tag": "passive",
+     "level": "B2"
+    },
+    {
+     "type": "mcq",
+     "q": "When I came into the classroom, the board ___.",
+     "options": [
+      "was cleaning",
+      "was being cleaned",
+      "had cleaning",
+      "has been cleaned"
+     ],
+     "answer": 1,
+     "whyTr": "O sırada sürmekte olan edilgen eylem: was being + V3.",
+     "tag": "passive",
+     "level": "B2"
+    },
+    {
+     "type": "mcq",
+     "q": "How long ___ as a teacher's aide?",
+     "options": [
+      "are you working",
+      "did you work",
+      "do you work",
+      "have you been working"
+     ],
+     "answer": 3,
+     "whyTr": "Hâlâ süren eylem ve süre sorusu için present perfect continuous kullanılır.",
+     "tag": "present-perfect",
+     "level": "B1"
+    },
+    {
+     "type": "mcq",
+     "q": "I'll call you as soon as the meeting ___.",
+     "options": [
+      "will end",
+      "ends",
+      "ended",
+      "is ending"
+     ],
+     "answer": 1,
+     "whyTr": "As soon as ile gelecek için geniş zaman kullanılır, will kullanılmaz.",
+     "tag": "future",
+     "level": "B1"
+    },
+    {
+     "type": "mcq",
+     "q": "If I ___ the principal, I would hire more counselors.",
+     "options": [
+      "am",
+      "would be",
+      "was being",
+      "were"
+     ],
+     "answer": 3,
+     "whyTr": "Gerçek dışı şimdiki durumda: If + were/past, would + fiil.",
+     "tag": "conditionals",
+     "level": "B1"
+    },
+    {
+     "type": "mcq",
+     "q": "The woman ___ is sitting by the door is the new principal.",
+     "options": [
+      "who",
+      "whose",
+      "which",
+      "whom"
+     ],
+     "answer": 0,
+     "whyTr": "Kişiyi anlatan ve özne olan ilgi zamiri 'who'.",
+     "tag": "relative-clauses",
+     "level": "B1"
+    },
+    {
+     "type": "mcq",
+     "q": "She asked me where ___.",
+     "options": [
+      "did I park",
+      "had I parked",
+      "I had parked",
+      "do I park"
+     ],
+     "answer": 2,
+     "whyTr": "Dolaylı soruda düz cümle sırası ve zaman geriye kayar: I had parked.",
+     "tag": "reported-speech",
+     "level": "B1"
+    },
+    {
+     "type": "mcq",
+     "q": "This is ___ class I have ever taught.",
+     "options": [
+      "more difficult",
+      "most difficult",
+      "the most difficult",
+      "the more difficult"
+     ],
+     "answer": 2,
+     "whyTr": "Üstünlük için 'the most + uzun sıfat' kullanılır.",
+     "tag": "comparatives",
+     "level": "A2"
+    },
+    {
+     "type": "mcq",
+     "q": "I ___ the principal yesterday, and she approved my request.",
+     "options": [
+      "met",
+      "have met",
+      "meet",
+      "have been meeting"
+     ],
+     "answer": 0,
+     "whyTr": "'Yesterday' ile past simple kullanılır.",
+     "tag": "past-simple",
+     "level": "A2"
+    },
+    {
+     "type": "mcq",
+     "q": "She avoided ___ the question.",
+     "options": [
+      "to answer",
+      "answer",
+      "to answering",
+      "answering"
+     ],
+     "answer": 3,
+     "whyTr": "'Avoid' fiilinden sonra -ing gelir.",
+     "tag": "gerund-infinitive",
+     "level": "B1"
+    },
+    {
+     "type": "mcq",
+     "q": "He ___ be the new sub; he is carrying a lesson plan.",
+     "options": [
+      "can't",
+      "must",
+      "shouldn't",
+      "needn't"
+     ],
+     "answer": 1,
+     "whyTr": "Güçlü çıkarım için 'must' kullanılır.",
+     "tag": "modals",
+     "level": "B1"
+    }
+   ]
+  },
+  {
+   "id": "vocab",
+   "titleTr": "Kelime",
+   "items": [
+    {
+     "type": "mcq",
+     "q": "Which word means the same as 'assist'?",
+     "options": [
+      "help",
+      "ignore",
+      "refuse",
+      "delay"
+     ],
+     "answer": 0,
+     "whyTr": "Assist, help ile aynı anlamdadır.",
+     "tag": "synonym",
+     "level": "A2"
+    },
+    {
+     "type": "mcq",
+     "q": "What is the opposite of 'absent'?",
+     "options": [
+      "angry",
+      "early",
+      "present",
+      "tired"
+     ],
+     "answer": 2,
+     "whyTr": "Absent (yok) kelimesinin zıttı present (mevcut).",
+     "tag": "antonym",
+     "level": "B1"
+    },
+    {
+     "type": "mcq",
+     "q": "'The substitute left detailed notes for the teacher.' Detailed means:",
+     "options": [
+      "very short",
+      "including many small facts",
+      "hard to read",
+      "written in secret"
+     ],
+     "answer": 1,
+     "whyTr": "Detailed, ayrıntılı demektir.",
+     "tag": "vocab",
+     "level": "B1"
+    },
+    {
+     "type": "mcq",
+     "q": "Mr. Brown is a very ___ person; he always arrives on time. (rely)",
+     "options": [
+      "reliance",
+      "relying",
+      "reliably",
+      "reliable"
+     ],
+     "answer": 3,
+     "whyTr": "İsimle (person) birlikte sıfat gerekir: reliable.",
+     "tag": "word-formation",
+     "level": "B1"
+    },
+    {
+     "type": "mcq",
+     "q": "She had to ___ a decision quickly.",
+     "options": [
+      "do",
+      "make",
+      "give",
+      "take"
+     ],
+     "answer": 1,
+     "whyTr": "'Make a decision' sabit kalıptır.",
+     "tag": "collocations",
+     "level": "B1"
+    },
+    {
+     "type": "mcq",
+     "q": "We need a ___ before Friday. (decide)",
+     "options": [
+      "decisive",
+      "decided",
+      "decisively",
+      "decision"
+     ],
+     "answer": 3,
+     "whyTr": "'A' sonrası isim gerekir: decision.",
+     "tag": "word-formation",
+     "level": "B1"
+    },
+    {
+     "type": "mcq",
+     "q": "'The students were restless after lunch.' Restless means:",
+     "options": [
+      "unable to stay calm",
+      "very hungry",
+      "very polite",
+      "quietly reading"
+     ],
+     "answer": 0,
+     "whyTr": "Restless, yerinde duramayan, huzursuz demektir.",
+     "tag": "vocab",
+     "level": "B2"
+    },
+    {
+     "type": "mcq",
+     "q": "Which word means the same as 'postpone'?",
+     "options": [
+      "cancel",
+      "repeat",
+      "delay",
+      "confirm"
+     ],
+     "answer": 2,
+     "whyTr": "Postpone ve delay: ertelemek.",
+     "tag": "synonym",
+     "level": "B1"
+    },
+    {
+     "type": "mcq",
+     "q": "What is the opposite of 'strict'?",
+     "options": [
+      "serious",
+      "fair",
+      "lenient",
+      "honest"
+     ],
+     "answer": 2,
+     "whyTr": "Strict (katı) kelimesinin zıttı lenient (hoşgörülü).",
+     "tag": "antonym",
+     "level": "B2"
+    },
+    {
+     "type": "mcq",
+     "q": "The principal asked us to ___ out the forms and return them by Friday.",
+     "options": [
+      "fill",
+      "put",
+      "take",
+      "turn"
+     ],
+     "answer": 0,
+     "whyTr": "'Fill out' form doldurmak demektir.",
+     "tag": "phrasal-verbs",
+     "level": "A2"
+    },
+    {
+     "type": "mcq",
+     "q": "'It is mandatory to sign in at the front office.' Mandatory means:",
+     "options": [
+      "optional",
+      "unusual",
+      "helpful",
+      "required"
+     ],
+     "answer": 3,
+     "whyTr": "Mandatory, zorunlu demektir.",
+     "tag": "vocab",
+     "level": "B2"
+    },
+    {
+     "type": "mcq",
+     "q": "The meeting was ___. We learned nothing new. (disappoint)",
+     "options": [
+      "disappointed",
+      "disappointing",
+      "disappoint",
+      "disappointment"
+     ],
+     "answer": 1,
+     "whyTr": "Şeyi niteleyen sıfat -ing alır: disappointing.",
+     "tag": "word-formation",
+     "level": "B1"
+    }
+   ]
+  },
+  {
+   "id": "reading",
+   "titleTr": "Okuma",
+   "passages": [
+    {
+     "title": "Hafsa's first day",
+     "level": "B1",
+     "text": "Yesterday was Hafsa's first day as a substitute teacher. She had been preparing for it for weeks, but she still felt nervous when she arrived at Jefferson Middle School at 7:15. Mr. Brown was waiting at the front office with a key, a map and a folder. 'Here is the lesson plan,' he said. 'The teacher, Mr. Reyes, has left everything you need.'\n\nWhen Hafsa walked into the classroom, the students were already sitting at their desks. A few of them were laughing, and one boy had put a sign on the board that said 'Free homework day!' Hafsa smiled, took the sign down and said calmly, 'Nice try. Let's start with attendance.' The students were surprised, and the room became quiet.\n\nBy lunchtime, Hafsa had finished two lessons and had learned most of the names. In the afternoon, a student told her that Mr. Reyes always let them play a word game at the end of class. She checked the lesson plan, found the game on the last page, and used it. At 3:00, she left a short note for Mr. Reyes. On the way home, she called Emre and said, 'I think I'm going to like this job.'",
+     "questions": [
+      {
+       "type": "mcq",
+       "q": "What did one student do before class started?",
+       "options": [
+        "He put a joke sign on the board.",
+        "He took attendance.",
+        "He left the classroom.",
+        "He called Mr. Brown."
+       ],
+       "answer": 0,
+       "whyTr": "Metinde bir çocuk tahtaya 'Free homework day!' yazılı bir işaret koymuş.",
+       "tag": "reading",
+       "level": "B1"
+      },
+      {
+       "type": "mcq",
+       "q": "How did Hafsa react to the sign?",
+       "options": [
+        "She got angry and called the office.",
+        "She laughed and gave no work.",
+        "She stayed calm and began the class.",
+        "She ignored the students."
+       ],
+       "answer": 2,
+       "whyTr": "Hafsa gülümsedi, işareti indirdi ve sakince yoklamaya başladı.",
+       "tag": "reading",
+       "level": "B1"
+      },
+      {
+       "type": "mcq",
+       "q": "Why did Hafsa use the word game?",
+       "options": [
+        "Mr. Brown told her to use it.",
+        "It was in the lesson plan and the students said the teacher usually played it.",
+        "She wanted to finish the day early.",
+        "The students asked for a test."
+       ],
+       "answer": 1,
+       "whyTr": "Öğrenci oyunu söyledi, Hafsa da planda buldu.",
+       "tag": "reading",
+       "level": "B1"
+      }
+     ]
+    },
+    {
+     "title": "District news: changes next month",
+     "level": "B1",
+     "text": "From the Maple Valley School District Newsletter\n\nSeveral changes will be introduced next month. First, all visitors must be checked in at the front office. Visitors will be given a badge, and it has to be worn at all times. Second, the parking lot behind the gym will be repaired, so it will be closed from October 10 to October 24. Staff are asked to park on Oak Street during this period.\n\nThe district has also decided to have the cafeteria painted over the winter break. While the work is being done, lunch will be served in the gym. Parents who want to help with the move are welcome to sign up online.\n\nFinally, new substitute teachers will be trained on the first Saturday of each month. The training lasts three hours, and lunch is provided. Substitutes who completed the training last year do not need to attend again, but they can come if they want a refresher.",
+     "questions": [
+      {
+       "type": "mcq",
+       "q": "What must visitors do?",
+       "options": [
+        "Park behind the gym",
+        "Sign up online",
+        "Attend a training",
+        "Check in at the front office and wear a badge"
+       ],
+       "answer": 3,
+       "whyTr": "Ziyaretçiler ön ofiste kayıt olur ve rozet takar.",
+       "tag": "reading",
+       "level": "B1"
+      },
+      {
+       "type": "mcq",
+       "q": "Why should staff park on Oak Street?",
+       "options": [
+        "The gym is being painted.",
+        "The parking lot will be closed for repairs.",
+        "Visitors need the parking lot.",
+        "The street is closer to the cafeteria."
+       ],
+       "answer": 1,
+       "whyTr": "Otopark tamir nedeniyle kapalı olacak.",
+       "tag": "reading",
+       "level": "B1"
+      },
+      {
+       "type": "mcq",
+       "q": "Where will lunch be served while the cafeteria is painted?",
+       "options": [
+        "Outside",
+        "On Oak Street",
+        "In the library",
+        "In the gym"
+       ],
+       "answer": 3,
+       "whyTr": "Metinde: 'lunch will be served in the gym'.",
+       "tag": "reading",
+       "level": "B1"
+      },
+      {
+       "type": "mcq",
+       "q": "Who does NOT have to attend the training?",
+       "options": [
+        "Substitutes who finished it last year",
+        "New substitutes",
+        "Parents who sign up",
+        "Staff who park on Oak Street"
+       ],
+       "answer": 0,
+       "whyTr": "Geçen yıl eğitimi tamamlayanların gelmesi gerekmiyor.",
+       "tag": "reading",
+       "level": "B2"
+      }
+     ]
+    },
+    {
+     "title": "Why schools struggle to find substitutes",
+     "level": "B2",
+     "text": "Across the United States, many districts report that they cannot find enough substitute teachers. In some schools, principals have been covering classes themselves, and counselors have been asked to supervise students during their free periods. Although the shortage has existed for years, the problem became much more serious after 2020, when many older substitutes decided to stay home.\n\nExperts point to several causes. The pay is often low, typically between $100 and $150 a day, and substitutes receive almost no benefits. Moreover, the job offers no security: a substitute who is booked for Monday may be told on Sunday night that she is no longer needed. Some candidates are also discouraged by long application processes, which can take two months to complete.\n\nSeveral districts have tried to solve the problem. Some have raised daily pay, while others offer bonuses to substitutes who work more than twenty days a semester. A few have lowered the requirements, so that people with 60 college credits can apply. Critics warn that this may reduce quality, but supporters argue that a trained adult in the room is better than an empty classroom.",
+     "questions": [
+      {
+       "type": "mcq",
+       "q": "What is the main idea of the passage?",
+       "options": [
+        "Substitutes earn more than regular teachers.",
+        "Principals refuse to cover classes.",
+        "Districts lack substitutes and are trying different solutions.",
+        "The shortage began in 2020 for the first time."
+       ],
+       "answer": 2,
+       "whyTr": "Metin sorunu, nedenlerini ve çözüm denemelerini anlatıyor.",
+       "tag": "reading",
+       "level": "B2"
+      },
+      {
+       "type": "mcq",
+       "q": "What does the writer say about job security?",
+       "options": [
+        "Substitutes receive yearly contracts.",
+        "Substitutes can choose any school.",
+        "Assignments can be canceled at the last minute.",
+        "The job guarantees five days a week."
+       ],
+       "answer": 2,
+       "whyTr": "Pazartesi için ayrılan kişiye pazar gecesi gerek kalmadığı söylenebilir.",
+       "tag": "reading",
+       "level": "B2"
+      },
+      {
+       "type": "mcq",
+       "q": "What do supporters of lower requirements believe?",
+       "options": [
+        "Having a trained adult in class is better than having no one.",
+        "Experience is not important.",
+        "College credits are too expensive.",
+        "Quality always improves."
+       ],
+       "answer": 0,
+       "whyTr": "Destekçiler sınıfta eğitimli bir yetişkinin hiç kimse olmamasından iyi olduğunu söylüyor.",
+       "tag": "reading",
+       "level": "B2"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "listening",
+   "titleTr": "Dinleme",
+   "passages": [
+    {
+     "title": "Tomorrow's assignment",
+     "level": "B1",
+     "script": [
+      {
+       "speaker": "Mr. Brown",
+       "text": "Hafsa, are you free tomorrow? Mrs. Lopez called in sick, and we need someone for her third grade class."
+      },
+      {
+       "speaker": "Hafsa",
+       "text": "Yes, I think so. What time should I be there?"
+      },
+      {
+       "speaker": "Mr. Brown",
+       "text": "By 7:30. By then, the lesson plan will have been emailed to you."
+      },
+      {
+       "speaker": "Hafsa",
+       "text": "Good. Will I be teaching all day?"
+      },
+      {
+       "speaker": "Mr. Brown",
+       "text": "Until 1:00 only. After lunch, the class goes on a field trip, and Mrs. Lopez's aide will take them."
+      },
+      {
+       "speaker": "Hafsa",
+       "text": "Okay. Do I need to bring lunch?"
+      },
+      {
+       "speaker": "Mr. Brown",
+       "text": "There's a cafeteria, but you can bring your own. The staff fridge is next to the copy room."
+      },
+      {
+       "speaker": "Hafsa",
+       "text": "Thank you. I'll check my email tonight."
+      }
+     ],
+     "questions": [
+      {
+       "type": "mcq",
+       "q": "What time must Hafsa arrive?",
+       "options": [
+        "By 7:00",
+        "By 8:00",
+        "By 1:00",
+        "By 7:30"
+       ],
+       "answer": 3,
+       "whyTr": "Mr. Brown 'By 7:30' diyor.",
+       "tag": "listening",
+       "level": "B1"
+      },
+      {
+       "type": "mcq",
+       "q": "How will Hafsa get the lesson plan?",
+       "options": [
+        "From the aide",
+        "By email",
+        "At the copy room",
+        "On the field trip"
+       ],
+       "answer": 1,
+       "whyTr": "Plan e-postayla gönderilecek.",
+       "tag": "listening",
+       "level": "B1"
+      },
+      {
+       "type": "mcq",
+       "q": "Why will Hafsa teach only until 1:00?",
+       "options": [
+        "The class goes on a field trip with the aide after lunch.",
+        "The cafeteria closes at 1:00.",
+        "Mrs. Lopez returns at lunch.",
+        "Hafsa has another job."
+       ],
+       "answer": 0,
+       "whyTr": "Öğle yemeğinden sonra sınıf, yardımcıyla gezide olacak.",
+       "tag": "listening",
+       "level": "B1"
+      }
+     ]
+    },
+    {
+     "title": "A question from the principal",
+     "level": "B2",
+     "script": [
+      {
+       "speaker": "Ms. Carter",
+       "text": "Hafsa, what would you do if two students started arguing during class?"
+      },
+      {
+       "speaker": "Hafsa",
+       "text": "I would separate them first, and then I would speak to each one quietly. If the problem continued, I would send a note to the office."
+      },
+      {
+       "speaker": "Ms. Carter",
+       "text": "Good. And what if the lesson plan were missing?"
+      },
+      {
+       "speaker": "Hafsa",
+       "text": "I'd ask the teacher next door, or I'd check with the front office. I always keep a few activities in my bag, just in case."
+      },
+      {
+       "speaker": "Ms. Carter",
+       "text": "That's very practical. Have you been working with children recently?"
+      },
+      {
+       "speaker": "Hafsa",
+       "text": "Yes, I've been volunteering at Lincoln Elementary since September, and before that I taught English in Turkey for two years."
+      },
+      {
+       "speaker": "Ms. Carter",
+       "text": "Excellent. One last thing: our substitutes must have their fingerprints taken before they start."
+      },
+      {
+       "speaker": "Hafsa",
+       "text": "I had that done last month, and I have the paperwork with me."
+      }
+     ],
+     "questions": [
+      {
+       "type": "mcq",
+       "q": "What would Hafsa do first if two students argued?",
+       "options": [
+        "Call their parents",
+        "Send a note immediately",
+        "Separate them",
+        "Ignore the argument"
+       ],
+       "answer": 2,
+       "whyTr": "Önce öğrencileri ayıracağını söylüyor.",
+       "tag": "listening",
+       "level": "B2"
+      },
+      {
+       "type": "mcq",
+       "q": "What would Hafsa do if the lesson plan were missing?",
+       "options": [
+        "Cancel the class",
+        "Ask a nearby teacher or the office",
+        "Use the same plan as yesterday",
+        "Go home"
+       ],
+       "answer": 1,
+       "whyTr": "Yan sınıftaki öğretmene veya ön ofise danışır.",
+       "tag": "listening",
+       "level": "B2"
+      },
+      {
+       "type": "mcq",
+       "q": "What does Hafsa say about fingerprints?",
+       "options": [
+        "She will do it tomorrow.",
+        "She refuses to do it.",
+        "She does not know the rule.",
+        "She already had them taken and has the papers."
+       ],
+       "answer": 3,
+       "whyTr": "Geçen ay yaptırmış ve belgeler yanında.",
+       "tag": "listening",
+       "level": "B2"
+      }
+     ]
+    },
+    {
+     "title": "Car trouble",
+     "level": "B1",
+     "script": [
+      {
+       "speaker": "Linda",
+       "text": "You look tired, Hafsa. What happened?"
+      },
+      {
+       "speaker": "Hafsa",
+       "text": "My car broke down on the highway this morning. I had to get it towed."
+      },
+      {
+       "speaker": "Linda",
+       "text": "Oh no! Is it going to be expensive?"
+      },
+      {
+       "speaker": "Hafsa",
+       "text": "The mechanic says the repair will cost about four hundred dollars. He'll have it fixed by Thursday."
+      },
+      {
+       "speaker": "Linda",
+       "text": "Then you can borrow my car in the meantime. I only use it on weekends."
+      },
+      {
+       "speaker": "Hafsa",
+       "text": "Really? That's so kind. I have to be at school by 7:30 tomorrow."
+      },
+      {
+       "speaker": "Linda",
+       "text": "No problem. I'll bring you the keys tonight."
+      }
+     ],
+     "questions": [
+      {
+       "type": "mcq",
+       "q": "When will Hafsa's car be ready?",
+       "options": [
+        "Tonight",
+        "By Thursday",
+        "Tomorrow morning",
+        "Next weekend"
+       ],
+       "answer": 1,
+       "whyTr": "Tamirci Thursday'e kadar hazır olacağını söylüyor.",
+       "tag": "listening",
+       "level": "B1"
+      },
+      {
+       "type": "mcq",
+       "q": "What does Linda offer?",
+       "options": [
+        "To drive Hafsa to school every day",
+        "To pay for the repair",
+        "To call a mechanic",
+        "To lend Hafsa her car"
+       ],
+       "answer": 3,
+       "whyTr": "Linda arabasını ödünç vermeyi teklif ediyor.",
+       "tag": "listening",
+       "level": "B1"
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "writing": {
+  "promptTr": "Linda'ya, substitute olarak geçirdiğin ilk günü anlatan kısa bir e-posta yaz. Sabah ne olduğunu, öğrencilerle ne yaşadığını ve gün sonunda ne hissettiğini anlat. Geçmiş zamanları (past simple, past continuous, past perfect) kullanmaya çalış.",
+  "promptEn": "Write an email to your friend Linda about your first day as a substitute teacher. Say what happened in the morning, how the students behaved, and how you felt at the end of the day.",
+  "minWords": 90,
+  "checklistTr": [
+   "Selamlama ve kapanış var mı (Dear Linda, ... Best wishes)?",
+   "Geçmiş zamanı doğru kullandım mı (arrived, was teaching)?",
+   "'Before' / 'by the time' ile past perfect kullandım mı?",
+   "En az bir bağlaç kullandım mı (although, because, so)?",
+   "Her cümle büyük harfle başlıyor ve noktayla bitiyor mu?"
+  ],
+  "model": "Dear Linda,\n\nI finally had my first day as a substitute teacher! I had been preparing for it for weeks, so I felt very nervous when I arrived at the school at 7:15. Mr. Brown gave me a key, a map and the lesson plan.\n\nWhen I walked into the classroom, the students were already sitting at their desks. One boy had put a joke sign on the board, but I stayed calm and started the attendance. After that, the class was quiet. While the students were working on their math, I walked around and helped them. By lunchtime, I had learned most of their names.\n\nAlthough I was tired in the evening, I was very happy. I think I am going to love this job. Let's have coffee this weekend, and I will tell you more.\n\nBest wishes,\nHafsa"
+ }
+}

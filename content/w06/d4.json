@@ -1,0 +1,808 @@
+{
+ "week": 6,
+ "day": 4,
+ "titleTr": "Bir olay anlat: Past Continuous",
+ "theme": "accident-report",
+ "morning": {
+  "grammar": {
+   "topic": "Past Continuous",
+   "explainTr": [
+    "Past Continuous (was/were + V-ing) geçmişte belli bir anda süren eylemi anlatır: At 8 o'clock, I was walking to school. Eylemin başı ve sonu önemli değildir, o an ne olduğu önemlidir.",
+    "I/he/she/it ile was, you/we/they ile were kullanılır. Olumsuz: wasn't / weren't + V-ing. Soru: Was he sleeping? What were you doing?",
+    "Past Continuous olay anlatırken sahneyi kurar: It was snowing, and people were walking. Hemen ardından Past Simple ile asıl olay gelir (yarın göreceğiz)."
+   ],
+   "compareTr": "Türkçede 'yürüyordum' tek kelimedir ve geçmişte süren eylemi anlatır. İngilizcede 'I was walking' iki parçadır: was + yürümek-ing. Özneye göre was/were seçmeyi unutma.",
+   "table": [
+    [
+     "I / he / she / it",
+     "was + V-ing",
+     "She was walking."
+    ],
+    [
+     "you / we / they",
+     "were + V-ing",
+     "They were talking."
+    ],
+    [
+     "Olumsuz",
+     "wasn't / weren't + V-ing",
+     "I wasn't looking."
+    ],
+    [
+     "Soru",
+     "Was / Were + özne + V-ing?",
+     "Were you listening?"
+    ],
+    [
+     "Soru kelimesi",
+     "What + was/were + özne + V-ing?",
+     "What were you doing?"
+    ]
+   ],
+   "examples": [
+    {
+     "en": "At eight o'clock, I was walking to school.",
+     "tr": "Saat sekizde okula yürüyordum."
+    },
+    {
+     "en": "It was snowing, and the parking lot was slippery.",
+     "tr": "Kar yağıyordu ve otopark kaygandı."
+    },
+    {
+     "en": "She was carrying two heavy boxes.",
+     "tr": "İki ağır kutu taşıyordu."
+    },
+    {
+     "en": "We weren't running in the hallway.",
+     "tr": "Koridorda koşmuyorduk."
+    },
+    {
+     "en": "What were you doing at noon?",
+     "tr": "Öğlen ne yapıyordun?"
+    }
+   ],
+   "exercises": [
+    {
+     "type": "mcq",
+     "q": "At 3 p.m. yesterday, I ___ in the kitchen.",
+     "options": [
+      "cooked",
+      "was cooking",
+      "am cooking",
+      "were cooking"
+     ],
+     "answer": 1,
+     "whyTr": "Geçmişte belli bir anda süren eylem: was/were + V-ing.",
+     "tag": "past-simple",
+     "level": "B1"
+    },
+    {
+     "type": "mcq",
+     "q": "They ___ TV at eight o'clock last night.",
+     "options": [
+      "was watching",
+      "watched",
+      "are watching",
+      "were watching"
+     ],
+     "answer": 3,
+     "whyTr": "They ile were + V-ing.",
+     "tag": "past-simple",
+     "level": "B1"
+    },
+    {
+     "type": "order",
+     "promptTr": "Soruyu sırala:",
+     "words": [
+      "were",
+      "doing",
+      "noon?",
+      "What",
+      "you",
+      "at"
+     ],
+     "answer": "What were you doing at noon?",
+     "whyTr": "Sıra: soru kelimesi + were + özne + V-ing.",
+     "tag": "question-form",
+     "level": "B1"
+    },
+    {
+     "type": "mcq",
+     "q": "At ten o'clock, the children ___ on the playground.",
+     "options": [
+      "were playing",
+      "was playing",
+      "played",
+      "have played"
+     ],
+     "answer": 0,
+     "whyTr": "Belli bir anda süren eylem: were playing.",
+     "tag": "past-simple",
+     "level": "B1"
+    },
+    {
+     "type": "mcq",
+     "q": "The driver ___ driving fast. He was very careful.",
+     "options": [
+      "didn't",
+      "weren't",
+      "wasn't",
+      "not"
+     ],
+     "answer": 2,
+     "whyTr": "Olumsuz: wasn't + V-ing.",
+     "tag": "negative-form",
+     "level": "B1"
+    },
+    {
+     "type": "mcq",
+     "q": "___ you ever had an accident at work?",
+     "options": [
+      "Were",
+      "Have",
+      "Did"
+     ],
+     "answer": 1,
+     "whyTr": "Deneyim sorusu: Have you ever had...?",
+     "tag": "present-perfect",
+     "level": "B1"
+    },
+    {
+     "type": "order",
+     "promptTr": "Cümleyi sırala:",
+     "words": [
+      "was",
+      "a",
+      "box.",
+      "She",
+      "carrying",
+      "heavy"
+     ],
+     "answer": "She was carrying a heavy box.",
+     "whyTr": "Sıra: özne + was + V-ing + nesne.",
+     "tag": "past-simple",
+     "level": "B1"
+    },
+    {
+     "type": "mcq",
+     "q": "Which sentence is correct?",
+     "options": [
+      "The students was talking.",
+      "The students were talk.",
+      "The students talking.",
+      "The students were talking."
+     ],
+     "answer": 3,
+     "whyTr": "Çoğul özne: were + V-ing.",
+     "tag": "past-simple",
+     "level": "B1"
+    },
+    {
+     "type": "mcq",
+     "q": "What ___ Linda ___ at seven p.m.?",
+     "options": [
+      "was, doing",
+      "did, do",
+      "is, doing",
+      "was, do"
+     ],
+     "answer": 0,
+     "whyTr": "Soru: What was + özne + V-ing?",
+     "tag": "question-form",
+     "level": "B1"
+    },
+    {
+     "type": "fill",
+     "q": "It ___ raining at six o'clock this morning.",
+     "accept": [
+      "was"
+     ],
+     "hintTr": "was / were",
+     "whyTr": "It tekil: was + V-ing.",
+     "tag": "past-simple",
+     "level": "B1"
+    },
+    {
+     "type": "fill",
+     "q": "We ___ walking in the hallway when the bell rang.",
+     "accept": [
+      "were"
+     ],
+     "hintTr": "was / were",
+     "whyTr": "We ile were kullanılır.",
+     "tag": "past-simple",
+     "level": "B1"
+    },
+    {
+     "type": "mcq",
+     "q": "I ___ for a better job since January.",
+     "options": [
+      "was looking",
+      "look",
+      "have been looking",
+      "am look"
+     ],
+     "answer": 2,
+     "whyTr": "Geçmişten bugüne süren eylem: have been + V-ing.",
+     "tag": "present-perfect",
+     "level": "B1"
+    }
+   ]
+  },
+  "vocab": [
+   {
+    "id": "accident",
+    "en": "accident",
+    "tr": "kaza",
+    "pos": "noun",
+    "example": "There was an accident on the highway.",
+    "exampleTr": "Otoyolda bir kaza oldu.",
+    "syn": [],
+    "ant": [],
+    "level": "B1"
+   },
+   {
+    "id": "injury",
+    "en": "injury",
+    "tr": "yaralanma",
+    "pos": "noun",
+    "example": "The injury was not serious.",
+    "exampleTr": "Yaralanma ciddi değildi.",
+    "syn": [],
+    "ant": [],
+    "level": "B1"
+   },
+   {
+    "id": "witness",
+    "en": "witness",
+    "tr": "görgü tanığı; tanık olmak",
+    "pos": "noun",
+    "example": "I was a witness to the accident.",
+    "exampleTr": "Kazanın görgü tanığıydım.",
+    "syn": [],
+    "ant": [],
+    "level": "B1"
+   },
+   {
+    "id": "slip",
+    "en": "slip",
+    "tr": "kaymak, ayağı kaymak",
+    "pos": "verb",
+    "example": "She slipped on the wet floor.",
+    "exampleTr": "Islak zeminde ayağı kaydı.",
+    "syn": [],
+    "ant": [],
+    "level": "B1"
+   },
+   {
+    "id": "suddenly",
+    "en": "suddenly",
+    "tr": "aniden",
+    "pos": "adverb",
+    "example": "Suddenly, the lights went out.",
+    "exampleTr": "Aniden ışıklar söndü.",
+    "syn": [
+     "abruptly"
+    ],
+    "ant": [],
+    "level": "B1"
+   },
+   {
+    "id": "notice",
+    "en": "notice",
+    "tr": "fark etmek",
+    "pos": "verb",
+    "example": "I noticed a puddle on the floor.",
+    "exampleTr": "Yerde bir su birikintisi fark ettim.",
+    "syn": [
+     "spot"
+    ],
+    "ant": [],
+    "level": "B1"
+   },
+   {
+    "id": "rush",
+    "en": "rush",
+    "tr": "acele etmek; koşuşturmak",
+    "pos": "verb",
+    "example": "Don't rush. We have plenty of time.",
+    "exampleTr": "Acele etme. Bol vaktimiz var.",
+    "syn": [
+     "hurry"
+    ],
+    "ant": [],
+    "level": "B1"
+   },
+   {
+    "id": "panic",
+    "en": "panic",
+    "tr": "paniğe kapılmak; panik",
+    "pos": "verb",
+    "example": "Don't panic. Stay calm.",
+    "exampleTr": "Paniğe kapılma. Sakin ol.",
+    "syn": [],
+    "ant": [],
+    "level": "B1"
+   },
+   {
+    "id": "calm",
+    "en": "calm",
+    "tr": "sakin",
+    "pos": "adjective",
+    "example": "The teacher stayed calm during the emergency.",
+    "exampleTr": "Öğretmen acil durumda sakin kaldı.",
+    "syn": [
+     "relaxed"
+    ],
+    "ant": [
+     "anxious"
+    ],
+    "level": "B1"
+   },
+   {
+    "id": "ambulance",
+    "en": "ambulance",
+    "tr": "ambulans",
+    "pos": "noun",
+    "example": "The ambulance arrived in ten minutes.",
+    "exampleTr": "Ambulans on dakikada geldi.",
+    "syn": [],
+    "ant": [],
+    "level": "B1"
+   },
+   {
+    "id": "emergency",
+    "en": "emergency",
+    "tr": "acil durum",
+    "pos": "noun",
+    "example": "Call 911 in an emergency.",
+    "exampleTr": "Acil durumda 911'i ara.",
+    "syn": [],
+    "ant": [],
+    "level": "B1"
+   },
+   {
+    "id": "bandage",
+    "en": "bandage",
+    "tr": "sargı, yara bandı",
+    "pos": "noun",
+    "example": "The nurse put a bandage on his knee.",
+    "exampleTr": "Hemşire dizine bir sargı koydu.",
+    "syn": [],
+    "ant": [],
+    "level": "B1"
+   },
+   {
+    "id": "dangerous",
+    "en": "dangerous",
+    "tr": "tehlikeli",
+    "pos": "adjective",
+    "example": "Icy roads are dangerous.",
+    "exampleTr": "Buzlu yollar tehlikelidir.",
+    "syn": [
+     "risky"
+    ],
+    "ant": [
+     "safe"
+    ],
+    "level": "B1"
+   },
+   {
+    "id": "safe",
+    "en": "safe",
+    "tr": "güvenli",
+    "pos": "adjective",
+    "example": "Is this playground safe for small children?",
+    "exampleTr": "Bu oyun alanı küçük çocuklar için güvenli mi?",
+    "syn": [
+     "secure"
+    ],
+    "ant": [
+     "dangerous"
+    ],
+    "level": "B1"
+   },
+   {
+    "id": "incident",
+    "en": "incident",
+    "tr": "olay",
+    "pos": "noun",
+    "example": "Please write a report about the incident.",
+    "exampleTr": "Lütfen olay hakkında bir rapor yaz.",
+    "syn": [
+     "event"
+    ],
+    "ant": [],
+    "level": "B1"
+   }
+  ],
+  "reading": {
+   "title": "An accident in the parking lot",
+   "text": "Last Friday morning, Hafsa was walking to the school office. It was 7:45, and it was snowing lightly. The parking lot was slippery. A new teacher, Ms. Diaz, was walking ahead of her. She was carrying two heavy boxes of books, and she was talking on her phone.\n\nSuddenly, Ms. Diaz slipped on the ice and fell. The boxes flew out of her hands, and books were lying all over the ground. Hafsa dropped her bag and ran to her. \"Are you hurt?\" she asked. \"My ankle,\" Ms. Diaz said. \"I can't stand up.\"\n\nOther people were walking into the building, but nobody noticed the accident. Hafsa called loudly, and Mr. Brown came out of the office. He was holding a coffee, but he put it down at once. He called an ambulance while Hafsa stayed with Ms. Diaz. The teacher was crying, so Hafsa held her hand and spoke slowly. \"Don't panic. Help is coming,\" she said.\n\nThe ambulance arrived in ten minutes. Later, Mr. Brown asked Hafsa to write a short report because she was the only witness. She wrote: \"It was snowing. Ms. Diaz was carrying boxes, and she was not looking at the ground. She slipped near the front door.\"\n\n\"Thank you, Hafsa,\" Mr. Brown said. \"You stayed calm, and that was very important.\" ",
+   "glossary": [
+    {
+     "en": "ankle",
+     "tr": "bilek"
+    },
+    {
+     "en": "ice",
+     "tr": "buz"
+    },
+    {
+     "en": "parking lot",
+     "tr": "otopark"
+    },
+    {
+     "en": "report",
+     "tr": "rapor"
+    },
+    {
+     "en": "hold",
+     "tr": "tutmak"
+    }
+   ],
+   "questions": [
+    {
+     "type": "mcq",
+     "q": "What was the weather like?",
+     "options": [
+      "It was raining hard.",
+      "It was snowing lightly.",
+      "It was very sunny.",
+      "It was windy and hot."
+     ],
+     "answer": 1,
+     "whyTr": "Metin: 'it was snowing lightly'.",
+     "tag": "reading",
+     "level": "B1"
+    },
+    {
+     "type": "mcq",
+     "q": "What was Ms. Diaz doing when she fell?",
+     "options": [
+      "Running to the office",
+      "Putting snow on the ground",
+      "Talking to Mr. Brown",
+      "Carrying boxes and talking on her phone"
+     ],
+     "answer": 3,
+     "whyTr": "Metin: 'carrying two heavy boxes... talking on her phone'.",
+     "tag": "reading",
+     "level": "B1"
+    },
+    {
+     "type": "mcq",
+     "q": "What did Hafsa do after the accident?",
+     "options": [
+      "She stayed with Ms. Diaz and held her hand.",
+      "She called her son.",
+      "She drove Ms. Diaz home.",
+      "She picked up the books first."
+     ],
+     "answer": 0,
+     "whyTr": "Metin: 'Hafsa held her hand and spoke slowly'.",
+     "tag": "reading",
+     "level": "B1"
+    },
+    {
+     "type": "mcq",
+     "q": "Why did Mr. Brown ask Hafsa to write a report?",
+     "options": [
+      "She was the principal.",
+      "She was a teacher.",
+      "She was the only witness.",
+      "She was Ms. Diaz's friend."
+     ],
+     "answer": 2,
+     "whyTr": "Metin: 'because she was the only witness'.",
+     "tag": "reading",
+     "level": "B1"
+    }
+   ]
+  }
+ },
+ "evening": {
+  "listening": {
+   "title": "Filling out an incident form",
+   "script": [
+    {
+     "speaker": "Mr. Brown",
+     "text": "Hafsa, thank you for helping this morning. I need to fill out an incident form."
+    },
+    {
+     "speaker": "Hafsa",
+     "text": "Of course. What do you need to know?"
+    },
+    {
+     "speaker": "Mr. Brown",
+     "text": "What time did the accident happen?"
+    },
+    {
+     "speaker": "Hafsa",
+     "text": "Around a quarter to eight. I was walking to the office."
+    },
+    {
+     "speaker": "Mr. Brown",
+     "text": "What was Ms. Diaz doing at that moment?"
+    },
+    {
+     "speaker": "Hafsa",
+     "text": "She was carrying two boxes, and she was talking on her phone."
+    },
+    {
+     "speaker": "Mr. Brown",
+     "text": "Was anyone else standing nearby?"
+    },
+    {
+     "speaker": "Hafsa",
+     "text": "No. A custodian was cleaning the back entrance, but he wasn't looking at her."
+    },
+    {
+     "speaker": "Mr. Brown",
+     "text": "And what was the ground like?"
+    },
+    {
+     "speaker": "Hafsa",
+     "text": "It was icy. It was snowing, and nobody was putting salt on the path."
+    },
+    {
+     "speaker": "Mr. Brown",
+     "text": "Thank you. I will ask the custodian to put salt there every morning."
+    },
+    {
+     "speaker": "Hafsa",
+     "text": "That's a good idea. Is Ms. Diaz going to be okay?"
+    },
+    {
+     "speaker": "Mr. Brown",
+     "text": "I think so. It was only a small injury, but she needs to rest for a week."
+    }
+   ],
+   "questions": [
+    {
+     "type": "mcq",
+     "q": "What was Hafsa doing when the accident happened?",
+     "options": [
+      "Talking on the phone",
+      "Walking to the office",
+      "Cleaning the entrance",
+      "Driving a bus"
+     ],
+     "answer": 1,
+     "whyTr": "Hafsa: 'I was walking to the office.'",
+     "tag": "listening",
+     "level": "B1"
+    },
+    {
+     "type": "mcq",
+     "q": "What was Ms. Diaz carrying?",
+     "options": [
+      "A phone and a coffee",
+      "A bag of salt",
+      "Her son",
+      "Two boxes"
+     ],
+     "answer": 3,
+     "whyTr": "Hafsa: 'She was carrying two boxes'.",
+     "tag": "listening",
+     "level": "B1"
+    },
+    {
+     "type": "mcq",
+     "q": "What was the ground like?",
+     "options": [
+      "Icy",
+      "Dry",
+      "Muddy",
+      "Hot"
+     ],
+     "answer": 0,
+     "whyTr": "Hafsa: 'It was icy.'",
+     "tag": "listening",
+     "level": "B1"
+    },
+    {
+     "type": "mcq",
+     "q": "What will Mr. Brown ask the custodian to do?",
+     "options": [
+      "Drive Ms. Diaz home",
+      "Write a report",
+      "Put salt on the path every morning",
+      "Close the school"
+     ],
+     "answer": 2,
+     "whyTr": "Mr. Brown: 'put salt there every morning'.",
+     "tag": "listening",
+     "level": "B1"
+    }
+   ]
+  },
+  "writing": {
+   "promptTr": "Gördüğün ya da hayal ettiğin küçük bir olayı anlatan kısa bir rapor yaz (80-120 kelime). was/were + V-ing ile o anda ne olduğunu anlat.",
+   "promptEn": "Write a short report about a small accident you saw or imagine. Describe what people were doing.",
+   "frames": [
+    "Yesterday at ..., I was ...-ing.",
+    "The weather was ...",
+    "A man / woman was ...-ing when ...",
+    "Nobody was ...-ing.",
+    "I stayed calm and ..."
+   ],
+   "model": "Yesterday at 8:15 a.m., I was walking to the school office. The weather was cold, and the floor in the hallway was wet. A student was running, and his friend was following him. Another child was carrying a big backpack.\n\nSuddenly the boy slipped and fell. He was not hurt badly, but he was crying. Nobody else was walking in the hallway, so I called the secretary. Mr. Brown came quickly, and I stayed with the boy.\n\nI think the floor was dangerous because the custodian was not working there that morning. A warning sign could help.\n\nHafsa",
+   "checklistTr": [
+    "Anı anlatırken was/were + V-ing kullandın mı?",
+    "Özneye göre was ve were'ı doğru seçtin mi?",
+    "Sahneyi anlatan (weather, floor) cümleler var mı?",
+    "Cümleler büyük harfle başlıyor mu?"
+   ],
+   "minWords": 70
+  },
+  "examSet": [
+   {
+    "type": "mcq",
+    "q": "At 9 p.m. last night, my son ___ his homework.",
+    "options": [
+     "did",
+     "was doing",
+     "has done",
+     "were doing"
+    ],
+    "answer": 1,
+    "whyTr": "Belli bir anda süren eylem: was doing.",
+    "tag": "past-simple",
+    "level": "B1"
+   },
+   {
+    "type": "mcq",
+    "q": "The teachers ___ in the meeting room at noon.",
+    "options": [
+     "was sitting",
+     "sat",
+     "are sitting",
+     "were sitting"
+    ],
+    "answer": 3,
+    "whyTr": "Çoğul özne: were sitting.",
+    "tag": "past-simple",
+    "level": "B1"
+   },
+   {
+    "type": "mcq",
+    "q": "What ___ you ___ when the bell rang?",
+    "options": [
+     "were, doing",
+     "did, do",
+     "are, doing",
+     "have, done"
+    ],
+    "answer": 0,
+    "whyTr": "Soru: What were you doing?",
+    "tag": "question-form",
+    "level": "B1"
+   },
+   {
+    "type": "mcq",
+    "q": "Linda has lived on Oak Street ___ five years.",
+    "options": [
+     "since",
+     "ago",
+     "for",
+     "during"
+    ],
+    "answer": 2,
+    "whyTr": "Süre için for.",
+    "tag": "prepositions-time",
+    "level": "B1"
+   },
+   {
+    "type": "mcq",
+    "q": "I ___ never been to a school board meeting.",
+    "options": [
+     "did",
+     "have",
+     "was"
+    ],
+    "answer": 1,
+    "whyTr": "Never ile have + V3.",
+    "tag": "present-perfect",
+    "level": "B1"
+   },
+   {
+    "type": "mcq",
+    "q": "My son is dirty because he ___ in the mud.",
+    "options": [
+     "has been playing",
+     "plays",
+     "was play"
+    ],
+    "answer": 0,
+    "whyTr": "Şimdi görülen sonuç: has been playing.",
+    "tag": "present-perfect",
+    "level": "B1"
+   },
+   {
+    "type": "mcq",
+    "q": "Which word means almost the same as \"rush\"?",
+    "options": [
+     "hurry",
+     "slip",
+     "notice",
+     "panic"
+    ],
+    "answer": 0,
+    "whyTr": "Rush ve hurry: acele etmek.",
+    "tag": "synonym",
+    "level": "B1"
+   },
+   {
+    "type": "mcq",
+    "q": "What is the opposite of \"dangerous\"?",
+    "options": [
+     "calm",
+     "sudden",
+     "safe",
+     "heavy"
+    ],
+    "answer": 2,
+    "whyTr": "Dangerous'ın zıttı safe.",
+    "tag": "antonym",
+    "level": "B1"
+   },
+   {
+    "type": "mcq",
+    "q": "Which word means almost the same as \"incident\"?",
+    "options": [
+     "injury",
+     "event",
+     "ambulance",
+     "bandage"
+    ],
+    "answer": 1,
+    "whyTr": "Incident ve event: olay.",
+    "tag": "synonym",
+    "level": "B1"
+   },
+   {
+    "type": "mcq",
+    "q": "Call 911 in an ___. Don't wait.",
+    "options": [
+     "accident",
+     "injury",
+     "witness",
+     "emergency"
+    ],
+    "answer": 3,
+    "whyTr": "Acil durum: emergency.",
+    "tag": "vocab",
+    "level": "B1"
+   },
+   {
+    "type": "mcq",
+    "q": "The nurse put a ___ on Emre's knee.",
+    "options": [
+     "bandage",
+     "witness",
+     "routine",
+     "challenge"
+    ],
+    "answer": 0,
+    "whyTr": "Dizine konan sargı: bandage.",
+    "tag": "vocab",
+    "level": "B1"
+   },
+   {
+    "type": "mcq",
+    "q": "Mr. Lee was cooking dinner when he smelled smoke. He turned off the stove and opened the window. He stayed calm.\n\nWhat was Mr. Lee doing when he smelled smoke?",
+    "options": [
+     "Sleeping",
+     "Opening a window",
+     "Cooking dinner",
+     "Calling 911"
+    ],
+    "answer": 2,
+    "whyTr": "Metin: 'was cooking dinner when he smelled smoke'.",
+    "tag": "reading",
+    "level": "B1"
+   }
+  ]
+ }
+}

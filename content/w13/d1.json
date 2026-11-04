@@ -1,0 +1,913 @@
+{
+ "week": 13,
+ "day": 1,
+ "titleTr": "Sınıfta bir olay: üçüncü koşul (If I had known...)",
+ "theme": "classroom-incident",
+ "morning": {
+  "grammar": {
+   "topic": "3rd conditional (if + had + V3, would have + V3)",
+   "explainTr": [
+    "Üçüncü koşul, geçmişte olmuş bir şeyin tersini hayal eder: If I had seen the puddle, I would have put a towel there. (Gördüm demek yok, göremedim.)",
+    "Yapı: if + had + V3, would have + V3. Sonuç kısmında could have veya might have de olur: If she hadn't run, she might not have fallen.",
+    "Dikkat: if'ten sonra 'would have' kullanma. If I would have known diyen çok kişi var ama doğrusu: If I had known."
+   ],
+   "compareTr": "Türkçede 'Bilseydim yapardım' tek yapıdır. İngilizcede zaman net: geçmiş için if + had + V3 ve would have + V3 gerekir. Şimdiki zaman için ayrı yapı vardır (If I knew, I would do).",
+   "table": [
+    [
+     "Birinci koşul (gerçekçi gelecek)",
+     "If + present, will + fiil",
+     "If it rains, we'll stay inside."
+    ],
+    [
+     "İkinci koşul (şimdi, hayali)",
+     "If + past, would + fiil",
+     "If I had time, I would help."
+    ],
+    [
+     "Üçüncü koşul (geçmiş, hayali)",
+     "If + had + V3, would have + V3",
+     "If I had known, I would have helped."
+    ],
+    [
+     "Olumsuz",
+     "If + hadn't + V3, wouldn't have + V3",
+     "If he hadn't run, he wouldn't have fallen."
+    ]
+   ],
+   "examples": [
+    {
+     "en": "If I had checked the floor, I would have seen the puddle.",
+     "tr": "Zemine bakmış olsaydım su birikintisini görürdüm."
+    },
+    {
+     "en": "If Maya hadn't been running, she might not have fallen.",
+     "tr": "Maya koşmuyor olsaydı belki düşmezdi."
+    },
+    {
+     "en": "What would you have done if you had been there?",
+     "tr": "Orada olsaydın ne yapardın?"
+    }
+   ],
+   "exercises": [
+    {
+     "type": "mcq",
+     "q": "If I ___ the water on the floor, I would have wiped it up.",
+     "options": [
+      "had seen",
+      "saw",
+      "have seen",
+      "would see"
+     ],
+     "answer": 0,
+     "whyTr": "Üçüncü koşulda if cümlesi past perfect alır: had seen.",
+     "tag": "modals",
+     "level": "B2"
+    },
+    {
+     "type": "mcq",
+     "q": "If Tyler had been careful, the water ___ spilled.",
+     "options": [
+      "won't have",
+      "wouldn't have",
+      "wouldn't",
+      "hadn't"
+     ],
+     "answer": 1,
+     "whyTr": "Sonuç kısmı: would(n't) have + past participle.",
+     "tag": "modals",
+     "level": "B2"
+    },
+    {
+     "type": "order",
+     "promptTr": "Cümleyi sırala:",
+     "words": [
+      "helped",
+      "would",
+      "earlier,",
+      "have",
+      "had",
+      "If",
+      "called",
+      "he",
+      "she"
+     ],
+     "answer": "If she had called earlier, he would have helped",
+     "whyTr": "If + had + V3, would have + V3: geçmişte olmayan şeyi anlatır.",
+     "tag": "modals",
+     "level": "B2"
+    },
+    {
+     "type": "mcq",
+     "q": "Maya fell because she ran. = If Maya ___ run, she wouldn't have fallen.",
+     "options": [
+      "didn't",
+      "wouldn't",
+      "hasn't",
+      "hadn't"
+     ],
+     "answer": 3,
+     "whyTr": "Geçmişte koşmuştu; gerçeğin tersi: hadn't run.",
+     "tag": "modals",
+     "level": "B2"
+    },
+    {
+     "type": "mcq",
+     "q": "Which sentence talks about the PAST and a different result?",
+     "options": [
+      "If I had left earlier, I would have caught the bus.",
+      "If I leave earlier, I will catch the bus.",
+      "If I left earlier, I would catch the bus.",
+      "If I leave earlier, I would catch the bus."
+     ],
+     "answer": 0,
+     "whyTr": "Geçmişteki gerçeğin tersi için üçüncü koşul (had left / would have caught).",
+     "tag": "modals",
+     "level": "B2"
+    },
+    {
+     "type": "mcq",
+     "q": "If the nurse ___ arrived so quickly, Maya might have waited longer.",
+     "options": [
+      "didn't",
+      "hadn't",
+      "wouldn't",
+      "hasn't"
+     ],
+     "answer": 1,
+     "whyTr": "Might have de sonuçta kullanılabilir; if kısmı had + V3 kalır.",
+     "tag": "modals",
+     "level": "B2"
+    },
+    {
+     "type": "order",
+     "promptTr": "Cümleyi sırala:",
+     "words": [
+      "you",
+      "had",
+      "What",
+      "seen",
+      "if",
+      "have",
+      "would",
+      "the",
+      "you",
+      "accident?",
+      "done"
+     ],
+     "answer": "What would you have done if you had seen the accident?",
+     "whyTr": "Soruda: What would + özne + have + V3 ... if + had + V3.",
+     "tag": "question-form",
+     "level": "B2"
+    },
+    {
+     "type": "mcq",
+     "q": "If I ___ about the test, I would have studied harder.",
+     "options": [
+      "knew",
+      "have known",
+      "would know",
+      "had known"
+     ],
+     "answer": 3,
+     "whyTr": "Geçmiş gerçeğin tersi: had known.",
+     "tag": "modals",
+     "level": "B2"
+    },
+    {
+     "type": "mcq",
+     "q": "If we change the lesson tomorrow, the students ___ confused. (gerçekçi, gelecek)",
+     "options": [
+      "will be",
+      "would have been",
+      "would be",
+      "had been"
+     ],
+     "answer": 0,
+     "whyTr": "Gelecek için birinci koşul: if + present, will. Üçüncü koşulla karıştırma.",
+     "tag": "future",
+     "level": "B2"
+    },
+    {
+     "type": "mcq",
+     "q": "If I had more time now, I ___ help you. (şimdiki durum)",
+     "options": [
+      "would have",
+      "would",
+      "will",
+      "had"
+     ],
+     "answer": 1,
+     "whyTr": "Şimdiki varsayım için ikinci koşul: would + fiil.",
+     "tag": "modals",
+     "level": "B2"
+    },
+    {
+     "type": "fill",
+     "q": "If you hadn't stayed calm, the students ___ have panicked.",
+     "accept": [
+      "would"
+     ],
+     "hintTr": "olurdu",
+     "whyTr": "Üçüncü koşul sonucu: would have + V3.",
+     "tag": "modals",
+     "level": "B2"
+    },
+    {
+     "type": "fill",
+     "q": "If I ___ seen the puddle, I would have put a towel there.",
+     "accept": [
+      "had"
+     ],
+     "hintTr": "past perfect yardımcı fiili",
+     "whyTr": "If kısmı: had + V3.",
+     "tag": "modals",
+     "level": "B2"
+    }
+   ]
+  },
+  "vocab": [
+   {
+    "id": "hazard",
+    "en": "hazard",
+    "tr": "tehlike",
+    "pos": "noun",
+    "example": "A wet floor is a safety hazard.",
+    "exampleTr": "Islak zemin bir güvenlik tehlikesidir.",
+    "syn": [
+     "danger"
+    ],
+    "ant": [],
+    "level": "B2"
+   },
+   {
+    "id": "stumble",
+    "en": "stumble",
+    "tr": "tökezlemek",
+    "pos": "verb",
+    "example": "He stumbled on the stairs but did not fall.",
+    "exampleTr": "Merdivende tökezledi ama düşmedi.",
+    "syn": [
+     "trip"
+    ],
+    "ant": [],
+    "level": "B2"
+   },
+   {
+    "id": "scrape",
+    "en": "scrape",
+    "tr": "sıyırmak, çizmek",
+    "pos": "verb",
+    "example": "She scraped her knee on the playground.",
+    "exampleTr": "Oyun parkında dizini sıyırdı.",
+    "syn": [],
+    "ant": [],
+    "level": "B2"
+   },
+   {
+    "id": "sprain",
+    "en": "sprain",
+    "tr": "burkmak",
+    "pos": "verb",
+    "example": "I think I sprained my ankle.",
+    "exampleTr": "Sanırım ayak bileğimi burktum.",
+    "syn": [],
+    "ant": [],
+    "level": "B2"
+   },
+   {
+    "id": "tremble",
+    "en": "tremble",
+    "tr": "titremek",
+    "pos": "verb",
+    "example": "Her hands trembled after the accident.",
+    "exampleTr": "Kazadan sonra elleri titredi.",
+    "syn": [
+     "shake"
+    ],
+    "ant": [],
+    "level": "B2"
+   },
+   {
+    "id": "reckless",
+    "en": "reckless",
+    "tr": "pervasız, düşüncesiz",
+    "pos": "adjective",
+    "example": "Running on wet stairs is reckless.",
+    "exampleTr": "Islak merdivende koşmak pervasızlıktır.",
+    "syn": [
+     "irresponsible"
+    ],
+    "ant": [
+     "careful"
+    ],
+    "level": "B2"
+   },
+   {
+    "id": "hesitate",
+    "en": "hesitate",
+    "tr": "tereddüt etmek",
+    "pos": "verb",
+    "example": "Don't hesitate to call the office.",
+    "exampleTr": "Ofisi aramaktan çekinme.",
+    "syn": [
+     "pause"
+    ],
+    "ant": [],
+    "level": "B2"
+   },
+   {
+    "id": "react",
+    "en": "react",
+    "tr": "tepki vermek",
+    "pos": "verb",
+    "example": "How did the students react?",
+    "exampleTr": "Öğrenciler nasıl tepki verdi?",
+    "syn": [
+     "respond"
+    ],
+    "ant": [],
+    "level": "B2"
+   },
+   {
+    "id": "shock",
+    "en": "shock",
+    "tr": "şok",
+    "pos": "noun",
+    "example": "The news came as a shock to everyone.",
+    "exampleTr": "Haber herkes için şok oldu.",
+    "syn": [],
+    "ant": [],
+    "level": "B2"
+   },
+   {
+    "id": "wound",
+    "en": "wound",
+    "tr": "yara",
+    "pos": "noun",
+    "example": "The nurse cleaned the small wound.",
+    "exampleTr": "Hemşire küçük yarayı temizledi.",
+    "syn": [
+     "injury"
+    ],
+    "ant": [],
+    "level": "B2"
+   },
+   {
+    "id": "dizzy",
+    "en": "dizzy",
+    "tr": "başı dönen",
+    "pos": "adjective",
+    "example": "He felt dizzy after he stood up quickly.",
+    "exampleTr": "Hızlı kalkınca başı döndü.",
+    "syn": [],
+    "ant": [],
+    "level": "B2"
+   },
+   {
+    "id": "faint",
+    "en": "faint",
+    "tr": "bayılmak",
+    "pos": "verb",
+    "example": "She almost fainted when she saw the blood.",
+    "exampleTr": "Kanı görünce neredeyse bayılacaktı.",
+    "syn": [
+     "pass out"
+    ],
+    "ant": [],
+    "level": "B2"
+   },
+   {
+    "id": "rescue",
+    "en": "rescue",
+    "tr": "kurtarmak",
+    "pos": "verb",
+    "example": "A teacher rescued the child from the pool.",
+    "exampleTr": "Bir öğretmen çocuğu havuzdan kurtardı.",
+    "syn": [
+     "save"
+    ],
+    "ant": [],
+    "level": "B2"
+   },
+   {
+    "id": "slippery",
+    "en": "slippery",
+    "tr": "kaygan",
+    "pos": "adjective",
+    "example": "The stairs were slippery after the rain.",
+    "exampleTr": "Merdivenler yağmurdan sonra kaygandı.",
+    "syn": [],
+    "ant": [],
+    "level": "B2"
+   },
+   {
+    "id": "swollen",
+    "en": "swollen",
+    "tr": "şişmiş",
+    "pos": "adjective",
+    "example": "His ankle was swollen and red.",
+    "exampleTr": "Ayak bileği şişmiş ve kırmızıydı.",
+    "syn": [],
+    "ant": [],
+    "level": "B2"
+   }
+  ],
+  "reading": {
+   "title": "A small accident in science class",
+   "text": "Last Thursday, Hafsa worked as a substitute teacher at Lincoln Elementary for the first time. Her class was Ms. Carter's fourth grade, and the morning went well until a small accident changed everything.\n\nDuring science, the students were making a model of a volcano. A boy named Tyler carried a cup of water across the room while he was talking to his friend. He did not notice the water spilling on the floor behind him. A minute later, a girl named Maya ran to the sink, slipped, and fell. She hit her elbow on a desk and started to cry.\n\nHafsa stayed calm. She asked the students to stay in their seats, helped Maya sit up, and sent a student to the front office to get Mr. Brown. Within five minutes, the school nurse arrived. Maya had a bruise, but nothing was broken. The nurse called Maya's parents, and Maya went home early.\n\nAfter lunch, Hafsa wrote an incident report. She felt worried, so she thought about the accident again and again. \"If Tyler had been more careful, the water wouldn't have spilled,\" she wrote in her notes. \"If I had checked the floor earlier, I would have seen the puddle. And if Maya hadn't been running, she might not have fallen.\"\n\nMr. Brown read the report and smiled. \"You did the right thing,\" he said. \"If you hadn't stayed calm, the other students would have panicked. And if you hadn't sent for help quickly, Maya would have waited much longer.\"\n\nThat evening, Hafsa told her son Emre about the day. \"I made a few mistakes,\" she said. \"If I had known about the experiment, I would have put a towel next to the sink.\" Emre listened and answered, \"Mom, if you hadn't been there, nobody would have known what to do. You were great.\"\n\nOn Friday, Ms. Carter sent her a short message: \"Thank you for yesterday. Maya is fine, and the class made a new rule: no running with water!\" Hafsa read it twice and felt proud.",
+   "glossary": [
+    {
+     "en": "puddle",
+     "tr": "su birikintisi"
+    },
+    {
+     "en": "elbow",
+     "tr": "dirsek"
+    },
+    {
+     "en": "incident report",
+     "tr": "olay raporu"
+    },
+    {
+     "en": "volcano",
+     "tr": "yanardağ"
+    },
+    {
+     "en": "mop",
+     "tr": "paspas"
+    }
+   ],
+   "questions": [
+    {
+     "type": "mcq",
+     "q": "What caused Maya's fall?",
+     "options": [
+      "She tripped over a bag.",
+      "She was pushed by a student.",
+      "She slipped on spilled water.",
+      "The floor was being cleaned."
+     ],
+     "answer": 2,
+     "whyTr": "Metin: Maya ran, slipped on the water and fell.",
+     "tag": "reading",
+     "level": "B2"
+    },
+    {
+     "type": "mcq",
+     "q": "What did Hafsa do first after the accident?",
+     "options": [
+      "She called Maya's parents.",
+      "She wrote the incident report.",
+      "She cleaned the floor.",
+      "She asked the students to stay in their seats."
+     ],
+     "answer": 3,
+     "whyTr": "Önce öğrencilerin yerinde kalmasını istedi.",
+     "tag": "reading",
+     "level": "B2"
+    },
+    {
+     "type": "mcq",
+     "q": "According to Mr. Brown, what would have happened if Hafsa hadn't stayed calm?",
+     "options": [
+      "The other students would have panicked.",
+      "Maya would have gone home sooner.",
+      "The nurse would have been late.",
+      "The class would have ended."
+     ],
+     "answer": 0,
+     "whyTr": "Mr. Brown: the other students would have panicked.",
+     "tag": "reading",
+     "level": "B2"
+    },
+    {
+     "type": "mcq",
+     "q": "What did the class do after the accident?",
+     "options": [
+      "They cleaned the sink.",
+      "They made a new rule about running with water.",
+      "They sent a card to Maya.",
+      "They stopped the science project."
+     ],
+     "answer": 1,
+     "whyTr": "Ms. Carter: the class made a new rule.",
+     "tag": "reading",
+     "level": "B2"
+    }
+   ]
+  }
+ },
+ "evening": {
+  "listening": {
+   "title": "Talking about the accident",
+   "script": [
+    {
+     "speaker": "Mr. Brown",
+     "text": "Hafsa, I read your incident report about Thursday. Can we talk for a minute?"
+    },
+    {
+     "speaker": "Hafsa",
+     "text": "Of course. I'm still thinking about it. If I had checked the floor, Maya wouldn't have fallen."
+    },
+    {
+     "speaker": "Mr. Brown",
+     "text": "Please don't blame yourself. Tyler spilled the water, and nobody saw it."
+    },
+    {
+     "speaker": "Hafsa",
+     "text": "True, but I was supervising the class. I should have noticed the puddle."
+    },
+    {
+     "speaker": "Mr. Brown",
+     "text": "Maybe. But look at the result. If you hadn't acted quickly, the injury could have been worse."
+    },
+    {
+     "speaker": "Hafsa",
+     "text": "The nurse was very fast. If she had been in a meeting, we would have called an ambulance."
+    },
+    {
+     "speaker": "Mr. Brown",
+     "text": "Exactly. By the way, one witness wrote a short note. A girl named Lily saw everything."
+    },
+    {
+     "speaker": "Hafsa",
+     "text": "That's helpful. Did Maya's mother call?"
+    },
+    {
+     "speaker": "Mr. Brown",
+     "text": "Yes, this morning. She said Maya is fine and only has a small bruise on her arm."
+    },
+    {
+     "speaker": "Hafsa",
+     "text": "What a relief. I would have felt terrible if she had broken a bone."
+    },
+    {
+     "speaker": "Mr. Brown",
+     "text": "Next time, we will keep a mop in the science room. That could prevent the problem."
+    },
+    {
+     "speaker": "Hafsa",
+     "text": "Good idea. I'll add it to my notes for the next substitute."
+    }
+   ],
+   "questions": [
+    {
+     "type": "mcq",
+     "q": "Why does Hafsa blame herself?",
+     "options": [
+      "She forgot to call the nurse.",
+      "She arrived late to class.",
+      "She thinks she should have noticed the puddle.",
+      "She lost the report."
+     ],
+     "answer": 2,
+     "whyTr": "Hafsa: I should have noticed the puddle.",
+     "tag": "listening",
+     "level": "B2"
+    },
+    {
+     "type": "mcq",
+     "q": "Who wrote a note about the accident?",
+     "options": [
+      "Tyler",
+      "Maya's mother",
+      "The nurse",
+      "A girl named Lily"
+     ],
+     "answer": 3,
+     "whyTr": "Mr. Brown: Lily saw everything and wrote a note.",
+     "tag": "listening",
+     "level": "B2"
+    },
+    {
+     "type": "mcq",
+     "q": "How is Maya now?",
+     "options": [
+      "She is fine with a small bruise.",
+      "She is in the hospital.",
+      "She has a broken arm.",
+      "She is still crying."
+     ],
+     "answer": 0,
+     "whyTr": "Mr. Brown: Maya is fine and only has a bruise.",
+     "tag": "listening",
+     "level": "B2"
+    },
+    {
+     "type": "mcq",
+     "q": "What will the school do next time?",
+     "options": [
+      "Cancel science class",
+      "Keep a mop in the science room",
+      "Hire another nurse",
+      "Ban water bottles"
+     ],
+     "answer": 1,
+     "whyTr": "Mr. Brown: we will keep a mop in the science room.",
+     "tag": "listening",
+     "level": "B2"
+    }
+   ]
+  },
+  "writing": {
+   "promptTr": "Ms. Carter'a kısa bir olay notu yaz. Sınıfta küçük bir kaza oldu; ne olduğunu anlat ve en az üç tane 'if + had + V3, would have + V3' cümlesi kullan. 120-180 kelime.",
+   "promptEn": "Write a short note to Ms. Carter about a small accident in class. Explain what happened and use at least three third conditional sentences (120-180 words).",
+   "frames": [
+    "Dear Ms. Carter, I want to tell you about ...",
+    "If ... had ..., ... would have ...",
+    "Luckily, ...",
+    "In the future, we should ..."
+   ],
+   "model": "Dear Ms. Carter, I want to tell you about a small accident that happened during science class on Thursday. A student named Tyler spilled a cup of water near the sink, and another student, Maya, slipped and fell. She hit her elbow and had a small bruise. I stayed calm and sent a student to the office for help. The nurse arrived in five minutes. If Tyler had been more careful, the water wouldn't have spilled. If I had checked the floor earlier, I would have seen the puddle. If the nurse hadn't come quickly, Maya might have waited much longer for help. Luckily, nobody was seriously hurt. In the future, I think we should keep a mop in the science room and remind students to walk, not run. Please call me if you have any questions. Thank you for trusting me with your class. Sincerely, Hafsa",
+   "checklistTr": [
+    "En az üç üçüncü koşul cümlen var mı (if + had + V3, would have + V3)?",
+    "Olayı sırayla (önce, sonra) anlattın mı?",
+    "Resmi ama sıcak bir selam ve kapanış var mı?",
+    "Geçmiş zaman fiillerini doğru kullandın mı?"
+   ],
+   "minWords": 120
+  },
+  "examSet": [
+   {
+    "type": "mcq",
+    "q": "If it ___ yesterday, the picnic would have been fun.",
+    "options": [
+     "didn't rain",
+     "doesn't rain",
+     "hadn't rained",
+     "wouldn't rain"
+    ],
+    "answer": 2,
+    "whyTr": "Geçmişe dair üçüncü koşul: had + V3.",
+    "tag": "modals",
+    "level": "B2"
+   },
+   {
+    "type": "mcq",
+    "q": "If she ___ the form, she would have gotten the job.",
+    "options": [
+     "signed",
+     "signs",
+     "would sign",
+     "had signed"
+    ],
+    "answer": 3,
+    "whyTr": "If kısmı past perfect olmalı.",
+    "tag": "modals",
+    "level": "B2"
+   },
+   {
+    "type": "mcq",
+    "q": "If I ___ a substitute teacher now, I would work in a school every day. (şimdiki hayali durum)",
+    "options": [
+     "were",
+     "had been",
+     "am",
+     "would be"
+    ],
+    "answer": 0,
+    "whyTr": "Şimdiki varsayım: ikinci koşul, were.",
+    "tag": "modals",
+    "level": "B2"
+   },
+   {
+    "type": "mcq",
+    "q": "If you finish the report today, I ___ it tomorrow. (gerçekçi)",
+    "options": [
+     "would read",
+     "will read",
+     "would have read",
+     "read"
+    ],
+    "answer": 1,
+    "whyTr": "Birinci koşul: if + present, will.",
+    "tag": "future",
+    "level": "B2"
+   },
+   {
+    "type": "mcq",
+    "q": "The accident ___ by a spilled drink.",
+    "options": [
+     "caused",
+     "was causing",
+     "was caused",
+     "has cause"
+    ],
+    "answer": 2,
+    "whyTr": "Edilgen: was caused (by).",
+    "tag": "past-simple",
+    "level": "B2"
+   },
+   {
+    "type": "mcq",
+    "q": "Hafsa has worked at the school ___ March.",
+    "options": [
+     "for",
+     "during",
+     "from",
+     "since"
+    ],
+    "answer": 3,
+    "whyTr": "Başlangıç noktası için since kullanılır.",
+    "tag": "present-perfect",
+    "level": "B2"
+   },
+   {
+    "type": "mcq",
+    "q": "Mr. Brown said that the nurse ___ already arrived.",
+    "options": [
+     "had",
+     "has",
+     "have",
+     "is"
+    ],
+    "answer": 0,
+    "whyTr": "Dolaylı anlatımda present perfect, past perfect olur: had arrived.",
+    "tag": "past-simple",
+    "level": "B2"
+   },
+   {
+    "type": "mcq",
+    "q": "The woman ___ I met at the office is the new principal.",
+    "options": [
+     "which",
+     "who",
+     "whose",
+     "where"
+    ],
+    "answer": 1,
+    "whyTr": "Kişi için who kullanılır.",
+    "tag": "pronouns",
+    "level": "B2"
+   },
+   {
+    "type": "mcq",
+    "q": "The students were very ___ after the fall, so the teacher spoke softly.",
+    "options": [
+     "hungry",
+     "aware",
+     "anxious",
+     "cautious"
+    ],
+    "answer": 2,
+    "whyTr": "Anxious: endişeli.",
+    "tag": "vocab",
+    "level": "B2"
+   },
+   {
+    "type": "mcq",
+    "q": "Running on wet stairs is ___. Someone could get hurt.",
+    "options": [
+     "slippery",
+     "swollen",
+     "dizzy",
+     "reckless"
+    ],
+    "answer": 3,
+    "whyTr": "Pervasız, düşüncesiz: reckless.",
+    "tag": "vocab",
+    "level": "B2"
+   },
+   {
+    "type": "mcq",
+    "q": "A wet floor is a safety ___.",
+    "options": [
+     "hazard",
+     "wound",
+     "shock",
+     "rescue"
+    ],
+    "answer": 0,
+    "whyTr": "Tehlike: hazard.",
+    "tag": "vocab",
+    "level": "B2"
+   },
+   {
+    "type": "mcq",
+    "q": "Which word is closest in meaning to \"stumble\"?",
+    "options": [
+     "jump",
+     "trip",
+     "rescue",
+     "hesitate"
+    ],
+    "answer": 1,
+    "whyTr": "Stumble ve trip eş anlamlıdır (tökezlemek).",
+    "tag": "synonym",
+    "level": "B2"
+   },
+   {
+    "type": "mcq",
+    "q": "What is the opposite of \"reckless\"?",
+    "options": [
+     "slippery",
+     "dizzy",
+     "careful",
+     "swollen"
+    ],
+    "answer": 2,
+    "whyTr": "Reckless pervasız, careful dikkatli: zıt anlamlı.",
+    "tag": "antonym",
+    "level": "B2"
+   },
+   {
+    "type": "mcq",
+    "q": "Which word is closest in meaning to \"wound\"?",
+    "options": [
+     "shock",
+     "hazard",
+     "rescue",
+     "injury"
+    ],
+    "answer": 3,
+    "whyTr": "Wound ve injury eş anlamlıdır.",
+    "tag": "synonym",
+    "level": "B2"
+   },
+   {
+    "type": "mcq",
+    "q": "Which is correct?",
+    "options": [
+     "If we had left earlier, we wouldn't have missed the bus.",
+     "If we had left earlier, we wouldn't miss the bus.",
+     "If we would have left earlier, we wouldn't have missed the bus.",
+     "If we left earlier, we wouldn't have missed the bus."
+    ],
+    "answer": 0,
+    "whyTr": "If kısmında would kullanılmaz; had + V3 gerekir.",
+    "tag": "modals",
+    "level": "B2"
+   },
+   {
+    "type": "mcq",
+    "q": "If he ___ the warning sign, he wouldn't have slipped.",
+    "options": [
+     "read",
+     "had read",
+     "would read",
+     "has read"
+    ],
+    "answer": 1,
+    "whyTr": "Üçüncü koşul if kısmı: had read.",
+    "tag": "modals",
+    "level": "B2"
+   },
+   {
+    "type": "mcq",
+    "q": "Tom was late. The teacher was upset. \"If Tom ___ on time, the teacher wouldn't have been upset.\"",
+    "options": [
+     "arrived",
+     "would arrive",
+     "had arrived",
+     "arrives"
+    ],
+    "answer": 2,
+    "whyTr": "Geçmişteki gerçeğin tersi: had arrived.",
+    "tag": "modals",
+    "level": "B2"
+   },
+   {
+    "type": "mcq",
+    "q": "Last week there was an incident in the cafeteria. A boy slipped on a banana peel and hurt his wrist. A teacher stayed calm and took him to the nurse. If the floor had been clean, the accident would not have happened.\n\nWhat is the main idea?",
+    "options": [
+     "The boy broke his arm.",
+     "The teacher was careless.",
+     "The nurse was late.",
+     "A clean floor could have prevented the accident."
+    ],
+    "answer": 3,
+    "whyTr": "Metnin son cümlesi: temiz zemin kazayı önlerdi.",
+    "tag": "reading",
+    "level": "B2"
+   },
+   {
+    "type": "mcq",
+    "q": "His ankle was ___ after the fall, so the nurse gave him ice.",
+    "options": [
+     "swollen",
+     "reckless",
+     "slippery",
+     "hesitate"
+    ],
+    "answer": 0,
+    "whyTr": "Şişmiş: swollen.",
+    "tag": "vocab",
+    "level": "B2"
+   },
+   {
+    "type": "mcq",
+    "q": "Linda forgot her keys and waited outside for an hour. She said, \"If I had checked my bag, I would have found them.\"\n\nWhat does Linda think?",
+    "options": [
+     "She found her keys.",
+     "She didn't check her bag.",
+     "She never owns keys.",
+     "She waited inside."
+    ],
+    "answer": 1,
+    "whyTr": "Çantasına bakmamış; bu yüzden pişman.",
+    "tag": "reading",
+    "level": "B2"
+   }
+  ]
+ }
+}

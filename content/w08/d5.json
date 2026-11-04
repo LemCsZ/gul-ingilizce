@@ -1,0 +1,777 @@
+{
+ "week": 8,
+ "day": 5,
+ "titleTr": "Okulun tarihi: was built, were donated",
+ "theme": "school-safety",
+ "morning": {
+  "grammar": {
+   "topic": "Simple passive (past): was / were + past participle",
+   "explainTr": [
+    "Geçmişte yapılmış bir işi, yapanı söylemeden anlatmak için geçmiş edilgen kullanırız: The school was built in 1952. Yapı: was/were + fiilin 3. hali (V3).",
+    "Tekil özne için was, çoğul özne için were: The gym was added. The windows were replaced. Olumsuz: wasn't/weren't. Soru: When was the school established?",
+    "Yapanı söylemek istersen 'by' eklenir: The library was opened by the mayor. Okulun, şehrin, binanın tarihini anlatırken bu yapıyı çok kullanırsın."
+   ],
+   "compareTr": "Türkçede 'yapıldı', 'açıldı', 'bağışlandı' gibi -ıldı ekleri vardır. İngilizcede ek yerine was/were + V3 kullanırsın: was built, were donated. 'The school built in 1952' (be fiilini unutmak) Türkçeden gelen çok yaygın bir hatadır.",
+   "table": [
+    [
+     "Olumlu (tekil)",
+     "was + V3",
+     "The school was built."
+    ],
+    [
+     "Olumlu (çoğul)",
+     "were + V3",
+     "The windows were replaced."
+    ],
+    [
+     "Olumsuz",
+     "wasn't / weren't + V3",
+     "The gym wasn't used."
+    ],
+    [
+     "Soru",
+     "Was/Were + özne + V3?",
+     "Were the books donated?"
+    ],
+    [
+     "Yapan (by)",
+     "V3 + by + kişi",
+     "It was opened by the mayor."
+    ]
+   ],
+   "examples": [
+    {
+     "en": "The school was built in 1952.",
+     "tr": "Okul 1952'de inşa edildi."
+    },
+    {
+     "en": "The old windows were replaced in 1998.",
+     "tr": "Eski pencereler 1998'de değiştirildi."
+    },
+    {
+     "en": "A gym was added in 1975.",
+     "tr": "1975'te bir spor salonu eklendi."
+    },
+    {
+     "en": "The books weren't kept in the library.",
+     "tr": "Kitaplar kütüphanede tutulmuyordu."
+    },
+    {
+     "en": "When was the school established?",
+     "tr": "Okul ne zaman kuruldu?"
+    }
+   ],
+   "exercises": [
+    {
+     "type": "mcq",
+     "q": "The school ___ in 1952.",
+     "options": [
+      "was built",
+      "were built",
+      "is built"
+     ],
+     "answer": 0,
+     "whyTr": "Geçmiş edilgen: was/were + V3. School tekil: was built.",
+     "tag": "past-simple",
+     "level": "B1"
+    },
+    {
+     "type": "mcq",
+     "q": "The old windows ___ last summer.",
+     "options": [
+      "was replaced",
+      "were replaced",
+      "replaced"
+     ],
+     "answer": 1,
+     "whyTr": "Windows çoğul: were replaced.",
+     "tag": "past-simple",
+     "level": "B1"
+    },
+    {
+     "type": "order",
+     "promptTr": "Cümleyi sırala:",
+     "words": [
+      "was",
+      "renovated",
+      "in",
+      "2019",
+      "The",
+      "gym"
+     ],
+     "answer": "The gym was renovated in 2019",
+     "whyTr": "Geçmiş edilgen: özne + was/were + V3.",
+     "tag": "past-simple",
+     "level": "B1"
+    },
+    {
+     "type": "mcq",
+     "q": "The first teachers ___ from nearby towns.",
+     "options": [
+      "was hired",
+      "are hired",
+      "were hired"
+     ],
+     "answer": 2,
+     "whyTr": "Teachers çoğul ve geçmiş zaman: were hired.",
+     "tag": "past-simple",
+     "level": "B1"
+    },
+    {
+     "type": "mcq",
+     "q": "Which sentence is correct?",
+     "options": [
+      "The school was built in 1950.",
+      "The school built in 1950.",
+      "The school were built in 1950."
+     ],
+     "answer": 0,
+     "whyTr": "Edilgende be fiili şarttır: was built.",
+     "tag": "past-simple",
+     "level": "B1"
+    },
+    {
+     "type": "order",
+     "promptTr": "Cümleyi sırala:",
+     "words": [
+      "the",
+      "school",
+      "established?",
+      "When",
+      "was"
+     ],
+     "answer": "When was the school established?",
+     "whyTr": "Geçmiş edilgen soru: When + was + özne + V3?",
+     "tag": "question-form",
+     "level": "B1"
+    },
+    {
+     "type": "mcq",
+     "q": "The old gym ___ used after 2010.",
+     "options": [
+      "weren't",
+      "wasn't",
+      "didn't"
+     ],
+     "answer": 1,
+     "whyTr": "Edilgen olumsuz: wasn't + V3.",
+     "tag": "negative-form",
+     "level": "B1"
+    },
+    {
+     "type": "mcq",
+     "q": "___ the books donated by the community?",
+     "options": [
+      "Was",
+      "Did",
+      "Were"
+     ],
+     "answer": 2,
+     "whyTr": "Books çoğul; geçmiş edilgen soru: Were ... donated?",
+     "tag": "question-form",
+     "level": "B1"
+    },
+    {
+     "type": "mcq",
+     "q": "Today, lunch ___ in the new cafeteria.",
+     "options": [
+      "is served",
+      "was served",
+      "serves"
+     ],
+     "answer": 0,
+     "whyTr": "'Today' şimdiki zaman: is served.",
+     "tag": "present-simple",
+     "level": "A2"
+    },
+    {
+     "type": "mcq",
+     "q": "Mr. Brown ___ at this school for ten years before he retired.",
+     "options": [
+      "was worked",
+      "worked",
+      "works"
+     ],
+     "answer": 1,
+     "whyTr": "Kendi yaptığı işi anlatıyor: etken, past simple.",
+     "tag": "past-simple",
+     "level": "A2"
+    },
+    {
+     "type": "mcq",
+     "q": "Unless the principal ___ permission, nobody leaves early.",
+     "options": [
+      "will give",
+      "gave",
+      "gives"
+     ],
+     "answer": 2,
+     "whyTr": "Unless + present simple.",
+     "tag": "linkers",
+     "level": "B1"
+    },
+    {
+     "type": "fill",
+     "q": "The new library ___ opened in 1990.",
+     "accept": [
+      "was"
+     ],
+     "hintTr": "be (geçmiş, tekil)",
+     "whyTr": "Library tekil ve geçmiş zaman: was opened.",
+     "tag": "past-simple",
+     "level": "B1"
+    }
+   ]
+  },
+  "vocab": [
+   {
+    "id": "establish",
+    "en": "establish",
+    "tr": "kurmak",
+    "pos": "verb",
+    "example": "The school was established in 1952.",
+    "exampleTr": "Okul 1952'de kuruldu.",
+    "syn": [
+     "found",
+     "set up"
+    ],
+    "ant": [],
+    "level": "B2"
+   },
+   {
+    "id": "build",
+    "en": "build",
+    "tr": "inşa etmek",
+    "pos": "verb",
+    "example": "They built a new gym last year.",
+    "exampleTr": "Geçen yıl yeni bir spor salonu yaptılar.",
+    "syn": [],
+    "ant": [
+     "destroy"
+    ],
+    "level": "A2"
+   },
+   {
+    "id": "expand",
+    "en": "expand",
+    "tr": "genişletmek",
+    "pos": "verb",
+    "example": "The school was expanded in 1975.",
+    "exampleTr": "Okul 1975'te genişletildi.",
+    "syn": [
+     "enlarge"
+    ],
+    "ant": [
+     "shrink"
+    ],
+    "level": "B2"
+   },
+   {
+    "id": "renovate",
+    "en": "renovate",
+    "tr": "yenilemek",
+    "pos": "verb",
+    "example": "The library was renovated last summer.",
+    "exampleTr": "Kütüphane geçen yaz yenilendi.",
+    "syn": [
+     "fix up"
+    ],
+    "ant": [],
+    "level": "B2"
+   },
+   {
+    "id": "donate",
+    "en": "donate",
+    "tr": "bağışlamak",
+    "pos": "verb",
+    "example": "Neighbors donated books to the school.",
+    "exampleTr": "Komşular okula kitap bağışladı.",
+    "syn": [
+     "give"
+    ],
+    "ant": [],
+    "level": "B1"
+   },
+   {
+    "id": "century",
+    "en": "century",
+    "tr": "yüzyıl",
+    "pos": "noun",
+    "example": "The school is more than half a century old.",
+    "exampleTr": "Okul yarım asırdan daha eski.",
+    "syn": [],
+    "ant": [],
+    "level": "B1"
+   },
+   {
+    "id": "community",
+    "en": "community",
+    "tr": "topluluk, mahalle",
+    "pos": "noun",
+    "example": "The community helped build the school.",
+    "exampleTr": "Topluluk okulun yapılmasına yardım etti.",
+    "syn": [],
+    "ant": [],
+    "level": "B1"
+   },
+   {
+    "id": "library",
+    "en": "library",
+    "tr": "kütüphane",
+    "pos": "noun",
+    "example": "The library was opened in 1990.",
+    "exampleTr": "Kütüphane 1990'da açıldı.",
+    "syn": [],
+    "ant": [],
+    "level": "A2"
+   },
+   {
+    "id": "gym",
+    "en": "gym",
+    "tr": "spor salonu",
+    "pos": "noun",
+    "example": "Children play basketball in the gym.",
+    "exampleTr": "Çocuklar spor salonunda basketbol oynuyor.",
+    "syn": [],
+    "ant": [],
+    "level": "A2"
+   },
+   {
+    "id": "honor",
+    "en": "honor",
+    "tr": "onurlandırmak; onur",
+    "pos": "verb",
+    "example": "The teachers were honored at a special dinner.",
+    "exampleTr": "Öğretmenler özel bir yemekte onurlandırıldı.",
+    "syn": [
+     "respect"
+    ],
+    "ant": [],
+    "level": "B1"
+   },
+   {
+    "id": "replace",
+    "en": "replace",
+    "tr": "değiştirmek",
+    "pos": "verb",
+    "example": "The old desks were replaced with new ones.",
+    "exampleTr": "Eski sıralar yenileriyle değiştirildi.",
+    "syn": [
+     "swap"
+    ],
+    "ant": [],
+    "level": "B1"
+   },
+   {
+    "id": "celebrate",
+    "en": "celebrate",
+    "tr": "kutlamak",
+    "pos": "verb",
+    "example": "We celebrate the school's birthday every year.",
+    "exampleTr": "Okulun doğum gününü her yıl kutlarız.",
+    "syn": [],
+    "ant": [],
+    "level": "A2"
+   },
+   {
+    "id": "anniversary",
+    "en": "anniversary",
+    "tr": "yıldönümü",
+    "pos": "noun",
+    "example": "The 70th anniversary is next year.",
+    "exampleTr": "70. yıldönümü gelecek yıl.",
+    "syn": [],
+    "ant": [],
+    "level": "B1"
+   },
+   {
+    "id": "history",
+    "en": "history",
+    "tr": "tarih",
+    "pos": "noun",
+    "example": "The history of our school is interesting.",
+    "exampleTr": "Okulumuzun tarihi ilginç.",
+    "syn": [],
+    "ant": [],
+    "level": "A2"
+   },
+   {
+    "id": "local",
+    "en": "local",
+    "tr": "yerel, mahalleli",
+    "pos": "adjective",
+    "example": "A local family donated the land.",
+    "exampleTr": "Yerel bir aile araziyi bağışladı.",
+    "syn": [],
+    "ant": [
+     "global"
+    ],
+    "level": "B1"
+   }
+  ],
+  "reading": {
+   "title": "The history of Lincoln Elementary",
+   "text": "In the front hall of Lincoln Elementary, there is a big photo of an old brick building. Today Hafsa stops to read the plaque next to it.\n\nThe school was established in 1952. It was named after Abraham Lincoln, and it was built by the local community. Many families donated money, and neighbors helped with the work. The first classes were held in just four rooms. Only eighty students were enrolled in the first year, and most of them walked to school.\n\nIn 1975, the building was expanded, and a gym was added. The old wooden windows were replaced in 1998, and the library was renovated in 2015. New computers were bought, and soft chairs were placed in the reading corner. Every year, the school's anniversary is celebrated with a big picnic on the playground.\n\nAt the bottom of the plaque, Hafsa reads a list of names. These people were honored because they worked at the school for more than thirty years. One name is \"Mrs. Dolores Green, secretary, 1968-2001.\"\n\nHafsa takes a photo with her phone. \"This is not only a school,\" she thinks. \"It is the history of a community. Maybe one day my name will be on a list like this one.\"",
+   "glossary": [
+    {
+     "en": "plaque",
+     "tr": "anma plaketi"
+    },
+    {
+     "en": "brick",
+     "tr": "tuğla"
+    },
+    {
+     "en": "enrolled",
+     "tr": "kaydedilmiş"
+    },
+    {
+     "en": "reading corner",
+     "tr": "okuma köşesi"
+    },
+    {
+     "en": "list of names",
+     "tr": "isim listesi"
+    }
+   ],
+   "questions": [
+    {
+     "type": "mcq",
+     "q": "When was Lincoln Elementary established?",
+     "options": [
+      "In 1952",
+      "In 1975",
+      "In 1998"
+     ],
+     "answer": 0,
+     "whyTr": "Metin: 'The school was established in 1952.'",
+     "tag": "reading",
+     "level": "B1"
+    },
+    {
+     "type": "mcq",
+     "q": "Who built the school?",
+     "options": [
+      "The government",
+      "The local community",
+      "A large company"
+     ],
+     "answer": 1,
+     "whyTr": "Metin: 'it was built by the local community.'",
+     "tag": "reading",
+     "level": "B1"
+    },
+    {
+     "type": "mcq",
+     "q": "What was added in 1975?",
+     "options": [
+      "A library",
+      "A cafeteria",
+      "A gym"
+     ],
+     "answer": 2,
+     "whyTr": "Metin: 'the building was expanded, and a gym was added.'",
+     "tag": "reading",
+     "level": "B1"
+    },
+    {
+     "type": "mcq",
+     "q": "Why were the people on the list honored?",
+     "options": [
+      "They worked at the school for more than thirty years.",
+      "They donated a new computer.",
+      "They built the first classroom."
+     ],
+     "answer": 0,
+     "whyTr": "Metin: 'they worked at the school for more than thirty years.'",
+     "tag": "reading",
+     "level": "B1"
+    }
+   ]
+  }
+ },
+ "evening": {
+  "listening": {
+   "title": "Linda remembers the old school",
+   "script": [
+    {
+     "speaker": "Hafsa",
+     "text": "Linda, did you know Lincoln Elementary was built in 1952?"
+    },
+    {
+     "speaker": "Linda",
+     "text": "Of course! I went there in the late 1970s. The gym was brand new then, but there was no real library."
+    },
+    {
+     "speaker": "Hafsa",
+     "text": "No library? Where were the books kept?"
+    },
+    {
+     "speaker": "Linda",
+     "text": "In boxes in the hallway! The library was opened in 1990, after I left."
+    },
+    {
+     "speaker": "Hafsa",
+     "text": "Amazing. And what about lunch?"
+    },
+    {
+     "speaker": "Linda",
+     "text": "Lunch was brought from home in paper bags. The cafeteria was built much later."
+    },
+    {
+     "speaker": "Hafsa",
+     "text": "And how were the children taken to school?"
+    },
+    {
+     "speaker": "Linda",
+     "text": "Most of us walked. Only a few were taken by bus."
+    },
+    {
+     "speaker": "Hafsa",
+     "text": "I love these stories. Can I write them down?"
+    },
+    {
+     "speaker": "Linda",
+     "text": "Of course. Maybe they will be put on the school website one day!"
+    },
+    {
+     "speaker": "Hafsa",
+     "text": "That would be wonderful."
+    },
+    {
+     "speaker": "Linda",
+     "text": "Then I will bring you my old school photos next week."
+    }
+   ],
+   "questions": [
+    {
+     "type": "mcq",
+     "q": "When did Linda go to Lincoln Elementary?",
+     "options": [
+      "In the 1990s",
+      "In the late 1970s",
+      "In 1952"
+     ],
+     "answer": 1,
+     "whyTr": "Linda: 'I went there in the late 1970s.'",
+     "tag": "listening",
+     "level": "B1"
+    },
+    {
+     "type": "mcq",
+     "q": "Where were the books kept before the library?",
+     "options": [
+      "In the gym",
+      "In the cafeteria",
+      "In boxes in the hallway"
+     ],
+     "answer": 2,
+     "whyTr": "Linda: 'In boxes in the hallway!'",
+     "tag": "listening",
+     "level": "B1"
+    },
+    {
+     "type": "mcq",
+     "q": "How was lunch brought to school?",
+     "options": [
+      "From home in paper bags",
+      "By bus",
+      "From the cafeteria"
+     ],
+     "answer": 0,
+     "whyTr": "Linda: 'Lunch was brought from home in paper bags.'",
+     "tag": "listening",
+     "level": "B1"
+    },
+    {
+     "type": "mcq",
+     "q": "How did most children get to school?",
+     "options": [
+      "They took the bus.",
+      "They walked.",
+      "They were driven by parents."
+     ],
+     "answer": 1,
+     "whyTr": "Linda: 'Most of us walked.'",
+     "tag": "listening",
+     "level": "B1"
+    }
+   ]
+  },
+  "writing": {
+   "promptTr": "Bildiğin bir yerin (okulun, mahallenin, bir binanın) geçmişini edilgen geçmiş zamanla anlat. En az beş was/were + V3 cümlesi kur.",
+   "promptEn": "Write about the history of a place you know, such as your school or a building. Use at least five past passive sentences.",
+   "frames": [
+    "My school was built in ...",
+    "The ... was added in ...",
+    "Many ... were ...",
+    "On its anniversary, ..."
+   ],
+   "model": "My school in Isparta was built in 1962. It was a small, white building with ten classrooms. The garden was planted by the students and teachers. Every spring, flowers were put around the door. In 1990, a new gym was added, and the old windows were replaced. Many years later, a library was opened, and hundreds of books were donated by local families. I was taught to read in that school. On its 50th anniversary, a big party was held, and our old teachers were invited. I was so happy to see them again.",
+   "checklistTr": [
+    "was/were seçimi özneyle uyumlu mu (the gym was, the windows were)?",
+    "Fiilin 3. halini kullandın mı (built, opened, donated)?",
+    "Yıl veya zaman ifadeleri (in 1990) koydun mu?"
+   ],
+   "minWords": 70
+  },
+  "examSet": [
+   {
+    "type": "mcq",
+    "q": "The school ___ in 1952.",
+    "options": [
+     "were established",
+     "established",
+     "was established"
+    ],
+    "answer": 2,
+    "whyTr": "Geçmiş edilgen: was + V3.",
+    "tag": "past-simple",
+    "level": "B1"
+   },
+   {
+    "type": "mcq",
+    "q": "The windows ___ replaced last year.",
+    "options": [
+     "were",
+     "was",
+     "are"
+    ],
+    "answer": 0,
+    "whyTr": "Windows çoğul, geçmiş: were.",
+    "tag": "past-simple",
+    "level": "B1"
+   },
+   {
+    "type": "mcq",
+    "q": "When ___ the library renovated?",
+    "options": [
+     "were",
+     "was",
+     "did"
+    ],
+    "answer": 1,
+    "whyTr": "Library tekil: When was ... renovated?",
+    "tag": "question-form",
+    "level": "B1"
+   },
+   {
+    "type": "mcq",
+    "q": "Which sentence is correct?",
+    "options": [
+     "The books donated by neighbors.",
+     "The books was donated by neighbors.",
+     "The books were donated by neighbors."
+    ],
+    "answer": 2,
+    "whyTr": "Books çoğul: were donated.",
+    "tag": "past-simple",
+    "level": "B1"
+   },
+   {
+    "type": "mcq",
+    "q": "Lunch ___ in the cafeteria every day.",
+    "options": [
+     "is served",
+     "was served",
+     "serves"
+    ],
+    "answer": 0,
+    "whyTr": "'Every day' şimdiki zaman: is served.",
+    "tag": "present-simple",
+    "level": "B1"
+   },
+   {
+    "type": "mcq",
+    "q": "If you ___ the rules, you will get a warning.",
+    "options": [
+     "will break",
+     "break",
+     "broke"
+    ],
+    "answer": 1,
+    "whyTr": "1st conditional: if + present simple.",
+    "tag": "future",
+    "level": "B1"
+   },
+   {
+    "type": "mcq",
+    "q": "If I were the principal, I ___ a bigger library.",
+    "options": [
+     "will build",
+     "built",
+     "would build"
+    ],
+    "answer": 2,
+    "whyTr": "2nd conditional: would + fiil.",
+    "tag": "future",
+    "level": "B1"
+   },
+   {
+    "type": "mcq",
+    "q": "The school will ___ its 70th anniversary with a picnic.",
+    "options": [
+     "celebrate",
+     "donate",
+     "replace"
+    ],
+    "answer": 0,
+    "whyTr": "Yıldönümü kutlanır: celebrate.",
+    "tag": "vocab",
+    "level": "B1"
+   },
+   {
+    "type": "mcq",
+    "q": "Which word means almost the same as \"establish\"?",
+    "options": [
+     "close",
+     "start",
+     "expand"
+    ],
+    "answer": 1,
+    "whyTr": "Establish = kurmak, başlatmak.",
+    "tag": "synonym",
+    "level": "B1"
+   },
+   {
+    "type": "mcq",
+    "q": "What is the opposite of \"expand\"?",
+    "options": [
+     "build",
+     "donate",
+     "shrink"
+    ],
+    "answer": 2,
+    "whyTr": "Expand'in zıttı shrink (küçülmek).",
+    "tag": "antonym",
+    "level": "B1"
+   },
+   {
+    "type": "mcq",
+    "q": "A person from your own neighborhood is a ___ person.",
+    "options": [
+     "local",
+     "serious",
+     "calm"
+    ],
+    "answer": 0,
+    "whyTr": "Yerel, mahalleden = local.",
+    "tag": "vocab",
+    "level": "B1"
+   },
+   {
+    "type": "mcq",
+    "q": "The school was built by the community. The first classes were held in four rooms. Later, a gym was added.\n\nWhat was added later?",
+    "options": [
+     "A library",
+     "A gym",
+     "Four rooms"
+    ],
+    "answer": 1,
+    "whyTr": "Metin: 'Later, a gym was added.'",
+    "tag": "reading",
+    "level": "B1"
+   }
+  ]
+ }
+}

@@ -1,0 +1,948 @@
+{
+ "week": 15,
+ "day": 4,
+ "titleTr": "Sonekler: -tion, -ment, -ful, -less, -ly (okul bülteni)",
+ "theme": "school-newsletter",
+ "morning": {
+  "grammar": {
+   "topic": "Kelime türetme: sonekler -tion, -ment, -ful, -less, -ly",
+   "explainTr": [
+    "Sonek (suffix) kelimenin sonuna eklenir ve çoğu zaman kelimenin türünü değiştirir. '-tion' ve '-ment' fiilden isim yapar: celebrate → celebration, improve → improvement, achieve → achievement.",
+    "'-ful' ('dolu, sahip') ve '-less' ('olmayan, -siz') isimden sıfat yapar: care → careful / careless, help → helpful / helpless. '-ly' sıfattan zarf yapar: careful → carefully, slow → slowly.",
+    "Yazımda dikkat: 'e' ile biten fiillerde -tion için 'e' düşer (celebrate → celebration), -ly öncesi 'y' 'i' olur (easy → easily). Cümlede boşluğa hangi türün geleceğine bak: isim mi, sıfat mı, zarf mı?"
+   ],
+   "compareTr": "Türkçede 'bakım-lı, bakım-sız' ekleri -ful ve -less gibi çalışır (careful / careless). Ama Türkçedeki 'yavaş-ça' İngilizcede 'slowly' olur ve fiilin yanında, yani zarf olarak kullanılır.",
+   "table": [
+    [
+     "-tion / -ment",
+     "fiil → isim",
+     "celebrate → celebration; improve → improvement"
+    ],
+    [
+     "-ful",
+     "isim → sıfat (sahip)",
+     "help → helpful; success → successful"
+    ],
+    [
+     "-less",
+     "isim → sıfat (-siz)",
+     "care → careless; home → homeless"
+    ],
+    [
+     "-ly",
+     "sıfat → zarf",
+     "quick → quickly; careful → carefully"
+    ]
+   ],
+   "examples": [
+    {
+     "en": "The school held a celebration for its graduates.",
+     "tr": "Okul mezunları için bir kutlama düzenledi."
+    },
+    {
+     "en": "There has been a big improvement in math scores.",
+     "tr": "Matematik notlarında büyük bir gelişme oldu."
+    },
+    {
+     "en": "The volunteers were very helpful.",
+     "tr": "Gönüllüler çok yardımseverdi."
+    },
+    {
+     "en": "Please walk carefully on the wet floor.",
+     "tr": "Lütfen ıslak zeminde dikkatli yürüyün."
+    }
+   ],
+   "exercises": [
+    {
+     "type": "mcq",
+     "q": "Our school will hold a ___ for the new library.",
+     "options": [
+      "celebrate",
+      "celebrating",
+      "celebration",
+      "celebrated"
+     ],
+     "answer": 2,
+     "whyTr": "'A' ve 'for' ile isim gerekir: celebration.",
+     "tag": "word-formation",
+     "level": "B2"
+    },
+    {
+     "type": "mcq",
+     "q": "There has been a great ___ in reading scores this year.",
+     "options": [
+      "improvement",
+      "improve",
+      "improving",
+      "improved"
+     ],
+     "answer": 0,
+     "whyTr": "Great'ten sonra isim gelir: improvement.",
+     "tag": "word-formation",
+     "level": "B2"
+    },
+    {
+     "type": "mcq",
+     "q": "Ms. Carter is a very ___ teacher. She always helps students after class.",
+     "options": [
+      "helpless",
+      "helping",
+      "help",
+      "helpful"
+     ],
+     "answer": 3,
+     "whyTr": "Yardımsever: helpful; helpless = çaresiz.",
+     "tag": "word-formation",
+     "level": "B2"
+    },
+    {
+     "type": "mcq",
+     "q": "The sub was ___ and forgot to lock the door.",
+     "options": [
+      "careful",
+      "careless",
+      "carefully",
+      "care"
+     ],
+     "answer": 1,
+     "whyTr": "Kapıyı kilitlemeyi unuttu: careless (dikkatsiz).",
+     "tag": "word-formation",
+     "level": "B2"
+    },
+    {
+     "type": "order",
+     "promptTr": "Cümleyi sırala:",
+     "words": [
+      "carefully.",
+      "Please",
+      "read",
+      "instructions",
+      "the"
+     ],
+     "answer": "Please read the instructions carefully.",
+     "whyTr": "Zarf (carefully) fiil ve nesneden sonra gelir.",
+     "tag": "word-formation",
+     "level": "B2"
+    },
+    {
+     "type": "mcq",
+     "q": "She answered every question ___.",
+     "options": [
+      "polite",
+      "politely",
+      "politeness",
+      "politer"
+     ],
+     "answer": 1,
+     "whyTr": "Fiili tanımlayan zarf gerekir: politely.",
+     "tag": "word-formation",
+     "level": "B2"
+    },
+    {
+     "type": "mcq",
+     "q": "The ___ of new students begins on Monday.",
+     "options": [
+      "enroll",
+      "enrolled",
+      "enrolling",
+      "enrollment"
+     ],
+     "answer": 3,
+     "whyTr": "The'dan sonra isim: enrollment.",
+     "tag": "word-formation",
+     "level": "B2"
+    },
+    {
+     "type": "order",
+     "promptTr": "Cümleyi sırala:",
+     "words": [
+      "for",
+      "parents",
+      "The",
+      "their",
+      "thanked",
+      "donation.",
+      "school",
+      "the"
+     ],
+     "answer": "The school thanked the parents for their donation.",
+     "whyTr": "Donation = bağış (isim), 'their' ardından gelir.",
+     "tag": "word-formation",
+     "level": "B2"
+    },
+    {
+     "type": "mcq",
+     "q": "The weather was bad, ___ the field trip was cancelled.",
+     "options": [
+      "so",
+      "although",
+      "whereas",
+      "however"
+     ],
+     "answer": 0,
+     "whyTr": "Sonuç bildirir: so.",
+     "tag": "linkers",
+     "level": "B2"
+    },
+    {
+     "type": "mcq",
+     "q": "A teacher ___ for forty minutes when the bell rang.",
+     "options": [
+      "has been talking",
+      "was talk",
+      "had been talking",
+      "had talk"
+     ],
+     "answer": 2,
+     "whyTr": "Zil çalmadan önce süren eylem: past perfect continuous (had been talking).",
+     "tag": "past-perfect",
+     "level": "B2"
+    },
+    {
+     "type": "fill",
+     "q": "The new rules are very ___. Everyone understands them. (use / -ful)",
+     "accept": [
+      "useful",
+      "helpful"
+     ],
+     "hintTr": "faydalı",
+     "whyTr": "İsimden sıfat yapan -ful eki: useful, helpful.",
+     "tag": "word-formation",
+     "level": "B2"
+    },
+    {
+     "type": "fill",
+     "q": "She waited ___ for the results. (eager + -ly)",
+     "accept": [
+      "eagerly"
+     ],
+     "hintTr": "hevesle",
+     "whyTr": "Sıfattan zarf: eager → eagerly.",
+     "tag": "word-formation",
+     "level": "B2"
+    }
+   ]
+  },
+  "vocab": [
+   {
+    "id": "improvement",
+    "en": "improvement",
+    "tr": "gelişme, iyileşme",
+    "pos": "noun",
+    "example": "The teacher noticed a big improvement in his writing.",
+    "exampleTr": "Öğretmen yazısındaki büyük gelişmeyi fark etti.",
+    "syn": [
+     "progress"
+    ],
+    "ant": [
+     "decline"
+    ],
+    "level": "B2"
+   },
+   {
+    "id": "enrollment",
+    "en": "enrollment",
+    "tr": "kayıt, kayıtlı öğrenci sayısı",
+    "pos": "noun",
+    "example": "Enrollment opens in August.",
+    "exampleTr": "Kayıtlar Ağustos'ta açılıyor.",
+    "syn": [
+     "registration"
+    ],
+    "ant": [],
+    "level": "B2"
+   },
+   {
+    "id": "achievement",
+    "en": "achievement",
+    "tr": "başarı, kazanım",
+    "pos": "noun",
+    "example": "Graduating was a great achievement for her.",
+    "exampleTr": "Mezun olmak onun için büyük bir başarıydı.",
+    "syn": [
+     "accomplishment"
+    ],
+    "ant": [
+     "failure"
+    ],
+    "level": "B2"
+   },
+   {
+    "id": "donation",
+    "en": "donation",
+    "tr": "bağış",
+    "pos": "noun",
+    "example": "Thanks to your donation, we bought new books.",
+    "exampleTr": "Bağışınız sayesinde yeni kitaplar aldık.",
+    "syn": [
+     "gift"
+    ],
+    "ant": [],
+    "level": "B2"
+   },
+   {
+    "id": "celebration",
+    "en": "celebration",
+    "tr": "kutlama",
+    "pos": "noun",
+    "example": "The class planned a celebration for the last day.",
+    "exampleTr": "Sınıf son gün için bir kutlama planladı.",
+    "syn": [
+     "party"
+    ],
+    "ant": [],
+    "level": "B2"
+   },
+   {
+    "id": "participation",
+    "en": "participation",
+    "tr": "katılım",
+    "pos": "noun",
+    "example": "Class participation counts for ten percent of the grade.",
+    "exampleTr": "Derse katılım notun yüzde onunu oluşturuyor.",
+    "syn": [
+     "involvement"
+    ],
+    "ant": [],
+    "level": "B2"
+   },
+   {
+    "id": "successful",
+    "en": "successful",
+    "tr": "başarılı",
+    "pos": "adjective",
+    "example": "The book fair was very successful.",
+    "exampleTr": "Kitap fuarı çok başarılıydı.",
+    "syn": [
+     "prosperous"
+    ],
+    "ant": [
+     "unsuccessful"
+    ],
+    "level": "B2"
+   },
+   {
+    "id": "thankful",
+    "en": "thankful",
+    "tr": "müteşekkir, minnettar",
+    "pos": "adjective",
+    "example": "We are thankful for your support.",
+    "exampleTr": "Desteğiniz için müteşekkiriz.",
+    "syn": [
+     "grateful"
+    ],
+    "ant": [
+     "ungrateful"
+    ],
+    "level": "B2"
+   },
+   {
+    "id": "hopeful",
+    "en": "hopeful",
+    "tr": "umutlu",
+    "pos": "adjective",
+    "example": "The students are hopeful about the new program.",
+    "exampleTr": "Öğrenciler yeni program konusunda umutlu.",
+    "syn": [
+     "optimistic"
+    ],
+    "ant": [
+     "hopeless"
+    ],
+    "level": "B2"
+   },
+   {
+    "id": "fearless",
+    "en": "fearless",
+    "tr": "korkusuz",
+    "pos": "adjective",
+    "example": "The fearless student asked the principal a tough question.",
+    "exampleTr": "Korkusuz öğrenci müdüre zor bir soru sordu.",
+    "syn": [
+     "brave"
+    ],
+    "ant": [
+     "fearful"
+    ],
+    "level": "B2"
+   },
+   {
+    "id": "priceless",
+    "en": "priceless",
+    "tr": "paha biçilmez",
+    "pos": "adjective",
+    "example": "The volunteers' time is priceless.",
+    "exampleTr": "Gönüllülerin zamanı paha biçilmez.",
+    "syn": [
+     "invaluable"
+    ],
+    "ant": [
+     "worthless"
+    ],
+    "level": "B2"
+   },
+   {
+    "id": "harmless",
+    "en": "harmless",
+    "tr": "zararsız",
+    "pos": "adjective",
+    "example": "The experiment is completely harmless.",
+    "exampleTr": "Deney tamamen zararsız.",
+    "syn": [
+     "safe"
+    ],
+    "ant": [
+     "harmful"
+    ],
+    "level": "B2"
+   },
+   {
+    "id": "eagerly",
+    "en": "eagerly",
+    "tr": "hevesle, sabırsızlıkla",
+    "pos": "adverb",
+    "example": "The children eagerly opened their books.",
+    "exampleTr": "Çocuklar hevesle kitaplarını açtı.",
+    "syn": [
+     "enthusiastically"
+    ],
+    "ant": [
+     "reluctantly"
+    ],
+    "level": "B2"
+   },
+   {
+    "id": "gradually",
+    "en": "gradually",
+    "tr": "yavaş yavaş, kademeli olarak",
+    "pos": "adverb",
+    "example": "The school gradually returned to normal.",
+    "exampleTr": "Okul yavaş yavaş normale döndü.",
+    "syn": [
+     "slowly"
+    ],
+    "ant": [
+     "suddenly"
+    ],
+    "level": "B2"
+   },
+   {
+    "id": "warmly",
+    "en": "warmly",
+    "tr": "sıcak bir şekilde",
+    "pos": "adverb",
+    "example": "The principal warmly welcomed the new families.",
+    "exampleTr": "Müdür yeni aileleri sıcak bir şekilde karşıladı.",
+    "syn": [
+     "kindly"
+    ],
+    "ant": [
+     "coldly"
+    ],
+    "level": "B2"
+   }
+  ],
+  "reading": {
+   "title": "Maple Grove Elementary newsletter",
+   "text": "MAPLE GROVE ELEMENTARY NEWSLETTER - May Edition\n\nA Message from the Principal\n\nDear families, this has been a year of real achievement. Our enrollment has grown by twelve percent, and test scores in reading show a steady improvement. We are grateful to every parent, teacher, and volunteer who made this progress possible. Your participation, whether at a meeting or in the hallway, truly matters.\n\nSpring Celebration\n\nPlease join us on Friday, May 17, for our annual Spring Celebration on the playground. There will be games, music, and a bake sale. Students will perform songs they have practiced all month. Families are welcome to bring a blanket and enjoy the afternoon. If it rains, the event will move to the gym, so please check your email that morning.\n\nThank You, Donors\n\nLast month's book drive was extremely successful. Because of your donations, the library received over four hundred new books. One generous family also donated a set of colorful beanbag chairs. The librarian said gratefully, \"The children eagerly asked for the new stories on the very first day.\"\n\nVolunteer Spotlight\n\nThis month we would like to thank Ms. Hafsa Yilmaz, who has helped in Mrs. Carter's second-grade class every Tuesday. She reads with small groups and patiently explains new words. \"She is always cheerful and helpful,\" says Mrs. Carter. \"The students warmly welcomed her from the first day, and their reading has gradually become stronger.\" Volunteers like Ms. Yilmaz are priceless, and we are always looking for more help.\n\nSafety Reminder\n\nPlease remind your children to walk carefully in the hallways, especially after rain. Careless running leads to many small accidents. Our nurse also asks families to send a note when a child misses school for illness.\n\nImportant Dates\n\nMay 17: Spring Celebration. May 24: Early dismissal at noon. May 27: No school (Memorial Day). June 7: Last day of school.",
+   "glossary": [
+    {
+     "en": "newsletter",
+     "tr": "bülten"
+    },
+    {
+     "en": "bake sale",
+     "tr": "kek/pasta satışı (bağış toplama)"
+    },
+    {
+     "en": "book drive",
+     "tr": "kitap toplama kampanyası"
+    },
+    {
+     "en": "spotlight",
+     "tr": "öne çıkarma"
+    },
+    {
+     "en": "early dismissal",
+     "tr": "erken çıkış"
+    },
+    {
+     "en": "patiently",
+     "tr": "sabırla"
+    }
+   ],
+   "questions": [
+    {
+     "type": "mcq",
+     "q": "What has increased at Maple Grove Elementary?",
+     "options": [
+      "The number of teachers",
+      "The price of lunch",
+      "The size of the playground",
+      "The number of enrolled students"
+     ],
+     "answer": 3,
+     "whyTr": "Metin: 'Our enrollment has grown by twelve percent'.",
+     "tag": "reading",
+     "level": "B2"
+    },
+    {
+     "type": "mcq",
+     "q": "Where will the Spring Celebration take place if it rains?",
+     "options": [
+      "In the library",
+      "In the gym",
+      "In the cafeteria",
+      "At the park"
+     ],
+     "answer": 1,
+     "whyTr": "Metin: 'If it rains, the event will move to the gym'.",
+     "tag": "reading",
+     "level": "B2"
+    },
+    {
+     "type": "mcq",
+     "q": "What did Hafsa Yilmaz do as a volunteer?",
+     "options": [
+      "She sold books at the bake sale.",
+      "She cleaned the playground.",
+      "She read with small groups of students.",
+      "She taught fifth grade."
+     ],
+     "answer": 2,
+     "whyTr": "Metin: 'She reads with small groups'.",
+     "tag": "reading",
+     "level": "B2"
+    },
+    {
+     "type": "mcq",
+     "q": "What does the newsletter ask families to do for safety?",
+     "options": [
+      "Remind children to walk carefully",
+      "Keep children home in the rain",
+      "Drive more slowly",
+      "Buy raincoats"
+     ],
+     "answer": 0,
+     "whyTr": "Metin: 'remind your children to walk carefully in the hallways'.",
+     "tag": "reading",
+     "level": "B2"
+    }
+   ]
+  }
+ },
+ "evening": {
+  "listening": {
+   "title": "Planning the newsletter",
+   "script": [
+    {
+     "speaker": "Mr. Brown",
+     "text": "Hafsa, thank you for helping with the newsletter. We have two articles to finish today."
+    },
+    {
+     "speaker": "Hafsa",
+     "text": "Happy to help. What is the first one?"
+    },
+    {
+     "speaker": "Mr. Brown",
+     "text": "It is about the book drive. We want to thank families for their donations."
+    },
+    {
+     "speaker": "Hafsa",
+     "text": "I can write, 'Your generosity has been priceless.' Is that too strong?"
+    },
+    {
+     "speaker": "Mr. Brown",
+     "text": "Not at all. Parents love warm language. Just keep the sentences short."
+    },
+    {
+     "speaker": "Hafsa",
+     "text": "Understood. And the second article?"
+    },
+    {
+     "speaker": "Mr. Brown",
+     "text": "A safety reminder. Children need to walk carefully in the halls after rain."
+    },
+    {
+     "speaker": "Hafsa",
+     "text": "I noticed that yesterday. A boy slipped, but he was fine."
+    },
+    {
+     "speaker": "Mr. Brown",
+     "text": "That is why we need the reminder. Careless running causes most accidents."
+    },
+    {
+     "speaker": "Hafsa",
+     "text": "Should I mention the nurse's contact information?"
+    },
+    {
+     "speaker": "Mr. Brown",
+     "text": "Yes, please. And add the dates for the Spring Celebration."
+    },
+    {
+     "speaker": "Hafsa",
+     "text": "Of course. I will bring both drafts to you by three o'clock."
+    }
+   ],
+   "questions": [
+    {
+     "type": "mcq",
+     "q": "What is the first article about?",
+     "options": [
+      "The book drive",
+      "A field trip",
+      "A school lunch",
+      "The spring dance"
+     ],
+     "answer": 0,
+     "whyTr": "Mr. Brown: 'It is about the book drive.'",
+     "tag": "listening",
+     "level": "B2"
+    },
+    {
+     "type": "mcq",
+     "q": "What does Mr. Brown say about the language?",
+     "options": [
+      "It should be very formal.",
+      "It should be funny.",
+      "Parents love warm language.",
+      "It should be long."
+     ],
+     "answer": 2,
+     "whyTr": "Mr. Brown: 'Parents love warm language.'",
+     "tag": "listening",
+     "level": "B2"
+    },
+    {
+     "type": "mcq",
+     "q": "Why does the school need a safety reminder?",
+     "options": [
+      "The playground is closed.",
+      "Careless running causes accidents.",
+      "There is a new nurse.",
+      "Students arrive late."
+     ],
+     "answer": 1,
+     "whyTr": "Mr. Brown: 'Careless running causes most accidents.'",
+     "tag": "listening",
+     "level": "B2"
+    },
+    {
+     "type": "mcq",
+     "q": "When will Hafsa bring the drafts?",
+     "options": [
+      "Tomorrow morning",
+      "At noon",
+      "On Friday",
+      "By three o'clock"
+     ],
+     "answer": 3,
+     "whyTr": "Hafsa: 'by three o'clock'.",
+     "tag": "listening",
+     "level": "B2"
+    }
+   ]
+  },
+  "writing": {
+   "promptTr": "Okul bülteni için 'Gönüllüye teşekkür' veya 'Okuma günü' hakkında kısa bir yazı hazırla (120-180 kelime). En az dört sonekli kelime kullan (-tion, -ment, -ful, -less, -ly).",
+   "promptEn": "Write a short article (120-180 words) for a school newsletter about a recent school event or a thank-you to volunteers. Use at least four words with the suffixes -tion, -ment, -ful, -less or -ly.",
+   "frames": [
+    "We are grateful to ...",
+    "Thanks to your donation, ...",
+    "The event was very successful because ...",
+    "Please remember to ... carefully.",
+    "We warmly invite you to ..."
+   ],
+   "model": "Last Friday, our school held its annual Reading Celebration, and it was a great success. Students came to school in costumes of their favorite book characters, and the hallways were full of color and laughter. We are especially grateful to the parent volunteers who read stories to the youngest children. Their patient and cheerful help was priceless. Thanks to your generous donations, the library received more than two hundred new books. The children eagerly chose their favorites during the afternoon book fair. We have also noticed a clear improvement in reading scores since the start of the year, which shows how important family participation is. Please remember to read with your child for fifteen minutes every evening. Our next event will be held in June, and we warmly invite everyone to join us. Thank you for your continued support of our school.",
+   "checklistTr": [
+    "En az dört sonekli kelime kullandın mı (celebration, grateful, carefully, improvement...)?",
+    "Sonekleri doğru türde kullandın mı (isim, sıfat, zarf)?",
+    "Bülten gibi sıcak ve kısa cümlelerle mi yazdın?",
+    "Başlık, tarih ya da davet cümlesi ekledin mi?"
+   ],
+   "minWords": 120
+  },
+  "examSet": [
+   {
+    "type": "mcq",
+    "q": "The school sent a letter of ___ to the volunteers.",
+    "options": [
+     "appreciate",
+     "appreciative",
+     "appreciation",
+     "appreciatively"
+    ],
+    "answer": 2,
+    "whyTr": "'A letter of' sonrası isim: appreciation.",
+    "tag": "word-formation",
+    "level": "B2"
+   },
+   {
+    "type": "mcq",
+    "q": "The student worked ___ and finished early.",
+    "options": [
+     "quickly",
+     "quick",
+     "quickness",
+     "quicker"
+    ],
+    "answer": 0,
+    "whyTr": "Fiili tanımlayan zarf: quickly.",
+    "tag": "word-formation",
+    "level": "B2"
+   },
+   {
+    "type": "mcq",
+    "q": "The nurse was very ___ when my son hurt his arm.",
+    "options": [
+     "kindly",
+     "kindness",
+     "kinder",
+     "kind"
+    ],
+    "answer": 3,
+    "whyTr": "'Was' sonrası sıfat gelir: kind.",
+    "tag": "word-formation",
+    "level": "B2"
+   },
+   {
+    "type": "mcq",
+    "q": "The ___ of the new building is expected in June.",
+    "options": [
+     "complete",
+     "completion",
+     "completely",
+     "completed"
+    ],
+    "answer": 1,
+    "whyTr": "Isim gerekli: completion.",
+    "tag": "word-formation",
+    "level": "B2"
+   },
+   {
+    "type": "mcq",
+    "q": "His ___ mistakes cost him the first place. (care + -less)",
+    "options": [
+     "careful",
+     "careless",
+     "carefully",
+     "carelessly"
+    ],
+    "answer": 1,
+    "whyTr": "Mistakes'i tanımlayan sıfat: careless.",
+    "tag": "word-formation",
+    "level": "B2"
+   },
+   {
+    "type": "mcq",
+    "q": "Which word is an adverb?",
+    "options": [
+     "gradual",
+     "graduate",
+     "graduation",
+     "gradually"
+    ],
+    "answer": 3,
+    "whyTr": "-ly ile biten zarf: gradually.",
+    "tag": "word-formation",
+    "level": "B2"
+   },
+   {
+    "type": "mcq",
+    "q": "Which word is a noun?",
+    "options": [
+     "achievement",
+     "achieve",
+     "achievable",
+     "achieved"
+    ],
+    "answer": 0,
+    "whyTr": "-ment ile biten isim: achievement.",
+    "tag": "word-formation",
+    "level": "B2"
+   },
+   {
+    "type": "mcq",
+    "q": "The children, ___ parents work at the school, got free tickets.",
+    "options": [
+     "who",
+     "which",
+     "whose",
+     "whom"
+    ],
+    "answer": 2,
+    "whyTr": "İyelik ilgi zamiri: whose.",
+    "tag": "relative-clauses",
+    "level": "B2"
+   },
+   {
+    "type": "mcq",
+    "q": "The event was great. ___, some parents thought it was too noisy.",
+    "options": [
+     "Moreover",
+     "Therefore",
+     "Whereas",
+     "However"
+    ],
+    "answer": 3,
+    "whyTr": "Tezat: However.",
+    "tag": "linkers",
+    "level": "B2"
+   },
+   {
+    "type": "mcq",
+    "q": "By next June, Emre ___ his studies.",
+    "options": [
+     "will finish",
+     "will have finished",
+     "has finished",
+     "finished"
+    ],
+    "answer": 1,
+    "whyTr": "Gelecekteki bir noktaya kadar tamamlanmış eylem: future perfect (will have finished).",
+    "tag": "future",
+    "level": "B2"
+   },
+   {
+    "type": "mcq",
+    "q": "We are ___ for all your help with the book fair.",
+    "options": [
+     "fearless",
+     "harmless",
+     "thankful",
+     "hopeless"
+    ],
+    "answer": 2,
+    "whyTr": "Minnettar olmak: thankful for.",
+    "tag": "vocab",
+    "level": "B2"
+   },
+   {
+    "type": "mcq",
+    "q": "The ___ of new students begins in August.",
+    "options": [
+     "enrollment",
+     "donation",
+     "celebration",
+     "achievement"
+    ],
+    "answer": 0,
+    "whyTr": "Yeni öğrencilerin kaydı: enrollment.",
+    "tag": "vocab",
+    "level": "B2"
+   },
+   {
+    "type": "mcq",
+    "q": "The library's old books are ___ to the community, so please do not throw them away.",
+    "options": [
+     "priceless",
+     "harmless",
+     "careless",
+     "worthless"
+    ],
+    "answer": 0,
+    "whyTr": "Paha biçilmez: priceless.",
+    "tag": "vocab",
+    "level": "B2"
+   },
+   {
+    "type": "mcq",
+    "q": "Which word means almost the same as \"achievement\"?",
+    "options": [
+     "failure",
+     "mistake",
+     "accomplishment",
+     "problem"
+    ],
+    "answer": 2,
+    "whyTr": "Achievement = accomplishment.",
+    "tag": "synonym",
+    "level": "B2"
+   },
+   {
+    "type": "mcq",
+    "q": "What is the opposite of \"harmless\"?",
+    "options": [
+     "helpful",
+     "harmful",
+     "careful",
+     "hopeful"
+    ],
+    "answer": 1,
+    "whyTr": "Harmless'ın zıttı harmful.",
+    "tag": "antonym",
+    "level": "B2"
+   },
+   {
+    "type": "mcq",
+    "q": "Which word means almost the same as \"gradually\"?",
+    "options": [
+     "suddenly",
+     "quickly",
+     "finally",
+     "slowly"
+    ],
+    "answer": 3,
+    "whyTr": "Gradually = slowly (yavaş yavaş).",
+    "tag": "synonym",
+    "level": "B2"
+   },
+   {
+    "type": "mcq",
+    "q": "What is the opposite of \"successful\"?",
+    "options": [
+     "helpful",
+     "grateful",
+     "unsuccessful",
+     "careful"
+    ],
+    "answer": 2,
+    "whyTr": "Successful'ın zıttı unsuccessful.",
+    "tag": "antonym",
+    "level": "B2"
+   },
+   {
+    "type": "mcq",
+    "q": "Our book drive was successful. Families gave generous donations, and the library gradually filled with new books.\n\nWhat happened to the library?",
+    "options": [
+     "It slowly got more books.",
+     "It closed.",
+     "It lost its books.",
+     "It moved to a new building."
+    ],
+    "answer": 0,
+    "whyTr": "Gradually = yavaş yavaş.",
+    "tag": "reading",
+    "level": "B2"
+   },
+   {
+    "type": "mcq",
+    "q": "Mr. Lee was careless with the keys, so he lost them twice.\n\nWhat does 'careless' mean here?",
+    "options": [
+     "Very kind",
+     "Very strong",
+     "Always late",
+     "Not paying attention"
+    ],
+    "answer": 3,
+    "whyTr": "Careless = dikkatsiz.",
+    "tag": "reading",
+    "level": "B2"
+   },
+   {
+    "type": "mcq",
+    "q": "The principal warmly thanked the volunteers for their helpful work.\n\nHow did the principal thank them?",
+    "options": [
+     "Angrily",
+     "In a friendly way",
+     "Quietly in a hurry",
+     "With a gift card"
+    ],
+    "answer": 1,
+    "whyTr": "Warmly = sıcak, samimi şekilde.",
+    "tag": "reading",
+    "level": "B2"
+   }
+  ]
+ }
+}

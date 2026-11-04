@@ -1,0 +1,772 @@
+{
+ "week": 2,
+ "day": 3,
+ "titleTr": "İş arkadaşlarını tanımak: Soru sorma",
+ "theme": "daily-life",
+ "morning": {
+  "grammar": {
+   "topic": "Present Simple soru: Do / Does ve kısa cevaplar",
+   "explainTr": [
+    "Present Simple'da soru yapmak için cümlenin başına Do veya Does koyarsın. I, you, we, they ile Do gelir: Do you work here? He, she, it ile Does gelir: Does she work here?",
+    "Does geldikten sonra fiil yalın kalır, -s yine eklenmez: Does she speak Spanish? (Does she speaks değil.)",
+    "Kısa cevap verirken yardımcı fiili tekrar edersin: Yes, I do. / No, I don't. Yes, she does. / No, she doesn't. Wh- sorularında (where, what, when) Do/Does bu kelimelerden sonra gelir: Where does he live?"
+   ],
+   "compareTr": "Türkçede soru için 'mi' eki yeter (çalışıyor musun?). İngilizcede cümlenin başına Do/Does gelir ve ikinci fiil yalın kalır. 'Evet/hayır' yerine yardımcı fiille cevap verilir.",
+   "table": [
+    [
+     "I / you / we / they",
+     "Do + özne + fiil?",
+     "Do you work here?"
+    ],
+    [
+     "he / she / it",
+     "Does + özne + fiil?",
+     "Does she work here?"
+    ],
+    [
+     "Kısa cevap (+)",
+     "Yes, ... do/does.",
+     "Yes, I do. Yes, he does."
+    ],
+    [
+     "Kısa cevap (-)",
+     "No, ... don't/doesn't.",
+     "No, I don't. No, he doesn't."
+    ]
+   ],
+   "examples": [
+    {
+     "en": "Do you live near the school?",
+     "tr": "Okulun yakınında mı yaşıyorsun?"
+    },
+    {
+     "en": "Does your son like his teacher?",
+     "tr": "Oğlun öğretmenini seviyor mu?"
+    },
+    {
+     "en": "Yes, he does.",
+     "tr": "Evet, seviyor."
+    },
+    {
+     "en": "No, I don't.",
+     "tr": "Hayır, sevmem."
+    },
+    {
+     "en": "Where does Linda work?",
+     "tr": "Linda nerede çalışıyor?"
+    }
+   ],
+   "exercises": [
+    {
+     "type": "mcq",
+     "q": "___ you work on weekends?",
+     "options": [
+      "Do",
+      "Does",
+      "Are"
+     ],
+     "answer": 0,
+     "whyTr": "You ile soru başına 'Do' gelir.",
+     "tag": "question-form",
+     "level": "A2"
+    },
+    {
+     "type": "mcq",
+     "q": "___ she speak Spanish?",
+     "options": [
+      "Do",
+      "Does",
+      "Is"
+     ],
+     "answer": 1,
+     "whyTr": "She ile soru başına 'Does' gelir.",
+     "tag": "question-form",
+     "level": "A2"
+    },
+    {
+     "type": "mcq",
+     "q": "Does Emre like his new school? \"Yes, he ___.\"",
+     "options": [
+      "do",
+      "likes",
+      "does"
+     ],
+     "answer": 2,
+     "whyTr": "Kısa cevapta yardımcı fiil tekrarlanır: Yes, he does.",
+     "tag": "question-form",
+     "level": "A2"
+    },
+    {
+     "type": "mcq",
+     "q": "Do they work here? \"No, they ___.\"",
+     "options": [
+      "don't",
+      "doesn't",
+      "aren't"
+     ],
+     "answer": 0,
+     "whyTr": "They ile kısa olumsuz cevap: No, they don't.",
+     "tag": "question-form",
+     "level": "A2"
+    },
+    {
+     "type": "order",
+     "promptTr": "Cümleyi sırala:",
+     "words": [
+      "Do",
+      "you",
+      "coffee",
+      "drink",
+      "?"
+     ],
+     "answer": "Do you drink coffee ?",
+     "whyTr": "Soru sırası: Do + özne + fiil + gerisi.",
+     "tag": "question-form",
+     "level": "A2"
+    },
+    {
+     "type": "mcq",
+     "q": "Does he ___ at the school office?",
+     "options": [
+      "works",
+      "work",
+      "working"
+     ],
+     "answer": 1,
+     "whyTr": "Does'tan sonra fiil yalın gelir: work.",
+     "tag": "question-form",
+     "level": "A2"
+    },
+    {
+     "type": "order",
+     "promptTr": "Cümleyi sırala:",
+     "words": [
+      "Does",
+      "Linda",
+      "in",
+      "live",
+      "Texas",
+      "?"
+     ],
+     "answer": "Does Linda live in Texas ?",
+     "whyTr": "Does + özne + yalın fiil: Does Linda live...?",
+     "tag": "question-form",
+     "level": "A2"
+    },
+    {
+     "type": "mcq",
+     "q": "Which question is correct?",
+     "options": [
+      "Do your boss start early?",
+      "Does your boss starts early?",
+      "Does your boss start early?"
+     ],
+     "answer": 2,
+     "whyTr": "Boss = he/she; 'Does' + yalın fiil.",
+     "tag": "question-form",
+     "level": "A2"
+    },
+    {
+     "type": "mcq",
+     "q": "Where ___ your coworker live?",
+     "options": [
+      "do",
+      "does",
+      "is"
+     ],
+     "answer": 1,
+     "whyTr": "Wh- sorusunda da yardımcı fiil: Where does she live?",
+     "tag": "question-form",
+     "level": "A2"
+    },
+    {
+     "type": "mcq",
+     "q": "What time ___ the meeting start?",
+     "options": [
+      "do",
+      "does",
+      "is"
+     ],
+     "answer": 1,
+     "whyTr": "The meeting = it; What time does it start?",
+     "tag": "question-form",
+     "level": "A2"
+    },
+    {
+     "type": "mcq",
+     "q": "\"Do you have a break at ten?\" \"Yes, ___.\"",
+     "options": [
+      "I have",
+      "I does",
+      "I do"
+     ],
+     "answer": 2,
+     "whyTr": "Kısa cevap: Yes, I do.",
+     "tag": "question-form",
+     "level": "A2"
+    },
+    {
+     "type": "fill",
+     "q": "___ your manager wear a uniform?",
+     "accept": [
+      "does",
+      "Does"
+     ],
+     "hintTr": "he/she/it için soru yardımcısı",
+     "whyTr": "Manager tekil; 'Does' kullanılır.",
+     "tag": "question-form",
+     "level": "A2"
+    }
+   ]
+  },
+  "vocab": [
+   {
+    "id": "coworker",
+    "en": "coworker",
+    "tr": "iş arkadaşı",
+    "pos": "noun",
+    "example": "My coworker brings lunch every day.",
+    "exampleTr": "İş arkadaşım her gün öğle yemeği getiriyor.",
+    "syn": [
+     "colleague"
+    ],
+    "ant": [],
+    "level": "A1"
+   },
+   {
+    "id": "colleague",
+    "en": "colleague",
+    "tr": "meslektaş",
+    "pos": "noun",
+    "example": "Ms. Carter is my colleague at school.",
+    "exampleTr": "Bayan Carter okuldaki meslektaşım.",
+    "syn": [
+     "coworker"
+    ],
+    "ant": [],
+    "level": "A1"
+   },
+   {
+    "id": "team",
+    "en": "team",
+    "tr": "ekip",
+    "pos": "noun",
+    "example": "Our team has six people.",
+    "exampleTr": "Ekibimizde altı kişi var.",
+    "syn": [],
+    "ant": [],
+    "level": "A1"
+   },
+   {
+    "id": "introduce",
+    "en": "introduce",
+    "tr": "tanıştırmak; tanıtmak",
+    "pos": "verb",
+    "example": "Mr. Brown introduces Hafsa to the staff.",
+    "exampleTr": "Mr. Brown Hafsa'yı personelle tanıştırıyor.",
+    "syn": [],
+    "ant": [],
+    "level": "A1"
+   },
+   {
+    "id": "meet",
+    "en": "meet",
+    "tr": "tanışmak; buluşmak",
+    "pos": "verb",
+    "example": "We meet in the teachers' room at noon.",
+    "exampleTr": "Öğle vakti öğretmenler odasında buluşuruz.",
+    "syn": [],
+    "ant": [],
+    "level": "A1"
+   },
+   {
+    "id": "ask",
+    "en": "ask",
+    "tr": "sormak; rica etmek",
+    "pos": "verb",
+    "example": "Hafsa asks a question about the schedule.",
+    "exampleTr": "Hafsa programla ilgili bir soru soruyor.",
+    "syn": [],
+    "ant": [
+     "answer"
+    ],
+    "level": "A1"
+   },
+   {
+    "id": "answer",
+    "en": "answer",
+    "tr": "cevap vermek; cevap",
+    "pos": "verb",
+    "example": "Please answer the phone.",
+    "exampleTr": "Lütfen telefona cevap verin.",
+    "syn": [
+     "reply"
+    ],
+    "ant": [
+     "ask"
+    ],
+    "level": "A1"
+   },
+   {
+    "id": "share",
+    "en": "share",
+    "tr": "paylaşmak",
+    "pos": "verb",
+    "example": "We share a desk.",
+    "exampleTr": "Bir sırayı paylaşıyoruz.",
+    "syn": [],
+    "ant": [],
+    "level": "A1"
+   },
+   {
+    "id": "talk",
+    "en": "talk",
+    "tr": "konuşmak",
+    "pos": "verb",
+    "example": "My coworkers talk about food a lot.",
+    "exampleTr": "İş arkadaşlarım çok yemekten konuşur.",
+    "syn": [
+     "speak"
+    ],
+    "ant": [],
+    "level": "A1"
+   },
+   {
+    "id": "language",
+    "en": "language",
+    "tr": "dil",
+    "pos": "noun",
+    "example": "Do you speak another language?",
+    "exampleTr": "Başka bir dil konuşuyor musun?",
+    "syn": [],
+    "ant": [],
+    "level": "A1"
+   },
+   {
+    "id": "hobby",
+    "en": "hobby",
+    "tr": "hobi",
+    "pos": "noun",
+    "example": "Her hobby is gardening.",
+    "exampleTr": "Hobisi bahçıvanlık.",
+    "syn": [],
+    "ant": [],
+    "level": "A1"
+   },
+   {
+    "id": "favorite",
+    "en": "favorite",
+    "tr": "en sevilen",
+    "pos": "adjective",
+    "example": "What is your favorite food?",
+    "exampleTr": "En sevdiğin yemek nedir?",
+    "syn": [],
+    "ant": [],
+    "level": "A1"
+   },
+   {
+    "id": "nice",
+    "en": "nice",
+    "tr": "hoş, iyi",
+    "pos": "adjective",
+    "example": "My new coworkers are nice.",
+    "exampleTr": "Yeni iş arkadaşlarım hoş insanlar.",
+    "syn": [
+     "kind"
+    ],
+    "ant": [],
+    "level": "A1"
+   },
+   {
+    "id": "kind",
+    "en": "kind",
+    "tr": "nazik, iyi kalpli",
+    "pos": "adjective",
+    "example": "The principal is kind to everyone.",
+    "exampleTr": "Müdür herkese karşı nazik.",
+    "syn": [
+     "nice"
+    ],
+    "ant": [],
+    "level": "A1"
+   },
+   {
+    "id": "shy",
+    "en": "shy",
+    "tr": "utangaç",
+    "pos": "adjective",
+    "example": "Emre is shy at a new school.",
+    "exampleTr": "Emre yeni bir okulda utangaç.",
+    "syn": [],
+    "ant": [
+     "outgoing"
+    ],
+    "level": "A1"
+   }
+  ],
+  "reading": {
+   "title": "Hafsa's first day at the cafeteria",
+   "text": "It is Hafsa's first day at the school cafeteria. Mr. Brown introduces her to the team. There are four people: Ms. Davis, the manager, and three coworkers, Rosa, Ben and Kim.\n\nAt the break, Rosa asks Hafsa a lot of questions. \"Do you live near the school? Does your son go here?\" Hafsa answers, \"Yes, I do. Yes, he does.\" Ben asks, \"Do you speak Spanish?\" Hafsa laughs. \"No, I don't. I speak Turkish.\" Kim asks, \"Does Turkish food use a lot of rice?\" \"Yes, it does,\" says Hafsa.\n\nHafsa is a little shy, but her coworkers are nice. Ben has a hobby: he plays guitar. Rosa shares her favorite cookies with everyone. At the end of the day, Hafsa thinks, \"Do I like my new job? Yes, I do!\"",
+   "glossary": [
+    {
+     "en": "cafeteria",
+     "tr": "yemekhane"
+    },
+    {
+     "en": "rice",
+     "tr": "pirinç, pilav"
+    },
+    {
+     "en": "guitar",
+     "tr": "gitar"
+    },
+    {
+     "en": "a little",
+     "tr": "biraz"
+    }
+   ],
+   "questions": [
+    {
+     "type": "mcq",
+     "q": "Who is the manager?",
+     "options": [
+      "Ms. Davis",
+      "Rosa",
+      "Kim"
+     ],
+     "answer": 0,
+     "whyTr": "Metin: 'Ms. Davis, the manager'.",
+     "tag": "reading",
+     "level": "A2"
+    },
+    {
+     "type": "mcq",
+     "q": "Does Hafsa speak Spanish?",
+     "options": [
+      "Yes, she does.",
+      "No, she doesn't.",
+      "Yes, she can."
+     ],
+     "answer": 1,
+     "whyTr": "Metin: 'No, I don't. I speak Turkish.'",
+     "tag": "reading",
+     "level": "A2"
+    },
+    {
+     "type": "mcq",
+     "q": "What is Ben's hobby?",
+     "options": [
+      "He cooks rice.",
+      "He shares cookies.",
+      "He plays guitar."
+     ],
+     "answer": 2,
+     "whyTr": "Metin: 'he plays guitar'.",
+     "tag": "reading",
+     "level": "A2"
+    },
+    {
+     "type": "mcq",
+     "q": "How does Hafsa feel at the end?",
+     "options": [
+      "She likes her new job.",
+      "She doesn't like it.",
+      "She is angry."
+     ],
+     "answer": 0,
+     "whyTr": "Metin: 'Yes, I do!'",
+     "tag": "reading",
+     "level": "A2"
+    }
+   ]
+  }
+ },
+ "evening": {
+  "listening": {
+   "title": "Lunch in the teachers' room",
+   "script": [
+    {
+     "speaker": "Ms. Carter",
+     "text": "Hi, you are Hafsa, right? I'm Ms. Carter. Nice to meet you."
+    },
+    {
+     "speaker": "Hafsa",
+     "text": "Nice to meet you, too. Do you teach here?"
+    },
+    {
+     "speaker": "Ms. Carter",
+     "text": "Yes, I do. I teach fourth grade. Do you work in the cafeteria?"
+    },
+    {
+     "speaker": "Hafsa",
+     "text": "Yes, I do. It's my first week."
+    },
+    {
+     "speaker": "Ms. Carter",
+     "text": "Does Ms. Davis help you?"
+    },
+    {
+     "speaker": "Hafsa",
+     "text": "Yes, she does. She is very kind."
+    },
+    {
+     "speaker": "Ms. Carter",
+     "text": "Do you eat lunch here every day?"
+    },
+    {
+     "speaker": "Hafsa",
+     "text": "No, I don't. Today is special. Mr. Brown invites me."
+    },
+    {
+     "speaker": "Ms. Carter",
+     "text": "Does your son go to this school?"
+    },
+    {
+     "speaker": "Hafsa",
+     "text": "Yes, he does. Emre is in third grade."
+    },
+    {
+     "speaker": "Ms. Carter",
+     "text": "Does he like it?"
+    },
+    {
+     "speaker": "Hafsa",
+     "text": "He does, but he is shy. Do the students talk to new kids?"
+    },
+    {
+     "speaker": "Ms. Carter",
+     "text": "Yes, they do. Your son makes friends fast, I'm sure."
+    }
+   ],
+   "questions": [
+    {
+     "type": "mcq",
+     "q": "What does Ms. Carter teach?",
+     "options": [
+      "Third grade",
+      "Spanish",
+      "Fourth grade"
+     ],
+     "answer": 2,
+     "whyTr": "Ms. Carter: 'I teach fourth grade.'",
+     "tag": "listening",
+     "level": "A2"
+    },
+    {
+     "type": "mcq",
+     "q": "Does Hafsa eat lunch in the teachers' room every day?",
+     "options": [
+      "Yes, she does.",
+      "Yes, she can.",
+      "No, she doesn't."
+     ],
+     "answer": 2,
+     "whyTr": "Hafsa: 'No, I don't. Today is special.'",
+     "tag": "listening",
+     "level": "A2"
+    },
+    {
+     "type": "mcq",
+     "q": "Who invites Hafsa for lunch?",
+     "options": [
+      "Mr. Brown",
+      "Ms. Davis",
+      "Emre"
+     ],
+     "answer": 0,
+     "whyTr": "Hafsa: 'Mr. Brown invites me.'",
+     "tag": "listening",
+     "level": "A2"
+    },
+    {
+     "type": "mcq",
+     "q": "Why does Hafsa worry about Emre?",
+     "options": [
+      "He is sick.",
+      "He is shy.",
+      "He is late."
+     ],
+     "answer": 1,
+     "whyTr": "Hafsa: 'He does, but he is shy.'",
+     "tag": "listening",
+     "level": "A2"
+    }
+   ]
+  },
+  "writing": {
+   "promptTr": "Yeni bir iş arkadaşına 4-5 soru yaz (Do/Does ile).",
+   "promptEn": "Write 4-5 questions for a new coworker. Use Do and Does.",
+   "frames": [
+    "Do you ... ?",
+    "Does your family ... ?",
+    "Where do you ... ?",
+    "What time does ... ?"
+   ],
+   "model": "Do you live near the school? Does your family live here? Do you speak another language? What time does the shift start? Do you have a hobby?",
+   "checklistTr": [
+    "Sorular Do/Does ile mi başlıyor?",
+    "Does'tan sonra fiil yalın mı (Does she works değil)?",
+    "Her cümle soru işaretiyle bitiyor mu?"
+   ],
+   "minWords": 25
+  },
+  "examSet": [
+   {
+    "type": "mcq",
+    "q": "___ your coworkers eat lunch together?",
+    "options": [
+     "Does",
+     "Are",
+     "Do"
+    ],
+    "answer": 2,
+    "whyTr": "Çoğul özne: Do.",
+    "tag": "question-form",
+    "level": "A2"
+   },
+   {
+    "type": "mcq",
+    "q": "\"Does she have a break?\" \"No, she ___.\"",
+    "options": [
+     "doesn't",
+     "don't",
+     "hasn't"
+    ],
+    "answer": 0,
+    "whyTr": "Kısa cevap: No, she doesn't.",
+    "tag": "question-form",
+    "level": "A2"
+   },
+   {
+    "type": "mcq",
+    "q": "My boss ___ come on Saturdays.",
+    "options": [
+     "don't",
+     "doesn't",
+     "isn't"
+    ],
+    "answer": 1,
+    "whyTr": "Dünün konusu: he/she ile doesn't.",
+    "tag": "negative-form",
+    "level": "A2"
+   },
+   {
+    "type": "mcq",
+    "q": "Linda ___ the supermarket at two o'clock.",
+    "options": [
+     "starts",
+     "start",
+     "starting"
+    ],
+    "answer": 0,
+    "whyTr": "Linda = she; -s gerekir.",
+    "tag": "present-simple",
+    "level": "A2"
+   },
+   {
+    "type": "mcq",
+    "q": "Which word means almost the same as \"coworker\"?",
+    "options": [
+     "colleague",
+     "manager",
+     "language"
+    ],
+    "answer": 0,
+    "whyTr": "Coworker ve colleague eş anlamlı.",
+    "tag": "synonym",
+    "level": "A2"
+   },
+   {
+    "type": "mcq",
+    "q": "What is the opposite of \"ask\"?",
+    "options": [
+     "share",
+     "answer",
+     "meet"
+    ],
+    "answer": 1,
+    "whyTr": "Ask'ın zıttı answer.",
+    "tag": "antonym",
+    "level": "A2"
+   },
+   {
+    "type": "mcq",
+    "q": "Which word means almost the same as \"nice\"?",
+    "options": [
+     "shy",
+     "busy",
+     "kind"
+    ],
+    "answer": 2,
+    "whyTr": "Nice ve kind yakın anlamlı.",
+    "tag": "synonym",
+    "level": "A2"
+   },
+   {
+    "type": "mcq",
+    "q": "I speak two languages. Turkish is my first ___.",
+    "options": [
+     "language",
+     "hobby",
+     "team"
+    ],
+    "answer": 0,
+    "whyTr": "Dil = language.",
+    "tag": "vocab",
+    "level": "A2"
+   },
+   {
+    "type": "mcq",
+    "q": "Where ___ Mr. Brown work?",
+    "options": [
+     "do",
+     "does",
+     "is"
+    ],
+    "answer": 1,
+    "whyTr": "Where does he work?",
+    "tag": "question-form",
+    "level": "A2"
+   },
+   {
+    "type": "mcq",
+    "q": "Rosa is happy at the cafeteria. She likes her team, and she shares food with everyone.\n\nWhat does Rosa do?",
+    "options": [
+     "She is shy.",
+     "She teaches.",
+     "She shares food."
+    ],
+    "answer": 2,
+    "whyTr": "Metin: 'she shares food with everyone'.",
+    "tag": "reading",
+    "level": "A2"
+   },
+   {
+    "type": "mcq",
+    "q": "\"___ you open the window, please?\" (Hafta 1 tekrarı)",
+    "options": [
+     "Do",
+     "Can",
+     "Does"
+    ],
+    "answer": 1,
+    "whyTr": "Rica için Can you...?",
+    "tag": "modals",
+    "level": "A1"
+   },
+   {
+    "type": "mcq",
+    "q": "Emre ___ at home now. He is sick. (Hafta 1 tekrarı)",
+    "options": [
+     "are",
+     "is",
+     "do"
+    ],
+    "answer": 1,
+    "whyTr": "Emre = he; to be: is.",
+    "tag": "to-be",
+    "level": "A1"
+   }
+  ]
+ }
+}

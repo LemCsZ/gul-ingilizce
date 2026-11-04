@@ -1,0 +1,760 @@
+{
+ "week": 2,
+ "day": 2,
+ "titleTr": "İş programı: Vardiyam ve yapmadıklarım",
+ "theme": "daily-life",
+ "morning": {
+  "grammar": {
+   "topic": "Present Simple olumsuz: don't / doesn't",
+   "explainTr": [
+    "Yapmadığın düzenli şeyleri anlatmak için don't veya doesn't kullanırsın. I, you, we, they ile don't gelir: I don't work on Sundays.",
+    "He, she, it ile doesn't gelir: She doesn't work at night. Dikkat: doesn't geldikten sonra fiile -s EKLENMEZ, çünkü -s'nin işi doesn't'ta bitti.",
+    "Kısaltmalar: don't = do not, doesn't = does not. Konuşurken ve yazarken hep kısa hâlini göreceksin."
+   ],
+   "compareTr": "Türkçede olumsuzluk fiilin içine girer (çalışmıyorum, çalışmıyor). İngilizcede ayrı bir yardımcı kelime gerekir: I don't work, she doesn't work. Fiil ise yalın kalır.",
+   "table": [
+    [
+     "I / you / we / they",
+     "don't + fiil",
+     "I don't work."
+    ],
+    [
+     "he / she / it",
+     "doesn't + fiil",
+     "She doesn't work."
+    ],
+    [
+     "Yanlış",
+     "doesn't + fiil-s",
+     "She doesn't works. (X)"
+    ]
+   ],
+   "examples": [
+    {
+     "en": "I don't work on Sundays.",
+     "tr": "Pazarları çalışmam."
+    },
+    {
+     "en": "She doesn't wear a uniform.",
+     "tr": "Üniforma giymez."
+    },
+    {
+     "en": "The store doesn't open at six.",
+     "tr": "Mağaza altıda açılmaz."
+    },
+    {
+     "en": "We don't have a meeting today.",
+     "tr": "Bugün toplantımız yok."
+    },
+    {
+     "en": "My boss doesn't shout.",
+     "tr": "Patronum bağırmaz."
+    }
+   ],
+   "exercises": [
+    {
+     "type": "mcq",
+     "q": "I ___ work on Sundays.",
+     "options": [
+      "don't",
+      "doesn't",
+      "not"
+     ],
+     "answer": 0,
+     "whyTr": "I ile olumsuz için 'don't' kullanılır.",
+     "tag": "negative-form",
+     "level": "A2"
+    },
+    {
+     "type": "mcq",
+     "q": "She ___ work at night.",
+     "options": [
+      "don't",
+      "doesn't",
+      "isn't"
+     ],
+     "answer": 1,
+     "whyTr": "She ile olumsuz 'doesn't'.",
+     "tag": "negative-form",
+     "level": "A2"
+    },
+    {
+     "type": "mcq",
+     "q": "My boss doesn't ___ on weekends.",
+     "options": [
+      "works",
+      "working",
+      "work"
+     ],
+     "answer": 2,
+     "whyTr": "Doesn't'tan sonra fiil yalın gelir: work.",
+     "tag": "negative-form",
+     "level": "A2"
+    },
+    {
+     "type": "order",
+     "promptTr": "Cümleyi sırala:",
+     "words": [
+      "don't",
+      "We",
+      "work",
+      "on",
+      "Saturdays"
+     ],
+     "answer": "We don't work on Saturdays",
+     "whyTr": "Sıra: özne + don't + fiil + gerisi.",
+     "tag": "word-order",
+     "level": "A2"
+    },
+    {
+     "type": "mcq",
+     "q": "They ___ start early on Mondays.",
+     "options": [
+      "don't",
+      "doesn't",
+      "aren't"
+     ],
+     "answer": 0,
+     "whyTr": "They ile 'don't'.",
+     "tag": "negative-form",
+     "level": "A2"
+    },
+    {
+     "type": "mcq",
+     "q": "Emre ___ take the bus on Saturdays.",
+     "options": [
+      "don't",
+      "doesn't",
+      "not"
+     ],
+     "answer": 1,
+     "whyTr": "Emre = he; 'doesn't' kullanılır.",
+     "tag": "negative-form",
+     "level": "A2"
+    },
+    {
+     "type": "mcq",
+     "q": "Which sentence is correct?",
+     "options": [
+      "He doesn't finishes at five.",
+      "He don't finish at five.",
+      "He doesn't finish at five."
+     ],
+     "answer": 2,
+     "whyTr": "Doesn't + yalın fiil; -s fiile değil, doesn't'a ait.",
+     "tag": "negative-form",
+     "level": "A2"
+    },
+    {
+     "type": "order",
+     "promptTr": "Cümleyi sırala:",
+     "words": [
+      "doesn't",
+      "Linda",
+      "a",
+      "uniform",
+      "wear"
+     ],
+     "answer": "Linda doesn't wear a uniform",
+     "whyTr": "Olumsuz: özne + doesn't + yalın fiil.",
+     "tag": "word-order",
+     "level": "A2"
+    },
+    {
+     "type": "mcq",
+     "q": "The store ___ close at six. It closes at nine.",
+     "options": [
+      "don't",
+      "doesn't",
+      "isn't"
+     ],
+     "answer": 1,
+     "whyTr": "The store = it; 'doesn't close' olumsuz.",
+     "tag": "negative-form",
+     "level": "A2"
+    },
+    {
+     "type": "mcq",
+     "q": "We ___ have a meeting on Fridays.",
+     "options": [
+      "doesn't",
+      "don't",
+      "no"
+     ],
+     "answer": 1,
+     "whyTr": "We ile 'don't have'.",
+     "tag": "negative-form",
+     "level": "A2"
+    },
+    {
+     "type": "fill",
+     "q": "My neighbor ___ work at night. She sleeps.",
+     "accept": [
+      "doesn't",
+      "does not"
+     ],
+     "hintTr": "he/she/it için olumsuz",
+     "whyTr": "She ile 'doesn't' gelir.",
+     "tag": "negative-form",
+     "level": "A2"
+    },
+    {
+     "type": "mcq",
+     "q": "She works every day. She ___ a day off.",
+     "options": [
+      "don't have",
+      "doesn't has",
+      "doesn't have"
+     ],
+     "answer": 2,
+     "whyTr": "Doesn't'tan sonra 'have' yalın kalır, 'has' olmaz.",
+     "tag": "negative-form",
+     "level": "A2"
+    }
+   ]
+  },
+  "vocab": [
+   {
+    "id": "job",
+    "en": "job",
+    "tr": "iş, meslek",
+    "pos": "noun",
+    "example": "Linda has a new job at the library.",
+    "exampleTr": "Linda'nın kütüphanede yeni bir işi var.",
+    "syn": [
+     "work"
+    ],
+    "ant": [],
+    "level": "A1"
+   },
+   {
+    "id": "shift",
+    "en": "shift",
+    "tr": "vardiya",
+    "pos": "noun",
+    "example": "My shift starts at seven in the morning.",
+    "exampleTr": "Vardiyam sabah yedide başlıyor.",
+    "syn": [],
+    "ant": [],
+    "level": "A1"
+   },
+   {
+    "id": "boss",
+    "en": "boss",
+    "tr": "patron, amir",
+    "pos": "noun",
+    "example": "My boss is very kind.",
+    "exampleTr": "Patronum çok nazik.",
+    "syn": [
+     "manager"
+    ],
+    "ant": [],
+    "level": "A1"
+   },
+   {
+    "id": "manager",
+    "en": "manager",
+    "tr": "müdür, yönetici",
+    "pos": "noun",
+    "example": "The store manager works from nine to five.",
+    "exampleTr": "Mağaza müdürü dokuzdan beşe kadar çalışır.",
+    "syn": [
+     "boss"
+    ],
+    "ant": [],
+    "level": "A1"
+   },
+   {
+    "id": "pay",
+    "en": "pay",
+    "tr": "ücret vermek; maaş",
+    "pos": "verb",
+    "example": "The store pays every two weeks.",
+    "exampleTr": "Mağaza iki haftada bir ödeme yapar.",
+    "syn": [],
+    "ant": [],
+    "level": "A1"
+   },
+   {
+    "id": "hour",
+    "en": "hour",
+    "tr": "saat (süre)",
+    "pos": "noun",
+    "example": "I work eight hours a day.",
+    "exampleTr": "Günde sekiz saat çalışıyorum.",
+    "syn": [],
+    "ant": [],
+    "level": "A1"
+   },
+   {
+    "id": "busy",
+    "en": "busy",
+    "tr": "meşgul, yoğun",
+    "pos": "adjective",
+    "example": "The office is busy on Mondays.",
+    "exampleTr": "Ofis pazartesileri yoğun.",
+    "syn": [],
+    "ant": [
+     "free"
+    ],
+    "level": "A1"
+   },
+   {
+    "id": "break",
+    "en": "break",
+    "tr": "mola; ara vermek",
+    "pos": "noun",
+    "example": "We have a ten-minute break at ten.",
+    "exampleTr": "Saat onda on dakikalık molamız var.",
+    "syn": [],
+    "ant": [],
+    "level": "A1"
+   },
+   {
+    "id": "meeting",
+    "en": "meeting",
+    "tr": "toplantı",
+    "pos": "noun",
+    "example": "The meeting starts at two.",
+    "exampleTr": "Toplantı ikide başlıyor.",
+    "syn": [],
+    "ant": [],
+    "level": "A1"
+   },
+   {
+    "id": "weekday",
+    "en": "weekday",
+    "tr": "hafta içi günü",
+    "pos": "noun",
+    "example": "The school is open on weekdays.",
+    "exampleTr": "Okul hafta içi günleri açık.",
+    "syn": [],
+    "ant": [],
+    "level": "A1"
+   },
+   {
+    "id": "rest",
+    "en": "rest",
+    "tr": "dinlenmek; dinlenme",
+    "pos": "verb",
+    "example": "I rest after a long shift.",
+    "exampleTr": "Uzun bir vardiyadan sonra dinlenirim.",
+    "syn": [
+     "relax"
+    ],
+    "ant": [],
+    "level": "A1"
+   },
+   {
+    "id": "full-time",
+    "en": "full-time",
+    "tr": "tam zamanlı",
+    "pos": "adjective",
+    "example": "Ms. Carter works full-time.",
+    "exampleTr": "Bayan Carter tam zamanlı çalışıyor.",
+    "syn": [],
+    "ant": [],
+    "level": "A1"
+   },
+   {
+    "id": "part-time",
+    "en": "part-time",
+    "tr": "yarı zamanlı",
+    "pos": "adjective",
+    "example": "Hafsa wants a part-time job.",
+    "exampleTr": "Hafsa yarı zamanlı bir iş istiyor.",
+    "syn": [],
+    "ant": [
+     "full-time"
+    ],
+    "level": "A1"
+   },
+   {
+    "id": "tired",
+    "en": "tired",
+    "tr": "yorgun",
+    "pos": "adjective",
+    "example": "After the night shift, he is tired.",
+    "exampleTr": "Gece vardiyasından sonra yorgun.",
+    "syn": [],
+    "ant": [],
+    "level": "A1"
+   },
+   {
+    "id": "uniform",
+    "en": "uniform",
+    "tr": "üniforma",
+    "pos": "noun",
+    "example": "The cashier wears a blue uniform.",
+    "exampleTr": "Kasiyer mavi bir üniforma giyiyor.",
+    "syn": [],
+    "ant": [],
+    "level": "A1"
+   }
+  ],
+  "reading": {
+   "title": "Linda's work schedule",
+   "text": "Hafsa's neighbor Linda works at a big supermarket. She has a full-time job, but she doesn't work from nine to five. Her shift starts at two in the afternoon and finishes at ten at night. She works five days a week, from Tuesday to Saturday.\n\nLinda doesn't work on Sundays and Mondays. On those days, she rests and cleans her house. Her boss, Mr. Green, is a good manager. He doesn't ask the workers to stay late, and he pays every two weeks.\n\nLinda doesn't like the late hours very much. She gets home at ten thirty, and she is tired. She doesn't eat dinner late, so she has a small snack at work during her break. At the supermarket, the workers wear a green uniform. Linda says, \"I don't love the shift, but I love my coworkers.\"",
+   "glossary": [
+    {
+     "en": "supermarket",
+     "tr": "süpermarket"
+    },
+    {
+     "en": "stay late",
+     "tr": "geç saate kadar kalmak"
+    },
+    {
+     "en": "snack",
+     "tr": "atıştırmalık"
+    },
+    {
+     "en": "coworker",
+     "tr": "iş arkadaşı"
+    }
+   ],
+   "questions": [
+    {
+     "type": "mcq",
+     "q": "When does Linda's shift start?",
+     "options": [
+      "At two in the afternoon",
+      "At nine in the morning",
+      "At ten at night"
+     ],
+     "answer": 0,
+     "whyTr": "Metin: 'starts at two in the afternoon'.",
+     "tag": "reading",
+     "level": "A2"
+    },
+    {
+     "type": "mcq",
+     "q": "Which days does Linda NOT work?",
+     "options": [
+      "Saturday and Sunday",
+      "Sunday and Monday",
+      "Tuesday and Friday"
+     ],
+     "answer": 1,
+     "whyTr": "Metin: 'doesn't work on Sundays and Mondays'.",
+     "tag": "reading",
+     "level": "A2"
+    },
+    {
+     "type": "mcq",
+     "q": "What does Mr. Green NOT do?",
+     "options": [
+      "He doesn't pay the workers.",
+      "He doesn't wear a uniform.",
+      "He doesn't ask workers to stay late."
+     ],
+     "answer": 2,
+     "whyTr": "Metin: 'He doesn't ask the workers to stay late'.",
+     "tag": "reading",
+     "level": "A2"
+    },
+    {
+     "type": "mcq",
+     "q": "Why does Linda like her job?",
+     "options": [
+      "She likes her coworkers.",
+      "She likes the late hours.",
+      "She has Saturdays off."
+     ],
+     "answer": 0,
+     "whyTr": "Metin: 'I love my coworkers.'",
+     "tag": "reading",
+     "level": "A2"
+    }
+   ]
+  }
+ },
+ "evening": {
+  "listening": {
+   "title": "A new job at the school cafeteria",
+   "script": [
+    {
+     "speaker": "Mr. Brown",
+     "text": "Hafsa, I have good news. The cafeteria needs a part-time worker."
+    },
+    {
+     "speaker": "Hafsa",
+     "text": "Really? What is the schedule?"
+    },
+    {
+     "speaker": "Mr. Brown",
+     "text": "The shift starts at ten and finishes at two. It's four hours a day."
+    },
+    {
+     "speaker": "Hafsa",
+     "text": "Do I work on weekends?"
+    },
+    {
+     "speaker": "Mr. Brown",
+     "text": "No, you don't. The school doesn't open on weekends."
+    },
+    {
+     "speaker": "Hafsa",
+     "text": "That's good. My son Emre doesn't go to school on Saturdays, so I stay home with him."
+    },
+    {
+     "speaker": "Mr. Brown",
+     "text": "You also have a short break at noon. The cafeteria doesn't close during lunch, so the workers take turns."
+    },
+    {
+     "speaker": "Hafsa",
+     "text": "Do I wear a uniform?"
+    },
+    {
+     "speaker": "Mr. Brown",
+     "text": "Yes, a blue apron. The school gives it to you."
+    },
+    {
+     "speaker": "Hafsa",
+     "text": "And my boss? Who is the manager?"
+    },
+    {
+     "speaker": "Mr. Brown",
+     "text": "Ms. Davis. She doesn't shout, and she helps new workers."
+    },
+    {
+     "speaker": "Hafsa",
+     "text": "Perfect. When do I start?"
+    },
+    {
+     "speaker": "Mr. Brown",
+     "text": "Next Monday. Come at nine thirty, please."
+    }
+   ],
+   "questions": [
+    {
+     "type": "mcq",
+     "q": "How long is the shift every day?",
+     "options": [
+      "Eight hours",
+      "Two hours",
+      "Four hours"
+     ],
+     "answer": 2,
+     "whyTr": "Mr. Brown: 'starts at ten and finishes at two'.",
+     "tag": "listening",
+     "level": "A2"
+    },
+    {
+     "type": "mcq",
+     "q": "Does Hafsa work on weekends?",
+     "options": [
+      "Yes, on Saturdays.",
+      "Yes, on Sundays.",
+      "No, she doesn't."
+     ],
+     "answer": 2,
+     "whyTr": "Mr. Brown: 'No, you don't.'",
+     "tag": "listening",
+     "level": "A2"
+    },
+    {
+     "type": "mcq",
+     "q": "What does Hafsa wear?",
+     "options": [
+      "A blue apron",
+      "A green uniform",
+      "Her own dress"
+     ],
+     "answer": 0,
+     "whyTr": "Mr. Brown: 'a blue apron'.",
+     "tag": "listening",
+     "level": "A2"
+    },
+    {
+     "type": "mcq",
+     "q": "What does the manager NOT do?",
+     "options": [
+      "She doesn't help workers.",
+      "She doesn't shout.",
+      "She doesn't give aprons."
+     ],
+     "answer": 1,
+     "whyTr": "Mr. Brown: 'She doesn't shout, and she helps new workers.'",
+     "tag": "listening",
+     "level": "A2"
+    }
+   ]
+  },
+  "writing": {
+   "promptTr": "Hafsa'nın yeni işi için olumsuz cümleler yaz (4-5 cümle). Neleri yapmıyor?",
+   "promptEn": "Write 4-5 sentences about what Hafsa doesn't do at her new job.",
+   "frames": [
+    "Hafsa doesn't work on ...",
+    "She doesn't ...",
+    "I don't ...",
+    "My boss doesn't ..."
+   ],
+   "model": "Hafsa doesn't work on weekends. She doesn't wear a uniform, but she wears an apron. Her boss doesn't shout at the workers. The shift doesn't finish late. I don't work at night.",
+   "checklistTr": [
+    "He/she/it ile doesn't, diğerlerinde don't kullandın mı?",
+    "Doesn't'tan sonra fiil yalın mı (doesn't works değil)?",
+    "Cümleler büyük harfle başlıyor ve noktayla bitiyor mu?"
+   ],
+   "minWords": 30
+  },
+  "examSet": [
+   {
+    "type": "mcq",
+    "q": "My manager ___ work on Sundays.",
+    "options": [
+     "don't",
+     "isn't",
+     "doesn't"
+    ],
+    "answer": 2,
+    "whyTr": "My manager = he/she; doesn't + fiil.",
+    "tag": "negative-form",
+    "level": "A2"
+   },
+   {
+    "type": "mcq",
+    "q": "We ___ finish at four. We finish at five.",
+    "options": [
+     "don't",
+     "doesn't",
+     "aren't"
+    ],
+    "answer": 0,
+    "whyTr": "We ile don't.",
+    "tag": "negative-form",
+    "level": "A2"
+   },
+   {
+    "type": "mcq",
+    "q": "Emre ___ the bus to school every day.",
+    "options": [
+     "take",
+     "takes",
+     "taking"
+    ],
+    "answer": 1,
+    "whyTr": "Dünün konusu: she ile fiile -s gelir.",
+    "tag": "present-simple",
+    "level": "A2"
+   },
+   {
+    "type": "mcq",
+    "q": "She doesn't ___ a uniform.",
+    "options": [
+     "wear",
+     "wears",
+     "wearing"
+    ],
+    "answer": 0,
+    "whyTr": "Doesn't'tan sonra yalın fiil.",
+    "tag": "negative-form",
+    "level": "A2"
+   },
+   {
+    "type": "mcq",
+    "q": "What is the opposite of \"busy\"?",
+    "options": [
+     "free",
+     "tired",
+     "loud"
+    ],
+    "answer": 0,
+    "whyTr": "Busy'nin zıttı free.",
+    "tag": "antonym",
+    "level": "A2"
+   },
+   {
+    "type": "mcq",
+    "q": "Which word means almost the same as \"boss\"?",
+    "options": [
+     "uniform",
+     "manager",
+     "shift"
+    ],
+    "answer": 1,
+    "whyTr": "Boss ve manager benzer anlamlı.",
+    "tag": "synonym",
+    "level": "A2"
+   },
+   {
+    "type": "mcq",
+    "q": "Which word is the opposite of \"full-time\"?",
+    "options": [
+     "weekday",
+     "tired",
+     "part-time"
+    ],
+    "answer": 2,
+    "whyTr": "Full-time'ın zıttı part-time.",
+    "tag": "antonym",
+    "level": "A2"
+   },
+   {
+    "type": "mcq",
+    "q": "Linda finishes work at ten, so she is ___.",
+    "options": [
+     "tired",
+     "loud",
+     "quiet"
+    ],
+    "answer": 0,
+    "whyTr": "Geç saate kadar çalışınca yorgun olur: tired.",
+    "tag": "vocab",
+    "level": "A2"
+   },
+   {
+    "type": "mcq",
+    "q": "I have a ten-minute ___ at ten o'clock.",
+    "options": [
+     "shift",
+     "break",
+     "pay"
+    ],
+    "answer": 1,
+    "whyTr": "Kısa ara = break.",
+    "tag": "vocab",
+    "level": "A2"
+   },
+   {
+    "type": "mcq",
+    "q": "My son ___ his homework before dinner.",
+    "options": [
+     "do",
+     "doing",
+     "does"
+    ],
+    "answer": 2,
+    "whyTr": "Tekil özne; do + es = does. (Dünün konusu)",
+    "tag": "present-simple",
+    "level": "A2"
+   },
+   {
+    "type": "mcq",
+    "q": "Tom starts work at six in the morning. He finishes at two. He doesn't work at night.\n\nWhen does Tom finish work?",
+    "options": [
+     "At six",
+     "At two",
+     "At night"
+    ],
+    "answer": 1,
+    "whyTr": "Metin: 'He finishes at two.'",
+    "tag": "reading",
+    "level": "A2"
+   },
+   {
+    "type": "mcq",
+    "q": "There ___ a meeting at two o'clock today. (Hafta 1 tekrarı)",
+    "options": [
+     "are",
+     "is",
+     "am"
+    ],
+    "answer": 1,
+    "whyTr": "Tekil isimle 'there is'.",
+    "tag": "there-is",
+    "level": "A1"
+   }
+  ]
+ }
+}

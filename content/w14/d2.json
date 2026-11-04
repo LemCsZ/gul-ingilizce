@@ -1,0 +1,935 @@
+{
+ "week": 14,
+ "day": 2,
+ "titleTr": "Okul ekibi ile tanışma",
+ "theme": "school-policy",
+ "morning": {
+  "grammar": {
+   "topic": "Non-defining relative clauses",
+   "explainTr": [
+    "Non-defining (tanımlayıcı olmayan) cümlecik, zaten bildiğimiz bir kişi veya şey hakkında ek bilgi verir. Bilgi çıkarılsa da cümle anlamlı kalır ve iki yanında virgül bulunur: Ms. Rivera, who leads the school, is calm. Türkçedeki ara cümle gibi düşün.",
+    "Kişi için who, nesne için which, aitlik için whose, yer için where kullanılır: Mr. Brown, whose desk is by the door, ... Burada iki kural var: 'that' kullanılmaz ve who/which hiçbir zaman atılamaz.",
+    "Ayrıca 'which' tüm bir cümleye de gönderme yapabilir: He was late, which annoyed the teacher. Özel isimlerden sonra (Mr. Brown, Isparta) bu cümlecik genellikle virgüllüdür."
+   ],
+   "compareTr": "Türkçede 'müdürümüz, ki okulu 11 yıldır yönetiyor, çok sakindir' gibi ara cümleler kullanırız; sıfat-fiil ekleriyle de kurarız (okulu yöneten müdür). İngilizcede ek bilgi virgül + who/which ile verilir ve 'that' bu yapıda kullanılamaz.",
+   "table": [
+    [
+     "who",
+     "kişi",
+     "Ms. Rivera, who leads the school, is calm."
+    ],
+    [
+     "which",
+     "nesne / yer / olay",
+     "The gym, which is new, is huge."
+    ],
+    [
+     "whose",
+     "aitlik",
+     "Mr. Patel, whose office is upstairs, is busy."
+    ],
+    [
+     "where",
+     "yer",
+     "Isparta, where I grew up, is famous for roses."
+    ],
+    [
+     "whom",
+     "kişi (nesne), resmi",
+     "Mr. Kim, whom I met today, is the nurse."
+    ],
+    [
+     "that",
+     "KULLANILMAZ",
+     "Mr. Brown, who ... (that değil)"
+    ]
+   ],
+   "examples": [
+    {
+     "en": "Ms. Rivera, who has led the school for eleven years, is very calm.",
+     "tr": "Okulu on bir yıldır yöneten Ms. Rivera çok sakindir."
+    },
+    {
+     "en": "The cafeteria, which serves three hundred lunches a day, is on the first floor.",
+     "tr": "Günde üç yüz öğle yemeği servis eden yemekhane birinci kattadır."
+    },
+    {
+     "en": "Mr. Patel, whose office is next to the gym, handles bus schedules.",
+     "tr": "Ofisi spor salonunun yanında olan Mr. Patel otobüs saatleriyle ilgilenir."
+    },
+    {
+     "en": "Isparta, where I grew up, is famous for roses.",
+     "tr": "Büyüdüğüm yer olan Isparta güllerle ünlüdür."
+    },
+    {
+     "en": "He was late, which annoyed the teacher.",
+     "tr": "Geç kaldı, bu da öğretmeni sinirlendirdi."
+    }
+   ],
+   "exercises": [
+    {
+     "type": "mcq",
+     "q": "Ms. Rivera, ___ is our principal, welcomed the new staff.",
+     "options": [
+      "who",
+      "that",
+      "which",
+      "what"
+     ],
+     "answer": 0,
+     "whyTr": "Kişi için, virgüllü cümlecikte 'who' kullanılır.",
+     "tag": "relative-clauses",
+     "level": "B2"
+    },
+    {
+     "type": "mcq",
+     "q": "The library, ___ opens at 7:30, is on the second floor.",
+     "options": [
+      "that",
+      "which",
+      "who",
+      "what"
+     ],
+     "answer": 1,
+     "whyTr": "Nesne için virgüllü cümlecikte 'which' gelir; 'that' kullanılmaz.",
+     "tag": "relative-clauses",
+     "level": "B2"
+    },
+    {
+     "type": "mcq",
+     "q": "Which sentence is correct?",
+     "options": [
+      "Mr. Brown, that works at the front office, knows everyone.",
+      "Mr. Brown, he works at the front office, knows everyone.",
+      "Mr. Brown, who works at the front office, knows everyone."
+     ],
+     "answer": 2,
+     "whyTr": "Non-defining cümlecikte 'that' kullanılmaz ve zamir tekrarlanmaz.",
+     "tag": "relative-clauses",
+     "level": "B2"
+    },
+    {
+     "type": "order",
+     "promptTr": "Cümleyi sırala:",
+     "words": [
+      "Dunn,",
+      "visited,",
+      "is",
+      "kind",
+      "class",
+      "I",
+      "Ms.",
+      "very",
+      "whose"
+     ],
+     "answer": "Ms. Dunn, whose class I visited, is very kind",
+     "whyTr": "Sıra: isim, whose + isim + özne + fiil, devamı.",
+     "tag": "relative-clauses",
+     "level": "B2"
+    },
+    {
+     "type": "mcq",
+     "q": "Mrs. Lopez, ___ son studies at the high school, teaches music.",
+     "options": [
+      "who",
+      "who's",
+      "which",
+      "whose"
+     ],
+     "answer": 3,
+     "whyTr": "Aitlik için 'whose' kullanılır.",
+     "tag": "relative-clauses",
+     "level": "B2"
+    },
+    {
+     "type": "mcq",
+     "q": "Springfield, ___ we moved last year, is a quiet town.",
+     "options": [
+      "where",
+      "which",
+      "who",
+      "that"
+     ],
+     "answer": 0,
+     "whyTr": "Yer için 'where' gelir ve cümlecik tamamlanır.",
+     "tag": "relative-clauses",
+     "level": "B2"
+    },
+    {
+     "type": "mcq",
+     "q": "My neighbor, ___ I have known for years, is a nurse.",
+     "options": [
+      "whose",
+      "whom",
+      "where",
+      "which"
+     ],
+     "answer": 1,
+     "whyTr": "Kişi nesne konumundaysa resmi dilde 'whom' kullanılır.",
+     "tag": "relative-clauses",
+     "level": "B2"
+    },
+    {
+     "type": "order",
+     "promptTr": "Cümleyi sırala:",
+     "words": [
+      "cafeteria,",
+      "noon",
+      "The",
+      "at",
+      "is",
+      "always",
+      "opens",
+      "crowded,",
+      "which"
+     ],
+     "answer": "The cafeteria, which is always crowded, opens at noon",
+     "whyTr": "Ek bilgi iki virgül arasında, özne ile fiil arasında durur.",
+     "tag": "relative-clauses",
+     "level": "B2"
+    },
+    {
+     "type": "mcq",
+     "q": "Non-defining clauses ___ use 'that'.",
+     "options": [
+      "cannot",
+      "must",
+      "usually"
+     ],
+     "answer": 0,
+     "whyTr": "Virgüllü cümleciklerde 'that' kullanılamaz.",
+     "tag": "relative-clauses",
+     "level": "B2"
+    },
+    {
+     "type": "mcq",
+     "q": "The nurse warned us ___ the door.",
+     "options": [
+      "not opening",
+      "not to open",
+      "don't open"
+     ],
+     "answer": 1,
+     "whyTr": "'Warn' + kişi + not to + fiil.",
+     "tag": "reported-speech",
+     "level": "B2"
+    },
+    {
+     "type": "mcq",
+     "q": "The gym ___ last summer.",
+     "options": [
+      "was renovated",
+      "renovated",
+      "has renovated",
+      "is renovated"
+     ],
+     "answer": 0,
+     "whyTr": "Geçmişte yapılan edilgen eylem: was + V3.",
+     "tag": "passive",
+     "level": "B2"
+    },
+    {
+     "type": "fill",
+     "q": "My son Emre, ___ lives in Boston, calls me every Sunday.",
+     "accept": [
+      "who"
+     ],
+     "hintTr": "kişi için",
+     "whyTr": "Kişi için 'who' kullanılır.",
+     "tag": "relative-clauses",
+     "level": "B2"
+    }
+   ]
+  },
+  "vocab": [
+   {
+    "id": "faculty",
+    "en": "faculty",
+    "tr": "öğretim kadrosu",
+    "pos": "noun",
+    "example": "The faculty meets every Wednesday after school.",
+    "exampleTr": "Öğretim kadrosu her Çarşamba okuldan sonra toplanır.",
+    "syn": [
+     "teaching staff"
+    ],
+    "ant": [],
+    "level": "B2"
+   },
+   {
+    "id": "administrator",
+    "en": "administrator",
+    "tr": "okul yöneticisi, idareci",
+    "pos": "noun",
+    "example": "An administrator signed the visitor badge.",
+    "exampleTr": "Bir idareci ziyaretçi kartını imzaladı.",
+    "syn": [],
+    "ant": [],
+    "level": "B2"
+   },
+   {
+    "id": "department",
+    "en": "department",
+    "tr": "bölüm, departman",
+    "pos": "noun",
+    "example": "She leads the math department at the high school.",
+    "exampleTr": "Lisedeki matematik bölümüne o başkanlık ediyor.",
+    "syn": [],
+    "ant": [],
+    "level": "B2"
+   },
+   {
+    "id": "specialist",
+    "en": "specialist",
+    "tr": "uzman",
+    "pos": "noun",
+    "example": "A reading specialist helps students who struggle.",
+    "exampleTr": "Okuma uzmanı zorlanan öğrencilere yardım eder.",
+    "syn": [
+     "expert"
+    ],
+    "ant": [],
+    "level": "B2"
+   },
+   {
+    "id": "veteran",
+    "en": "veteran",
+    "tr": "tecrübeli kişi",
+    "pos": "noun",
+    "example": "Ms. Dunn is a veteran teacher with thirty years of experience.",
+    "exampleTr": "Ms. Dunn otuz yıllık tecrübesiyle kıdemli bir öğretmen.",
+    "syn": [
+     "expert"
+    ],
+    "ant": [
+     "newcomer"
+    ],
+    "level": "B2"
+   },
+   {
+    "id": "newcomer",
+    "en": "newcomer",
+    "tr": "yeni gelen",
+    "pos": "noun",
+    "example": "Every newcomer gets a mentor in the first week.",
+    "exampleTr": "Yeni gelen herkes ilk hafta bir mentor alır.",
+    "syn": [],
+    "ant": [
+     "veteran"
+    ],
+    "level": "B2"
+   },
+   {
+    "id": "mentor",
+    "en": "mentor",
+    "tr": "mentor, yol gösterici",
+    "pos": "noun",
+    "example": "My mentor explained the daily routine to me.",
+    "exampleTr": "Mentorum günlük düzeni bana anlattı.",
+    "syn": [
+     "guide"
+    ],
+    "ant": [],
+    "level": "B2"
+   },
+   {
+    "id": "dedicated",
+    "en": "dedicated",
+    "tr": "kendini işine adamış",
+    "pos": "adjective",
+    "example": "She is a dedicated teacher who stays late to help.",
+    "exampleTr": "Yardım etmek için geç saate kadar kalan, işine adanmış bir öğretmen.",
+    "syn": [
+     "committed"
+    ],
+    "ant": [],
+    "level": "B2"
+   },
+   {
+    "id": "approachable",
+    "en": "approachable",
+    "tr": "yaklaşılabilir, ulaşılabilir",
+    "pos": "adjective",
+    "example": "The principal is friendly and approachable.",
+    "exampleTr": "Müdür samimi ve yaklaşılabilir biri.",
+    "syn": [],
+    "ant": [
+     "distant"
+    ],
+    "level": "B2"
+   },
+   {
+    "id": "reliable",
+    "en": "reliable",
+    "tr": "güvenilir",
+    "pos": "adjective",
+    "example": "A good substitute is reliable and arrives on time.",
+    "exampleTr": "İyi bir vekil güvenilirdir ve zamanında gelir.",
+    "syn": [
+     "dependable"
+    ],
+    "ant": [
+     "unreliable"
+    ],
+    "level": "B1"
+   },
+   {
+    "id": "supportive",
+    "en": "supportive",
+    "tr": "destekleyici",
+    "pos": "adjective",
+    "example": "The staff at this school is very supportive.",
+    "exampleTr": "Bu okuldaki personel çok destekleyici.",
+    "syn": [
+     "encouraging"
+    ],
+    "ant": [],
+    "level": "B2"
+   },
+   {
+    "id": "retire",
+    "en": "retire",
+    "tr": "emekli olmak",
+    "pos": "verb",
+    "example": "Mr. Evans will retire after thirty years of teaching.",
+    "exampleTr": "Mr. Evans otuz yıllık öğretmenlikten sonra emekli olacak.",
+    "syn": [],
+    "ant": [],
+    "level": "B2"
+   },
+   {
+    "id": "appoint",
+    "en": "appoint",
+    "tr": "atamak",
+    "pos": "verb",
+    "example": "The district appointed a new principal in June.",
+    "exampleTr": "Bölge, haziranda yeni bir müdür atadı.",
+    "syn": [
+     "assign"
+    ],
+    "ant": [],
+    "level": "B2"
+   },
+   {
+    "id": "aide",
+    "en": "aide",
+    "tr": "yardımcı personel",
+    "pos": "noun",
+    "example": "A teacher's aide helps with small groups.",
+    "exampleTr": "Öğretmen yardımcısı küçük gruplara yardım eder.",
+    "syn": [
+     "assistant"
+    ],
+    "ant": [],
+    "level": "B2"
+   },
+   {
+    "id": "intern",
+    "en": "intern",
+    "tr": "stajyer",
+    "pos": "noun",
+    "example": "The intern from the university observes the class.",
+    "exampleTr": "Üniversiteden gelen stajyer sınıfı gözlemliyor.",
+    "syn": [],
+    "ant": [],
+    "level": "B2"
+   }
+  ],
+  "reading": {
+   "title": "Meet the team at Maple Grove",
+   "text": "On her second visit to Maple Grove Elementary, Hafsa received a printed welcome guide for new staff. It introduced the people she would work with, and she read every page twice.\n\nThe principal, Ms. Rivera, who has led the school for eleven years, is known for her calm voice. She started as a fourth-grade teacher in Ohio, where she also studied school leadership. Her assistant principal, Mr. Patel, whose office is next to the gym, handles student discipline and bus schedules. Parents often say that he answers emails faster than anyone else.\n\nThe front office is run by Mr. Brown, who has worked at the school since 2009. He knows every student by name, which impresses new teachers. Next to his desk is a small kitchen, where staff members share coffee and snacks on Fridays. The guide recommended that substitutes stop there to introduce themselves.\n\nThe school counselor, Ms. Alvarez, whose office is decorated with children's drawings, helps students who are having a hard time at home or in class. She speaks Spanish and a little Turkish, which she learned from a former neighbor. The school nurse, Mr. Kim, who used to work in a hospital, keeps the allergy lists and the first-aid supplies.\n\nThe guide also described the mentor program, which pairs every newcomer with an experienced teacher. Hafsa's mentor would be Ms. Dunn, whose third-grade classroom she had visited in the fall. Ms. Dunn, who retires in two years, has taught more than eight hundred students and still keeps a drawer full of thank-you notes.\n\nAt the end of the guide there was a map of the building. The cafeteria, which serves about three hundred lunches a day, is on the first floor, and the library, where students read on soft rugs, is upstairs. Hafsa took a pen and circled the room numbers she wanted to remember. For the first time, the school felt less like a big building and more like a community of people with names, habits, and stories.",
+   "glossary": [
+    {
+     "en": "welcome guide",
+     "tr": "karşılama rehberi"
+    },
+    {
+     "en": "discipline",
+     "tr": "disiplin"
+    },
+    {
+     "en": "first-aid supplies",
+     "tr": "ilk yardım malzemeleri"
+    },
+    {
+     "en": "pair with",
+     "tr": "eşleştirmek"
+    },
+    {
+     "en": "rug",
+     "tr": "halı, kilim"
+    },
+    {
+     "en": "community",
+     "tr": "topluluk"
+    }
+   ],
+   "questions": [
+    {
+     "type": "mcq",
+     "q": "Who handles student discipline and bus schedules?",
+     "options": [
+      "Mr. Brown",
+      "Mr. Patel",
+      "Ms. Alvarez",
+      "Mr. Kim"
+     ],
+     "answer": 1,
+     "whyTr": "Metin: 'Mr. Patel ... handles student discipline and bus schedules.'",
+     "tag": "reading",
+     "level": "B2"
+    },
+    {
+     "type": "mcq",
+     "q": "Why are new teachers impressed by Mr. Brown?",
+     "options": [
+      "He cooks lunch every Friday.",
+      "He speaks Turkish.",
+      "He knows every student by name.",
+      "He leads the mentor program."
+     ],
+     "answer": 2,
+     "whyTr": "Metin: 'He knows every student by name, which impresses new teachers.'",
+     "tag": "reading",
+     "level": "B2"
+    },
+    {
+     "type": "mcq",
+     "q": "What does the mentor program do?",
+     "options": [
+      "It teaches Spanish to parents.",
+      "It hires new principals.",
+      "It sends students to the library.",
+      "It pairs newcomers with experienced teachers."
+     ],
+     "answer": 3,
+     "whyTr": "Metin: 'pairs every newcomer with an experienced teacher'.",
+     "tag": "reading",
+     "level": "B2"
+    },
+    {
+     "type": "mcq",
+     "q": "Where is the library?",
+     "options": [
+      "Upstairs",
+      "On the first floor, next to the gym",
+      "In the front office",
+      "Next to the nurse's room"
+     ],
+     "answer": 0,
+     "whyTr": "Metin: 'the library ... is upstairs'.",
+     "tag": "reading",
+     "level": "B2"
+    }
+   ]
+  }
+ },
+ "evening": {
+  "listening": {
+   "title": "A tour with Hafsa's mentor",
+   "script": [
+    {
+     "speaker": "Ms. Dunn",
+     "text": "Welcome, Hafsa! Let me show you around the building."
+    },
+    {
+     "speaker": "Hafsa",
+     "text": "Thank you. Who is that man in the blue jacket?"
+    },
+    {
+     "speaker": "Ms. Dunn",
+     "text": "That's Mr. Kim, who is our school nurse. He used to work in a hospital in Seattle."
+    },
+    {
+     "speaker": "Hafsa",
+     "text": "And the woman with the keys?"
+    },
+    {
+     "speaker": "Ms. Dunn",
+     "text": "That is Mrs. Lopez, whose son goes to the middle school next door. She runs the library, which is open until four."
+    },
+    {
+     "speaker": "Hafsa",
+     "text": "Can substitutes use the library too?"
+    },
+    {
+     "speaker": "Ms. Dunn",
+     "text": "Of course. And this is the teachers' lounge, where we eat lunch on Wednesdays."
+    },
+    {
+     "speaker": "Hafsa",
+     "text": "Wednesdays? What happens on Wednesdays?"
+    },
+    {
+     "speaker": "Ms. Dunn",
+     "text": "Mr. Brown, who loves cooking, brings soup for everyone."
+    },
+    {
+     "speaker": "Hafsa",
+     "text": "That's lovely. I can bring baklava next time."
+    },
+    {
+     "speaker": "Ms. Dunn",
+     "text": "Everyone will love it. Please call me if you need anything. My room, which is number fourteen, is down the hall."
+    },
+    {
+     "speaker": "Hafsa",
+     "text": "Thank you, Ms. Dunn. I feel welcome already."
+    }
+   ],
+   "questions": [
+    {
+     "type": "mcq",
+     "q": "Where did Mr. Kim work before?",
+     "options": [
+      "In a library",
+      "In a hospital in Seattle",
+      "In the front office",
+      "At a bus company"
+     ],
+     "answer": 1,
+     "whyTr": "Ms. Dunn: 'He used to work in a hospital in Seattle.'",
+     "tag": "listening",
+     "level": "B2"
+    },
+    {
+     "type": "mcq",
+     "q": "What does Mrs. Lopez run?",
+     "options": [
+      "The teachers' lounge",
+      "The nurse's office",
+      "The library",
+      "The front office"
+     ],
+     "answer": 2,
+     "whyTr": "Ms. Dunn: 'She runs the library'.",
+     "tag": "listening",
+     "level": "B2"
+    },
+    {
+     "type": "mcq",
+     "q": "What happens in the lounge on Wednesdays?",
+     "options": [
+      "The principal gives a speech.",
+      "Teachers vote on the schedule.",
+      "Students sell snacks.",
+      "Mr. Brown brings soup."
+     ],
+     "answer": 3,
+     "whyTr": "Ms. Dunn: 'Mr. Brown, who loves cooking, brings soup for everyone.'",
+     "tag": "listening",
+     "level": "B2"
+    },
+    {
+     "type": "mcq",
+     "q": "What does Hafsa offer to bring next time?",
+     "options": [
+      "Baklava",
+      "Soup",
+      "Coffee",
+      "Cookies"
+     ],
+     "answer": 0,
+     "whyTr": "Hafsa: 'I can bring baklava next time.'",
+     "tag": "listening",
+     "level": "B2"
+    }
+   ]
+  },
+  "writing": {
+   "promptTr": "Okula yeni gelen bir vekil öğretmene hoş geldin notu yaz. Okuldaki üç kişiyi tanıt ve en az üç non-defining cümlecik kullan (who, which, whose, where). 120-180 kelime yaz.",
+   "promptEn": "Write a welcome note to a new substitute teacher. Introduce three people at your school. Use at least three non-defining relative clauses.",
+   "frames": [
+    "Our principal, who ...",
+    "The front office, which ...",
+    "Our nurse, whose ...",
+    "The library, where ..."
+   ],
+   "model": "Dear new colleague, welcome to Maple Grove Elementary! I would like to introduce a few people who will help you in your first week. Our principal, Ms. Rivera, who has led the school for eleven years, is calm and very approachable. You can find her in the main office, which is next to the entrance. Mr. Brown, whose desk is in the front office, will give you the daily plan and a visitor badge. He knows every student by name, so ask him if you are not sure about a child. Our nurse, Mr. Kim, who used to work in a hospital, keeps the allergy lists. Please read them before you give any snacks. On Wednesdays we eat lunch together in the teachers' lounge, where Mr. Brown often brings soup. I hope you will join us. If you have any questions, please call my room, which is number fourteen. We are happy to have you with us, and I am sure you will enjoy this school.",
+   "checklistTr": [
+    "En az üç non-defining cümlecik var mı?",
+    "Cümlecikler virgülle ayrıldı mı?",
+    "'that' kullanmadın değil mi?",
+    "Her cümlecikte doğru zamiri (who/which/whose/where) seçtin mi?"
+   ],
+   "minWords": 120
+  },
+  "examSet": [
+   {
+    "type": "mcq",
+    "q": "Mr. Brown, ___ desk is near the door, will help you.",
+    "options": [
+     "who",
+     "whose",
+     "which",
+     "that"
+    ],
+    "answer": 1,
+    "whyTr": "Aitlik için 'whose'.",
+    "tag": "relative-clauses",
+    "level": "B2"
+   },
+   {
+    "type": "mcq",
+    "q": "The gym, ___ was built in 1998, is being repaired.",
+    "options": [
+     "that",
+     "who",
+     "which",
+     "what"
+    ],
+    "answer": 2,
+    "whyTr": "Virgüllü cümlecikte nesne için 'which'.",
+    "tag": "relative-clauses",
+    "level": "B2"
+   },
+   {
+    "type": "mcq",
+    "q": "Which sentence is correct?",
+    "options": [
+     "My mentor, that teaches third grade, is very helpful.",
+     "My mentor, who teaches third grade, is very helpful.",
+     "My mentor, who she teaches third grade, is very helpful."
+    ],
+    "answer": 1,
+    "whyTr": "Virgüllü cümlecikte 'that' ve fazladan zamir kullanılmaz.",
+    "tag": "relative-clauses",
+    "level": "B2"
+   },
+   {
+    "type": "mcq",
+    "q": "I grew up in Isparta, ___ is famous for roses.",
+    "options": [
+     "which",
+     "where",
+     "who",
+     "whose"
+    ],
+    "answer": 0,
+    "whyTr": "Yer, cümlecikte özne olduğu için 'which' gelir.",
+    "tag": "relative-clauses",
+    "level": "B2"
+   },
+   {
+    "type": "mcq",
+    "q": "We stayed in Denver, ___ my cousin lives.",
+    "options": [
+     "which",
+     "where",
+     "who",
+     "whose"
+    ],
+    "answer": 1,
+    "whyTr": "Yer anlamında ('orada yaşıyor') 'where' kullanılır.",
+    "tag": "relative-clauses",
+    "level": "B2"
+   },
+   {
+    "type": "mcq",
+    "q": "Which sentence is punctuated correctly?",
+    "options": [
+     "Emre who is my son works downtown.",
+     "Emre, who is my son, works downtown.",
+     "Emre, who is my son works downtown."
+    ],
+    "answer": 1,
+    "whyTr": "Özel isimden sonra ek bilgi iki virgül arasına alınır.",
+    "tag": "relative-clauses",
+    "level": "B2"
+   },
+   {
+    "type": "mcq",
+    "q": "He didn't call me, ___ made me worried.",
+    "options": [
+     "what",
+     "who",
+     "that",
+     "which"
+    ],
+    "answer": 3,
+    "whyTr": "Tüm cümleye gönderme yapan zamir 'which'.",
+    "tag": "relative-clauses",
+    "level": "B2"
+   },
+   {
+    "type": "mcq",
+    "q": "The principal ___ us not to park near the gate.",
+    "options": [
+     "warned",
+     "admitted",
+     "denied",
+     "suggested"
+    ],
+    "answer": 0,
+    "whyTr": "'Warn' + kişi + not to + fiil.",
+    "tag": "reported-speech",
+    "level": "B2"
+   },
+   {
+    "type": "mcq",
+    "q": "She suggested ___ the mentor first.",
+    "options": [
+     "to ask",
+     "asking",
+     "us ask"
+    ],
+    "answer": 1,
+    "whyTr": "'Suggest' + -ing.",
+    "tag": "gerund-infinitive",
+    "level": "B2"
+   },
+   {
+    "type": "mcq",
+    "q": "The new teachers ___ at the meeting yesterday.",
+    "options": [
+     "introduced",
+     "are introduced",
+     "were introduced",
+     "have introduced"
+    ],
+    "answer": 2,
+    "whyTr": "Geçmiş zaman edilgen: were + V3.",
+    "tag": "passive",
+    "level": "B2"
+   },
+   {
+    "type": "mcq",
+    "q": "If Ms. Dunn ___ now, the school would need a new mentor.",
+    "options": [
+     "retires",
+     "will retire",
+     "would retire",
+     "retired"
+    ],
+    "answer": 3,
+    "whyTr": "Gerçek dışı koşulda if cümlesi past simple alır.",
+    "tag": "conditionals",
+    "level": "B2"
+   },
+   {
+    "type": "mcq",
+    "q": "Mr. Brown is very ___. Everyone can talk to him about anything.",
+    "options": [
+     "approachable",
+     "retired",
+     "appointed",
+     "dedicated"
+    ],
+    "answer": 0,
+    "whyTr": "Kolay ulaşılabilir: approachable.",
+    "tag": "vocab",
+    "level": "B2"
+   },
+   {
+    "type": "mcq",
+    "q": "The school ___ a new assistant principal last month.",
+    "options": [
+     "retired",
+     "appointed",
+     "convinced",
+     "opposed"
+    ],
+    "answer": 1,
+    "whyTr": "Birini göreve atamak: appoint.",
+    "tag": "vocab",
+    "level": "B2"
+   },
+   {
+    "type": "mcq",
+    "q": "Which word means almost the same as \"reliable\"?",
+    "options": [
+     "careless",
+     "curious",
+     "dependable",
+     "nervous"
+    ],
+    "answer": 2,
+    "whyTr": "Reliable ve dependable eş anlamlıdır.",
+    "tag": "synonym",
+    "level": "B2"
+   },
+   {
+    "type": "mcq",
+    "q": "What is the opposite of \"veteran\" (an experienced person)?",
+    "options": [
+     "mentor",
+     "specialist",
+     "administrator",
+     "newcomer"
+    ],
+    "answer": 3,
+    "whyTr": "Tecrübeli kişinin zıttı yeni gelen: newcomer.",
+    "tag": "antonym",
+    "level": "B2"
+   },
+   {
+    "type": "mcq",
+    "q": "The ___ includes teachers, counselors, and other professional staff.",
+    "options": [
+     "faculty",
+     "department",
+     "intern",
+     "aide"
+    ],
+    "answer": 0,
+    "whyTr": "Öğretim kadrosu: faculty.",
+    "tag": "vocab",
+    "level": "B2"
+   },
+   {
+    "type": "mcq",
+    "q": "Ms. Alvarez, who is the school counselor, speaks Spanish. Her office, which is next to the library, is open until three. Students who need help can visit without an appointment.\n\nWhere is Ms. Alvarez's office?",
+    "options": [
+     "Next to the gym.",
+     "Next to the library.",
+     "On the first floor, by the cafeteria.",
+     "In the front office."
+    ],
+    "answer": 1,
+    "whyTr": "Metin: 'Her office, which is next to the library'.",
+    "tag": "reading",
+    "level": "B2"
+   },
+   {
+    "type": "mcq",
+    "q": "The department meeting, which usually lasts an hour, was short today. Mr. Patel, whose schedule was full, left early. The teachers will finish the discussion by email.\n\nHow will the teachers finish the discussion?",
+    "options": [
+     "At lunch",
+     "On Friday",
+     "By email",
+     "In the library"
+    ],
+    "answer": 2,
+    "whyTr": "Metin: 'finish the discussion by email'.",
+    "tag": "reading",
+    "level": "B2"
+   },
+   {
+    "type": "mcq",
+    "q": "Which word means almost the same as \"dedicated\"?",
+    "options": [
+     "tired",
+     "shy",
+     "careless",
+     "committed"
+    ],
+    "answer": 3,
+    "whyTr": "Dedicated ve committed eş anlamlıdır.",
+    "tag": "synonym",
+    "level": "B2"
+   },
+   {
+    "type": "mcq",
+    "q": "Which sentence is correct?",
+    "options": [
+     "He denied taking the pen.",
+     "He denied to take the pen.",
+     "He denied take the pen."
+    ],
+    "answer": 0,
+    "whyTr": "'Deny' + -ing.",
+    "tag": "reported-speech",
+    "level": "B2"
+   }
+  ]
+ }
+}

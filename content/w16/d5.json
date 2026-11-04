@@ -1,0 +1,952 @@
+{
+ "week": 16,
+ "day": 5,
+ "titleTr": "Kelime bilgisi ve kelime türetme",
+ "theme": "word-formation",
+ "morning": {
+  "grammar": {
+   "topic": "Vocabulary and word formation",
+   "explainTr": [
+    "Bir kelimeyi bilmek, ailesini bilmek demektir. Fiil + -tion/-ment/-ance → isim (educate → education, improve → improvement, assist → assistance). Isim/fiil + -ful/-ive/-able/-al → sıfat (help → helpful, create → creative, rely → reliable). Sıfat + -ly → zarf (careful → carefully).",
+    "Ön ekler anlamı değiştirir: un-, in-, im-, dis- çoğunlukla zıt anlam verir (unclear, inflexible, impossible, disagree). Kural: p/b/m öncesinde im- (impossible), l öncesinde il-, r öncesinde ir-. Sınavda boşluğa bakıp 'burada isim mi, sıfat mı, zarf mı?' diye sor.",
+    "Kelimeleri tek başına değil, birlikte öğren: make a decision, pay attention, give a presentation. Phrasal verb'ler de blok olarak öğrenilir: go over, call off, come up with."
+   ],
+   "compareTr": "Türkçe de ek ile kelime türetir (göz → gözlük → gözlükçü). İngilizce aynı mantıktadır ama ekler başa da gelir: un-happy. Türkçeden farklı olarak kelimenin türü değişince biçimi de değişir ve cümledeki yeri belirler.",
+   "table": [
+    [
+     "Fiil → isim",
+     "-tion / -ment / -ance",
+     "educate → education"
+    ],
+    [
+     "İsim → sıfat",
+     "-ful / -ive / -al",
+     "help → helpful"
+    ],
+    [
+     "Fiil → sıfat",
+     "-able / -ive",
+     "rely → reliable"
+    ],
+    [
+     "Sıfat → zarf",
+     "-ly",
+     "careful → carefully"
+    ],
+    [
+     "Zıt anlam",
+     "un- / in- / im- / dis-",
+     "clear → unclear"
+    ],
+    [
+     "Kişi",
+     "-er / -or / -ist",
+     "communicate → communicator"
+    ]
+   ],
+   "examples": [
+    {
+     "en": "Her efficiency impressed the principal.",
+     "tr": "Verimliliği müdürü etkiledi."
+    },
+    {
+     "en": "We need a more innovative solution.",
+     "tr": "Daha yenilikçi bir çözüme ihtiyacımız var."
+    },
+    {
+     "en": "It is impossible to finish in ten minutes.",
+     "tr": "On dakikada bitirmek imkânsız."
+    },
+    {
+     "en": "He showed great leadership.",
+     "tr": "Büyük bir liderlik gösterdi."
+    },
+    {
+     "en": "The meeting was called off because of the storm.",
+     "tr": "Toplantı fırtına yüzünden iptal edildi."
+    }
+   ],
+   "exercises": [
+    {
+     "type": "mcq",
+     "q": "Her ___ in planning impressed the principal.",
+     "options": [
+      "efficiency",
+      "efficient",
+      "efficiently",
+      "efficiencies"
+     ],
+     "answer": 0,
+     "whyTr": "Boşlukta isim gerekir (sahiplik sıfatından sonra): efficiency.",
+     "tag": "word-formation",
+     "level": "B2"
+    },
+    {
+     "type": "mcq",
+     "q": "The students worked ___ in small groups.",
+     "options": [
+      "collaborate",
+      "collaboration",
+      "collaborative",
+      "collaboratively"
+     ],
+     "answer": 3,
+     "whyTr": "Fiili niteleyen zarf gerekir: collaboratively.",
+     "tag": "word-formation",
+     "level": "B2"
+    },
+    {
+     "type": "mcq",
+     "q": "We need a more ___ solution to this problem.",
+     "options": [
+      "innovate",
+      "innovation",
+      "innovative",
+      "innovatively"
+     ],
+     "answer": 2,
+     "whyTr": "Isim (solution) önünde sıfat gerekir: innovative.",
+     "tag": "word-formation",
+     "level": "B2"
+    },
+    {
+     "type": "mcq",
+     "q": "If I ___ more time, I would organize the files.",
+     "options": [
+      "have",
+      "had",
+      "will have",
+      "would have"
+     ],
+     "answer": 1,
+     "whyTr": "Type 2 koşul: if + past simple.",
+     "tag": "conditionals",
+     "level": "B2"
+    },
+    {
+     "type": "mcq",
+     "q": "It is ___ to finish forty tests in ten minutes.",
+     "options": [
+      "unpossible",
+      "impossible",
+      "dispossible",
+      "inpossible"
+     ],
+     "answer": 1,
+     "whyTr": "possible'ın olumsuzu im- ile yapılır: impossible.",
+     "tag": "word-formation",
+     "level": "B2"
+    },
+    {
+     "type": "mcq",
+     "q": "He showed great ___ when he organized the field trip.",
+     "options": [
+      "leadership",
+      "leader",
+      "leading",
+      "led"
+     ],
+     "answer": 0,
+     "whyTr": "Great'ten sonra isim gerekir; lead + -ership = leadership.",
+     "tag": "word-formation",
+     "level": "B2"
+    },
+    {
+     "type": "mcq",
+     "q": "I need to ___ a decision before Friday.",
+     "options": [
+      "do",
+      "have",
+      "give",
+      "make"
+     ],
+     "answer": 3,
+     "whyTr": "Kalıp: make a decision.",
+     "tag": "collocations",
+     "level": "B2"
+    },
+    {
+     "type": "mcq",
+     "q": "She ___ attention to every detail.",
+     "options": [
+      "gives",
+      "puts",
+      "pays",
+      "makes"
+     ],
+     "answer": 2,
+     "whyTr": "Kalıp: pay attention.",
+     "tag": "collocations",
+     "level": "B2"
+    },
+    {
+     "type": "mcq",
+     "q": "Please ___ your notes before the exam.",
+     "options": [
+      "go in",
+      "go on",
+      "go over",
+      "go by"
+     ],
+     "answer": 2,
+     "whyTr": "go over = gözden geçirmek.",
+     "tag": "phrasal-verbs",
+     "level": "B2"
+    },
+    {
+     "type": "mcq",
+     "q": "The meeting ___ because of the storm.",
+     "options": [
+      "called off",
+      "was called off",
+      "has called off",
+      "was calling off"
+     ],
+     "answer": 1,
+     "whyTr": "Toplantı iptal edildi: pasif + phrasal verb (call off).",
+     "tag": "passive",
+     "level": "B2"
+    },
+    {
+     "type": "order",
+     "promptTr": "Cümleyi sırala:",
+     "words": [
+      "She",
+      "is",
+      "looking",
+      "forward",
+      "to",
+      "meeting",
+      "her",
+      "new",
+      "class"
+     ],
+     "answer": "She is looking forward to meeting her new class",
+     "whyTr": "look forward to + V-ing kalıbı.",
+     "tag": "phrasal-verbs",
+     "level": "B2"
+    },
+    {
+     "type": "fill",
+     "q": "He is very ___. He always arrives on time. (rely)",
+     "accept": [
+      "reliable"
+     ],
+     "hintTr": "rely → sıfat",
+     "whyTr": "rely + -able = reliable (güvenilir).",
+     "tag": "word-formation",
+     "level": "B2"
+    }
+   ]
+  },
+  "vocab": [
+   {
+    "id": "efficient",
+    "en": "efficient",
+    "tr": "verimli",
+    "pos": "adjective",
+    "example": "An efficient teacher plans every minute of the lesson.",
+    "exampleTr": "Verimli bir öğretmen dersin her dakikasını planlar.",
+    "syn": [
+     "effective"
+    ],
+    "ant": [
+     "wasteful"
+    ],
+    "level": "B2"
+   },
+   {
+    "id": "productive",
+    "en": "productive",
+    "tr": "üretken, verimli",
+    "pos": "adjective",
+    "example": "We had a productive meeting about the new schedule.",
+    "exampleTr": "Yeni program hakkında verimli bir toplantı yaptık.",
+    "syn": [
+     "fruitful"
+    ],
+    "ant": [
+     "unproductive"
+    ],
+    "level": "B2"
+   },
+   {
+    "id": "collaborate",
+    "en": "collaborate",
+    "tr": "iş birliği yapmak",
+    "pos": "verb",
+    "example": "Teachers collaborate to plan the field trip.",
+    "exampleTr": "Öğretmenler gezi planı için iş birliği yapar.",
+    "syn": [
+     "cooperate"
+    ],
+    "ant": [
+     "compete"
+    ],
+    "level": "B2"
+   },
+   {
+    "id": "evaluate",
+    "en": "evaluate",
+    "tr": "değerlendirmek",
+    "pos": "verb",
+    "example": "The principal will evaluate your first month.",
+    "exampleTr": "Müdür ilk ayını değerlendirecek.",
+    "syn": [
+     "assess"
+    ],
+    "ant": [],
+    "level": "B2"
+   },
+   {
+    "id": "analyze",
+    "en": "analyze",
+    "tr": "analiz etmek",
+    "pos": "verb",
+    "example": "Students analyze the story and discuss it.",
+    "exampleTr": "Öğrenciler hikâyeyi analiz eder ve tartışır.",
+    "syn": [
+     "examine"
+    ],
+    "ant": [],
+    "level": "B2"
+   },
+   {
+    "id": "innovative",
+    "en": "innovative",
+    "tr": "yenilikçi",
+    "pos": "adjective",
+    "example": "She uses innovative games to teach grammar.",
+    "exampleTr": "Gramer öğretmek için yenilikçi oyunlar kullanıyor.",
+    "syn": [
+     "creative"
+    ],
+    "ant": [
+     "traditional"
+    ],
+    "level": "B2"
+   },
+   {
+    "id": "flexible",
+    "en": "flexible",
+    "tr": "esnek",
+    "pos": "adjective",
+    "example": "Substitutes need flexible schedules.",
+    "exampleTr": "Vekil öğretmenlerin esnek programlara ihtiyacı var.",
+    "syn": [
+     "adaptable"
+    ],
+    "ant": [
+     "rigid"
+    ],
+    "level": "B2"
+   },
+   {
+    "id": "adjust",
+    "en": "adjust",
+    "tr": "ayarlamak, uyum sağlamak",
+    "pos": "verb",
+    "example": "It took her a week to adjust to the new routine.",
+    "exampleTr": "Yeni düzene alışması bir hafta sürdü.",
+    "syn": [
+     "adapt"
+    ],
+    "ant": [],
+    "level": "B2"
+   },
+   {
+    "id": "organize",
+    "en": "organize",
+    "tr": "düzenlemek, organize etmek",
+    "pos": "verb",
+    "example": "Please organize your papers into folders.",
+    "exampleTr": "Lütfen kâğıtlarını dosyalara düzenle.",
+    "syn": [
+     "arrange"
+    ],
+    "ant": [
+     "disorganize"
+    ],
+    "level": "B2"
+   },
+   {
+    "id": "communicate",
+    "en": "communicate",
+    "tr": "iletişim kurmak",
+    "pos": "verb",
+    "example": "Teachers must communicate clearly with parents.",
+    "exampleTr": "Öğretmenler velilerle net iletişim kurmalıdır.",
+    "syn": [
+     "express"
+    ],
+    "ant": [],
+    "level": "B2"
+   },
+   {
+    "id": "leadership",
+    "en": "leadership",
+    "tr": "liderlik",
+    "pos": "noun",
+    "example": "The principal values leadership in young teachers.",
+    "exampleTr": "Müdür genç öğretmenlerdeki liderliğe değer verir.",
+    "syn": [],
+    "ant": [],
+    "level": "B2"
+   },
+   {
+    "id": "enthusiasm",
+    "en": "enthusiasm",
+    "tr": "coşku, istek",
+    "pos": "noun",
+    "example": "Her enthusiasm made the children smile.",
+    "exampleTr": "Coşkusu çocukları gülümsetti.",
+    "syn": [
+     "excitement"
+    ],
+    "ant": [
+     "apathy"
+    ],
+    "level": "B2"
+   },
+   {
+    "id": "creativity",
+    "en": "creativity",
+    "tr": "yaratıcılık",
+    "pos": "noun",
+    "example": "Art class develops creativity.",
+    "exampleTr": "Resim dersi yaratıcılığı geliştirir.",
+    "syn": [
+     "imagination"
+    ],
+    "ant": [],
+    "level": "B2"
+   },
+   {
+    "id": "assistance",
+    "en": "assistance",
+    "tr": "yardım",
+    "pos": "noun",
+    "example": "Please ask the office for assistance.",
+    "exampleTr": "Lütfen ofisten yardım iste.",
+    "syn": [
+     "help"
+    ],
+    "ant": [],
+    "level": "B2"
+   },
+   {
+    "id": "cooperation",
+    "en": "cooperation",
+    "tr": "iş birliği, uyum",
+    "pos": "noun",
+    "example": "Thank you for your cooperation.",
+    "exampleTr": "İş birliğiniz için teşekkürler.",
+    "syn": [
+     "teamwork"
+    ],
+    "ant": [
+     "conflict"
+    ],
+    "level": "B2"
+   }
+  ],
+  "reading": {
+   "title": "A job posting full of new words",
+   "text": "Hafsa found a job posting for a long-term substitute position at Roosevelt Middle School. She read it slowly: \"We are looking for a flexible and enthusiastic teacher who can collaborate with our staff. Applicants must show strong communication skills, creativity, and the ability to organize a productive classroom.\"\n\nShe underlined six words she did not know. Then she remembered a trick from her English class: look at the word, not the whole sentence. For example, \"enthusiastic\" must be related to \"enthusiasm,\" a noun she had heard before. \"Flexible\" reminded her of \"flexibility,\" and the prefix \"in-\" in \"inflexible\" gave her the opposite. \"Communication\" came from \"communicate,\" a verb she used every day.\n\nEmre sat down next to her. \"Mom, you are using the dictionary too much,\" he said. \"Try to guess first.\" Together they played a game. Emre wrote a base word on a sheet of paper, and Hafsa had to make as many related words as possible. For \"create,\" she wrote \"creative,\" \"creativity,\" \"creation,\" and \"creator.\" For \"organize,\" she wrote \"organization\" and \"organized,\" but she forgot \"disorganized.\" Emre gave her a point for each correct word.\n\n\"Why is this so useful?\" Hafsa asked. \"Because English has thousands of words that are built from the same roots,\" Emre said. \"If you know one, you usually understand four more.\" Hafsa nodded slowly. It made her feel less afraid. She had worried that she would need to memorize ten thousand separate words, but now she saw that many of them were relatives.\n\nAt the end of the evening, she wrote a short cover letter. She used \"flexible,\" \"productive,\" and \"collaborate\" in the first paragraph, which made her smile. \"Last year I could not read this posting,\" she wrote in her notebook. \"Today I can answer it.\" The next morning she sent the application before breakfast.",
+   "glossary": [
+    {
+     "en": "posting",
+     "tr": "ilan"
+    },
+    {
+     "en": "underline",
+     "tr": "altını çizmek"
+    },
+    {
+     "en": "prefix",
+     "tr": "ön ek"
+    },
+    {
+     "en": "root",
+     "tr": "kök"
+    },
+    {
+     "en": "cover letter",
+     "tr": "ön yazı"
+    }
+   ],
+   "questions": [
+    {
+     "type": "mcq",
+     "q": "What kind of teacher does the posting ask for?",
+     "options": [
+      "A flexible and enthusiastic one",
+      "A strict and quiet one",
+      "An experienced principal",
+      "A teacher who lives nearby"
+     ],
+     "answer": 0,
+     "whyTr": "Metin: 'a flexible and enthusiastic teacher'.",
+     "tag": "reading",
+     "level": "B2"
+    },
+    {
+     "type": "mcq",
+     "q": "How did Hafsa guess the meaning of \"inflexible\"?",
+     "options": [
+      "She looked it up online",
+      "Emre translated it",
+      "She saw a picture",
+      "The prefix gave her the opposite"
+     ],
+     "answer": 3,
+     "whyTr": "Metin: 'the prefix \"in-\" ... gave her the opposite'.",
+     "tag": "reading",
+     "level": "B2"
+    },
+    {
+     "type": "mcq",
+     "q": "What does Emre say about English words?",
+     "options": [
+      "Most words are very short",
+      "Dictionaries are always better",
+      "Only nouns have families",
+      "Many words are built from the same roots"
+     ],
+     "answer": 3,
+     "whyTr": "Metin: 'words that are built from the same roots'.",
+     "tag": "reading",
+     "level": "B2"
+    },
+    {
+     "type": "mcq",
+     "q": "Which word did Hafsa forget in the game?",
+     "options": [
+      "creative",
+      "organization",
+      "disorganized",
+      "creator"
+     ],
+     "answer": 2,
+     "whyTr": "Metin: 'she forgot \"disorganized.\"'",
+     "tag": "reading",
+     "level": "B2"
+    }
+   ]
+  }
+ },
+ "evening": {
+  "listening": {
+   "title": "Understanding a school email",
+   "script": [
+    {
+     "speaker": "Hafsa",
+     "text": "Linda, I got an email from the principal, and I don't understand some words."
+    },
+    {
+     "speaker": "Linda",
+     "text": "Read it to me, and I'll help you."
+    },
+    {
+     "speaker": "Hafsa",
+     "text": "It says: \"Please evaluate the lesson and submit your analysis by Friday.\""
+    },
+    {
+     "speaker": "Linda",
+     "text": "Evaluate means to judge how well something worked. Analysis comes from analyze, which means to study something carefully."
+    },
+    {
+     "speaker": "Hafsa",
+     "text": "So I write what worked and what didn't?"
+    },
+    {
+     "speaker": "Linda",
+     "text": "Exactly. Keep it short and clear."
+    },
+    {
+     "speaker": "Hafsa",
+     "text": "There is another sentence: \"Your assistance with the field trip will be appreciated.\""
+    },
+    {
+     "speaker": "Linda",
+     "text": "Assistance is just help. It comes from the verb assist."
+    },
+    {
+     "speaker": "Hafsa",
+     "text": "Oh, that's easy. And what about cooperation?"
+    },
+    {
+     "speaker": "Linda",
+     "text": "It means working together. The verb is cooperate. Words ending in -tion are usually nouns."
+    },
+    {
+     "speaker": "Hafsa",
+     "text": "That's a useful tip."
+    },
+    {
+     "speaker": "Linda",
+     "text": "And many adjectives end in -ful or -ive, like helpful and creative. Write that in your notebook!"
+    }
+   ],
+   "questions": [
+    {
+     "type": "mcq",
+     "q": "What must Hafsa submit by Friday?",
+     "options": [
+      "A field trip form",
+      "An analysis of the lesson",
+      "A new badge",
+      "A cover letter"
+     ],
+     "answer": 1,
+     "whyTr": "'submit your analysis by Friday'.",
+     "tag": "listening",
+     "level": "B2"
+    },
+    {
+     "type": "mcq",
+     "q": "What does \"assistance\" mean?",
+     "options": [
+      "Help",
+      "Payment",
+      "Permission",
+      "Schedule"
+     ],
+     "answer": 0,
+     "whyTr": "Linda: 'Assistance is just help.'",
+     "tag": "listening",
+     "level": "B2"
+    },
+    {
+     "type": "mcq",
+     "q": "What does Linda say about words ending in -tion?",
+     "options": [
+      "They are usually nouns",
+      "They are always verbs",
+      "They are adjectives",
+      "They are rare"
+     ],
+     "answer": 0,
+     "whyTr": "'Words ending in -tion are usually nouns.'",
+     "tag": "listening",
+     "level": "B2"
+    },
+    {
+     "type": "mcq",
+     "q": "Which endings often show adjectives?",
+     "options": [
+      "-tion and -ment",
+      "-ing and -ed",
+      "-er and -or",
+      "-ful and -ive"
+     ],
+     "answer": 3,
+     "whyTr": "'many adjectives end in -ful or -ive'.",
+     "tag": "listening",
+     "level": "B2"
+    }
+   ]
+  },
+  "writing": {
+   "promptTr": "Kelime ailelerini nasıl öğrendiğini anlatan bir paragraf yaz (120-180 kelime): Neden kelime köklerine bakmak faydalı? Bir kelimeden hangi yeni kelimeleri türetebilirsin? Gelecekte nasıl çalışacaksın?",
+   "promptEn": "Write a paragraph (120-180 words) explaining how you learn word families. Give examples of base words and their related forms, and say how you will study in the future.",
+   "frames": [
+    "When I see a new word, I first ...",
+    "For example, the noun ... comes from the verb ...",
+    "The prefix un- / in- / dis- gives the opposite, as in ...",
+    "The suffix -ful / -ive / -tion shows ...",
+    "In the future, I will ..."
+   ],
+   "model": "When I see a new word, I first look at its parts instead of opening the dictionary. For example, the noun \"cooperation\" comes from the verb \"cooperate,\" and the adjective \"cooperative\" is from the same family. If I know one word, I can usually guess two or three more.\n\nPrefixes and suffixes are also very helpful. The prefix un- or in- often gives the opposite, as in \"unclear\" or \"inflexible.\" The suffix -ful or -ive often shows an adjective, like \"helpful\" or \"creative,\" while -tion and -ment usually show a noun, like \"education\" or \"improvement.\"\n\nI think this method is better than memorizing long lists because the words are connected in my mind.\n\nIn the future, I will write one word family on a card every day. I will also read the school emails slowly and underline every word I can build from a known root. If I keep doing this, I believe my vocabulary will grow much faster, and I will feel more confident in the classroom.",
+   "checklistTr": [
+    "En az üç kelime ailesi örneği verdin mi (isim, fiil, sıfat)?",
+    "Bir ön ek (un-, in-, dis-) ve bir son ek (-ful, -ive, -tion) örneği var mı?",
+    "Gelecek planı için will kullandın mı?",
+    "Fikirleri bağlayan linkers kullandın mı (for example, also, because)?"
+   ],
+   "minWords": 120
+  },
+  "examSet": [
+   {
+    "type": "mcq",
+    "q": "Emre ___ the words on a sheet when Hafsa walked in.",
+    "options": [
+     "wrote",
+     "has written",
+     "was writing",
+     "writes"
+    ],
+    "answer": 2,
+    "whyTr": "Başka olay araya girerken süren eylem: past continuous.",
+    "tag": "past-continuous",
+    "level": "B2"
+   },
+   {
+    "type": "mcq",
+    "q": "If she ___ the prefix, she would have guessed the meaning.",
+    "options": [
+     "knew",
+     "had known",
+     "has known",
+     "would know"
+    ],
+    "answer": 1,
+    "whyTr": "Type 3: if + past perfect.",
+    "tag": "conditionals",
+    "level": "B2"
+   },
+   {
+    "type": "mcq",
+    "q": "This word ___ in many job ads.",
+    "options": [
+     "uses",
+     "is used",
+     "is using",
+     "used"
+    ],
+    "answer": 1,
+    "whyTr": "Kelime kullanılır (pasif): is used.",
+    "tag": "passive",
+    "level": "B2"
+   },
+   {
+    "type": "mcq",
+    "q": "Emre told her ___ the dictionary so much.",
+    "options": [
+     "not to use",
+     "don't use",
+     "to not using",
+     "not use"
+    ],
+    "answer": 0,
+    "whyTr": "told + kişi + not to + fiil.",
+    "tag": "reported-speech",
+    "level": "B2"
+   },
+   {
+    "type": "mcq",
+    "q": "You ___ memorize every word; learning roots is enough.",
+    "options": [
+     "mustn't",
+     "can't",
+     "shouldn't have",
+     "don't have to"
+    ],
+    "answer": 3,
+    "whyTr": "Zorunlu değil: don't have to.",
+    "tag": "modals",
+    "level": "B2"
+   },
+   {
+    "type": "mcq",
+    "q": "Which word is closest in meaning to \"evaluate\"?",
+    "options": [
+     "ignore",
+     "collect",
+     "assess",
+     "borrow"
+    ],
+    "answer": 2,
+    "whyTr": "Evaluate = assess.",
+    "tag": "synonym",
+    "level": "B2"
+   },
+   {
+    "type": "mcq",
+    "q": "Which word is closest in meaning to \"assistance\"?",
+    "options": [
+     "rule",
+     "payment",
+     "help",
+     "delay"
+    ],
+    "answer": 2,
+    "whyTr": "Assistance = help.",
+    "tag": "synonym",
+    "level": "B2"
+   },
+   {
+    "type": "mcq",
+    "q": "What is the opposite of \"flexible\"?",
+    "options": [
+     "adaptable",
+     "rigid",
+     "soft",
+     "careful"
+    ],
+    "answer": 1,
+    "whyTr": "Flexible (esnek) ↔ rigid (katı).",
+    "tag": "antonym",
+    "level": "B2"
+   },
+   {
+    "type": "mcq",
+    "q": "What is the opposite of \"innovative\"?",
+    "options": [
+     "traditional",
+     "creative",
+     "modern",
+     "original"
+    ],
+    "answer": 0,
+    "whyTr": "Innovative (yenilikçi) ↔ traditional (geleneksel).",
+    "tag": "antonym",
+    "level": "B2"
+   },
+   {
+    "type": "mcq",
+    "q": "Her ___ makes the lessons fun.",
+    "options": [
+     "creative",
+     "create",
+     "creatively",
+     "creativity"
+    ],
+    "answer": 3,
+    "whyTr": "Sahiplik zamirinden sonra isim: creativity.",
+    "tag": "word-formation",
+    "level": "B2"
+   },
+   {
+    "type": "mcq",
+    "q": "He is a good ___; he listens and speaks clearly.",
+    "options": [
+     "communication",
+     "communicate",
+     "communicative",
+     "communicator"
+    ],
+    "answer": 3,
+    "whyTr": "Kişi ismi gerekir: communicator.",
+    "tag": "word-formation",
+    "level": "B2"
+   },
+   {
+    "type": "mcq",
+    "q": "The directions were ___, so I asked again.",
+    "options": [
+     "unclearly",
+     "nonclear",
+     "unclear",
+     "disclear"
+    ],
+    "answer": 2,
+    "whyTr": "clear'ın olumsuzu un- ile: unclear.",
+    "tag": "word-formation",
+    "level": "B2"
+   },
+   {
+    "type": "mcq",
+    "q": "The teacher thanked the class for their ___.",
+    "options": [
+     "cooperate",
+     "cooperation",
+     "cooperative",
+     "cooperatively"
+    ],
+    "answer": 1,
+    "whyTr": "Their'den sonra isim: cooperation.",
+    "tag": "word-formation",
+    "level": "B2"
+   },
+   {
+    "type": "mcq",
+    "q": "She will ___ a presentation to the staff.",
+    "options": [
+     "give",
+     "do",
+     "say",
+     "tell"
+    ],
+    "answer": 0,
+    "whyTr": "Kalıp: give a presentation.",
+    "tag": "collocations",
+    "level": "B2"
+   },
+   {
+    "type": "mcq",
+    "q": "She came ___ with a great idea.",
+    "options": [
+     "up",
+     "over",
+     "through",
+     "across"
+    ],
+    "answer": 0,
+    "whyTr": "come up with = bulmak, ortaya atmak.",
+    "tag": "phrasal-verbs",
+    "level": "B2"
+   },
+   {
+    "type": "mcq",
+    "q": "Emre is ___ university student.",
+    "options": [
+     "an",
+     "the",
+     "one",
+     "a"
+    ],
+    "answer": 3,
+    "whyTr": "University 'yu' sesiyle başlar; ünsüz sesi: a.",
+    "tag": "articles",
+    "level": "B2"
+   },
+   {
+    "type": "mcq",
+    "q": "That is the teacher ___ classroom I visited.",
+    "options": [
+     "who",
+     "which",
+     "whose",
+     "where"
+    ],
+    "answer": 2,
+    "whyTr": "Sahiplik: whose.",
+    "tag": "relative-clauses",
+    "level": "B2"
+   },
+   {
+    "type": "mcq",
+    "q": "I studied hard; ___, I passed the test.",
+    "options": [
+     "although",
+     "therefore",
+     "despite",
+     "because"
+    ],
+    "answer": 1,
+    "whyTr": "Sonuç bağlacı: therefore.",
+    "tag": "linkers",
+    "level": "B2"
+   },
+   {
+    "type": "mcq",
+    "q": "Hafsa was asked to evaluate her first month. She wrote that her strengths were patience and flexibility. Her weakness was speed: she needed more time to check attendance.\n\nWhat was Hafsa's weakness?",
+    "options": [
+     "She was impatient",
+     "She worked slowly when checking attendance",
+     "She was inflexible",
+     "She forgot the students' names"
+    ],
+    "answer": 1,
+    "whyTr": "Metin: 'Her weakness was speed'.",
+    "tag": "reading",
+    "level": "B2"
+   },
+   {
+    "type": "mcq",
+    "q": "The new software is intuitive. Even substitutes who had never seen it before could take attendance within two minutes.\n\nWhat does \"intuitive\" most likely mean?",
+    "options": [
+     "Easy to understand",
+     "Very expensive",
+     "Hard to learn",
+     "Old-fashioned"
+    ],
+    "answer": 0,
+    "whyTr": "Bağlam: hiç görmeyenler bile 2 dakikada kullandı.",
+    "tag": "reading",
+    "level": "B2"
+   }
+  ]
+ }
+}

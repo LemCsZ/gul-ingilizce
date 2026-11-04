@@ -1,0 +1,796 @@
+{
+ "week": 7,
+ "day": 1,
+ "titleTr": "Başvuru süreci: önce ne oldu, sonra ne oldu?",
+ "theme": "job-application",
+ "morning": {
+  "grammar": {
+   "topic": "Past Perfect (by the time, before, after)",
+   "explainTr": [
+    "Past Perfect, geçmişteki bir olaydan daha önce olmuş bir işi anlatır. Yapı: had + fiilin 3. hali (past participle). Tüm özneler için 'had' aynıdır: I had finished, she had finished.",
+    "'By the time', 'before' ve 'after' ile iki geçmiş olayın sırasını gösterirsin. Önce olan iş Past Perfect, sonra olan iş Past Simple olur: By the time I arrived, the office had closed.",
+    "Olumsuz: hadn't + V3. Soru: Had + özne + V3? 'Already' ve 'never' had ile V3 arasına girer: She had already left."
+   ],
+   "compareTr": "Türkçede 'gitmişti' tek kelimedir (-mişti). İngilizcede 'had gone' iki parçadır: had + V3. Hangi işin önce olduğunu bağlaçlar (before, after, by the time) ve zamanlar birlikte gösterir.",
+   "table": [
+    [
+     "Olumlu",
+     "had + V3",
+     "She had left."
+    ],
+    [
+     "Olumsuz",
+     "hadn't + V3",
+     "She hadn't left."
+    ],
+    [
+     "Soru",
+     "Had + özne + V3?",
+     "Had she left?"
+    ],
+    [
+     "Kısa cevap",
+     "Yes, she had. / No, she hadn't.",
+     "Had he called? Yes, he had."
+    ],
+    [
+     "by the time",
+     "Past Simple, Past Perfect",
+     "By the time I came, she had gone."
+    ]
+   ],
+   "examples": [
+    {
+     "en": "By the time I arrived, the office had closed.",
+     "tr": "Ben vardığımda ofis kapanmıştı."
+    },
+    {
+     "en": "She had never filled out an application before.",
+     "tr": "Daha önce hiç başvuru formu doldurmamıştı."
+    },
+    {
+     "en": "After he had checked the resume, he sent it.",
+     "tr": "Özgeçmişi kontrol ettikten sonra gönderdi."
+    },
+    {
+     "en": "Had you signed the form before you left?",
+     "tr": "Ayrılmadan önce formu imzalamış mıydın?"
+    }
+   ],
+   "exercises": [
+    {
+     "type": "mcq",
+     "q": "By the time Hafsa arrived, the office ___.",
+     "options": [
+      "had closed",
+      "has closed",
+      "closing",
+      "closes"
+     ],
+     "answer": 0,
+     "whyTr": "Önce kapanma, sonra varış; önce olan olay Past Perfect: had closed.",
+     "tag": "past-simple",
+     "level": "B1"
+    },
+    {
+     "type": "mcq",
+     "q": "She ___ the form before she went to the front desk.",
+     "options": [
+      "has filled out",
+      "had filled out",
+      "fill out",
+      "filling out"
+     ],
+     "answer": 1,
+     "whyTr": "Front desk'e gitmeden önce olan iş için had + V3 kullanılır.",
+     "tag": "past-simple",
+     "level": "B1"
+    },
+    {
+     "type": "mcq",
+     "q": "After Emre ___ the resume, he sent it to the district.",
+     "options": [
+      "has checked",
+      "checks",
+      "had checked",
+      "was check"
+     ],
+     "answer": 2,
+     "whyTr": "'After' ile önce biten iş: had checked.",
+     "tag": "past-simple",
+     "level": "B1"
+    },
+    {
+     "type": "order",
+     "promptTr": "Cümleyi sırala:",
+     "words": [
+      "already",
+      "She",
+      "called",
+      "when",
+      "had",
+      "I",
+      "left"
+     ],
+     "answer": "She had already left when I called",
+     "whyTr": "'Already' had ile past participle arasına girer.",
+     "tag": "past-simple",
+     "level": "B1"
+    },
+    {
+     "type": "mcq",
+     "q": "They ___ the deadline, so the application was late.",
+     "options": [
+      "haven't met",
+      "didn't had met",
+      "hadn't meet",
+      "hadn't met"
+     ],
+     "answer": 3,
+     "whyTr": "Olumsuz Past Perfect: hadn't + V3 (met).",
+     "tag": "negative-form",
+     "level": "B1"
+    },
+    {
+     "type": "mcq",
+     "q": "___ you finished the form before Mr. Brown called?",
+     "options": [
+      "Had",
+      "Have",
+      "Did",
+      "Do"
+     ],
+     "answer": 0,
+     "whyTr": "Past Perfect soruda 'Had' başa gelir.",
+     "tag": "question-form",
+     "level": "B1"
+    },
+    {
+     "type": "mcq",
+     "q": "Which sentence is correct?",
+     "options": [
+      "By the time Hafsa got home, Emre cook dinner.",
+      "By the time Hafsa got home, Emre had cooked dinner.",
+      "By the time Hafsa had get home, Emre cooked dinner.",
+      "By the time Hafsa got home, Emre has cooked dinner."
+     ],
+     "answer": 1,
+     "whyTr": "Eve varıştan önce biten iş had cooked ile söylenir.",
+     "tag": "past-simple",
+     "level": "B1"
+    },
+    {
+     "type": "order",
+     "promptTr": "Cümleyi sırala:",
+     "words": [
+      "time",
+      "arrived",
+      "had",
+      "the",
+      "the",
+      "started",
+      "I",
+      "By",
+      "interview"
+     ],
+     "answer": "By the time I arrived the interview had started",
+     "whyTr": "'By the time' + Past Simple, ana cümle Past Perfect.",
+     "tag": "past-simple",
+     "level": "B1"
+    },
+    {
+     "type": "mcq",
+     "q": "I ___ in the US for two years now.",
+     "options": [
+      "live",
+      "am living",
+      "have lived",
+      "was live"
+     ],
+     "answer": 2,
+     "whyTr": "'For two years' ile şimdiye uzanan süre: Present Perfect.",
+     "tag": "present-perfect",
+     "level": "B1"
+    },
+    {
+     "type": "mcq",
+     "q": "Hafsa ___ her resume yesterday.",
+     "options": [
+      "has sent",
+      "had sent",
+      "sending",
+      "sent"
+     ],
+     "answer": 3,
+     "whyTr": "'Yesterday' bitmiş zaman; Past Simple kullanılır.",
+     "tag": "past-simple",
+     "level": "B1"
+    },
+    {
+     "type": "fill",
+     "q": "Before the interview, she ___ practiced her answers with Emre.",
+     "accept": [
+      "had"
+     ],
+     "hintTr": "Past Perfect yardımcı fiili",
+     "whyTr": "Önce yapılan iş: had practiced.",
+     "tag": "past-simple",
+     "level": "B1"
+    },
+    {
+     "type": "mcq",
+     "q": "She was nervous because she ___ never had an interview in English.",
+     "options": [
+      "had",
+      "has",
+      "was",
+      "did"
+     ],
+     "answer": 0,
+     "whyTr": "Geçmişteki bir andan önceki deneyim: had never had.",
+     "tag": "past-simple",
+     "level": "B1"
+    }
+   ]
+  },
+  "vocab": [
+   {
+    "id": "apply",
+    "en": "apply",
+    "tr": "başvurmak",
+    "pos": "verb",
+    "example": "Many people apply for this job every year.",
+    "exampleTr": "Her yıl birçok kişi bu işe başvuruyor.",
+    "syn": [],
+    "ant": [],
+    "level": "B1"
+   },
+   {
+    "id": "application",
+    "en": "application",
+    "tr": "başvuru; başvuru formu",
+    "pos": "noun",
+    "example": "I filled out the application online.",
+    "exampleTr": "Başvuruyu internetten doldurdum.",
+    "syn": [],
+    "ant": [],
+    "level": "B1"
+   },
+   {
+    "id": "resume",
+    "en": "resume",
+    "tr": "özgeçmiş (CV)",
+    "pos": "noun",
+    "example": "Please attach your resume to the email.",
+    "exampleTr": "Lütfen özgeçmişini e-postaya ekle.",
+    "syn": [],
+    "ant": [],
+    "level": "B1"
+   },
+   {
+    "id": "experience",
+    "en": "experience",
+    "tr": "deneyim, tecrübe",
+    "pos": "noun",
+    "example": "She has a lot of experience with children.",
+    "exampleTr": "Çocuklarla çalışma konusunda çok tecrübesi var.",
+    "syn": [],
+    "ant": [],
+    "level": "B1"
+   },
+   {
+    "id": "reference",
+    "en": "reference",
+    "tr": "referans",
+    "pos": "noun",
+    "example": "My neighbor Linda is my reference.",
+    "exampleTr": "Referansım komşum Linda.",
+    "syn": [],
+    "ant": [],
+    "level": "B1"
+   },
+   {
+    "id": "requirement",
+    "en": "requirement",
+    "tr": "şart, gereklilik",
+    "pos": "noun",
+    "example": "A background check is a requirement for this job.",
+    "exampleTr": "Sabıka taraması bu iş için bir şart.",
+    "syn": [],
+    "ant": [],
+    "level": "B1"
+   },
+   {
+    "id": "deadline",
+    "en": "deadline",
+    "tr": "son tarih",
+    "pos": "noun",
+    "example": "The deadline is next Friday.",
+    "exampleTr": "Son tarih gelecek cuma.",
+    "syn": [],
+    "ant": [],
+    "level": "B1"
+   },
+   {
+    "id": "submit",
+    "en": "submit",
+    "tr": "teslim etmek, sunmak",
+    "pos": "verb",
+    "example": "You must submit the form by noon.",
+    "exampleTr": "Formu öğlene kadar teslim etmelisin.",
+    "syn": [
+     "turn in",
+     "hand in"
+    ],
+    "ant": [],
+    "level": "B1"
+   },
+   {
+    "id": "candidate",
+    "en": "candidate",
+    "tr": "aday",
+    "pos": "noun",
+    "example": "The school has three good candidates.",
+    "exampleTr": "Okulun üç iyi adayı var.",
+    "syn": [
+     "applicant"
+    ],
+    "ant": [],
+    "level": "B1"
+   },
+   {
+    "id": "position",
+    "en": "position",
+    "tr": "pozisyon, iş kadrosu",
+    "pos": "noun",
+    "example": "They have an open position for a sub.",
+    "exampleTr": "Bir vekil öğretmen için açık kadroları var.",
+    "syn": [
+     "post"
+    ],
+    "ant": [],
+    "level": "B1"
+   },
+   {
+    "id": "qualified",
+    "en": "qualified",
+    "tr": "nitelikli, yeterli",
+    "pos": "adjective",
+    "example": "She is qualified to work with young children.",
+    "exampleTr": "Küçük çocuklarla çalışmaya yeterli.",
+    "syn": [],
+    "ant": [],
+    "level": "B1"
+   },
+   {
+    "id": "background",
+    "en": "background",
+    "tr": "geçmiş, birikim",
+    "pos": "noun",
+    "example": "His background is in education.",
+    "exampleTr": "Geçmişi eğitim alanında.",
+    "syn": [],
+    "ant": [],
+    "level": "B1"
+   },
+   {
+    "id": "certificate",
+    "en": "certificate",
+    "tr": "sertifika",
+    "pos": "noun",
+    "example": "She got a certificate after the course.",
+    "exampleTr": "Kurstan sonra sertifika aldı.",
+    "syn": [],
+    "ant": [],
+    "level": "B1"
+   },
+   {
+    "id": "approve",
+    "en": "approve",
+    "tr": "onaylamak",
+    "pos": "verb",
+    "example": "The district approved her application.",
+    "exampleTr": "Bölge başvurusunu onayladı.",
+    "syn": [
+     "accept"
+    ],
+    "ant": [
+     "reject"
+    ],
+    "level": "B1"
+   },
+   {
+    "id": "interview",
+    "en": "interview",
+    "tr": "mülakat; mülakat yapmak",
+    "pos": "noun",
+    "example": "The interview is on Thursday morning.",
+    "exampleTr": "Mülakat perşembe sabahı.",
+    "syn": [],
+    "ant": [],
+    "level": "B1"
+   }
+  ],
+  "reading": {
+   "title": "Hafsa's application",
+   "text": "Last month Hafsa decided to apply for a job as a substitute teacher in the school district. She had never filled out an application in English before, so she felt nervous. Her son Emre helped her. By the time they sat down at the computer on Saturday, Emre had already found the district website and read all the requirements.\n\nFirst, Hafsa wrote her resume. She had worked with children in Isparta for six years, and she had taken a few English classes at a community college. After she had finished the resume, Emre checked it for mistakes. He said, \"Mom, you had better add your computer skills.\" She added them.\n\nNext, she needed two references. Her neighbor Linda had known her for a year, so she agreed immediately. Hafsa's old principal in Turkey wrote a letter, too, but it was in Turkish. By the time the letter arrived, Hafsa had found a translator who changed it into English for a small fee.\n\nThe last step was a background check. Before she could start, she had to visit the district office and give her fingerprints. Mr. Brown, the school secretary, had already told her about the deadline, so she submitted everything three days early. Two weeks later, an email arrived: the district wanted to interview her. Hafsa read it three times. Her hard work had paid off.",
+   "glossary": [
+    {
+     "en": "fee",
+     "tr": "ücret"
+    },
+    {
+     "en": "fingerprints",
+     "tr": "parmak izi"
+    },
+    {
+     "en": "paid off",
+     "tr": "karşılığını verdi, sonuç getirdi"
+    },
+    {
+     "en": "community college",
+     "tr": "toplum koleji"
+    }
+   ],
+   "questions": [
+    {
+     "type": "mcq",
+     "q": "What had Emre done before they sat down at the computer?",
+     "options": [
+      "He had written the resume.",
+      "He had found the website and read the requirements.",
+      "He had called the principal.",
+      "He had paid the fee."
+     ],
+     "answer": 1,
+     "whyTr": "Metin: 'Emre had already found the district website and read all the requirements.'",
+     "tag": "reading",
+     "level": "B1"
+    },
+    {
+     "type": "mcq",
+     "q": "Why did Hafsa pay a translator?",
+     "options": [
+      "Her resume had mistakes.",
+      "The district asked for a Turkish test.",
+      "Her old principal's letter was in Turkish.",
+      "Linda could not write English."
+     ],
+     "answer": 2,
+     "whyTr": "Metin: mektup Türkçeydi; çevirmen İngilizceye çevirdi.",
+     "tag": "reading",
+     "level": "B1"
+    },
+    {
+     "type": "mcq",
+     "q": "When did Hafsa submit her papers?",
+     "options": [
+      "On the deadline day",
+      "A week after the deadline",
+      "Two weeks before the deadline",
+      "Three days before the deadline"
+     ],
+     "answer": 3,
+     "whyTr": "Metin: 'she submitted everything three days early.'",
+     "tag": "reading",
+     "level": "B1"
+    },
+    {
+     "type": "mcq",
+     "q": "What happened two weeks later?",
+     "options": [
+      "The district invited her to an interview.",
+      "She started work.",
+      "She gave her fingerprints.",
+      "Mr. Brown quit his job."
+     ],
+     "answer": 0,
+     "whyTr": "Metin: 'the district wanted to interview her.'",
+     "tag": "reading",
+     "level": "B1"
+    }
+   ]
+  }
+ },
+ "evening": {
+  "listening": {
+   "title": "Good news from the district",
+   "script": [
+    {
+     "speaker": "Mr. Brown",
+     "text": "Good morning, Hafsa. I have good news for you."
+    },
+    {
+     "speaker": "Hafsa",
+     "text": "Really? What is it?"
+    },
+    {
+     "speaker": "Mr. Brown",
+     "text": "I called the district yesterday. By the time I called, they had already read your application."
+    },
+    {
+     "speaker": "Hafsa",
+     "text": "That is wonderful! Had they checked my references, too?"
+    },
+    {
+     "speaker": "Mr. Brown",
+     "text": "Yes. They had talked to Linda before they called your old school in Turkey."
+    },
+    {
+     "speaker": "Hafsa",
+     "text": "I was afraid that something was missing."
+    },
+    {
+     "speaker": "Mr. Brown",
+     "text": "Only one thing. You had not signed the background check form."
+    },
+    {
+     "speaker": "Hafsa",
+     "text": "Oh no. I thought I had signed it."
+    },
+    {
+     "speaker": "Mr. Brown",
+     "text": "Don't worry. After you sign it today, they can finish the process."
+    },
+    {
+     "speaker": "Hafsa",
+     "text": "I will sign it right now. When is the interview?"
+    },
+    {
+     "speaker": "Mr. Brown",
+     "text": "Next Thursday at ten o'clock. Please arrive fifteen minutes early."
+    },
+    {
+     "speaker": "Hafsa",
+     "text": "Thank you so much, Mr. Brown."
+    }
+   ],
+   "questions": [
+    {
+     "type": "mcq",
+     "q": "What is Mr. Brown's good news?",
+     "options": [
+      "Hafsa got the job.",
+      "The district had already read the application.",
+      "The deadline changed.",
+      "Linda wrote a letter."
+     ],
+     "answer": 1,
+     "whyTr": "Mr. Brown: 'they had already read your application.'",
+     "tag": "listening",
+     "level": "B1"
+    },
+    {
+     "type": "mcq",
+     "q": "What was missing?",
+     "options": [
+      "Her resume",
+      "A reference letter",
+      "Hafsa's signature on a form",
+      "Her fingerprints"
+     ],
+     "answer": 2,
+     "whyTr": "Mr. Brown: 'You had not signed the background check form.'",
+     "tag": "listening",
+     "level": "B1"
+    },
+    {
+     "type": "mcq",
+     "q": "When is the interview?",
+     "options": [
+      "Tomorrow at ten",
+      "Next Friday at nine",
+      "Next Thursday at two",
+      "Next Thursday at ten"
+     ],
+     "answer": 3,
+     "whyTr": "Mr. Brown: 'Next Thursday at ten o'clock.'",
+     "tag": "listening",
+     "level": "B1"
+    },
+    {
+     "type": "mcq",
+     "q": "What does Mr. Brown ask Hafsa to do?",
+     "options": [
+      "Arrive fifteen minutes early",
+      "Bring a new resume",
+      "Call the district",
+      "Wear a uniform"
+     ],
+     "answer": 0,
+     "whyTr": "Mr. Brown: 'Please arrive fifteen minutes early.'",
+     "tag": "listening",
+     "level": "B1"
+    }
+   ]
+  },
+  "writing": {
+   "promptTr": "Mr. Brown'a kısa bir e-posta yaz: başvuru sürecinde ne yaptığını, hangi işi hangisinden önce yaptığını anlat (80-120 kelime).",
+   "promptEn": "Write a short email to Mr. Brown about your application. Say what you had done before and after each step.",
+   "frames": [
+    "Before I applied, I had ...",
+    "By the time I finished the resume, ...",
+    "After I had ..., I ...",
+    "I had never ... before."
+   ],
+   "model": "Dear Mr. Brown, thank you for your help with my application. Before I started, I had never applied for a job in English. By the time I finished the resume, Emre had checked it twice. After I had asked Linda to be my reference, I submitted everything online. I had also signed the background check form before I gave it to you. Now I am ready for the interview next Thursday. I will arrive early, and I will bring my ID. Thank you again for everything. Sincerely, Hafsa",
+   "checklistTr": [
+    "En az üç yerde 'had + V3' kullandın mı?",
+    "Önce olan iş Past Perfect, sonra olan iş Past Simple mi?",
+    "Olumsuz için 'had never' veya 'hadn't' var mı?",
+    "Cümleler büyük harfle başlıyor mu, selam ve kapanış var mı?"
+   ],
+   "minWords": 80
+  },
+  "examSet": [
+   {
+    "type": "mcq",
+    "q": "Hafsa ___ the form before the deadline passed.",
+    "options": [
+     "has submitted",
+     "had submitted",
+     "submits",
+     "was submit"
+    ],
+    "answer": 1,
+    "whyTr": "Süre dolmadan önce biten iş: had submitted.",
+    "tag": "past-simple",
+    "level": "B1"
+   },
+   {
+    "type": "mcq",
+    "q": "By the time we got to the school, the meeting ___.",
+    "options": [
+     "has ended",
+     "ends",
+     "had ended",
+     "ending"
+    ],
+    "answer": 2,
+    "whyTr": "Varıştan önce biten iş Past Perfect.",
+    "tag": "past-simple",
+    "level": "B1"
+   },
+   {
+    "type": "mcq",
+    "q": "Please send your ___ with a list of your jobs.",
+    "options": [
+     "deadline",
+     "candidate",
+     "certificate",
+     "resume"
+    ],
+    "answer": 3,
+    "whyTr": "İş listesi içeren belge özgeçmiştir (resume).",
+    "tag": "vocab",
+    "level": "B1"
+   },
+   {
+    "type": "mcq",
+    "q": "The last day to send the form is the ___.",
+    "options": [
+     "deadline",
+     "reference",
+     "position",
+     "background"
+    ],
+    "answer": 0,
+    "whyTr": "Son gün = deadline.",
+    "tag": "vocab",
+    "level": "B1"
+   },
+   {
+    "type": "mcq",
+    "q": "Which phrase is closest in meaning to \"submit\"?",
+    "options": [
+     "throw away",
+     "turn in",
+     "look for",
+     "give up"
+    ],
+    "answer": 1,
+    "whyTr": "Submit ve turn in 'teslim etmek' anlamında eş anlamlı.",
+    "tag": "synonym",
+    "level": "B2"
+   },
+   {
+    "type": "mcq",
+    "q": "What is the opposite of \"approve\"?",
+    "options": [
+     "build",
+     "carry",
+     "reject",
+     "borrow"
+    ],
+    "answer": 2,
+    "whyTr": "Approve'un zıttı reject.",
+    "tag": "antonym",
+    "level": "B2"
+   },
+   {
+    "type": "mcq",
+    "q": "She has worked at the school ___ 2023.",
+    "options": [
+     "for",
+     "during",
+     "from",
+     "since"
+    ],
+    "answer": 3,
+    "whyTr": "Başlangıç noktası (2023) ile 'since' kullanılır.",
+    "tag": "present-perfect",
+    "level": "B1"
+   },
+   {
+    "type": "mcq",
+    "q": "In Isparta, Hafsa ___ walk to the market every morning.",
+    "options": [
+     "used to",
+     "use to",
+     "was used",
+     "is used"
+    ],
+    "answer": 0,
+    "whyTr": "Eski alışkanlık: used to + fiil.",
+    "tag": "past-simple",
+    "level": "B1"
+   },
+   {
+    "type": "mcq",
+    "q": "Which sentence is correct?",
+    "options": [
+     "She has never taught before she came to the US.",
+     "She had never taught before she came to the US.",
+     "She had never teach before she came to the US.",
+     "She never had teached before she came."
+    ],
+    "answer": 1,
+    "whyTr": "Amerika'ya gelmeden önceki deneyim: had never taught.",
+    "tag": "past-simple",
+    "level": "B1"
+   },
+   {
+    "type": "mcq",
+    "q": "Ali sent his application on Monday. On Wednesday, the school called him. By then, they had read his resume and checked his references.\n\nWhat had the school done before it called Ali?",
+    "options": [
+     "It had interviewed him.",
+     "It had hired him.",
+     "It had read his resume and checked his references.",
+     "It had lost his application."
+    ],
+    "answer": 2,
+    "whyTr": "Metin: 'By then, they had read his resume and checked his references.'",
+    "tag": "reading",
+    "level": "B1"
+   },
+   {
+    "type": "mcq",
+    "q": "Maria wanted a job at a school. She had no experience with children, so she volunteered at a library first. After she had volunteered for six months, a school hired her.\n\nWhy did Maria volunteer?",
+    "options": [
+     "To save money",
+     "To learn Spanish",
+     "To meet a principal",
+     "To get experience with children"
+    ],
+    "answer": 3,
+    "whyTr": "Metin: 'She had no experience with children, so she volunteered.'",
+    "tag": "reading",
+    "level": "B1"
+   },
+   {
+    "type": "mcq",
+    "q": "I was tired because I ___ all night.",
+    "options": [
+     "had worked",
+     "has worked",
+     "was work",
+     "working"
+    ],
+    "answer": 0,
+    "whyTr": "Yorgunluktan önce biten iş: had worked.",
+    "tag": "past-simple",
+    "level": "B1"
+   }
+  ]
+ }
+}

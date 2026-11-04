@@ -1,0 +1,942 @@
+{
+ "week": 15,
+ "day": 3,
+ "titleTr": "Önekler: un-, dis-, re-, mis- (eğitim haberi)",
+ "theme": "education-news",
+ "morning": {
+  "grammar": {
+   "topic": "Kelime türetme: önekler un-, dis-, re-, mis-",
+   "explainTr": [
+    "Önek (prefix), kelimenin başına eklenip anlamını değiştirir; yazımı değişmez. 'un-' ve 'dis-' çoğunlukla 'tersi, değil' demektir: fair → unfair, agree → disagree. 'Un-' genellikle sıfatlarla gelir (unhappy, unable), 'dis-' fiil ve sıfatlarla (disconnect, dishonest).",
+    "'re-' 'tekrar' demektir: write → rewrite, open → reopen. 'mis-' 'yanlış, hatalı' demektir: understand → misunderstand, lead → mislead. Bu dört önek eğitim haberlerinde çok geçer: unprepared, reopen, misunderstand, disapprove.",
+    "Hangi önekin hangi kelimeyle geldiğini kural değil alışkanlık belirler (disfair demeyiz). Yeni bir kelimeyle karşılaşınca önce öneki, sonra kökü ayırarak anlamı tahmin et."
+   ],
+   "compareTr": "Türkçede olumsuzluk genelde sonekle yapılır (adil → adil-siz, anlamak → anla-ma-mak). İngilizcede ise kelimenin başına önek eklersin: fair → un-fair, understand → mis-understand.",
+   "table": [
+    [
+     "un-",
+     "değil, tersi",
+     "unfair, unable, unprepared"
+    ],
+    [
+     "dis-",
+     "tersi, yok etme",
+     "disagree, dishonest, disconnect"
+    ],
+    [
+     "re-",
+     "tekrar",
+     "rewrite, reopen, rebuild"
+    ],
+    [
+     "mis-",
+     "yanlış, hatalı",
+     "misunderstand, mislead, misread"
+    ]
+   ],
+   "examples": [
+    {
+     "en": "The test was unfair because it covered only one chapter.",
+     "tr": "Sınav adil değildi çünkü sadece tek bir bölümü kapsıyordu."
+    },
+    {
+     "en": "I disagree with the new schedule.",
+     "tr": "Yeni programa katılmıyorum."
+    },
+    {
+     "en": "The library will reopen next week.",
+     "tr": "Kütüphane gelecek hafta yeniden açılacak."
+    },
+    {
+     "en": "I misunderstood the directions.",
+     "tr": "Talimatları yanlış anladım."
+    }
+   ],
+   "exercises": [
+    {
+     "type": "mcq",
+     "q": "The test was ___fair because only some students had the book.",
+     "options": [
+      "dis",
+      "re",
+      "un",
+      "mis"
+     ],
+     "answer": 2,
+     "whyTr": "Fair'in tersi unfair; sıfatlarda 'un-' kullanılır.",
+     "tag": "word-formation",
+     "level": "B2"
+    },
+    {
+     "type": "mcq",
+     "q": "I strongly ___agree with this decision.",
+     "options": [
+      "dis",
+      "un",
+      "re",
+      "mis"
+     ],
+     "answer": 0,
+     "whyTr": "Agree'nin tersi disagree.",
+     "tag": "word-formation",
+     "level": "B2"
+    },
+    {
+     "type": "mcq",
+     "q": "Please ___write your essay. It has many mistakes.",
+     "options": [
+      "un",
+      "dis",
+      "mis",
+      "re"
+     ],
+     "answer": 3,
+     "whyTr": "Tekrar yazmak: rewrite.",
+     "tag": "word-formation",
+     "level": "B2"
+    },
+    {
+     "type": "mcq",
+     "q": "The sign ___led many visitors to the wrong door.",
+     "options": [
+      "un",
+      "mis",
+      "dis",
+      "re"
+     ],
+     "answer": 1,
+     "whyTr": "Yanlış yönlendirmek: mislead.",
+     "tag": "word-formation",
+     "level": "B2"
+    },
+    {
+     "type": "order",
+     "promptTr": "Cümleyi sırala:",
+     "words": [
+      "students",
+      "The",
+      "were",
+      "for",
+      "quiz.",
+      "the",
+      "unprepared"
+     ],
+     "answer": "The students were unprepared for the quiz.",
+     "whyTr": "Sıra: özne + were + sıfat + for + isim.",
+     "tag": "word-formation",
+     "level": "B2"
+    },
+    {
+     "type": "mcq",
+     "q": "Hafsa ___understood the email, so she went to the wrong room.",
+     "options": [
+      "dis",
+      "mis",
+      "un",
+      "re"
+     ],
+     "answer": 1,
+     "whyTr": "Yanlış anlamak: misunderstand.",
+     "tag": "word-formation",
+     "level": "B2"
+    },
+    {
+     "type": "mcq",
+     "q": "He told a lie, so everyone thought he was ___honest.",
+     "options": [
+      "un",
+      "re",
+      "mis",
+      "dis"
+     ],
+     "answer": 3,
+     "whyTr": "Honest'in tersi dishonest.",
+     "tag": "word-formation",
+     "level": "B2"
+    },
+    {
+     "type": "mcq",
+     "q": "The school will ___open the gym after the repairs.",
+     "options": [
+      "re",
+      "mis",
+      "un",
+      "dis"
+     ],
+     "answer": 0,
+     "whyTr": "Yeniden açmak: reopen.",
+     "tag": "word-formation",
+     "level": "B2"
+    },
+    {
+     "type": "order",
+     "promptTr": "Cümleyi sırala:",
+     "words": [
+      "the",
+      "projector.",
+      "do",
+      "Please",
+      "not",
+      "disconnect"
+     ],
+     "answer": "Please do not disconnect the projector.",
+     "whyTr": "Disconnect = bağlantıyı kesmek; do not + fiil.",
+     "tag": "word-formation",
+     "level": "B2"
+    },
+    {
+     "type": "mcq",
+     "q": "If I ___ more time yesterday, I would have finished the report.",
+     "options": [
+      "have had",
+      "would have",
+      "had had",
+      "had"
+     ],
+     "answer": 2,
+     "whyTr": "Üçüncü tip koşul: If + past perfect.",
+     "tag": "conditionals",
+     "level": "B2"
+    },
+    {
+     "type": "mcq",
+     "q": "The books ___ in the library by the students every day.",
+     "options": [
+      "return",
+      "are returning",
+      "is returned",
+      "are returned"
+     ],
+     "answer": 3,
+     "whyTr": "Kitaplar iade ediliyor; edilgen: are returned.",
+     "tag": "passive",
+     "level": "B2"
+    },
+    {
+     "type": "fill",
+     "q": "The company will ___build the old bridge. (tekrar)",
+     "accept": [
+      "re"
+     ],
+     "hintTr": "tekrar",
+     "whyTr": "'Re-' tekrar anlamı verir: rebuild.",
+     "tag": "word-formation",
+     "level": "B2"
+    }
+   ]
+  },
+  "vocab": [
+   {
+    "id": "unfair",
+    "en": "unfair",
+    "tr": "adil olmayan",
+    "pos": "adjective",
+    "example": "It is unfair to give one student extra time.",
+    "exampleTr": "Bir öğrenciye fazladan süre vermek haksızlık.",
+    "syn": [
+     "unjust"
+    ],
+    "ant": [
+     "fair"
+    ],
+    "level": "B2"
+   },
+   {
+    "id": "unprepared",
+    "en": "unprepared",
+    "tr": "hazırlıksız",
+    "pos": "adjective",
+    "example": "Many students felt unprepared for the exam.",
+    "exampleTr": "Birçok öğrenci sınava hazırlıksız hissetti.",
+    "syn": [],
+    "ant": [
+     "prepared"
+    ],
+    "level": "B2"
+   },
+   {
+    "id": "unaware",
+    "en": "unaware",
+    "tr": "habersiz, farkında olmayan",
+    "pos": "adjective",
+    "example": "Most parents were unaware of the change.",
+    "exampleTr": "Velilerin çoğu değişiklikten habersizdi.",
+    "syn": [
+     "ignorant"
+    ],
+    "ant": [
+     "aware"
+    ],
+    "level": "B2"
+   },
+   {
+    "id": "unreliable",
+    "en": "unreliable",
+    "tr": "güvenilmez",
+    "pos": "adjective",
+    "example": "The old bus service was unreliable.",
+    "exampleTr": "Eski otobüs hizmeti güvenilmezdi.",
+    "syn": [
+     "undependable"
+    ],
+    "ant": [
+     "reliable"
+    ],
+    "level": "B2"
+   },
+   {
+    "id": "dishonest",
+    "en": "dishonest",
+    "tr": "dürüst olmayan",
+    "pos": "adjective",
+    "example": "Copying answers is dishonest.",
+    "exampleTr": "Cevapları kopyalamak dürüst değildir.",
+    "syn": [
+     "deceitful"
+    ],
+    "ant": [
+     "honest"
+    ],
+    "level": "B2"
+   },
+   {
+    "id": "disconnect",
+    "en": "disconnect",
+    "tr": "bağlantıyı kesmek",
+    "pos": "verb",
+    "example": "The internet disconnected during the online class.",
+    "exampleTr": "Online ders sırasında internet bağlantısı koptu.",
+    "syn": [],
+    "ant": [
+     "connect"
+    ],
+    "level": "B2"
+   },
+   {
+    "id": "disapprove",
+    "en": "disapprove",
+    "tr": "onaylamamak, hoş görmemek",
+    "pos": "verb",
+    "example": "Some parents disapprove of the new homework rule.",
+    "exampleTr": "Bazı veliler yeni ödev kuralını onaylamıyor.",
+    "syn": [],
+    "ant": [
+     "approve"
+    ],
+    "level": "B2"
+   },
+   {
+    "id": "dissatisfied",
+    "en": "dissatisfied",
+    "tr": "memnun olmayan",
+    "pos": "adjective",
+    "example": "Parents were dissatisfied with the lunch menu.",
+    "exampleTr": "Veliler yemek menüsünden memnun değildi.",
+    "syn": [
+     "unhappy"
+    ],
+    "ant": [
+     "satisfied"
+    ],
+    "level": "B2"
+   },
+   {
+    "id": "reopen",
+    "en": "reopen",
+    "tr": "yeniden açmak",
+    "pos": "verb",
+    "example": "The library will reopen on Monday.",
+    "exampleTr": "Kütüphane Pazartesi günü yeniden açılacak.",
+    "syn": [],
+    "ant": [
+     "close"
+    ],
+    "level": "B2"
+   },
+   {
+    "id": "rebuild",
+    "en": "rebuild",
+    "tr": "yeniden inşa etmek",
+    "pos": "verb",
+    "example": "The town plans to rebuild the old school.",
+    "exampleTr": "Kasaba eski okulu yeniden inşa etmeyi planlıyor.",
+    "syn": [
+     "reconstruct"
+    ],
+    "ant": [
+     "destroy"
+    ],
+    "level": "B2"
+   },
+   {
+    "id": "reconsider",
+    "en": "reconsider",
+    "tr": "yeniden düşünmek",
+    "pos": "verb",
+    "example": "The board agreed to reconsider the budget.",
+    "exampleTr": "Kurul bütçeyi yeniden değerlendirmeyi kabul etti.",
+    "syn": [
+     "rethink"
+    ],
+    "ant": [],
+    "level": "B2"
+   },
+   {
+    "id": "rewrite",
+    "en": "rewrite",
+    "tr": "yeniden yazmak",
+    "pos": "verb",
+    "example": "Please rewrite the first paragraph.",
+    "exampleTr": "Lütfen ilk paragrafı yeniden yazın.",
+    "syn": [],
+    "ant": [],
+    "level": "B2"
+   },
+   {
+    "id": "misunderstand",
+    "en": "misunderstand",
+    "tr": "yanlış anlamak",
+    "pos": "verb",
+    "example": "I misunderstood the question and gave the wrong answer.",
+    "exampleTr": "Soruyu yanlış anladım ve yanlış cevap verdim.",
+    "syn": [],
+    "ant": [
+     "understand"
+    ],
+    "level": "B2"
+   },
+   {
+    "id": "mislead",
+    "en": "mislead",
+    "tr": "yanıltmak",
+    "pos": "verb",
+    "example": "The headline may mislead readers.",
+    "exampleTr": "Başlık okuyucuları yanıltabilir.",
+    "syn": [
+     "deceive"
+    ],
+    "ant": [
+     "inform"
+    ],
+    "level": "B2"
+   },
+   {
+    "id": "misinterpret",
+    "en": "misinterpret",
+    "tr": "yanlış yorumlamak",
+    "pos": "verb",
+    "example": "Some students misinterpret the graph.",
+    "exampleTr": "Bazı öğrenciler grafiği yanlış yorumluyor.",
+    "syn": [
+     "misread"
+    ],
+    "ant": [
+     "interpret"
+    ],
+    "level": "B2"
+   }
+  ],
+  "reading": {
+   "title": "Washington Elementary reopens",
+   "text": "When Washington Elementary School reopens its doors on Monday, students will walk into a very different building. After a burst pipe flooded the first floor last winter, the district decided to rebuild the library and replace the old floors. The work took almost eight months, and many families were unhappy about the long wait.\n\nAt first, parents were dissatisfied with the lack of information. Some said they were unaware of the schedule, while others misunderstood a letter and thought the school would reopen in September. \"The announcement was confusing,\" said one mother. \"I do not think anyone meant to mislead us, but we felt unprepared.\" The principal, Dr. Alvarez, admitted that the district could have communicated better. \"We apologize,\" she said. \"Next time, we will rewrite our letters in plain English and send them earlier.\"\n\nThe students, however, did not seem to disapprove of the delay. For months they attended classes at a nearby church hall, where the rooms were unfamiliar and a bit cold. \"It was strange at first,\" said fifth grader Maya, \"but our teachers made it fun. We even had a class pet.\" Teachers admit that moving was difficult. Wi-Fi often disconnected during lessons, and several staff members had to reconsider their lesson plans at the last minute.\n\nNow the building has new lights, a larger reading corner, and a computer lab with fast internet. The district also added a \"buddy program\" in which older students help younger ones feel comfortable. Community volunteers, including several parents, painted the hallways over two weekends.\n\nSome residents still believe the project was unfair because it cost more than expected. Others argue that a safe, modern school is worth the price. Whatever people think, one fact is clear: on Monday morning, hundreds of children will return to their classrooms, and the building will be full of noise again.\n\nDr. Alvarez has one final request for families. \"If you misread any message from us, please call the front office,\" she said. \"We would rather answer a question twice than leave you uncertain.\"",
+   "glossary": [
+    {
+     "en": "burst pipe",
+     "tr": "patlamış boru"
+    },
+    {
+     "en": "flood",
+     "tr": "su basmak"
+    },
+    {
+     "en": "church hall",
+     "tr": "kilise salonu"
+    },
+    {
+     "en": "buddy program",
+     "tr": "arkadaş eşleştirme programı"
+    },
+    {
+     "en": "resident",
+     "tr": "sakin"
+    },
+    {
+     "en": "plain English",
+     "tr": "sade, anlaşılır İngilizce"
+    }
+   ],
+   "questions": [
+    {
+     "type": "mcq",
+     "q": "Why was Washington Elementary closed for months?",
+     "options": [
+      "There was a teachers' strike.",
+      "A flood damaged the first floor.",
+      "The roof was too old.",
+      "A new school was being built."
+     ],
+     "answer": 1,
+     "whyTr": "Metin: 'a burst pipe flooded the first floor'.",
+     "tag": "reading",
+     "level": "B2"
+    },
+    {
+     "type": "mcq",
+     "q": "Why were parents dissatisfied at first?",
+     "options": [
+      "The school was too expensive.",
+      "Their children disliked the teachers.",
+      "They did not get clear information.",
+      "There was no library."
+     ],
+     "answer": 2,
+     "whyTr": "Metin: 'parents were dissatisfied with the lack of information'.",
+     "tag": "reading",
+     "level": "B2"
+    },
+    {
+     "type": "mcq",
+     "q": "What will the district do next time?",
+     "options": [
+      "Send clearer letters earlier",
+      "Close the school in winter",
+      "Stop using email",
+      "Ask parents to rewrite them"
+     ],
+     "answer": 0,
+     "whyTr": "Dr. Alvarez: 'we will rewrite our letters in plain English and send them earlier'.",
+     "tag": "reading",
+     "level": "B2"
+    },
+    {
+     "type": "mcq",
+     "q": "What is the writer's attitude toward the project?",
+     "options": [
+      "Balanced; it presents both opinions.",
+      "Strongly against it",
+      "Completely in favor of it",
+      "Uninterested"
+     ],
+     "answer": 0,
+     "whyTr": "Hem pahalı bulanlar hem de değer diyenler anlatılıyor.",
+     "tag": "reading",
+     "level": "B2"
+    }
+   ]
+  }
+ },
+ "evening": {
+  "listening": {
+   "title": "The news about the school",
+   "script": [
+    {
+     "speaker": "Emre",
+     "text": "Mom, did you read the article about Washington Elementary? It reopens on Monday."
+    },
+    {
+     "speaker": "Hafsa",
+     "text": "Yes, I did. It says the library was rebuilt after the flood."
+    },
+    {
+     "speaker": "Emre",
+     "text": "Right. But some parents were unhappy because the letters were confusing."
+    },
+    {
+     "speaker": "Hafsa",
+     "text": "I understand them. If you misread one date, you can bring your child on the wrong day."
+    },
+    {
+     "speaker": "Emre",
+     "text": "Exactly. One mom said she was completely unaware of the new schedule."
+    },
+    {
+     "speaker": "Hafsa",
+     "text": "That is unfair. A school should always inform families clearly."
+    },
+    {
+     "speaker": "Emre",
+     "text": "The principal apologized, though. She promised to rewrite the letters."
+    },
+    {
+     "speaker": "Hafsa",
+     "text": "Good. Honest communication is important. Did they say anything about volunteers?"
+    },
+    {
+     "speaker": "Emre",
+     "text": "Yes. They need help on Monday morning, because the students will feel a little nervous in the new building."
+    },
+    {
+     "speaker": "Hafsa",
+     "text": "Maybe I can go. I would love to see the new reading corner."
+    },
+    {
+     "speaker": "Emre",
+     "text": "I think you should. It could be good practice for your substitute work."
+    },
+    {
+     "speaker": "Hafsa",
+     "text": "You are right. I will call the front office this afternoon."
+    }
+   ],
+   "questions": [
+    {
+     "type": "mcq",
+     "q": "What happened at Washington Elementary?",
+     "options": [
+      "A new gym was opened.",
+      "A teacher left the school.",
+      "The library was rebuilt after a flood.",
+      "The school moved to a church."
+     ],
+     "answer": 2,
+     "whyTr": "Hafsa: 'the library was rebuilt after the flood'.",
+     "tag": "listening",
+     "level": "B2"
+    },
+    {
+     "type": "mcq",
+     "q": "Why were some parents unhappy?",
+     "options": [
+      "The school was too noisy.",
+      "The letters were confusing.",
+      "The lunch was bad.",
+      "Their children had too much homework."
+     ],
+     "answer": 1,
+     "whyTr": "Emre: 'the letters were confusing'.",
+     "tag": "listening",
+     "level": "B2"
+    },
+    {
+     "type": "mcq",
+     "q": "What did the principal promise?",
+     "options": [
+      "To fire a teacher",
+      "To lower the price of lunch",
+      "To start classes earlier",
+      "To rewrite the letters"
+     ],
+     "answer": 3,
+     "whyTr": "Emre: 'She promised to rewrite the letters.'",
+     "tag": "listening",
+     "level": "B2"
+    },
+    {
+     "type": "mcq",
+     "q": "What does Hafsa plan to do?",
+     "options": [
+      "Write to the newspaper",
+      "Visit the principal at home",
+      "Call the front office about volunteering",
+      "Buy new books for the library"
+     ],
+     "answer": 2,
+     "whyTr": "Hafsa: 'I will call the front office this afternoon.'",
+     "tag": "listening",
+     "level": "B2"
+    }
+   ]
+  },
+  "writing": {
+   "promptTr": "Bir okulun yeniden açıldığını anlatan kısa bir haber yaz (120-180 kelime). En az dört öneklı kelime kullan (reopen, unfair, misunderstand, dissatisfied, disagree...).",
+   "promptEn": "Write a short news report (120-180 words) about a school that reopens after repairs. Use at least four words with the prefixes un-, dis-, re- or mis-.",
+   "frames": [
+    "After months of repairs, ... will reopen on ...",
+    "Many parents were unaware ... / dissatisfied with ...",
+    "Some people misunderstood ...",
+    "The principal said that ...",
+    "Everyone hopes that ..."
+   ],
+   "model": "After six months of repairs, Oak Street Elementary will reopen on Monday morning. A storm damaged the roof last winter, and the district decided to rebuild the library and replace the old windows. At first, many parents were dissatisfied because they were unaware of the schedule. Some people even misunderstood a letter and thought the school would reopen in the fall. The principal admitted that the information was confusing and apologized. She promised to rewrite future letters in simple language. Some residents disagree about the cost, and they say the project was unfair to other schools. Others believe that a safe, modern building is worth the money. Teachers say they are excited, although they are still unprepared for the big move back. Volunteers will help students find their new classrooms. Everyone hopes that the first day will go smoothly and that the building will be full of happy children again.",
+   "checklistTr": [
+    "En az dört öneklı kelime kullandın mı?",
+    "Önekleri doğru köke ekledin mi (unfair, disagree, reopen, mislead)?",
+    "Haber üslubu: geçmiş ve gelecek zamanı tutarlı kullandın mı?",
+    "Cümleler büyük harfle başlıyor ve noktayla bitiyor mu?"
+   ],
+   "minWords": 120
+  },
+  "examSet": [
+   {
+    "type": "mcq",
+    "q": "The students felt ___prepared because they did not study.",
+    "options": [
+     "un",
+     "dis",
+     "re",
+     "mis"
+    ],
+    "answer": 0,
+    "whyTr": "Prepared'in tersi unprepared.",
+    "tag": "word-formation",
+    "level": "B2"
+   },
+   {
+    "type": "mcq",
+    "q": "The manager will ___consider the plan after the meeting.",
+    "options": [
+     "un",
+     "dis",
+     "mis",
+     "re"
+    ],
+    "answer": 3,
+    "whyTr": "Tekrar düşünmek: reconsider.",
+    "tag": "word-formation",
+    "level": "B2"
+   },
+   {
+    "type": "mcq",
+    "q": "Many tourists ___understand the road signs here.",
+    "options": [
+     "un",
+     "mis",
+     "dis",
+     "re"
+    ],
+    "answer": 1,
+    "whyTr": "Yanlış anlamak: misunderstand.",
+    "tag": "word-formation",
+    "level": "B2"
+   },
+   {
+    "type": "mcq",
+    "q": "The weather was bad, so I ___liked the trip.",
+    "options": [
+     "un",
+     "dis",
+     "re",
+     "mis"
+    ],
+    "answer": 1,
+    "whyTr": "Dislike = sevmemek.",
+    "tag": "word-formation",
+    "level": "B2"
+   },
+   {
+    "type": "mcq",
+    "q": "Which word means \"to write again\"?",
+    "options": [
+     "unwrite",
+     "miswrite",
+     "dewrite",
+     "rewrite"
+    ],
+    "answer": 3,
+    "whyTr": "Tekrar yazmak: rewrite.",
+    "tag": "word-formation",
+    "level": "B2"
+   },
+   {
+    "type": "mcq",
+    "q": "Which word has the meaning \"not honest\"?",
+    "options": [
+     "dishonest",
+     "unhonest",
+     "rehonest",
+     "mishonest"
+    ],
+    "answer": 0,
+    "whyTr": "Honest'in tersi dishonest.",
+    "tag": "word-formation",
+    "level": "B2"
+   },
+   {
+    "type": "mcq",
+    "q": "She told us that she ___ the report the day before.",
+    "options": [
+     "has finished",
+     "finished",
+     "had finished",
+     "was finishing"
+    ],
+    "answer": 2,
+    "whyTr": "Dolaylı anlatımda geçmişin geçmişi: had finished.",
+    "tag": "reported-speech",
+    "level": "B2"
+   },
+   {
+    "type": "mcq",
+    "q": "He was late ___ the bus broke down.",
+    "options": [
+     "although",
+     "despite",
+     "whereas",
+     "because"
+    ],
+    "answer": 3,
+    "whyTr": "Neden bildirir: because.",
+    "tag": "linkers",
+    "level": "B2"
+   },
+   {
+    "type": "mcq",
+    "q": "The bakery ___ I buy bread opens at six.",
+    "options": [
+     "who",
+     "where",
+     "whose",
+     "what"
+    ],
+    "answer": 1,
+    "whyTr": "Yer için ilgi zamiri: where.",
+    "tag": "relative-clauses",
+    "level": "B2"
+   },
+   {
+    "type": "mcq",
+    "q": "Prices are higher in the city, ___ rent is lower in the village.",
+    "options": [
+     "therefore",
+     "moreover",
+     "whereas",
+     "so"
+    ],
+    "answer": 2,
+    "whyTr": "Karşılaştırma: whereas.",
+    "tag": "linkers",
+    "level": "B2"
+   },
+   {
+    "type": "mcq",
+    "q": "The wrong title may ___ readers.",
+    "options": [
+     "mislead",
+     "reopen",
+     "rebuild",
+     "disconnect"
+    ],
+    "answer": 0,
+    "whyTr": "Yanıltmak: mislead.",
+    "tag": "vocab",
+    "level": "B2"
+   },
+   {
+    "type": "mcq",
+    "q": "The Wi-Fi often ___ during the lesson, so we lost the video.",
+    "options": [
+     "disconnects",
+     "reopens",
+     "misleads",
+     "rebuilds"
+    ],
+    "answer": 0,
+    "whyTr": "Bağlantı kopması: disconnect.",
+    "tag": "vocab",
+    "level": "B2"
+   },
+   {
+    "type": "mcq",
+    "q": "Parents were ___ with the late bus service.",
+    "options": [
+     "unaware",
+     "unfamiliar",
+     "dissatisfied",
+     "dishonest"
+    ],
+    "answer": 2,
+    "whyTr": "Memnun olmamak: dissatisfied with.",
+    "tag": "vocab",
+    "level": "B2"
+   },
+   {
+    "type": "mcq",
+    "q": "What is the opposite of \"aware\"?",
+    "options": [
+     "disaware",
+     "unaware",
+     "misaware",
+     "reaware"
+    ],
+    "answer": 1,
+    "whyTr": "Aware'in tersi unaware.",
+    "tag": "antonym",
+    "level": "B2"
+   },
+   {
+    "type": "mcq",
+    "q": "Which word means almost the same as \"reconsider\"?",
+    "options": [
+     "ignore",
+     "reject",
+     "repeat",
+     "rethink"
+    ],
+    "answer": 3,
+    "whyTr": "Reconsider = rethink.",
+    "tag": "synonym",
+    "level": "B2"
+   },
+   {
+    "type": "mcq",
+    "q": "What is the opposite of \"approve\"?",
+    "options": [
+     "misapprove",
+     "unapprove",
+     "disapprove",
+     "reapprove"
+    ],
+    "answer": 2,
+    "whyTr": "Approve'un tersi disapprove.",
+    "tag": "antonym",
+    "level": "B2"
+   },
+   {
+    "type": "mcq",
+    "q": "Which word means almost the same as \"mislead\"?",
+    "options": [
+     "deceive",
+     "inform",
+     "guide",
+     "teach"
+    ],
+    "answer": 0,
+    "whyTr": "Mislead = deceive.",
+    "tag": "synonym",
+    "level": "B2"
+   },
+   {
+    "type": "mcq",
+    "q": "The school was closed for repairs. It will reopen next week.\n\nWhat does \"reopen\" mean?",
+    "options": [
+     "Open early",
+     "Never open",
+     "Open wrongly",
+     "Open again"
+    ],
+    "answer": 3,
+    "whyTr": "Re- = tekrar.",
+    "tag": "reading",
+    "level": "B2"
+   },
+   {
+    "type": "mcq",
+    "q": "Jack misread the schedule, so he arrived an hour late.\n\nWhat happened?",
+    "options": [
+     "He lost the schedule.",
+     "He read the schedule wrongly.",
+     "He read the schedule twice.",
+     "He refused to read it."
+    ],
+    "answer": 1,
+    "whyTr": "Mis- = yanlış.",
+    "tag": "reading",
+    "level": "B2"
+   },
+   {
+    "type": "mcq",
+    "q": "Many staff members were unfamiliar with the new system, so the district offered training.\n\nWhy was training offered?",
+    "options": [
+     "The staff disliked the district.",
+     "The system was new to the staff.",
+     "The system was old.",
+     "The staff were dishonest."
+    ],
+    "answer": 1,
+    "whyTr": "Unfamiliar = tanıdık olmayan.",
+    "tag": "reading",
+    "level": "B2"
+   }
+  ]
+ }
+}

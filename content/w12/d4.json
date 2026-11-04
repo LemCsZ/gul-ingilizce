@@ -1,0 +1,928 @@
+{
+ "week": 12,
+ "day": 4,
+ "titleTr": "Dönem sonuna kadar: will have + V3",
+ "theme": "goals-semester",
+ "morning": {
+  "grammar": {
+   "topic": "Future Perfect (will have + V3)",
+   "explainTr": [
+    "Gelecekteki bir zamana kadar tamamlanmış olacak eylemi anlatır: will have + V3. By the end of the semester, I will have finished the course. (Dönem sonuna kadar kursu bitirmiş olacağım.)",
+    "Çoğu zaman 'by' ile gelir: by Friday, by June, by the end of the year, by the time you arrive. Önemli olan, eylemin o tarihten önce bitmiş olmasıdır; o tarihte hâlâ yapıyor olmak değildir (bu future continuous olurdu).",
+    "Olumsuz: won't have finished. Soru: Will you have finished by Monday? Süreyi vurgulamak için 'for' ile de kullanılır: By March, I will have lived here for three years."
+   ],
+   "compareTr": "Türkçede 'Cuma'ya kadar bitirmiş olacağım' tek bir ek ile kurulur. İngilizcede üç parça var: will + have + finished. 'Bitirmiş olacağım' = I will have finished.",
+   "table": [
+    [
+     "Olumlu",
+     "will have + V3",
+     "I will have finished."
+    ],
+    [
+     "Olumsuz",
+     "won't have + V3",
+     "She won't have arrived."
+    ],
+    [
+     "Soru",
+     "Will + özne + have + V3?",
+     "Will you have finished?"
+    ],
+    [
+     "Zaman ifadeleri",
+     "by Friday, by the end of..., by the time",
+     "By June, I will have graduated."
+    ]
+   ],
+   "examples": [
+    {
+     "en": "By the end of the semester, Hafsa will have worked in ten classrooms.",
+     "tr": "Dönem sonuna kadar Hafsa on sınıfta çalışmış olacak."
+    },
+    {
+     "en": "By next June, she will have earned her certificate.",
+     "tr": "Gelecek haziranda sertifikasını almış olacak."
+    },
+    {
+     "en": "Will you have finished the report by Monday?",
+     "tr": "Pazartesiye kadar raporu bitirmiş olacak mısın?"
+    },
+    {
+     "en": "By 2030, I will have lived in the US for six years.",
+     "tr": "2030'a kadar altı yıldır ABD'de yaşıyor olacağım."
+    }
+   ],
+   "exercises": [
+    {
+     "type": "mcq",
+     "q": "By the end of the semester, Hafsa ___ twenty substitute jobs.",
+     "options": [
+      "completes",
+      "had completed",
+      "is completing",
+      "will have completed"
+     ],
+     "answer": 3,
+     "whyTr": "Gelecekteki bir tarihe kadar tamamlanmış olacak: will have + V3.",
+     "tag": "future",
+     "level": "B2"
+    },
+    {
+     "type": "mcq",
+     "q": "By next June, she ___ her certification.",
+     "options": [
+      "earned",
+      "will have earned",
+      "has earned",
+      "will be earn"
+     ],
+     "answer": 1,
+     "whyTr": "'By next June' tamamlanmış olacak eylem: will have earned.",
+     "tag": "future",
+     "level": "B2"
+    },
+    {
+     "type": "order",
+     "promptTr": "Cümleyi sırala:",
+     "words": [
+      "have",
+      "Friday",
+      "I",
+      "the",
+      "By",
+      "all",
+      "will",
+      "finished",
+      "grading"
+     ],
+     "answer": "By Friday I will have finished all the grading",
+     "whyTr": "By + zaman + özne + will have + V3.",
+     "tag": "future",
+     "level": "B2"
+    },
+    {
+     "type": "mcq",
+     "q": "By the time you read this note, I ___ for the day.",
+     "options": [
+      "will have left",
+      "leave",
+      "have left",
+      "was leaving"
+     ],
+     "answer": 0,
+     "whyTr": "Okuma anından önce gitmiş olacağım: will have left.",
+     "tag": "future",
+     "level": "B2"
+    },
+    {
+     "type": "mcq",
+     "q": "I ___ the sub plan on your desk by seven.",
+     "options": [
+      "put",
+      "am putting",
+      "will have put",
+      "had put"
+     ],
+     "answer": 2,
+     "whyTr": "Yedi'ye kadar bitmiş olacak söz: will have put.",
+     "tag": "future",
+     "level": "B2"
+    },
+    {
+     "type": "order",
+     "promptTr": "Soruyu sırala:",
+     "words": [
+      "you",
+      "Will",
+      "by",
+      "the",
+      "time",
+      "finished",
+      "the",
+      "report",
+      "the",
+      "principal",
+      "arrives?",
+      "have"
+     ],
+     "answer": "Will you have finished the report by the time the principal arrives?",
+     "whyTr": "Soru: Will + özne + have + V3?",
+     "tag": "question-form",
+     "level": "B2"
+    },
+    {
+     "type": "mcq",
+     "q": "Which time expression is typical for the future perfect?",
+     "options": [
+      "last June",
+      "by the end of June",
+      "since June",
+      "every June"
+     ],
+     "answer": 1,
+     "whyTr": "Future perfect 'by + gelecek tarih' ile gelir.",
+     "tag": "future",
+     "level": "B2"
+    },
+    {
+     "type": "fill",
+     "q": "By next year, Hafsa will ___ taught at five schools.",
+     "accept": [
+      "have"
+     ],
+     "hintTr": "will ___ + V3",
+     "whyTr": "Future perfect kalıbı: will have taught.",
+     "tag": "future",
+     "level": "B2"
+    },
+    {
+     "type": "mcq",
+     "q": "This time tomorrow I ___ in the library. (in progress at that time)",
+     "options": [
+      "will have worked",
+      "work",
+      "had worked",
+      "will be working"
+     ],
+     "answer": 3,
+     "whyTr": "O anda süren eylem: future continuous.",
+     "tag": "future",
+     "level": "B2"
+    },
+    {
+     "type": "mcq",
+     "q": "By the time Hafsa arrived, the class ___.",
+     "options": [
+      "will have started",
+      "had started",
+      "starts",
+      "has started"
+     ],
+     "answer": 1,
+     "whyTr": "Geçmişteki bir andan önce olmuş: past perfect.",
+     "tag": "past-simple",
+     "level": "B2"
+    },
+    {
+     "type": "mcq",
+     "q": "Her eyes hurt because she ___ for hours.",
+     "options": [
+      "will have read",
+      "reads",
+      "is reading",
+      "had been reading"
+     ],
+     "answer": 3,
+     "whyTr": "Geçmişteki sebep olan süreç: had been reading.",
+     "tag": "past-simple",
+     "level": "B2"
+    },
+    {
+     "type": "mcq",
+     "q": "She won't qualify ___ she completes the training.",
+     "options": [
+      "unless",
+      "although",
+      "because",
+      "so"
+     ],
+     "answer": 0,
+     "whyTr": "'Eğer ... tamamlamazsa' anlamında: unless.",
+     "tag": "linkers",
+     "level": "B1"
+    }
+   ]
+  },
+  "vocab": [
+   {
+    "id": "semester",
+    "en": "semester",
+    "tr": "dönem, yarıyıl",
+    "pos": "noun",
+    "example": "The fall semester ends in December.",
+    "exampleTr": "Güz dönemi aralıkta bitiyor.",
+    "syn": [
+     "term"
+    ],
+    "ant": [],
+    "level": "B2"
+   },
+   {
+    "id": "achieve",
+    "en": "achieve",
+    "tr": "başarmak, ulaşmak",
+    "pos": "verb",
+    "example": "She wants to achieve her goal this year.",
+    "exampleTr": "Bu yıl hedefine ulaşmak istiyor.",
+    "syn": [
+     "accomplish"
+    ],
+    "ant": [],
+    "level": "B2"
+   },
+   {
+    "id": "accomplish",
+    "en": "accomplish",
+    "tr": "başarmak, tamamlamak",
+    "pos": "verb",
+    "example": "They accomplished a lot in one month.",
+    "exampleTr": "Bir ayda çok şey başardılar.",
+    "syn": [
+     "achieve"
+    ],
+    "ant": [],
+    "level": "B2"
+   },
+   {
+    "id": "credential",
+    "en": "credential",
+    "tr": "yeterlilik belgesi",
+    "pos": "noun",
+    "example": "A teaching credential is required in some states.",
+    "exampleTr": "Bazı eyaletlerde öğretmenlik yeterlilik belgesi gerekir.",
+    "syn": [],
+    "ant": [],
+    "level": "B2"
+   },
+   {
+    "id": "license",
+    "en": "license",
+    "tr": "ruhsat, lisans",
+    "pos": "noun",
+    "example": "She applied for a substitute license.",
+    "exampleTr": "Vekil öğretmenlik ruhsatı için başvurdu.",
+    "syn": [],
+    "ant": [],
+    "level": "B2"
+   },
+   {
+    "id": "complete",
+    "en": "complete",
+    "tr": "tamamlamak; tam",
+    "pos": "verb",
+    "example": "Complete the training before the first day.",
+    "exampleTr": "Eğitimi ilk günden önce tamamla.",
+    "syn": [
+     "finish"
+    ],
+    "ant": [
+     "start"
+    ],
+    "level": "B2"
+   },
+   {
+    "id": "milestone",
+    "en": "milestone",
+    "tr": "dönüm noktası, önemli aşama",
+    "pos": "noun",
+    "example": "Her first day was a big milestone.",
+    "exampleTr": "İlk günü büyük bir dönüm noktasıydı.",
+    "syn": [],
+    "ant": [],
+    "level": "B2"
+   },
+   {
+    "id": "transcript",
+    "en": "transcript",
+    "tr": "not dökümü",
+    "pos": "noun",
+    "example": "The district asked for her school transcript.",
+    "exampleTr": "Okul bölgesi onun not dökümünü istedi.",
+    "syn": [],
+    "ant": [],
+    "level": "B2"
+   },
+   {
+    "id": "coursework",
+    "en": "coursework",
+    "tr": "ders çalışmaları",
+    "pos": "noun",
+    "example": "Her coursework includes weekly essays.",
+    "exampleTr": "Ders çalışmaları haftalık kompozisyonları içeriyor.",
+    "syn": [],
+    "ant": [],
+    "level": "B2"
+   },
+   {
+    "id": "fulfill",
+    "en": "fulfill",
+    "tr": "yerine getirmek",
+    "pos": "verb",
+    "example": "He must fulfill all the conditions.",
+    "exampleTr": "Bütün şartları yerine getirmek zorunda.",
+    "syn": [
+     "meet"
+    ],
+    "ant": [],
+    "level": "B2"
+   },
+   {
+    "id": "evaluate",
+    "en": "evaluate",
+    "tr": "değerlendirmek",
+    "pos": "verb",
+    "example": "The principal will evaluate every new teacher.",
+    "exampleTr": "Müdür her yeni öğretmeni değerlendirecek.",
+    "syn": [
+     "assess"
+    ],
+    "ant": [],
+    "level": "B2"
+   },
+   {
+    "id": "assessment",
+    "en": "assessment",
+    "tr": "değerlendirme, ölçme",
+    "pos": "noun",
+    "example": "The final assessment is next week.",
+    "exampleTr": "Final değerlendirmesi gelecek hafta.",
+    "syn": [
+     "evaluation"
+    ],
+    "ant": [],
+    "level": "B2"
+   },
+   {
+    "id": "aim",
+    "en": "aim",
+    "tr": "amaç; amaçlamak",
+    "pos": "noun",
+    "example": "Her aim is to teach in an elementary school.",
+    "exampleTr": "Amacı bir ilkokulda öğretmenlik yapmak.",
+    "syn": [
+     "goal"
+    ],
+    "ant": [],
+    "level": "B2"
+   },
+   {
+    "id": "ambition",
+    "en": "ambition",
+    "tr": "hırs, hedef",
+    "pos": "noun",
+    "example": "Hafsa's ambition is to help children read.",
+    "exampleTr": "Hafsa'nın hedefi çocukların okumasına yardım etmek.",
+    "syn": [],
+    "ant": [],
+    "level": "B2"
+   },
+   {
+    "id": "determined",
+    "en": "determined",
+    "tr": "kararlı",
+    "pos": "adjective",
+    "example": "She is determined to pass the test.",
+    "exampleTr": "Sınavı geçmeye kararlı.",
+    "syn": [
+     "resolved"
+    ],
+    "ant": [
+     "hesitant"
+    ],
+    "level": "B2"
+   }
+  ],
+  "reading": {
+   "title": "Hafsa's calendar",
+   "text": "Hafsa taped a large calendar to the refrigerator door. At the top, in red ink, she had written one sentence: \"By the end of the semester, I will have become a real substitute teacher.\" Emre, who was eating cereal, read it aloud and smiled. \"That's a big goal, Mom. Do you have a plan?\"\n\n\"Of course,\" Hafsa said. She pointed at the calendar. \"By the end of November, I will have finished the online course about classroom management. By the middle of December, I will have completed the background check and sent my transcript to the district. And by January, I hope I will have received my substitute license.\"\n\nEmre counted on his fingers. \"That's three milestones in two months.\" \"Four,\" she said. \"By the end of the semester, I will also have worked at least ten days in different schools. Mr. Brown says that experience matters more than any certificate.\"\n\n\"What about your English?\" Emre asked carefully. Hafsa did not feel hurt. \"By January I will have learned five hundred new words and read twenty short articles,\" she said. \"I will have taken three practice tests, too.\" Emre was impressed. \"You have thought about everything.\" \"Not everything,\" she said. \"I haven't decided what I will do if I fail the test.\" \"Then you will take it again,\" Emre said. \"By then you will have improved so much that it won't matter anyway.\"\n\nHafsa laughed and drew a small green star next to the last date. She knew that not every plan would work perfectly. Some weeks she would be too tired, and some days a class would be difficult. But when she looked at the calendar, she no longer saw a mountain. She saw a staircase. By the time winter break arrived, she would have climbed most of it, one step at a time.",
+   "glossary": [
+    {
+     "en": "tape",
+     "tr": "bantla yapıştırmak"
+    },
+    {
+     "en": "background check",
+     "tr": "sicil kontrolü"
+    },
+    {
+     "en": "classroom management",
+     "tr": "sınıf yönetimi"
+    },
+    {
+     "en": "impressed",
+     "tr": "etkilenmiş"
+    },
+    {
+     "en": "staircase",
+     "tr": "merdiven"
+    }
+   ],
+   "questions": [
+    {
+     "type": "mcq",
+     "q": "What will Hafsa have finished by the end of November?",
+     "options": [
+      "Her substitute license",
+      "Ten days of work",
+      "The online course about classroom management",
+      "The background check"
+     ],
+     "answer": 2,
+     "whyTr": "Metin: 'By the end of November, I will have finished the online course.'",
+     "tag": "reading",
+     "level": "B2"
+    },
+    {
+     "type": "mcq",
+     "q": "Who says that experience matters more than any certificate?",
+     "options": [
+      "Emre",
+      "Linda",
+      "The district",
+      "Mr. Brown"
+     ],
+     "answer": 3,
+     "whyTr": "Metin: 'Mr. Brown says that experience matters more.'",
+     "tag": "reading",
+     "level": "B2"
+    },
+    {
+     "type": "mcq",
+     "q": "How many new words does Hafsa plan to learn by January?",
+     "options": [
+      "Twenty",
+      "Five hundred",
+      "Three hundred",
+      "One thousand"
+     ],
+     "answer": 1,
+     "whyTr": "Metin: 'five hundred new words'.",
+     "tag": "reading",
+     "level": "B2"
+    },
+    {
+     "type": "mcq",
+     "q": "What does the calendar look like to Hafsa at the end?",
+     "options": [
+      "A mountain",
+      "A map",
+      "A staircase",
+      "A cage"
+     ],
+     "answer": 2,
+     "whyTr": "Metin: 'She no longer saw a mountain. She saw a staircase.'",
+     "tag": "reading",
+     "level": "B2"
+    }
+   ]
+  }
+ },
+ "evening": {
+  "listening": {
+   "title": "News from Mr. Brown",
+   "script": [
+    {
+     "speaker": "Mr. Brown",
+     "text": "Hafsa, I have good news. The district has approved your application."
+    },
+    {
+     "speaker": "Hafsa",
+     "text": "Really? That's wonderful! What happens next?"
+    },
+    {
+     "speaker": "Mr. Brown",
+     "text": "By next Friday, the district will have checked all your documents. After that, you can start."
+    },
+    {
+     "speaker": "Hafsa",
+     "text": "And what should I do before then?"
+    },
+    {
+     "speaker": "Mr. Brown",
+     "text": "Finish the online training. How much of it will you have completed by Wednesday?"
+    },
+    {
+     "speaker": "Hafsa",
+     "text": "By Wednesday I will have finished four of the six modules. I should have all six by Friday."
+    },
+    {
+     "speaker": "Mr. Brown",
+     "text": "Good. And the fingerprints?"
+    },
+    {
+     "speaker": "Hafsa",
+     "text": "I have an appointment on Tuesday. By noon I will have done it."
+    },
+    {
+     "speaker": "Mr. Brown",
+     "text": "Excellent. Then by the end of next week, you will have become an official substitute."
+    },
+    {
+     "speaker": "Hafsa",
+     "text": "I can't believe it. By this time next month, I will have worked in three schools!"
+    },
+    {
+     "speaker": "Mr. Brown",
+     "text": "Let's not rush. One step at a time."
+    },
+    {
+     "speaker": "Hafsa",
+     "text": "Of course. Thank you for everything, Mr. Brown."
+    }
+   ],
+   "questions": [
+    {
+     "type": "mcq",
+     "q": "What good news does Mr. Brown have?",
+     "options": [
+      "The district approved Hafsa's application.",
+      "Hafsa has a new classroom.",
+      "Hafsa passed her test.",
+      "The training is canceled."
+     ],
+     "answer": 0,
+     "whyTr": "Mr. Brown: 'The district has approved your application.'",
+     "tag": "listening",
+     "level": "B2"
+    },
+    {
+     "type": "mcq",
+     "q": "How much of the training will Hafsa have finished by Wednesday?",
+     "options": [
+      "All six modules",
+      "Two of six modules",
+      "Four of six modules",
+      "Half of the course"
+     ],
+     "answer": 2,
+     "whyTr": "Hafsa: 'four of the six modules'.",
+     "tag": "listening",
+     "level": "B2"
+    },
+    {
+     "type": "mcq",
+     "q": "When is the fingerprint appointment?",
+     "options": [
+      "On Tuesday",
+      "On Wednesday",
+      "On Friday",
+      "Next month"
+     ],
+     "answer": 0,
+     "whyTr": "Hafsa: 'I have an appointment on Tuesday.'",
+     "tag": "listening",
+     "level": "B2"
+    },
+    {
+     "type": "mcq",
+     "q": "What will Hafsa have become by the end of next week?",
+     "options": [
+      "A full-time teacher",
+      "An official substitute",
+      "A school secretary",
+      "A principal"
+     ],
+     "answer": 1,
+     "whyTr": "Mr. Brown: 'you will have become an official substitute'.",
+     "tag": "listening",
+     "level": "B2"
+    }
+   ]
+  },
+  "writing": {
+   "promptTr": "Dönem sonuna ya da yıl sonuna kadar neleri tamamlamış olacağını anlat. Will have + V3 ile en az dört cümle kur.",
+   "promptEn": "Write a paragraph (120-180 words) about what you will have achieved by the end of the year. Use the future perfect at least four times.",
+   "frames": [
+    "By the end of the year, I will have ...",
+    "By June, I will have ... for ... months.",
+    "I won't have ... by then, but ...",
+    "By the time ..., I will have ..."
+   ],
+   "model": "By the end of this year, I will have achieved several important goals. First, I will have finished my English course, and I will have learned about two thousand new words. By June, I will have taken three practice tests, and I hope I will have passed the WUST test with a good score. I will also have completed the training that the district requires, so I will be able to work as a substitute teacher. By the time winter break arrives, I will have worked in at least eight classrooms, and I will have met many kind teachers. Of course, I won't have solved every problem. My pronunciation will still be difficult, and I will sometimes be nervous. But I will have become more confident, and I will have proved to myself that I can learn at any age. My son Emre will be proud, and so will I.",
+   "checklistTr": [
+    "En az dört yerde will have + V3 var mı?",
+    "'By' ile gelecekteki bir tarih ya da zaman verdin mi?",
+    "Bir yerde won't have + V3 kullandın mı?",
+    "Cümleler büyük harfle başlıyor ve noktayla bitiyor mu?"
+   ],
+   "minWords": 120
+  },
+  "examSet": [
+   {
+    "type": "mcq",
+    "q": "By next June, I ___ my degree.",
+    "options": [
+     "finish",
+     "had finished",
+     "am finishing",
+     "will have finished"
+    ],
+    "answer": 3,
+    "whyTr": "Gelecekteki tarihe kadar tamamlanmış olacak: will have finished.",
+    "tag": "future",
+    "level": "B2"
+   },
+   {
+    "type": "mcq",
+    "q": "By the time you arrive, we ___ dinner.",
+    "options": [
+     "eat",
+     "will have eaten",
+     "are eating",
+     "ate"
+    ],
+    "answer": 1,
+    "whyTr": "Varışından önce bitmiş olacak: will have eaten.",
+    "tag": "future",
+    "level": "B2"
+   },
+   {
+    "type": "order",
+    "promptTr": "Cümleyi sırala:",
+    "words": [
+     "of",
+     "five",
+     "will",
+     "have",
+     "end",
+     "classes",
+     "week",
+     "the",
+     "she",
+     "By",
+     "the",
+     "taught"
+    ],
+    "answer": "By the end of the week she will have taught five classes",
+    "whyTr": "By + zaman + özne + will have + V3.",
+    "tag": "future",
+    "level": "B2"
+   },
+   {
+    "type": "fill",
+    "q": "By Friday, they will ___ finished the project.",
+    "accept": [
+     "have"
+    ],
+    "hintTr": "will ___ + V3",
+    "whyTr": "Future perfect kalıbı: will have finished.",
+    "tag": "future",
+    "level": "B2"
+   },
+   {
+    "type": "mcq",
+    "q": "She wants to ___ her goals this year.",
+    "options": [
+     "achieve",
+     "evaluate",
+     "verify",
+     "rehearse"
+    ],
+    "answer": 0,
+    "whyTr": "Hedefe ulaşmak: achieve.",
+    "tag": "vocab",
+    "level": "B2"
+   },
+   {
+    "type": "mcq",
+    "q": "A ___ shows that you are allowed to work as a teacher.",
+    "options": [
+     "transcript",
+     "semester",
+     "license",
+     "milestone"
+    ],
+    "answer": 2,
+    "whyTr": "Çalışma izni belgesi: license.",
+    "tag": "vocab",
+    "level": "B2"
+   },
+   {
+    "type": "mcq",
+    "q": "A school ___ is a list of all your courses and grades.",
+    "options": [
+     "credential",
+     "aim",
+     "ambition",
+     "transcript"
+    ],
+    "answer": 3,
+    "whyTr": "Not dökümü: transcript.",
+    "tag": "vocab",
+    "level": "B2"
+   },
+   {
+    "type": "mcq",
+    "q": "Which word is closest in meaning to \"achieve\"?",
+    "options": [
+     "ignore",
+     "accomplish",
+     "avoid",
+     "cancel"
+    ],
+    "answer": 1,
+    "whyTr": "Achieve ve accomplish benzer anlamlıdır.",
+    "tag": "synonym",
+    "level": "B2"
+   },
+   {
+    "type": "mcq",
+    "q": "What is the opposite of \"determined\"?",
+    "options": [
+     "serious",
+     "polite",
+     "hesitant",
+     "hardworking"
+    ],
+    "answer": 2,
+    "whyTr": "Determined'ın zıddı hesitant (kararsız).",
+    "tag": "antonym",
+    "level": "B2"
+   },
+   {
+    "type": "mcq",
+    "q": "By June, the school will have repaired the roof and painted the hallways. Parents will be invited to see the changes at an open house in July.\n\nWhat will the school have done by June?",
+    "options": [
+     "Repaired the roof and painted the hallways",
+     "Opened a new gym",
+     "Invited all the parents",
+     "Hired new teachers"
+    ],
+    "answer": 0,
+    "whyTr": "Metin: 'will have repaired the roof and painted the hallways'.",
+    "tag": "reading",
+    "level": "B2"
+   },
+   {
+    "type": "mcq",
+    "q": "Mia started the course in September. By December she will have completed six of the eight modules, and she hopes to finish the last two by January.\n\nHow many modules will Mia have finished by December?",
+    "options": [
+     "Two",
+     "Eight",
+     "Six",
+     "Four"
+    ],
+    "answer": 2,
+    "whyTr": "Metin: 'six of the eight modules'.",
+    "tag": "reading",
+    "level": "B2"
+   },
+   {
+    "type": "mcq",
+    "q": "This time next month, I ___ my first exam.",
+    "options": [
+     "will be taking",
+     "will have taken",
+     "took",
+     "take"
+    ],
+    "answer": 0,
+    "whyTr": "O anda devam ediyor olacak: future continuous.",
+    "tag": "future",
+    "level": "B2"
+   },
+   {
+    "type": "mcq",
+    "q": "When Hafsa arrived, the students ___ for twenty minutes.",
+    "options": [
+     "will have waited",
+     "had been waiting",
+     "wait",
+     "were wait"
+    ],
+    "answer": 1,
+    "whyTr": "Geçmişteki ana kadar süren eylem: had been waiting.",
+    "tag": "past-simple",
+    "level": "B2"
+   },
+   {
+    "type": "mcq",
+    "q": "By the time the bell rang, the teacher ___ the lesson.",
+    "options": [
+     "will have finished",
+     "finishes",
+     "has finished",
+     "had finished"
+    ],
+    "answer": 3,
+    "whyTr": "Geçmişteki bir andan önce bitmiş: had finished.",
+    "tag": "past-simple",
+    "level": "B2"
+   },
+   {
+    "type": "mcq",
+    "q": "I ___ in the US for three years next March.",
+    "options": [
+     "have lived",
+     "will have lived",
+     "lived",
+     "am living"
+    ],
+    "answer": 1,
+    "whyTr": "Gelecekteki bir tarihe kadar süre: will have lived.",
+    "tag": "future",
+    "level": "B2"
+   },
+   {
+    "type": "mcq",
+    "q": "Which sentence is correct?",
+    "options": [
+     "By 2030, she will became a principal.",
+     "By 2030, she have become a principal.",
+     "By 2030, she will has become a principal.",
+     "By 2030, she will have become a principal."
+    ],
+    "answer": 3,
+    "whyTr": "Kalıp: will have + V3.",
+    "tag": "future",
+    "level": "B2"
+   },
+   {
+    "type": "mcq",
+    "q": "You ___ complete the form in black ink. It's the rule.",
+    "options": [
+     "must",
+     "might",
+     "can",
+     "would"
+    ],
+    "answer": 0,
+    "whyTr": "Kural ve zorunluluk: must.",
+    "tag": "modals",
+    "level": "B1"
+   },
+   {
+    "type": "mcq",
+    "q": "___ she was exhausted, she finished the reports.",
+    "options": [
+     "Because",
+     "Unless",
+     "Even though",
+     "So"
+    ],
+    "answer": 2,
+    "whyTr": "Zıtlık: even though.",
+    "tag": "linkers",
+    "level": "B1"
+   },
+   {
+    "type": "mcq",
+    "q": "I ___ never ___ a field trip alone.",
+    "options": [
+     "did / lead",
+     "am / leading",
+     "will / led",
+     "have / led"
+    ],
+    "answer": 3,
+    "whyTr": "Deneyim: present perfect.",
+    "tag": "present-perfect",
+    "level": "B1"
+   },
+   {
+    "type": "mcq",
+    "q": "Which phrase usually goes with the future perfect?",
+    "options": [
+     "yesterday",
+     "by the end of the year",
+     "two weeks ago",
+     "last year"
+    ],
+    "answer": 1,
+    "whyTr": "Future perfect 'by + gelecek tarih' ile gelir.",
+    "tag": "future",
+    "level": "B2"
+   }
+  ]
+ }
+}

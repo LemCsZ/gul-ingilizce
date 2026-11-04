@@ -1,0 +1,768 @@
+{
+ "week": 2,
+ "day": 4,
+ "titleTr": "Sağlıklı alışkanlıklar: Ne sıklıkla?",
+ "theme": "health",
+ "morning": {
+  "grammar": {
+   "topic": "Sıklık zarfları: always, usually, often, sometimes, rarely, never + zaman ifadeleri",
+   "explainTr": [
+    "Sıklık zarfları bir şeyi ne kadar sık yaptığını söyler: always (her zaman, %100), usually (genellikle), often (sık sık), sometimes (bazen), rarely (nadiren), never (hiçbir zaman, %0).",
+    "Yerleri sabit: ana fiilden ÖNCE, to be'den SONRA gelir. I always drink water. She is always happy. Never zaten olumsuz olduğu için don't ile kullanılmaz: He never eats candy.",
+    "Zaman ifadeleri genelde sonda yer alır: every day, on Mondays, once a week, twice a month, three times a year."
+   ],
+   "compareTr": "Türkçede 'her zaman içerim' ya da 'ben her zaman içerim' gibi zarfın yeri serbesttir. İngilizcede yeri neredeyse sabittir: özne + zarf + fiil. 'Hiç yemem' derken Türkçe olumlu fiil kullanır, İngilizce de 'never eat' der; don't eklenmez.",
+   "table": [
+    [
+     "always",
+     "%100",
+     "I always drink water."
+    ],
+    [
+     "usually / often",
+     "%80 / %60",
+     "She usually walks."
+    ],
+    [
+     "sometimes",
+     "%40",
+     "We sometimes eat out."
+    ],
+    [
+     "rarely",
+     "%10",
+     "He rarely eats sugar."
+    ],
+    [
+     "never",
+     "%0",
+     "I never smoke."
+    ],
+    [
+     "to be ile",
+     "is/are + zarf",
+     "He is always tired."
+    ]
+   ],
+   "examples": [
+    {
+     "en": "I always drink water in the morning.",
+     "tr": "Sabahları her zaman su içerim."
+    },
+    {
+     "en": "She is usually at home on Sundays.",
+     "tr": "Pazarları genellikle evdedir."
+    },
+    {
+     "en": "Emre never eats vegetables.",
+     "tr": "Emre hiç sebze yemez."
+    },
+    {
+     "en": "I go to the gym twice a week.",
+     "tr": "Haftada iki kez spor salonuna giderim."
+    },
+    {
+     "en": "We walk on Saturdays.",
+     "tr": "Cumartesileri yürürüz."
+    }
+   ],
+   "exercises": [
+    {
+     "type": "mcq",
+     "q": "I ___ drink water in the morning. (100%)",
+     "options": [
+      "always",
+      "never",
+      "rarely"
+     ],
+     "answer": 0,
+     "whyTr": "Her sabah = %100: always.",
+     "tag": "present-simple",
+     "level": "A2"
+    },
+    {
+     "type": "mcq",
+     "q": "Hafsa ___ drinks soda. She doesn't like it. (0%)",
+     "options": [
+      "always",
+      "never",
+      "usually"
+     ],
+     "answer": 1,
+     "whyTr": "Hiç içmiyor: never.",
+     "tag": "present-simple",
+     "level": "A2"
+    },
+    {
+     "type": "order",
+     "promptTr": "Cümleyi sırala:",
+     "words": [
+      "usually",
+      "walk",
+      "We",
+      "after",
+      "dinner"
+     ],
+     "answer": "We usually walk after dinner",
+     "whyTr": "Sıklık zarfı özneden sonra, fiilden önce gelir.",
+     "tag": "word-order",
+     "level": "A2"
+    },
+    {
+     "type": "mcq",
+     "q": "She ___ tired on Mondays.",
+     "options": [
+      "usually is",
+      "does usually",
+      "is usually"
+     ],
+     "answer": 2,
+     "whyTr": "Sıklık zarfı to be'den sonra gelir: is usually.",
+     "tag": "word-order",
+     "level": "A2"
+    },
+    {
+     "type": "mcq",
+     "q": "Emre ___ eats vegetables.",
+     "options": [
+      "never",
+      "don't never",
+      "doesn't never"
+     ],
+     "answer": 0,
+     "whyTr": "Never zaten olumsuzdur; don't ile birlikte kullanılmaz.",
+     "tag": "negative-form",
+     "level": "A2"
+    },
+    {
+     "type": "mcq",
+     "q": "I go to the gym ___ a week. (1 time)",
+     "options": [
+      "one",
+      "once",
+      "first"
+     ],
+     "answer": 1,
+     "whyTr": "Bir kez = once; iki kez = twice.",
+     "tag": "prepositions-time",
+     "level": "A2"
+    },
+    {
+     "type": "mcq",
+     "q": "We play with Emre ___ Sundays.",
+     "options": [
+      "in",
+      "at",
+      "on"
+     ],
+     "answer": 2,
+     "whyTr": "Günlerle 'on' kullanılır: on Sundays.",
+     "tag": "prepositions-time",
+     "level": "A2"
+    },
+    {
+     "type": "order",
+     "promptTr": "Cümleyi sırala:",
+     "words": [
+      "is",
+      "never",
+      "late",
+      "Mr. Brown"
+     ],
+     "answer": "Mr. Brown is never late",
+     "whyTr": "To be'den sonra sıklık zarfı: is never.",
+     "tag": "word-order",
+     "level": "A2"
+    },
+    {
+     "type": "mcq",
+     "q": "Linda eats fruit ___ day.",
+     "options": [
+      "each of",
+      "every",
+      "all"
+     ],
+     "answer": 1,
+     "whyTr": "'Every day' = her gün.",
+     "tag": "prepositions-time",
+     "level": "A2"
+    },
+    {
+     "type": "mcq",
+     "q": "Which sentence is correct?",
+     "options": [
+      "She eats sometimes candy.",
+      "She sometimes eats candy.",
+      "Sometimes she eat candy."
+     ],
+     "answer": 1,
+     "whyTr": "Zarf özne ile fiil arasında; fiile -s gelir.",
+     "tag": "word-order",
+     "level": "A2"
+    },
+    {
+     "type": "fill",
+     "q": "I ___ stretch every morning. (100%)",
+     "accept": [
+      "always",
+      "Always"
+     ],
+     "hintTr": "her zaman",
+     "whyTr": "Her sabah yapılıyorsa 'always' kullanılır.",
+     "tag": "present-simple",
+     "level": "A2"
+    },
+    {
+     "type": "mcq",
+     "q": "I exercise ___ a week: Monday and Thursday.",
+     "options": [
+      "once",
+      "every",
+      "twice"
+     ],
+     "answer": 2,
+     "whyTr": "İki gün = twice a week.",
+     "tag": "prepositions-time",
+     "level": "A2"
+    }
+   ]
+  },
+  "vocab": [
+   {
+    "id": "exercise",
+    "en": "exercise",
+    "tr": "egzersiz yapmak; egzersiz",
+    "pos": "verb",
+    "example": "I exercise three times a week.",
+    "exampleTr": "Haftada üç kez egzersiz yaparım.",
+    "syn": [],
+    "ant": [],
+    "level": "A1"
+   },
+   {
+    "id": "vegetable",
+    "en": "vegetable",
+    "tr": "sebze",
+    "pos": "noun",
+    "example": "Eat a vegetable with every meal.",
+    "exampleTr": "Her yemekle bir sebze ye.",
+    "syn": [],
+    "ant": [],
+    "level": "A1"
+   },
+   {
+    "id": "fruit",
+    "en": "fruit",
+    "tr": "meyve",
+    "pos": "noun",
+    "example": "She eats fruit for breakfast.",
+    "exampleTr": "Kahvaltıda meyve yer.",
+    "syn": [],
+    "ant": [],
+    "level": "A1"
+   },
+   {
+    "id": "water",
+    "en": "water",
+    "tr": "su",
+    "pos": "noun",
+    "example": "Drink a lot of water every day.",
+    "exampleTr": "Her gün bol su iç.",
+    "syn": [],
+    "ant": [],
+    "level": "A1"
+   },
+   {
+    "id": "sugar",
+    "en": "sugar",
+    "tr": "şeker",
+    "pos": "noun",
+    "example": "Too much sugar is bad.",
+    "exampleTr": "Fazla şeker kötüdür.",
+    "syn": [],
+    "ant": [],
+    "level": "A1"
+   },
+   {
+    "id": "habit",
+    "en": "habit",
+    "tr": "alışkanlık",
+    "pos": "noun",
+    "example": "Walking after dinner is a good habit.",
+    "exampleTr": "Akşam yemeğinden sonra yürümek iyi bir alışkanlık.",
+    "syn": [],
+    "ant": [],
+    "level": "A1"
+   },
+   {
+    "id": "diet",
+    "en": "diet",
+    "tr": "beslenme düzeni; diyet",
+    "pos": "noun",
+    "example": "A good diet has a lot of vegetables.",
+    "exampleTr": "İyi bir beslenme düzeninde bol sebze vardır.",
+    "syn": [],
+    "ant": [],
+    "level": "A1"
+   },
+   {
+    "id": "snack",
+    "en": "snack",
+    "tr": "atıştırmalık",
+    "pos": "noun",
+    "example": "I take a healthy snack to work.",
+    "exampleTr": "İşe sağlıklı bir atıştırmalık götürürüm.",
+    "syn": [],
+    "ant": [],
+    "level": "A1"
+   },
+   {
+    "id": "stretch",
+    "en": "stretch",
+    "tr": "esnemek; germek",
+    "pos": "verb",
+    "example": "Stretch your arms in the morning.",
+    "exampleTr": "Sabahları kollarını ger.",
+    "syn": [],
+    "ant": [],
+    "level": "A1"
+   },
+   {
+    "id": "gym",
+    "en": "gym",
+    "tr": "spor salonu",
+    "pos": "noun",
+    "example": "Emre goes to the gym on Saturdays.",
+    "exampleTr": "Emre cumartesileri spor salonuna gider.",
+    "syn": [],
+    "ant": [],
+    "level": "A1"
+   },
+   {
+    "id": "drink",
+    "en": "drink",
+    "tr": "içmek",
+    "pos": "verb",
+    "example": "I drink tea twice a day.",
+    "exampleTr": "Günde iki kez çay içerim.",
+    "syn": [],
+    "ant": [],
+    "level": "A1"
+   },
+   {
+    "id": "eat",
+    "en": "eat",
+    "tr": "yemek yemek",
+    "pos": "verb",
+    "example": "We eat dinner at six.",
+    "exampleTr": "Altıda akşam yemeği yeriz.",
+    "syn": [],
+    "ant": [],
+    "level": "A1"
+   },
+   {
+    "id": "strong",
+    "en": "strong",
+    "tr": "güçlü",
+    "pos": "adjective",
+    "example": "Exercise makes you strong.",
+    "exampleTr": "Egzersiz seni güçlü yapar.",
+    "syn": [
+     "powerful"
+    ],
+    "ant": [
+     "weak"
+    ],
+    "level": "A1"
+   },
+   {
+    "id": "weak",
+    "en": "weak",
+    "tr": "zayıf, güçsüz",
+    "pos": "adjective",
+    "example": "I feel weak when I don't eat.",
+    "exampleTr": "Yemek yemediğimde kendimi güçsüz hissederim.",
+    "syn": [],
+    "ant": [
+     "strong"
+    ],
+    "level": "A1"
+   },
+   {
+    "id": "energy",
+    "en": "energy",
+    "tr": "enerji",
+    "pos": "noun",
+    "example": "Breakfast gives me energy.",
+    "exampleTr": "Kahvaltı bana enerji verir.",
+    "syn": [],
+    "ant": [],
+    "level": "A1"
+   }
+  ],
+  "reading": {
+   "title": "Hafsa's healthy habits",
+   "text": "Hafsa wants to be healthy and strong, so she has some good habits. She always drinks a big glass of water when she wakes up. She usually eats fruit for breakfast, and she often eats vegetables with lunch and dinner. She rarely eats sugar, but she sometimes has a small piece of Turkish delight with her tea.\n\nEvery day, she walks for thirty minutes in the park. On Mondays and Thursdays, she stretches and does some exercise at home. Her neighbor Linda goes to the gym twice a week, and she asks Hafsa to come. Hafsa says, \"Maybe next month!\"\n\nHer son Emre is different. He never eats vegetables, and he often wants candy. Hafsa is not angry. Every evening, she makes a healthy snack, and Emre usually eats it. She says, \"A good diet gives energy, and energy is important for school.\"",
+   "glossary": [
+    {
+     "en": "Turkish delight",
+     "tr": "lokum"
+    },
+    {
+     "en": "candy",
+     "tr": "şeker (tatlı)"
+    },
+    {
+     "en": "maybe",
+     "tr": "belki"
+    },
+    {
+     "en": "angry",
+     "tr": "kızgın"
+    }
+   ],
+   "questions": [
+    {
+     "type": "mcq",
+     "q": "What does Hafsa always do?",
+     "options": [
+      "She drinks water in the morning.",
+      "She eats candy.",
+      "She goes to the gym."
+     ],
+     "answer": 0,
+     "whyTr": "Metin: 'She always drinks a big glass of water'.",
+     "tag": "reading",
+     "level": "A2"
+    },
+    {
+     "type": "mcq",
+     "q": "How often does Hafsa eat sugar?",
+     "options": [
+      "Always",
+      "Rarely",
+      "Never"
+     ],
+     "answer": 1,
+     "whyTr": "Metin: 'She rarely eats sugar'.",
+     "tag": "reading",
+     "level": "A2"
+    },
+    {
+     "type": "mcq",
+     "q": "How often does Linda go to the gym?",
+     "options": [
+      "Every day",
+      "Once a month",
+      "Twice a week"
+     ],
+     "answer": 2,
+     "whyTr": "Metin: 'twice a week'.",
+     "tag": "reading",
+     "level": "A2"
+    },
+    {
+     "type": "mcq",
+     "q": "What does Emre never eat?",
+     "options": [
+      "Vegetables",
+      "Candy",
+      "Snacks"
+     ],
+     "answer": 0,
+     "whyTr": "Metin: 'He never eats vegetables'.",
+     "tag": "reading",
+     "level": "A2"
+    }
+   ]
+  }
+ },
+ "evening": {
+  "listening": {
+   "title": "A talk with Ms. Lee at school",
+   "script": [
+    {
+     "speaker": "Ms. Lee",
+     "text": "Hi, Hafsa. I want to ask about Emre's habits. Does he eat breakfast every day?"
+    },
+    {
+     "speaker": "Hafsa",
+     "text": "Usually, yes. Sometimes he is late, so he doesn't eat much."
+    },
+    {
+     "speaker": "Ms. Lee",
+     "text": "Does he drink water?"
+    },
+    {
+     "speaker": "Hafsa",
+     "text": "He rarely drinks it. He likes juice."
+    },
+    {
+     "speaker": "Ms. Lee",
+     "text": "Juice has a lot of sugar. Try to give him water at lunch."
+    },
+    {
+     "speaker": "Hafsa",
+     "text": "OK. What about exercise?"
+    },
+    {
+     "speaker": "Ms. Lee",
+     "text": "Children need exercise every day. Does he play outside?"
+    },
+    {
+     "speaker": "Hafsa",
+     "text": "Yes. He often plays soccer with his friends after school."
+    },
+    {
+     "speaker": "Ms. Lee",
+     "text": "That's great. And how many hours does he sleep?"
+    },
+    {
+     "speaker": "Hafsa",
+     "text": "About nine hours. He always goes to bed at nine thirty."
+    },
+    {
+     "speaker": "Ms. Lee",
+     "text": "Perfect. He is a strong boy. Just add more vegetables."
+    },
+    {
+     "speaker": "Hafsa",
+     "text": "I try, but he never eats them! I make soup once a week."
+    },
+    {
+     "speaker": "Ms. Lee",
+     "text": "Soup is a good idea. Keep trying."
+    }
+   ],
+   "questions": [
+    {
+     "type": "mcq",
+     "q": "How often does Emre drink water?",
+     "options": [
+      "Always",
+      "Often",
+      "Rarely"
+     ],
+     "answer": 2,
+     "whyTr": "Hafsa: 'He rarely drinks it.'",
+     "tag": "listening",
+     "level": "A2"
+    },
+    {
+     "type": "mcq",
+     "q": "What does Emre like to drink?",
+     "options": [
+      "Milk",
+      "Tea",
+      "Juice"
+     ],
+     "answer": 2,
+     "whyTr": "Hafsa: 'He likes juice.'",
+     "tag": "listening",
+     "level": "A2"
+    },
+    {
+     "type": "mcq",
+     "q": "What does Emre often do after school?",
+     "options": [
+      "He plays soccer.",
+      "He goes to the gym.",
+      "He eats vegetables."
+     ],
+     "answer": 0,
+     "whyTr": "Hafsa: 'He often plays soccer'.",
+     "tag": "listening",
+     "level": "A2"
+    },
+    {
+     "type": "mcq",
+     "q": "How often does Hafsa make soup?",
+     "options": [
+      "Every day",
+      "Once a week",
+      "Never"
+     ],
+     "answer": 1,
+     "whyTr": "Hafsa: 'I make soup once a week.'",
+     "tag": "listening",
+     "level": "A2"
+    }
+   ]
+  },
+  "writing": {
+   "promptTr": "Kendi alışkanlıklarını 4-5 cümleyle yaz. Sıklık zarfları kullan.",
+   "promptEn": "Write 4-5 sentences about your habits. Use always, usually, sometimes, rarely or never.",
+   "frames": [
+    "I always ...",
+    "I usually ...",
+    "I sometimes ...",
+    "I never ... because ..."
+   ],
+   "model": "I always drink water in the morning. I usually eat fruit for breakfast. I walk in the park twice a week. I sometimes eat sweets with my tea. I never eat late at night.",
+   "checklistTr": [
+    "Sıklık zarfı özneden sonra ve fiilden önce mi (to be'den sonra)?",
+    "He/she/it ile fiilde -s var mı?",
+    "Never ile don't kullanmadın değil mi?"
+   ],
+   "minWords": 30
+  },
+  "examSet": [
+   {
+    "type": "mcq",
+    "q": "Linda ___ goes to the gym on Fridays.",
+    "options": [
+     "don't",
+     "is",
+     "often"
+    ],
+    "answer": 2,
+    "whyTr": "Sıklık zarfı özne ile fiil arasında: often goes.",
+    "tag": "word-order",
+    "level": "A2"
+   },
+   {
+    "type": "mcq",
+    "q": "My coworker is ___ late. He always comes on time. (0%)",
+    "options": [
+     "never",
+     "always",
+     "usually"
+    ],
+    "answer": 0,
+    "whyTr": "Hiç geç kalmaz: never.",
+    "tag": "present-simple",
+    "level": "A2"
+   },
+   {
+    "type": "mcq",
+    "q": "We ___ have a meeting on Monday. It is on Tuesday.",
+    "options": [
+     "doesn't",
+     "don't",
+     "aren't"
+    ],
+    "answer": 1,
+    "whyTr": "Dünün konusu: we ile don't.",
+    "tag": "negative-form",
+    "level": "A2"
+   },
+   {
+    "type": "mcq",
+    "q": "___ Emre eat breakfast every day?",
+    "options": [
+     "Does",
+     "Do",
+     "Is"
+    ],
+    "answer": 0,
+    "whyTr": "Emre = he; Does.",
+    "tag": "question-form",
+    "level": "A2"
+   },
+   {
+    "type": "mcq",
+    "q": "What is the opposite of \"strong\"?",
+    "options": [
+     "weak",
+     "tired",
+     "healthy"
+    ],
+    "answer": 0,
+    "whyTr": "Strong'un zıttı weak.",
+    "tag": "antonym",
+    "level": "A2"
+   },
+   {
+    "type": "mcq",
+    "q": "Which word means almost the same as \"strong\"?",
+    "options": [
+     "weak",
+     "powerful",
+     "quiet"
+    ],
+    "answer": 1,
+    "whyTr": "Strong ve powerful yakın anlamlı.",
+    "tag": "synonym",
+    "level": "A2"
+   },
+   {
+    "type": "mcq",
+    "q": "Which word is the opposite of \"always\"?",
+    "options": [
+     "usually",
+     "often",
+     "never"
+    ],
+    "answer": 2,
+    "whyTr": "Always = %100, never = %0.",
+    "tag": "antonym",
+    "level": "A2"
+   },
+   {
+    "type": "mcq",
+    "q": "A good ___ has fruit, vegetables and water.",
+    "options": [
+     "diet",
+     "gym",
+     "shift"
+    ],
+    "answer": 0,
+    "whyTr": "Beslenme düzeni = diet.",
+    "tag": "vocab",
+    "level": "A2"
+   },
+   {
+    "type": "mcq",
+    "q": "I walk in the park ___ Saturdays.",
+    "options": [
+     "in",
+     "on",
+     "at"
+    ],
+    "answer": 1,
+    "whyTr": "Günlerle 'on' kullanılır.",
+    "tag": "prepositions-time",
+    "level": "A2"
+   },
+   {
+    "type": "mcq",
+    "q": "Breakfast gives me ___ for the day.",
+    "options": [
+     "sugar",
+     "habit",
+     "energy"
+    ],
+    "answer": 2,
+    "whyTr": "Enerji = energy.",
+    "tag": "vocab",
+    "level": "A2"
+   },
+   {
+    "type": "mcq",
+    "q": "Ben gets up at six, eats an apple and runs for twenty minutes. He does this every day.\n\nHow often does Ben run?",
+    "options": [
+     "Once a week",
+     "Every day",
+     "Never"
+    ],
+    "answer": 1,
+    "whyTr": "Metin: 'He does this every day.'",
+    "tag": "reading",
+    "level": "A2"
+   },
+   {
+    "type": "mcq",
+    "q": "She ___ a good teacher. (Hafta 1 tekrarı)",
+    "options": [
+     "are",
+     "is",
+     "do"
+    ],
+    "answer": 1,
+    "whyTr": "She ile to be: is.",
+    "tag": "to-be",
+    "level": "A1"
+   }
+  ]
+ }
+}

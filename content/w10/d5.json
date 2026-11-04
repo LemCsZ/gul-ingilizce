@@ -1,0 +1,831 @@
+{
+ "week": 10,
+ "day": 5,
+ "titleTr": "Öğrenci davranışlarını anlatmak",
+ "theme": "student-behavior",
+ "morning": {
+  "grammar": {
+   "topic": "Adverbs and intensifiers (very, really, quite, extremely)",
+   "explainTr": [
+    "Güçlendirici zarflar (intensifiers) sıfatın gücünü ayarlar: a little / slightly (az), quite (oldukça), very / really (çok), extremely (son derece). Hepsi sıfatın önüne gelir: very polite, extremely tired.",
+    "Fiilin önünde 'really' kullanılır: I really like it. 'Very' fiille kullanılmaz: 'I very like it' hatalıdır. Olumsuzda 'not very' pek değil demektir: The test wasn't very hard.",
+    "'Quite' sıfat + isim önünde 'a' ile kullanılır: quite a nice class. 'Very' ve 'extremely' için 'a' sıfattan sonra gelir: a very nice class."
+   ],
+   "compareTr": "Türkçede 'çok' her yerde kullanılır: çok güzel, çok seviyorum. İngilizcede 'çok' yerine sıfatın başına very/really/extremely, fiilin başına really koyarsın. 'I very like' demeyiz; 'I really like' veya 'I like it very much' deriz.",
+   "table": [
+    [
+     "a little / slightly",
+     "az",
+     "a little tired"
+    ],
+    [
+     "quite",
+     "oldukça",
+     "quite polite"
+    ],
+    [
+     "very / really",
+     "çok",
+     "very helpful, really good"
+    ],
+    [
+     "extremely",
+     "son derece",
+     "extremely loud"
+    ],
+    [
+     "not very",
+     "pek değil",
+     "not very difficult"
+    ]
+   ],
+   "examples": [
+    {
+     "en": "The students were very polite.",
+     "tr": "Öğrenciler çok kibardı."
+    },
+    {
+     "en": "The test was extremely easy.",
+     "tr": "Sınav son derece kolaydı."
+    },
+    {
+     "en": "I really like this class.",
+     "tr": "Bu sınıfı gerçekten çok seviyorum."
+    },
+    {
+     "en": "She is quite a good teacher.",
+     "tr": "O oldukça iyi bir öğretmen."
+    }
+   ],
+   "exercises": [
+    {
+     "type": "mcq",
+     "q": "Ms. Park is ___ a kind teacher.",
+     "options": [
+      "quite",
+      "very",
+      "extremely",
+      "so"
+     ],
+     "answer": 0,
+     "whyTr": "'A + sıfat + isim' önünde 'quite' kullanılır: quite a kind teacher. 'Very a kind' denmez.",
+     "tag": "word-order",
+     "level": "B1"
+    },
+    {
+     "type": "mcq",
+     "q": "The students were ___ noisy. I couldn't hear anything.",
+     "options": [
+      "a little",
+      "extremely",
+      "slightly",
+      "not very"
+     ],
+     "answer": 1,
+     "whyTr": "Çok güçlü anlam için extremely kullanılır.",
+     "tag": "vocab",
+     "level": "B1"
+    },
+    {
+     "type": "mcq",
+     "q": "She speaks English ___ well for a beginner.",
+     "options": [
+      "much",
+      "so much",
+      "very",
+      "too much"
+     ],
+     "answer": 2,
+     "whyTr": "Zarfı güçlendirmek için very kullanılır: very well. 'Very much well' denmez.",
+     "tag": "word-order",
+     "level": "B1"
+    },
+    {
+     "type": "mcq",
+     "q": "Which sentence is correct?",
+     "options": [
+      "I like really this class.",
+      "I very like this class.",
+      "I like very this class.",
+      "I really like this class."
+     ],
+     "answer": 3,
+     "whyTr": "Really fiilden önce gelir: really like.",
+     "tag": "word-order",
+     "level": "B1"
+    },
+    {
+     "type": "mcq",
+     "q": "\"The class was quite quiet.\" means the class was ___.",
+     "options": [
+      "fairly quiet",
+      "completely silent",
+      "very noisy",
+      "not quiet at all"
+     ],
+     "answer": 0,
+     "whyTr": "Quite = oldukça, orta düzeyde.",
+     "tag": "vocab",
+     "level": "B1"
+    },
+    {
+     "type": "order",
+     "promptTr": "Cümleyi sırala:",
+     "words": [
+      "today",
+      "polite",
+      "extremely",
+      "were",
+      "students",
+      "The"
+     ],
+     "answer": "The students were extremely polite today",
+     "whyTr": "Extremely + sıfat.",
+     "tag": "word-order",
+     "level": "B1"
+    },
+    {
+     "type": "order",
+     "promptTr": "Cümleyi sırala:",
+     "words": [
+      "is",
+      "She",
+      "really",
+      "children",
+      "helping",
+      "good",
+      "at"
+     ],
+     "answer": "She is really good at helping children",
+     "whyTr": "Really + sıfat.",
+     "tag": "word-order",
+     "level": "B1"
+    },
+    {
+     "type": "mcq",
+     "q": "The room is ___ noisy to think. Let's go to the library.",
+     "options": [
+      "enough",
+      "too",
+      "very much",
+      "as"
+     ],
+     "answer": 1,
+     "whyTr": "Too + sıfat: fazla gürültülü (4. gün konusu).",
+     "tag": "comparatives",
+     "level": "B1"
+    },
+    {
+     "type": "mcq",
+     "q": "\"Don't talk,\" said the sub. → The sub told them ___ talk.",
+     "options": [
+      "don't to",
+      "to not",
+      "not to",
+      "not"
+     ],
+     "answer": 2,
+     "whyTr": "Emir aktarımı (3. gün konusu).",
+     "tag": "imperatives",
+     "level": "B1"
+    },
+    {
+     "type": "mcq",
+     "q": "\"Are you ready?\" → She asked if they ___ ready.",
+     "options": [
+      "are",
+      "were they",
+      "did",
+      "were"
+     ],
+     "answer": 3,
+     "whyTr": "Dolaylı soru (2. gün konusu).",
+     "tag": "question-form",
+     "level": "B1"
+    },
+    {
+     "type": "fill",
+     "q": "The students were ___ polite today. I was impressed.",
+     "accept": [
+      "very",
+      "really",
+      "extremely",
+      "quite"
+     ],
+     "hintTr": "çok",
+     "whyTr": "Güçlendirici zarf: very / really / extremely / quite.",
+     "tag": "vocab",
+     "level": "B1"
+    },
+    {
+     "type": "fill",
+     "q": "The test wasn't ___ difficult. Everyone finished early.",
+     "accept": [
+      "very",
+      "really",
+      "too",
+      "extremely"
+     ],
+     "hintTr": "çok",
+     "whyTr": "Olumsuzda 'not very' kalıbı: pek değil.",
+     "tag": "negative-form",
+     "level": "B1"
+    }
+   ]
+  },
+  "vocab": [
+   {
+    "id": "polite",
+    "en": "polite",
+    "tr": "kibar, nazik",
+    "pos": "adjective",
+    "example": "The students were polite to the guest.",
+    "exampleTr": "Öğrenciler misafire karşı kibardı.",
+    "syn": [],
+    "ant": [
+     "rude"
+    ],
+    "level": "B1"
+   },
+   {
+    "id": "rude",
+    "en": "rude",
+    "tr": "kaba",
+    "pos": "adjective",
+    "example": "It is rude to talk when someone else is speaking.",
+    "exampleTr": "Başkası konuşurken konuşmak kabalıktır.",
+    "syn": [],
+    "ant": [
+     "polite"
+    ],
+    "level": "B1"
+   },
+   {
+    "id": "respectful",
+    "en": "respectful",
+    "tr": "saygılı",
+    "pos": "adjective",
+    "example": "A respectful student listens to the teacher.",
+    "exampleTr": "Saygılı bir öğrenci öğretmeni dinler.",
+    "syn": [],
+    "ant": [
+     "disrespectful"
+    ],
+    "level": "B1"
+   },
+   {
+    "id": "disruptive",
+    "en": "disruptive",
+    "tr": "düzeni bozan",
+    "pos": "adjective",
+    "example": "One disruptive student can stop the whole lesson.",
+    "exampleTr": "Düzeni bozan tek bir öğrenci bütün dersi durdurabilir.",
+    "syn": [],
+    "ant": [],
+    "level": "B1"
+   },
+   {
+    "id": "cooperative",
+    "en": "cooperative",
+    "tr": "işbirlikçi",
+    "pos": "adjective",
+    "example": "The children were cooperative during the group work.",
+    "exampleTr": "Çocuklar grup çalışmasında işbirlikçiydi.",
+    "syn": [],
+    "ant": [
+     "uncooperative"
+    ],
+    "level": "B1"
+   },
+   {
+    "id": "attentive",
+    "en": "attentive",
+    "tr": "dikkatli, ilgili",
+    "pos": "adjective",
+    "example": "The attentive students took notes.",
+    "exampleTr": "Dikkatli öğrenciler not aldı.",
+    "syn": [
+     "alert"
+    ],
+    "ant": [
+     "distracted"
+    ],
+    "level": "B1"
+   },
+   {
+    "id": "distracted",
+    "en": "distracted",
+    "tr": "dikkati dağılmış",
+    "pos": "adjective",
+    "example": "He looked distracted during the lesson.",
+    "exampleTr": "Ders sırasında dikkati dağılmış görünüyordu.",
+    "syn": [],
+    "ant": [
+     "attentive"
+    ],
+    "level": "B1"
+   },
+   {
+    "id": "enthusiastic",
+    "en": "enthusiastic",
+    "tr": "hevesli",
+    "pos": "adjective",
+    "example": "The class was enthusiastic about the science project.",
+    "exampleTr": "Sınıf fen projesi için hevesliydi.",
+    "syn": [
+     "eager"
+    ],
+    "ant": [
+     "bored"
+    ],
+    "level": "B1"
+   },
+   {
+    "id": "calm",
+    "en": "calm",
+    "tr": "sakin",
+    "pos": "adjective",
+    "example": "The teacher stayed calm when the fire alarm rang.",
+    "exampleTr": "Yangın alarmı çaldığında öğretmen sakin kaldı.",
+    "syn": [],
+    "ant": [
+     "nervous"
+    ],
+    "level": "B1"
+   },
+   {
+    "id": "helpful",
+    "en": "helpful",
+    "tr": "yardımsever",
+    "pos": "adjective",
+    "example": "She is a very helpful student.",
+    "exampleTr": "O çok yardımsever bir öğrenci.",
+    "syn": [
+     "supportive"
+    ],
+    "ant": [],
+    "level": "B1"
+   },
+   {
+    "id": "honest",
+    "en": "honest",
+    "tr": "dürüst",
+    "pos": "adjective",
+    "example": "He was honest and told me about the mistake.",
+    "exampleTr": "Dürüst davrandı ve bana hatayı anlattı.",
+    "syn": [],
+    "ant": [
+     "dishonest"
+    ],
+    "level": "B1"
+   },
+   {
+    "id": "careless",
+    "en": "careless",
+    "tr": "dikkatsiz",
+    "pos": "adjective",
+    "example": "A careless mistake cost him two points.",
+    "exampleTr": "Dikkatsiz bir hata ona iki puana mal oldu.",
+    "syn": [],
+    "ant": [
+     "careful"
+    ],
+    "level": "B1"
+   },
+   {
+    "id": "hardworking",
+    "en": "hardworking",
+    "tr": "çalışkan",
+    "pos": "adjective",
+    "example": "Noah is hardworking and never gives up.",
+    "exampleTr": "Noah çalışkan ve asla pes etmiyor.",
+    "syn": [
+     "diligent"
+    ],
+    "ant": [
+     "lazy"
+    ],
+    "level": "B1"
+   },
+   {
+    "id": "energetic",
+    "en": "energetic",
+    "tr": "enerjik",
+    "pos": "adjective",
+    "example": "The kindergarteners are extremely energetic.",
+    "exampleTr": "Anaokulu çocukları son derece enerjik.",
+    "syn": [
+     "lively"
+    ],
+    "ant": [
+     "tired"
+    ],
+    "level": "B1"
+   },
+   {
+    "id": "talkative",
+    "en": "talkative",
+    "tr": "konuşkan",
+    "pos": "adjective",
+    "example": "The class is quite talkative after lunch.",
+    "exampleTr": "Sınıf öğle yemeğinden sonra oldukça konuşkan.",
+    "syn": [
+     "chatty"
+    ],
+    "ant": [
+     "quiet"
+    ],
+    "level": "B1"
+   }
+  ],
+  "reading": {
+   "title": "Hafsa's behavior report",
+   "text": "On Friday, Hafsa finished her first full week as a substitute teacher. In the afternoon, she sat at the desk in Ms. Park's room and began to write a behavior report. Ms. Park always wanted to know how her students behaved.\n\n\"The class was really good today,\" Hafsa wrote. \"Most of the students were extremely polite. They said 'please' and 'thank you' every time. Noah, who is usually shy, was quite helpful. He passed out the books before lunch without being asked.\"\n\nThen she wrote about the harder moments. \"Two boys in the back were very talkative. They were quite disruptive during the reading time, so I moved them to different seats. After that, they were fine. One girl, Maya, looked a little distracted and did not finish her worksheet. I think she was really tired.\"\n\nHafsa stopped and thought. She wanted the report to be honest, but she also wanted to be kind. She wrote, \"Overall, the students were very cooperative, and I enjoyed the day.\"\n\nWhen she finished, Mr. Brown walked in. \"How was your day, Hafsa?\"\n\n\"Excellent,\" she said, smiling. \"The children were extremely energetic, but they were also very respectful. I learned a lot this week.\"\n\n\"That is great,\" Mr. Brown said. \"You are doing really well.\"\n\nHafsa felt proud. She put the report on the desk and went home.",
+   "glossary": [
+    {
+     "en": "behavior report",
+     "tr": "davranış raporu"
+    },
+    {
+     "en": "pass out",
+     "tr": "dağıtmak"
+    },
+    {
+     "en": "without being asked",
+     "tr": "istenmeden"
+    },
+    {
+     "en": "overall",
+     "tr": "genel olarak"
+    },
+    {
+     "en": "move",
+     "tr": "taşımak, yerini değiştirmek"
+    }
+   ],
+   "questions": [
+    {
+     "type": "mcq",
+     "q": "What was Hafsa writing in the afternoon?",
+     "options": [
+      "A behavior report",
+      "A lesson plan",
+      "A test",
+      "An email to the principal"
+     ],
+     "answer": 0,
+     "whyTr": "Metin: 'began to write a behavior report'.",
+     "tag": "reading",
+     "level": "B1"
+    },
+    {
+     "type": "mcq",
+     "q": "How were most of the students?",
+     "options": [
+      "Very rude",
+      "Extremely polite",
+      "Quite lazy",
+      "A little sleepy"
+     ],
+     "answer": 1,
+     "whyTr": "Metin: 'Most of the students were extremely polite'.",
+     "tag": "reading",
+     "level": "B1"
+    },
+    {
+     "type": "mcq",
+     "q": "What did Hafsa do about the two talkative boys?",
+     "options": [
+      "She sent them home.",
+      "She called their parents.",
+      "She moved them to different seats.",
+      "She ignored them."
+     ],
+     "answer": 2,
+     "whyTr": "Metin: 'I moved them to different seats'.",
+     "tag": "reading",
+     "level": "B1"
+    },
+    {
+     "type": "mcq",
+     "q": "Why did Maya probably not finish her worksheet?",
+     "options": [
+      "She was rude.",
+      "She was absent.",
+      "She had no pencil.",
+      "She was tired and distracted."
+     ],
+     "answer": 3,
+     "whyTr": "Metin: 'looked a little distracted... I think she was really tired'.",
+     "tag": "reading",
+     "level": "B1"
+    }
+   ]
+  }
+ },
+ "evening": {
+  "listening": {
+   "title": "Ms. Park asks about the class",
+   "script": [
+    {
+     "speaker": "Ms. Park",
+     "text": "Welcome back, Hafsa. How was the class on Friday?"
+    },
+    {
+     "speaker": "Hafsa",
+     "text": "It was really good. The students were very polite."
+    },
+    {
+     "speaker": "Ms. Park",
+     "text": "That's wonderful. Was anyone disruptive?"
+    },
+    {
+     "speaker": "Hafsa",
+     "text": "Two boys were quite talkative during reading time. I moved them to different seats."
+    },
+    {
+     "speaker": "Ms. Park",
+     "text": "Good idea. That usually works."
+    },
+    {
+     "speaker": "Hafsa",
+     "text": "Noah was extremely helpful. He passed out the books."
+    },
+    {
+     "speaker": "Ms. Park",
+     "text": "Really? He is usually very shy."
+    },
+    {
+     "speaker": "Hafsa",
+     "text": "He was a little nervous at first, but he was really proud at the end."
+    },
+    {
+     "speaker": "Ms. Park",
+     "text": "Thank you. What about Maya?"
+    },
+    {
+     "speaker": "Hafsa",
+     "text": "She looked tired, and she didn't finish her worksheet."
+    },
+    {
+     "speaker": "Ms. Park",
+     "text": "I'll talk to her mother. Did the class finish the math lesson?"
+    },
+    {
+     "speaker": "Hafsa",
+     "text": "Yes, they were very attentive. The lesson was not very difficult."
+    },
+    {
+     "speaker": "Ms. Park",
+     "text": "Excellent. I'm glad you were here, Hafsa."
+    }
+   ],
+   "questions": [
+    {
+     "type": "mcq",
+     "q": "How were the students on Friday?",
+     "options": [
+      "Very polite",
+      "Extremely rude",
+      "A little lazy",
+      "Quite sleepy"
+     ],
+     "answer": 0,
+     "whyTr": "Hafsa: 'The students were very polite.'",
+     "tag": "listening",
+     "level": "B1"
+    },
+    {
+     "type": "mcq",
+     "q": "What did Hafsa do when the boys were talkative?",
+     "options": [
+      "She called the principal.",
+      "She moved them to different seats.",
+      "She stopped the lesson.",
+      "She gave them homework."
+     ],
+     "answer": 1,
+     "whyTr": "Hafsa: 'I moved them to different seats.'",
+     "tag": "listening",
+     "level": "B1"
+    },
+    {
+     "type": "mcq",
+     "q": "How was Noah?",
+     "options": [
+      "Very rude",
+      "Really tired",
+      "Extremely helpful",
+      "Quite loud"
+     ],
+     "answer": 2,
+     "whyTr": "Hafsa: 'Noah was extremely helpful.'",
+     "tag": "listening",
+     "level": "B1"
+    },
+    {
+     "type": "mcq",
+     "q": "What will Ms. Park do about Maya?",
+     "options": [
+      "Move her desk",
+      "Give her a test",
+      "Call Hafsa",
+      "Talk to her mother"
+     ],
+     "answer": 3,
+     "whyTr": "Ms. Park: 'I'll talk to her mother.'",
+     "tag": "listening",
+     "level": "B1"
+    }
+   ]
+  },
+  "writing": {
+   "promptTr": "Bir sınıfın davranışı hakkında öğretmene kısa bir rapor yaz. very, really, quite, extremely gibi güçlendiricileri kullan.",
+   "promptEn": "Write a short behavior report for the teacher. Use very, really, quite and extremely.",
+   "frames": [
+    "The students were very ...",
+    "Some students were quite ...",
+    "One student was really ...",
+    "Overall, the class was ..."
+   ],
+   "model": "Dear Ms. Park, the class was really good today. Most of the students were extremely polite and very helpful. Noah passed out the books without being asked, and I was impressed. Two boys were quite talkative during reading time, so I moved them to different seats. One girl, Maya, looked a little distracted, and I think she was really tired. The math lesson was not very difficult, and the students finished it early. Overall, the class was very cooperative, and I enjoyed the day. Thank you, Hafsa",
+   "checklistTr": [
+    "En az üç farklı güçlendirici (very, really, quite, extremely) kullandın mı?",
+    "Güçlendirici sıfatın önünde mi (very polite)?",
+    "Hem olumlu hem sorunlu davranışı yazdın mı?",
+    "Cümleler büyük harfle başlıyor ve noktayla bitiyor mu?"
+   ],
+   "minWords": 70
+  },
+  "examSet": [
+   {
+    "type": "mcq",
+    "q": "My son is ___ tired after soccer practice. He can barely walk.",
+    "options": [
+     "extremely",
+     "a little",
+     "slightly",
+     "not very"
+    ],
+    "answer": 0,
+    "whyTr": "Çok güçlü yorgunluk: extremely.",
+    "tag": "vocab",
+    "level": "B1"
+   },
+   {
+    "type": "mcq",
+    "q": "This exercise is not ___ difficult. You can finish it in ten minutes.",
+    "options": [
+     "too much",
+     "very",
+     "so many",
+     "enough"
+    ],
+    "answer": 1,
+    "whyTr": "Not very + sıfat: pek değil.",
+    "tag": "negative-form",
+    "level": "B1"
+   },
+   {
+    "type": "mcq",
+    "q": "It was ___ a good lesson, but I wanted more examples.",
+    "options": [
+     "very",
+     "extremely",
+     "quite",
+     "really much"
+    ],
+    "answer": 2,
+    "whyTr": "A + sıfat + isim önünde quite.",
+    "tag": "word-order",
+    "level": "B1"
+   },
+   {
+    "type": "mcq",
+    "q": "The sub asked the students ___ their books.",
+    "options": [
+     "open",
+     "opening",
+     "that open",
+     "to open"
+    ],
+    "answer": 3,
+    "whyTr": "Rica aktarımı (3. gün).",
+    "tag": "imperatives",
+    "level": "B1"
+   },
+   {
+    "type": "mcq",
+    "q": "The desks are not big ___ for the older students.",
+    "options": [
+     "enough",
+     "too",
+     "very",
+     "so"
+    ],
+    "answer": 0,
+    "whyTr": "Sıfat + enough (4. gün).",
+    "tag": "comparatives",
+    "level": "B1"
+   },
+   {
+    "type": "mcq",
+    "q": "Mr. Brown said, \"I am busy.\" → He said that he ___ busy.",
+    "options": [
+     "is",
+     "was",
+     "be",
+     "were"
+    ],
+    "answer": 1,
+    "whyTr": "am → was (1. gün).",
+    "tag": "past-simple",
+    "level": "B1"
+   },
+   {
+    "type": "mcq",
+    "q": "A student who listens carefully and does not talk is ___.",
+    "options": [
+     "rude",
+     "careless",
+     "attentive",
+     "talkative"
+    ],
+    "answer": 2,
+    "whyTr": "Dikkatle dinleyen öğrenci: attentive.",
+    "tag": "vocab",
+    "level": "B1"
+   },
+   {
+    "type": "mcq",
+    "q": "What is the opposite of \"polite\"?",
+    "options": [
+     "calm",
+     "helpful",
+     "honest",
+     "rude"
+    ],
+    "answer": 3,
+    "whyTr": "Polite'ın zıttı rude.",
+    "tag": "antonym",
+    "level": "B1"
+   },
+   {
+    "type": "mcq",
+    "q": "What is the opposite of \"careless\"?",
+    "options": [
+     "careful",
+     "energetic",
+     "quiet",
+     "enthusiastic"
+    ],
+    "answer": 0,
+    "whyTr": "Careless'ın zıttı careful.",
+    "tag": "antonym",
+    "level": "B1"
+   },
+   {
+    "type": "mcq",
+    "q": "Which word means almost the same as \"hardworking\"?",
+    "options": [
+     "lazy",
+     "diligent",
+     "talkative",
+     "calm"
+    ],
+    "answer": 1,
+    "whyTr": "Hardworking ve diligent: çalışkan.",
+    "tag": "synonym",
+    "level": "B1"
+   },
+   {
+    "type": "mcq",
+    "q": "A student who always tells the truth is ___.",
+    "options": [
+     "rude",
+     "tardy",
+     "honest",
+     "distracted"
+    ],
+    "answer": 2,
+    "whyTr": "Doğruyu söyleyen: honest.",
+    "tag": "vocab",
+    "level": "B1"
+   },
+   {
+    "type": "mcq",
+    "q": "The students were energetic and loud. They ran around the room and shouted. The teacher said they were extremely excited about the field trip.\n\nHow did the teacher describe the students?",
+    "options": [
+     "Slightly tired",
+     "Quite shy",
+     "Very quiet",
+     "Extremely excited"
+    ],
+    "answer": 3,
+    "whyTr": "Metin: 'extremely excited about the field trip'.",
+    "tag": "reading",
+    "level": "B1"
+   }
+  ]
+ }
+}

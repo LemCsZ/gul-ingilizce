@@ -1,0 +1,768 @@
+{
+ "week": 3,
+ "day": 4,
+ "titleTr": "Bankada bir sorun: didn't ve Did...?",
+ "theme": "bank",
+ "morning": {
+  "grammar": {
+   "topic": "Past Simple: olumsuz (didn't) ve soru (Did...?)",
+   "explainTr": [
+    "Geçmiş zamanda olumsuz için 'didn't' + yalın fiil kullanılır: I didn't go. She didn't call. 'Didn't' geçmişi zaten taşıdığı için fiil yalın kalır: didn't went değil, didn't go.",
+    "Soru için 'Did' başa gelir, fiil yine yalın kalır: Did you call the bank? Kısa cevap: Yes, I did. / No, I didn't. Soru kelimeli: What did you say? Where did she go?",
+    "Dikkat: was/were ile did kullanılmaz. 'Was he tired?' doğru, 'Did he was tired?' yanlıştır. Did sadece diğer fiillerle gelir."
+   ],
+   "compareTr": "Türkçede 'gitmedim', 'aradın mı?' fiilin sonuna ek gelir. İngilizcede geçmiş zaman işareti 'did' kelimesine gider, fiil yalın kalır: I didn't go, Did you go? Türk öğrenenler sık sık 'Did you went?' der; fiili yalın bırak.",
+   "table": [
+    [
+     "Olumlu",
+     "özne + fiil-ed / düzensiz",
+     "I called the bank."
+    ],
+    [
+     "Olumsuz",
+     "didn't + yalın fiil",
+     "I didn't call the bank."
+    ],
+    [
+     "Soru",
+     "Did + özne + yalın fiil?",
+     "Did you call the bank?"
+    ],
+    [
+     "Kısa cevap",
+     "Yes, I did. / No, I didn't.",
+     "Did he sign? No, he didn't."
+    ],
+    [
+     "Soru kelimesi",
+     "What / Where + did + özne + fiil?",
+     "What did you say?"
+    ],
+    [
+     "be fiili",
+     "was / were (did yok)",
+     "Was she late?"
+    ]
+   ],
+   "examples": [
+    {
+     "en": "I didn't use my card last week.",
+     "tr": "Geçen hafta kartımı kullanmadım."
+    },
+    {
+     "en": "Did you call the bank?",
+     "tr": "Bankayı aradın mı?"
+    },
+    {
+     "en": "No, I didn't.",
+     "tr": "Hayır, aramadım."
+    },
+    {
+     "en": "What did the manager say?",
+     "tr": "Müdür ne dedi?"
+    },
+    {
+     "en": "She didn't understand the fee.",
+     "tr": "Ücreti anlamadı."
+    }
+   ],
+   "exercises": [
+    {
+     "type": "mcq",
+     "q": "I ___ go to the bank yesterday.",
+     "options": [
+      "didn't",
+      "don't",
+      "wasn't"
+     ],
+     "answer": 0,
+     "whyTr": "Geçmişte olumsuz: didn't + yalın fiil.",
+     "tag": "negative-form",
+     "level": "A2"
+    },
+    {
+     "type": "mcq",
+     "q": "___ you call the bank?",
+     "options": [
+      "Do",
+      "Did",
+      "Were"
+     ],
+     "answer": 1,
+     "whyTr": "Geçmişte soru 'Did' ile başlar.",
+     "tag": "question-form",
+     "level": "A2"
+    },
+    {
+     "type": "mcq",
+     "q": "She didn't ___ the form.",
+     "options": [
+      "signed",
+      "signs",
+      "sign"
+     ],
+     "answer": 2,
+     "whyTr": "Didn't'ten sonra fiil yalın gelir.",
+     "tag": "negative-form",
+     "level": "A2"
+    },
+    {
+     "type": "mcq",
+     "q": "Did Hafsa ___ her card?",
+     "options": [
+      "lose",
+      "lost",
+      "loses"
+     ],
+     "answer": 0,
+     "whyTr": "Did'den sonra fiil yalın gelir.",
+     "tag": "question-form",
+     "level": "A2"
+    },
+    {
+     "type": "order",
+     "promptTr": "Soruyu sırala:",
+     "words": [
+      "Did",
+      "you",
+      "bring",
+      "your",
+      "passport?"
+     ],
+     "answer": "Did you bring your passport",
+     "whyTr": "Soruda Did başa gelir, fiil yalın kalır.",
+     "tag": "question-form",
+     "level": "A2"
+    },
+    {
+     "type": "mcq",
+     "q": "The bank ___ at nine every day.",
+     "options": [
+      "open",
+      "opens",
+      "opened"
+     ],
+     "answer": 1,
+     "whyTr": "Every day alışkanlık: present simple, -s gerekir.",
+     "tag": "present-simple",
+     "level": "A2"
+    },
+    {
+     "type": "order",
+     "promptTr": "Cümleyi sırala:",
+     "words": [
+      "I",
+      "didn't",
+      "understand",
+      "the",
+      "fee"
+     ],
+     "answer": "I didn't understand the fee",
+     "whyTr": "Sıra: özne + didn't + yalın fiil + gerisi.",
+     "tag": "word-order",
+     "level": "A2"
+    },
+    {
+     "type": "mcq",
+     "q": "Which sentence is correct?",
+     "options": [
+      "He didn't found the mistake.",
+      "He not find the mistake.",
+      "He didn't find the mistake."
+     ],
+     "answer": 2,
+     "whyTr": "Didn't'ten sonra fiil yalın gelir: find.",
+     "tag": "negative-form",
+     "level": "A2"
+    },
+    {
+     "type": "mcq",
+     "q": "What ___ the manager say?",
+     "options": [
+      "did",
+      "does",
+      "was"
+     ],
+     "answer": 0,
+     "whyTr": "Geçmişte soru kelimesi sonrası 'did' kullanılır.",
+     "tag": "question-form",
+     "level": "A2"
+    },
+    {
+     "type": "mcq",
+     "q": "The bank ___ closed on Sunday.",
+     "options": [
+      "did",
+      "was",
+      "were"
+     ],
+     "answer": 1,
+     "whyTr": "Be fiiliyle did kullanılmaz; tekil özne + geçmiş = was.",
+     "tag": "to-be",
+     "level": "A2"
+    },
+    {
+     "type": "fill",
+     "q": "Emre ___ forget his password.",
+     "accept": [
+      "didn't",
+      "did not"
+     ],
+     "hintTr": "olumsuz geçmiş",
+     "whyTr": "Geçmişte olumsuz: didn't + yalın fiil.",
+     "tag": "negative-form",
+     "level": "A2"
+    },
+    {
+     "type": "fill",
+     "q": "___ you make a mistake?",
+     "accept": [
+      "did",
+      "Did"
+     ],
+     "hintTr": "geçmiş soru",
+     "whyTr": "Geçmişte soru 'Did' ile başlar.",
+     "tag": "question-form",
+     "level": "A2"
+    }
+   ]
+  },
+  "vocab": [
+   {
+    "id": "bank",
+    "en": "bank",
+    "tr": "banka",
+    "pos": "noun",
+    "example": "The bank opens at nine.",
+    "exampleTr": "Banka dokuzda açılır.",
+    "syn": [],
+    "ant": [],
+    "level": "A2"
+   },
+   {
+    "id": "account",
+    "en": "account",
+    "tr": "hesap",
+    "pos": "noun",
+    "example": "I opened a new account last week.",
+    "exampleTr": "Geçen hafta yeni bir hesap açtım.",
+    "syn": [],
+    "ant": [],
+    "level": "A2"
+   },
+   {
+    "id": "cash",
+    "en": "cash",
+    "tr": "nakit",
+    "pos": "noun",
+    "example": "I paid in cash.",
+    "exampleTr": "Nakit ödedim.",
+    "syn": [],
+    "ant": [],
+    "level": "A2"
+   },
+   {
+    "id": "deposit",
+    "en": "deposit",
+    "tr": "para yatırmak",
+    "pos": "verb",
+    "example": "She deposited her check at the bank.",
+    "exampleTr": "Çekini bankaya yatırdı.",
+    "syn": [],
+    "ant": [
+     "withdraw"
+    ],
+    "level": "A2"
+   },
+   {
+    "id": "balance",
+    "en": "balance",
+    "tr": "bakiye",
+    "pos": "noun",
+    "example": "Check your account balance online.",
+    "exampleTr": "Hesap bakiyeni internetten kontrol et.",
+    "syn": [],
+    "ant": [],
+    "level": "A2"
+   },
+   {
+    "id": "fee",
+    "en": "fee",
+    "tr": "ücret",
+    "pos": "noun",
+    "example": "There is a small fee for this service.",
+    "exampleTr": "Bu hizmet için küçük bir ücret var.",
+    "syn": [],
+    "ant": [],
+    "level": "A2"
+   },
+   {
+    "id": "mistake",
+    "en": "mistake",
+    "tr": "hata",
+    "pos": "noun",
+    "example": "The bank made a mistake.",
+    "exampleTr": "Banka bir hata yaptı.",
+    "syn": [
+     "error"
+    ],
+    "ant": [],
+    "level": "A2"
+   },
+   {
+    "id": "problem",
+    "en": "problem",
+    "tr": "sorun",
+    "pos": "noun",
+    "example": "I have a problem with my card.",
+    "exampleTr": "Kartımla ilgili bir sorunum var.",
+    "syn": [],
+    "ant": [
+     "solution"
+    ],
+    "level": "A2"
+   },
+   {
+    "id": "password",
+    "en": "password",
+    "tr": "şifre",
+    "pos": "noun",
+    "example": "Don't tell anyone your password.",
+    "exampleTr": "Şifreni kimseye söyleme.",
+    "syn": [],
+    "ant": [],
+    "level": "A2"
+   },
+   {
+    "id": "receipt",
+    "en": "receipt",
+    "tr": "fiş, makbuz",
+    "pos": "noun",
+    "example": "Keep the receipt, please.",
+    "exampleTr": "Lütfen fişi sakla.",
+    "syn": [],
+    "ant": [],
+    "level": "A2"
+   },
+   {
+    "id": "customer",
+    "en": "customer",
+    "tr": "müşteri",
+    "pos": "noun",
+    "example": "The customer waited in line.",
+    "exampleTr": "Müşteri sırada bekledi.",
+    "syn": [],
+    "ant": [],
+    "level": "A2"
+   },
+   {
+    "id": "sign",
+    "en": "sign",
+    "tr": "imzalamak",
+    "pos": "verb",
+    "example": "Please sign your name here.",
+    "exampleTr": "Lütfen adını buraya imzala.",
+    "syn": [],
+    "ant": [],
+    "level": "A2"
+   },
+   {
+    "id": "manager",
+    "en": "manager",
+    "tr": "müdür, yönetici",
+    "pos": "noun",
+    "example": "The manager helped us quickly.",
+    "exampleTr": "Müdür bize hızlıca yardım etti.",
+    "syn": [
+     "boss"
+    ],
+    "ant": [],
+    "level": "A2"
+   },
+   {
+    "id": "card",
+    "en": "card",
+    "tr": "kart",
+    "pos": "noun",
+    "example": "I lost my bank card.",
+    "exampleTr": "Banka kartımı kaybettim.",
+    "syn": [],
+    "ant": [],
+    "level": "A2"
+   },
+   {
+    "id": "solve",
+    "en": "solve",
+    "tr": "çözmek",
+    "pos": "verb",
+    "example": "They solved the problem in ten minutes.",
+    "exampleTr": "Sorunu on dakikada çözdüler.",
+    "syn": [
+     "fix"
+    ],
+    "ant": [],
+    "level": "A2"
+   }
+  ],
+  "reading": {
+   "title": "A problem at the bank",
+   "text": "Last Tuesday Hafsa went to the bank because she saw a strange fee on her account. She took her card, her passport and a paper from the mail.\n\nAt the bank, a friendly clerk said hello. Hafsa explained, \"I have a problem. I didn't use my card last week, but there is a fee of twenty dollars.\" The clerk looked at his screen. \"I see the problem,\" he said. \"The bank made a mistake. You didn't do anything wrong.\"\n\nHe called the manager. The manager said sorry and removed the fee. Then the clerk asked Hafsa to sign a paper, and he gave her a receipt. Hafsa didn't understand every word, but she asked questions and the clerk answered slowly.\n\nShe left the bank happy. Later she told Linda, \"I didn't panic! I asked, and they solved the problem.\"",
+   "glossary": [
+    {
+     "en": "clerk",
+     "tr": "banka görevlisi"
+    },
+    {
+     "en": "removed",
+     "tr": "kaldırdı"
+    },
+    {
+     "en": "panic",
+     "tr": "panik yapmak"
+    },
+    {
+     "en": "mail",
+     "tr": "posta"
+    }
+   ],
+   "questions": [
+    {
+     "type": "mcq",
+     "q": "Why did Hafsa go to the bank?",
+     "options": [
+      "She lost her passport.",
+      "She wanted a job.",
+      "She saw a strange fee."
+     ],
+     "answer": 2,
+     "whyTr": "Metin: 'she saw a strange fee on her account'.",
+     "tag": "reading",
+     "level": "A2"
+    },
+    {
+     "type": "mcq",
+     "q": "Did Hafsa use her card last week?",
+     "options": [
+      "No, she didn't.",
+      "Yes, she did.",
+      "Yes, in the store."
+     ],
+     "answer": 0,
+     "whyTr": "Metin: 'I didn't use my card last week'.",
+     "tag": "reading",
+     "level": "A2"
+    },
+    {
+     "type": "mcq",
+     "q": "Who removed the fee?",
+     "options": [
+      "Linda",
+      "The manager",
+      "Emre"
+     ],
+     "answer": 1,
+     "whyTr": "Metin: 'The manager said sorry and removed the fee'.",
+     "tag": "reading",
+     "level": "A2"
+    },
+    {
+     "type": "mcq",
+     "q": "What did Hafsa tell Linda?",
+     "options": [
+      "She lost her card.",
+      "She signed nothing.",
+      "She didn't panic."
+     ],
+     "answer": 2,
+     "whyTr": "Metin: 'I didn't panic!'",
+     "tag": "reading",
+     "level": "A2"
+    }
+   ]
+  }
+ },
+ "evening": {
+  "listening": {
+   "title": "At the bank",
+   "script": [
+    {
+     "speaker": "Clerk",
+     "text": "Good morning. How can I help you?"
+    },
+    {
+     "speaker": "Hafsa",
+     "text": "Hello. I have a problem with my account."
+    },
+    {
+     "speaker": "Clerk",
+     "text": "What happened?"
+    },
+    {
+     "speaker": "Hafsa",
+     "text": "There is a fee of twenty dollars. I didn't use my card last week."
+    },
+    {
+     "speaker": "Clerk",
+     "text": "Let me check. Did you take out cash at a machine?"
+    },
+    {
+     "speaker": "Hafsa",
+     "text": "No, I didn't. I went to the market, but I paid with cash."
+    },
+    {
+     "speaker": "Clerk",
+     "text": "I see the mistake. It was a fee for an old account. You didn't do anything wrong."
+    },
+    {
+     "speaker": "Hafsa",
+     "text": "Did you remove it?"
+    },
+    {
+     "speaker": "Clerk",
+     "text": "Yes, I did. Please sign here."
+    },
+    {
+     "speaker": "Hafsa",
+     "text": "Thank you. Can I have a receipt?"
+    },
+    {
+     "speaker": "Clerk",
+     "text": "Of course. Here you are. Don't forget your card."
+    },
+    {
+     "speaker": "Hafsa",
+     "text": "Thank you so much. Have a good day."
+    }
+   ],
+   "questions": [
+    {
+     "type": "mcq",
+     "q": "What was Hafsa's problem?",
+     "options": [
+      "A fee of twenty dollars",
+      "A lost card",
+      "A wrong password"
+     ],
+     "answer": 0,
+     "whyTr": "Hafsa: 'There is a fee of twenty dollars'.",
+     "tag": "listening",
+     "level": "A2"
+    },
+    {
+     "type": "mcq",
+     "q": "Did Hafsa use her card last week?",
+     "options": [
+      "Yes, at a machine.",
+      "No, she didn't.",
+      "Yes, at the market."
+     ],
+     "answer": 1,
+     "whyTr": "Hafsa: 'I didn't use my card last week'.",
+     "tag": "listening",
+     "level": "A2"
+    },
+    {
+     "type": "mcq",
+     "q": "Whose mistake was it?",
+     "options": [
+      "Hafsa's",
+      "Emre's",
+      "The bank's"
+     ],
+     "answer": 2,
+     "whyTr": "Clerk: 'I see the mistake. It was a fee for an old account'.",
+     "tag": "listening",
+     "level": "A2"
+    },
+    {
+     "type": "mcq",
+     "q": "What did Hafsa ask for?",
+     "options": [
+      "A receipt",
+      "A password",
+      "A new card"
+     ],
+     "answer": 0,
+     "whyTr": "Hafsa: 'Can I have a receipt?'",
+     "tag": "listening",
+     "level": "A2"
+    }
+   ]
+  },
+  "writing": {
+   "promptTr": "Bir sorunu (bankada, markette, okulda) 4-5 cümleyle anlat. En az bir 'didn't' kullan.",
+   "promptEn": "Write 4-5 sentences about a problem you had. Use didn't.",
+   "frames": [
+    "Yesterday I went to ...",
+    "I had a problem with ...",
+    "I didn't ...",
+    "The clerk helped me. / I asked ..."
+   ],
+   "model": "Yesterday I went to the bank. I had a problem with my card. I didn't understand the fee, so I asked a question. The clerk helped me, and the manager solved the problem. I didn't pay the fee. I was happy.",
+   "checklistTr": [
+    "Didn't'ten sonra yalın fiil var mı (didn't understand, didn't understood değil)?",
+    "Geçmiş zaman fiilleri doğru mu (went, asked, helped)?",
+    "Cümleler büyük harfle başlıyor ve noktayla bitiyor mu?"
+   ],
+   "minWords": 35
+  },
+  "examSet": [
+   {
+    "type": "mcq",
+    "q": "She ___ answer the phone yesterday.",
+    "options": [
+     "don't",
+     "didn't",
+     "doesn't"
+    ],
+    "answer": 1,
+    "whyTr": "Geçmişte olumsuz: didn't.",
+    "tag": "negative-form",
+    "level": "A2"
+   },
+   {
+    "type": "mcq",
+    "q": "___ Emre call you last night?",
+    "options": [
+     "Does",
+     "Was",
+     "Did"
+    ],
+    "answer": 2,
+    "whyTr": "Geçmişte soru: Did.",
+    "tag": "question-form",
+    "level": "A2"
+   },
+   {
+    "type": "mcq",
+    "q": "Linda didn't ___ to the party.",
+    "options": [
+     "come",
+     "came",
+     "comes"
+    ],
+    "answer": 0,
+    "whyTr": "Didn't'ten sonra yalın fiil gelir.",
+    "tag": "negative-form",
+    "level": "A2"
+   },
+   {
+    "type": "mcq",
+    "q": "What ___ you do after the bank?",
+    "options": [
+     "do",
+     "did",
+     "were"
+    ],
+    "answer": 1,
+    "whyTr": "Geçmiş zamanlı soru kelimeli soru: did.",
+    "tag": "question-form",
+    "level": "A2"
+   },
+   {
+    "type": "mcq",
+    "q": "I put money in my ___ every month.",
+    "options": [
+     "receipt",
+     "mistake",
+     "account"
+    ],
+    "answer": 2,
+    "whyTr": "Para bankadaki hesaba (account) yatırılır.",
+    "tag": "vocab",
+    "level": "A2"
+   },
+   {
+    "type": "mcq",
+    "q": "You get a ___ after you pay.",
+    "options": [
+     "receipt",
+     "password",
+     "balance"
+    ],
+    "answer": 0,
+    "whyTr": "Ödeme sonrası verilen fiş: receipt.",
+    "tag": "vocab",
+    "level": "A2"
+   },
+   {
+    "type": "mcq",
+    "q": "Which word means almost the same as \"mistake\"?",
+    "options": [
+     "fee",
+     "error",
+     "cash"
+    ],
+    "answer": 1,
+    "whyTr": "Mistake ve error benzer anlamlı.",
+    "tag": "synonym",
+    "level": "A2"
+   },
+   {
+    "type": "mcq",
+    "q": "What is the opposite of \"problem\"?",
+    "options": [
+     "receipt",
+     "fee",
+     "solution"
+    ],
+    "answer": 2,
+    "whyTr": "Problem'in zıttı solution.",
+    "tag": "antonym",
+    "level": "A2"
+   },
+   {
+    "type": "mcq",
+    "q": "The manager ___ me a new card.",
+    "options": [
+     "gave",
+     "gived",
+     "give"
+    ],
+    "answer": 0,
+    "whyTr": "Önceki konu: give - gave.",
+    "tag": "past-simple",
+    "level": "A2"
+   },
+   {
+    "type": "mcq",
+    "q": "Which word means almost the same as \"solve\"?",
+    "options": [
+     "sign",
+     "fix",
+     "carry"
+    ],
+    "answer": 1,
+    "whyTr": "Solve ve fix benzer anlamlı.",
+    "tag": "synonym",
+    "level": "A2"
+   },
+   {
+    "type": "mcq",
+    "q": "Yesterday Linda went to the bank. She waited in line for ten minutes. She didn't have her card, so she asked the clerk for help.\n\nWhy did Linda ask for help?",
+    "options": [
+     "She lost her job.",
+     "She made a mistake.",
+     "She didn't have her card."
+    ],
+    "answer": 2,
+    "whyTr": "Metin: 'She didn't have her card'.",
+    "tag": "reading",
+    "level": "A2"
+   },
+   {
+    "type": "mcq",
+    "q": "Emre typed his password three times, but the screen said \"Wrong password.\" He didn't get angry. He called the bank, and a woman helped him.\n\nWhat did Emre do?",
+    "options": [
+     "He called the bank.",
+     "He got angry.",
+     "He went to school."
+    ],
+    "answer": 0,
+    "whyTr": "Metin: 'He called the bank'.",
+    "tag": "reading",
+    "level": "A2"
+   }
+  ]
+ }
+}

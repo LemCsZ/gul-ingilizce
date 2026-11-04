@@ -1,0 +1,751 @@
+{
+ "week": 4,
+ "day": 6,
+ "titleTr": "Okul etkinlik takvimi: in / on / at",
+ "theme": "school-events",
+ "morning": {
+  "grammar": {
+   "topic": "prepositions: in / on / at (time and place)",
+   "explainTr": [
+    "Zaman için üç edat: at saatlerle (at 7:00, at noon, at night), on günlerle ve tarihlerle (on Monday, on October 12), in aylarla, mevsimlerle, yıllarla ve günün bölümleriyle (in July, in 2025, in the morning).",
+    "Yer için de üç edat: in kapalı alan, şehir ve ülke (in the gym, in Ohio), on yüzey ve sokak (on the wall, on Main Street), at belli bir nokta, adres ve etkinlik (at school, at work, at the concert).",
+    "Amerikan İngilizcesinde 'on the weekend' dersin; İngiliz İngilizcesinde 'at the weekend'. Sınavda ikisini de görebilirsin."
+   ],
+   "compareTr": "Türkçede -de/-da eki her şeye uyar: sabahta, pazartesi günü, okulda. İngilizcede aynı ek üç ayrı edatla söylenir: at, on, in. Küçükten büyüğe düşün: at (saat, nokta), on (gün, yüzey), in (ay, yıl, alan).",
+   "table": [
+    [
+     "at",
+     "saat, nokta, etkinlik",
+     "at 7:00 / at school / at the concert"
+    ],
+    [
+     "on",
+     "gün, tarih, yüzey, sokak",
+     "on Friday / on October 12 / on the wall"
+    ],
+    [
+     "in",
+     "ay, yıl, mevsim, günün bölümü, alan, şehir",
+     "in July / in the morning / in the gym"
+    ],
+    [
+     "Sabit kalıplar",
+     "at night, at noon, on the weekend",
+     "Don't call me at night."
+    ]
+   ],
+   "examples": [
+    {
+     "en": "The concert is at 6:30.",
+     "tr": "Konser saat 6.30'da."
+    },
+    {
+     "en": "The field trip is on Friday.",
+     "tr": "Gezi cuma günü."
+    },
+    {
+     "en": "School starts in August.",
+     "tr": "Okul ağustosta başlıyor."
+    },
+    {
+     "en": "The students are in the gym.",
+     "tr": "Öğrenciler spor salonunda."
+    },
+    {
+     "en": "There is a poster on the wall.",
+     "tr": "Duvarda bir poster var."
+    }
+   ],
+   "exercises": [
+    {
+     "type": "mcq",
+     "q": "The concert is ___ 7:00.",
+     "options": [
+      "at",
+      "in",
+      "on"
+     ],
+     "answer": 0,
+     "whyTr": "Saatlerle 'at' kullanılır.",
+     "tag": "prepositions-time",
+     "level": "A1"
+    },
+    {
+     "type": "mcq",
+     "q": "School starts ___ August.",
+     "options": [
+      "on",
+      "in",
+      "at"
+     ],
+     "answer": 1,
+     "whyTr": "Aylarla 'in' kullanılır.",
+     "tag": "prepositions-time",
+     "level": "A1"
+    },
+    {
+     "type": "mcq",
+     "q": "The field trip is ___ Friday.",
+     "options": [
+      "in",
+      "at",
+      "on"
+     ],
+     "answer": 2,
+     "whyTr": "Günlerle 'on' kullanılır.",
+     "tag": "prepositions-time",
+     "level": "A1"
+    },
+    {
+     "type": "mcq",
+     "q": "Emre is ___ school now.",
+     "options": [
+      "in",
+      "at",
+      "on"
+     ],
+     "answer": 1,
+     "whyTr": "Okulda, bir etkinlik/iş yerinde 'at' kullanılır.",
+     "tag": "prepositions-place",
+     "level": "A2"
+    },
+    {
+     "type": "mcq",
+     "q": "The students are ___ the gym.",
+     "options": [
+      "on",
+      "at",
+      "in"
+     ],
+     "answer": 2,
+     "whyTr": "Kapalı bir alanın içinde 'in' kullanılır.",
+     "tag": "prepositions-place",
+     "level": "A2"
+    },
+    {
+     "type": "order",
+     "promptTr": "Cümleyi sırala:",
+     "words": [
+      "is",
+      "meeting",
+      "Tuesday",
+      "The",
+      "noon",
+      "on",
+      "at"
+     ],
+     "answer": "The meeting is on Tuesday at noon",
+     "whyTr": "Gün için 'on', saat için 'at'.",
+     "tag": "prepositions-time",
+     "level": "A2"
+    },
+    {
+     "type": "mcq",
+     "q": "I wake up ___ the morning.",
+     "options": [
+      "at",
+      "on",
+      "in"
+     ],
+     "answer": 2,
+     "whyTr": "Günün bölümleriyle 'in' kullanılır (in the morning).",
+     "tag": "prepositions-time",
+     "level": "A2"
+    },
+    {
+     "type": "mcq",
+     "q": "Don't call me ___ night.",
+     "options": [
+      "at",
+      "in",
+      "on"
+     ],
+     "answer": 0,
+     "whyTr": "'At night' sabit kalıptır.",
+     "tag": "prepositions-time",
+     "level": "A2"
+    },
+    {
+     "type": "mcq",
+     "q": "The parent-teacher conference is ___ October 16.",
+     "options": [
+      "in",
+      "on",
+      "at"
+     ],
+     "answer": 1,
+     "whyTr": "Belirli tarihlerle 'on' kullanılır.",
+     "tag": "prepositions-time",
+     "level": "A2"
+    },
+    {
+     "type": "mcq",
+     "q": "There is a poster ___ the wall.",
+     "options": [
+      "on",
+      "in",
+      "at"
+     ],
+     "answer": 0,
+     "whyTr": "Yüzeyin üstünde 'on' kullanılır.",
+     "tag": "prepositions-place",
+     "level": "A2"
+    },
+    {
+     "type": "fill",
+     "q": "We have a holiday ___ December.",
+     "accept": [
+      "in"
+     ],
+     "hintTr": "ay ile hangi edat?",
+     "whyTr": "Aylarla 'in' kullanılır.",
+     "tag": "prepositions-time",
+     "level": "A2"
+    },
+    {
+     "type": "mcq",
+     "q": "We don't have ___ chairs for the event.",
+     "options": [
+      "much",
+      "many",
+      "a little"
+     ],
+     "answer": 1,
+     "whyTr": "Chairs sayılabilir; olumsuzda 'many'.",
+     "tag": "countable",
+     "level": "A2"
+    }
+   ]
+  },
+  "vocab": [
+   {
+    "id": "event",
+    "en": "event",
+    "tr": "etkinlik",
+    "pos": "noun",
+    "example": "The school event is on Friday.",
+    "exampleTr": "Okul etkinliği cuma günü.",
+    "syn": [],
+    "ant": [],
+    "level": "A2"
+   },
+   {
+    "id": "assembly",
+    "en": "assembly",
+    "tr": "okul toplantısı, tören",
+    "pos": "noun",
+    "example": "There is an assembly in the gym.",
+    "exampleTr": "Spor salonunda bir tören var.",
+    "syn": [],
+    "ant": [],
+    "level": "A2"
+   },
+   {
+    "id": "concert",
+    "en": "concert",
+    "tr": "konser",
+    "pos": "noun",
+    "example": "The winter concert is at six.",
+    "exampleTr": "Kış konseri saat altıda.",
+    "syn": [],
+    "ant": [],
+    "level": "A2"
+   },
+   {
+    "id": "holiday",
+    "en": "holiday",
+    "tr": "tatil günü, bayram",
+    "pos": "noun",
+    "example": "Monday is a school holiday.",
+    "exampleTr": "Pazartesi okul tatili.",
+    "syn": [
+     "vacation"
+    ],
+    "ant": [],
+    "level": "A2"
+   },
+   {
+    "id": "festival",
+    "en": "festival",
+    "tr": "festival, şenlik",
+    "pos": "noun",
+    "example": "The fall festival is in October.",
+    "exampleTr": "Sonbahar şenliği ekimde.",
+    "syn": [],
+    "ant": [],
+    "level": "A2"
+   },
+   {
+    "id": "gym",
+    "en": "gym",
+    "tr": "spor salonu",
+    "pos": "noun",
+    "example": "The students are in the gym.",
+    "exampleTr": "Öğrenciler spor salonunda.",
+    "syn": [],
+    "ant": [],
+    "level": "A2"
+   },
+   {
+    "id": "cafeteria",
+    "en": "cafeteria",
+    "tr": "okul yemekhanesi",
+    "pos": "noun",
+    "example": "Lunch is in the cafeteria.",
+    "exampleTr": "Öğle yemeği yemekhanede.",
+    "syn": [],
+    "ant": [],
+    "level": "A2"
+   },
+   {
+    "id": "principal",
+    "en": "principal",
+    "tr": "okul müdürü",
+    "pos": "noun",
+    "example": "The principal talks to the students.",
+    "exampleTr": "Müdür öğrencilerle konuşuyor.",
+    "syn": [],
+    "ant": [],
+    "level": "A2"
+   },
+   {
+    "id": "announcement",
+    "en": "announcement",
+    "tr": "duyuru",
+    "pos": "noun",
+    "example": "Listen to the announcement, please.",
+    "exampleTr": "Lütfen duyuruyu dinleyin.",
+    "syn": [],
+    "ant": [],
+    "level": "A2"
+   },
+   {
+    "id": "volunteer",
+    "en": "volunteer",
+    "tr": "gönüllü; gönüllü olmak",
+    "pos": "noun",
+    "example": "We need a volunteer for the festival.",
+    "exampleTr": "Şenlik için bir gönüllüye ihtiyacımız var.",
+    "syn": [],
+    "ant": [],
+    "level": "A2"
+   },
+   {
+    "id": "parent",
+    "en": "parent",
+    "tr": "anne veya baba, veli",
+    "pos": "noun",
+    "example": "Parents come to the conference.",
+    "exampleTr": "Veliler görüşmeye geliyor.",
+    "syn": [],
+    "ant": [],
+    "level": "A2"
+   },
+   {
+    "id": "grade",
+    "en": "grade",
+    "tr": "sınıf; not",
+    "pos": "noun",
+    "example": "My son is in the fifth grade.",
+    "exampleTr": "Oğlum beşinci sınıfta.",
+    "syn": [],
+    "ant": [],
+    "level": "A2"
+   },
+   {
+    "id": "recess",
+    "en": "recess",
+    "tr": "teneffüs, oyun molası",
+    "pos": "noun",
+    "example": "The children play outside at recess.",
+    "exampleTr": "Çocuklar teneffüste dışarıda oynar.",
+    "syn": [],
+    "ant": [],
+    "level": "A2"
+   },
+   {
+    "id": "bell",
+    "en": "bell",
+    "tr": "zil",
+    "pos": "noun",
+    "example": "The bell rings at 8:30.",
+    "exampleTr": "Zil 8.30'da çalar.",
+    "syn": [],
+    "ant": [],
+    "level": "A2"
+   },
+   {
+    "id": "homework",
+    "en": "homework",
+    "tr": "ev ödevi",
+    "pos": "noun",
+    "example": "The students have homework every day.",
+    "exampleTr": "Öğrencilerin her gün ev ödevi var.",
+    "syn": [],
+    "ant": [],
+    "level": "A2"
+   }
+  ],
+  "reading": {
+   "title": "School events in October",
+   "text": "Lincoln Elementary has many events in October. Mr. Brown writes them on the school calendar. On Monday, October 6, there is an assembly in the gym at 9:00. The principal talks about the new school rules. On Thursday, October 16, parents come to the school for the parent-teacher conferences at 4:30. On Friday, October 24, the fourth grade has a field trip to a farm. The bus leaves at 8:15 in the morning.\n\nHafsa wants to help. She is going to volunteer at the Fall Festival on Saturday, October 25. The festival starts at noon, and it is in the school parking lot. \"Please come early,\" says Mr. Brown. \"We need help at ten o'clock.\" Hafsa writes the dates in her calendar and smiles.",
+   "glossary": [
+    {
+     "en": "farm",
+     "tr": "çiftlik"
+    },
+    {
+     "en": "parking lot",
+     "tr": "otopark"
+    },
+    {
+     "en": "calendar",
+     "tr": "takvim"
+    },
+    {
+     "en": "conference",
+     "tr": "veli görüşmesi, toplantı"
+    }
+   ],
+   "questions": [
+    {
+     "type": "mcq",
+     "q": "Where is the assembly?",
+     "options": [
+      "In the cafeteria",
+      "In the parking lot",
+      "In the gym"
+     ],
+     "answer": 2,
+     "whyTr": "Metin: 'an assembly in the gym'.",
+     "tag": "reading",
+     "level": "A2"
+    },
+    {
+     "type": "mcq",
+     "q": "When are the parent-teacher conferences?",
+     "options": [
+      "On Monday at 9:00",
+      "On Thursday at 4:30",
+      "On Friday at 8:15"
+     ],
+     "answer": 1,
+     "whyTr": "Metin: 'Thursday, October 16 ... at 4:30'.",
+     "tag": "reading",
+     "level": "A2"
+    },
+    {
+     "type": "mcq",
+     "q": "What time does the field trip bus leave?",
+     "options": [
+      "At 9:00",
+      "At 4:30",
+      "At 8:15"
+     ],
+     "answer": 2,
+     "whyTr": "Metin: 'The bus leaves at 8:15'.",
+     "tag": "reading",
+     "level": "A2"
+    },
+    {
+     "type": "mcq",
+     "q": "What is Hafsa going to do on October 25?",
+     "options": [
+      "Volunteer at the festival",
+      "Go to a farm",
+      "Talk to parents"
+     ],
+     "answer": 0,
+     "whyTr": "Metin: 'She is going to volunteer at the Fall Festival'.",
+     "tag": "reading",
+     "level": "A2"
+    }
+   ]
+  }
+ },
+ "evening": {
+  "listening": {
+   "title": "The winter concert",
+   "script": [
+    {
+     "speaker": "Hafsa",
+     "text": "Hello, Mr. Brown. Can you tell me about the winter concert?"
+    },
+    {
+     "speaker": "Mr. Brown",
+     "text": "Sure. It's on December 12 at 6:30 in the evening."
+    },
+    {
+     "speaker": "Hafsa",
+     "text": "Is it in the gym?"
+    },
+    {
+     "speaker": "Mr. Brown",
+     "text": "No, it's in the cafeteria this year. The gym is closed for repairs."
+    },
+    {
+     "speaker": "Hafsa",
+     "text": "And what time does school end on that day?"
+    },
+    {
+     "speaker": "Mr. Brown",
+     "text": "At 3:15, as usual. The students are going to practice at 4:00."
+    },
+    {
+     "speaker": "Hafsa",
+     "text": "Good. Is there a school holiday in December?"
+    },
+    {
+     "speaker": "Mr. Brown",
+     "text": "Yes. Winter break starts on December 20 and ends on January 5."
+    },
+    {
+     "speaker": "Hafsa",
+     "text": "Thank you. Do you need volunteers for the concert?"
+    },
+    {
+     "speaker": "Mr. Brown",
+     "text": "Yes, please! Can you come at 5:30 on the day of the concert?"
+    },
+    {
+     "speaker": "Hafsa",
+     "text": "Yes, I can. I'll be in the cafeteria at 5:30."
+    },
+    {
+     "speaker": "Mr. Brown",
+     "text": "Perfect. See you then."
+    }
+   ],
+   "questions": [
+    {
+     "type": "mcq",
+     "q": "When is the winter concert?",
+     "options": [
+      "On December 20 at 6:30",
+      "On January 5 at 3:15",
+      "On December 12 at 6:30"
+     ],
+     "answer": 2,
+     "whyTr": "Mr. Brown: 'December 12 at 6:30'.",
+     "tag": "listening",
+     "level": "A2"
+    },
+    {
+     "type": "mcq",
+     "q": "Where is the concert this year?",
+     "options": [
+      "In the cafeteria",
+      "In the gym",
+      "In the library"
+     ],
+     "answer": 0,
+     "whyTr": "Mr. Brown: 'it's in the cafeteria this year'.",
+     "tag": "listening",
+     "level": "A2"
+    },
+    {
+     "type": "mcq",
+     "q": "When does winter break start?",
+     "options": [
+      "On December 12",
+      "On December 20",
+      "On January 5"
+     ],
+     "answer": 1,
+     "whyTr": "Mr. Brown: 'starts on December 20'.",
+     "tag": "listening",
+     "level": "A2"
+    },
+    {
+     "type": "mcq",
+     "q": "What time does Hafsa need to be there?",
+     "options": [
+      "At 5:30",
+      "At 3:15",
+      "At 4:00"
+     ],
+     "answer": 0,
+     "whyTr": "Mr. Brown: 'Can you come at 5:30?'",
+     "tag": "listening",
+     "level": "A2"
+    }
+   ]
+  },
+  "writing": {
+   "promptTr": "Okul ya da çevrendeki bir etkinliği (gün, saat, yer) 4-5 cümleyle anlat.",
+   "promptEn": "Write 4-5 sentences about an event: the day, the time and the place.",
+   "frames": [
+    "The ... is on ...",
+    "It starts at ...",
+    "It is in the ...",
+    "I am going to ..."
+   ],
+   "model": "The school festival is on Saturday, October 25. It starts at noon. It is in the parking lot at school. I am going to volunteer in the morning. I am going to arrive at ten o'clock.",
+   "checklistTr": [
+    "Günlerde ve tarihlerde 'on', saatlerde 'at', aylarda 'in' kullandın mı?",
+    "Yer için in / on / at doğru mu?",
+    "Cümleler büyük harfle başlıyor ve noktayla bitiyor mu?"
+   ],
+   "minWords": 35
+  },
+  "examSet": [
+   {
+    "type": "mcq",
+    "q": "My appointment is ___ Monday ___ 3:00.",
+    "options": [
+     "in / on",
+     "at / in",
+     "on / in",
+     "on / at"
+    ],
+    "answer": 3,
+    "whyTr": "Gün için 'on', saat için 'at'.",
+    "tag": "prepositions-time",
+    "level": "A2"
+   },
+   {
+    "type": "mcq",
+    "q": "Hafsa was born ___ Isparta.",
+    "options": [
+     "on",
+     "at",
+     "in"
+    ],
+    "answer": 2,
+    "whyTr": "Şehir adlarıyla 'in' kullanılır.",
+    "tag": "prepositions-place",
+    "level": "A2"
+   },
+   {
+    "type": "mcq",
+    "q": "The students eat lunch ___ the cafeteria.",
+    "options": [
+     "on",
+     "in",
+     "at"
+    ],
+    "answer": 1,
+    "whyTr": "Odanın içinde 'in' kullanılır.",
+    "tag": "prepositions-place",
+    "level": "A2"
+   },
+   {
+    "type": "mcq",
+    "q": "The principal is ___ honest woman.",
+    "options": [
+     "a",
+     "the",
+     "an"
+    ],
+    "answer": 2,
+    "whyTr": "Honest sesli harfle okunur: 'an'.",
+    "tag": "articles",
+    "level": "A2"
+   },
+   {
+    "type": "mcq",
+    "q": "There isn't ___ milk in the cafeteria today.",
+    "options": [
+     "any",
+     "many",
+     "an"
+    ],
+    "answer": 0,
+    "whyTr": "Olumsuzda 'any'; milk sayılamaz.",
+    "tag": "countable",
+    "level": "A2"
+   },
+   {
+    "type": "mcq",
+    "q": "The bell rings. The students ___ to their classroom.",
+    "options": [
+     "goes",
+     "will going",
+     "are going"
+    ],
+    "answer": 2,
+    "whyTr": "Şimdiki zaman/ayarlanmış hareket: are going.",
+    "tag": "present-continuous",
+    "level": "A2"
+   },
+   {
+    "type": "mcq",
+    "q": "Hafsa ___ at the school office last Friday.",
+    "options": [
+     "was",
+     "were",
+     "is"
+    ],
+    "answer": 0,
+    "whyTr": "Geçmiş zaman, Hafsa tekil: was.",
+    "tag": "past-simple",
+    "level": "A2"
+   },
+   {
+    "type": "mcq",
+    "q": "Hafsa and Linda are ___ for the school festival. They don't get money.",
+    "options": [
+     "principals",
+     "volunteers",
+     "bells"
+    ],
+    "answer": 1,
+    "whyTr": "Para almadan çalışanlar volunteer'dır.",
+    "tag": "vocab",
+    "level": "A2"
+   },
+   {
+    "type": "mcq",
+    "q": "Which word means almost the same as \"holiday\"?",
+    "options": [
+     "vacation",
+     "homework",
+     "assembly"
+    ],
+    "answer": 0,
+    "whyTr": "Holiday ve vacation: tatil.",
+    "tag": "synonym",
+    "level": "A2"
+   },
+   {
+    "type": "mcq",
+    "q": "What is the opposite of \"crowded\"?",
+    "options": [
+     "famous",
+     "empty",
+     "busy"
+    ],
+    "answer": 1,
+    "whyTr": "Crowded'ın zıttı empty.",
+    "tag": "antonym",
+    "level": "A2"
+   },
+   {
+    "type": "mcq",
+    "q": "The school concert is on Friday at 6:00 in the gym. Parents can come, and the tickets are free.\n\nWhere is the concert?",
+    "options": [
+     "In the cafeteria",
+     "In the library",
+     "In the gym"
+    ],
+    "answer": 2,
+    "whyTr": "Metin: 'in the gym'.",
+    "tag": "reading",
+    "level": "A2"
+   },
+   {
+    "type": "mcq",
+    "q": "Linda says, \"I'm busy on Tuesday, but I'm free on Wednesday. Let's meet at noon.\"\n\nWhen are they going to meet?",
+    "options": [
+     "On Tuesday",
+     "On Wednesday",
+     "On Friday"
+    ],
+    "answer": 1,
+    "whyTr": "Linda Çarşamba boş.",
+    "tag": "reading",
+    "level": "A2"
+   }
+  ]
+ }
+}

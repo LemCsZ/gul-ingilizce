@@ -1,0 +1,954 @@
+{
+ "week": 16,
+ "day": 2,
+ "titleTr": "Koşul cümleleri ve wish: okulda ilk gün",
+ "theme": "school-first-day",
+ "morning": {
+  "grammar": {
+   "topic": "Conditionals and wish (zero, 1, 2, 3, mixed)",
+   "explainTr": [
+    "Koşul cümlesi dört temel kalıpta toplanır: zero (genel gerçek) if + present, present. Type 1 (gerçekçi gelecek) if + present, will. Type 2 (şu an gerçek dışı) if + past, would. Type 3 (geçmişte olmadı) if + past perfect, would have + V3.",
+    "Wish aynı mantığı izler: şimdiki pişmanlık için wish + past (I wish I had more time), geçmiş pişmanlık için wish + past perfect (I wish I had left earlier). Başkasının can sıkıcı alışkanlığı için wish + would kullanılır.",
+    "En sık hata: if cümlesine will veya would koymak. 'If I will go' yanlış; 'If I go' doğru. Unless = if not olduğu için yanında ayrıca olumsuz kullanılmaz."
+   ],
+   "compareTr": "Türkçede 'Gelirsen görürsün', 'Gelseydin görürdün', 'Gelmiş olsaydın görmüş olurdun' hep ek ile kurulur. İngilizcede ek yok; zaman kayması var: present, past, past perfect. 'Keşke' için wish kullanılır.",
+   "table": [
+    [
+     "Zero",
+     "if + present, present",
+     "If it rains, we stay inside."
+    ],
+    [
+     "Type 1",
+     "if + present, will + V",
+     "If you come, I will help."
+    ],
+    [
+     "Type 2",
+     "if + past, would + V",
+     "If I were you, I would call."
+    ],
+    [
+     "Type 3",
+     "if + past perfect, would have + V3",
+     "If I had known, I would have told you."
+    ],
+    [
+     "Wish (şimdi)",
+     "wish + past",
+     "I wish I had more time."
+    ],
+    [
+     "Wish (geçmiş)",
+     "wish + past perfect",
+     "I wish I had arrived earlier."
+    ]
+   ],
+   "examples": [
+    {
+     "en": "If students arrive late, they must sign in.",
+     "tr": "Öğrenciler geç gelirse imza atmak zorundadır."
+    },
+    {
+     "en": "If I were the principal, I would give more time for lunch.",
+     "tr": "Müdür olsaydım öğle yemeğine daha çok zaman verirdim."
+    },
+    {
+     "en": "If she had known, she would have told them.",
+     "tr": "Bilseydi onlara söylerdi."
+    },
+    {
+     "en": "I wish the students weren't so loud.",
+     "tr": "Keşke öğrenciler bu kadar gürültülü olmasa."
+    },
+    {
+     "en": "Unless you finish, you can't go to recess.",
+     "tr": "Bitirmezsen teneffüse çıkamazsın."
+    }
+   ],
+   "exercises": [
+    {
+     "type": "mcq",
+     "q": "If it rains tomorrow, the students ___ recess inside.",
+     "options": [
+      "will have",
+      "would have",
+      "have had",
+      "had"
+     ],
+     "answer": 0,
+     "whyTr": "Gerçekçi gelecek ihtimali (type 1): if + present, will + fiil.",
+     "tag": "conditionals",
+     "level": "B2"
+    },
+    {
+     "type": "mcq",
+     "q": "If I were the principal, I ___ more time for lunch.",
+     "options": [
+      "will give",
+      "gave",
+      "would gave",
+      "would give"
+     ],
+     "answer": 3,
+     "whyTr": "Gerçek dışı şimdiki durum (type 2): would + yalın fiil.",
+     "tag": "conditionals",
+     "level": "B2"
+    },
+    {
+     "type": "mcq",
+     "q": "If she had known about the drill, she ___ the students earlier.",
+     "options": [
+      "would tell",
+      "had told",
+      "would have told",
+      "will have told"
+     ],
+     "answer": 2,
+     "whyTr": "Geçmişte olmamış şey (type 3): would have + V3.",
+     "tag": "conditionals",
+     "level": "B2"
+    },
+    {
+     "type": "mcq",
+     "q": "I wish I ___ more patience with noisy kids.",
+     "options": [
+      "have",
+      "had",
+      "would have",
+      "will have"
+     ],
+     "answer": 1,
+     "whyTr": "Şimdiki pişmanlık: wish + past (had).",
+     "tag": "conditionals",
+     "level": "B2"
+    },
+    {
+     "type": "mcq",
+     "q": "I wish I ___ the sub plan yesterday. Then I wouldn't have been lost.",
+     "options": [
+      "read",
+      "had read",
+      "have read",
+      "would read"
+     ],
+     "answer": 1,
+     "whyTr": "Geçmiş pişmanlık: wish + past perfect.",
+     "tag": "conditionals",
+     "level": "B2"
+    },
+    {
+     "type": "order",
+     "promptTr": "Cümleyi sırala:",
+     "words": [
+      "If",
+      "students",
+      "arrive",
+      "late",
+      "they",
+      "must",
+      "sign",
+      "in"
+     ],
+     "answer": "If students arrive late they must sign in",
+     "whyTr": "Genel kural (zero conditional): if + present, present/modal.",
+     "tag": "conditionals",
+     "level": "B2"
+    },
+    {
+     "type": "mcq",
+     "q": "Unless you finish your worksheet, you ___ go to recess.",
+     "options": [
+      "can't",
+      "can",
+      "will",
+      "would"
+     ],
+     "answer": 0,
+     "whyTr": "Unless = if not; bu yüzden ana cümle olumsuz: can't.",
+     "tag": "conditionals",
+     "level": "B2"
+    },
+    {
+     "type": "mcq",
+     "q": "I wish the students ___ so loud. It gives me a headache.",
+     "options": [
+      "aren't",
+      "wouldn't be",
+      "won't be",
+      "weren't"
+     ],
+     "answer": 3,
+     "whyTr": "Şimdiki hoşnutsuzluk: wish + past (were/weren't).",
+     "tag": "conditionals",
+     "level": "B2"
+    },
+    {
+     "type": "mcq",
+     "q": "She wishes her son ___ his homework more often.",
+     "options": [
+      "does",
+      "doing",
+      "would do",
+      "will do"
+     ],
+     "answer": 2,
+     "whyTr": "Başkasının alışkanlığından şikâyet: wish + would.",
+     "tag": "conditionals",
+     "level": "B2"
+    },
+    {
+     "type": "order",
+     "promptTr": "Cümleyi sırala:",
+     "words": [
+      "If",
+      "I",
+      "were",
+      "you",
+      "I",
+      "would",
+      "talk",
+      "to",
+      "the",
+      "principal"
+     ],
+     "answer": "If I were you I would talk to the principal",
+     "whyTr": "Tavsiye kalıbı: If I were you, I would...",
+     "tag": "conditionals",
+     "level": "B2"
+    },
+    {
+     "type": "fill",
+     "q": "If I ___ you, I would call the office.",
+     "accept": [
+      "were"
+     ],
+     "hintTr": "to be, geçmiş",
+     "whyTr": "Type 2'de tüm öznelerle 'were' kullanılabilir.",
+     "tag": "conditionals",
+     "level": "B2"
+    },
+    {
+     "type": "fill",
+     "q": "I wish I ___ more time to prepare. (have)",
+     "accept": [
+      "had"
+     ],
+     "hintTr": "have'in geçmişi",
+     "whyTr": "Wish + past: had.",
+     "tag": "conditionals",
+     "level": "B2"
+    }
+   ]
+  },
+  "vocab": [
+   {
+    "id": "discipline",
+    "en": "discipline",
+    "tr": "disiplin",
+    "pos": "noun",
+    "example": "Good discipline starts with clear rules.",
+    "exampleTr": "İyi disiplin net kurallarla başlar.",
+    "syn": [
+     "order"
+    ],
+    "ant": [
+     "chaos"
+    ],
+    "level": "B2"
+   },
+   {
+    "id": "consistent",
+    "en": "consistent",
+    "tr": "tutarlı",
+    "pos": "adjective",
+    "example": "Be consistent, and students will know what to expect.",
+    "exampleTr": "Tutarlı ol; öğrenciler ne bekleyeceklerini bilsin.",
+    "syn": [
+     "steady"
+    ],
+    "ant": [
+     "inconsistent"
+    ],
+    "level": "B2"
+   },
+   {
+    "id": "firm",
+    "en": "firm",
+    "tr": "kararlı, sert (tutumda)",
+    "pos": "adjective",
+    "example": "She is kind but firm with the class.",
+    "exampleTr": "Sınıfa karşı nazik ama kararlı.",
+    "syn": [
+     "strict"
+    ],
+    "ant": [
+     "lenient"
+    ],
+    "level": "B2"
+   },
+   {
+    "id": "boundary",
+    "en": "boundary",
+    "tr": "sınır, çerçeve",
+    "pos": "noun",
+    "example": "Teachers set boundaries so everyone feels safe.",
+    "exampleTr": "Öğretmenler herkes güvende hissetsin diye sınırlar koyar.",
+    "syn": [
+     "limit"
+    ],
+    "ant": [],
+    "level": "B2"
+   },
+   {
+    "id": "intervene",
+    "en": "intervene",
+    "tr": "araya girmek, müdahale etmek",
+    "pos": "verb",
+    "example": "I had to intervene when the boys began to argue.",
+    "exampleTr": "Çocuklar tartışmaya başlayınca araya girmem gerekti.",
+    "syn": [
+     "step in"
+    ],
+    "ant": [],
+    "level": "B2"
+   },
+   {
+    "id": "compromise",
+    "en": "compromise",
+    "tr": "uzlaşma; uzlaşmak",
+    "pos": "noun",
+    "example": "They reached a compromise and shared the markers.",
+    "exampleTr": "Bir uzlaşmaya vardılar ve kalemleri paylaştılar.",
+    "syn": [
+     "agreement"
+    ],
+    "ant": [
+     "conflict"
+    ],
+    "level": "B2"
+   },
+   {
+    "id": "tolerate",
+    "en": "tolerate",
+    "tr": "hoşgörmek, katlanmak",
+    "pos": "verb",
+    "example": "The school will not tolerate bullying.",
+    "exampleTr": "Okul zorbalığa tahammül etmez.",
+    "syn": [
+     "accept"
+    ],
+    "ant": [
+     "reject"
+    ],
+    "level": "B2"
+   },
+   {
+    "id": "ideal",
+    "en": "ideal",
+    "tr": "ideal, mükemmel",
+    "pos": "adjective",
+    "example": "An ideal class is quiet but curious.",
+    "exampleTr": "İdeal bir sınıf sessiz ama meraklıdır.",
+    "syn": [
+     "perfect"
+    ],
+    "ant": [
+     "terrible"
+    ],
+    "level": "B2"
+   },
+   {
+    "id": "dilemma",
+    "en": "dilemma",
+    "tr": "ikilem",
+    "pos": "noun",
+    "example": "She faced a dilemma: tell the principal or talk to the parents first.",
+    "exampleTr": "Bir ikilemle karşılaştı: önce müdüre mi söyleyecek yoksa velilerle mi konuşacak.",
+    "syn": [],
+    "ant": [],
+    "level": "B2"
+   },
+   {
+    "id": "misconduct",
+    "en": "misconduct",
+    "tr": "kötü davranış, disiplinsizlik",
+    "pos": "noun",
+    "example": "Serious misconduct is reported to the office.",
+    "exampleTr": "Ciddi disiplinsizlik idareye bildirilir.",
+    "syn": [
+     "misbehavior"
+    ],
+    "ant": [],
+    "level": "B2"
+   },
+   {
+    "id": "authority",
+    "en": "authority",
+    "tr": "otorite, yetki",
+    "pos": "noun",
+    "example": "A substitute has the same authority as the regular teacher.",
+    "exampleTr": "Vekil öğretmen asıl öğretmenle aynı yetkiye sahiptir.",
+    "syn": [
+     "power"
+    ],
+    "ant": [],
+    "level": "B2"
+   },
+   {
+    "id": "fairness",
+    "en": "fairness",
+    "tr": "adalet, hakkaniyet",
+    "pos": "noun",
+    "example": "Students notice fairness very quickly.",
+    "exampleTr": "Öğrenciler adaleti çok çabuk fark eder.",
+    "syn": [
+     "justice"
+    ],
+    "ant": [
+     "injustice"
+    ],
+    "level": "B2"
+   },
+   {
+    "id": "patience",
+    "en": "patience",
+    "tr": "sabır",
+    "pos": "noun",
+    "example": "Teaching little children takes a lot of patience.",
+    "exampleTr": "Küçük çocuklara öğretmek çok sabır ister.",
+    "syn": [
+     "tolerance"
+    ],
+    "ant": [
+     "impatience"
+    ],
+    "level": "B2"
+   },
+   {
+    "id": "mediate",
+    "en": "mediate",
+    "tr": "arabuluculuk yapmak",
+    "pos": "verb",
+    "example": "The counselor mediated between the two students.",
+    "exampleTr": "Rehber öğretmen iki öğrenci arasında arabuluculuk yaptı.",
+    "syn": [],
+    "ant": [],
+    "level": "B2"
+   },
+   {
+    "id": "reinforce",
+    "en": "reinforce",
+    "tr": "pekiştirmek, güçlendirmek",
+    "pos": "verb",
+    "example": "Praise can reinforce good behavior.",
+    "exampleTr": "Övgü iyi davranışı pekiştirebilir.",
+    "syn": [
+     "strengthen"
+    ],
+    "ant": [
+     "weaken"
+    ],
+    "level": "B2"
+   }
+  ],
+  "reading": {
+   "title": "Hafsa's first morning at Jefferson Elementary",
+   "text": "Hafsa's first day at Jefferson Elementary started with a surprise. Mr. Brown handed her a folder and said, \"Mrs. Patel is sick today, so you will teach fifth grade. Her sub plan is inside.\" Hafsa's heart beat fast. If she had arrived five minutes earlier, she would have had time to read the whole plan. Instead, she had to read it while the students were walking in.\n\nThe first twenty minutes were not easy. Two boys, Jason and Miguel, kept talking during the reading lesson. At first Hafsa pretended not to notice. She wished she had set clear rules at the beginning. Then she remembered something Linda had told her: \"If you are consistent, children will respect you.\" So Hafsa stopped, stood quietly in front of the class, and waited. After a few seconds the room became silent.\n\n\"Here is how we will work today,\" she said in a calm but firm voice. \"If you want to ask a question, raise your hand. If everyone finishes the worksheet, we will have ten extra minutes of free reading.\" The students looked surprised, but they listened. When Jason started to tease Miguel again, Hafsa stepped in. She did not shout. She asked them to explain the problem, and soon they agreed to sit apart for the rest of the morning. It was a small compromise, but it worked.\n\nAt lunch, the teacher next door, Mr. Davis, stopped by. \"I heard it was quiet in your room,\" he smiled. \"If I were you, I would be proud.\" Hafsa laughed. \"I wish I could say I wasn't nervous,\" she answered. \"I was shaking inside.\" Mr. Davis shook his head. \"That's normal. If you never felt nervous, you probably wouldn't care about the students.\"\n\nIn the afternoon, Hafsa left a note for Mrs. Patel describing the day. Before she went home, Mr. Brown asked if she could return on Friday. \"If you are free, we would love to have you,\" he said. Hafsa smiled all the way to the bus stop.",
+   "glossary": [
+    {
+     "en": "hand",
+     "tr": "uzatmak, vermek"
+    },
+    {
+     "en": "tease",
+     "tr": "alay etmek, takılmak"
+    },
+    {
+     "en": "step in",
+     "tr": "araya girmek"
+    },
+    {
+     "en": "sit apart",
+     "tr": "ayrı oturmak"
+    },
+    {
+     "en": "shake",
+     "tr": "titremek"
+    }
+   ],
+   "questions": [
+    {
+     "type": "mcq",
+     "q": "Why couldn't Hafsa read the whole sub plan before class?",
+     "options": [
+      "She lost the folder",
+      "Mr. Brown took it back",
+      "She arrived too late",
+      "The plan was in Spanish"
+     ],
+     "answer": 2,
+     "whyTr": "Metin: 'If she had arrived five minutes earlier...'.",
+     "tag": "reading",
+     "level": "B2"
+    },
+    {
+     "type": "mcq",
+     "q": "What did Hafsa do when the two boys kept talking?",
+     "options": [
+      "She shouted at them",
+      "She stood quietly and waited",
+      "She sent them to the principal",
+      "She ignored them all day"
+     ],
+     "answer": 1,
+     "whyTr": "Metin: 'stood quietly in front of the class, and waited'.",
+     "tag": "reading",
+     "level": "B2"
+    },
+    {
+     "type": "mcq",
+     "q": "How was the problem between Jason and Miguel solved?",
+     "options": [
+      "They agreed to sit apart",
+      "They moved to another school",
+      "Hafsa called their parents",
+      "They switched classrooms"
+     ],
+     "answer": 0,
+     "whyTr": "Metin: 'they agreed to sit apart'.",
+     "tag": "reading",
+     "level": "B2"
+    },
+    {
+     "type": "mcq",
+     "q": "What does Mr. Davis mean by his last comment?",
+     "options": [
+      "Hafsa should not be a teacher",
+      "Nervous teachers are not good",
+      "Hafsa made a mistake",
+      "Feeling nervous shows that she cares"
+     ],
+     "answer": 3,
+     "whyTr": "'If you never felt nervous, you probably wouldn't care.'",
+     "tag": "reading",
+     "level": "B2"
+    }
+   ]
+  }
+ },
+ "evening": {
+  "listening": {
+   "title": "Tips from a colleague",
+   "script": [
+    {
+     "speaker": "Mr. Davis",
+     "text": "Hafsa, do you have a minute? I want to share a few tips for tomorrow."
+    },
+    {
+     "speaker": "Hafsa",
+     "text": "Of course, Mr. Davis. I wish I had known all this today!"
+    },
+    {
+     "speaker": "Mr. Davis",
+     "text": "Don't worry. First, if a student arrives late, send him to the front office for a tardy slip."
+    },
+    {
+     "speaker": "Hafsa",
+     "text": "Okay. And if a student feels sick?"
+    },
+    {
+     "speaker": "Mr. Davis",
+     "text": "Send him to the nurse, but always with a buddy. Never alone."
+    },
+    {
+     "speaker": "Hafsa",
+     "text": "That makes sense. What happens if there is a fire drill?"
+    },
+    {
+     "speaker": "Mr. Davis",
+     "text": "Take the roster from the desk and line the students up quietly. If you forget it, the office can print another one."
+    },
+    {
+     "speaker": "Hafsa",
+     "text": "I will keep it near the door. Anything else?"
+    },
+    {
+     "speaker": "Mr. Davis",
+     "text": "One more thing. If two students argue, don't shout. Speak quietly, and they will usually calm down."
+    },
+    {
+     "speaker": "Hafsa",
+     "text": "That worked this morning. Thank you for your advice."
+    },
+    {
+     "speaker": "Mr. Davis",
+     "text": "If I were you, I would write these tips in a notebook."
+    },
+    {
+     "speaker": "Hafsa",
+     "text": "Good idea. I will do it tonight."
+    }
+   ],
+   "questions": [
+    {
+     "type": "mcq",
+     "q": "Where should a late student go?",
+     "options": [
+      "To the nurse",
+      "To the library",
+      "Home",
+      "To the front office"
+     ],
+     "answer": 3,
+     "whyTr": "Mr. Davis: 'send him to the front office for a tardy slip'.",
+     "tag": "listening",
+     "level": "B2"
+    },
+    {
+     "type": "mcq",
+     "q": "How should a sick student go to the nurse?",
+     "options": [
+      "Alone",
+      "With the principal",
+      "With a buddy",
+      "By bus"
+     ],
+     "answer": 2,
+     "whyTr": "'always with a buddy. Never alone.'",
+     "tag": "listening",
+     "level": "B2"
+    },
+    {
+     "type": "mcq",
+     "q": "What should Hafsa take during a fire drill?",
+     "options": [
+      "The lunch menu",
+      "The roster",
+      "The sub plan",
+      "The school badge"
+     ],
+     "answer": 1,
+     "whyTr": "'Take the roster from the desk'.",
+     "tag": "listening",
+     "level": "B2"
+    },
+    {
+     "type": "mcq",
+     "q": "What does Mr. Davis advise when students argue?",
+     "options": [
+      "Speak quietly",
+      "Shout loudly",
+      "Call the parents",
+      "Cancel the lesson"
+     ],
+     "answer": 0,
+     "whyTr": "'don't shout. Speak quietly'.",
+     "tag": "listening",
+     "level": "B2"
+    }
+   ]
+  },
+  "writing": {
+   "promptTr": "Bir öğretmen arkadaşına yaz (120-180 kelime): Sınıfta öğrenciler gürültü yaparsa ne yaparsın? İdeal bir sınıf için ne dilersin? Koşul cümleleri ve 'wish' kullan.",
+   "promptEn": "Write a paragraph (120-180 words): What would you do if students were noisy? What do you wish for your ideal classroom? Use conditionals and 'wish'.",
+   "frames": [
+    "If students are noisy, I usually ...",
+    "If I were a full-time teacher, I would ...",
+    "I wish my students ...",
+    "If I had known ..., I would have ...",
+    "In my ideal classroom, ..."
+   ],
+   "model": "If students are noisy, I usually stop talking and wait quietly. Most children notice the silence and calm down in a few seconds. If that doesn't work, I walk to their desks and speak to them in a soft voice. I never shout, because I think shouting teaches children to shout back.\n\nIf I were a full-time teacher, I would set clear rules on the first day and repeat them every morning. I would also reward good behavior with small privileges, such as extra reading time. Respect and fairness are very important to me, and I believe students need to feel safe before they can learn.\n\nOn my first day as a substitute, I wished I had read the sub plan earlier. If I had arrived ten minutes sooner, I would have felt much calmer. Next time I will come early.\n\nIn my ideal classroom, students listen to each other, raise their hands, and help their classmates. I wish every school had enough time and support for teachers to build that kind of community.",
+   "checklistTr": [
+    "Type 1, 2 ve 3 koşul cümlelerinden en az ikisini kullandın mı?",
+    "En az bir 'I wish' cümlen var mı?",
+    "If'ten sonra will/would kullanmadığını kontrol ettin mi?",
+    "Paragrafın başı, gelişmesi ve sonu var mı?"
+   ],
+   "minWords": 120
+  },
+  "examSet": [
+   {
+    "type": "mcq",
+    "q": "The bell had rung before she ___ the room.",
+    "options": [
+     "entered",
+     "enters",
+     "has entered",
+     "was entering"
+    ],
+    "answer": 0,
+    "whyTr": "Önce olan iş past perfect (had rung), sonraki iş past simple.",
+    "tag": "past-perfect",
+    "level": "B2"
+   },
+   {
+    "type": "mcq",
+    "q": "The sub plans ___ on the desk every morning.",
+    "options": [
+     "leave",
+     "are leaving",
+     "left",
+     "are left"
+    ],
+    "answer": 3,
+    "whyTr": "Düzenli olay + yapan önemsiz: present passive (are left).",
+    "tag": "passive",
+    "level": "B2"
+   },
+   {
+    "type": "mcq",
+    "q": "Mr. Brown said that Mrs. Patel ___ sick the day before.",
+    "options": [
+     "was being",
+     "has been",
+     "had been",
+     "is"
+    ],
+    "answer": 2,
+    "whyTr": "Reported speech'te geçmiş olay past perfect olur.",
+    "tag": "reported-speech",
+    "level": "B2"
+   },
+   {
+    "type": "mcq",
+    "q": "You ___ leave students alone in the classroom. It is against the rules.",
+    "options": [
+     "don't have to",
+     "mustn't",
+     "needn't",
+     "might not"
+    ],
+    "answer": 1,
+    "whyTr": "Yasak = mustn't.",
+    "tag": "modals",
+    "level": "B2"
+   },
+   {
+    "type": "mcq",
+    "q": "We ___ have called the office, but we didn't know the number.",
+    "options": [
+     "must",
+     "could",
+     "can",
+     "will"
+    ],
+    "answer": 1,
+    "whyTr": "Geçmişte mümkün olup yapılmayan: could have + V3.",
+    "tag": "modals",
+    "level": "B2"
+   },
+   {
+    "type": "mcq",
+    "q": "If the fire alarm ___ off, line up quietly.",
+    "options": [
+     "goes",
+     "will go",
+     "went",
+     "would go"
+    ],
+    "answer": 0,
+    "whyTr": "Genel kural/talimat: if + present simple.",
+    "tag": "conditionals",
+    "level": "B2"
+   },
+   {
+    "type": "mcq",
+    "q": "If she hadn't spoken up yesterday, the problem ___ worse today.",
+    "options": [
+     "had become",
+     "would becoming",
+     "will become",
+     "would be"
+    ],
+    "answer": 3,
+    "whyTr": "Karışık koşul: geçmiş neden, şimdiki sonuç: would + fiil.",
+    "tag": "conditionals",
+    "level": "B2"
+   },
+   {
+    "type": "mcq",
+    "q": "I wish I ___ the answer, but I don't.",
+    "options": [
+     "know",
+     "would know",
+     "knew",
+     "have known"
+    ],
+    "answer": 2,
+    "whyTr": "Şimdiki istek: wish + past simple.",
+    "tag": "conditionals",
+    "level": "B2"
+   },
+   {
+    "type": "mcq",
+    "q": "If only I ___ to Linda's advice last week!",
+    "options": [
+     "listened",
+     "would listen",
+     "had listened",
+     "have listened"
+    ],
+    "answer": 2,
+    "whyTr": "Geçmiş pişmanlık: If only + past perfect.",
+    "tag": "conditionals",
+    "level": "B2"
+   },
+   {
+    "type": "mcq",
+    "q": "Which word is closest in meaning to \"firm\"?",
+    "options": [
+     "gentle",
+     "strict",
+     "nervous",
+     "absent"
+    ],
+    "answer": 1,
+    "whyTr": "Firm = strict (kararlı, sıkı).",
+    "tag": "synonym",
+    "level": "B2"
+   },
+   {
+    "type": "mcq",
+    "q": "Which word is closest in meaning to \"tolerate\"?",
+    "options": [
+     "accept",
+     "avoid",
+     "punish",
+     "invite"
+    ],
+    "answer": 0,
+    "whyTr": "Tolerate = accept (katlanmak, kabul etmek).",
+    "tag": "synonym",
+    "level": "B2"
+   },
+   {
+    "type": "mcq",
+    "q": "What is the opposite of \"patience\"?",
+    "options": [
+     "kindness",
+     "courage",
+     "honesty",
+     "impatience"
+    ],
+    "answer": 3,
+    "whyTr": "Patience'ın zıttı impatience.",
+    "tag": "antonym",
+    "level": "B2"
+   },
+   {
+    "type": "mcq",
+    "q": "What is the opposite of \"fairness\"?",
+    "options": [
+     "equality",
+     "honor",
+     "respect",
+     "injustice"
+    ],
+    "answer": 3,
+    "whyTr": "Fairness'ın zıttı injustice.",
+    "tag": "antonym",
+    "level": "B2"
+   },
+   {
+    "type": "mcq",
+    "q": "She listened ___ to the angry parent.",
+    "options": [
+     "patient",
+     "patience",
+     "patiently",
+     "patients"
+    ],
+    "answer": 2,
+    "whyTr": "Fiili niteleyen zarf gerekir: patiently.",
+    "tag": "word-formation",
+    "level": "B2"
+   },
+   {
+    "type": "mcq",
+    "q": "Teachers should set clear ___ for behavior.",
+    "options": [
+     "borders",
+     "boundaries",
+     "edges",
+     "ends"
+    ],
+    "answer": 1,
+    "whyTr": "Kalıp: set boundaries.",
+    "tag": "collocations",
+    "level": "B2"
+   },
+   {
+    "type": "mcq",
+    "q": "Please ___ the lights when you leave the room.",
+    "options": [
+     "turn off",
+     "turn on",
+     "turn up",
+     "turn in"
+    ],
+    "answer": 0,
+    "whyTr": "Işığı kapatmak = turn off.",
+    "tag": "phrasal-verbs",
+    "level": "B2"
+   },
+   {
+    "type": "mcq",
+    "q": "He suggested ___ the students into two groups.",
+    "options": [
+     "dividing",
+     "to divide",
+     "divide",
+     "divided"
+    ],
+    "answer": 0,
+    "whyTr": "suggest + V-ing.",
+    "tag": "gerund-infinitive",
+    "level": "B2"
+   },
+   {
+    "type": "mcq",
+    "q": "This class is ___ than the one I taught yesterday.",
+    "options": [
+     "quietest",
+     "most quiet",
+     "more quieter",
+     "quieter"
+    ],
+    "answer": 3,
+    "whyTr": "Tek heceli sıfat + -er: quieter.",
+    "tag": "comparatives",
+    "level": "B2"
+   },
+   {
+    "type": "mcq",
+    "q": "Ms. Lee asked the substitute to collect the homework. \"Don't worry if some students forget it,\" she wrote. \"I'd rather you leave a note than punish them.\"\n\nWhat does Ms. Lee want?",
+    "options": [
+     "Punishment for forgetful students",
+     "No homework at all",
+     "A note about missing homework",
+     "A new worksheet"
+    ],
+    "answer": 2,
+    "whyTr": "Metin: 'I'd rather you leave a note than punish them.'",
+    "tag": "reading",
+    "level": "B2"
+   },
+   {
+    "type": "mcq",
+    "q": "The school nurse called the front office. \"If any student has a fever above 100 degrees, send him to me immediately.\" The secretary wrote the message on a sticky note and put it on the door.\n\nWhat should happen if a student has a high fever?",
+    "options": [
+     "The student stays in class",
+     "The student goes to the nurse right away",
+     "The secretary calls a taxi",
+     "The teacher takes his temperature again"
+    ],
+    "answer": 1,
+    "whyTr": "Metin: 'send him to me immediately'.",
+    "tag": "reading",
+    "level": "B2"
+   }
+  ]
+ }
+}

@@ -1,0 +1,857 @@
+{
+ "titleTr": "7. hafta deneme sınavı",
+ "introTr": "Yedi haftadır çalışıyorsun ve artık iş başvurusu, geçmiş olaylar ve tavsiyeler hakkında konuşabiliyorsun. Bu deneme biraz daha zor; zorlandığın soru normal, onlar zaten öğreneceğin yerleri gösteriyor. Sakin sakin çöz.",
+ "sections": [
+  {
+   "id": "grammar",
+   "titleTr": "Dil bilgisi",
+   "items": [
+    {
+     "type": "mcq",
+     "q": "I ___ in Turkey until 2022. Now I live in Ohio.",
+     "options": [
+      "have lived",
+      "live",
+      "lived",
+      "am living"
+     ],
+     "answer": 2,
+     "whyTr": "Bitmiş bir dönem (until 2022) için past simple kullanılır.",
+     "tag": "past-simple",
+     "level": "A2"
+    },
+    {
+     "type": "mcq",
+     "q": "She ___ in this school for six years, and she still loves it.",
+     "options": [
+      "worked",
+      "is working",
+      "works",
+      "has worked"
+     ],
+     "answer": 3,
+     "whyTr": "Hâlâ devam eden süre için present perfect: has worked.",
+     "tag": "present-perfect",
+     "level": "B1"
+    },
+    {
+     "type": "mcq",
+     "q": "How long ___ in the United States?",
+     "options": [
+      "have you lived",
+      "did you live",
+      "do you live",
+      "are you living"
+     ],
+     "answer": 0,
+     "whyTr": "'How long' ile devam eden durum sorusu: have you lived.",
+     "tag": "present-perfect",
+     "level": "B1"
+    },
+    {
+     "type": "mcq",
+     "q": "I ___ for an hour. I'm tired now.",
+     "options": [
+      "study",
+      "have been studying",
+      "was study",
+      "am study"
+     ],
+     "answer": 1,
+     "whyTr": "Süregelen eylem ve şu anki sonuç: present perfect continuous.",
+     "tag": "present-perfect",
+     "level": "B1"
+    },
+    {
+     "type": "mcq",
+     "q": "I ___ dinner when the phone rang.",
+     "options": [
+      "cooked",
+      "have cooked",
+      "was cooking",
+      "cook"
+     ],
+     "answer": 2,
+     "whyTr": "Yemek pişirme sürerken telefon çaldı: past continuous + past simple.",
+     "tag": "past-continuous",
+     "level": "B1"
+    },
+    {
+     "type": "mcq",
+     "q": "When the fire alarm ___, the students were reading quietly.",
+     "options": [
+      "was ringing",
+      "has rung",
+      "rings",
+      "rang"
+     ],
+     "answer": 3,
+     "whyTr": "Kısa, araya giren olay past simple; uzun olay past continuous.",
+     "tag": "past-continuous",
+     "level": "B1"
+    },
+    {
+     "type": "mcq",
+     "q": "In Isparta, we ___ walk to the market every Saturday.",
+     "options": [
+      "used to",
+      "use to",
+      "were used to",
+      "are used to"
+     ],
+     "answer": 0,
+     "whyTr": "Geçmişteki alışkanlık için 'used to + fiil'.",
+     "tag": "past-simple",
+     "level": "B1"
+    },
+    {
+     "type": "mcq",
+     "q": "By the time I arrived, the interview ___.",
+     "options": [
+      "started",
+      "had started",
+      "has started",
+      "was starting"
+     ],
+     "answer": 1,
+     "whyTr": "Başka bir geçmiş olaydan önce olan: past perfect (had + V3).",
+     "tag": "past-perfect",
+     "level": "B1"
+    },
+    {
+     "type": "mcq",
+     "q": "She ___ the form before she gave it to Mr. Brown.",
+     "options": [
+      "was signing",
+      "signs",
+      "had signed",
+      "has signed"
+     ],
+     "answer": 2,
+     "whyTr": "Önce olan eylem past perfect: had signed.",
+     "tag": "past-perfect",
+     "level": "B1"
+    },
+    {
+     "type": "mcq",
+     "q": "I will call you as soon as I ___ to the school.",
+     "options": [
+      "will get",
+      "got",
+      "am getting",
+      "get"
+     ],
+     "answer": 3,
+     "whyTr": "As soon as ile gelecek zaman cümleciğinde geniş zaman kullanılır.",
+     "tag": "future",
+     "level": "B1"
+    },
+    {
+     "type": "mcq",
+     "q": "Take an umbrella. It ___ rain this afternoon.",
+     "options": [
+      "might",
+      "might to",
+      "mights",
+      "will to"
+     ],
+     "answer": 0,
+     "whyTr": "Olasılık için might + fiil yalın hali.",
+     "tag": "modals",
+     "level": "B1"
+    },
+    {
+     "type": "mcq",
+     "q": "He is wearing a suit, so he ___ have an interview today.",
+     "options": [
+      "can't",
+      "must",
+      "won't",
+      "shouldn't"
+     ],
+     "answer": 1,
+     "whyTr": "Güçlü çıkarım (büyük olasılıkla) için must kullanılır.",
+     "tag": "modals",
+     "level": "B1"
+    },
+    {
+     "type": "mcq",
+     "q": "That ___ be Mr. Brown's car. He drives a red truck, and this car is blue.",
+     "options": [
+      "must",
+      "has to",
+      "can't",
+      "may"
+     ],
+     "answer": 2,
+     "whyTr": "Neredeyse imkânsız olan çıkarım için can't kullanılır.",
+     "tag": "modals",
+     "level": "B1"
+    },
+    {
+     "type": "mcq",
+     "q": "You ___ see a doctor. That cough sounds serious.",
+     "options": [
+      "would better",
+      "had better to",
+      "better to",
+      "had better"
+     ],
+     "answer": 3,
+     "whyTr": "Güçlü tavsiye: had better + fiil yalın hali.",
+     "tag": "modals",
+     "level": "B1"
+    },
+    {
+     "type": "mcq",
+     "q": "You ___ arrive early for the interview. It makes a good impression.",
+     "options": [
+      "should",
+      "shoulds",
+      "must to",
+      "are"
+     ],
+     "answer": 0,
+     "whyTr": "Tavsiye için should + fiil.",
+     "tag": "modals",
+     "level": "A2"
+    },
+    {
+     "type": "mcq",
+     "q": "___ it was raining, we walked to school.",
+     "options": [
+      "However",
+      "Although",
+      "So",
+      "But"
+     ],
+     "answer": 1,
+     "whyTr": "Cümle başında zıtlık bağlacı: Although + özne + fiil.",
+     "tag": "linkers",
+     "level": "B1"
+    },
+    {
+     "type": "mcq",
+     "q": "The test was difficult. ___, everyone passed.",
+     "options": [
+      "Although",
+      "Because",
+      "However",
+      "Unless"
+     ],
+     "answer": 2,
+     "whyTr": "Ayrı cümleyi başlatan zıtlık sözü: However, ...",
+     "tag": "linkers",
+     "level": "B1"
+    },
+    {
+     "type": "mcq",
+     "q": "If I ___ a teacher, I would help every student.",
+     "options": [
+      "am",
+      "will be",
+      "would be",
+      "were"
+     ],
+     "answer": 3,
+     "whyTr": "Gerçek dışı durumda: If + geçmiş zaman (were), would + fiil.",
+     "tag": "conditionals",
+     "level": "B1"
+    },
+    {
+     "type": "mcq",
+     "q": "The woman ___ works at the front office is my friend.",
+     "options": [
+      "who",
+      "which",
+      "whose",
+      "where"
+     ],
+     "answer": 0,
+     "whyTr": "Kişiyi tanımlarken ilgi zamiri who kullanılır.",
+     "tag": "relative-clauses",
+     "level": "B1"
+    },
+    {
+     "type": "mcq",
+     "q": "Emre ___ his homework when I came home.",
+     "options": [
+      "does",
+      "was doing",
+      "has done",
+      "do"
+     ],
+     "answer": 1,
+     "whyTr": "Eve gelince devam eden eylem: past continuous.",
+     "tag": "past-continuous",
+     "level": "B1"
+    }
+   ]
+  },
+  {
+   "id": "vocab",
+   "titleTr": "Kelime",
+   "items": [
+    {
+     "type": "mcq",
+     "q": "What is the opposite of 'hire'?",
+     "options": [
+      "pay",
+      "train",
+      "fire",
+      "invite"
+     ],
+     "answer": 2,
+     "whyTr": "Hire (işe almak) kelimesinin zıttı fire (işten çıkarmak).",
+     "tag": "antonym",
+     "level": "B1"
+    },
+    {
+     "type": "mcq",
+     "q": "'She sent her application on Monday.' An application is:",
+     "options": [
+      "a kind of phone",
+      "a school lunch",
+      "a meeting room",
+      "a formal request for a job"
+     ],
+     "answer": 3,
+     "whyTr": "Application, iş başvurusudur.",
+     "tag": "vocab",
+     "level": "A2"
+    },
+    {
+     "type": "mcq",
+     "q": "'She is qualified for the job.' Qualified means:",
+     "options": [
+      "having the right skills or education",
+      "very tired",
+      "always late",
+      "new to the city"
+     ],
+     "answer": 0,
+     "whyTr": "Qualified, işe uygun nitelikte demektir.",
+     "tag": "vocab",
+     "level": "B1"
+    },
+    {
+     "type": "mcq",
+     "q": "'Please attach your resume.' A resume is:",
+     "options": [
+      "a phone number",
+      "a document about your work and education",
+      "a school rule",
+      "a medical form"
+     ],
+     "answer": 1,
+     "whyTr": "Resume, iş ve eğitim geçmişini anlatan belgedir.",
+     "tag": "vocab",
+     "level": "A2"
+    },
+    {
+     "type": "mcq",
+     "q": "I want to apply ___ a job at the library.",
+     "options": [
+      "to",
+      "at",
+      "for",
+      "with"
+     ],
+     "answer": 2,
+     "whyTr": "'Apply for a job' sabit kalıptır.",
+     "tag": "collocations",
+     "level": "A2"
+    },
+    {
+     "type": "mcq",
+     "q": "What is the opposite of 'permanent'?",
+     "options": [
+      "private",
+      "useful",
+      "nearby",
+      "temporary"
+     ],
+     "answer": 3,
+     "whyTr": "Permanent (kalıcı) kelimesinin zıttı temporary (geçici).",
+     "tag": "antonym",
+     "level": "B1"
+    },
+    {
+     "type": "mcq",
+     "q": "'The candidate was well prepared.' A candidate is:",
+     "options": [
+      "a person who applies for a job",
+      "a person who teaches",
+      "a person who cleans",
+      "a person who lends money"
+     ],
+     "answer": 0,
+     "whyTr": "Candidate, bir işe aday olan kişidir.",
+     "tag": "vocab",
+     "level": "B1"
+    },
+    {
+     "type": "mcq",
+     "q": "She can't ___ a decision yet.",
+     "options": [
+      "do",
+      "make",
+      "take",
+      "give"
+     ],
+     "answer": 1,
+     "whyTr": "'Make a decision' karar vermek demektir.",
+     "tag": "collocations",
+     "level": "A2"
+    },
+    {
+     "type": "mcq",
+     "q": "Which word means the same as 'huge'?",
+     "options": [
+      "tiny",
+      "simple",
+      "enormous",
+      "nearby"
+     ],
+     "answer": 2,
+     "whyTr": "Huge ve enormous: çok büyük.",
+     "tag": "synonym",
+     "level": "B1"
+    },
+    {
+     "type": "mcq",
+     "q": "'The bus broke down, so I was late.' Broke down means:",
+     "options": [
+      "was full",
+      "was clean",
+      "was cheap",
+      "stopped working"
+     ],
+     "answer": 3,
+     "whyTr": "Break down, bozulmak, çalışmaz hale gelmek demektir.",
+     "tag": "phrasal-verbs",
+     "level": "B1"
+    },
+    {
+     "type": "mcq",
+     "q": "'My schedule is flexible.' Flexible means:",
+     "options": [
+      "easy to change",
+      "very busy",
+      "very short",
+      "always the same"
+     ],
+     "answer": 0,
+     "whyTr": "Flexible, esnek ve kolay değişebilir demektir.",
+     "tag": "vocab",
+     "level": "B1"
+    },
+    {
+     "type": "mcq",
+     "q": "What is the opposite of 'strict'?",
+     "options": [
+      "serious",
+      "easygoing",
+      "polite",
+      "quiet"
+     ],
+     "answer": 1,
+     "whyTr": "Strict (katı) kelimesinin zıttı easygoing (rahat, hoşgörülü).",
+     "tag": "antonym",
+     "level": "B1"
+    }
+   ]
+  },
+  {
+   "id": "reading",
+   "titleTr": "Okuma",
+   "passages": [
+    {
+     "title": "Waiting for the call",
+     "level": "A2",
+     "text": "Hafsa applied for a job at Lincoln Elementary two weeks ago. Before she applied, she had asked Mr. Brown many questions. By the time she sent her application, she had updated her resume and had asked Ms. Carter for a reference letter.\n\nSince then, she has been waiting for a call. Every morning she checks her phone. Yesterday, it rang while she was cooking dinner. It was Mr. Brown. 'We would like to interview you on Thursday,' he said. Hafsa was so happy that she almost burned the rice!",
+     "questions": [
+      {
+       "type": "mcq",
+       "q": "When did Hafsa apply for the job?",
+       "options": [
+        "Yesterday",
+        "Two months ago",
+        "Two weeks ago",
+        "On Thursday"
+       ],
+       "answer": 2,
+       "whyTr": "Metinde: 'applied ... two weeks ago'.",
+       "tag": "reading",
+       "level": "A2"
+      },
+      {
+       "type": "mcq",
+       "q": "What had Hafsa done before she sent her application?",
+       "options": [
+        "She had met the principal.",
+        "She had started working at the school.",
+        "She had cooked dinner.",
+        "She had updated her resume and asked for a reference letter."
+       ],
+       "answer": 3,
+       "whyTr": "Metinde: 'she had updated her resume and had asked Ms. Carter for a reference letter'.",
+       "tag": "reading",
+       "level": "B1"
+      },
+      {
+       "type": "mcq",
+       "q": "What was Hafsa doing when Mr. Brown called?",
+       "options": [
+        "Cooking dinner",
+        "Reading a book",
+        "Checking her email",
+        "Talking to Linda"
+       ],
+       "answer": 0,
+       "whyTr": "Metinde: 'it rang while she was cooking dinner'.",
+       "tag": "reading",
+       "level": "B1"
+      }
+     ]
+    },
+    {
+     "title": "A strange morning at school",
+     "level": "B1",
+     "text": "One morning, Hafsa arrived at school at 7:30, but the front door was locked. That was strange, because Mr. Brown usually opens it at 7:00. She looked through the window and saw that the lights were on. 'Someone must be inside,' she thought.\n\nShe knocked, but nobody answered. Then she noticed a sign on the door: 'Closed today for staff training.' Hafsa remembered that she had not read the email from the day before.\n\nJust then, a teacher came out of the building. 'You can't be here to volunteer today,' she said with a smile. 'The school is closed to students and volunteers. But since you're here, would you like some coffee?' Hafsa felt a little embarrassed, but she accepted.",
+     "questions": [
+      {
+       "type": "mcq",
+       "q": "Why was the locked door strange?",
+       "options": [
+        "The school was never open.",
+        "Mr. Brown usually opens it at 7:00.",
+        "It was Saturday.",
+        "Hafsa had no key."
+       ],
+       "answer": 1,
+       "whyTr": "Metinde: 'Mr. Brown usually opens it at 7:00'.",
+       "tag": "reading",
+       "level": "B1"
+      },
+      {
+       "type": "mcq",
+       "q": "Why did Hafsa think someone was inside?",
+       "options": [
+        "She heard a voice.",
+        "She saw a teacher.",
+        "The lights were on.",
+        "Mr. Brown called her."
+       ],
+       "answer": 2,
+       "whyTr": "Metinde: 'saw that the lights were on'.",
+       "tag": "reading",
+       "level": "B1"
+      },
+      {
+       "type": "mcq",
+       "q": "Why was the school closed?",
+       "options": [
+        "It was a holiday.",
+        "There was a fire.",
+        "The students were sick.",
+        "There was staff training."
+       ],
+       "answer": 3,
+       "whyTr": "Kapıdaki not: 'Closed today for staff training.'",
+       "tag": "reading",
+       "level": "B1"
+      },
+      {
+       "type": "mcq",
+       "q": "Why did Hafsa feel embarrassed?",
+       "options": [
+        "She had not read the email about the closing.",
+        "She was late for work.",
+        "She forgot her badge.",
+        "She lost her phone."
+       ],
+       "answer": 0,
+       "whyTr": "Metinde: 'she had not read the email from the day before'.",
+       "tag": "reading",
+       "level": "B1"
+      }
+     ]
+    },
+    {
+     "title": "A thank-you email",
+     "level": "B1",
+     "text": "After her interview, Hafsa wrote an email to the principal, Dr. Lopez.\n\n'Dear Dr. Lopez,\n\nThank you for meeting with me on Thursday. Although I am new to American schools, I am a fast learner and I am very motivated. I have been volunteering at Lincoln Elementary for six months, and I have learned how the front office, the library and the classrooms work. However, I know that I still have a lot to learn about the district's rules, so I would like to take the substitute training course as soon as possible.\n\nI am available every day except Friday. If you need any other documents, please let me know.\n\nSincerely,\nHafsa'",
+     "questions": [
+      {
+       "type": "mcq",
+       "q": "Why did Hafsa write the email?",
+       "options": [
+        "To ask for a day off",
+        "To thank the principal for the interview",
+        "To cancel her application",
+        "To complain about the school"
+       ],
+       "answer": 1,
+       "whyTr": "Email 'Thank you for meeting with me' diye başlıyor.",
+       "tag": "reading",
+       "level": "B1"
+      },
+      {
+       "type": "mcq",
+       "q": "What has Hafsa been doing for six months?",
+       "options": [
+        "Teaching English",
+        "Working in a store",
+        "Volunteering at the school",
+        "Studying in Turkey"
+       ],
+       "answer": 2,
+       "whyTr": "Metinde: 'I have been volunteering at Lincoln Elementary for six months'.",
+       "tag": "reading",
+       "level": "B1"
+      },
+      {
+       "type": "mcq",
+       "q": "On which day is Hafsa NOT available?",
+       "options": [
+        "Monday",
+        "Thursday",
+        "Wednesday",
+        "Friday"
+       ],
+       "answer": 3,
+       "whyTr": "Metinde: 'every day except Friday'.",
+       "tag": "reading",
+       "level": "B1"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "listening",
+   "titleTr": "Dinleme",
+   "passages": [
+    {
+     "title": "A call about the application",
+     "level": "A2",
+     "script": [
+      {
+       "speaker": "Hafsa",
+       "text": "Hello, Mr. Brown. I'm calling about my application."
+      },
+      {
+       "speaker": "Mr. Brown",
+       "text": "Hi, Hafsa. I was just about to call you. The principal has read your resume, and she would like to meet you."
+      },
+      {
+       "speaker": "Hafsa",
+       "text": "That's wonderful! When?"
+      },
+      {
+       "speaker": "Mr. Brown",
+       "text": "Next Thursday at 10:00. When you arrive, come to the front office first."
+      },
+      {
+       "speaker": "Hafsa",
+       "text": "Should I bring anything?"
+      },
+      {
+       "speaker": "Mr. Brown",
+       "text": "Yes, bring your ID and two reference letters. I will have a visitor badge ready for you."
+      }
+     ],
+     "questions": [
+      {
+       "type": "mcq",
+       "q": "Why does Hafsa call?",
+       "options": [
+        "To ask about her application",
+        "To cancel a meeting",
+        "To ask for a day off",
+        "To report a problem"
+       ],
+       "answer": 0,
+       "whyTr": "Hafsa: 'I'm calling about my application.'",
+       "tag": "listening",
+       "level": "A2"
+      },
+      {
+       "type": "mcq",
+       "q": "When is the meeting?",
+       "options": [
+        "Next Friday at 10:00",
+        "Next Thursday at 10:00",
+        "This Thursday at 1:00",
+        "Next Monday at 9:00"
+       ],
+       "answer": 1,
+       "whyTr": "Mr. Brown: 'Next Thursday at 10:00.'",
+       "tag": "listening",
+       "level": "A2"
+      },
+      {
+       "type": "mcq",
+       "q": "What should Hafsa bring?",
+       "options": [
+        "Only her resume",
+        "A visitor badge",
+        "Her ID and two reference letters",
+        "A letter from Emre"
+       ],
+       "answer": 2,
+       "whyTr": "Mr. Brown: 'bring your ID and two reference letters'.",
+       "tag": "listening",
+       "level": "B1"
+      }
+     ]
+    },
+    {
+     "title": "Where is Emre?",
+     "level": "B1",
+     "script": [
+      {
+       "speaker": "Hafsa",
+       "text": "Linda, I can't find Emre's backpack anywhere."
+      },
+      {
+       "speaker": "Linda",
+       "text": "His bike is outside, so he must be at home."
+      },
+      {
+       "speaker": "Hafsa",
+       "text": "But he said he had soccer practice at four."
+      },
+      {
+       "speaker": "Linda",
+       "text": "Well, practice might be canceled today. It's raining hard."
+      },
+      {
+       "speaker": "Hafsa",
+       "text": "You're right. I will check my text messages. The coach may have sent a message."
+      },
+      {
+       "speaker": "Linda",
+       "text": "Good idea. And don't worry, he's a smart boy."
+      }
+     ],
+     "questions": [
+      {
+       "type": "mcq",
+       "q": "Why does Linda think Emre is at home?",
+       "options": [
+        "He called her.",
+        "His backpack is on the table.",
+        "She saw him at the door.",
+        "His bike is outside."
+       ],
+       "answer": 3,
+       "whyTr": "Linda: 'His bike is outside, so he must be at home.'",
+       "tag": "listening",
+       "level": "B1"
+      },
+      {
+       "type": "mcq",
+       "q": "Why might the soccer practice be canceled?",
+       "options": [
+        "It is raining hard.",
+        "The coach is sick.",
+        "It is a holiday.",
+        "Emre is sick."
+       ],
+       "answer": 0,
+       "whyTr": "Linda: 'practice might be canceled ... It's raining hard.'",
+       "tag": "listening",
+       "level": "B1"
+      },
+      {
+       "type": "mcq",
+       "q": "What will Hafsa do?",
+       "options": [
+        "Call the school",
+        "Check her text messages",
+        "Drive to the field",
+        "Go to bed"
+       ],
+       "answer": 1,
+       "whyTr": "Hafsa: 'I will check my text messages.'",
+       "tag": "listening",
+       "level": "B1"
+      }
+     ]
+    },
+    {
+     "title": "Advice before the interview",
+     "level": "B1",
+     "script": [
+      {
+       "speaker": "Linda",
+       "text": "Are you ready for your interview on Thursday?"
+      },
+      {
+       "speaker": "Hafsa",
+       "text": "I'm a little nervous, to be honest."
+      },
+      {
+       "speaker": "Linda",
+       "text": "You'll be fine. You should leave at eight. You had better not be late, because the traffic is bad on Thursdays."
+      },
+      {
+       "speaker": "Hafsa",
+       "text": "What should I wear?"
+      },
+      {
+       "speaker": "Linda",
+       "text": "Something professional. And you shouldn't wear too much perfume. Oh, and smile!"
+      }
+     ],
+     "questions": [
+      {
+       "type": "mcq",
+       "q": "Why should Hafsa leave at eight?",
+       "options": [
+        "The school opens at eight.",
+        "Linda needs the car.",
+        "The traffic is bad on Thursdays.",
+        "The interview is at eight."
+       ],
+       "answer": 2,
+       "whyTr": "Linda: 'the traffic is bad on Thursdays'.",
+       "tag": "listening",
+       "level": "B1"
+      },
+      {
+       "type": "mcq",
+       "q": "What shouldn't Hafsa do?",
+       "options": [
+        "Smile",
+        "Wear professional clothes",
+        "Leave early",
+        "Wear too much perfume"
+       ],
+       "answer": 3,
+       "whyTr": "Linda: 'you shouldn't wear too much perfume'.",
+       "tag": "listening",
+       "level": "B1"
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "writing": {
+  "promptTr": "Okul müdürü Dr. Lopez'e bir e-posta yaz. Substitute teacher olmak için başvurmak istiyorsun. Kendini tanıt, ne zamandır ABD'de yaşadığını ve hangi deneyimlerin olduğunu anlat. Kısa bir soru da sor.",
+  "promptEn": "Write an email to Dr. Lopez, the school principal. Say you would like to apply to be a substitute teacher. Tell her how long you have lived in the US and what experience you have. Ask one question.",
+  "minWords": 70,
+  "checklistTr": [
+   "Selamlama ve kapanış yazdım mı (Dear ... / Sincerely)?",
+   "'I have lived ... for / since ...' cümlesini doğru kurdum mu?",
+   "Geçmişteki deneyimi past simple ile anlattım mı (I taught...)?",
+   "Although veya however kullandım mı?",
+   "Kibar bir soru veya rica yazdım mı (Could you tell me ...?)?",
+   "Cümleler büyük harfle başlıyor ve nokta ile bitiyor mu?"
+  ],
+  "model": "Dear Dr. Lopez,\n\nMy name is Hafsa, and I would like to apply to be a substitute teacher. I have lived in Ohio for four years. In Turkey, I taught English to children for two years, and I have been volunteering at Lincoln Elementary since last spring. Although I am new to the American school system, I learn quickly and I am very patient. I am available every day except Fridays. Could you tell me what documents I need to bring?\n\nThank you for your time.\n\nSincerely,\nHafsa"
+ }
+}

@@ -1,0 +1,943 @@
+{
+ "week": 16,
+ "day": 6,
+ "titleTr": "Okuma stratejileri: ana fikir, çıkarım, bağlamdan tahmin",
+ "theme": "reading-strategies",
+ "morning": {
+  "grammar": {
+   "topic": "Reading strategies: main idea, inference, vocabulary in context",
+   "explainTr": [
+    "Sınav okumasında önce soruları oku, sonra metne geç. Böylece neyi aradığını bilirsin. Skimming (hızlı göz gezdirme) genel fikri verir; scanning (arama okuması) tarih, isim, sayı gibi belirli bilgiyi bulur.",
+    "Ana fikir çoğunlukla paragrafın ilk cümlesindedir; son cümle onu tekrarlayabilir. Çıkarım (inference) sorusunda cevap açıkça yazmaz; metindeki ipuçlarından en mantıklı sonucu seçersin. Bilinmeyen kelimede durma: önceki ve sonraki cümleye, ön eke/son eke bak.",
+    "Seçenekleri elerken metinde olmayanı, aşırıyı (always, never, only) ve konudan sapanı çıkar. İki seçenek kalırsa metne dön ve kanıt ara. Emin olamadığın soruyu boş bırakma: eleme yap ve en makul olanı işaretle."
+   ],
+   "compareTr": "Türkçede 'Ana fikir nedir?' sorusuna kendi cümlenle cevap verirsin; sınavda ise hazır seçenekler arasından metne en uygun olanı bulursun. Bu yüzden kelimesi kelimesine benzeyen seçenek değil, anlamı en iyi özetleyen seçenek doğrudur.",
+   "table": [
+    [
+     "Skimming",
+     "genel fikir için hızlı oku",
+     "başlık, ilk cümleler"
+    ],
+    [
+     "Scanning",
+     "belirli bilgiyi ara",
+     "tarih, isim, sayı"
+    ],
+    [
+     "Main idea",
+     "ilk/son cümle, tekrar eden fikir",
+     "topic sentence"
+    ],
+    [
+     "Inference",
+     "ipuçlarından sonuç çıkar",
+     "he looked at his watch → impatient"
+    ],
+    [
+     "Vocabulary in context",
+     "çevre cümleye ve kelime köküne bak",
+     "reluctant → not willing"
+    ],
+    [
+     "Eleme",
+     "yanlış, aşırı, konu dışı seçeneği çıkar",
+     "always, never, only"
+    ]
+   ],
+   "examples": [
+    {
+     "en": "He tapped his fingers on the desk, so he is impatient.",
+     "tr": "Parmaklarını masaya vurdu, demek ki sabırsız."
+    },
+    {
+     "en": "The main idea is usually in the first sentence.",
+     "tr": "Ana fikir çoğunlukla ilk cümlededir."
+    },
+    {
+     "en": "She was reluctant to speak, so she stayed silent.",
+     "tr": "Konuşmak istemediği için sessiz kaldı."
+    },
+    {
+     "en": "Scan the text to find the date.",
+     "tr": "Tarihi bulmak için metne göz gezdir."
+    },
+    {
+     "en": "Cross out the options that are clearly wrong.",
+     "tr": "Açıkça yanlış olan seçenekleri ele."
+    }
+   ],
+   "exercises": [
+    {
+     "type": "mcq",
+     "q": "Which sentence usually states the main idea of a paragraph?",
+     "options": [
+      "The topic sentence, often the first one",
+      "A detail in the middle",
+      "The last example",
+      "Any sentence with a number"
+     ],
+     "answer": 0,
+     "whyTr": "Ana fikir çoğunlukla ilk cümlede (topic sentence) bulunur.",
+     "tag": "reading",
+     "level": "B2"
+    },
+    {
+     "type": "mcq",
+     "q": "Mr. Brown checked his watch for the third time. He tapped his fingers on the desk and looked toward the door.\n\nWhat can you infer?",
+     "options": [
+      "He is angry at his watch",
+      "He is tired of work",
+      "He has just started his job",
+      "He is waiting impatiently"
+     ],
+     "answer": 3,
+     "whyTr": "Saate bakma, parmak vurma ve kapıya bakma sabırsızlık ipucudur.",
+     "tag": "reading",
+     "level": "B2"
+    },
+    {
+     "type": "mcq",
+     "q": "The substitute was reluctant to speak in front of the whole school, so she asked a colleague to introduce her.\n\nWhat does \"reluctant\" most likely mean?",
+     "options": [
+      "Eager",
+      "Able",
+      "Unwilling",
+      "Allowed"
+     ],
+     "answer": 2,
+     "whyTr": "Bağlam: başkasından tanıtmasını istedi, yani konuşmak istemedi.",
+     "tag": "reading",
+     "level": "B2"
+    },
+    {
+     "type": "mcq",
+     "q": "Many schools now offer after-school clubs. Chess club helps students think strategically. Art club builds creativity. Even a simple reading club can make shy students more confident.\n\nWhat is the main idea?",
+     "options": [
+      "Chess is the best club",
+      "After-school clubs help students in different ways",
+      "Shy students dislike clubs",
+      "Art is more important than reading"
+     ],
+     "answer": 1,
+     "whyTr": "Tüm cümleler kulüplerin farklı faydalarını anlatır.",
+     "tag": "reading",
+     "level": "B2"
+    },
+    {
+     "type": "mcq",
+     "q": "By the time the bell rang, Hafsa ___ the whole lesson.",
+     "options": [
+      "was finishing",
+      "had finished",
+      "finishes",
+      "will finish"
+     ],
+     "answer": 1,
+     "whyTr": "Zilden önce biten iş: past perfect.",
+     "tag": "past-perfect",
+     "level": "B2"
+    },
+    {
+     "type": "mcq",
+     "q": "If the sub plan ___ unclear, ask the office.",
+     "options": [
+      "is",
+      "will be",
+      "would be",
+      "was being"
+     ],
+     "answer": 0,
+     "whyTr": "Genel talimat: if + present simple.",
+     "tag": "conditionals",
+     "level": "B2"
+    },
+    {
+     "type": "mcq",
+     "q": "The answer ___ in the second paragraph.",
+     "options": [
+      "can find",
+      "can be find",
+      "finds",
+      "can be found"
+     ],
+     "answer": 3,
+     "whyTr": "Modal pasif: can be + V3.",
+     "tag": "passive",
+     "level": "B2"
+    },
+    {
+     "type": "mcq",
+     "q": "The writer thinks schools ___ start later in the morning.",
+     "options": [
+      "ought",
+      "need",
+      "should",
+      "have"
+     ],
+     "answer": 2,
+     "whyTr": "Görüş/tavsiye: should + yalın fiil (ought to olmalıydı).",
+     "tag": "modals",
+     "level": "B2"
+    },
+    {
+     "type": "order",
+     "promptTr": "Cümleyi sırala:",
+     "words": [
+      "The",
+      "author's",
+      "attitude",
+      "toward",
+      "homework",
+      "is",
+      "negative"
+     ],
+     "answer": "The author's attitude toward homework is negative",
+     "whyTr": "İsim cümlesi: özne + is + sıfat.",
+     "tag": "reading",
+     "level": "B2"
+    },
+    {
+     "type": "mcq",
+     "q": "To find a specific date quickly in a long text, you should ___.",
+     "options": [
+      "translate every word",
+      "read slowly twice",
+      "scan the text",
+      "skip the questions"
+     ],
+     "answer": 2,
+     "whyTr": "Belirli bilgi için scanning (göz gezdirme) yapılır.",
+     "tag": "reading",
+     "level": "B2"
+    },
+    {
+     "type": "fill",
+     "q": "Look at the words around an unknown word to guess its meaning from the ___.",
+     "accept": [
+      "context"
+     ],
+     "hintTr": "bağlam",
+     "whyTr": "Bilinmeyen kelime çevresindeki ipuçlarıyla (context) tahmin edilir.",
+     "tag": "reading",
+     "level": "B2"
+    },
+    {
+     "type": "fill",
+     "q": "The word \"unhappy\" has the prefix ___.",
+     "accept": [
+      "un",
+      "un-"
+     ],
+     "hintTr": "ön ek",
+     "whyTr": "Un- zıt anlam verir: unhappy.",
+     "tag": "word-formation",
+     "level": "B2"
+    }
+   ]
+  },
+  "vocab": [
+   {
+    "id": "infer",
+    "en": "infer",
+    "tr": "çıkarım yapmak",
+    "pos": "verb",
+    "example": "From his smile, I inferred that the meeting went well.",
+    "exampleTr": "Gülümsemesinden toplantının iyi geçtiği sonucunu çıkardım.",
+    "syn": [
+     "deduce"
+    ],
+    "ant": [],
+    "level": "B2"
+   },
+   {
+    "id": "imply",
+    "en": "imply",
+    "tr": "ima etmek",
+    "pos": "verb",
+    "example": "The note implies that the class was too noisy.",
+    "exampleTr": "Not, sınıfın çok gürültülü olduğunu ima ediyor.",
+    "syn": [
+     "suggest"
+    ],
+    "ant": [],
+    "level": "B2"
+   },
+   {
+    "id": "contrast",
+    "en": "contrast",
+    "tr": "zıtlık; karşılaştırmak",
+    "pos": "noun",
+    "example": "The contrast between the two classes was clear.",
+    "exampleTr": "İki sınıf arasındaki zıtlık açıktı.",
+    "syn": [
+     "difference"
+    ],
+    "ant": [
+     "similarity"
+    ],
+    "level": "B2"
+   },
+   {
+    "id": "emphasize",
+    "en": "emphasize",
+    "tr": "vurgulamak",
+    "pos": "verb",
+    "example": "The principal emphasized the importance of safety.",
+    "exampleTr": "Müdür güvenliğin önemini vurguladı.",
+    "syn": [
+     "stress"
+    ],
+    "ant": [
+     "downplay"
+    ],
+    "level": "B2"
+   },
+   {
+    "id": "indicate",
+    "en": "indicate",
+    "tr": "göstermek, işaret etmek",
+    "pos": "verb",
+    "example": "The results indicate that she is improving.",
+    "exampleTr": "Sonuçlar onun ilerlediğini gösteriyor.",
+    "syn": [
+     "show"
+    ],
+    "ant": [],
+    "level": "B2"
+   },
+   {
+    "id": "illustrate",
+    "en": "illustrate",
+    "tr": "örneklerle açıklamak",
+    "pos": "verb",
+    "example": "This story illustrates the value of patience.",
+    "exampleTr": "Bu hikâye sabrın değerini örneklerle gösteriyor.",
+    "syn": [
+     "demonstrate"
+    ],
+    "ant": [],
+    "level": "B2"
+   },
+   {
+    "id": "assume",
+    "en": "assume",
+    "tr": "varsaymak",
+    "pos": "verb",
+    "example": "Don't assume that every student understands.",
+    "exampleTr": "Her öğrencinin anladığını varsayma.",
+    "syn": [
+     "suppose"
+    ],
+    "ant": [],
+    "level": "B2"
+   },
+   {
+    "id": "attitude",
+    "en": "attitude",
+    "tr": "tutum, bakış açısı",
+    "pos": "noun",
+    "example": "A positive attitude helps in a new job.",
+    "exampleTr": "Olumlu bir tutum yeni işte yardımcı olur.",
+    "syn": [
+     "outlook"
+    ],
+    "ant": [],
+    "level": "B2"
+   },
+   {
+    "id": "reveal",
+    "en": "reveal",
+    "tr": "ortaya çıkarmak",
+    "pos": "verb",
+    "example": "The test results revealed a problem with spelling.",
+    "exampleTr": "Test sonuçları yazımda bir sorun olduğunu ortaya çıkardı.",
+    "syn": [
+     "show"
+    ],
+    "ant": [
+     "hide"
+    ],
+    "level": "B2"
+   },
+   {
+    "id": "significant",
+    "en": "significant",
+    "tr": "önemli, kayda değer",
+    "pos": "adjective",
+    "example": "There was a significant improvement in her grades.",
+    "exampleTr": "Notlarında kayda değer bir iyileşme oldu.",
+    "syn": [
+     "important"
+    ],
+    "ant": [
+     "minor"
+    ],
+    "level": "B2"
+   },
+   {
+    "id": "ultimately",
+    "en": "ultimately",
+    "tr": "sonuçta, nihayetinde",
+    "pos": "adverb",
+    "example": "Ultimately, the decision belongs to the principal.",
+    "exampleTr": "Nihayetinde karar müdüre ait.",
+    "syn": [
+     "finally"
+    ],
+    "ant": [],
+    "level": "B2"
+   },
+   {
+    "id": "primarily",
+    "en": "primarily",
+    "tr": "öncelikle, esas olarak",
+    "pos": "adverb",
+    "example": "The school primarily serves families from the neighborhood.",
+    "exampleTr": "Okul esas olarak mahalledeki ailelere hizmet verir.",
+    "syn": [
+     "mainly"
+    ],
+    "ant": [],
+    "level": "B2"
+   },
+   {
+    "id": "perspective",
+    "en": "perspective",
+    "tr": "bakış açısı",
+    "pos": "noun",
+    "example": "Try to see the problem from the student's perspective.",
+    "exampleTr": "Sorunu öğrencinin bakış açısından görmeye çalış.",
+    "syn": [
+     "viewpoint"
+    ],
+    "ant": [],
+    "level": "B2"
+   },
+   {
+    "id": "overview",
+    "en": "overview",
+    "tr": "genel bakış, özet",
+    "pos": "noun",
+    "example": "The handbook gives a short overview of school rules.",
+    "exampleTr": "El kitabı okul kurallarına kısa bir genel bakış sunar.",
+    "syn": [
+     "summary"
+    ],
+    "ant": [],
+    "level": "B2"
+   },
+   {
+    "id": "passage",
+    "en": "passage",
+    "tr": "parça, metin bölümü",
+    "pos": "noun",
+    "example": "Read the passage and answer the questions.",
+    "exampleTr": "Parçayı oku ve soruları cevapla.",
+    "syn": [
+     "excerpt"
+    ],
+    "ant": [],
+    "level": "B2"
+   }
+  ],
+  "reading": {
+   "title": "The quiet power of substitute teachers",
+   "text": "Every day in the United States, thousands of classrooms are led by substitute teachers. Many people assume that a substitute only babysits students until the regular teacher returns. However, research suggests that the quality of a substitute's day can have a significant effect on learning.\n\nAccording to a recent district report, students who have a well-prepared substitute lose far less learning time than students whose substitute feels lost. The report does not blame the substitutes. Instead, it points out that the best days happen when three things come together: clear sub plans, helpful colleagues, and a substitute who is willing to ask questions.\n\nTake the example of a sixth-grade class in Ohio. When their teacher was sick, a substitute named Mr. Ortiz arrived twenty minutes early. He read the plan, introduced himself to the teacher next door, and wrote the schedule on the board. He also put a small box of pencils and extra paper on the desk, just in case. By nine o'clock, the students knew exactly what to expect. At the end of the day, he left a detailed note describing what each group had finished. The regular teacher later said that she could continue the lesson the next morning without losing a single day.\n\nOf course, the job is not always easy. Substitutes often enter unfamiliar rooms, meet students who test their patience, and must adapt quickly. Some districts now offer short training courses and mentors to new substitutes. Those programs, the report concludes, are cheap compared with the benefits. Schools that invest in them see fewer discipline problems and happier staff.\n\nUltimately, the report invites readers to change their perspective. A substitute is not an emergency solution; he or she is a member of the school team. When schools treat substitutes as professionals, substitutes respond with professional work, and students are the ones who gain the most.",
+   "glossary": [
+    {
+     "en": "babysit",
+     "tr": "çocuğa bakmak (sadece gözetmek)"
+    },
+    {
+     "en": "point out",
+     "tr": "dikkat çekmek"
+    },
+    {
+     "en": "invest in",
+     "tr": "yatırım yapmak"
+    },
+    {
+     "en": "mentor",
+     "tr": "akıl hocası, rehber"
+    },
+    {
+     "en": "emergency solution",
+     "tr": "acil çözüm"
+    }
+   ],
+   "questions": [
+    {
+     "type": "mcq",
+     "q": "What is the main idea of the passage?",
+     "options": [
+      "Substitutes should replace regular teachers",
+      "Substitutes can make a real difference when schools support them",
+      "Students learn nothing on substitute days",
+      "Training courses are expensive"
+     ],
+     "answer": 1,
+     "whyTr": "Metin boyunca destekli vekil öğretmenin öğrenmeyi koruduğu anlatılır.",
+     "tag": "reading",
+     "level": "B2"
+    },
+    {
+     "type": "mcq",
+     "q": "In the first paragraph, \"assume\" most likely means ___.",
+     "options": [
+      "suppose without checking",
+      "prove with facts",
+      "forget completely",
+      "deny strongly"
+     ],
+     "answer": 0,
+     "whyTr": "Bağlam: 'Many people assume ... only babysits' = kontrol etmeden sanmak.",
+     "tag": "reading",
+     "level": "B2"
+    },
+    {
+     "type": "mcq",
+     "q": "Why does the writer mention Mr. Ortiz?",
+     "options": [
+      "To criticize the district",
+      "To explain how to become a substitute",
+      "To compare two schools",
+      "To show how preparation helps learning"
+     ],
+     "answer": 3,
+     "whyTr": "Ortiz örneği hazırlıklı vekilin faydasını gösterir.",
+     "tag": "reading",
+     "level": "B2"
+    },
+    {
+     "type": "mcq",
+     "q": "What is the writer's attitude toward substitutes?",
+     "options": [
+      "Doubtful",
+      "Indifferent",
+      "Humorous",
+      "Respectful"
+     ],
+     "answer": 3,
+     "whyTr": "Son paragraf: 'a member of the school team ... professionals'.",
+     "tag": "reading",
+     "level": "B2"
+    }
+   ]
+  }
+ },
+ "evening": {
+  "listening": {
+   "title": "Test tips from Emre",
+   "script": [
+    {
+     "speaker": "Emre",
+     "text": "Mom, try this practice passage. First, read the questions before you read the text."
+    },
+    {
+     "speaker": "Hafsa",
+     "text": "Before the text? That feels strange."
+    },
+    {
+     "speaker": "Emre",
+     "text": "It helps. Then you know what to look for."
+    },
+    {
+     "speaker": "Hafsa",
+     "text": "What if I meet a word I don't know?"
+    },
+    {
+     "speaker": "Emre",
+     "text": "Don't stop. Look at the sentence around it. If the text says, \"She was reluctant to talk, so she stayed silent,\" what does reluctant mean?"
+    },
+    {
+     "speaker": "Hafsa",
+     "text": "Probably \"not willing.\""
+    },
+    {
+     "speaker": "Emre",
+     "text": "Exactly! For the main idea, look at the first sentence of each paragraph. The last sentence often repeats it."
+    },
+    {
+     "speaker": "Hafsa",
+     "text": "And inference questions?"
+    },
+    {
+     "speaker": "Emre",
+     "text": "The answer isn't written directly. The text gives clues, and you choose the most logical idea."
+    },
+    {
+     "speaker": "Hafsa",
+     "text": "I will practice every day this week."
+    },
+    {
+     "speaker": "Emre",
+     "text": "One more tip. On test day, if you can't decide, cross out the options that are clearly wrong."
+    },
+    {
+     "speaker": "Hafsa",
+     "text": "Thank you, Emre. I feel much more ready now."
+    }
+   ],
+   "questions": [
+    {
+     "type": "mcq",
+     "q": "What should Hafsa read first?",
+     "options": [
+      "The last paragraph",
+      "The title only",
+      "The questions",
+      "The answers"
+     ],
+     "answer": 2,
+     "whyTr": "'read the questions before you read the text'.",
+     "tag": "listening",
+     "level": "B2"
+    },
+    {
+     "type": "mcq",
+     "q": "What should she do with an unknown word?",
+     "options": [
+      "Skip the passage",
+      "Use the sentence around it",
+      "Ask a neighbor",
+      "Stop and open a dictionary"
+     ],
+     "answer": 1,
+     "whyTr": "'Look at the sentence around it.'",
+     "tag": "listening",
+     "level": "B2"
+    },
+    {
+     "type": "mcq",
+     "q": "Where is the main idea usually found?",
+     "options": [
+      "In the first sentence of a paragraph",
+      "In the title only",
+      "In the middle of the text",
+      "In the questions"
+     ],
+     "answer": 0,
+     "whyTr": "'look at the first sentence of each paragraph'.",
+     "tag": "listening",
+     "level": "B2"
+    },
+    {
+     "type": "mcq",
+     "q": "What is Emre's tip if she can't decide?",
+     "options": [
+      "Cross out clearly wrong options",
+      "Guess the first option",
+      "Leave it empty",
+      "Choose the longest option"
+     ],
+     "answer": 0,
+     "whyTr": "'cross out the options that are clearly wrong'.",
+     "tag": "listening",
+     "level": "B2"
+    }
+   ]
+  },
+  "writing": {
+   "promptTr": "Test gününden önce kendine bir mektup yaz (120-180 kelime): 16 haftada neler öğrendin, hangi konular sana zor geldi ve sınav gününde hangi stratejileri kullanacaksın? Farklı zamanları ve modalleri kullan.",
+   "promptEn": "Write a letter to yourself before the test (120-180 words). Say what you have learned in sixteen weeks, what was difficult, and which strategies you will use on test day.",
+   "frames": [
+    "Dear Hafsa,",
+    "In the last sixteen weeks, I have ...",
+    "When I started, I couldn't ... but now I can ...",
+    "The most difficult topic was ...",
+    "On test day, I will ...",
+    "If I feel nervous, I should ..."
+   ],
+   "model": "Dear Hafsa,\n\nIn the last sixteen weeks, you have learned more than you expected. When you started, you couldn't read a school email without a dictionary, but now you can understand most of it. You have studied tenses, conditionals, the passive, reported speech, and modal verbs, and you have also learned many new words for school and work.\n\nThe most difficult topic was probably conditionals, because Turkish does not use the same pattern. If you had not practiced every day, you would not have improved so much.\n\nOn test day, you will read the questions first, and then you will look for the main idea in each paragraph. If you meet a new word, you should guess the meaning from the context. If you feel nervous, take a deep breath. You must not panic, and you don't have to answer every question perfectly.\n\nRemember your goal: one day you will stand in front of a class as a teacher. This test is only one step. Good luck!\n\nWith love,\nHafsa",
+   "checklistTr": [
+    "Present perfect (have learned) ve past simple'ı doğru kullandın mı?",
+    "En az bir koşul cümlen ve bir modal (should, must, don't have to) var mı?",
+    "Test stratejilerinden en az ikisini yazdın mı?",
+    "Mektup biçimi (Dear ... / imza) var mı?"
+   ],
+   "minWords": 120
+  },
+  "examSet": [
+   {
+    "type": "mcq",
+    "q": "I ___ English for sixteen weeks.",
+    "options": [
+     "study",
+     "studied",
+     "am studying",
+     "have studied"
+    ],
+    "answer": 3,
+    "whyTr": "For + süre, hâlâ süren çalışma: present perfect.",
+    "tag": "present-perfect",
+    "level": "B2"
+   },
+   {
+    "type": "mcq",
+    "q": "She realized she ___ the answer sheet at home.",
+    "options": [
+     "has left",
+     "leaves",
+     "had left",
+     "was leaving"
+    ],
+    "answer": 2,
+    "whyTr": "Fark etmeden önce olan iş: past perfect.",
+    "tag": "past-perfect",
+    "level": "B2"
+   },
+   {
+    "type": "mcq",
+    "q": "I promise I ___ you as soon as I get the results.",
+    "options": [
+     "called",
+     "will call",
+     "have called",
+     "calling"
+    ],
+    "answer": 1,
+    "whyTr": "Söz/gelecek: will + yalın fiil.",
+    "tag": "future",
+    "level": "B2"
+   },
+   {
+    "type": "mcq",
+    "q": "If I ___ the sub plan, I would have known what to do.",
+    "options": [
+     "read",
+     "had read",
+     "would read",
+     "have read"
+    ],
+    "answer": 1,
+    "whyTr": "Type 3: if + past perfect.",
+    "tag": "conditionals",
+    "level": "B2"
+   },
+   {
+    "type": "mcq",
+    "q": "I wish I ___ more time to prepare for the test.",
+    "options": [
+     "had",
+     "have",
+     "would have",
+     "will have"
+    ],
+    "answer": 0,
+    "whyTr": "Şimdiki pişmanlık: wish + past.",
+    "tag": "conditionals",
+    "level": "B2"
+   },
+   {
+    "type": "mcq",
+    "q": "The results ___ by email next week.",
+    "options": [
+     "will send",
+     "are sending",
+     "sent",
+     "will be sent"
+    ],
+    "answer": 3,
+    "whyTr": "Gelecek pasif: will be + V3.",
+    "tag": "passive",
+    "level": "B2"
+   },
+   {
+    "type": "mcq",
+    "q": "\"Where is the exam room?\" she asked. → She asked where the exam room ___.",
+    "options": [
+     "is it",
+     "was it",
+     "was",
+     "did be"
+    ],
+    "answer": 2,
+    "whyTr": "Soru aktarımında düz sıra ve geçmişe kayma: was.",
+    "tag": "reported-speech",
+    "level": "B2"
+   },
+   {
+    "type": "mcq",
+    "q": "He ___ be at school; his car isn't in the lot.",
+    "options": [
+     "must",
+     "should",
+     "can't",
+     "needn't"
+    ],
+    "answer": 2,
+    "whyTr": "Güçlü olumsuz çıkarım: can't be.",
+    "tag": "modals",
+    "level": "B2"
+   },
+   {
+    "type": "mcq",
+    "q": "When the name \"Hafsa Odabasi\" was called, she stood up slowly. Her hands were shaking, but she took a deep breath and smiled.\n\nHow did she feel?",
+    "options": [
+     "Bored and tired",
+     "Nervous but determined",
+     "Angry and loud",
+     "Relaxed and careless"
+    ],
+    "answer": 1,
+    "whyTr": "Titreyen eller = gergin; derin nefes ve gülümseme = kararlı.",
+    "tag": "reading",
+    "level": "B2"
+   },
+   {
+    "type": "mcq",
+    "q": "Which word is closest in meaning to \"emphasize\"?",
+    "options": [
+     "stress",
+     "hide",
+     "repeat",
+     "delay"
+    ],
+    "answer": 0,
+    "whyTr": "Emphasize = stress (vurgulamak).",
+    "tag": "synonym",
+    "level": "B2"
+   },
+   {
+    "type": "mcq",
+    "q": "Which word is closest in meaning to \"assume\"?",
+    "options": [
+     "prove",
+     "forget",
+     "deny",
+     "suppose"
+    ],
+    "answer": 3,
+    "whyTr": "Assume = suppose.",
+    "tag": "synonym",
+    "level": "B2"
+   },
+   {
+    "type": "mcq",
+    "q": "What is the opposite of \"reveal\"?",
+    "options": [
+     "show",
+     "explain",
+     "announce",
+     "hide"
+    ],
+    "answer": 3,
+    "whyTr": "Reveal (ortaya çıkarmak) ↔ hide (saklamak).",
+    "tag": "antonym",
+    "level": "B2"
+   },
+   {
+    "type": "mcq",
+    "q": "What is the opposite of \"significant\"?",
+    "options": [
+     "huge",
+     "vital",
+     "minor",
+     "serious"
+    ],
+    "answer": 2,
+    "whyTr": "Significant (önemli) ↔ minor (önemsiz).",
+    "tag": "antonym",
+    "level": "B2"
+   },
+   {
+    "type": "mcq",
+    "q": "The ___ of the test surprised everyone.",
+    "options": [
+     "difficult",
+     "difficulty",
+     "difficultly",
+     "difficulted"
+    ],
+    "answer": 1,
+    "whyTr": "The'den sonra isim gerekir: difficulty.",
+    "tag": "word-formation",
+    "level": "B2"
+   },
+   {
+    "type": "mcq",
+    "q": "From the evidence, we can ___ a conclusion.",
+    "options": [
+     "draw",
+     "do",
+     "say",
+     "put"
+    ],
+    "answer": 0,
+    "whyTr": "Kalıp: draw a conclusion.",
+    "tag": "collocations",
+    "level": "B2"
+   },
+   {
+    "type": "mcq",
+    "q": "Can you ___ the main points of the article?",
+    "options": [
+     "sum up",
+     "sum in",
+     "sum on",
+     "sum by"
+    ],
+    "answer": 0,
+    "whyTr": "sum up = özetlemek.",
+    "tag": "phrasal-verbs",
+    "level": "B2"
+   },
+   {
+    "type": "mcq",
+    "q": "The exam starts ___ 9 a.m.",
+    "options": [
+     "on",
+     "in",
+     "for",
+     "at"
+    ],
+    "answer": 3,
+    "whyTr": "Saatlerle 'at' kullanılır.",
+    "tag": "prepositions-time",
+    "level": "B2"
+   },
+   {
+    "type": "mcq",
+    "q": "This is the book ___ I told you about.",
+    "options": [
+     "who",
+     "whose",
+     "that",
+     "where"
+    ],
+    "answer": 2,
+    "whyTr": "Nesne için ilgi zamiri: that / which.",
+    "tag": "relative-clauses",
+    "level": "B2"
+   },
+   {
+    "type": "mcq",
+    "q": "The note on the door said, \"Back in ten minutes.\" Forty minutes later, the door was still locked, and a line of parents had formed in the hallway.\n\nWhat can you infer?",
+    "options": [
+     "The office closed for the year",
+     "The person was away longer than promised",
+     "The parents arrived early",
+     "The note was written by parents"
+    ],
+    "answer": 1,
+    "whyTr": "Not on dakika dedi ama kırk dakika sonra hâlâ kilitli.",
+    "tag": "reading",
+    "level": "B2"
+   },
+   {
+    "type": "mcq",
+    "q": "Reading the questions first saves time because it tells you what to look for. Skimming shows the general idea, and scanning finds specific details. Good readers use both.\n\nWhat is the main idea?",
+    "options": [
+     "Skimming is useless",
+     "Using different reading strategies helps readers work better",
+     "Questions should be ignored",
+     "Good readers always read slowly"
+    ],
+    "answer": 1,
+    "whyTr": "Metin farklı okuma stratejilerinin birlikte kullanılmasını anlatır.",
+    "tag": "reading",
+    "level": "B2"
+   }
+  ]
+ }
+}

@@ -1,0 +1,921 @@
+{
+ "week": 12,
+ "day": 6,
+ "titleTr": "Okul işleri: modal edilgen ve have/get something done",
+ "theme": "school-repairs",
+ "morning": {
+  "grammar": {
+   "topic": "Modal passive and have / get something done",
+   "explainTr": [
+    "Modal edilgen: modal + be + V3. The roof must be repaired. (Çatı tamir edilmeli.) The projector can be fixed. (Projektör tamir edilebilir.) Yasak ve olasılık da aynı kalıpla verilir: Phones must not be used. The gym might be closed.",
+    "Have / get something done, işi başkasına yaptırmak demektir: I had my phone repaired. (Telefonumu tamir ettirdim.) The school gets the carpets cleaned every summer. 'Get' daha günlük konuşma dilidir. Kalıp: have/get + nesne + V3.",
+    "Aynı kalıp kötü olaylar için de kullanılır: She had her bag stolen. (Çantası çalındı.) Burada kişi işi yaptırmamıştır, başına gelmiştir; bağlamdan anlarsın."
+   ],
+   "compareTr": "Türkçede 'yaptırmak' fiile eklenir (tamir ettirdim). İngilizcede ek yoktur: have + nesne + V3. 'Saçımı kestirdim' = I had my hair cut.",
+   "table": [
+    [
+     "Modal edilgen",
+     "modal + be + V3",
+     "It must be fixed."
+    ],
+    [
+     "Yasak",
+     "must not be + V3",
+     "Phones must not be used."
+    ],
+    [
+     "Yaptırmak (şimdi)",
+     "have/get + nesne + V3",
+     "I have my car washed monthly."
+    ],
+    [
+     "Yaptırmak (geçmiş)",
+     "had/got + nesne + V3",
+     "She had the roof repaired."
+    ]
+   ],
+   "examples": [
+    {
+     "en": "The leak must be fixed immediately.",
+     "tr": "Sızıntı hemen onarılmalı."
+    },
+    {
+     "en": "The projector can be repaired.",
+     "tr": "Projektör tamir edilebilir."
+    },
+    {
+     "en": "The school had the carpets cleaned last summer.",
+     "tr": "Okul geçen yaz halıları temizlettirdi."
+    },
+    {
+     "en": "We need to get the window fixed.",
+     "tr": "Pencereyi tamir ettirmemiz gerekiyor."
+    }
+   ],
+   "exercises": [
+    {
+     "type": "mcq",
+     "q": "The leak in the ceiling ___ immediately.",
+     "options": [
+      "must fix",
+      "must fixed",
+      "must be fixed",
+      "must be fix"
+     ],
+     "answer": 2,
+     "whyTr": "Modal edilgen: modal + be + V3.",
+     "tag": "modals",
+     "level": "B2"
+    },
+    {
+     "type": "mcq",
+     "q": "Phones ___ during the test.",
+     "options": [
+      "must not be used",
+      "must not use",
+      "not must be used",
+      "must be not use"
+     ],
+     "answer": 0,
+     "whyTr": "Yasak edilgen: must not be + V3.",
+     "tag": "modals",
+     "level": "B2"
+    },
+    {
+     "type": "order",
+     "promptTr": "Cümleyi sırala:",
+     "words": [
+      "Friday",
+      "returned",
+      "The",
+      "by",
+      "should",
+      "be",
+      "forms"
+     ],
+     "answer": "The forms should be returned by Friday",
+     "whyTr": "Modal edilgen: should be + V3.",
+     "tag": "modals",
+     "level": "B2"
+    },
+    {
+     "type": "mcq",
+     "q": "The school ___ the carpets cleaned every summer.",
+     "options": [
+      "has",
+      "does",
+      "makes",
+      "is"
+     ],
+     "answer": 0,
+     "whyTr": "Yaptırmak: have + nesne + V3.",
+     "tag": "present-simple",
+     "level": "B2"
+    },
+    {
+     "type": "mcq",
+     "q": "We need to ___ the projector fixed before Monday.",
+     "options": [
+      "do",
+      "get",
+      "make",
+      "put"
+     ],
+     "answer": 1,
+     "whyTr": "Yaptırmak: get + nesne + V3.",
+     "tag": "modals",
+     "level": "B2"
+    },
+    {
+     "type": "order",
+     "promptTr": "Cümleyi sırala:",
+     "words": [
+      "repaired",
+      "window",
+      "had",
+      "the",
+      "broken",
+      "The",
+      "principal"
+     ],
+     "answer": "The principal had the broken window repaired",
+     "whyTr": "Yaptırmak: had + nesne + V3.",
+     "tag": "past-simple",
+     "level": "B2"
+    },
+    {
+     "type": "mcq",
+     "q": "Hafsa ___ her phone stolen on the bus last week.",
+     "options": [
+      "has",
+      "had",
+      "was",
+      "made"
+     ],
+     "answer": 1,
+     "whyTr": "Başına gelen olay: had + nesne + V3.",
+     "tag": "past-simple",
+     "level": "B2"
+    },
+    {
+     "type": "fill",
+     "q": "The roof needs to be ___ before winter. (repair)",
+     "accept": [
+      "repaired"
+     ],
+     "hintTr": "repair → V3",
+     "whyTr": "Be'den sonra V3 gelir: repaired.",
+     "tag": "modals",
+     "level": "B2"
+    },
+    {
+     "type": "mcq",
+     "q": "The decision hasn't been made yet. The gym ___ closed in March, but we don't know.",
+     "options": [
+      "will be",
+      "is",
+      "has",
+      "might be"
+     ],
+     "answer": 3,
+     "whyTr": "Belirsiz olasılık: might be + V3.",
+     "tag": "modals",
+     "level": "B2"
+    },
+    {
+     "type": "mcq",
+     "q": "The windows ___ last week.",
+     "options": [
+      "were cleaned",
+      "cleaned",
+      "have cleaned",
+      "is cleaned"
+     ],
+     "answer": 0,
+     "whyTr": "Geçmiş edilgen: were + V3.",
+     "tag": "past-simple",
+     "level": "B1"
+    },
+    {
+     "type": "mcq",
+     "q": "By Friday, the contractor ___ the new floor.",
+     "options": [
+      "installs",
+      "had installed",
+      "will have installed",
+      "is installing"
+     ],
+     "answer": 2,
+     "whyTr": "Gelecekteki tarihe kadar tamamlanmış olacak: future perfect.",
+     "tag": "future",
+     "level": "B1"
+    },
+    {
+     "type": "mcq",
+     "q": "This time tomorrow, workers ___ the ceiling.",
+     "options": [
+      "will have painted",
+      "painted",
+      "paints",
+      "will be painting"
+     ],
+     "answer": 3,
+     "whyTr": "O anda süren eylem: future continuous.",
+     "tag": "future",
+     "level": "B1"
+    }
+   ]
+  },
+  "vocab": [
+   {
+    "id": "repair",
+    "en": "repair",
+    "tr": "onarmak; onarım",
+    "pos": "verb",
+    "example": "The janitor repaired the broken chair.",
+    "exampleTr": "Hizmetli kırık sandalyeyi onardı.",
+    "syn": [
+     "fix"
+    ],
+    "ant": [
+     "break"
+    ],
+    "level": "B2"
+   },
+   {
+    "id": "maintenance",
+    "en": "maintenance",
+    "tr": "bakım, onarım hizmeti",
+    "pos": "noun",
+    "example": "Maintenance checks the heating every fall.",
+    "exampleTr": "Bakım ekibi ısıtmayı her sonbahar kontrol eder.",
+    "syn": [],
+    "ant": [],
+    "level": "B2"
+   },
+   {
+    "id": "janitor",
+    "en": "janitor",
+    "tr": "hizmetli, temizlik görevlisi",
+    "pos": "noun",
+    "example": "The janitor opens the building at six.",
+    "exampleTr": "Hizmetli binayı altıda açar.",
+    "syn": [],
+    "ant": [],
+    "level": "B2"
+   },
+   {
+    "id": "leak",
+    "en": "leak",
+    "tr": "sızıntı; sızdırmak",
+    "pos": "noun",
+    "example": "There is a leak in the ceiling.",
+    "exampleTr": "Tavanda bir sızıntı var.",
+    "syn": [],
+    "ant": [],
+    "level": "B2"
+   },
+   {
+    "id": "ceiling",
+    "en": "ceiling",
+    "tr": "tavan",
+    "pos": "noun",
+    "example": "A stain spread across the ceiling.",
+    "exampleTr": "Tavanda bir leke yayıldı.",
+    "syn": [],
+    "ant": [
+     "floor"
+    ],
+    "level": "B2"
+   },
+   {
+    "id": "projector",
+    "en": "projector",
+    "tr": "projektör",
+    "pos": "noun",
+    "example": "The projector in Room 9 does not work.",
+    "exampleTr": "9 numaralı sınıftaki projektör çalışmıyor.",
+    "syn": [],
+    "ant": [],
+    "level": "B2"
+   },
+   {
+    "id": "carpet",
+    "en": "carpet",
+    "tr": "halı",
+    "pos": "noun",
+    "example": "The carpet near the door is torn.",
+    "exampleTr": "Kapının yanındaki halı yırtık.",
+    "syn": [],
+    "ant": [],
+    "level": "B2"
+   },
+   {
+    "id": "damage",
+    "en": "damage",
+    "tr": "hasar; zarar vermek",
+    "pos": "noun",
+    "example": "The storm caused serious damage to the roof.",
+    "exampleTr": "Fırtına çatıya ciddi hasar verdi.",
+    "syn": [
+     "harm"
+    ],
+    "ant": [],
+    "level": "B2"
+   },
+   {
+    "id": "fix",
+    "en": "fix",
+    "tr": "tamir etmek, düzeltmek",
+    "pos": "verb",
+    "example": "Can you fix the door before Monday?",
+    "exampleTr": "Kapıyı pazartesiden önce tamir edebilir misin?",
+    "syn": [
+     "repair"
+    ],
+    "ant": [
+     "break"
+    ],
+    "level": "B2"
+   },
+   {
+    "id": "estimate",
+    "en": "estimate",
+    "tr": "maliyet tahmini; tahmin etmek",
+    "pos": "noun",
+    "example": "The contractor gave us an estimate.",
+    "exampleTr": "Müteahhit bize bir maliyet tahmini verdi.",
+    "syn": [
+     "quote"
+    ],
+    "ant": [],
+    "level": "B2"
+   },
+   {
+    "id": "contractor",
+    "en": "contractor",
+    "tr": "müteahhit, yüklenici",
+    "pos": "noun",
+    "example": "A contractor will replace the roof.",
+    "exampleTr": "Bir müteahhit çatıyı değiştirecek.",
+    "syn": [],
+    "ant": [],
+    "level": "B2"
+   },
+   {
+    "id": "overdue",
+    "en": "overdue",
+    "tr": "gecikmiş",
+    "pos": "adjective",
+    "example": "The library book is two weeks overdue.",
+    "exampleTr": "Kütüphane kitabı iki hafta gecikmiş.",
+    "syn": [
+     "late"
+    ],
+    "ant": [
+     "early"
+    ],
+    "level": "B2"
+   },
+   {
+    "id": "warranty",
+    "en": "warranty",
+    "tr": "garanti",
+    "pos": "noun",
+    "example": "The warranty covers repairs for two years.",
+    "exampleTr": "Garanti iki yıl boyunca onarımları kapsar.",
+    "syn": [
+     "guarantee"
+    ],
+    "ant": [],
+    "level": "B2"
+   },
+   {
+    "id": "invoice",
+    "en": "invoice",
+    "tr": "fatura",
+    "pos": "noun",
+    "example": "The district paid the invoice on Friday.",
+    "exampleTr": "Okul bölgesi faturayı cuma günü ödedi.",
+    "syn": [
+     "bill"
+    ],
+    "ant": [],
+    "level": "B2"
+   },
+   {
+    "id": "faulty",
+    "en": "faulty",
+    "tr": "arızalı, kusurlu",
+    "pos": "adjective",
+    "example": "The technician found a faulty cable.",
+    "exampleTr": "Teknisyen arızalı bir kablo buldu.",
+    "syn": [
+     "defective"
+    ],
+    "ant": [
+     "reliable"
+    ],
+    "level": "B2"
+   }
+  ],
+  "reading": {
+   "title": "Room 9",
+   "text": "On Tuesday morning, Hafsa walked into Room 9 and immediately looked up. A brown circle was spreading across the ceiling, and a bucket had been placed under it. \"It leaks every time it rains,\" said Mr. Brown, who had come to show her around. \"The roof must be repaired, but the district hasn't approved the money yet.\"\n\nHafsa noticed other problems. The projector was dead. The carpet near the door was torn. One window could not be opened. She felt sorry for the regular teacher, Ms. Park, who had asked for these repairs three times. \"Can the projector be fixed?\" Hafsa asked. \"It should be,\" Mr. Brown said. \"We had it checked last month, and the technician said it was faulty. The warranty ended in August, so we need an estimate first.\"\n\nDuring recess Hafsa wrote a note for Ms. Park, as sub teachers often do. \"The projector doesn't work, so I used the whiteboard. The ceiling should be inspected again, because the bucket was almost full.\" She also added a friendly line: \"The students were wonderful. Leo cleaned the board without being asked.\"\n\nAt lunch she met the janitor, Mr. Okafor, a tall man with a big ring of keys. \"You know, many of these things can be solved quickly,\" he said. \"I fix what I can, but the big jobs need a contractor. The school has the roof inspected every year, but nobody wants to pay for a new one.\"\n\nHafsa thought about her own apartment. Last winter she had had her heater repaired twice, and her neighbor Linda had had the same problem. \"Sometimes you have to ask more than once,\" she said. Mr. Okafor laughed. \"Exactly. That's why I like your note. It's polite, but it's clear.\"\n\nBy the afternoon, the bucket had been emptied twice. When the final bell rang, Hafsa left her note on Ms. Park's desk, took a last look at the ceiling, and whispered, \"Hang in there.\" She was not sure whether she was talking to the room or to herself.",
+   "glossary": [
+    {
+     "en": "bucket",
+     "tr": "kova"
+    },
+    {
+     "en": "technician",
+     "tr": "teknisyen"
+    },
+    {
+     "en": "ring of keys",
+     "tr": "anahtarlık"
+    },
+    {
+     "en": "hang in there",
+     "tr": "dayan, sabret"
+    },
+    {
+     "en": "torn",
+     "tr": "yırtık"
+    }
+   ],
+   "questions": [
+    {
+     "type": "mcq",
+     "q": "What must be done about the leak in Room 9?",
+     "options": [
+      "The bucket must be bought.",
+      "The roof must be repaired.",
+      "The carpet must be removed.",
+      "The students must move."
+     ],
+     "answer": 1,
+     "whyTr": "Mr. Brown: 'The roof must be repaired.'",
+     "tag": "reading",
+     "level": "B2"
+    },
+    {
+     "type": "mcq",
+     "q": "Why hasn't the projector been fixed yet?",
+     "options": [
+      "Nobody knows it is broken.",
+      "Ms. Park took it home.",
+      "The warranty ended, and an estimate is needed first.",
+      "The janitor lost the key."
+     ],
+     "answer": 2,
+     "whyTr": "Mr. Brown: 'The warranty ended in August, so we need an estimate first.'",
+     "tag": "reading",
+     "level": "B2"
+    },
+    {
+     "type": "mcq",
+     "q": "What does Mr. Okafor say about big jobs?",
+     "options": [
+      "They need a contractor.",
+      "They are never necessary.",
+      "They are done by teachers.",
+      "They are free."
+     ],
+     "answer": 0,
+     "whyTr": "Mr. Okafor: 'the big jobs need a contractor'.",
+     "tag": "reading",
+     "level": "B2"
+    },
+    {
+     "type": "mcq",
+     "q": "Why does Mr. Okafor like Hafsa's note?",
+     "options": [
+      "It is very long.",
+      "It is written in Turkish.",
+      "It is polite but clear.",
+      "It asks for money."
+     ],
+     "answer": 2,
+     "whyTr": "Mr. Okafor: 'It's polite, but it's clear.'",
+     "tag": "reading",
+     "level": "B2"
+    }
+   ]
+  }
+ },
+ "evening": {
+  "listening": {
+   "title": "Repairs at home and at school",
+   "script": [
+    {
+     "speaker": "Linda",
+     "text": "Hafsa, you won't believe my week. I had my kitchen ceiling repaired, and now the bathroom is leaking."
+    },
+    {
+     "speaker": "Hafsa",
+     "text": "Oh no. Did you call the contractor again?"
+    },
+    {
+     "speaker": "Linda",
+     "text": "Yes. He's coming Thursday. I'm having new carpet installed in the hall, too."
+    },
+    {
+     "speaker": "Hafsa",
+     "text": "Wow. You're having a lot done."
+    },
+    {
+     "speaker": "Linda",
+     "text": "I know. The first estimate was too high, so I got a second one. The second contractor will do everything for six hundred dollars less."
+    },
+    {
+     "speaker": "Hafsa",
+     "text": "That's smart. Is there a warranty?"
+    },
+    {
+     "speaker": "Linda",
+     "text": "Two years. Everything must be inspected after the work is done."
+    },
+    {
+     "speaker": "Hafsa",
+     "text": "At school it's similar. A projector needs to be fixed, but the warranty has ended."
+    },
+    {
+     "speaker": "Linda",
+     "text": "So who will fix it?"
+    },
+    {
+     "speaker": "Hafsa",
+     "text": "The district. They're getting an estimate. It might be fixed by next month."
+    },
+    {
+     "speaker": "Linda",
+     "text": "Well, at least you wrote a note."
+    },
+    {
+     "speaker": "Hafsa",
+     "text": "Yes, and the janitor liked it. Now come over. I'll make tea while you tell me everything."
+    }
+   ],
+   "questions": [
+    {
+     "type": "mcq",
+     "q": "What is leaking at Linda's house now?",
+     "options": [
+      "The bathroom",
+      "The kitchen",
+      "The hall",
+      "The roof of the garage"
+     ],
+     "answer": 0,
+     "whyTr": "Linda: 'now the bathroom is leaking'.",
+     "tag": "listening",
+     "level": "B2"
+    },
+    {
+     "type": "mcq",
+     "q": "Why did Linda get a second estimate?",
+     "options": [
+      "The first contractor was late.",
+      "The first one was too high.",
+      "She lost the first estimate.",
+      "The warranty was too short."
+     ],
+     "answer": 1,
+     "whyTr": "Linda: 'The first estimate was too high.'",
+     "tag": "listening",
+     "level": "B2"
+    },
+    {
+     "type": "mcq",
+     "q": "How long is the warranty?",
+     "options": [
+      "Six months",
+      "One year",
+      "Five years",
+      "Two years"
+     ],
+     "answer": 3,
+     "whyTr": "Linda: 'Two years.'",
+     "tag": "listening",
+     "level": "B2"
+    },
+    {
+     "type": "mcq",
+     "q": "When might the projector be fixed?",
+     "options": [
+      "Tomorrow",
+      "Next month",
+      "This Thursday",
+      "Next year"
+     ],
+     "answer": 1,
+     "whyTr": "Hafsa: 'It might be fixed by next month.'",
+     "tag": "listening",
+     "level": "B2"
+    }
+   ]
+  },
+  "writing": {
+   "promptTr": "Müdüre ya da ön ofise resmi bir e-posta yaz: sınıfta gördüğün sorunları anlat ve tamir iste. Modal edilgen ve have/get something done kullan.",
+   "promptEn": "Write a formal email (120-180 words) to the front office about problems in a classroom. Use modal passive forms and at least one have/get something done structure.",
+   "frames": [
+    "Dear Mr. Brown, I am writing about ...",
+    "The ... must be ... as soon as possible.",
+    "It would be helpful if the ... could be ...",
+    "Thank you for your help. Best regards, ..."
+   ],
+   "model": "Dear Mr. Brown, I am writing about some problems in Room 9, where I substituted on Tuesday. First, there is a leak in the ceiling, and a bucket has been placed under it. I think the roof should be inspected as soon as possible, because the water might damage the carpet. Second, the projector is faulty and cannot be used. I understand that the warranty has ended, so perhaps an estimate could be requested from a contractor. It would also be helpful if one of the windows could be fixed, because it cannot be opened at all. I know that the school has had many repairs done this year, and I appreciate your hard work. I only want the students to have a safe and comfortable room. If you would like, I can write down the details for the maintenance team. Thank you very much for your time and your help. Best regards, Hafsa",
+   "checklistTr": [
+    "En az iki modal edilgen cümle var mı (must be fixed, should be inspected)?",
+    "Bir have/get something done kalıbı kullandın mı?",
+    "Resmi bir giriş ve kapanış (Dear..., Best regards) var mı?",
+    "Cümleler büyük harfle başlıyor ve noktayla bitiyor mu?"
+   ],
+   "minWords": 120
+  },
+  "examSet": [
+   {
+    "type": "mcq",
+    "q": "The leak ___ as soon as possible.",
+    "options": [
+     "should fix",
+     "should be fix",
+     "should fixed",
+     "should be fixed"
+    ],
+    "answer": 3,
+    "whyTr": "Modal edilgen: should be + V3.",
+    "tag": "modals",
+    "level": "B2"
+   },
+   {
+    "type": "mcq",
+    "q": "Students ___ to use phones during class.",
+    "options": [
+     "are not allowed",
+     "not allow",
+     "is not allowed",
+     "do not allowed"
+    ],
+    "answer": 0,
+    "whyTr": "Edilgen: are not allowed.",
+    "tag": "present-simple",
+    "level": "B2"
+   },
+   {
+    "type": "order",
+    "promptTr": "Cümleyi sırala:",
+    "words": [
+     "needs",
+     "before",
+     "to",
+     "replaced",
+     "The",
+     "be",
+     "winter",
+     "carpet"
+    ],
+    "answer": "The carpet needs to be replaced before winter",
+    "whyTr": "Need to be + V3 edilgen.",
+    "tag": "modals",
+    "level": "B2"
+   },
+   {
+    "type": "fill",
+    "q": "I need to get my car ___ before Friday. (fix)",
+    "accept": [
+     "fixed"
+    ],
+    "hintTr": "fix → V3",
+    "whyTr": "Get + nesne + V3: get my car fixed.",
+    "tag": "modals",
+    "level": "B2"
+   },
+   {
+    "type": "mcq",
+    "q": "We ___ the windows cleaned every spring.",
+    "options": [
+     "do",
+     "make",
+     "are",
+     "have"
+    ],
+    "answer": 3,
+    "whyTr": "Yaptırmak: have + nesne + V3.",
+    "tag": "present-simple",
+    "level": "B2"
+   },
+   {
+    "type": "mcq",
+    "q": "A ___ is a person hired to do building or repair work.",
+    "options": [
+     "janitor",
+     "contractor",
+     "projector",
+     "warranty"
+    ],
+    "answer": 1,
+    "whyTr": "Yüklenici: contractor.",
+    "tag": "vocab",
+    "level": "B2"
+   },
+   {
+    "type": "mcq",
+    "q": "The ___ promises free repairs for two years.",
+    "options": [
+     "invoice",
+     "estimate",
+     "warranty",
+     "carpet"
+    ],
+    "answer": 2,
+    "whyTr": "Garanti: warranty.",
+    "tag": "vocab",
+    "level": "B2"
+   },
+   {
+    "type": "mcq",
+    "q": "The library book is two weeks ___. It should have been returned already.",
+    "options": [
+     "overdue",
+     "faulty",
+     "tidy",
+     "flexible"
+    ],
+    "answer": 0,
+    "whyTr": "Süresi geçmiş: overdue.",
+    "tag": "vocab",
+    "level": "B2"
+   },
+   {
+    "type": "mcq",
+    "q": "Which word is closest in meaning to \"damage\"?",
+    "options": [
+     "repair",
+     "cover",
+     "harm",
+     "notice"
+    ],
+    "answer": 2,
+    "whyTr": "Damage ve harm benzer anlamlıdır.",
+    "tag": "synonym",
+    "level": "B2"
+   },
+   {
+    "type": "mcq",
+    "q": "What is the opposite of \"faulty\"?",
+    "options": [
+     "reliable",
+     "broken",
+     "damaged",
+     "noisy"
+    ],
+    "answer": 0,
+    "whyTr": "Faulty'nin zıddı reliable (güvenilir, sağlam).",
+    "tag": "antonym",
+    "level": "B2"
+   },
+   {
+    "type": "mcq",
+    "q": "The principal had the gym floor polished over the weekend. It will be opened to students on Monday morning.\n\nWhat was done over the weekend?",
+    "options": [
+     "The gym was painted.",
+     "The floor was polished.",
+     "The roof was repaired.",
+     "The lights were replaced."
+    ],
+    "answer": 1,
+    "whyTr": "Metin: 'had the gym floor polished'.",
+    "tag": "reading",
+    "level": "B2"
+   },
+   {
+    "type": "mcq",
+    "q": "Ms. Park's classroom will be painted next week, so all the books must be moved to the library by Friday.\n\nWhere must the books be moved?",
+    "options": [
+     "To the gym",
+     "To the office",
+     "To the cafeteria",
+     "To the library"
+    ],
+    "answer": 3,
+    "whyTr": "Metin: 'moved to the library by Friday'.",
+    "tag": "reading",
+    "level": "B2"
+   },
+   {
+    "type": "mcq",
+    "q": "By the time we arrived, the water ___.",
+    "options": [
+     "was turning off",
+     "had been turned off",
+     "will be turned off",
+     "has turn off"
+    ],
+    "answer": 1,
+    "whyTr": "Geçmişteki andan önce: had been + V3.",
+    "tag": "past-simple",
+    "level": "B2"
+   },
+   {
+    "type": "mcq",
+    "q": "The roof ___ right now, so please use the east entrance.",
+    "options": [
+     "repairs",
+     "will repair",
+     "was repair",
+     "is being repaired"
+    ],
+    "answer": 3,
+    "whyTr": "Şu anda süren edilgen.",
+    "tag": "present-continuous",
+    "level": "B2"
+   },
+   {
+    "type": "mcq",
+    "q": "By next summer, the whole building ___ renovated.",
+    "options": [
+     "will have been",
+     "will be being",
+     "has been",
+     "was"
+    ],
+    "answer": 0,
+    "whyTr": "Gelecekteki tarihe kadar: will have been + V3.",
+    "tag": "future",
+    "level": "B2"
+   },
+   {
+    "type": "mcq",
+    "q": "This time next week, the workers ___ the ceiling.",
+    "options": [
+     "will have painted",
+     "painted",
+     "will be painting",
+     "paint"
+    ],
+    "answer": 2,
+    "whyTr": "O anda süren eylem: future continuous.",
+    "tag": "future",
+    "level": "B2"
+   },
+   {
+    "type": "mcq",
+    "q": "Linda ___ her hair cut yesterday.",
+    "options": [
+     "has",
+     "made",
+     "was",
+     "had"
+    ],
+    "answer": 3,
+    "whyTr": "Yaptırmak (geçmiş): had + nesne + V3.",
+    "tag": "past-simple",
+    "level": "B2"
+   },
+   {
+    "type": "mcq",
+    "q": "The school has no money, ___ the repairs were postponed.",
+    "options": [
+     "because",
+     "so",
+     "although",
+     "unless"
+    ],
+    "answer": 1,
+    "whyTr": "Sonuç bildirir: so.",
+    "tag": "linkers",
+    "level": "B1"
+   },
+   {
+    "type": "mcq",
+    "q": "All forms ___ returned by Friday.",
+    "options": [
+     "must",
+     "are must",
+     "must be",
+     "must been"
+    ],
+    "answer": 2,
+    "whyTr": "Modal edilgen: must be + V3.",
+    "tag": "modals",
+    "level": "B2"
+   },
+   {
+    "type": "mcq",
+    "q": "Which sentence means someone else did the job for you?",
+    "options": [
+     "I had my phone repaired.",
+     "I repaired my phone.",
+     "I have repaired my phone.",
+     "I was repair my phone."
+    ],
+    "answer": 0,
+    "whyTr": "Have + nesne + V3: işi başkası yaptı.",
+    "tag": "past-simple",
+    "level": "B2"
+   }
+  ]
+ }
+}

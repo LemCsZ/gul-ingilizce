@@ -1,0 +1,938 @@
+{
+ "week": 15,
+ "day": 6,
+ "titleTr": "İleri phrasal verb'ler: sub plan geri bildirimi",
+ "theme": "sub-feedback",
+ "morning": {
+  "grammar": {
+   "topic": "İleri phrasal verb'ler: ayrılabilen, ayrılamayan ve üç kelimelik",
+   "explainTr": [
+    "Phrasal verb, fiil + edat/zarf birleşimidir ve anlamı çoğu zaman kelime kelime çeviriyle bulunmaz: carry out (yürütmek), hand out (dağıtmak), go over (gözden geçirmek), figure out (çözmek). Okulda ve iş notlarında çok geçer.",
+    "Ayrılabilen olanlarda nesne ortaya girebilir: hand out the papers = hand the papers out. Nesne zamir ise mutlaka ortaya girer: hand them out (hand out them yanlış). Ayrılamayanlarda nesne hep sonda kalır: look into the problem, deal with it, put up with the noise.",
+    "Üç kelimelik phrasal verb'ler de ayrılmaz: run out of (bitmek), catch up with (yetişmek), come up with (bulmak), put up with (katlanmak), cut down on (azaltmak). Notlarda 'sort out, back up, fall behind' gibi fiiller bir arada sık görülür."
+   ],
+   "compareTr": "Türkçede 'dağıtmak, gözden geçirmek, yetişmek' ayrı fiillerdir. İngilizcede aynı anlam fiil + küçük bir kelimeyle kurulur ve aynı fiil (go, put, take) farklı edatlarla tamamen farklı anlam taşır: go over (gözden geçirmek), go on (devam etmek).",
+   "table": [
+    [
+     "Ayrılabilen",
+     "hand out / sort out / figure out / back up",
+     "She handed the sheets out. / She handed them out."
+    ],
+    [
+     "Ayrılamayan",
+     "look into / deal with / go over",
+     "He looked into the problem. (looked into it)"
+    ],
+    [
+     "Üç kelimelik",
+     "run out of / put up with / come up with / catch up with",
+     "We ran out of paper."
+    ],
+    [
+     "Soru/zamir kuralı",
+     "zamir ayrılabilen fiillerin ortasına girer",
+     "Hand them out. (not: Hand out them.)"
+    ]
+   ],
+   "examples": [
+    {
+     "en": "I handed out the worksheets and went over the instructions.",
+     "tr": "Çalışma kâğıtlarını dağıttım ve talimatları gözden geçirdim."
+    },
+    {
+     "en": "We ran out of copy paper by ten o'clock.",
+     "tr": "Saat ona kadar fotokopi kâğıdımız bitti."
+    },
+    {
+     "en": "The principal will look into the problem.",
+     "tr": "Müdür konuyu araştıracak."
+    },
+    {
+     "en": "Some students fell behind, so we reviewed the lesson to help them catch up.",
+     "tr": "Bazı öğrenciler geride kaldı, biz de yetişmeleri için dersi tekrar ettik."
+    }
+   ],
+   "exercises": [
+    {
+     "type": "mcq",
+     "q": "Please ___ the worksheets before class starts.",
+     "options": [
+      "hand on",
+      "hand away",
+      "hand out",
+      "hand up"
+     ],
+     "answer": 2,
+     "whyTr": "Dağıtmak: hand out.",
+     "tag": "phrasal-verbs",
+     "level": "B2"
+    },
+    {
+     "type": "mcq",
+     "q": "We ran ___ markers, so I borrowed some from the next room.",
+     "options": [
+      "out of",
+      "out for",
+      "off of",
+      "away from"
+     ],
+     "answer": 0,
+     "whyTr": "Bitmek: run out of.",
+     "tag": "phrasal-verbs",
+     "level": "B2"
+    },
+    {
+     "type": "mcq",
+     "q": "The principal said she would ___ the complaint.",
+     "options": [
+      "look after",
+      "look up",
+      "look out",
+      "look into"
+     ],
+     "answer": 3,
+     "whyTr": "Bir şikâyeti araştırmak: look into.",
+     "tag": "phrasal-verbs",
+     "level": "B2"
+    },
+    {
+     "type": "mcq",
+     "q": "I can't ___ the noise in this hallway any longer.",
+     "options": [
+      "put out",
+      "put up with",
+      "put off",
+      "put away"
+     ],
+     "answer": 1,
+     "whyTr": "Katlanmak: put up with.",
+     "tag": "phrasal-verbs",
+     "level": "B2"
+    },
+    {
+     "type": "order",
+     "promptTr": "Cümleyi sırala:",
+     "words": [
+      "the",
+      "out",
+      "to",
+      "students.",
+      "She",
+      "handed",
+      "papers",
+      "the"
+     ],
+     "answer": "She handed the papers out to the students.",
+     "whyTr": "Ayrılabilen phrasal verb: nesne ortaya girebilir.",
+     "tag": "phrasal-verbs",
+     "level": "B2"
+    },
+    {
+     "type": "mcq",
+     "q": "The papers are on the desk. Please hand ___ out.",
+     "options": [
+      "out them",
+      "them",
+      "it",
+      "they"
+     ],
+     "answer": 1,
+     "whyTr": "Zamir ayrılabilen phrasal verb'in ortasına girer: hand them out.",
+     "tag": "phrasal-verbs",
+     "level": "B2"
+    },
+    {
+     "type": "mcq",
+     "q": "The class fell behind, so the sub tried to help them ___.",
+     "options": [
+      "catch out",
+      "catch on",
+      "catch down",
+      "catch up"
+     ],
+     "answer": 3,
+     "whyTr": "Yetişmek: catch up.",
+     "tag": "phrasal-verbs",
+     "level": "B2"
+    },
+    {
+     "type": "mcq",
+     "q": "Hafsa tried to ___ a solution to the problem.",
+     "options": [
+      "come up with",
+      "come across",
+      "come over",
+      "come out"
+     ],
+     "answer": 0,
+     "whyTr": "Bir çözüm bulmak/ortaya koymak: come up with.",
+     "tag": "phrasal-verbs",
+     "level": "B2"
+    },
+    {
+     "type": "order",
+     "promptTr": "Cümleyi sırala:",
+     "words": [
+      "the",
+      "go",
+      "with",
+      "Please",
+      "over",
+      "instructions",
+      "class.",
+      "the"
+     ],
+     "answer": "Please go over the instructions with the class.",
+     "whyTr": "Gözden geçirmek: go over (ayrılamaz).",
+     "tag": "phrasal-verbs",
+     "level": "B2"
+    },
+    {
+     "type": "mcq",
+     "q": "The meeting ___ because the principal was sick.",
+     "options": [
+      "put off",
+      "was putting up",
+      "was put off",
+      "has put"
+     ],
+     "answer": 2,
+     "whyTr": "Ertelenmek (edilgen): was put off.",
+     "tag": "phrasal-verbs",
+     "level": "B2"
+    },
+    {
+     "type": "mcq",
+     "q": "If I ___ more carefully, I would not have made that mistake.",
+     "options": [
+      "listened",
+      "have listened",
+      "would listen",
+      "had listened"
+     ],
+     "answer": 3,
+     "whyTr": "Üçüncü tip koşul: If + past perfect.",
+     "tag": "conditionals",
+     "level": "B2"
+    },
+    {
+     "type": "fill",
+     "q": "We need to ___ out which student left the backpack. (anlamak)",
+     "accept": [
+      "figure",
+      "find"
+     ],
+     "hintTr": "çözmek",
+     "whyTr": "Çözmek, anlamak: figure out.",
+     "tag": "phrasal-verbs",
+     "level": "B2"
+    }
+   ]
+  },
+  "vocab": [
+   {
+    "id": "carry-out",
+    "en": "carry out",
+    "tr": "yürütmek, gerçekleştirmek",
+    "pos": "verb",
+    "example": "The students carried out an experiment in science class.",
+    "exampleTr": "Öğrenciler fen dersinde bir deney yaptı.",
+    "syn": [
+     "perform"
+    ],
+    "ant": [],
+    "level": "B2"
+   },
+   {
+    "id": "run-out-of",
+    "en": "run out of",
+    "tr": "(bir şeyin) bitmesi",
+    "pos": "verb",
+    "example": "We ran out of glue during the art project.",
+    "exampleTr": "Sanat projesi sırasında yapıştırıcımız bitti.",
+    "syn": [],
+    "ant": [
+     "stock up on"
+    ],
+    "level": "B2"
+   },
+   {
+    "id": "take-over",
+    "en": "take over",
+    "tr": "devralmak, üstlenmek",
+    "pos": "verb",
+    "example": "Hafsa took over the class at noon.",
+    "exampleTr": "Hafsa öğleyin sınıfı devraldı.",
+    "syn": [
+     "assume"
+    ],
+    "ant": [
+     "hand over"
+    ],
+    "level": "B2"
+   },
+   {
+    "id": "go-over",
+    "en": "go over",
+    "tr": "gözden geçirmek",
+    "pos": "verb",
+    "example": "Let's go over the rules again.",
+    "exampleTr": "Kuralları tekrar gözden geçirelim.",
+    "syn": [
+     "review"
+    ],
+    "ant": [],
+    "level": "B2"
+   },
+   {
+    "id": "look-into",
+    "en": "look into",
+    "tr": "araştırmak, incelemek",
+    "pos": "verb",
+    "example": "The office will look into the problem.",
+    "exampleTr": "Ofis sorunu inceleyecek.",
+    "syn": [
+     "investigate"
+    ],
+    "ant": [
+     "ignore"
+    ],
+    "level": "B2"
+   },
+   {
+    "id": "put-up-with",
+    "en": "put up with",
+    "tr": "katlanmak, tahammül etmek",
+    "pos": "verb",
+    "example": "Teachers must put up with a lot of noise.",
+    "exampleTr": "Öğretmenler çok gürültüye katlanmak zorunda.",
+    "syn": [
+     "tolerate"
+    ],
+    "ant": [],
+    "level": "B2"
+   },
+   {
+    "id": "catch-up",
+    "en": "catch up",
+    "tr": "yetişmek, farkı kapatmak",
+    "pos": "verb",
+    "example": "Students who were absent need to catch up.",
+    "exampleTr": "Devamsızlık yapan öğrencilerin yetişmesi gerekir.",
+    "syn": [],
+    "ant": [
+     "fall behind"
+    ],
+    "level": "B2"
+   },
+   {
+    "id": "fall-behind",
+    "en": "fall behind",
+    "tr": "geride kalmak",
+    "pos": "verb",
+    "example": "Some students fall behind when they miss school.",
+    "exampleTr": "Bazı öğrenciler okula gelmeyince geri kalır.",
+    "syn": [],
+    "ant": [
+     "keep up"
+    ],
+    "level": "B2"
+   },
+   {
+    "id": "sort-out",
+    "en": "sort out",
+    "tr": "çözmek, düzene sokmak",
+    "pos": "verb",
+    "example": "The secretary sorted out the schedule mix-up.",
+    "exampleTr": "Sekreter program karışıklığını çözdü.",
+    "syn": [
+     "resolve"
+    ],
+    "ant": [],
+    "level": "B2"
+   },
+   {
+    "id": "back-up",
+    "en": "back up",
+    "tr": "desteklemek; yedeklemek",
+    "pos": "verb",
+    "example": "Please back up your files every week.",
+    "exampleTr": "Lütfen dosyalarınızı her hafta yedekleyin.",
+    "syn": [
+     "support"
+    ],
+    "ant": [],
+    "level": "B2"
+   },
+   {
+    "id": "cut-down-on",
+    "en": "cut down on",
+    "tr": "azaltmak",
+    "pos": "verb",
+    "example": "The school wants to cut down on paper use.",
+    "exampleTr": "Okul kâğıt kullanımını azaltmak istiyor.",
+    "syn": [
+     "reduce"
+    ],
+    "ant": [
+     "increase"
+    ],
+    "level": "B2"
+   },
+   {
+    "id": "figure-out",
+    "en": "figure out",
+    "tr": "anlamak, çözmek",
+    "pos": "verb",
+    "example": "I couldn't figure out the new software at first.",
+    "exampleTr": "Yeni yazılımı ilk başta çözemedim.",
+    "syn": [
+     "work out"
+    ],
+    "ant": [],
+    "level": "B2"
+   },
+   {
+    "id": "come-up-with",
+    "en": "come up with",
+    "tr": "bulmak, ortaya atmak",
+    "pos": "verb",
+    "example": "The class came up with a funny name for their group.",
+    "exampleTr": "Sınıf grupları için komik bir isim buldu.",
+    "syn": [
+     "think of"
+    ],
+    "ant": [],
+    "level": "B2"
+   },
+   {
+    "id": "deal-with",
+    "en": "deal with",
+    "tr": "ilgilenmek, başa çıkmak",
+    "pos": "verb",
+    "example": "A substitute must deal with many surprises.",
+    "exampleTr": "Bir vekil öğretmen birçok sürprizle başa çıkmalıdır.",
+    "syn": [
+     "handle"
+    ],
+    "ant": [],
+    "level": "B2"
+   },
+   {
+    "id": "keep-up",
+    "en": "keep up",
+    "tr": "ayak uydurmak; sürdürmek",
+    "pos": "verb",
+    "example": "It's hard to keep up with a fast lesson.",
+    "exampleTr": "Hızlı bir derse ayak uydurmak zor.",
+    "syn": [],
+    "ant": [
+     "fall behind"
+    ],
+    "level": "B2"
+   }
+  ],
+  "reading": {
+   "title": "Feedback from Ms. Carter",
+   "text": "Dear Hafsa,\n\nThank you so much for covering my third-grade class last Thursday. I got back this morning and went over your sub notes with the students. I want to share some feedback, because I think you did a wonderful job for your first full day.\n\nFirst, the good news. You handed out the morning worksheets without any confusion, and the class went over the instructions twice, as I had hoped. The students told me they felt calm, and several of them said you spoke slowly and clearly. Our classroom aide, Mr. Evans, also said that you carried out the schedule exactly as written. That is not easy on a first day.\n\nSecond, a few small suggestions. We ran out of colored markers during the art activity, and you had to figure out a plan quickly. You came up with a clever idea: students shared markers in pairs. Next time, I will leave extra supplies in the cabinet, and I will also back up my lesson files on the shared drive so you can find them easily.\n\nThird, some students, especially Tyler and Maya, fell behind during the math lesson. You noticed it and sat with them, which was exactly right. I will look into giving them extra practice so they can catch up with the class. If a student continues to cause problems, you do not have to put up with it. Please write the name down and I will deal with it the next day.\n\nFinally, I would like to cut down on the paperwork in your next sub folder. I will make a one-page summary, so you can sort out the day at a glance.\n\nOverall, you were organized, kind, and patient, and the students asked if you can come back soon. I would be glad to have you again next month.\n\nWarm regards,\nMs. Carter",
+   "glossary": [
+    {
+     "en": "sub notes",
+     "tr": "vekil öğretmen notları"
+    },
+    {
+     "en": "aide",
+     "tr": "yardımcı personel"
+    },
+    {
+     "en": "cabinet",
+     "tr": "dolap"
+    },
+    {
+     "en": "at a glance",
+     "tr": "bir bakışta"
+    },
+    {
+     "en": "organized",
+     "tr": "düzenli"
+    },
+    {
+     "en": "feedback",
+     "tr": "geri bildirim"
+    }
+   ],
+   "questions": [
+    {
+     "type": "mcq",
+     "q": "What is the purpose of Ms. Carter's note?",
+     "options": [
+      "To cancel the next class",
+      "To give Hafsa feedback on her substitute day",
+      "To ask Hafsa to buy supplies",
+      "To complain about the students"
+     ],
+     "answer": 1,
+     "whyTr": "Not geri bildirim vermek içindir.",
+     "tag": "reading",
+     "level": "B2"
+    },
+    {
+     "type": "mcq",
+     "q": "What problem happened during the art activity?",
+     "options": [
+      "The students lost their notebooks.",
+      "The aide was absent.",
+      "The class ran out of colored markers.",
+      "The lights went out."
+     ],
+     "answer": 2,
+     "whyTr": "Metin: 'We ran out of colored markers'.",
+     "tag": "reading",
+     "level": "B2"
+    },
+    {
+     "type": "mcq",
+     "q": "How did Hafsa solve the problem?",
+     "options": [
+      "She had the students share markers in pairs.",
+      "She called the principal.",
+      "She ended the activity.",
+      "She bought new markers."
+     ],
+     "answer": 0,
+     "whyTr": "Metin: 'students shared markers in pairs'.",
+     "tag": "reading",
+     "level": "B2"
+    },
+    {
+     "type": "mcq",
+     "q": "What will Ms. Carter do next time?",
+     "options": [
+      "Leave extra supplies and a short summary",
+      "Stop using sub notes",
+      "Ask Mr. Evans to teach",
+      "Give more homework"
+     ],
+     "answer": 0,
+     "whyTr": "Metin: 'I will leave extra supplies... one-page summary'.",
+     "tag": "reading",
+     "level": "B2"
+    }
+   ]
+  }
+ },
+ "evening": {
+  "listening": {
+   "title": "After the substitute day",
+   "script": [
+    {
+     "speaker": "Ms. Carter",
+     "text": "Hafsa, thank you for coming in today. Do you have a few minutes to talk about yesterday?"
+    },
+    {
+     "speaker": "Hafsa",
+     "text": "Of course. I hope I did everything correctly."
+    },
+    {
+     "speaker": "Ms. Carter",
+     "text": "You did very well. The students said you handed out the papers calmly and went over the rules."
+    },
+    {
+     "speaker": "Hafsa",
+     "text": "That is kind. I was nervous, but the sub notes helped me."
+    },
+    {
+     "speaker": "Ms. Carter",
+     "text": "I noticed that you wrote down which students fell behind in math. That is very useful."
+    },
+    {
+     "speaker": "Hafsa",
+     "text": "Yes, Tyler and Maya needed help. I tried to help them catch up, but we ran out of time."
+    },
+    {
+     "speaker": "Ms. Carter",
+     "text": "That happens. I will look into extra practice for them this week."
+    },
+    {
+     "speaker": "Hafsa",
+     "text": "I also had trouble with the projector. I could not figure out how to turn it on."
+    },
+    {
+     "speaker": "Ms. Carter",
+     "text": "I should have explained that. Mr. Brown can sort it out next time."
+    },
+    {
+     "speaker": "Hafsa",
+     "text": "One more thing: a boy was talking during the whole story. I did not want to put up with it, so I spoke to him after class."
+    },
+    {
+     "speaker": "Ms. Carter",
+     "text": "That was the right choice. I will deal with it tomorrow. Can you come again next Friday?"
+    },
+    {
+     "speaker": "Hafsa",
+     "text": "Yes, I would love to. Thank you for the chance."
+    }
+   ],
+   "questions": [
+    {
+     "type": "mcq",
+     "q": "What did Hafsa do well, according to Ms. Carter?",
+     "options": [
+      "She cleaned the whole room.",
+      "She finished the lesson early.",
+      "She handed out papers calmly and went over the rules.",
+      "She taught a new song."
+     ],
+     "answer": 2,
+     "whyTr": "Ms. Carter: 'handed out the papers calmly and went over the rules'.",
+     "tag": "listening",
+     "level": "B2"
+    },
+    {
+     "type": "mcq",
+     "q": "Why could Hafsa not help Tyler and Maya completely?",
+     "options": [
+      "They were absent.",
+      "They ran out of time.",
+      "They did not speak English.",
+      "The lesson was cancelled."
+     ],
+     "answer": 1,
+     "whyTr": "Hafsa: 'we ran out of time'.",
+     "tag": "listening",
+     "level": "B2"
+    },
+    {
+     "type": "mcq",
+     "q": "What problem did Hafsa have with technology?",
+     "options": [
+      "Her phone stopped working.",
+      "The computer was missing.",
+      "The Wi-Fi was slow.",
+      "She could not turn on the projector."
+     ],
+     "answer": 3,
+     "whyTr": "Hafsa: 'I could not figure out how to turn it on' (projector).",
+     "tag": "listening",
+     "level": "B2"
+    },
+    {
+     "type": "mcq",
+     "q": "What does Ms. Carter ask at the end?",
+     "options": [
+      "If Hafsa wants a full-time job",
+      "If Hafsa can call the parents",
+      "If Hafsa can come again next Friday",
+      "If Hafsa can bring snacks"
+     ],
+     "answer": 2,
+     "whyTr": "Ms. Carter: 'Can you come again next Friday?'",
+     "tag": "listening",
+     "level": "B2"
+    }
+   ]
+  },
+  "writing": {
+   "promptTr": "Vekil öğretmenlik yaptığın günün sonunda sınıf öğretmenine bir not yaz (120-180 kelime): neler yaptın, hangi sorunlar çıktı, nasıl çözdün, önerilerin neler? En az beş phrasal verb kullan.",
+   "promptEn": "After a day as a substitute teacher, write a note to the regular teacher (120-180 words). Say what you did, what problems came up, how you solved them, and what you suggest. Use at least five phrasal verbs.",
+   "frames": [
+    "Dear Ms. ..., thank you for ...",
+    "I handed out ... and went over ...",
+    "We ran out of ..., so I came up with ...",
+    "Two students fell behind, so I ...",
+    "Next time, you could cut down on / look into ..."
+   ],
+   "model": "Dear Ms. Carter,\n\nThank you for letting me cover your class today. I would like to share a few notes. In the morning, I handed out the reading sheets and went over the instructions with the students. Everyone started quickly. During the art activity, we ran out of glue, so I came up with a plan: the students worked in pairs and shared. Two students, Ben and Lily, fell behind in math. I sat with them for ten minutes, and they were able to catch up. Unfortunately, I could not figure out how to turn on the projector, so I used the whiteboard instead. I wrote down the names of the students who talked during the lesson, and you can deal with it tomorrow. For next time, you could cut down on the paper in the sub folder, and it would help to label the supplies. Overall, it was a good day, and I would be happy to come back.\n\nSincerely,\nHafsa Yilmaz",
+   "checklistTr": [
+    "En az beş phrasal verb kullandın mı (hand out, go over, run out of, catch up, deal with...)?",
+    "Ayrılabilen phrasal verb'lerde zamir ortada mı (hand them out)?",
+    "Not 'Dear...' ile başlayıp 'Sincerely' ile bitiyor mu?",
+    "Sorun, çözüm ve öneri bölümleri var mı?"
+   ],
+   "minWords": 120
+  },
+  "examSet": [
+   {
+    "type": "mcq",
+    "q": "The teacher asked me to ___ the tests while she answered the phone.",
+    "options": [
+     "hand out",
+     "hand in",
+     "hand on",
+     "hand over to"
+    ],
+    "answer": 0,
+    "whyTr": "Dağıtmak: hand out.",
+    "tag": "phrasal-verbs",
+    "level": "B2"
+   },
+   {
+    "type": "mcq",
+    "q": "We have ___ chalk, so I will ask the office for more.",
+    "options": [
+     "run into",
+     "run over",
+     "run away",
+     "run out of"
+    ],
+    "answer": 3,
+    "whyTr": "Bitmek: run out of.",
+    "tag": "phrasal-verbs",
+    "level": "B2"
+   },
+   {
+    "type": "mcq",
+    "q": "He was absent for a week, so he had to ___ the other students.",
+    "options": [
+     "catch on to",
+     "catch up with",
+     "get away from",
+     "give up on"
+    ],
+    "answer": 1,
+    "whyTr": "Yetişmek: catch up with.",
+    "tag": "phrasal-verbs",
+    "level": "B2"
+   },
+   {
+    "type": "mcq",
+    "q": "The district is going to ___ the complaints about the bus.",
+    "options": [
+     "look up",
+     "look into",
+     "look for",
+     "look at"
+    ],
+    "answer": 1,
+    "whyTr": "Araştırmak: look into.",
+    "tag": "phrasal-verbs",
+    "level": "B2"
+   },
+   {
+    "type": "mcq",
+    "q": "I can't ___ how to open this file.",
+    "options": [
+     "figure in",
+     "figure up",
+     "figure to",
+     "figure out"
+    ],
+    "answer": 3,
+    "whyTr": "Çözmek, anlamak: figure out.",
+    "tag": "phrasal-verbs",
+    "level": "B2"
+   },
+   {
+    "type": "mcq",
+    "q": "The class ___ a great idea for the school party.",
+    "options": [
+     "came up with",
+     "came across",
+     "came out",
+     "came in"
+    ],
+    "answer": 0,
+    "whyTr": "Fikir bulmak: came up with.",
+    "tag": "phrasal-verbs",
+    "level": "B2"
+   },
+   {
+    "type": "mcq",
+    "q": "Which sentence is correct?",
+    "options": [
+     "Please hand out them.",
+     "Please out hand them.",
+     "Please hand them out.",
+     "Please hand them to out."
+    ],
+    "answer": 2,
+    "whyTr": "Zamir ayrılabilen phrasal verb'in ortasına girer.",
+    "tag": "phrasal-verbs",
+    "level": "B2"
+   },
+   {
+    "type": "mcq",
+    "q": "Which sentence is correct?",
+    "options": [
+     "We looked it into.",
+     "We looked into to it.",
+     "We into looked it.",
+     "We looked into it."
+    ],
+    "answer": 3,
+    "whyTr": "Look into ayrılamaz: look into it.",
+    "tag": "phrasal-verbs",
+    "level": "B2"
+   },
+   {
+    "type": "mcq",
+    "q": "I ___ in this school for three years when she arrived.",
+    "options": [
+     "have worked",
+     "had worked",
+     "worked",
+     "was working for"
+    ],
+    "answer": 1,
+    "whyTr": "Geçmişteki bir noktadan önceki süre: past perfect.",
+    "tag": "past-perfect",
+    "level": "B2"
+   },
+   {
+    "type": "mcq",
+    "q": "The work will ___ by the students tomorrow.",
+    "options": [
+     "finish",
+     "be finishing",
+     "be finished",
+     "been finished"
+    ],
+    "answer": 2,
+    "whyTr": "Gelecekte edilgen: will be finished.",
+    "tag": "passive",
+    "level": "B2"
+   },
+   {
+    "type": "mcq",
+    "q": "The sub asked the student what ___.",
+    "options": [
+     "his name was",
+     "was his name",
+     "his name is",
+     "is his name"
+    ],
+    "answer": 0,
+    "whyTr": "Dolaylı soruda düz cümle sırası: his name was.",
+    "tag": "reported-speech",
+    "level": "B2"
+   },
+   {
+    "type": "mcq",
+    "q": "Hafsa, ___ is learning English, wants to be a teacher.",
+    "options": [
+     "who",
+     "which",
+     "whose",
+     "whom"
+    ],
+    "answer": 0,
+    "whyTr": "Kişiyi tanımlayan ilgi zamiri: who.",
+    "tag": "relative-clauses",
+    "level": "B2"
+   },
+   {
+    "type": "mcq",
+    "q": "The teacher asked the students to ___ the experiment carefully.",
+    "options": [
+     "put up with",
+     "fall behind",
+     "carry out",
+     "cut down on"
+    ],
+    "answer": 2,
+    "whyTr": "Deney yürütmek: carry out.",
+    "tag": "vocab",
+    "level": "B2"
+   },
+   {
+    "type": "mcq",
+    "q": "It's hard to ___ with the lesson when you miss a day.",
+    "options": [
+     "back up",
+     "keep up",
+     "deal with",
+     "sort out"
+    ],
+    "answer": 1,
+    "whyTr": "Derse ayak uydurmak: keep up.",
+    "tag": "phrasal-verbs",
+    "level": "B2"
+   },
+   {
+    "type": "mcq",
+    "q": "Which word means almost the same as \"carry out\" (a plan)?",
+    "options": [
+     "cancel",
+     "forget",
+     "avoid",
+     "perform"
+    ],
+    "answer": 3,
+    "whyTr": "Carry out = perform (gerçekleştirmek).",
+    "tag": "synonym",
+    "level": "B2"
+   },
+   {
+    "type": "mcq",
+    "q": "What is the opposite of \"fall behind\"?",
+    "options": [
+     "slow down",
+     "give in",
+     "keep up",
+     "back up"
+    ],
+    "answer": 2,
+    "whyTr": "Fall behind ↔ keep up.",
+    "tag": "antonym",
+    "level": "B2"
+   },
+   {
+    "type": "mcq",
+    "q": "Which word means almost the same as \"look into\"?",
+    "options": [
+     "investigate",
+     "ignore",
+     "skip",
+     "forget"
+    ],
+    "answer": 0,
+    "whyTr": "Look into = investigate.",
+    "tag": "synonym",
+    "level": "B2"
+   },
+   {
+    "type": "mcq",
+    "q": "What is the opposite of \"cut down on\"?",
+    "options": [
+     "reduce",
+     "limit",
+     "avoid",
+     "increase"
+    ],
+    "answer": 3,
+    "whyTr": "Cut down on (azaltmak) ↔ increase.",
+    "tag": "antonym",
+    "level": "B2"
+   },
+   {
+    "type": "mcq",
+    "q": "Ms. Lee: \"Please back up your files before the system update.\"\n\nWhat does Ms. Lee want?",
+    "options": [
+     "To delete all files",
+     "Copies of the files",
+     "To buy a new computer",
+     "To close the office"
+    ],
+    "answer": 1,
+    "whyTr": "Back up = yedeklemek.",
+    "tag": "reading",
+    "level": "B2"
+   },
+   {
+    "type": "mcq",
+    "q": "We ran out of time, so we couldn't go over the last exercise.\n\nWhat happened?",
+    "options": [
+     "They finished early.",
+     "They did not review the last exercise.",
+     "They repeated the lesson.",
+     "They skipped lunch."
+    ],
+    "answer": 1,
+    "whyTr": "Run out of time = vakit bitti; go over = gözden geçirmek.",
+    "tag": "reading",
+    "level": "B2"
+   }
+  ]
+ }
+}

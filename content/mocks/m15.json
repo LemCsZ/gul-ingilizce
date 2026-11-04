@@ -1,0 +1,877 @@
+{
+ "titleTr": "15. hafta deneme sınavı",
+ "introTr": "Bu deneme gerçek sınava çok yakın: sorular kolaydan zora doğru karışık. Hedefin 46 ve üzeri ama bu bir prova; zorlandığın yerler tam olarak çalışman gereken yerler. Bol şans!",
+ "sections": [
+  {
+   "id": "grammar",
+   "titleTr": "Dil bilgisi",
+   "items": [
+    {
+     "type": "mcq",
+     "q": "There ___ any milk in the fridge.",
+     "options": [
+      "aren't",
+      "isn't",
+      "don't",
+      "not"
+     ],
+     "answer": 1,
+     "whyTr": "Sayılamayan isimle (milk) tekil olumsuz: there isn't.",
+     "tag": "there-is",
+     "level": "A2"
+    },
+    {
+     "type": "mcq",
+     "q": "My neighbor never ___ coffee after noon.",
+     "options": [
+      "drink",
+      "is drinking",
+      "drinking",
+      "drinks"
+     ],
+     "answer": 3,
+     "whyTr": "Never ile geniş zaman, he/she/neighbor için fiile -s eklenir.",
+     "tag": "present-simple",
+     "level": "A2"
+    },
+    {
+     "type": "mcq",
+     "q": "This job is ___ than my last one.",
+     "options": [
+      "more interesting",
+      "interestinger",
+      "most interesting",
+      "more interested"
+     ],
+     "answer": 0,
+     "whyTr": "Uzun sıfatlarda karşılaştırma: more + sıfat + than.",
+     "tag": "comparatives",
+     "level": "A2"
+    },
+    {
+     "type": "mcq",
+     "q": "The staff meeting is ___ Wednesday ___ 3:30.",
+     "options": [
+      "in / at",
+      "at / on",
+      "on / at",
+      "on / in"
+     ],
+     "answer": 2,
+     "whyTr": "Günlerle 'on', saatlerle 'at' kullanılır.",
+     "tag": "prepositions-time",
+     "level": "A2"
+    },
+    {
+     "type": "mcq",
+     "q": "We ___ dinner when the phone rang.",
+     "options": [
+      "had",
+      "have had",
+      "were having",
+      "are having"
+     ],
+     "answer": 2,
+     "whyTr": "Başka bir olay sırasında süren eylem: past continuous.",
+     "tag": "past-continuous",
+     "level": "B1"
+    },
+    {
+     "type": "mcq",
+     "q": "I haven't seen him ___ last month.",
+     "options": [
+      "since",
+      "for",
+      "from",
+      "ago"
+     ],
+     "answer": 0,
+     "whyTr": "Başlangıç noktası verildiğinde 'since' kullanılır.",
+     "tag": "present-perfect",
+     "level": "B1"
+    },
+    {
+     "type": "mcq",
+     "q": "If it ___ tomorrow, the field trip will be canceled.",
+     "options": [
+      "will rain",
+      "rained",
+      "is raining",
+      "rains"
+     ],
+     "answer": 3,
+     "whyTr": "If cümleciğinde gelecek için geniş zaman kullanılır.",
+     "tag": "conditionals",
+     "level": "B1"
+    },
+    {
+     "type": "mcq",
+     "q": "The classroom ___ every night by the cleaners.",
+     "options": [
+      "cleans",
+      "is cleaned",
+      "is cleaning",
+      "cleaned"
+     ],
+     "answer": 1,
+     "whyTr": "Sınıfı temizleyen biz değil, temizlenen sınıf: present passive.",
+     "tag": "passive",
+     "level": "B1"
+    },
+    {
+     "type": "mcq",
+     "q": "You ___ park here; it's a fire lane.",
+     "options": [
+      "mustn't",
+      "don't have to",
+      "needn't",
+      "might not"
+     ],
+     "answer": 0,
+     "whyTr": "Yasak için 'mustn't' kullanılır.",
+     "tag": "modals",
+     "level": "B1"
+    },
+    {
+     "type": "mcq",
+     "q": "Could you tell me what time ___?",
+     "options": [
+      "does the office open",
+      "opens the office",
+      "the office opens",
+      "is the office open"
+     ],
+     "answer": 2,
+     "whyTr": "Kibar dolaylı soruda düz cümle sırası kullanılır.",
+     "tag": "word-order",
+     "level": "B1"
+    },
+    {
+     "type": "mcq",
+     "q": "She is looking forward ___ you.",
+     "options": [
+      "to meet",
+      "to meeting",
+      "meeting",
+      "for meeting"
+     ],
+     "answer": 1,
+     "whyTr": "'Look forward to' sonrası -ing gelir.",
+     "tag": "gerund-infinitive",
+     "level": "B1"
+    },
+    {
+     "type": "mcq",
+     "q": "He asked me ___.",
+     "options": [
+      "if had I signed the form",
+      "have I signed the form",
+      "did I sign the form",
+      "if I had signed the form"
+     ],
+     "answer": 3,
+     "whyTr": "Dolaylı soruda düz sıra ve zaman geriye kayar.",
+     "tag": "reported-speech",
+     "level": "B1"
+    },
+    {
+     "type": "mcq",
+     "q": "Anyone ___ to volunteer should see Mr. Brown.",
+     "options": [
+      "wished",
+      "wishing",
+      "to wish",
+      "wishes"
+     ],
+     "answer": 1,
+     "whyTr": "Kısaltılmış cümlecik: anyone wishing = anyone who wishes.",
+     "tag": "relative-clauses",
+     "level": "B2"
+    },
+    {
+     "type": "mcq",
+     "q": "Hardly had the lesson started ___ the fire alarm went off.",
+     "options": [
+      "than",
+      "that",
+      "while",
+      "when"
+     ],
+     "answer": 3,
+     "whyTr": "'Hardly ... when' kalıbı kullanılır.",
+     "tag": "linkers",
+     "level": "B2"
+    },
+    {
+     "type": "mcq",
+     "q": "Some students prefer group work, ___ others work better alone.",
+     "options": [
+      "whereas",
+      "therefore",
+      "unless",
+      "so that"
+     ],
+     "answer": 0,
+     "whyTr": "Karşıtlık için 'whereas' kullanılır.",
+     "tag": "linkers",
+     "level": "B2"
+    },
+    {
+     "type": "mcq",
+     "q": "The test was easy. ___, several students failed it.",
+     "options": [
+      "Therefore",
+      "Moreover",
+      "Nevertheless",
+      "For example"
+     ],
+     "answer": 2,
+     "whyTr": "Beklenmedik karşıtlık için 'Nevertheless' kullanılır.",
+     "tag": "linkers",
+     "level": "B2"
+    },
+    {
+     "type": "mcq",
+     "q": "I ___ bought a new dress; the dress code was casual.",
+     "options": [
+      "mustn't have",
+      "can't have",
+      "needn't have",
+      "shouldn't"
+     ],
+     "answer": 2,
+     "whyTr": "Yapıldı ama gerekmiyordu: needn't have + V3.",
+     "tag": "modals",
+     "level": "B2"
+    },
+    {
+     "type": "mcq",
+     "q": "If I hadn't moved to the USA, I ___ at this school today.",
+     "options": [
+      "wouldn't be working",
+      "wouldn't have worked",
+      "won't be working",
+      "hadn't been working"
+     ],
+     "answer": 0,
+     "whyTr": "Karışık koşul: geçmiş sebep, şimdiki sonuç; would + fiil.",
+     "tag": "conditionals",
+     "level": "B2"
+    },
+    {
+     "type": "mcq",
+     "q": "By this time next year, I ___ as a substitute for six months.",
+     "options": [
+      "will work",
+      "am working",
+      "would have work",
+      "will have been working"
+     ],
+     "answer": 3,
+     "whyTr": "Süreyi vurgulayan future perfect continuous.",
+     "tag": "future",
+     "level": "B2"
+    },
+    {
+     "type": "mcq",
+     "q": "The meeting was ___ because of the snowstorm.",
+     "options": [
+      "called up",
+      "called off",
+      "called in",
+      "called on"
+     ],
+     "answer": 1,
+     "whyTr": "'Call off' iptal etmek demektir.",
+     "tag": "phrasal-verbs",
+     "level": "B2"
+    }
+   ]
+  },
+  {
+   "id": "vocab",
+   "titleTr": "Kelime",
+   "items": [
+    {
+     "type": "mcq",
+     "q": "What is the opposite of 'cheap'?",
+     "options": [
+      "expensive",
+      "small",
+      "slow",
+      "new"
+     ],
+     "answer": 0,
+     "whyTr": "Cheap (ucuz) kelimesinin zıttı expensive (pahalı).",
+     "tag": "antonym",
+     "level": "A2"
+    },
+    {
+     "type": "mcq",
+     "q": "I always ___ a shower before work.",
+     "options": [
+      "make",
+      "do",
+      "take",
+      "put"
+     ],
+     "answer": 2,
+     "whyTr": "'Take a shower' denir.",
+     "tag": "collocations",
+     "level": "A2"
+    },
+    {
+     "type": "mcq",
+     "q": "She is a very ___ teacher; students love her lessons. (create)",
+     "options": [
+      "creation",
+      "creative",
+      "creatively",
+      "create"
+     ],
+     "answer": 1,
+     "whyTr": "İsimden önce sıfat gerekir: creative.",
+     "tag": "word-formation",
+     "level": "B1"
+    },
+    {
+     "type": "mcq",
+     "q": "It is ___ to park in front of the school entrance. (legal)",
+     "options": [
+      "unlegal",
+      "dislegal",
+      "inlegal",
+      "illegal"
+     ],
+     "answer": 3,
+     "whyTr": "Legal kelimesinin olumsuzu il- ile yapılır: illegal.",
+     "tag": "word-formation",
+     "level": "B1"
+    },
+    {
+     "type": "mcq",
+     "q": "Why was the student so ___? He never listened. (attentive)",
+     "options": [
+      "unattentive",
+      "inattentive",
+      "disattentive",
+      "misattentive"
+     ],
+     "answer": 1,
+     "whyTr": "Attentive kelimesinin olumsuzu in- ile: inattentive.",
+     "tag": "word-formation",
+     "level": "B2"
+    },
+    {
+     "type": "mcq",
+     "q": "The school made an important ___ yesterday. (announce)",
+     "options": [
+      "announcing",
+      "announced",
+      "announcer",
+      "announcement"
+     ],
+     "answer": 3,
+     "whyTr": "'An important' sonrası isim gerekir: announcement.",
+     "tag": "word-formation",
+     "level": "B2"
+    },
+    {
+     "type": "mcq",
+     "q": "She ___ a speech at the graduation ceremony.",
+     "options": [
+      "gave",
+      "did",
+      "said",
+      "talked"
+     ],
+     "answer": 0,
+     "whyTr": "'Give a speech' denir.",
+     "tag": "collocations",
+     "level": "B2"
+    },
+    {
+     "type": "mcq",
+     "q": "The substitute ___ great care to learn the students' names.",
+     "options": [
+      "made",
+      "had",
+      "took",
+      "did"
+     ],
+     "answer": 2,
+     "whyTr": "'Take care' sabit kalıptır.",
+     "tag": "collocations",
+     "level": "B2"
+    },
+    {
+     "type": "mcq",
+     "q": "Which word means the same as 'abundant'?",
+     "options": [
+      "rare",
+      "useful",
+      "plentiful",
+      "costly"
+     ],
+     "answer": 2,
+     "whyTr": "Abundant, bol demektir; plentiful ile aynı.",
+     "tag": "synonym",
+     "level": "B2"
+    },
+    {
+     "type": "mcq",
+     "q": "What is the opposite of 'cautious'?",
+     "options": [
+      "reckless",
+      "nervous",
+      "polite",
+      "silent"
+     ],
+     "answer": 0,
+     "whyTr": "Cautious (dikkatli) kelimesinin zıttı reckless (pervasız).",
+     "tag": "antonym",
+     "level": "B2"
+    },
+    {
+     "type": "mcq",
+     "q": "'The principal's decision was controversial.' Controversial means:",
+     "options": [
+      "very fair",
+      "quickly made",
+      "secret",
+      "causing disagreement"
+     ],
+     "answer": 3,
+     "whyTr": "Controversial, tartışma yaratan demektir.",
+     "tag": "vocab",
+     "level": "B2"
+    },
+    {
+     "type": "mcq",
+     "q": "I'll ___ over my notes before the interview.",
+     "options": [
+      "get",
+      "go",
+      "pass",
+      "bring"
+     ],
+     "answer": 1,
+     "whyTr": "'Go over' gözden geçirmek demektir.",
+     "tag": "phrasal-verbs",
+     "level": "B1"
+    }
+   ]
+  },
+  {
+   "id": "reading",
+   "titleTr": "Okuma",
+   "passages": [
+    {
+     "title": "A busy morning",
+     "level": "A2",
+     "text": "Hafsa's alarm rang at 6:00 on Monday. She got up, made coffee and woke Emre. Emre was sleepy and didn't want to get dressed. 'Hurry up,' Hafsa said. 'The bus comes at 7:15.'\n\nAt 7:00, Hafsa received a phone call from Mr. Brown. A teacher at Lincoln Elementary was sick, and the school needed a substitute for the day. Hafsa said yes. She quickly packed her bag with a notebook, a water bottle and her ID. Then she drove Emre to the bus stop and went to the school. She arrived at 7:40, just in time. Mr. Brown gave her a map of the building and the lesson plan for a second-grade class. 'Thank you for coming so fast,' he said. Hafsa smiled. It was going to be a long day, but she was ready.",
+     "questions": [
+      {
+       "type": "mcq",
+       "q": "What time does Emre's bus come?",
+       "options": [
+        "At 7:15",
+        "At 6:00",
+        "At 7:00",
+        "At 7:40"
+       ],
+       "answer": 0,
+       "whyTr": "Hafsa 'The bus comes at 7:15' diyor.",
+       "tag": "reading",
+       "level": "A2"
+      },
+      {
+       "type": "mcq",
+       "q": "Why did Mr. Brown call Hafsa?",
+       "options": [
+        "Emre was late.",
+        "The school was closed.",
+        "A teacher was sick.",
+        "Hafsa forgot her ID."
+       ],
+       "answer": 2,
+       "whyTr": "Bir öğretmen hastaydı, yedek gerekiyordu.",
+       "tag": "reading",
+       "level": "A2"
+      },
+      {
+       "type": "mcq",
+       "q": "What did Hafsa put in her bag?",
+       "options": [
+        "A lunch box and a laptop",
+        "A notebook, a water bottle and her ID",
+        "A map and a lesson plan",
+        "Her passport and her phone"
+       ],
+       "answer": 1,
+       "whyTr": "Çantasına defter, su şişesi ve kimliğini koydu.",
+       "tag": "reading",
+       "level": "A2"
+      }
+     ]
+    },
+    {
+     "title": "Comparing two job offers",
+     "level": "B1",
+     "text": "Hafsa has received two job offers, and she can't decide which one to accept. The first is a full-time position as a teacher's aide at Lincoln Elementary. It pays $17 an hour, includes health insurance and gives her the same schedule as Emre's school day. However, the job is not very flexible, and she would have to work in the same classroom every day.\n\nThe second offer is to join the district's substitute list. The daily pay is higher, about $130 a day, and Hafsa could choose which days to work. On the other hand, there is no guarantee of work, and she would not receive health insurance. She would also have to learn new routines at a different school almost every week.\n\nHafsa talked about the problem with Linda. 'If I were you, I would take the aide job first,' Linda said. 'You'd have a steady income, and you could still apply to be a substitute later.' Hafsa thought about it for two days. In the end, she decided to accept the aide job but to keep her application for the substitute list active.",
+     "questions": [
+      {
+       "type": "mcq",
+       "q": "What is one advantage of the aide job?",
+       "options": [
+        "It pays more per day.",
+        "It changes schools weekly.",
+        "It has no schedule.",
+        "It includes health insurance."
+       ],
+       "answer": 3,
+       "whyTr": "Aide işi sağlık sigortası içeriyor.",
+       "tag": "reading",
+       "level": "B1"
+      },
+      {
+       "type": "mcq",
+       "q": "What is one disadvantage of the substitute job?",
+       "options": [
+        "It pays less than the aide job.",
+        "Work is not guaranteed.",
+        "It requires a full-time schedule.",
+        "It includes health insurance."
+       ],
+       "answer": 1,
+       "whyTr": "İş garantisi yok.",
+       "tag": "reading",
+       "level": "B1"
+      },
+      {
+       "type": "mcq",
+       "q": "What did Linda advise?",
+       "options": [
+        "Join the substitute list only",
+        "Refuse both offers",
+        "Wait two days",
+        "Take the aide job first"
+       ],
+       "answer": 3,
+       "whyTr": "Linda önce aide işini almasını önerdi.",
+       "tag": "reading",
+       "level": "B1"
+      },
+      {
+       "type": "mcq",
+       "q": "What did Hafsa finally decide?",
+       "options": [
+        "To accept the aide job and keep the substitute application",
+        "To take the substitute job only",
+        "To move to another city",
+        "To ask for more money"
+       ],
+       "answer": 0,
+       "whyTr": "Aide işini kabul etti, substitute başvurusunu da açık tuttu.",
+       "tag": "reading",
+       "level": "B1"
+      }
+     ]
+    },
+    {
+     "title": "School start times",
+     "level": "B2",
+     "text": "For decades, most American high schools have started classes before 8:00 a.m. Recently, however, a growing number of districts have moved their start times later, and the results have sparked a lively debate.\n\nSupporters of later starts point to research on adolescent sleep. Teenagers naturally fall asleep later at night, so an early alarm leaves many of them chronically tired. Studies in several states found that students who started school after 8:30 earned slightly higher grades and were less likely to be absent. Furthermore, car accidents involving young drivers decreased in some of these districts.\n\nCritics, on the other hand, raise practical concerns. A later start means a later finish, which can interfere with sports practice and with students' after-school jobs. Working parents, whose own workdays begin early, may find it difficult to arrange childcare. Bus schedules also have to be reorganized, which can be costly.\n\nAlthough the evidence is encouraging, researchers caution that a later bell alone will not solve every problem. Students must also go to bed at a reasonable hour, and schools must communicate clearly with families before making changes. As one administrator put it, 'It is not a magic solution, but it is a promising one.'",
+     "questions": [
+      {
+       "type": "mcq",
+       "q": "What is the main purpose of the passage?",
+       "options": [
+        "To prove that early starts are best",
+        "To explain how buses work",
+        "To present arguments for and against later school start times",
+        "To describe a single school's schedule"
+       ],
+       "answer": 2,
+       "whyTr": "Metin hem destekçilerin hem eleştirenlerin görüşlerini veriyor.",
+       "tag": "reading",
+       "level": "B2"
+      },
+      {
+       "type": "mcq",
+       "q": "What is one concern of critics?",
+       "options": [
+        "Students get too much sleep.",
+        "Grades always go down.",
+        "A later finish can interfere with sports and jobs.",
+        "Teachers refuse to work."
+       ],
+       "answer": 2,
+       "whyTr": "Eleştirenler geç bitişin spor ve işlerle çakışmasından endişeli.",
+       "tag": "reading",
+       "level": "B2"
+      },
+      {
+       "type": "mcq",
+       "q": "What does the administrator mean by 'not a magic solution, but a promising one'?",
+       "options": [
+        "It will not fix everything, but it is worth trying.",
+        "It does not work at all.",
+        "It is too expensive to try.",
+        "It is a trick used by schools."
+       ],
+       "answer": 0,
+       "whyTr": "Her şeyi çözmez ama umut verici.",
+       "tag": "reading",
+       "level": "B2"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "listening",
+   "titleTr": "Dinleme",
+   "passages": [
+    {
+     "title": "Leaving school early",
+     "level": "A2",
+     "script": [
+      {
+       "speaker": "Hafsa",
+       "text": "Hello, I'm Emre's mother. I need to pick him up early today."
+      },
+      {
+       "speaker": "Mr. Brown",
+       "text": "Of course. What time?"
+      },
+      {
+       "speaker": "Hafsa",
+       "text": "At 2:00. He has a dentist appointment at 2:30."
+      },
+      {
+       "speaker": "Mr. Brown",
+       "text": "Okay. Please sign this paper. What's his teacher's name?"
+      },
+      {
+       "speaker": "Hafsa",
+       "text": "Mrs. Lee. Room 8."
+      },
+      {
+       "speaker": "Mr. Brown",
+       "text": "I'll tell her. Wait here at 2:00, and Emre will come to the office."
+      },
+      {
+       "speaker": "Hafsa",
+       "text": "Thank you. Should I bring a note tomorrow?"
+      },
+      {
+       "speaker": "Mr. Brown",
+       "text": "Yes, a note from the dentist, please."
+      }
+     ],
+     "questions": [
+      {
+       "type": "mcq",
+       "q": "Why does Hafsa pick up Emre early?",
+       "options": [
+        "He is sick at school.",
+        "He has a test.",
+        "He is going on a trip.",
+        "He has a dentist appointment."
+       ],
+       "answer": 3,
+       "whyTr": "Emre'nin diş randevusu var.",
+       "tag": "listening",
+       "level": "A2"
+      },
+      {
+       "type": "mcq",
+       "q": "What time will Hafsa come to the school?",
+       "options": [
+        "At 2:30",
+        "At 2:00",
+        "At 1:00",
+        "At 3:00"
+       ],
+       "answer": 1,
+       "whyTr": "Hafsa saat 2:00'de gelecek.",
+       "tag": "listening",
+       "level": "A2"
+      },
+      {
+       "type": "mcq",
+       "q": "What should Hafsa bring tomorrow?",
+       "options": [
+        "A note from the dentist",
+        "Emre's jacket",
+        "A signed test",
+        "A map"
+       ],
+       "answer": 0,
+       "whyTr": "Yarın diş hekiminden bir not getirmeli.",
+       "tag": "listening",
+       "level": "A2"
+      }
+     ]
+    },
+    {
+     "title": "A question about my application",
+     "level": "B1",
+     "script": [
+      {
+       "speaker": "Hafsa",
+       "text": "Good morning. Could you tell me whether my application for the substitute list has been processed?"
+      },
+      {
+       "speaker": "Ms. Park",
+       "text": "Let me check. Could you spell your name for me?"
+      },
+      {
+       "speaker": "Hafsa",
+       "text": "Sure. It's H-A-F-S-A."
+      },
+      {
+       "speaker": "Ms. Park",
+       "text": "I see it. Your background check has been approved, but we still haven't received your transcript."
+      },
+      {
+       "speaker": "Hafsa",
+       "text": "I sent it by mail two weeks ago. Do you know when it might arrive?"
+      },
+      {
+       "speaker": "Ms. Park",
+       "text": "Mail is slow right now. If you email me a scanned copy, I can add it today."
+      },
+      {
+       "speaker": "Hafsa",
+       "text": "I'll do that as soon as I get home. And when can I start?"
+      },
+      {
+       "speaker": "Ms. Park",
+       "text": "Once the transcript is in, you can attend orientation next Tuesday."
+      }
+     ],
+     "questions": [
+      {
+       "type": "mcq",
+       "q": "What is still missing from Hafsa's application?",
+       "options": [
+        "Her background check",
+        "Her ID",
+        "Her transcript",
+        "Her signature"
+       ],
+       "answer": 2,
+       "whyTr": "Transkript henüz gelmedi.",
+       "tag": "listening",
+       "level": "B1"
+      },
+      {
+       "type": "mcq",
+       "q": "What does Ms. Park suggest?",
+       "options": [
+        "Mailing it again",
+        "Emailing a scanned copy",
+        "Coming to the office",
+        "Waiting two weeks"
+       ],
+       "answer": 1,
+       "whyTr": "Taranmış kopyayı e-postayla göndermesini öneriyor.",
+       "tag": "listening",
+       "level": "B1"
+      },
+      {
+       "type": "mcq",
+       "q": "When can Hafsa attend orientation?",
+       "options": [
+        "Today",
+        "Next Friday",
+        "After two months",
+        "Next Tuesday, after the transcript arrives"
+       ],
+       "answer": 3,
+       "whyTr": "Transkript gelince gelecek Salı orientation'a katılabilir.",
+       "tag": "listening",
+       "level": "B1"
+      }
+     ]
+    },
+    {
+     "title": "Feedback on a sub plan",
+     "level": "B2",
+     "script": [
+      {
+       "speaker": "Mrs. Lee",
+       "text": "Thanks for the notes you left, Hafsa. The students said the class went smoothly, although they weren't thrilled about the quiz."
+      },
+      {
+       "speaker": "Hafsa",
+       "text": "I'm sorry about that. The plan said the quiz was optional, but I wasn't sure, so I gave it to everyone."
+      },
+      {
+       "speaker": "Mrs. Lee",
+       "text": "That's my fault, honestly. I should have made the instructions clearer. Still, the grades are useful. I'm surprised how well they did."
+      },
+      {
+       "speaker": "Hafsa",
+       "text": "They were well prepared. I noticed that some of them looked nervous, so I let them use their notes for the last question."
+      },
+      {
+       "speaker": "Mrs. Lee",
+       "text": "That was a good call. Next time, would you mind leaving a short list of students who needed extra help?"
+      },
+      {
+       "speaker": "Hafsa",
+       "text": "Not at all. I'll start doing that."
+      }
+     ],
+     "questions": [
+      {
+       "type": "mcq",
+       "q": "Whose mistake does Mrs. Lee say caused the confusion?",
+       "options": [
+        "Hafsa's, because she was careless",
+        "Her own, because her instructions were unclear",
+        "The students', because they were noisy",
+        "The principal's, because of the schedule"
+       ],
+       "answer": 1,
+       "whyTr": "Mrs. Lee 'That's my fault' diyor; talimatlar net değildi.",
+       "tag": "listening",
+       "level": "B2"
+      },
+      {
+       "type": "mcq",
+       "q": "What does Mrs. Lee ask Hafsa to do in the future?",
+       "options": [
+        "Cancel the quiz",
+        "Give more homework",
+        "Call the parents",
+        "Leave a list of students who needed extra help"
+       ],
+       "answer": 3,
+       "whyTr": "Ekstra yardım isteyen öğrencilerin listesini bırakmasını istiyor.",
+       "tag": "listening",
+       "level": "B2"
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "writing": {
+  "promptTr": "Bir okul müdürüne, 'Substitute öğretmenler de normal öğretmenler kadar maaş almalı mı?' konusunda görüşünü anlatan resmî bir e-posta ya da paragraf yaz. Görüşünü belirt, iki neden ver, karşı görüşü 'however / on the other hand' gibi bağlaçlarla kabul et ve sonuçla bitir.",
+  "promptEn": "Write a formal email or paragraph to a school principal giving your opinion: Should substitute teachers be paid the same as regular teachers? State your opinion, give two reasons, mention the opposite view, and finish with a conclusion.",
+  "minWords": 120,
+  "checklistTr": [
+   "Resmî selamlama ve kapanış var mı (Dear Principal ..., Sincerely)?",
+   "Görüşümü açıkça yazdım mı (I believe that ...)?",
+   "İki neden verdim mi?",
+   "Karşı görüşü bir bağlaçla verdim mi (however, on the other hand, whereas)?",
+   "Resmî dil kullandım mı (I would like to ..., rather than I wanna ...)?",
+   "Sonuç cümlem var mı?"
+  ],
+  "model": "Dear Principal Carter,\n\nI am writing to share my opinion on a topic that matters to many people in our district: the pay of substitute teachers.\n\nI believe that substitutes should receive pay closer to that of regular teachers. First, a substitute often has to manage a classroom with no preparation and must follow a lesson plan written by someone else. This is a demanding job. Second, substitutes receive almost no benefits, such as health insurance, so a higher daily rate would make the job fairer.\n\nOn the other hand, regular teachers have a degree, a license and many extra responsibilities, such as grading and meeting parents. For this reason, it may not be reasonable to pay both groups exactly the same amount. Nevertheless, a significant raise would help the district keep good substitutes.\n\nIn conclusion, I would like to suggest that the district review the current pay. Thank you for considering my opinion.\n\nSincerely,\nHafsa"
+ }
+}

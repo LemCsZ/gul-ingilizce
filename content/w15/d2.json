@@ -1,0 +1,956 @@
+{
+ "week": 15,
+ "day": 2,
+ "titleTr": "Resmi ve gayriresmi dil: müdüre e-posta",
+ "theme": "formal-email",
+ "morning": {
+  "grammar": {
+   "topic": "Resmi ve gayriresmi dil (register)",
+   "explainTr": [
+    "Aynı fikir, kime yazdığına göre farklı söylenir. Arkadaşına 'Can you send me the form?' dersin; müdüre 'Could you please send me the form?' ya da 'I would be grateful if you could send me the form.' yazarsın. Buna 'register' (dil kayıt düzeyi) denir.",
+    "Resmi dilde kısaltma (don't, I'm) kullanmazsın; 'Hi' yerine 'Dear Ms. Carter,' ile başlarsın, 'Thanks' yerine 'Thank you for your time' yazarsın. Kapanış: 'Sincerely,' ya da 'Best regards,'.",
+    "Resmi dilde phrasal verb yerine genelde daha ciddi tek kelime seçilir: ask for → request, find out → discover, get → receive, look into → investigate, tell → inform. Mesajın kime gittiğini düşün, sonra tonu seç."
+   ],
+   "compareTr": "Türkçede 'siz' ve 'sen' ayrımı ile saygı belirtirsin. İngilizcede 'you' tektir; saygıyı kelime seçimi, 'could/would' gibi yumuşatıcılar ve kısaltma kullanmamakla gösterirsin.",
+   "table": [
+    [
+     "Gayriresmi",
+     "Resmi",
+     "Örnek (resmi)"
+    ],
+    [
+     "Can you...?",
+     "Could you please...? / I would appreciate it if...",
+     "Could you please confirm the date?"
+    ],
+    [
+     "ask for",
+     "request",
+     "I would like to request a meeting."
+    ],
+    [
+     "find out / ask about",
+     "inquire about",
+     "I would like to inquire about the dates."
+    ],
+    [
+     "get",
+     "receive / obtain",
+     "I received your message."
+    ],
+    [
+     "Thanks / Bye",
+     "Thank you for your time. / Sincerely,",
+     "Sincerely, Hafsa Yilmaz"
+    ]
+   ],
+   "examples": [
+    {
+     "en": "Hi Ms. Carter, can you tell me when the meeting is? (informal)",
+     "tr": "Merhaba Bayan Carter, toplantının ne zaman olduğunu söyler misin?"
+    },
+    {
+     "en": "Dear Ms. Carter, could you please inform me of the meeting time? (formal)",
+     "tr": "Sayın Bayan Carter, toplantı saatini bana bildirebilir misiniz?"
+    },
+    {
+     "en": "I am writing to inquire about the substitute position.",
+     "tr": "Vekil öğretmenlik pozisyonu hakkında bilgi almak için yazıyorum."
+    },
+    {
+     "en": "I would appreciate a reply at your earliest convenience.",
+     "tr": "Size uygun en erken zamanda cevap verirseniz memnun olurum."
+    }
+   ],
+   "exercises": [
+    {
+     "type": "mcq",
+     "q": "You write to the school principal. Which opening is best?",
+     "options": [
+      "Hey Dr. Alvarez!",
+      "Yo, Dr. Alvarez,",
+      "Dear Dr. Alvarez,",
+      "Hi there,"
+     ],
+     "answer": 2,
+     "whyTr": "Müdüre yazarken 'Dear + unvan + soyadı' kullanılır.",
+     "tag": "word-order",
+     "level": "B2"
+    },
+    {
+     "type": "mcq",
+     "q": "Which sentence is the most formal?",
+     "options": [
+      "I would like to request a copy of the schedule.",
+      "I want a copy of the schedule.",
+      "Gimme the schedule.",
+      "Can I get the schedule?"
+     ],
+     "answer": 0,
+     "whyTr": "'I would like to request' resmi ve kibardır.",
+     "tag": "modals",
+     "level": "B2"
+    },
+    {
+     "type": "mcq",
+     "q": "Choose the best closing for a formal email.",
+     "options": [
+      "See ya!",
+      "Bye bye,",
+      "Later,",
+      "Sincerely,"
+     ],
+     "answer": 3,
+     "whyTr": "Resmi e-postayı 'Sincerely' ya da 'Best regards' ile bitiririz.",
+     "tag": "word-order",
+     "level": "B2"
+    },
+    {
+     "type": "mcq",
+     "q": "Which word is more formal than \"get\" in this sentence? \"I got your letter yesterday.\"",
+     "options": [
+      "grabbed",
+      "received",
+      "picked",
+      "caught"
+     ],
+     "answer": 1,
+     "whyTr": "'Get' yerine resmi dilde 'receive' kullanılır.",
+     "tag": "vocab",
+     "level": "B2"
+    },
+    {
+     "type": "order",
+     "promptTr": "Cümleyi sırala:",
+     "words": [
+      "if",
+      "reply",
+      "could",
+      "it",
+      "I",
+      "soon.",
+      "would",
+      "appreciate",
+      "you"
+     ],
+     "answer": "I would appreciate it if you could reply soon.",
+     "whyTr": "Kibar rica kalıbı: would appreciate it if + could.",
+     "tag": "modals",
+     "level": "B2"
+    },
+    {
+     "type": "mcq",
+     "q": "Which email sentence is too informal for a principal?",
+     "options": [
+      "I regret that I am unable to attend.",
+      "Sorry, I can't make it, I'm busy.",
+      "Unfortunately, I will not be able to attend.",
+      "I am afraid I cannot attend the meeting."
+     ],
+     "answer": 1,
+     "whyTr": "Kısaltmalar ve 'busy' gibi günlük ifadeler resmi mesajda uygun değildir.",
+     "tag": "modals",
+     "level": "B2"
+    },
+    {
+     "type": "mcq",
+     "q": "\"I'm writing to ___ about the job.\" (formal: ask for information)",
+     "options": [
+      "find out stuff",
+      "check it out",
+      "look around",
+      "inquire"
+     ],
+     "answer": 3,
+     "whyTr": "'Inquire about' resmi bir bilgi isteme kalıbıdır.",
+     "tag": "phrasal-verbs",
+     "level": "B2"
+    },
+    {
+     "type": "mcq",
+     "q": "Which pair is correct (informal → formal)?",
+     "options": [
+      "tell → inform",
+      "tell → say",
+      "ask for → ask",
+      "find out → look"
+     ],
+     "answer": 0,
+     "whyTr": "Resmi karşılığı: tell → inform.",
+     "tag": "vocab",
+     "level": "B2"
+    },
+    {
+     "type": "mcq",
+     "q": "I ___ the school several times, but nobody has answered.",
+     "options": [
+      "called yesterday",
+      "am calling for",
+      "have called",
+      "did call since"
+     ],
+     "answer": 2,
+     "whyTr": "Sonuç hâlâ geçerli olduğu için present perfect kullanılır.",
+     "tag": "present-perfect",
+     "level": "B2"
+    },
+    {
+     "type": "order",
+     "promptTr": "Cümleyi sırala:",
+     "words": [
+      "please",
+      "me",
+      "the",
+      "schedule?",
+      "Could",
+      "you",
+      "send",
+      "new"
+     ],
+     "answer": "Could you please send me the new schedule?",
+     "whyTr": "Kibar rica: Could you please + fiil.",
+     "tag": "modals",
+     "level": "B2"
+    },
+    {
+     "type": "fill",
+     "q": "I am writing to ___ about the part-time position. (resmi: bilgi sormak)",
+     "accept": [
+      "inquire",
+      "enquire"
+     ],
+     "hintTr": "bilgi sormak",
+     "whyTr": "Resmi yazışmada 'inquire about' kullanılır.",
+     "tag": "vocab",
+     "level": "B2"
+    },
+    {
+     "type": "mcq",
+     "q": "This form is longer ___ the old one.",
+     "options": [
+      "that",
+      "then",
+      "as",
+      "than"
+     ],
+     "answer": 3,
+     "whyTr": "Karşılaştırmada 'than' kullanılır.",
+     "tag": "comparatives",
+     "level": "B2"
+    }
+   ]
+  },
+  "vocab": [
+   {
+    "id": "inquire",
+    "en": "inquire",
+    "tr": "bilgi sormak",
+    "pos": "verb",
+    "example": "I am writing to inquire about the open position.",
+    "exampleTr": "Açık pozisyon hakkında bilgi almak için yazıyorum.",
+    "syn": [
+     "ask"
+    ],
+    "ant": [],
+    "level": "B2"
+   },
+   {
+    "id": "enclose",
+    "en": "enclose",
+    "tr": "(mektuba) eklemek",
+    "pos": "verb",
+    "example": "I have enclosed a copy of my certificate.",
+    "exampleTr": "Sertifikamın bir kopyasını ekledim.",
+    "syn": [],
+    "ant": [],
+    "level": "B2"
+   },
+   {
+    "id": "commence",
+    "en": "commence",
+    "tr": "başlamak (resmi)",
+    "pos": "verb",
+    "example": "Classes commence on September 5.",
+    "exampleTr": "Dersler 5 Eylül'de başlıyor.",
+    "syn": [
+     "begin"
+    ],
+    "ant": [
+     "end"
+    ],
+    "level": "B2"
+   },
+   {
+    "id": "assist",
+    "en": "assist",
+    "tr": "yardım etmek",
+    "pos": "verb",
+    "example": "Mr. Brown will assist you with the forms.",
+    "exampleTr": "Bay Brown formlar konusunda size yardım edecek.",
+    "syn": [
+     "help"
+    ],
+    "ant": [],
+    "level": "B2"
+   },
+   {
+    "id": "sufficient",
+    "en": "sufficient",
+    "tr": "yeterli",
+    "pos": "adjective",
+    "example": "Do we have sufficient time before the meeting?",
+    "exampleTr": "Toplantıdan önce yeterli zamanımız var mı?",
+    "syn": [
+     "enough"
+    ],
+    "ant": [
+     "insufficient"
+    ],
+    "level": "B2"
+   },
+   {
+    "id": "attachment",
+    "en": "attachment",
+    "tr": "ek dosya",
+    "pos": "noun",
+    "example": "Please open the attachment for the full schedule.",
+    "exampleTr": "Tam program için lütfen ek dosyayı açın.",
+    "syn": [],
+    "ant": [],
+    "level": "B2"
+   },
+   {
+    "id": "acknowledge",
+    "en": "acknowledge",
+    "tr": "kabul etmek, aldığını bildirmek",
+    "pos": "verb",
+    "example": "Please acknowledge receipt of this email.",
+    "exampleTr": "Lütfen bu e-postayı aldığınızı bildirin.",
+    "syn": [
+     "admit"
+    ],
+    "ant": [
+     "deny"
+    ],
+    "level": "B2"
+   },
+   {
+    "id": "accommodate",
+    "en": "accommodate",
+    "tr": "uyum sağlamak, yer ayırmak",
+    "pos": "verb",
+    "example": "The school can accommodate students with special needs.",
+    "exampleTr": "Okul özel ihtiyaçları olan öğrencilere uyum sağlayabilir.",
+    "syn": [
+     "adjust to"
+    ],
+    "ant": [],
+    "level": "B2"
+   },
+   {
+    "id": "courtesy",
+    "en": "courtesy",
+    "tr": "nezaket",
+    "pos": "noun",
+    "example": "As a courtesy, we call parents before the field trip.",
+    "exampleTr": "Nezaket gereği gezi öncesi velileri arıyoruz.",
+    "syn": [
+     "politeness"
+    ],
+    "ant": [
+     "rudeness"
+    ],
+    "level": "B2"
+   },
+   {
+    "id": "appreciate",
+    "en": "appreciate",
+    "tr": "takdir etmek, minnettar olmak",
+    "pos": "verb",
+    "example": "I really appreciate your help.",
+    "exampleTr": "Yardımınıza gerçekten minnettarım.",
+    "syn": [
+     "value"
+    ],
+    "ant": [],
+    "level": "B2"
+   },
+   {
+    "id": "obtain",
+    "en": "obtain",
+    "tr": "elde etmek",
+    "pos": "verb",
+    "example": "You can obtain the form at the front office.",
+    "exampleTr": "Formu ön büroda edinebilirsiniz.",
+    "syn": [
+     "get"
+    ],
+    "ant": [
+     "lose"
+    ],
+    "level": "B2"
+   },
+   {
+    "id": "kindly",
+    "en": "kindly",
+    "tr": "lütfen, nazikçe",
+    "pos": "adverb",
+    "example": "Kindly sign at the bottom of the page.",
+    "exampleTr": "Lütfen sayfanın altını imzalayın.",
+    "syn": [
+     "please"
+    ],
+    "ant": [],
+    "level": "B2"
+   },
+   {
+    "id": "decline",
+    "en": "decline",
+    "tr": "nazikçe reddetmek",
+    "pos": "verb",
+    "example": "I regret that I must decline the invitation.",
+    "exampleTr": "Üzgünüm, daveti kabul edemeyeceğim.",
+    "syn": [
+     "refuse"
+    ],
+    "ant": [
+     "accept"
+    ],
+    "level": "B2"
+   },
+   {
+    "id": "courteous",
+    "en": "courteous",
+    "tr": "kibar, nazik",
+    "pos": "adjective",
+    "example": "The secretary was courteous to every visitor.",
+    "exampleTr": "Sekreter her ziyaretçiye nazik davrandı.",
+    "syn": [
+     "polite"
+    ],
+    "ant": [
+     "rude"
+    ],
+    "level": "B2"
+   },
+   {
+    "id": "inconvenience",
+    "en": "inconvenience",
+    "tr": "rahatsızlık, zahmet",
+    "pos": "noun",
+    "example": "We apologize for any inconvenience.",
+    "exampleTr": "Yaşanan zahmet için özür dileriz.",
+    "syn": [
+     "trouble"
+    ],
+    "ant": [
+     "convenience"
+    ],
+    "level": "B2"
+   }
+  ],
+  "reading": {
+   "title": "Hafsa learns about register",
+   "text": "Hafsa had a good reason to be nervous on Monday morning. She wanted to write her first email to Dr. Alvarez, the principal of Lincoln Elementary, and she wanted every word to be right.\n\nAt first she typed what she would say to a neighbor: \"Hi Dr. Alvarez! I'm Hafsa. I wanna work as a sub at your school. Can you tell me what I gotta do? Thanks!\" She read it twice and frowned. It felt friendly, but she was not sure it sounded professional.\n\nShe showed the draft to Mr. Brown, the school secretary, when she dropped by the front office. He smiled kindly. \"Your idea is clear, Hafsa,\" he said, \"but the tone is a little too relaxed for a principal. In English, we change our language depending on the reader. This is called register.\"\n\nTogether they rewrote the message. \"Hi\" became \"Dear Dr. Alvarez,\" and \"I wanna\" became \"I would like to.\" The sentence \"Can you tell me what I gotta do?\" turned into \"Could you please inform me of the necessary steps?\" Mr. Brown also suggested replacing \"Thanks!\" with \"Thank you for your time and consideration.\" Finally, he added a closing: \"Sincerely, Hafsa Yilmaz.\"\n\n\"Is it too stiff now?\" Hafsa asked. \"Not at all,\" he answered. \"Formal does not mean cold. It means respectful. You can still sound like yourself. Just avoid slang and contractions in the first message. Once you know someone better, you can relax a bit.\"\n\nHafsa copied the new version and added her phone number below her name. Before she clicked send, she read it one more time aloud, slowly. The message now sounded calm and confident, the way she hoped to sound in the classroom.\n\nTwo days later, Dr. Alvarez replied: \"Dear Ms. Yilmaz, thank you for your message. Please stop by on Thursday at ten.\" Hafsa smiled. A small change in register had opened a big door.",
+   "glossary": [
+    {
+     "en": "frown",
+     "tr": "kaşlarını çatmak"
+    },
+    {
+     "en": "tone",
+     "tr": "üslup, ton"
+    },
+    {
+     "en": "stiff",
+     "tr": "resmiyetten sert, katı"
+    },
+    {
+     "en": "slang",
+     "tr": "argo, günlük konuşma dili"
+    },
+    {
+     "en": "contraction",
+     "tr": "kısaltma (don't gibi)"
+    },
+    {
+     "en": "consideration",
+     "tr": "dikkate alma, nezaket"
+    }
+   ],
+   "questions": [
+    {
+     "type": "mcq",
+     "q": "Why did Hafsa frown at her first draft?",
+     "options": [
+      "It was too long.",
+      "It sounded friendly but not professional.",
+      "It had many spelling mistakes.",
+      "She forgot to write her name."
+     ],
+     "answer": 1,
+     "whyTr": "Metin: 'It felt friendly, but she was not sure it sounded professional.'",
+     "tag": "reading",
+     "level": "B2"
+    },
+    {
+     "type": "mcq",
+     "q": "What does Mr. Brown mean by \"register\"?",
+     "options": [
+      "Writing a list of names",
+      "Using a longer email",
+      "Changing language depending on the reader",
+      "Signing a school form"
+     ],
+     "answer": 2,
+     "whyTr": "Mr. Brown: 'we change our language depending on the reader'.",
+     "tag": "reading",
+     "level": "B2"
+    },
+    {
+     "type": "mcq",
+     "q": "Which change did they make?",
+     "options": [
+      "\"I wanna\" became \"I would like to.\"",
+      "\"Dear\" became \"Hi.\"",
+      "\"Sincerely\" became \"Thanks.\"",
+      "\"Please\" was removed."
+     ],
+     "answer": 0,
+     "whyTr": "Metin: '\"I wanna\" became \"I would like to.\"'",
+     "tag": "reading",
+     "level": "B2"
+    },
+    {
+     "type": "mcq",
+     "q": "What can we infer from the end of the story?",
+     "options": [
+      "The formal email made a good impression.",
+      "Dr. Alvarez refused to meet Hafsa.",
+      "Hafsa decided never to write emails again.",
+      "Mr. Brown wrote to the principal himself."
+     ],
+     "answer": 0,
+     "whyTr": "Müdür kibarca cevap verip Hafsa'yı davet etti.",
+     "tag": "reading",
+     "level": "B2"
+    }
+   ]
+  }
+ },
+ "evening": {
+  "listening": {
+   "title": "Checking an email draft",
+   "script": [
+    {
+     "speaker": "Hafsa",
+     "text": "Mr. Brown, do you have a minute? I wrote a message to the district office about training days."
+    },
+    {
+     "speaker": "Mr. Brown",
+     "text": "Of course. Let me see it. Hmm, the first line says, 'Hey, I need some info about the training.'"
+    },
+    {
+     "speaker": "Hafsa",
+     "text": "Is that wrong?"
+    },
+    {
+     "speaker": "Mr. Brown",
+     "text": "It is understandable, but a bit casual. Try, 'I am writing to inquire about the upcoming training sessions.'"
+    },
+    {
+     "speaker": "Hafsa",
+     "text": "I see. 'Inquire' is more formal than 'ask,' right?"
+    },
+    {
+     "speaker": "Mr. Brown",
+     "text": "Exactly. And instead of 'Can you send me the dates,' you could write, 'Could you please send me the dates?'"
+    },
+    {
+     "speaker": "Hafsa",
+     "text": "That sounds more polite. What about the ending? I wrote, 'Thanks a lot, see you soon.'"
+    },
+    {
+     "speaker": "Mr. Brown",
+     "text": "For a district office, I would write, 'Thank you for your assistance. Sincerely, Hafsa Yilmaz.'"
+    },
+    {
+     "speaker": "Hafsa",
+     "text": "And should I use contractions like 'I'm' or 'don't'?"
+    },
+    {
+     "speaker": "Mr. Brown",
+     "text": "It is safer to write them out in the first message. 'I am' and 'do not' look more careful."
+    },
+    {
+     "speaker": "Hafsa",
+     "text": "Thank you. I will fix it today and send it before lunch."
+    },
+    {
+     "speaker": "Mr. Brown",
+     "text": "Good. If you want, bring it back and I will take one more look."
+    }
+   ],
+   "questions": [
+    {
+     "type": "mcq",
+     "q": "What is Hafsa's message about?",
+     "options": [
+      "A lost wallet",
+      "A field trip schedule",
+      "Training days at the district office",
+      "A parent meeting"
+     ],
+     "answer": 2,
+     "whyTr": "Hafsa: 'a message to the district office about training days'.",
+     "tag": "listening",
+     "level": "B2"
+    },
+    {
+     "type": "mcq",
+     "q": "What does Mr. Brown say about her first line?",
+     "options": [
+      "It is perfect.",
+      "It is understandable but too casual.",
+      "It has a grammar error.",
+      "It is too long."
+     ],
+     "answer": 1,
+     "whyTr": "Mr. Brown: 'understandable, but a bit casual'.",
+     "tag": "listening",
+     "level": "B2"
+    },
+    {
+     "type": "mcq",
+     "q": "Which closing does Mr. Brown recommend?",
+     "options": [
+      "Thanks a lot, see you soon.",
+      "Bye for now.",
+      "Talk to you later.",
+      "Thank you for your assistance. Sincerely,"
+     ],
+     "answer": 3,
+     "whyTr": "Mr. Brown önerdi: 'Thank you for your assistance. Sincerely, Hafsa Yilmaz.'",
+     "tag": "listening",
+     "level": "B2"
+    },
+    {
+     "type": "mcq",
+     "q": "What does he advise about contractions?",
+     "options": [
+      "Always use them.",
+      "Use them only in the subject line.",
+      "Write them out in the first message.",
+      "They are required in formal emails."
+     ],
+     "answer": 2,
+     "whyTr": "Mr. Brown: 'safer to write them out in the first message'.",
+     "tag": "listening",
+     "level": "B2"
+    }
+   ]
+  },
+  "writing": {
+   "promptTr": "Müdür Dr. Alvarez'e resmi bir e-posta yaz: okulda gönüllü olarak çalışmak istiyorsun ve bir görüşme talep ediyorsun. 120-180 kelime.",
+   "promptEn": "Write a formal email to the principal, Dr. Alvarez. Explain that you would like to volunteer at the school and request a meeting. Write 120-180 words.",
+   "frames": [
+    "Dear Dr. Alvarez,",
+    "I am writing to inquire about ...",
+    "I would like to request ...",
+    "Would it be convenient if ...?",
+    "Thank you for your time and consideration.",
+    "Sincerely,"
+   ],
+   "model": "Dear Dr. Alvarez,\n\nMy name is Hafsa Yilmaz, and I recently moved to Springfield from Turkey. I am writing to inquire about volunteer opportunities at Lincoln Elementary School. I have two years of experience helping children with reading at a community center, and I would like to continue that work in a school.\n\nI would also like to request a short meeting with you to discuss how I could assist teachers. Would Thursday morning be convenient? If that day is not suitable, I am happy to adapt to your schedule. I have enclosed a copy of my resume for your review. I would appreciate it if you could confirm a time at your earliest convenience.\n\nThank you for your time and consideration. I look forward to hearing from you.\n\nSincerely,\nHafsa Yilmaz",
+   "checklistTr": [
+    "'Dear Dr. Alvarez,' ile başladın mı?",
+    "Kısaltma (I'm, don't) kullanmadın mı?",
+    "En az iki resmi kalıp (I would like to, I am writing to, would appreciate) var mı?",
+    "'Sincerely,' ile bitirip adını yazdın mı?"
+   ],
+   "minWords": 120
+  },
+  "examSet": [
+   {
+    "type": "mcq",
+    "q": "Which is the most formal request?",
+    "options": [
+     "Would you mind sending me the form?",
+     "Send me the form.",
+     "Gimme the form.",
+     "Can I get that form?"
+    ],
+    "answer": 0,
+    "whyTr": "'Would you mind...?' resmi ve kibardır.",
+    "tag": "modals",
+    "level": "B2"
+   },
+   {
+    "type": "mcq",
+    "q": "Which greeting is best for an email to a school district office?",
+    "options": [
+     "Hey guys,",
+     "What's up?",
+     "Hi folks!",
+     "Dear Sir or Madam,"
+    ],
+    "answer": 3,
+    "whyTr": "Tanımadığın kişiye 'Dear Sir or Madam' yazılır.",
+    "tag": "word-order",
+    "level": "B2"
+   },
+   {
+    "type": "mcq",
+    "q": "\"I'm gonna be late\" is informal. A formal version is:",
+    "options": [
+     "I'm late for sure.",
+     "I will late.",
+     "I'm going to be late.",
+     "Late I am."
+    ],
+    "answer": 2,
+    "whyTr": "'gonna' konuşma dilinde 'going to' demektir; resmi yazıda 'I'm going to be late' kullanılır.",
+    "tag": "word-order",
+    "level": "B2"
+   },
+   {
+    "type": "mcq",
+    "q": "Choose the formal word: \"We need more people to ___ the meeting.\"",
+    "options": [
+     "come to",
+     "attend",
+     "show up to",
+     "hang around"
+    ],
+    "answer": 1,
+    "whyTr": "'Attend' resmi, 'show up' günlük dildir.",
+    "tag": "vocab",
+    "level": "B2"
+   },
+   {
+    "type": "mcq",
+    "q": "Which sentence sounds best in a letter to a principal?",
+    "options": [
+     "Sorry, no can do.",
+     "I can't come, sorry.",
+     "Nope, I'm busy.",
+     "I am afraid I cannot attend the conference."
+    ],
+    "answer": 3,
+    "whyTr": "Resmi bir üslupta 'I am afraid' kibar bir ret kalıbıdır.",
+    "tag": "modals",
+    "level": "B2"
+   },
+   {
+    "type": "mcq",
+    "q": "My son has ___ in this district since 2020.",
+    "options": [
+     "studied",
+     "studies",
+     "is studying",
+     "studied yesterday"
+    ],
+    "answer": 0,
+    "whyTr": "'Since 2020' ile present perfect: has studied.",
+    "tag": "present-perfect",
+    "level": "B2"
+   },
+   {
+    "type": "mcq",
+    "q": "If the school ___ more funding, it would hire more aides.",
+    "options": [
+     "has",
+     "will have",
+     "had",
+     "would have"
+    ],
+    "answer": 2,
+    "whyTr": "İkinci tip koşul: If + past simple, would + V.",
+    "tag": "conditionals",
+    "level": "B2"
+   },
+   {
+    "type": "mcq",
+    "q": "The new rule ___ by the principal last week.",
+    "options": [
+     "announced",
+     "is announced",
+     "has announced",
+     "was announced"
+    ],
+    "answer": 3,
+    "whyTr": "Edilgen geçmiş zaman: was announced.",
+    "tag": "passive",
+    "level": "B2"
+   },
+   {
+    "type": "mcq",
+    "q": "The parents ___ received the letter signed it.",
+    "options": [
+     "whose",
+     "who",
+     "which",
+     "what"
+    ],
+    "answer": 1,
+    "whyTr": "Kişi için 'who' kullanılır.",
+    "tag": "relative-clauses",
+    "level": "B2"
+   },
+   {
+    "type": "mcq",
+    "q": "I regret ___ you that the class has been cancelled.",
+    "options": [
+     "informing",
+     "inform",
+     "to inform",
+     "to informing"
+    ],
+    "answer": 2,
+    "whyTr": "regret to + fiil = üzülerek bildirmek.",
+    "tag": "gerund-infinitive",
+    "level": "B2"
+   },
+   {
+    "type": "mcq",
+    "q": "Please ___ receipt of this message by replying today.",
+    "options": [
+     "acknowledge",
+     "inquire",
+     "enclose",
+     "commence"
+    ],
+    "answer": 0,
+    "whyTr": "Mesajın alındığını bildirmek: acknowledge.",
+    "tag": "vocab",
+    "level": "B2"
+   },
+   {
+    "type": "mcq",
+    "q": "We apologize for any ___ this delay may cause.",
+    "options": [
+     "inconvenience",
+     "courtesy",
+     "concern",
+     "assistance"
+    ],
+    "answer": 0,
+    "whyTr": "Zahmet için özür: inconvenience.",
+    "tag": "vocab",
+    "level": "B2"
+   },
+   {
+    "type": "mcq",
+    "q": "The meeting will ___ at nine o'clock sharp.",
+    "options": [
+     "enclose",
+     "obtain",
+     "commence",
+     "assist"
+    ],
+    "answer": 2,
+    "whyTr": "Başlamak (resmi): commence.",
+    "tag": "vocab",
+    "level": "B2"
+   },
+   {
+    "type": "mcq",
+    "q": "Which word means almost the same as \"commence\"?",
+    "options": [
+     "finish",
+     "begin",
+     "delay",
+     "cancel"
+    ],
+    "answer": 1,
+    "whyTr": "Commence = begin.",
+    "tag": "synonym",
+    "level": "B2"
+   },
+   {
+    "type": "mcq",
+    "q": "What is the opposite of \"decline\" (an invitation)?",
+    "options": [
+     "refuse",
+     "reject",
+     "ignore",
+     "accept"
+    ],
+    "answer": 3,
+    "whyTr": "Decline (reddetmek) ↔ accept (kabul etmek).",
+    "tag": "antonym",
+    "level": "B2"
+   },
+   {
+    "type": "mcq",
+    "q": "Which word means almost the same as \"sufficient\"?",
+    "options": [
+     "empty",
+     "unusual",
+     "enough",
+     "rare"
+    ],
+    "answer": 2,
+    "whyTr": "Sufficient = enough.",
+    "tag": "synonym",
+    "level": "B2"
+   },
+   {
+    "type": "mcq",
+    "q": "What is the opposite of \"obtain\"?",
+    "options": [
+     "lose",
+     "receive",
+     "earn",
+     "gain"
+    ],
+    "answer": 0,
+    "whyTr": "Obtain (edinmek) ↔ lose (kaybetmek).",
+    "tag": "antonym",
+    "level": "B2"
+   },
+   {
+    "type": "mcq",
+    "q": "Dear Ms. Reed, I am writing to inquire about the evening art class. Could you please send me the schedule? Sincerely, Anna Cole.\n\nWhy is Anna writing?",
+    "options": [
+     "To cancel a class",
+     "To complain about a teacher",
+     "To thank Ms. Reed",
+     "To ask about a class"
+    ],
+    "answer": 3,
+    "whyTr": "'Inquire about' bilgi sormaktır.",
+    "tag": "reading",
+    "level": "B2"
+   },
+   {
+    "type": "mcq",
+    "q": "Hi Tom, can u send the file asap? Thx!\n\nThis message is ___.",
+    "options": [
+     "formal",
+     "informal",
+     "polite and official",
+     "very respectful"
+    ],
+    "answer": 1,
+    "whyTr": "'u', 'asap', 'thx' gayriresmidir.",
+    "tag": "reading",
+    "level": "B2"
+   },
+   {
+    "type": "mcq",
+    "q": "Which phrase belongs in a formal email?",
+    "options": [
+     "Write back quick.",
+     "I look forward to hearing from you.",
+     "Hit me up later.",
+     "Catch you later."
+    ],
+    "answer": 1,
+    "whyTr": "'I look forward to hearing from you' resmi kapanış cümlesidir.",
+    "tag": "word-order",
+    "level": "B2"
+   }
+  ]
+ }
+}

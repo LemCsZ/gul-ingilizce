@@ -1,0 +1,800 @@
+{
+ "week": 9,
+ "day": 5,
+ "titleTr": "Okul ofisini aramak: kibar dolaylı sorular",
+ "theme": "phone-school-office",
+ "morning": {
+  "grammar": {
+   "topic": "Indirect polite questions: Could you tell me...?",
+   "explainTr": [
+    "Kibar konuşmak için doğrudan soru yerine 'Could you tell me...?', 'Do you know...?' ya da 'I was wondering if...' ile başlarsın. Doğrudan soru: Where is the office? Dolaylı soru: Could you tell me where the office is?",
+    "En önemli kural: soru kelimesinden sonra düz cümle sırası kullanırsın (özne + fiil) ve do/does/did gelmez: Do you know what time school starts? (does school start değil). Fiil gerekirse -s alır.",
+    "Evet/hayır sorularında 'if' ya da 'whether' kullanırsın: Do you know if the office is open? Cümle soru kalıbıyla başlıyorsa sonunda soru işareti kalır."
+   ],
+   "compareTr": "Türkçede kibar soru için sözcük sırası değişmez: 'Ofis nerede?' / 'Ofisin nerede olduğunu söyler misiniz?'. İngilizcede ise yardımcı fiil (is, does) özneden önce gelmemeli: where the office is, not where is the office.",
+   "table": [
+    [
+     "Doğrudan",
+     "Where is the office?",
+     "Soru sırası"
+    ],
+    [
+     "Dolaylı",
+     "Could you tell me where the office is?",
+     "Düz cümle sırası"
+    ],
+    [
+     "Evet/hayır",
+     "Do you know if the office is open?",
+     "if / whether"
+    ],
+    [
+     "Yanlış",
+     "Do you know what time does school start?",
+     "does eklenmez"
+    ]
+   ],
+   "examples": [
+    {
+     "en": "Could you tell me where the gym is?",
+     "tr": "Spor salonunun nerede olduğunu söyler misiniz?"
+    },
+    {
+     "en": "Do you know what time school starts?",
+     "tr": "Okulun saat kaçta başladığını biliyor musunuz?"
+    },
+    {
+     "en": "I was wondering if the principal is available.",
+     "tr": "Müdürün müsait olup olmadığını merak ediyordum."
+    },
+    {
+     "en": "Could you tell me how much the fee is?",
+     "tr": "Ücretin ne kadar olduğunu söyler misiniz?"
+    }
+   ],
+   "exercises": [
+    {
+     "type": "mcq",
+     "q": "Could you tell me where ___?",
+     "options": [
+      "the office is",
+      "is the office",
+      "does the office is",
+      "the office"
+     ],
+     "answer": 0,
+     "whyTr": "Dolaylı soruda düz cümle sırası: where + özne + fiil.",
+     "tag": "question-form",
+     "level": "B1"
+    },
+    {
+     "type": "mcq",
+     "q": "Do you know what time ___?",
+     "options": [
+      "does school start",
+      "school starts",
+      "starts school",
+      "school start"
+     ],
+     "answer": 1,
+     "whyTr": "Dolaylı soruda do/does kullanılmaz; fiil -s alır: school starts.",
+     "tag": "question-form",
+     "level": "B1"
+    },
+    {
+     "type": "mcq",
+     "q": "Can you tell me ___ the office is open on Saturday?",
+     "options": [
+      "that",
+      "do",
+      "if",
+      "what"
+     ],
+     "answer": 2,
+     "whyTr": "Evet/hayır sorusu dolaylı olunca 'if' ya da 'whether' kullanılır.",
+     "tag": "question-form",
+     "level": "B1"
+    },
+    {
+     "type": "mcq",
+     "q": "Which sentence is correct?",
+     "options": [
+      "I'd like to know how much does the field trip cost.",
+      "I'd like to know how much the field trip cost?",
+      "I'd like to know how much costs the field trip.",
+      "I'd like to know how much the field trip costs."
+     ],
+     "answer": 3,
+     "whyTr": "Soru kelimesinden sonra özne + fiil gelir; does yok.",
+     "tag": "question-form",
+     "level": "B1"
+    },
+    {
+     "type": "mcq",
+     "q": "I was wondering ___ I could speak to the principal.",
+     "options": [
+      "if",
+      "that",
+      "what",
+      "where"
+     ],
+     "answer": 0,
+     "whyTr": "'I was wondering if...' kibar bir rica kalıbıdır.",
+     "tag": "question-form",
+     "level": "B1"
+    },
+    {
+     "type": "mcq",
+     "q": "Could you tell me when the bus ___?",
+     "options": [
+      "arrive",
+      "arrives",
+      "does arrive",
+      "arriving"
+     ],
+     "answer": 1,
+     "whyTr": "Özne 'the bus' tekil; fiil -s alır.",
+     "tag": "question-form",
+     "level": "B1"
+    },
+    {
+     "type": "mcq",
+     "q": "Which question is the most polite?",
+     "options": [
+      "Tell me where the office is.",
+      "Where is the office?",
+      "Could you tell me where the office is?",
+      "I want the office."
+     ],
+     "answer": 2,
+     "whyTr": "'Could you tell me...?' en kibar kalıptır.",
+     "tag": "question-form",
+     "level": "B1"
+    },
+    {
+     "type": "mcq",
+     "q": "I am calling ___ ask about the registration.",
+     "options": [
+      "for",
+      "so that",
+      "in order",
+      "to"
+     ],
+     "answer": 3,
+     "whyTr": "Amaç: to + fiil (Gün 4 tekrarı).",
+     "tag": "linkers",
+     "level": "B1"
+    },
+    {
+     "type": "order",
+     "promptTr": "Cümleyi sırala:",
+     "words": [
+      "tell",
+      "me",
+      "where",
+      "the",
+      "gym",
+      "is",
+      "Could",
+      "you"
+     ],
+     "answer": "Could you tell me where the gym is",
+     "whyTr": "Dolaylı soruda 'is' sona gider.",
+     "tag": "question-form",
+     "level": "B1"
+    },
+    {
+     "type": "order",
+     "promptTr": "Cümleyi sırala:",
+     "words": [
+      "know",
+      "if",
+      "Ms.",
+      "Lopez",
+      "is",
+      "available",
+      "Do",
+      "you"
+     ],
+     "answer": "Do you know if Ms. Lopez is available",
+     "whyTr": "If + özne + fiil; düz cümle sırası.",
+     "tag": "question-form",
+     "level": "B1"
+    },
+    {
+     "type": "fill",
+     "q": "Do you know ___ the form is due on Friday?",
+     "accept": [
+      "if",
+      "whether"
+     ],
+     "hintTr": "evet/hayır sorusu için bağlaç",
+     "whyTr": "Evet/hayır sorusunda 'if' ya da 'whether' kullanılır.",
+     "tag": "question-form",
+     "level": "B1"
+    },
+    {
+     "type": "fill",
+     "q": "Can you tell me what time school ___? (start)",
+     "accept": [
+      "starts"
+     ],
+     "hintTr": "start fiilinin doğru hali",
+     "whyTr": "Dolaylı soruda fiil düz cümledeki gibi -s alır.",
+     "tag": "question-form",
+     "level": "B1"
+    }
+   ]
+  },
+  "vocab": [
+   {
+    "id": "wonder",
+    "en": "wonder",
+    "tr": "merak etmek",
+    "pos": "verb",
+    "example": "I wonder if the office is open.",
+    "exampleTr": "Ofis açık mı diye merak ediyorum.",
+    "syn": [],
+    "ant": [],
+    "level": "B1"
+   },
+   {
+    "id": "available",
+    "en": "available",
+    "tr": "müsait, uygun",
+    "pos": "adjective",
+    "example": "Is the principal available today?",
+    "exampleTr": "Müdür bugün müsait mi?",
+    "syn": [
+     "free"
+    ],
+    "ant": [
+     "unavailable"
+    ],
+    "level": "B1"
+   },
+   {
+    "id": "deadline",
+    "en": "deadline",
+    "tr": "son tarih",
+    "pos": "noun",
+    "example": "The deadline for the form is Friday.",
+    "exampleTr": "Formun son tarihi cuma.",
+    "syn": [
+     "due date"
+    ],
+    "ant": [],
+    "level": "B1"
+   },
+   {
+    "id": "policy",
+    "en": "policy",
+    "tr": "politika, kural",
+    "pos": "noun",
+    "example": "The school policy is on the website.",
+    "exampleTr": "Okul politikası internet sitesinde.",
+    "syn": [
+     "rule"
+    ],
+    "ant": [],
+    "level": "B1"
+   },
+   {
+    "id": "dismissal",
+    "en": "dismissal",
+    "tr": "okul çıkışı",
+    "pos": "noun",
+    "example": "Dismissal is at three o'clock.",
+    "exampleTr": "Okul çıkışı saat üçte.",
+    "syn": [],
+    "ant": [],
+    "level": "B1"
+   },
+   {
+    "id": "absent",
+    "en": "absent",
+    "tr": "devamsız, yok",
+    "pos": "adjective",
+    "example": "Two students are absent today.",
+    "exampleTr": "Bugün iki öğrenci devamsız.",
+    "syn": [],
+    "ant": [
+     "present"
+    ],
+    "level": "A2"
+   },
+   {
+    "id": "excuse",
+    "en": "excuse",
+    "tr": "mazeret; mazur görmek",
+    "pos": "noun",
+    "example": "She brought an excuse note from her mom.",
+    "exampleTr": "Annesinden mazeret notu getirdi.",
+    "syn": [],
+    "ant": [],
+    "level": "B1"
+   },
+   {
+    "id": "reach",
+    "en": "reach",
+    "tr": "ulaşmak, iletişim kurmak",
+    "pos": "verb",
+    "example": "How can I reach you after school?",
+    "exampleTr": "Okuldan sonra size nasıl ulaşabilirim?",
+    "syn": [
+     "contact"
+    ],
+    "ant": [],
+    "level": "B1"
+   },
+   {
+    "id": "transfer",
+    "en": "transfer",
+    "tr": "nakil, aktarmak",
+    "pos": "verb",
+    "example": "He wants to transfer to another school.",
+    "exampleTr": "Başka bir okula nakil olmak istiyor.",
+    "syn": [],
+    "ant": [],
+    "level": "B1"
+   },
+   {
+    "id": "inform",
+    "en": "inform",
+    "tr": "bilgilendirmek",
+    "pos": "verb",
+    "example": "Please inform the office if you are late.",
+    "exampleTr": "Geç kalırsanız lütfen ofisi bilgilendirin.",
+    "syn": [
+     "tell"
+    ],
+    "ant": [],
+    "level": "B1"
+   },
+   {
+    "id": "permission",
+    "en": "permission",
+    "tr": "izin",
+    "pos": "noun",
+    "example": "You need permission to leave early.",
+    "exampleTr": "Erken çıkmak için izne ihtiyacın var.",
+    "syn": [
+     "approval"
+    ],
+    "ant": [],
+    "level": "B1"
+   },
+   {
+    "id": "request",
+    "en": "request",
+    "tr": "rica etmek; rica",
+    "pos": "verb",
+    "example": "I request a meeting with the principal.",
+    "exampleTr": "Müdürle bir görüşme rica ediyorum.",
+    "syn": [
+     "ask"
+    ],
+    "ant": [],
+    "level": "B1"
+   },
+   {
+    "id": "directions",
+    "en": "directions",
+    "tr": "yol tarifi; talimatlar",
+    "pos": "noun",
+    "example": "Could you give me directions to the school?",
+    "exampleTr": "Bana okula yol tarifi verebilir misiniz?",
+    "syn": [],
+    "ant": [],
+    "level": "B1"
+   },
+   {
+    "id": "fee",
+    "en": "fee",
+    "tr": "ücret, harç",
+    "pos": "noun",
+    "example": "There is a small fee for the field trip.",
+    "exampleTr": "Gezi için küçük bir ücret var.",
+    "syn": [
+     "charge"
+    ],
+    "ant": [],
+    "level": "B1"
+   },
+   {
+    "id": "registration",
+    "en": "registration",
+    "tr": "kayıt",
+    "pos": "noun",
+    "example": "Registration starts next week.",
+    "exampleTr": "Kayıt önümüzdeki hafta başlıyor.",
+    "syn": [
+     "sign-up"
+    ],
+    "ant": [],
+    "level": "B1"
+   }
+  ],
+  "reading": {
+   "title": "A call to the school office",
+   "text": "Hafsa is nervous about phone calls in English because she cannot see the other person's face. Today, however, she needs information about substitute teacher registration. Before she calls, she writes her questions on a card and checks the word order twice.\n\n\"Lincoln Elementary, this is Mr. Brown,\" says the voice on the phone. Hafsa takes a deep breath. \"Good morning, Mr. Brown. This is Hafsa. Could you tell me what time the office closes?\" \"We close at four thirty,\" he answers. \"Thank you. I was wondering if there is a fee for registration.\" \"Yes, the fee is thirty dollars, and the deadline is next Friday.\"\n\nHafsa writes the numbers down quickly. \"Do you know whether the principal is available on Thursday? I would like to ask her a few questions about the school's policy for substitutes.\" Mr. Brown looks at his list. \"She is free at ten o'clock. Shall I put your name down?\" \"Yes, please. And could you tell me how I can reach you if I am late?\" He gives her his direct number and his email address.\n\nWhen she hangs up, Hafsa smiles. The call was short, polite and clear. She realizes that she does not need perfect English to get what she wants. She only needs the right question order. She puts the card in her wallet. On the back she writes, \"Could you tell me ...? Do you know if ...?\" It will be useful again soon.",
+   "glossary": [
+    {
+     "en": "voice",
+     "tr": "ses"
+    },
+    {
+     "en": "word order",
+     "tr": "sözcük sırası"
+    },
+    {
+     "en": "hang up",
+     "tr": "telefonu kapatmak"
+    },
+    {
+     "en": "direct number",
+     "tr": "doğrudan hat"
+    }
+   ],
+   "questions": [
+    {
+     "type": "mcq",
+     "q": "What time does the office close?",
+     "options": [
+      "At four thirty",
+      "At four o'clock",
+      "At five thirty",
+      "At ten o'clock"
+     ],
+     "answer": 0,
+     "whyTr": "Metin: 'We close at four thirty.'",
+     "tag": "reading",
+     "level": "B1"
+    },
+    {
+     "type": "mcq",
+     "q": "How much is the registration fee?",
+     "options": [
+      "Ten dollars",
+      "Thirty dollars",
+      "Thirteen dollars",
+      "There is no fee"
+     ],
+     "answer": 1,
+     "whyTr": "Metin: 'the fee is thirty dollars'.",
+     "tag": "reading",
+     "level": "B1"
+    },
+    {
+     "type": "mcq",
+     "q": "Why does Hafsa want to see the principal?",
+     "options": [
+      "To pay the fee",
+      "To report an absent student",
+      "To ask about the school's policy for substitutes",
+      "To get directions"
+     ],
+     "answer": 2,
+     "whyTr": "Metin: 'ask her a few questions about the school's policy for substitutes'.",
+     "tag": "reading",
+     "level": "B1"
+    },
+    {
+     "type": "mcq",
+     "q": "What does Hafsa put in her wallet?",
+     "options": [
+      "A thirty-dollar bill",
+      "Mr. Brown's phone",
+      "A school map",
+      "A card with polite question patterns"
+     ],
+     "answer": 3,
+     "whyTr": "Metin: 'She puts the card in her wallet.'",
+     "tag": "reading",
+     "level": "B1"
+    }
+   ]
+  }
+ },
+ "evening": {
+  "listening": {
+   "title": "A phone call before the first day",
+   "script": [
+    {
+     "speaker": "Mr. Brown",
+     "text": "Lincoln Elementary, Mr. Brown speaking."
+    },
+    {
+     "speaker": "Hafsa",
+     "text": "Good afternoon, Mr. Brown. This is Hafsa. I was wondering if you could tell me where I should park on Monday."
+    },
+    {
+     "speaker": "Mr. Brown",
+     "text": "Sure. You can park behind the gym. Do you know where it is?"
+    },
+    {
+     "speaker": "Hafsa",
+     "text": "Yes, I do. Could you also tell me what time I should arrive?"
+    },
+    {
+     "speaker": "Mr. Brown",
+     "text": "Please be here by seven thirty. The first bell rings at eight."
+    },
+    {
+     "speaker": "Hafsa",
+     "text": "Thank you. Do you know if I need to bring anything?"
+    },
+    {
+     "speaker": "Mr. Brown",
+     "text": "Just your ID and a pen. We provide the lesson plans."
+    },
+    {
+     "speaker": "Hafsa",
+     "text": "One more question. Could you tell me whether students eat lunch in the classroom?"
+    },
+    {
+     "speaker": "Mr. Brown",
+     "text": "No, they eat in the cafeteria at eleven forty-five."
+    },
+    {
+     "speaker": "Hafsa",
+     "text": "That's very helpful. Do you mind if I call again if I have more questions?"
+    },
+    {
+     "speaker": "Mr. Brown",
+     "text": "Not at all. Call any time before four thirty."
+    },
+    {
+     "speaker": "Hafsa",
+     "text": "Thank you so much. Goodbye!"
+    }
+   ],
+   "questions": [
+    {
+     "type": "mcq",
+     "q": "Where can Hafsa park?",
+     "options": [
+      "Behind the gym",
+      "In front of the office",
+      "Next to the cafeteria",
+      "On the playground"
+     ],
+     "answer": 0,
+     "whyTr": "Mr. Brown: 'You can park behind the gym.'",
+     "tag": "listening",
+     "level": "B1"
+    },
+    {
+     "type": "mcq",
+     "q": "What time should Hafsa arrive?",
+     "options": [
+      "At eight o'clock",
+      "By seven thirty",
+      "At eleven forty-five",
+      "At four thirty"
+     ],
+     "answer": 1,
+     "whyTr": "Mr. Brown: 'Please be here by seven thirty.'",
+     "tag": "listening",
+     "level": "B1"
+    },
+    {
+     "type": "mcq",
+     "q": "What should Hafsa bring?",
+     "options": [
+      "Her lesson plans",
+      "Her lunch",
+      "Her ID and a pen",
+      "A computer"
+     ],
+     "answer": 2,
+     "whyTr": "Mr. Brown: 'Just your ID and a pen.'",
+     "tag": "listening",
+     "level": "B1"
+    },
+    {
+     "type": "mcq",
+     "q": "Where do students eat lunch?",
+     "options": [
+      "In the classroom at noon",
+      "In the gym at one o'clock",
+      "On the playground at ten",
+      "In the cafeteria at eleven forty-five"
+     ],
+     "answer": 3,
+     "whyTr": "Mr. Brown: 'they eat in the cafeteria at eleven forty-five'.",
+     "tag": "listening",
+     "level": "B1"
+    }
+   ]
+  },
+  "writing": {
+   "promptTr": "Okul ofisine ilk günün hakkında kibar bir e-posta yaz. En az 4 dolaylı soru kullan: Could you tell me...? I was wondering if...? Do you know whether...? (80-120 kelime)",
+   "promptEn": "Write a polite email to the school office about your first day. Use at least four indirect questions. (80-120 words)",
+   "frames": [
+    "Could you tell me what time ...?",
+    "I was wondering if ...",
+    "Do you know whether ...?",
+    "Could you also tell me where ...?"
+   ],
+   "model": "Dear Mr. Brown, I am writing to ask a few questions about my first day. Could you tell me what time I should arrive on Monday? I was wondering if I need to bring a lesson plan or if the school provides one. Do you know whether I can park behind the gym? Could you also tell me where I should go first when I arrive? I would also like to know how I can reach you if I am late. Thank you very much for your help. I am looking forward to working at Lincoln Elementary. Sincerely, Hafsa",
+   "checklistTr": [
+    "Dolaylı sorularda düz cümle sırası kullandın mı (where the office is)?",
+    "Does/did/do ekleme hatası yok, değil mi?",
+    "Evet/hayır sorularında if ya da whether var mı?",
+    "Soru işareti yalnızca ana soru cümlesinin sonunda mı?"
+   ],
+   "minWords": 80
+  },
+  "examSet": [
+   {
+    "type": "mcq",
+    "q": "Could you tell me where ___?",
+    "options": [
+     "the gym is",
+     "is the gym",
+     "does the gym is",
+     "the gym"
+    ],
+    "answer": 0,
+    "whyTr": "Dolaylı soru: düz cümle sırası.",
+    "tag": "question-form",
+    "level": "B1"
+   },
+   {
+    "type": "mcq",
+    "q": "Do you know what time ___?",
+    "options": [
+     "does the bus come",
+     "the bus comes",
+     "comes the bus",
+     "the bus come"
+    ],
+    "answer": 1,
+    "whyTr": "Dolaylı soruda do/does yok; fiil -s alır.",
+    "tag": "question-form",
+    "level": "B1"
+   },
+   {
+    "type": "mcq",
+    "q": "Which sentence is correct?",
+    "options": [
+     "I'd like to know is the office open.",
+     "I'd like to know if is the office open.",
+     "I'd like to know if the office is open.",
+     "I'd like to know does the office open."
+    ],
+    "answer": 2,
+    "whyTr": "If + özne + fiil.",
+    "tag": "question-form",
+    "level": "B1"
+   },
+   {
+    "type": "mcq",
+    "q": "Ms. Lopez is ___ today. She is at home with a cold.",
+    "options": [
+     "available",
+     "responsible",
+     "patient",
+     "absent"
+    ],
+    "answer": 3,
+    "whyTr": "Okulda olmayan kişi absent'tır.",
+    "tag": "vocab",
+    "level": "A2"
+   },
+   {
+    "type": "mcq",
+    "q": "The ___ for registration is Friday, so please hurry.",
+    "options": [
+     "deadline",
+     "entrance",
+     "exit",
+     "supplies"
+    ],
+    "answer": 0,
+    "whyTr": "Son tarih = deadline.",
+    "tag": "vocab",
+    "level": "B1"
+   },
+   {
+    "type": "mcq",
+    "q": "What is the opposite of 'absent'?",
+    "options": [
+     "patient",
+     "present",
+     "late",
+     "quiet"
+    ],
+    "answer": 1,
+    "whyTr": "Absent'ın zıttı present.",
+    "tag": "antonym",
+    "level": "A2"
+   },
+   {
+    "type": "mcq",
+    "q": "Which word is closest in meaning to 'inform'?",
+    "options": [
+     "forget",
+     "avoid",
+     "tell",
+     "ask"
+    ],
+    "answer": 2,
+    "whyTr": "Inform = tell (bilgilendirmek).",
+    "tag": "synonym",
+    "level": "B1"
+   },
+   {
+    "type": "mcq",
+    "q": "Which word is closest in meaning to 'policy'?",
+    "options": [
+     "fee",
+     "floor",
+     "goal",
+     "rule"
+    ],
+    "answer": 3,
+    "whyTr": "Policy = rule (kural).",
+    "tag": "synonym",
+    "level": "B1"
+   },
+   {
+    "type": "mcq",
+    "q": "A student needs ___ from a parent to leave early.",
+    "options": [
+     "permission",
+     "deadline",
+     "registration",
+     "directions"
+    ],
+    "answer": 0,
+    "whyTr": "İzin = permission.",
+    "tag": "vocab",
+    "level": "B1"
+   },
+   {
+    "type": "mcq",
+    "q": "The office is the place ___ parents sign in.",
+    "options": [
+     "whose",
+     "where",
+     "who",
+     "which"
+    ],
+    "answer": 1,
+    "whyTr": "Yer için 'where' (Gün 2 tekrarı).",
+    "tag": "pronouns",
+    "level": "B1"
+   },
+   {
+    "type": "mcq",
+    "q": "A parent called the office to ask about a field trip. She asked what time the bus returns and whether her son needs a lunch. The secretary said the bus returns at two thirty and that lunch is provided.\n\nWhat did the secretary say about lunch?",
+    "options": [
+     "The students bring it.",
+     "It costs ten dollars.",
+     "Lunch is provided.",
+     "There is no lunch."
+    ],
+    "answer": 2,
+    "whyTr": "Metin: 'lunch is provided'.",
+    "tag": "reading",
+    "level": "B1"
+   },
+   {
+    "type": "mcq",
+    "q": "Hafsa wants to speak with the principal. She is wondering if the principal is free on Thursday. She also wants to know whether she should bring her resume.\n\nWhat does Hafsa want to know about the resume?",
+    "options": [
+     "Where she can print it",
+     "Who will read it",
+     "How long it should be",
+     "Whether she should bring it"
+    ],
+    "answer": 3,
+    "whyTr": "Metin: 'whether she should bring her resume'.",
+    "tag": "reading",
+    "level": "B1"
+   }
+  ]
+ }
+}

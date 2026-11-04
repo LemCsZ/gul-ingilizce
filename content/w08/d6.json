@@ -1,0 +1,787 @@
+{
+ "week": 8,
+ "day": 6,
+ "titleTr": "Hafta tekrarı: okul duyurusunu oku",
+ "theme": "school-safety",
+ "morning": {
+  "grammar": {
+   "topic": "Week review: conditionals (0, 1st, 2nd, unless) and the passive",
+   "explainTr": [
+    "Bu hafta dört koşul yapısı ve iki edilgen yapı gördün. Zero conditional genel gerçekler için (If + present, present), 1st conditional gerçekçi gelecek için (If + present, will), 2nd conditional hayali durumlar için (If + past, would).",
+    "'Unless' = if ... not; yanında olumlu fiil kullanırsın. Edilgen: şimdiki zamanda is/are + V3 (is sent), geçmişte was/were + V3 (was built).",
+    "Okul duyurularında bu yapılar yan yana gelir: 'Forms are sent home. If it snows, the event will be postponed.' Bugün gerçek bir duyuru okuyacaksın; haftanın tüm yapılarını bulmaya çalış."
+   ],
+   "compareTr": "Türkçede -sa/-se eki bütün koşulları kapsar; zamanı bağlam belirler. İngilizcede zaman seçimi önemlidir: gerçek ihtimal için If + present + will, hayal için If + past + would. Edilgende de Türkçedeki -ıl/-ilmek eki yerine be + V3 gelir.",
+   "table": [
+    [
+     "Zero",
+     "If + present, present",
+     "If you heat ice, it melts."
+    ],
+    [
+     "1st",
+     "If + present, will + fiil",
+     "If it snows, we will stay home."
+    ],
+    [
+     "2nd",
+     "If + past, would + fiil",
+     "If I were rich, I would travel."
+    ],
+    [
+     "Unless",
+     "Unless + olumlu present",
+     "Unless you register, you can't attend."
+    ],
+    [
+     "Passive",
+     "am/is/are/was/were + V3",
+     "The form is signed. The gym was built."
+    ]
+   ],
+   "examples": [
+    {
+     "en": "If you heat ice, it melts.",
+     "tr": "Buzu ısıtırsan erir."
+    },
+    {
+     "en": "If it snows, the event will be postponed.",
+     "tr": "Kar yağarsa etkinlik ertelenecek."
+    },
+    {
+     "en": "If I were the principal, I would plan more events.",
+     "tr": "Müdür olsaydım daha çok etkinlik planlardım."
+    },
+    {
+     "en": "Unless you register, you can't attend.",
+     "tr": "Kayıt olmadıkça katılamazsın."
+    },
+    {
+     "en": "The announcement was made by Mr. Brown.",
+     "tr": "Duyuruyu Mr. Brown yaptı."
+    }
+   ],
+   "exercises": [
+    {
+     "type": "mcq",
+     "q": "If it ___ tomorrow, the trip will be canceled.",
+     "options": [
+      "rains",
+      "will rain",
+      "would rain"
+     ],
+     "answer": 0,
+     "whyTr": "1st conditional: if + present simple.",
+     "tag": "future",
+     "level": "B1"
+    },
+    {
+     "type": "mcq",
+     "q": "If I ___ more time, I would volunteer every week.",
+     "options": [
+      "have",
+      "had",
+      "would have"
+     ],
+     "answer": 1,
+     "whyTr": "2nd conditional: if + past simple.",
+     "tag": "future",
+     "level": "B1"
+    },
+    {
+     "type": "mcq",
+     "q": "If you heat ice, it ___.",
+     "options": [
+      "will melting",
+      "melted",
+      "melts"
+     ],
+     "answer": 2,
+     "whyTr": "Zero conditional: genel gerçek, present simple.",
+     "tag": "present-simple",
+     "level": "B1"
+    },
+    {
+     "type": "mcq",
+     "q": "Unless you ___ a hall pass, you can't walk in the hallway.",
+     "options": [
+      "have",
+      "don't have",
+      "will have"
+     ],
+     "answer": 0,
+     "whyTr": "Unless'ten sonra olumlu present simple gelir.",
+     "tag": "linkers",
+     "level": "B1"
+    },
+    {
+     "type": "mcq",
+     "q": "The newsletter ___ to all families every Friday.",
+     "options": [
+      "was sent",
+      "is sent",
+      "sends"
+     ],
+     "answer": 1,
+     "whyTr": "Alışkanlık, şimdiki edilgen: is sent.",
+     "tag": "present-simple",
+     "level": "B1"
+    },
+    {
+     "type": "mcq",
+     "q": "The new gym ___ last year.",
+     "options": [
+      "is built",
+      "were built",
+      "was built"
+     ],
+     "answer": 2,
+     "whyTr": "Geçmiş edilgen: gym tekil, was built.",
+     "tag": "past-simple",
+     "level": "B1"
+    },
+    {
+     "type": "order",
+     "promptTr": "Cümleyi sırala:",
+     "words": [
+      "rains,",
+      "the",
+      "picnic",
+      "will",
+      "be",
+      "moved",
+      "inside",
+      "If",
+      "it"
+     ],
+     "answer": "If it rains, the picnic will be moved inside",
+     "whyTr": "1st conditional + gelecek edilgen: will be + V3.",
+     "tag": "future",
+     "level": "B1"
+    },
+    {
+     "type": "order",
+     "promptTr": "Cümleyi sırala:",
+     "words": [
+      "was",
+      "made",
+      "by",
+      "the",
+      "principal",
+      "The",
+      "announcement"
+     ],
+     "answer": "The announcement was made by the principal",
+     "whyTr": "Geçmiş edilgen: was + V3 + by + yapan.",
+     "tag": "past-simple",
+     "level": "B1"
+    },
+    {
+     "type": "mcq",
+     "q": "Which sentence is correct?",
+     "options": [
+      "If I were you, I would sign the form.",
+      "If I would be you, I sign the form.",
+      "If I am you, I would signed the form."
+     ],
+     "answer": 0,
+     "whyTr": "'If I were you' + would + yalın fiil.",
+     "tag": "future",
+     "level": "B1"
+    },
+    {
+     "type": "mcq",
+     "q": "When ___ the event announced?",
+     "options": [
+      "were",
+      "was",
+      "did"
+     ],
+     "answer": 1,
+     "whyTr": "Event tekil, geçmiş edilgen soru: When was ... announced?",
+     "tag": "question-form",
+     "level": "B1"
+    },
+    {
+     "type": "mcq",
+     "q": "Hafsa ___ the newsletter every week.",
+     "options": [
+      "read",
+      "is reading every",
+      "reads"
+     ],
+     "answer": 2,
+     "whyTr": "Alışkanlık: present simple, she + -s.",
+     "tag": "present-simple",
+     "level": "A2"
+    },
+    {
+     "type": "fill",
+     "q": "If you ___ the form today, the office will register you.",
+     "accept": [
+      "submit"
+     ],
+     "hintTr": "teslim etmek",
+     "whyTr": "If'ten sonra present simple gelir: submit.",
+     "tag": "future",
+     "level": "B1"
+    }
+   ]
+  },
+  "vocab": [
+   {
+    "id": "announcement",
+    "en": "announcement",
+    "tr": "duyuru",
+    "pos": "noun",
+    "example": "The announcement was made at 8:00.",
+    "exampleTr": "Duyuru saat 8:00'de yapıldı.",
+    "syn": [
+     "notice"
+    ],
+    "ant": [],
+    "level": "B1"
+   },
+   {
+    "id": "reminder",
+    "en": "reminder",
+    "tr": "hatırlatma",
+    "pos": "noun",
+    "example": "I got a reminder about the meeting.",
+    "exampleTr": "Toplantı hakkında bir hatırlatma aldım.",
+    "syn": [],
+    "ant": [],
+    "level": "B1"
+   },
+   {
+    "id": "cancel",
+    "en": "cancel",
+    "tr": "iptal etmek",
+    "pos": "verb",
+    "example": "The trip was canceled because of the rain.",
+    "exampleTr": "Gezi yağmur yüzünden iptal edildi.",
+    "syn": [],
+    "ant": [
+     "confirm"
+    ],
+    "level": "B1"
+   },
+   {
+    "id": "postpone",
+    "en": "postpone",
+    "tr": "ertelemek",
+    "pos": "verb",
+    "example": "The event was postponed until Thursday.",
+    "exampleTr": "Etkinlik perşembeye ertelendi.",
+    "syn": [
+     "delay"
+    ],
+    "ant": [],
+    "level": "B1"
+   },
+   {
+    "id": "deadline",
+    "en": "deadline",
+    "tr": "son tarih",
+    "pos": "noun",
+    "example": "The deadline for the form is Friday.",
+    "exampleTr": "Formun son tarihi cuma.",
+    "syn": [],
+    "ant": [],
+    "level": "B1"
+   },
+   {
+    "id": "volunteer",
+    "en": "volunteer",
+    "tr": "gönüllü olmak; gönüllü",
+    "pos": "verb",
+    "example": "Many parents volunteer at school events.",
+    "exampleTr": "Birçok veli okul etkinliklerinde gönüllü olur.",
+    "syn": [],
+    "ant": [],
+    "level": "B1"
+   },
+   {
+    "id": "attend",
+    "en": "attend",
+    "tr": "katılmak, devam etmek",
+    "pos": "verb",
+    "example": "Hundreds of families attend Family Night.",
+    "exampleTr": "Yüzlerce aile Aile Gecesi'ne katılır.",
+    "syn": [
+     "go to"
+    ],
+    "ant": [
+     "miss"
+    ],
+    "level": "B1"
+   },
+   {
+    "id": "event",
+    "en": "event",
+    "tr": "etkinlik",
+    "pos": "noun",
+    "example": "The school event starts at 5:30.",
+    "exampleTr": "Okul etkinliği 5:30'da başlıyor.",
+    "syn": [],
+    "ant": [],
+    "level": "A2"
+   },
+   {
+    "id": "notice",
+    "en": "notice",
+    "tr": "bildiri; fark etmek",
+    "pos": "noun",
+    "example": "There is a notice on the door.",
+    "exampleTr": "Kapıda bir bildiri var.",
+    "syn": [
+     "announcement"
+    ],
+    "ant": [],
+    "level": "B1"
+   },
+   {
+    "id": "participate",
+    "en": "participate",
+    "tr": "katılmak",
+    "pos": "verb",
+    "example": "All students can participate in the game.",
+    "exampleTr": "Bütün öğrenciler oyuna katılabilir.",
+    "syn": [
+     "take part"
+    ],
+    "ant": [],
+    "level": "B1"
+   },
+   {
+    "id": "register",
+    "en": "register",
+    "tr": "kayıt olmak",
+    "pos": "verb",
+    "example": "Please register before Friday.",
+    "exampleTr": "Lütfen cumadan önce kaydolun.",
+    "syn": [
+     "sign up"
+    ],
+    "ant": [],
+    "level": "B1"
+   },
+   {
+    "id": "fee",
+    "en": "fee",
+    "tr": "ücret",
+    "pos": "noun",
+    "example": "The fee for dinner is five dollars.",
+    "exampleTr": "Yemeğin ücreti beş dolar.",
+    "syn": [
+     "charge"
+    ],
+    "ant": [],
+    "level": "B1"
+   },
+   {
+    "id": "dismissal",
+    "en": "dismissal",
+    "tr": "okul çıkışı",
+    "pos": "noun",
+    "example": "Dismissal is at 3:00 on most days.",
+    "exampleTr": "Okul çıkışı çoğu gün 3:00'te.",
+    "syn": [],
+    "ant": [],
+    "level": "B2"
+   },
+   {
+    "id": "invite",
+    "en": "invite",
+    "tr": "davet etmek",
+    "pos": "verb",
+    "example": "Every family is invited to the party.",
+    "exampleTr": "Her aile partiye davetlidir.",
+    "syn": [],
+    "ant": [],
+    "level": "A2"
+   },
+   {
+    "id": "reply",
+    "en": "reply",
+    "tr": "cevap vermek; cevap",
+    "pos": "verb",
+    "example": "Please reply to this email by Monday.",
+    "exampleTr": "Lütfen bu e-postaya pazartesiye kadar cevap verin.",
+    "syn": [
+     "answer"
+    ],
+    "ant": [],
+    "level": "B1"
+   }
+  ],
+  "reading": {
+   "title": "A school newsletter",
+   "text": "LINCOLN ELEMENTARY NEWS - Friday, November 7\n\nDear Lincoln families,\n\nFamily Night will be held on Thursday, November 20, from 5:30 to 7:30 p.m. in the cafeteria and the gym. The event was first organized in 1985, and it is still our favorite tradition. Every family is invited, and the evening is free, but donations for the new library are welcome.\n\nPlease register by Friday, November 14. Registration forms are available in the front office and on the school website. If you register after the deadline, we cannot promise a seat at dinner. A small fee of $5 per family is required for the pizza dinner, unless your child receives free lunch.\n\nVolunteers are needed! If you can help with setup, decorations or cleanup, please contact Mr. Brown. Volunteers are asked to arrive at 4:30 p.m. We also need two parents to supervise the games in the gym.\n\nPlease note: if it snows heavily, the event will be postponed to Thursday, December 4. The decision will be announced on the school website by 3:00 p.m., and a reminder will be sent by text message.\n\nEarly dismissal: On Friday, November 21, school will be dismissed at 1:00 p.m. because of teacher meetings. Buses will leave at 1:15. If you need to pick up your child earlier, please sign out in the front office.\n\nWe hope to see you all there!\nMr. Brown, Front Office",
+   "glossary": [
+    {
+     "en": "tradition",
+     "tr": "gelenek"
+    },
+    {
+     "en": "donation",
+     "tr": "bağış"
+    },
+    {
+     "en": "setup",
+     "tr": "hazırlık, kurulum"
+    },
+    {
+     "en": "sign out",
+     "tr": "çıkış imzası atmak"
+    },
+    {
+     "en": "heavily",
+     "tr": "yoğun biçimde"
+    }
+   ],
+   "questions": [
+    {
+     "type": "mcq",
+     "q": "What must families do by Friday, November 14?",
+     "options": [
+      "Register for Family Night",
+      "Pay for the library",
+      "Pick up their children early"
+     ],
+     "answer": 0,
+     "whyTr": "Metin: 'Please register by Friday, November 14.'",
+     "tag": "reading",
+     "level": "B1"
+    },
+    {
+     "type": "mcq",
+     "q": "What will happen if it snows heavily?",
+     "options": [
+      "The event will be canceled forever.",
+      "The event will be postponed.",
+      "The event will move to the gym."
+     ],
+     "answer": 1,
+     "whyTr": "Metin: 'it will be postponed to Thursday, December 4.'",
+     "tag": "reading",
+     "level": "B1"
+    },
+    {
+     "type": "mcq",
+     "q": "Who should volunteers contact?",
+     "options": [
+      "The principal",
+      "Ms. Carter",
+      "Mr. Brown"
+     ],
+     "answer": 2,
+     "whyTr": "Metin: 'please contact Mr. Brown.'",
+     "tag": "reading",
+     "level": "B1"
+    },
+    {
+     "type": "mcq",
+     "q": "Why will school be dismissed early on November 21?",
+     "options": [
+      "Because of teacher meetings",
+      "Because of snow",
+      "Because of a fire drill"
+     ],
+     "answer": 0,
+     "whyTr": "Metin: 'because of teacher meetings.'",
+     "tag": "reading",
+     "level": "B1"
+    }
+   ]
+  }
+ },
+ "evening": {
+  "listening": {
+   "title": "Hafsa volunteers for Family Night",
+   "script": [
+    {
+     "speaker": "Hafsa",
+     "text": "Good morning, Mr. Brown. This is Hafsa. I read the newsletter about Family Night."
+    },
+    {
+     "speaker": "Mr. Brown",
+     "text": "Good morning, Hafsa! Are you planning to attend?"
+    },
+    {
+     "speaker": "Hafsa",
+     "text": "Yes, and I would like to volunteer. What do you need?"
+    },
+    {
+     "speaker": "Mr. Brown",
+     "text": "If you can come at 4:30, you can help with the decorations."
+    },
+    {
+     "speaker": "Hafsa",
+     "text": "That's no problem. Do I need to register?"
+    },
+    {
+     "speaker": "Mr. Brown",
+     "text": "Please register Emre and yourself by Friday. I will add your name to the volunteer list."
+    },
+    {
+     "speaker": "Hafsa",
+     "text": "And is there a fee?"
+    },
+    {
+     "speaker": "Mr. Brown",
+     "text": "It is five dollars per family for dinner. But if you volunteer, dinner is free."
+    },
+    {
+     "speaker": "Hafsa",
+     "text": "That is kind. What if it snows?"
+    },
+    {
+     "speaker": "Mr. Brown",
+     "text": "Then the event will be postponed. You will see an announcement on the website, and a reminder will be sent by text."
+    },
+    {
+     "speaker": "Hafsa",
+     "text": "Perfect. Could you send me the volunteer form by email?"
+    },
+    {
+     "speaker": "Mr. Brown",
+     "text": "Sure. Please reply to my email when you get it."
+    },
+    {
+     "speaker": "Hafsa",
+     "text": "Thank you, Mr. Brown. See you on Thursday."
+    }
+   ],
+   "questions": [
+    {
+     "type": "mcq",
+     "q": "Why does Hafsa call Mr. Brown?",
+     "options": [
+      "She wants to cancel dinner.",
+      "She wants to volunteer.",
+      "She wants to change the date."
+     ],
+     "answer": 1,
+     "whyTr": "Hafsa: 'I would like to volunteer.'",
+     "tag": "listening",
+     "level": "B1"
+    },
+    {
+     "type": "mcq",
+     "q": "What time should Hafsa arrive?",
+     "options": [
+      "At 5:30",
+      "At 7:30",
+      "At 4:30"
+     ],
+     "answer": 2,
+     "whyTr": "Mr. Brown: 'If you can come at 4:30'.",
+     "tag": "listening",
+     "level": "B1"
+    },
+    {
+     "type": "mcq",
+     "q": "What is free for volunteers?",
+     "options": [
+      "Dinner",
+      "The bus",
+      "The library"
+     ],
+     "answer": 0,
+     "whyTr": "Mr. Brown: 'if you volunteer, dinner is free.'",
+     "tag": "listening",
+     "level": "B1"
+    },
+    {
+     "type": "mcq",
+     "q": "What should Hafsa do when she gets the email?",
+     "options": [
+      "Print it",
+      "Reply to it",
+      "Call the principal"
+     ],
+     "answer": 1,
+     "whyTr": "Mr. Brown: 'Please reply to my email when you get it.'",
+     "tag": "listening",
+     "level": "B1"
+    }
+   ]
+  },
+  "writing": {
+   "promptTr": "Mr. Brown'a e-posta ile cevap yaz: Aile Gecesi'nde gönüllü olmak istediğini söyle ve iki soru sor.",
+   "promptEn": "Write a reply email to Mr. Brown. Say that you want to volunteer for Family Night and ask two questions.",
+   "frames": [
+    "Dear Mr. Brown,",
+    "Thank you for ...",
+    "I would like to ...",
+    "Is ...? / What will happen if ...?"
+   ],
+   "model": "Dear Mr. Brown, Thank you for the newsletter about Family Night. I would like to volunteer. I can help with the decorations, and I can arrive at 4:30. If you need more help, I can also supervise the games in the gym. I have two questions. Is the volunteer form available online? And what will happen if it snows? If the event is postponed, please send me a text message. I am looking forward to meeting the other parents and teachers. Thank you for your time. Best regards, Hafsa",
+   "checklistTr": [
+    "Selamlama (Dear Mr. Brown) ve kapanış (Best regards) var mı?",
+    "Gönüllü olmak istediğini ve iki soruyu yazdın mı?",
+    "En az bir if cümlesi ve doğru zaman kullandın mı?"
+   ],
+   "minWords": 70
+  },
+  "examSet": [
+   {
+    "type": "mcq",
+    "q": "If you ___ by Friday, you will get a seat at dinner.",
+    "options": [
+     "will register",
+     "registered",
+     "register"
+    ],
+    "answer": 2,
+    "whyTr": "1st conditional: if + present simple.",
+    "tag": "future",
+    "level": "B1"
+   },
+   {
+    "type": "mcq",
+    "q": "If I ___ the principal, I would plan more events.",
+    "options": [
+     "were",
+     "am",
+     "will be"
+    ],
+    "answer": 0,
+    "whyTr": "2nd conditional: hayali durum, were.",
+    "tag": "future",
+    "level": "B1"
+   },
+   {
+    "type": "mcq",
+    "q": "Unless it rains, the event ___ outside.",
+    "options": [
+     "will hold",
+     "will be held",
+     "is hold"
+    ],
+    "answer": 1,
+    "whyTr": "Gelecek edilgen: will be + V3.",
+    "tag": "future",
+    "level": "B1"
+   },
+   {
+    "type": "mcq",
+    "q": "The newsletter ___ every Friday.",
+    "options": [
+     "was sent",
+     "sends",
+     "is sent"
+    ],
+    "answer": 2,
+    "whyTr": "Şimdiki edilgen: is sent.",
+    "tag": "present-simple",
+    "level": "B1"
+   },
+   {
+    "type": "mcq",
+    "q": "The gym ___ in 1975.",
+    "options": [
+     "was added",
+     "were added",
+     "is added"
+    ],
+    "answer": 0,
+    "whyTr": "Geçmiş edilgen: gym tekil, was added.",
+    "tag": "past-simple",
+    "level": "B1"
+   },
+   {
+    "type": "mcq",
+    "q": "When ___ the event postponed?",
+    "options": [
+     "were",
+     "was",
+     "is"
+    ],
+    "answer": 1,
+    "whyTr": "Geçmiş edilgen soru: was + özne + V3.",
+    "tag": "question-form",
+    "level": "B1"
+   },
+   {
+    "type": "mcq",
+    "q": "Please ___ for the event by Friday.",
+    "options": [
+     "postpone",
+     "reply",
+     "register"
+    ],
+    "answer": 2,
+    "whyTr": "Etkinlik için kayıt olunur: register.",
+    "tag": "vocab",
+    "level": "B1"
+   },
+   {
+    "type": "mcq",
+    "q": "The ___ for the form is Friday. After that, it is too late.",
+    "options": [
+     "deadline",
+     "reminder",
+     "fee"
+    ],
+    "answer": 0,
+    "whyTr": "Son tarih = deadline.",
+    "tag": "vocab",
+    "level": "B1"
+   },
+   {
+    "type": "mcq",
+    "q": "Which word means almost the same as \"postpone\"?",
+    "options": [
+     "cancel",
+     "delay",
+     "attend"
+    ],
+    "answer": 1,
+    "whyTr": "Postpone ve delay eş anlamlıdır.",
+    "tag": "synonym",
+    "level": "B1"
+   },
+   {
+    "type": "mcq",
+    "q": "What is the opposite of \"attend\" (a meeting)?",
+    "options": [
+     "invite",
+     "reply",
+     "miss"
+    ],
+    "answer": 2,
+    "whyTr": "Attend'in zıttı miss (kaçırmak).",
+    "tag": "antonym",
+    "level": "B1"
+   },
+   {
+    "type": "mcq",
+    "q": "Which sentence is correct?",
+    "options": [
+     "If it snows, the school will be closed.",
+     "If it will snow, the school is closed.",
+     "If it snowed, the school will closed."
+    ],
+    "answer": 0,
+    "whyTr": "If + present, will be + V3.",
+    "tag": "future",
+    "level": "B1"
+   },
+   {
+    "type": "mcq",
+    "q": "Notice: The library will be closed on Friday because of a drill. Please return your books on Thursday.\n\nWhen should students return their books?",
+    "options": [
+     "On Friday",
+     "On Thursday",
+     "On Saturday"
+    ],
+    "answer": 1,
+    "whyTr": "Metin: 'Please return your books on Thursday.'",
+    "tag": "reading",
+    "level": "B1"
+   }
+  ]
+ }
+}

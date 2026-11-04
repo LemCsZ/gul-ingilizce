@@ -1,0 +1,828 @@
+{
+ "week": 10,
+ "day": 6,
+ "titleTr": "Sınıf yönergeleri: phrasal verb'ler",
+ "theme": "classroom-instructions",
+ "morning": {
+  "grammar": {
+   "topic": "Common phrasal verbs (hand out, put away, fill in, look after)",
+   "explainTr": [
+    "Phrasal verb = fiil + küçük kelime (out, away, in, after). Anlamı çoğu zaman kelimelerin ayrı ayrı anlamından farklıdır: hand out = dağıtmak, put away = yerine kaldırmak, fill in = doldurmak, look after = bakmak.",
+    "Bazıları ayrılabilir: hand out the papers = hand the papers out. İsim yerine zamir (them, it) gelirse mutlaka ortaya girer: hand them out (hand out them değil). Look after gibi bazıları ayrılmaz: look after the children, look after them.",
+    "Sınıfta bu kalıpları sürekli duyarsın: take out your books, line up, turn in your homework. Hepsi emir cümlesidir."
+   ],
+   "compareTr": "Türkçede 'dağıtmak' ve 'toplamak' tek kelimedir. İngilizcede fiilin yanına bir edat ekleyerek anlam değişir: hand out (dağıtmak), hand in (teslim etmek). Edatı atlarsan anlam bozulur; ezberlerken kalıbı bir bütün olarak öğren.",
+   "table": [
+    [
+     "hand out / pass out",
+     "dağıtmak",
+     "Hand out the papers."
+    ],
+    [
+     "put away",
+     "yerine kaldırmak",
+     "Put your books away."
+    ],
+    [
+     "fill in",
+     "doldurmak",
+     "Fill in the form."
+    ],
+    [
+     "look after",
+     "bakmak, ilgilenmek (ayrılmaz)",
+     "Look after the class."
+    ],
+    [
+     "turn in / hand in",
+     "teslim etmek",
+     "Turn in your homework."
+    ],
+    [
+     "Zamir kuralı",
+     "ayrılabilen + zamir = ortada",
+     "Put them away."
+    ]
+   ],
+   "examples": [
+    {
+     "en": "Please hand out the worksheets.",
+     "tr": "Lütfen çalışma kâğıtlarını dağıtın."
+    },
+    {
+     "en": "Put your phones away.",
+     "tr": "Telefonlarınızı kaldırın."
+    },
+    {
+     "en": "Fill in your name at the top.",
+     "tr": "Adınızı üste yazın."
+    },
+    {
+     "en": "She looks after the students at recess.",
+     "tr": "Teneffüste öğrencilere o bakıyor."
+    }
+   ],
+   "exercises": [
+    {
+     "type": "mcq",
+     "q": "Please ___ the worksheets before class starts.",
+     "options": [
+      "hand at",
+      "hand out",
+      "give at",
+      "get out"
+     ],
+     "answer": 1,
+     "whyTr": "Hand out = dağıtmak.",
+     "tag": "vocab",
+     "level": "B1"
+    },
+    {
+     "type": "mcq",
+     "q": "The teacher told us to ___ our books and get ready to leave.",
+     "options": [
+      "put off",
+      "put out",
+      "put away",
+      "put with"
+     ],
+     "answer": 2,
+     "whyTr": "Put away = yerine kaldırmak.",
+     "tag": "vocab",
+     "level": "B1"
+    },
+    {
+     "type": "mcq",
+     "q": "Please ___ this form with your name and address.",
+     "options": [
+      "fill with",
+      "fill at",
+      "fill to",
+      "fill in"
+     ],
+     "answer": 3,
+     "whyTr": "Fill in = (formu) doldurmak.",
+     "tag": "vocab",
+     "level": "B1"
+    },
+    {
+     "type": "mcq",
+     "q": "Hafsa will ___ the class while Ms. Park is at a meeting.",
+     "options": [
+      "look after",
+      "look at",
+      "look for",
+      "look up"
+     ],
+     "answer": 0,
+     "whyTr": "Look after = bakmak, ilgilenmek, sorumlu olmak.",
+     "tag": "vocab",
+     "level": "B1"
+    },
+    {
+     "type": "order",
+     "promptTr": "Cümleyi sırala:",
+     "words": [
+      "Please",
+      "phones",
+      "put",
+      "away",
+      "your"
+     ],
+     "answer": "Please put your phones away",
+     "whyTr": "Put away ayrılabilir: put + isim + away.",
+     "tag": "word-order",
+     "level": "B1"
+    },
+    {
+     "type": "order",
+     "promptTr": "Rica cümlesini sırala:",
+     "words": [
+      "hand",
+      "Can",
+      "worksheets",
+      "you",
+      "the",
+      "out"
+     ],
+     "answer": "Can you hand out the worksheets",
+     "whyTr": "Hand out + isim.",
+     "tag": "word-order",
+     "level": "B1"
+    },
+    {
+     "type": "mcq",
+     "q": "Which sentence is correct?",
+     "options": [
+      "Put away them.",
+      "Put them away.",
+      "Put away they.",
+      "Put them up away."
+     ],
+     "answer": 1,
+     "whyTr": "Zamir (them) phrasal verb'ün ortasına gelir: put them away.",
+     "tag": "word-order",
+     "level": "B1"
+    },
+    {
+     "type": "mcq",
+     "q": "Who will look ___ the children at recess?",
+     "options": [
+      "to",
+      "with",
+      "after",
+      "on"
+     ],
+     "answer": 2,
+     "whyTr": "Look after ayrılmaz: look after the children.",
+     "tag": "prepositions-place",
+     "level": "B1"
+    },
+    {
+     "type": "mcq",
+     "q": "Mr. Brown said, \"Please fill in the form.\" → He asked me ___ the form.",
+     "options": [
+      "fill in",
+      "filling in",
+      "that fill in",
+      "to fill in"
+     ],
+     "answer": 3,
+     "whyTr": "Rica aktarımı (3. gün).",
+     "tag": "imperatives",
+     "level": "B1"
+    },
+    {
+     "type": "mcq",
+     "q": "The students were ___ polite today, so I gave them extra recess.",
+     "options": [
+      "extremely",
+      "much",
+      "too much",
+      "enough"
+     ],
+     "answer": 0,
+     "whyTr": "Güçlendirici zarf (5. gün): extremely polite.",
+     "tag": "vocab",
+     "level": "B1"
+    },
+    {
+     "type": "fill",
+     "q": "Please ___ out the papers to every student.",
+     "accept": [
+      "hand"
+     ],
+     "hintTr": "dağıtmak",
+     "whyTr": "Hand out = dağıtmak.",
+     "tag": "vocab",
+     "level": "B1"
+    },
+    {
+     "type": "fill",
+     "q": "Fill ___ the blanks with the correct words.",
+     "accept": [
+      "in"
+     ],
+     "hintTr": "boşlukları doldurmak",
+     "whyTr": "Fill in the blanks.",
+     "tag": "prepositions-place",
+     "level": "B1"
+    }
+   ]
+  },
+  "vocab": [
+   {
+    "id": "hand-out",
+    "en": "hand out",
+    "tr": "dağıtmak",
+    "pos": "verb",
+    "example": "Please hand out the worksheets to each student.",
+    "exampleTr": "Lütfen çalışma kâğıtlarını her öğrenciye dağıt.",
+    "syn": [
+     "pass out"
+    ],
+    "ant": [],
+    "level": "B1"
+   },
+   {
+    "id": "put-away",
+    "en": "put away",
+    "tr": "yerine kaldırmak",
+    "pos": "verb",
+    "example": "The children put away their books at the end of class.",
+    "exampleTr": "Çocuklar ders sonunda kitaplarını yerine kaldırdı.",
+    "syn": [],
+    "ant": [
+     "take out"
+    ],
+    "level": "B1"
+   },
+   {
+    "id": "fill-in",
+    "en": "fill in",
+    "tr": "doldurmak (form, boşluk)",
+    "pos": "verb",
+    "example": "Please fill in your name at the top of the page.",
+    "exampleTr": "Lütfen adını sayfanın üstüne yaz.",
+    "syn": [
+     "complete"
+    ],
+    "ant": [],
+    "level": "B1"
+   },
+   {
+    "id": "look-after",
+    "en": "look after",
+    "tr": "bakmak, ilgilenmek",
+    "pos": "verb",
+    "example": "A substitute teacher must look after the whole class.",
+    "exampleTr": "Vekil öğretmen bütün sınıfa bakmak zorundadır.",
+    "syn": [
+     "take care of"
+    ],
+    "ant": [],
+    "level": "B1"
+   },
+   {
+    "id": "turn-in",
+    "en": "turn in",
+    "tr": "teslim etmek",
+    "pos": "verb",
+    "example": "Turn in your homework by Friday.",
+    "exampleTr": "Ödevini cumaya kadar teslim et.",
+    "syn": [
+     "hand in"
+    ],
+    "ant": [],
+    "level": "B1"
+   },
+   {
+    "id": "hand-in",
+    "en": "hand in",
+    "tr": "teslim etmek",
+    "pos": "verb",
+    "example": "Students must hand in the test before the bell rings.",
+    "exampleTr": "Öğrenciler zil çalmadan sınavı teslim etmeli.",
+    "syn": [
+     "turn in"
+    ],
+    "ant": [],
+    "level": "B1"
+   },
+   {
+    "id": "line-up",
+    "en": "line up",
+    "tr": "sıraya girmek",
+    "pos": "verb",
+    "example": "Please line up at the door for lunch.",
+    "exampleTr": "Lütfen öğle yemeği için kapıda sıraya girin.",
+    "syn": [
+     "queue up"
+    ],
+    "ant": [],
+    "level": "B1"
+   },
+   {
+    "id": "clean-up",
+    "en": "clean up",
+    "tr": "toplamak, temizlemek",
+    "pos": "verb",
+    "example": "Everyone helps to clean up after the art project.",
+    "exampleTr": "Resim projesinden sonra herkes toplamaya yardım ediyor.",
+    "syn": [
+     "tidy up"
+    ],
+    "ant": [],
+    "level": "B1"
+   },
+   {
+    "id": "set-up",
+    "en": "set up",
+    "tr": "hazırlamak, kurmak",
+    "pos": "verb",
+    "example": "I need to set up the projector before the lesson.",
+    "exampleTr": "Dersten önce projeksiyonu kurmam lazım.",
+    "syn": [
+     "prepare"
+    ],
+    "ant": [
+     "take down"
+    ],
+    "level": "B1"
+   },
+   {
+    "id": "write-down",
+    "en": "write down",
+    "tr": "yazıp not almak",
+    "pos": "verb",
+    "example": "Write down the homework on the board.",
+    "exampleTr": "Ödevi tahtaya yaz.",
+    "syn": [
+     "note"
+    ],
+    "ant": [],
+    "level": "B1"
+   },
+   {
+    "id": "hang-up",
+    "en": "hang up",
+    "tr": "asmak; telefonu kapatmak",
+    "pos": "verb",
+    "example": "Please hang up your coats by the door.",
+    "exampleTr": "Lütfen montlarınızı kapının yanına asın.",
+    "syn": [],
+    "ant": [
+     "take down"
+    ],
+    "level": "B1"
+   },
+   {
+    "id": "sign-in",
+    "en": "sign in",
+    "tr": "giriş kaydı yapmak",
+    "pos": "verb",
+    "example": "Visitors must sign in at the front office.",
+    "exampleTr": "Ziyaretçiler ön ofiste giriş kaydı yapmalı.",
+    "syn": [],
+    "ant": [
+     "sign out"
+    ],
+    "level": "B1"
+   },
+   {
+    "id": "pass-out",
+    "en": "pass out",
+    "tr": "dağıtmak",
+    "pos": "verb",
+    "example": "She passed out the tests to the class.",
+    "exampleTr": "Sınav kâğıtlarını sınıfa dağıttı.",
+    "syn": [
+     "hand out"
+    ],
+    "ant": [],
+    "level": "B1"
+   },
+   {
+    "id": "take-out",
+    "en": "take out",
+    "tr": "çıkarmak, dışarı almak",
+    "pos": "verb",
+    "example": "Take out your notebooks, please.",
+    "exampleTr": "Lütfen defterlerinizi çıkarın.",
+    "syn": [],
+    "ant": [
+     "put away"
+    ],
+    "level": "B1"
+   },
+   {
+    "id": "pick-up",
+    "en": "pick up",
+    "tr": "almak, teslim almak",
+    "pos": "verb",
+    "example": "Parents pick up their children at 3:15.",
+    "exampleTr": "Veliler çocuklarını 3.15'te alıyor.",
+    "syn": [
+     "collect"
+    ],
+    "ant": [
+     "drop off"
+    ],
+    "level": "B1"
+   }
+  ],
+  "reading": {
+   "title": "An art day with Ms. Park's class",
+   "text": "On Monday morning, Hafsa substituted for Ms. Park's fifth-grade class again. This time, the sub plan was longer than usual, and the class had an art project in the afternoon.\n\nAt 8:15, Hafsa signed in at the front office and picked up the key to the supply closet. In the classroom, she set up the projector and wrote the day's schedule on the whiteboard. Then the students came in. \"Good morning, everyone,\" she said. \"Please take out your notebooks and write down today's homework.\"\n\nDuring the first lesson, Hafsa handed out a reading worksheet. \"Fill in your name at the top,\" she said. Some students forgot their names, and everyone laughed. When the lesson ended, she asked them to turn in the papers. \"Put them on my desk, please.\"\n\nAt eleven, it was time for the art project. Hafsa asked the students to line up and walk to the art room. Each child got paper, glue, and paint. The room was a little messy, but everyone was cheerful. After the project, Hafsa said, \"Let's clean up and put the supplies away.\"\n\nMr. Brown stopped by to check on the class. \"Everything looks great,\" he said. \"Are you looking after them well?\"\n\n\"I am trying,\" Hafsa answered. \"They are very kind, and they listen carefully.\"\n\nAt 3:15, the parents came to pick up their children, and Hafsa waved goodbye.",
+   "glossary": [
+    {
+     "en": "supply closet",
+     "tr": "malzeme dolabı"
+    },
+    {
+     "en": "projector",
+     "tr": "projeksiyon cihazı"
+    },
+    {
+     "en": "messy",
+     "tr": "dağınık"
+    },
+    {
+     "en": "cheerful",
+     "tr": "neşeli"
+    },
+    {
+     "en": "check on",
+     "tr": "kontrol etmek, bakmak"
+    }
+   ],
+   "questions": [
+    {
+     "type": "mcq",
+     "q": "What did Hafsa pick up at the front office?",
+     "options": [
+      "A new worksheet",
+      "The key to the supply closet",
+      "The attendance list",
+      "A projector"
+     ],
+     "answer": 1,
+     "whyTr": "Metin: 'picked up the key to the supply closet'.",
+     "tag": "reading",
+     "level": "B1"
+    },
+    {
+     "type": "mcq",
+     "q": "What did Hafsa ask the students to write down?",
+     "options": [
+      "Their names",
+      "The art rules",
+      "The homework",
+      "The schedule"
+     ],
+     "answer": 2,
+     "whyTr": "Metin: 'write down today's homework'.",
+     "tag": "reading",
+     "level": "B1"
+    },
+    {
+     "type": "mcq",
+     "q": "What did Hafsa ask the students to do with the finished papers?",
+     "options": [
+      "Hang them up",
+      "Take them home",
+      "Put them in a folder",
+      "Turn them in"
+     ],
+     "answer": 3,
+     "whyTr": "Metin: 'turn in the papers'.",
+     "tag": "reading",
+     "level": "B1"
+    },
+    {
+     "type": "mcq",
+     "q": "What happened at 3:15?",
+     "options": [
+      "Parents picked up their children.",
+      "The art project began.",
+      "Mr. Brown arrived.",
+      "The lunch period ended."
+     ],
+     "answer": 0,
+     "whyTr": "Metin: 'At 3:15, the parents came to pick up their children'.",
+     "tag": "reading",
+     "level": "B1"
+    }
+   ]
+  }
+ },
+ "evening": {
+  "listening": {
+   "title": "Instructions from Ms. Park",
+   "script": [
+    {
+     "speaker": "Ms. Park",
+     "text": "Good morning, Hafsa. Thanks for coming in today."
+    },
+    {
+     "speaker": "Hafsa",
+     "text": "Good morning. What should I do first?"
+    },
+    {
+     "speaker": "Ms. Park",
+     "text": "First, please take attendance and sign in at the office."
+    },
+    {
+     "speaker": "Hafsa",
+     "text": "Okay. And then?"
+    },
+    {
+     "speaker": "Ms. Park",
+     "text": "Hand out the math worksheets and ask the students to fill in their names."
+    },
+    {
+     "speaker": "Hafsa",
+     "text": "What do I do with the finished work?"
+    },
+    {
+     "speaker": "Ms. Park",
+     "text": "Tell them to turn it in at the end of class. I'll check it tomorrow."
+    },
+    {
+     "speaker": "Hafsa",
+     "text": "Do the students have an art project today?"
+    },
+    {
+     "speaker": "Ms. Park",
+     "text": "Yes, at eleven. Set up the paint and glue on the back table."
+    },
+    {
+     "speaker": "Hafsa",
+     "text": "What about the clean-up?"
+    },
+    {
+     "speaker": "Ms. Park",
+     "text": "Ask the children to clean up and put away the supplies."
+    },
+    {
+     "speaker": "Hafsa",
+     "text": "Understood. Who will look after the class during lunch?"
+    },
+    {
+     "speaker": "Ms. Park",
+     "text": "Ms. Kim will. You can take a break."
+    },
+    {
+     "speaker": "Hafsa",
+     "text": "Thank you. I think I'm ready."
+    }
+   ],
+   "questions": [
+    {
+     "type": "mcq",
+     "q": "What should Hafsa do first?",
+     "options": [
+      "Hand out worksheets",
+      "Take attendance and sign in",
+      "Set up the paint",
+      "Clean up the room"
+     ],
+     "answer": 1,
+     "whyTr": "Ms. Park: 'take attendance and sign in at the office'.",
+     "tag": "listening",
+     "level": "B1"
+    },
+    {
+     "type": "mcq",
+     "q": "What should the students fill in on the worksheets?",
+     "options": [
+      "The date",
+      "The homework",
+      "Their names",
+      "The answers"
+     ],
+     "answer": 2,
+     "whyTr": "Ms. Park: 'fill in their names'.",
+     "tag": "listening",
+     "level": "B1"
+    },
+    {
+     "type": "mcq",
+     "q": "When should the students turn in their work?",
+     "options": [
+      "Before lunch",
+      "Tomorrow morning",
+      "At the art project",
+      "At the end of class"
+     ],
+     "answer": 3,
+     "whyTr": "Ms. Park: 'turn it in at the end of class'.",
+     "tag": "listening",
+     "level": "B1"
+    },
+    {
+     "type": "mcq",
+     "q": "Who will look after the class at lunch?",
+     "options": [
+      "Ms. Kim",
+      "Hafsa",
+      "Mr. Brown",
+      "Ms. Park"
+     ],
+     "answer": 0,
+     "whyTr": "Ms. Park: 'Ms. Kim will.'",
+     "tag": "listening",
+     "level": "B1"
+    }
+   ]
+  },
+  "writing": {
+   "promptTr": "Bir vekil öğretmen notu yaz: yerine geçecek öğretmene sınıfta yapılacakları anlat. hand out, put away, fill in, look after gibi phrasal verb'leri kullan.",
+   "promptEn": "Write a short sub note. Use phrasal verbs like hand out, put away, fill in and look after.",
+   "frames": [
+    "First, please ...",
+    "Hand out ...",
+    "Ask the students to fill in ...",
+    "At the end, put away ..."
+   ],
+   "model": "Dear Substitute, thank you for helping today. First, please take attendance and sign in at the office. Then hand out the math worksheets and ask the students to fill in their names. At eleven, set up the paint on the back table. After the project, ask the children to clean up and put away the supplies. Please tell them to turn in their work at the end of the day. Ms. Kim will look after the class at lunch, so you can take a break. Call the office if you need help. Thank you, Hafsa",
+   "checklistTr": [
+    "En az üç phrasal verb kullandın mı?",
+    "Zamir kullandıysan ortaya koydun mu (put them away)?",
+    "Emir cümleleri fiille başlıyor mu?",
+    "Cümleler büyük harfle başlıyor ve noktayla bitiyor mu?"
+   ],
+   "minWords": 70
+  },
+  "examSet": [
+   {
+    "type": "mcq",
+    "q": "Please ___ your homework by Friday.",
+    "options": [
+     "turn up",
+     "turn in",
+     "turn on",
+     "turn at"
+    ],
+    "answer": 1,
+    "whyTr": "Turn in = teslim etmek.",
+    "tag": "vocab",
+    "level": "B1"
+   },
+   {
+    "type": "mcq",
+    "q": "The children must ___ their coats by the door.",
+    "options": [
+     "hang on",
+     "hang at",
+     "hang up",
+     "hang with"
+    ],
+    "answer": 2,
+    "whyTr": "Hang up = asmak.",
+    "tag": "vocab",
+    "level": "B1"
+   },
+   {
+    "type": "mcq",
+    "q": "Visitors have to ___ at the front office.",
+    "options": [
+     "sign at",
+     "sign to",
+     "sign by",
+     "sign in"
+    ],
+    "answer": 3,
+    "whyTr": "Sign in = giriş kaydı yapmak.",
+    "tag": "vocab",
+    "level": "B1"
+   },
+   {
+    "type": "mcq",
+    "q": "Which sentence is correct?",
+    "options": [
+     "Hand them out, please.",
+     "Hand out them, please.",
+     "Hand out they, please.",
+     "Hand them to out, please."
+    ],
+    "answer": 0,
+    "whyTr": "Zamir ortada: hand them out.",
+    "tag": "word-order",
+    "level": "B1"
+   },
+   {
+    "type": "mcq",
+    "q": "\"Please write down the homework.\" → The teacher asked us ___ the homework.",
+    "options": [
+     "write down",
+     "to write down",
+     "writing down",
+     "that write down"
+    ],
+    "answer": 1,
+    "whyTr": "Rica aktarımı (3. gün).",
+    "tag": "imperatives",
+    "level": "B1"
+   },
+   {
+    "type": "mcq",
+    "q": "The room is not big ___ for thirty desks.",
+    "options": [
+     "too",
+     "very",
+     "enough",
+     "as"
+    ],
+    "answer": 2,
+    "whyTr": "Sıfat + enough (4. gün).",
+    "tag": "comparatives",
+    "level": "B1"
+   },
+   {
+    "type": "mcq",
+    "q": "Which word means almost the same as \"turn in\"?",
+    "options": [
+     "take out",
+     "pick up",
+     "set up",
+     "hand in"
+    ],
+    "answer": 3,
+    "whyTr": "Turn in ve hand in: teslim etmek.",
+    "tag": "synonym",
+    "level": "B1"
+   },
+   {
+    "type": "mcq",
+    "q": "What is the opposite of \"put away\"?",
+    "options": [
+     "take out",
+     "line up",
+     "clean up",
+     "fill in"
+    ],
+    "answer": 0,
+    "whyTr": "Put away'in zıttı take out gibi: yerine kaldırmak / dışarı çıkarmak.",
+    "tag": "antonym",
+    "level": "B1"
+   },
+   {
+    "type": "mcq",
+    "q": "Which word means almost the same as \"hand out\"?",
+    "options": [
+     "turn in",
+     "pass out",
+     "pick up",
+     "hang up"
+    ],
+    "answer": 1,
+    "whyTr": "Hand out ve pass out: dağıtmak.",
+    "tag": "synonym",
+    "level": "B1"
+   },
+   {
+    "type": "mcq",
+    "q": "Mr. Brown asked, \"Do you have a pen?\" → He asked me ___ a pen.",
+    "options": [
+     "did I have",
+     "do I have",
+     "if I had",
+     "that I had"
+    ],
+    "answer": 2,
+    "whyTr": "Dolaylı soru (2. gün).",
+    "tag": "question-form",
+    "level": "B1"
+   },
+   {
+    "type": "mcq",
+    "q": "After the art class, the teacher asked the students to ___ the room.",
+    "options": [
+     "fill in",
+     "sign in",
+     "look after",
+     "clean up"
+    ],
+    "answer": 3,
+    "whyTr": "Dağınık odayı toplamak: clean up.",
+    "tag": "vocab",
+    "level": "B1"
+   },
+   {
+    "type": "mcq",
+    "q": "The substitute must look after the class. She must also take attendance and hand out the worksheets. At the end, she should put away the supplies.\n\nWhat must the substitute do at the end of the day?",
+    "options": [
+     "Put away the supplies",
+     "Hand out worksheets",
+     "Take attendance",
+     "Look after the class"
+    ],
+    "answer": 0,
+    "whyTr": "Metin: 'At the end, she should put away the supplies.'",
+    "tag": "reading",
+    "level": "B1"
+   }
+  ]
+ }
+}

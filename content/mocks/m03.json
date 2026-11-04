@@ -1,0 +1,873 @@
+{
+ "titleTr": "3. hafta deneme sınavı",
+ "introTr": "Bu hafta geçmiş zamanı öğrendin; şimdi neler oturmuş bir bakalım. Bu bir not sınavı değil, sadece nerede olduğunu görmen için. Bilmediğin soruda tahmin edebilirsin, acele etme.",
+ "sections": [
+  {
+   "id": "grammar",
+   "titleTr": "Dil bilgisi",
+   "items": [
+    {
+     "type": "mcq",
+     "q": "Twenty years ago, my grandparents ___ farmers in Isparta.",
+     "options": [
+      "were",
+      "was",
+      "are",
+      "be"
+     ],
+     "answer": 0,
+     "whyTr": "Çoğul özne (grandparents) ve geçmiş zaman: were.",
+     "tag": "past-simple",
+     "level": "A2"
+    },
+    {
+     "type": "mcq",
+     "q": "I ___ very tired yesterday evening.",
+     "options": [
+      "were",
+      "was",
+      "am",
+      "be"
+     ],
+     "answer": 1,
+     "whyTr": "I ile geçmişte 'was' kullanılır.",
+     "tag": "past-simple",
+     "level": "A2"
+    },
+    {
+     "type": "mcq",
+     "q": "We ___ dinner at a restaurant last Saturday.",
+     "options": [
+      "have",
+      "haved",
+      "had",
+      "has"
+     ],
+     "answer": 2,
+     "whyTr": "Have fiilinin geçmişi düzensiz: had.",
+     "tag": "past-simple",
+     "level": "A2"
+    },
+    {
+     "type": "mcq",
+     "q": "The school bus ___ in front of our building.",
+     "options": [
+      "stoped",
+      "stopt",
+      "stopping",
+      "stopped"
+     ],
+     "answer": 3,
+     "whyTr": "Kısa, tek heceli fiillerde son harf ikilenir: stop - stopped.",
+     "tag": "spelling",
+     "level": "A2"
+    },
+    {
+     "type": "mcq",
+     "q": "Emre ___ for his math test last night.",
+     "options": [
+      "studied",
+      "studyed",
+      "studdied",
+      "studys"
+     ],
+     "answer": 0,
+     "whyTr": "Ünsüz + y ile biten fiilde y düşer, -ied eklenir: studied.",
+     "tag": "spelling",
+     "level": "A2"
+    },
+    {
+     "type": "mcq",
+     "q": "Linda ___ me a nice gift for my birthday.",
+     "options": [
+      "gived",
+      "gave",
+      "given",
+      "give"
+     ],
+     "answer": 1,
+     "whyTr": "Give fiilinin geçmişi düzensiz: gave.",
+     "tag": "past-simple",
+     "level": "A2"
+    },
+    {
+     "type": "mcq",
+     "q": "We ___ a new car last month.",
+     "options": [
+      "buyed",
+      "buy",
+      "bought",
+      "boughted"
+     ],
+     "answer": 2,
+     "whyTr": "Buy fiilinin geçmişi düzensiz: bought.",
+     "tag": "past-simple",
+     "level": "A2"
+    },
+    {
+     "type": "mcq",
+     "q": "I ___ go to work yesterday because I was sick.",
+     "options": [
+      "don't",
+      "wasn't",
+      "not",
+      "didn't"
+     ],
+     "answer": 3,
+     "whyTr": "Geçmiş zamanda olumsuz: didn't + fiilin yalın hali.",
+     "tag": "negative-form",
+     "level": "A2"
+    },
+    {
+     "type": "mcq",
+     "q": "She didn't ___ the email to the manager.",
+     "options": [
+      "send",
+      "sent",
+      "sended",
+      "sends"
+     ],
+     "answer": 0,
+     "whyTr": "Didn't'ten sonra fiil yalın hali alır: send (sent değil).",
+     "tag": "negative-form",
+     "level": "A2"
+    },
+    {
+     "type": "mcq",
+     "q": "___ you watch the game last night?",
+     "options": [
+      "Do",
+      "Did",
+      "Were",
+      "Was"
+     ],
+     "answer": 1,
+     "whyTr": "Geçmiş zaman sorusu 'Did' ile başlar.",
+     "tag": "question-form",
+     "level": "A2"
+    },
+    {
+     "type": "mcq",
+     "q": "What time did the meeting ___ yesterday?",
+     "options": [
+      "started",
+      "starts",
+      "start",
+      "starting"
+     ],
+     "answer": 2,
+     "whyTr": "Did'den sonra fiil yalın hali alır: start.",
+     "tag": "question-form",
+     "level": "A2"
+    },
+    {
+     "type": "mcq",
+     "q": "Where ___ you born?",
+     "options": [
+      "was",
+      "did",
+      "are",
+      "were"
+     ],
+     "answer": 3,
+     "whyTr": "'Born' ile 'was/were born' kullanılır; you ile were.",
+     "tag": "past-simple",
+     "level": "A2"
+    },
+    {
+     "type": "mcq",
+     "q": "I moved to the United States three years ___.",
+     "options": [
+      "ago",
+      "before",
+      "last",
+      "past"
+     ],
+     "answer": 0,
+     "whyTr": "Geçmişteki bir zamandan bu yana geçen süre için 'ago' kullanılır.",
+     "tag": "past-simple",
+     "level": "A2"
+    },
+    {
+     "type": "mcq",
+     "q": "We visited my cousin ___ month.",
+     "options": [
+      "ago",
+      "last",
+      "yesterday",
+      "past"
+     ],
+     "answer": 1,
+     "whyTr": "'Last month' (geçen ay) bir geçmiş zaman ifadesidir.",
+     "tag": "past-simple",
+     "level": "A2"
+    },
+    {
+     "type": "mcq",
+     "q": "First I cooked dinner. ___ I washed the dishes.",
+     "options": [
+      "Ago",
+      "Last",
+      "Then",
+      "Always"
+     ],
+     "answer": 2,
+     "whyTr": "Sıra bildiren bağlaç: first, then, after that.",
+     "tag": "linkers",
+     "level": "A2"
+    },
+    {
+     "type": "mcq",
+     "q": "Look! Mr. Brown ___ to the principal in the hallway.",
+     "options": [
+      "talks",
+      "talk",
+      "talked",
+      "is talking"
+     ],
+     "answer": 3,
+     "whyTr": "'Look!' şu an olan bir olayı gösterir: is talking.",
+     "tag": "present-continuous",
+     "level": "A2"
+    },
+    {
+     "type": "mcq",
+     "q": "Emre ___ his homework after dinner every day.",
+     "options": [
+      "does",
+      "do",
+      "doing",
+      "is do"
+     ],
+     "answer": 0,
+     "whyTr": "Her gün tekrarlanan iş + Emre (he): does.",
+     "tag": "present-simple",
+     "level": "A2"
+    },
+    {
+     "type": "mcq",
+     "q": "Next week, I ___ visit my friend in Chicago.",
+     "options": [
+      "going to",
+      "am going to",
+      "go to",
+      "am go to"
+     ],
+     "answer": 1,
+     "whyTr": "Plan için: am/is/are going to + fiil.",
+     "tag": "future",
+     "level": "A2"
+    },
+    {
+     "type": "mcq",
+     "q": "Don't worry. I ___ help you with the bags.",
+     "options": [
+      "am",
+      "did",
+      "will",
+      "do"
+     ],
+     "answer": 2,
+     "whyTr": "Anlık karar ve yardım teklifi için 'will' kullanılır.",
+     "tag": "future",
+     "level": "A2"
+    },
+    {
+     "type": "mcq",
+     "q": "I ___ in this city since 2020.",
+     "options": [
+      "lived",
+      "live",
+      "am living",
+      "have lived"
+     ],
+     "answer": 3,
+     "whyTr": "'Since' ile hâlâ süren durum: present perfect.",
+     "tag": "present-perfect",
+     "level": "B1"
+    }
+   ]
+  },
+  {
+   "id": "vocab",
+   "titleTr": "Kelime",
+   "items": [
+    {
+     "type": "mcq",
+     "q": "What is the opposite of 'cheap'?",
+     "options": [
+      "expensive",
+      "slow",
+      "heavy",
+      "short"
+     ],
+     "answer": 0,
+     "whyTr": "Cheap (ucuz) kelimesinin zıttı expensive (pahalı).",
+     "tag": "antonym",
+     "level": "A1"
+    },
+    {
+     "type": "mcq",
+     "q": "'The weather was awful on Sunday.' Awful means:",
+     "options": [
+      "very nice",
+      "very bad",
+      "very hot",
+      "very short"
+     ],
+     "answer": 1,
+     "whyTr": "Awful, çok kötü demektir.",
+     "tag": "vocab",
+     "level": "A2"
+    },
+    {
+     "type": "mcq",
+     "q": "Which word means the same as 'glad'?",
+     "options": [
+      "angry",
+      "tired",
+      "happy",
+      "late"
+     ],
+     "answer": 2,
+     "whyTr": "Glad ve happy aynı anlama gelir.",
+     "tag": "synonym",
+     "level": "A2"
+    },
+    {
+     "type": "mcq",
+     "q": "She ___ a mistake on the form.",
+     "options": [
+      "did",
+      "took",
+      "had",
+      "made"
+     ],
+     "answer": 3,
+     "whyTr": "'Make a mistake' sabit bir kalıptır.",
+     "tag": "collocations",
+     "level": "A2"
+    },
+    {
+     "type": "mcq",
+     "q": "What is the opposite of 'early'?",
+     "options": [
+      "late",
+      "fast",
+      "new",
+      "soon"
+     ],
+     "answer": 0,
+     "whyTr": "Early (erken) kelimesinin zıttı late (geç).",
+     "tag": "antonym",
+     "level": "A2"
+    },
+    {
+     "type": "mcq",
+     "q": "'The store is crowded on Saturdays.' Crowded means:",
+     "options": [
+      "very cheap",
+      "full of people",
+      "very clean",
+      "closed"
+     ],
+     "answer": 1,
+     "whyTr": "Crowded, insanlarla dolu demektir.",
+     "tag": "vocab",
+     "level": "A2"
+    },
+    {
+     "type": "mcq",
+     "q": "Can you ___ me a favor?",
+     "options": [
+      "make",
+      "take",
+      "do",
+      "give"
+     ],
+     "answer": 2,
+     "whyTr": "'Do someone a favor' kalıbı: bir iyilik yapmak.",
+     "tag": "collocations",
+     "level": "A2"
+    },
+    {
+     "type": "mcq",
+     "q": "Which word means the same as 'quick'?",
+     "options": [
+      "quiet",
+      "careful",
+      "early",
+      "fast"
+     ],
+     "answer": 3,
+     "whyTr": "Quick ve fast aynı anlama gelir.",
+     "tag": "synonym",
+     "level": "A2"
+    },
+    {
+     "type": "mcq",
+     "q": "'Hafsa's first apartment was tiny.' Tiny means:",
+     "options": [
+      "very small",
+      "very old",
+      "very dark",
+      "very expensive"
+     ],
+     "answer": 0,
+     "whyTr": "Tiny, çok küçük demektir.",
+     "tag": "vocab",
+     "level": "A2"
+    },
+    {
+     "type": "mcq",
+     "q": "What is the opposite of 'remember'?",
+     "options": [
+      "learn",
+      "forget",
+      "answer",
+      "return"
+     ],
+     "answer": 1,
+     "whyTr": "Remember (hatırlamak) kelimesinin zıttı forget (unutmak).",
+     "tag": "antonym",
+     "level": "A2"
+    },
+    {
+     "type": "mcq",
+     "q": "'The cashier gave me the wrong change.' Change means:",
+     "options": [
+      "a new idea",
+      "a paper bag",
+      "money you get back",
+      "a small gift"
+     ],
+     "answer": 2,
+     "whyTr": "Change, alışverişte para üstü demektir.",
+     "tag": "vocab",
+     "level": "B1"
+    },
+    {
+     "type": "mcq",
+     "q": "Which word means the same as 'repair'?",
+     "options": [
+      "break",
+      "clean",
+      "carry",
+      "fix"
+     ],
+     "answer": 3,
+     "whyTr": "Repair ve fix aynı anlama gelir: tamir etmek.",
+     "tag": "synonym",
+     "level": "B1"
+    }
+   ]
+  },
+  {
+   "id": "reading",
+   "titleTr": "Okuma",
+   "passages": [
+    {
+     "title": "A busy Saturday",
+     "level": "A2",
+     "text": "Last Saturday, Hafsa had a very busy day. In the morning, she cleaned the apartment and washed the clothes. Then she went to the market with Linda. They bought apples, cheese, and bread.\n\nAt noon, Emre came home from his friend's house. He was hungry, so Hafsa made soup. After lunch, they watched a movie. In the evening, Hafsa was tired, but she was happy. She didn't cook dinner. They ate sandwiches.",
+     "questions": [
+      {
+       "type": "mcq",
+       "q": "What did Hafsa do in the morning?",
+       "options": [
+        "She cleaned the apartment.",
+        "She watched a movie.",
+        "She made soup.",
+        "She visited a friend."
+       ],
+       "answer": 0,
+       "whyTr": "Metinde: 'In the morning, she cleaned the apartment.'",
+       "tag": "reading",
+       "level": "A2"
+      },
+      {
+       "type": "mcq",
+       "q": "Why did Hafsa make soup?",
+       "options": [
+        "Linda was sick.",
+        "Emre was hungry.",
+        "It was cold.",
+        "She was tired."
+       ],
+       "answer": 1,
+       "whyTr": "Metinde: 'He was hungry, so Hafsa made soup.'",
+       "tag": "reading",
+       "level": "A2"
+      },
+      {
+       "type": "mcq",
+       "q": "What did they eat for dinner?",
+       "options": [
+        "Soup",
+        "Bread and cheese",
+        "Sandwiches",
+        "Pizza"
+       ],
+       "answer": 2,
+       "whyTr": "Metinde: 'She didn't cook dinner. They ate sandwiches.'",
+       "tag": "reading",
+       "level": "A2"
+      }
+     ]
+    },
+    {
+     "title": "A problem at the bank",
+     "level": "A2",
+     "text": "On Sunday, Hafsa's bank card didn't work at the grocery store. She was embarrassed, and she paid with cash. On Monday morning, she went to the bank near her apartment.\n\nA young man named Kevin helped her. 'I'm sorry about the problem,' he said. 'The bank changed its system last week.' He asked for her ID and gave her a new card in ten minutes. He also showed her how to use the bank app on her phone.\n\nHafsa left the bank with a smile. She said, 'Thank you. You helped me a lot.'",
+     "questions": [
+      {
+       "type": "mcq",
+       "q": "Why did Hafsa go to the bank?",
+       "options": [
+        "She lost her ID.",
+        "She wanted a job.",
+        "She needed cash.",
+        "Her card didn't work."
+       ],
+       "answer": 3,
+       "whyTr": "Metinde kartı markette çalışmadı ve bankaya gitti.",
+       "tag": "reading",
+       "level": "A2"
+      },
+      {
+       "type": "mcq",
+       "q": "What did Kevin give her?",
+       "options": [
+        "A new card",
+        "Some cash",
+        "A phone",
+        "A job form"
+       ],
+       "answer": 0,
+       "whyTr": "Metinde: 'gave her a new card in ten minutes'.",
+       "tag": "reading",
+       "level": "A2"
+      },
+      {
+       "type": "mcq",
+       "q": "How long did it take?",
+       "options": [
+        "One hour",
+        "Ten minutes",
+        "A week",
+        "Two days"
+       ],
+       "answer": 1,
+       "whyTr": "Metinde: 'a new card in ten minutes'.",
+       "tag": "reading",
+       "level": "A2"
+      },
+      {
+       "type": "mcq",
+       "q": "How did Hafsa feel when she left the bank?",
+       "options": [
+        "Angry",
+        "Sick",
+        "Happy",
+        "Worried"
+       ],
+       "answer": 2,
+       "whyTr": "Hafsa gülümseyerek ayrıldı; mutluydu.",
+       "tag": "reading",
+       "level": "A2"
+      }
+     ]
+    },
+    {
+     "title": "Moving to America",
+     "level": "B1",
+     "text": "Hafsa moved to the United States four years ago. At first, everything was difficult. The weather was cold, the food was different, and she couldn't understand people on the phone. Her neighbor Linda helped her a lot. She took Hafsa to the grocery store and showed her the bus map.\n\nNow Hafsa feels more comfortable. She has a few good friends, and she studies English every day. Next year, she is going to take a course for substitute teachers.",
+     "questions": [
+      {
+       "type": "mcq",
+       "q": "When did Hafsa move to the United States?",
+       "options": [
+        "Last year",
+        "Next year",
+        "Four months ago",
+        "Four years ago"
+       ],
+       "answer": 3,
+       "whyTr": "Metinde: 'four years ago'.",
+       "tag": "reading",
+       "level": "A2"
+      },
+      {
+       "type": "mcq",
+       "q": "Who helped Hafsa after she arrived?",
+       "options": [
+        "Linda",
+        "Emre",
+        "Mr. Brown",
+        "A bank worker"
+       ],
+       "answer": 0,
+       "whyTr": "Metinde: 'Her neighbor Linda helped her a lot.'",
+       "tag": "reading",
+       "level": "A2"
+      },
+      {
+       "type": "mcq",
+       "q": "What is Hafsa going to do next year?",
+       "options": [
+        "Move to another city",
+        "Take a course for substitute teachers",
+        "Teach at a university",
+        "Visit Turkey"
+       ],
+       "answer": 1,
+       "whyTr": "Metinde: 'she is going to take a course for substitute teachers'.",
+       "tag": "reading",
+       "level": "B1"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "listening",
+   "titleTr": "Dinleme",
+   "passages": [
+    {
+     "title": "Talking about the weekend",
+     "level": "A2",
+     "script": [
+      {
+       "speaker": "Linda",
+       "text": "Hi, Hafsa! How was your weekend?"
+      },
+      {
+       "speaker": "Hafsa",
+       "text": "It was nice, thanks. On Saturday we visited a farm with Emre."
+      },
+      {
+       "speaker": "Linda",
+       "text": "Oh, did you like it?"
+      },
+      {
+       "speaker": "Hafsa",
+       "text": "Yes! Emre fed the animals. But it rained in the afternoon, so we went home early."
+      },
+      {
+       "speaker": "Linda",
+       "text": "What did you do on Sunday?"
+      },
+      {
+       "speaker": "Hafsa",
+       "text": "I stayed home and cooked. I made a big pot of lentil soup. Do you want some?"
+      },
+      {
+       "speaker": "Linda",
+       "text": "I'd love some. Thank you!"
+      }
+     ],
+     "questions": [
+      {
+       "type": "mcq",
+       "q": "Where did Hafsa go on Saturday?",
+       "options": [
+        "To the library",
+        "To a restaurant",
+        "To a farm",
+        "To Linda's house"
+       ],
+       "answer": 2,
+       "whyTr": "Hafsa: 'we visited a farm with Emre'.",
+       "tag": "listening",
+       "level": "A2"
+      },
+      {
+       "type": "mcq",
+       "q": "Why did they go home early?",
+       "options": [
+        "Emre was sick.",
+        "The farm was closed.",
+        "Hafsa was tired.",
+        "It rained."
+       ],
+       "answer": 3,
+       "whyTr": "Hafsa: 'it rained in the afternoon, so we went home early'.",
+       "tag": "listening",
+       "level": "A2"
+      },
+      {
+       "type": "mcq",
+       "q": "What did Hafsa do on Sunday?",
+       "options": [
+        "She cooked soup.",
+        "She cleaned the house.",
+        "She went shopping.",
+        "She visited Linda."
+       ],
+       "answer": 0,
+       "whyTr": "Hafsa evde kaldı ve mercimek çorbası yaptı.",
+       "tag": "listening",
+       "level": "A2"
+      }
+     ]
+    },
+    {
+     "title": "Calling the dentist",
+     "level": "A2",
+     "script": [
+      {
+       "speaker": "Receptionist",
+       "text": "Dr. Evans' office. How can I help you?"
+      },
+      {
+       "speaker": "Hafsa",
+       "text": "Hello, I'd like to make an appointment. My tooth hurts."
+      },
+      {
+       "speaker": "Receptionist",
+       "text": "I'm sorry to hear that. When did the pain start?"
+      },
+      {
+       "speaker": "Hafsa",
+       "text": "Two days ago. I couldn't sleep last night."
+      },
+      {
+       "speaker": "Receptionist",
+       "text": "We have an opening tomorrow at 10:30 or on Thursday at 2:00."
+      },
+      {
+       "speaker": "Hafsa",
+       "text": "Tomorrow is better for me."
+      },
+      {
+       "speaker": "Receptionist",
+       "text": "Okay. Please come fifteen minutes early to fill out a form."
+      },
+      {
+       "speaker": "Hafsa",
+       "text": "Thank you. See you tomorrow."
+      }
+     ],
+     "questions": [
+      {
+       "type": "mcq",
+       "q": "Why does Hafsa call?",
+       "options": [
+        "She needs a form.",
+        "Her tooth hurts.",
+        "She lost her card.",
+        "She wants a job."
+       ],
+       "answer": 1,
+       "whyTr": "Hafsa: 'My tooth hurts.'",
+       "tag": "listening",
+       "level": "A2"
+      },
+      {
+       "type": "mcq",
+       "q": "When did the pain start?",
+       "options": [
+        "Last night",
+        "Yesterday morning",
+        "Two days ago",
+        "Last week"
+       ],
+       "answer": 2,
+       "whyTr": "Hafsa: 'Two days ago.'",
+       "tag": "listening",
+       "level": "A2"
+      },
+      {
+       "type": "mcq",
+       "q": "When is the appointment?",
+       "options": [
+        "Thursday at 2:00",
+        "Tomorrow at 2:00",
+        "Thursday at 10:30",
+        "Tomorrow at 10:30"
+       ],
+       "answer": 3,
+       "whyTr": "Hafsa 'Tomorrow is better' diyor; saat 10:30.",
+       "tag": "listening",
+       "level": "A2"
+      }
+     ]
+    },
+    {
+     "title": "Help at the book fair",
+     "level": "A2",
+     "script": [
+      {
+       "speaker": "Mr. Brown",
+       "text": "Hafsa, are you free next Friday? We need help at the book fair."
+      },
+      {
+       "speaker": "Hafsa",
+       "text": "I think so. What time does it start?"
+      },
+      {
+       "speaker": "Mr. Brown",
+       "text": "It starts at 9:00 and finishes at 1:00."
+      },
+      {
+       "speaker": "Hafsa",
+       "text": "Okay. What should I bring?"
+      },
+      {
+       "speaker": "Mr. Brown",
+       "text": "Just a bottle of water. We don't have a lot of drinks."
+      },
+      {
+       "speaker": "Hafsa",
+       "text": "No problem. I will be there at 8:45."
+      }
+     ],
+     "questions": [
+      {
+       "type": "mcq",
+       "q": "What does Mr. Brown need help with?",
+       "options": [
+        "The book fair",
+        "A fire drill",
+        "A parent meeting",
+        "The school bus"
+       ],
+       "answer": 0,
+       "whyTr": "Mr. Brown: 'We need help at the book fair.'",
+       "tag": "listening",
+       "level": "A2"
+      },
+      {
+       "type": "mcq",
+       "q": "What should Hafsa bring?",
+       "options": [
+        "A book",
+        "A bottle of water",
+        "Lunch",
+        "A form"
+       ],
+       "answer": 1,
+       "whyTr": "Mr. Brown: 'Just a bottle of water.'",
+       "tag": "listening",
+       "level": "A2"
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "writing": {
+  "promptTr": "Arkadaşına geçen hafta sonunu anlatan kısa bir paragraf yaz. Nereye gittin, ne yaptın, nasıl hissettin? Geçmiş zaman kullanmayı unutma.",
+  "promptEn": "Write a short paragraph about your last weekend. Where did you go? What did you do? How did you feel?",
+  "minWords": 40,
+  "checklistTr": [
+   "Fiilleri geçmiş zamanda yazdım mı (went, visited, cooked)?",
+   "Düzensiz fiilleri doğru kullandım mı (went, had, bought)?",
+   "Olumsuz cümlede didn't + yalın fiil kullandım mı?",
+   "last Saturday / yesterday gibi zaman ifadeleri ekledim mi?",
+   "First, then, after that ile sıra verdim mi?",
+   "Cümleler büyük harfle başlıyor ve nokta ile bitiyor mu?"
+  ],
+  "model": "Last weekend was very nice. On Saturday, I went to the farmers market with my neighbor Linda. We bought vegetables and bread. Then we had tea at a small coffee shop. On Sunday, I cooked a big dinner for my son Emre. We watched a movie after dinner. I didn't clean the house, but I felt happy and relaxed."
+ }
+}

@@ -1,0 +1,869 @@
+{
+ "titleTr": "9. hafta deneme sınavı (kontrol noktası)",
+ "introTr": "Bu, programın yarısındaki kontrol noktan. Hedef 39 ve üzeri; ama asıl amaç, hangi konuların oturduğunu ve hangilerine tekrar gerektiğini görmek. Yavaş oku, bilmediğini işaretle, sonra sonuç ekranındaki tekrar önerilerine bak.",
+ "sections": [
+  {
+   "id": "grammar",
+   "titleTr": "Dil bilgisi",
+   "items": [
+    {
+     "type": "mcq",
+     "q": "If it rains tomorrow, the field trip ___.",
+     "options": [
+      "is canceled",
+      "would be canceled",
+      "was canceled",
+      "will be canceled"
+     ],
+     "answer": 3,
+     "whyTr": "Gerçekçi gelecek durumu: If + geniş zaman, will + fiil (burada edilgen).",
+     "tag": "conditionals",
+     "level": "B1"
+    },
+    {
+     "type": "mcq",
+     "q": "If I ___ time tomorrow, I'll visit the library.",
+     "options": [
+      "have",
+      "will have",
+      "had",
+      "would have"
+     ],
+     "answer": 0,
+     "whyTr": "If cümleciğinde gelecek için geniş zaman kullanılır.",
+     "tag": "conditionals",
+     "level": "B1"
+    },
+    {
+     "type": "mcq",
+     "q": "If I were the principal, I ___ more field trips.",
+     "options": [
+      "will plan",
+      "would plan",
+      "plan",
+      "planned"
+     ],
+     "answer": 1,
+     "whyTr": "Gerçek dışı durum: If + geçmiş zaman, would + fiil.",
+     "tag": "conditionals",
+     "level": "B1"
+    },
+    {
+     "type": "mcq",
+     "q": "Students can't leave the room ___ they have a hall pass.",
+     "options": [
+      "if",
+      "when",
+      "unless",
+      "because"
+     ],
+     "answer": 2,
+     "whyTr": "Unless = if ... not; 'geçiş kartı yoksa' anlamı verir.",
+     "tag": "conditionals",
+     "level": "B1"
+    },
+    {
+     "type": "mcq",
+     "q": "If the fire alarm rings, all students ___ the building quietly.",
+     "options": [
+      "leaves",
+      "leaving",
+      "left",
+      "leave"
+     ],
+     "answer": 3,
+     "whyTr": "Genel kural (zero conditional): If + geniş zaman, geniş zaman.",
+     "tag": "conditionals",
+     "level": "B1"
+    },
+    {
+     "type": "mcq",
+     "q": "Lunch ___ in the cafeteria at 11:30.",
+     "options": [
+      "is served",
+      "serves",
+      "is serving",
+      "served"
+     ],
+     "answer": 0,
+     "whyTr": "Yemeği servis eden değil, servis edilen önemli: is served.",
+     "tag": "passive",
+     "level": "B1"
+    },
+    {
+     "type": "mcq",
+     "q": "The new gym ___ last year.",
+     "options": [
+      "built",
+      "was built",
+      "is built",
+      "has built"
+     ],
+     "answer": 1,
+     "whyTr": "Geçmişte yapılmış bir şey: was built.",
+     "tag": "passive",
+     "level": "B1"
+    },
+    {
+     "type": "mcq",
+     "q": "The reports ___ by the teachers every Friday.",
+     "options": [
+      "write",
+      "are writing",
+      "are written",
+      "wrote"
+     ],
+     "answer": 2,
+     "whyTr": "Düzenli iş, edilgen: are written.",
+     "tag": "passive",
+     "level": "B1"
+    },
+    {
+     "type": "mcq",
+     "q": "The teacher ___ helped me yesterday is very kind.",
+     "options": [
+      "which",
+      "whose",
+      "where",
+      "who"
+     ],
+     "answer": 3,
+     "whyTr": "Kişiyi tanımlarken who kullanılır.",
+     "tag": "relative-clauses",
+     "level": "B1"
+    },
+    {
+     "type": "mcq",
+     "q": "This is the room ___ the students eat lunch.",
+     "options": [
+      "where",
+      "who",
+      "which",
+      "whose"
+     ],
+     "answer": 0,
+     "whyTr": "Yer için where kullanılır.",
+     "tag": "relative-clauses",
+     "level": "B1"
+    },
+    {
+     "type": "mcq",
+     "q": "Ms. Carter, ___ daughter attends my school, is on the committee.",
+     "options": [
+      "who's",
+      "whose",
+      "which",
+      "that"
+     ],
+     "answer": 1,
+     "whyTr": "Sahiplik için whose kullanılır.",
+     "tag": "relative-clauses",
+     "level": "B1"
+    },
+    {
+     "type": "mcq",
+     "q": "The book ___ I borrowed from the library is excellent.",
+     "options": [
+      "who",
+      "where",
+      "which",
+      "whose"
+     ],
+     "answer": 2,
+     "whyTr": "Nesne için which kullanılır.",
+     "tag": "relative-clauses",
+     "level": "B1"
+    },
+    {
+     "type": "mcq",
+     "q": "I enjoy ___ with young children.",
+     "options": [
+      "to work",
+      "work",
+      "worked",
+      "working"
+     ],
+     "answer": 3,
+     "whyTr": "Enjoy'dan sonra fiil -ing alır.",
+     "tag": "gerund-infinitive",
+     "level": "B1"
+    },
+    {
+     "type": "mcq",
+     "q": "She decided ___ for the substitute teacher job.",
+     "options": [
+      "to apply",
+      "applying",
+      "apply",
+      "applied"
+     ],
+     "answer": 0,
+     "whyTr": "Decide'dan sonra to + fiil gelir.",
+     "tag": "gerund-infinitive",
+     "level": "B1"
+    },
+    {
+     "type": "mcq",
+     "q": "I'm saving money ___ buy a car next year.",
+     "options": [
+      "for",
+      "to",
+      "so",
+      "because"
+     ],
+     "answer": 1,
+     "whyTr": "Amaç bildirmek için to + fiil.",
+     "tag": "gerund-infinitive",
+     "level": "A2"
+    },
+    {
+     "type": "mcq",
+     "q": "She is studying every day ___ she can pass the test.",
+     "options": [
+      "in order",
+      "for",
+      "so that",
+      "to"
+     ],
+     "answer": 2,
+     "whyTr": "So that + özne + can/will: amaç cümleciği.",
+     "tag": "linkers",
+     "level": "B1"
+    },
+    {
+     "type": "mcq",
+     "q": "Could you tell me ___ the office opens?",
+     "options": [
+      "what time does",
+      "when does",
+      "what does time",
+      "what time"
+     ],
+     "answer": 3,
+     "whyTr": "Kibar soruda düz cümle sırası: what time the office opens.",
+     "tag": "word-order",
+     "level": "B1"
+    },
+    {
+     "type": "mcq",
+     "q": "Do you know if ___ a pencil I could borrow?",
+     "options": [
+      "you have",
+      "do you have",
+      "have you",
+      "are you have"
+     ],
+     "answer": 0,
+     "whyTr": "Dolaylı soruda 'if' sonrası düz cümle sırası.",
+     "tag": "word-order",
+     "level": "B1"
+    },
+    {
+     "type": "mcq",
+     "q": "She asked me where ___.",
+     "options": [
+      "did I live",
+      "I lived",
+      "do I live",
+      "I am living"
+     ],
+     "answer": 1,
+     "whyTr": "Aktarılan soruda düz cümle sırası ve geçmişe kayma: where I lived.",
+     "tag": "reported-speech",
+     "level": "B2"
+    },
+    {
+     "type": "mcq",
+     "q": "If I had known about the sub plans, I ___ them earlier.",
+     "options": [
+      "would read",
+      "had read",
+      "would have read",
+      "will read"
+     ],
+     "answer": 2,
+     "whyTr": "Geçmişteki gerçek dışı durum: If + had V3, would have V3.",
+     "tag": "conditionals",
+     "level": "B2"
+    }
+   ]
+  },
+  {
+   "id": "vocab",
+   "titleTr": "Kelime",
+   "items": [
+    {
+     "type": "mcq",
+     "q": "Which word means the same as 'assist'?",
+     "options": [
+      "ask",
+      "watch",
+      "teach",
+      "help"
+     ],
+     "answer": 3,
+     "whyTr": "Assist ve help aynı anlama gelir.",
+     "tag": "synonym",
+     "level": "B1"
+    },
+    {
+     "type": "mcq",
+     "q": "What is the opposite of 'absent'?",
+     "options": [
+      "present",
+      "late",
+      "ready",
+      "quiet"
+     ],
+     "answer": 0,
+     "whyTr": "Absent (yok) kelimesinin zıttı present (mevcut).",
+     "tag": "antonym",
+     "level": "B1"
+    },
+    {
+     "type": "mcq",
+     "q": "'Teachers take attendance every morning.' Attendance is:",
+     "options": [
+      "a lesson plan",
+      "a record of who is present",
+      "a school lunch",
+      "a kind of test"
+     ],
+     "answer": 1,
+     "whyTr": "Attendance, yoklama kaydıdır.",
+     "tag": "vocab",
+     "level": "B1"
+    },
+    {
+     "type": "mcq",
+     "q": "'A substitute teacher takes the place of the regular teacher.' A substitute is:",
+     "options": [
+      "a teacher's assistant",
+      "a new student",
+      "someone who replaces another person",
+      "a school bus driver"
+     ],
+     "answer": 2,
+     "whyTr": "Substitute, başkasının yerini alan kişidir.",
+     "tag": "vocab",
+     "level": "B1"
+    },
+    {
+     "type": "mcq",
+     "q": "Please ___ attention to the instructions.",
+     "options": [
+      "make",
+      "do",
+      "take",
+      "pay"
+     ],
+     "answer": 3,
+     "whyTr": "'Pay attention' dikkat etmek demektir.",
+     "tag": "collocations",
+     "level": "B1"
+    },
+    {
+     "type": "mcq",
+     "q": "What is the opposite of 'increase'?",
+     "options": [
+      "decrease",
+      "improve",
+      "continue",
+      "arrive"
+     ],
+     "answer": 0,
+     "whyTr": "Increase (artmak) kelimesinin zıttı decrease (azalmak).",
+     "tag": "antonym",
+     "level": "B1"
+    },
+    {
+     "type": "mcq",
+     "q": "Which word means the same as 'essential'?",
+     "options": [
+      "optional",
+      "necessary",
+      "expensive",
+      "recent"
+     ],
+     "answer": 1,
+     "whyTr": "Essential ve necessary: gerekli.",
+     "tag": "synonym",
+     "level": "B1"
+    },
+    {
+     "type": "mcq",
+     "q": "'The principal wants to improve school safety.' Improve means:",
+     "options": [
+      "make smaller",
+      "make faster",
+      "make better",
+      "make cheaper"
+     ],
+     "answer": 2,
+     "whyTr": "Improve, geliştirmek, daha iyi yapmak demektir.",
+     "tag": "vocab",
+     "level": "B1"
+    },
+    {
+     "type": "mcq",
+     "q": "'The teacher praised the students' good behavior.' Behavior means:",
+     "options": [
+      "the way someone looks",
+      "the work someone does",
+      "the place someone lives",
+      "the way someone acts"
+     ],
+     "answer": 3,
+     "whyTr": "Behavior, davranış demektir.",
+     "tag": "vocab",
+     "level": "B1"
+    },
+    {
+     "type": "mcq",
+     "q": "'Hafsa has strong communication skills.' Communication means:",
+     "options": [
+      "sharing information with other people",
+      "fixing computers",
+      "driving a bus",
+      "cooking for many people"
+     ],
+     "answer": 0,
+     "whyTr": "Communication, iletişim kurmak, bilgi paylaşmak demektir.",
+     "tag": "vocab",
+     "level": "B1"
+    },
+    {
+     "type": "mcq",
+     "q": "'The school has a strict policy about phones.' A policy is:",
+     "options": [
+      "a kind of tool",
+      "an official rule or plan",
+      "a punishment",
+      "a short break"
+     ],
+     "answer": 1,
+     "whyTr": "Policy, resmî kural veya politika demektir.",
+     "tag": "vocab",
+     "level": "B1"
+    },
+    {
+     "type": "mcq",
+     "q": "'The students were enthusiastic about the trip.' Enthusiastic means:",
+     "options": [
+      "very tired",
+      "a little afraid",
+      "very excited and interested",
+      "not interested"
+     ],
+     "answer": 2,
+     "whyTr": "Enthusiastic, istekli ve heyecanlı demektir.",
+     "tag": "vocab",
+     "level": "B2"
+    }
+   ]
+  },
+  {
+   "id": "reading",
+   "titleTr": "Okuma",
+   "passages": [
+    {
+     "title": "Who does what at Lincoln Elementary?",
+     "level": "B1",
+     "text": "At Lincoln Elementary, many people work together every day. The principal, Dr. Lopez, is the person who makes the big decisions. Mr. Brown is the school secretary who answers the phone and keeps the student records. The nurse's office is the place where students go when they feel sick.\n\nMs. Carter, whose classroom is on the second floor, teaches fourth grade. The custodian is the man who cleans the building and checks that the doors are locked at night. The cafeteria, which is next to the gym, opens at 11:00 for lunch.\n\nHafsa is learning everyone's name because she wants to feel like part of the team.",
+     "questions": [
+      {
+       "type": "mcq",
+       "q": "Who keeps the student records?",
+       "options": [
+        "Dr. Lopez",
+        "Ms. Carter",
+        "The custodian",
+        "Mr. Brown"
+       ],
+       "answer": 3,
+       "whyTr": "Metinde: 'Mr. Brown is the school secretary who ... keeps the student records.'",
+       "tag": "reading",
+       "level": "B1"
+      },
+      {
+       "type": "mcq",
+       "q": "Where do sick students go?",
+       "options": [
+        "To the nurse's office",
+        "To the cafeteria",
+        "To the gym",
+        "To the second floor"
+       ],
+       "answer": 0,
+       "whyTr": "Metinde: 'The nurse's office is the place where students go when they feel sick.'",
+       "tag": "reading",
+       "level": "B1"
+      },
+      {
+       "type": "mcq",
+       "q": "Where is the cafeteria?",
+       "options": [
+        "Next to the nurse's office",
+        "Next to the gym",
+        "On the second floor",
+        "Behind the library"
+       ],
+       "answer": 1,
+       "whyTr": "Metinde: 'The cafeteria, which is next to the gym'.",
+       "tag": "reading",
+       "level": "B1"
+      }
+     ]
+    },
+    {
+     "title": "Why Hafsa wants to teach",
+     "level": "B1",
+     "text": "Hafsa enjoys helping people learn. When she was a girl in Isparta, her English teacher encouraged her to keep studying, and she decided to become a teacher herself. In Turkey she taught small groups of children, but she stopped after moving to the United States because she needed to improve her own English first.\n\nNow she studies every day in order to pass the placement test. If she passes, she will be able to take the substitute teacher course. She hopes to work as a substitute next fall so that she can see different grades before choosing a permanent job.\n\nIf she could choose any job in the world, she would teach English to new immigrants. She knows exactly how difficult the first year in a new country can be.",
+     "questions": [
+      {
+       "type": "mcq",
+       "q": "Who encouraged Hafsa to keep studying English?",
+       "options": [
+        "Her son Emre",
+        "Her neighbor Linda",
+        "Her English teacher in Isparta",
+        "The principal"
+       ],
+       "answer": 2,
+       "whyTr": "Metinde: 'her English teacher encouraged her to keep studying'.",
+       "tag": "reading",
+       "level": "B1"
+      },
+      {
+       "type": "mcq",
+       "q": "Why is Hafsa studying every day?",
+       "options": [
+        "To move to Isparta",
+        "To meet new teachers",
+        "To get a store job",
+        "To pass the placement test"
+       ],
+       "answer": 3,
+       "whyTr": "Metinde: 'in order to pass the placement test'.",
+       "tag": "reading",
+       "level": "B1"
+      },
+      {
+       "type": "mcq",
+       "q": "What will Hafsa be able to do if she passes the test?",
+       "options": [
+        "Take the substitute teacher course",
+        "Become a principal",
+        "Teach in Turkey",
+        "Work at a bank"
+       ],
+       "answer": 0,
+       "whyTr": "Metinde: 'If she passes, she will be able to take the substitute teacher course.'",
+       "tag": "reading",
+       "level": "B1"
+      },
+      {
+       "type": "mcq",
+       "q": "What would Hafsa's dream job be?",
+       "options": [
+        "Working as a school nurse",
+        "Teaching English to new immigrants",
+        "Being a bus driver",
+        "Teaching math to teenagers"
+       ],
+       "answer": 1,
+       "whyTr": "Metinde: 'she would teach English to new immigrants'.",
+       "tag": "reading",
+       "level": "B1"
+      }
+     ]
+    },
+    {
+     "title": "Safety at school",
+     "level": "B1",
+     "text": "Every school has safety rules. At Lincoln Elementary, the doors are locked at 8:30 every morning, and visitors must sign in at the front office. Fire drills are practiced once a month. If the alarm rings, students line up and leave the building quietly. Teachers carry the attendance list so that they can check that everyone is outside.\n\nUnless there is a real emergency, no one goes back inside until the principal gives permission. Substitute teachers are given a folder with the evacuation map and the class list, so they know what to do. 'If you read the folder in the morning, you won't feel lost,' Mr. Brown tells new substitutes.",
+     "questions": [
+      {
+       "type": "mcq",
+       "q": "When are the doors locked?",
+       "options": [
+        "At 3:00 p.m.",
+        "At noon",
+        "At 8:30 every morning",
+        "Once a month"
+       ],
+       "answer": 2,
+       "whyTr": "Metinde: 'the doors are locked at 8:30 every morning'.",
+       "tag": "reading",
+       "level": "B1"
+      },
+      {
+       "type": "mcq",
+       "q": "Why do teachers carry the attendance list during a fire drill?",
+       "options": [
+        "To call the parents",
+        "To give it to the principal",
+        "To mark the homework",
+        "To check that everyone is outside"
+       ],
+       "answer": 3,
+       "whyTr": "Metinde: 'so that they can check that everyone is outside'.",
+       "tag": "reading",
+       "level": "B1"
+      },
+      {
+       "type": "mcq",
+       "q": "What is a substitute teacher given?",
+       "options": [
+        "A folder with the evacuation map and class list",
+        "A key to every room",
+        "A phone for parents",
+        "A list of homework grades"
+       ],
+       "answer": 0,
+       "whyTr": "Metinde: 'a folder with the evacuation map and the class list'.",
+       "tag": "reading",
+       "level": "B1"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "listening",
+   "titleTr": "Dinleme",
+   "passages": [
+    {
+     "title": "A substitute teacher interview",
+     "level": "B1",
+     "script": [
+      {
+       "speaker": "Dr. Lopez",
+       "text": "Why do you want to be a substitute teacher, Hafsa?"
+      },
+      {
+       "speaker": "Hafsa",
+       "text": "I like working with children, and I want to learn how American schools work."
+      },
+      {
+       "speaker": "Dr. Lopez",
+       "text": "What do you enjoy most about teaching?"
+      },
+      {
+       "speaker": "Hafsa",
+       "text": "I enjoy explaining new things. I also love seeing a student finally understand."
+      },
+      {
+       "speaker": "Dr. Lopez",
+       "text": "What would you do if two students started arguing in class?"
+      },
+      {
+       "speaker": "Hafsa",
+       "text": "I would separate them first. Then I would talk to each of them quietly, and if the problem continued, I would call the office."
+      },
+      {
+       "speaker": "Dr. Lopez",
+       "text": "Good answer. Do you have any questions for me?"
+      },
+      {
+       "speaker": "Hafsa",
+       "text": "Yes. Could you tell me how substitutes find out about jobs?"
+      },
+      {
+       "speaker": "Dr. Lopez",
+       "text": "We use an app, which sends a message early in the morning."
+      }
+     ],
+     "questions": [
+      {
+       "type": "mcq",
+       "q": "What does Hafsa enjoy most about teaching?",
+       "options": [
+        "Grading tests",
+        "Explaining new things",
+        "Planning field trips",
+        "Working in the office"
+       ],
+       "answer": 1,
+       "whyTr": "Hafsa: 'I enjoy explaining new things.'",
+       "tag": "listening",
+       "level": "B1"
+      },
+      {
+       "type": "mcq",
+       "q": "What would Hafsa do first if two students argued?",
+       "options": [
+        "Call the office",
+        "Send them home",
+        "Separate them",
+        "Ignore them"
+       ],
+       "answer": 2,
+       "whyTr": "Hafsa: 'I would separate them first.'",
+       "tag": "listening",
+       "level": "B1"
+      },
+      {
+       "type": "mcq",
+       "q": "How do substitutes find out about jobs?",
+       "options": [
+        "The principal calls them.",
+        "They check a sign.",
+        "They read an email at night.",
+        "An app sends them a message."
+       ],
+       "answer": 3,
+       "whyTr": "Dr. Lopez: 'We use an app, which sends a message early in the morning.'",
+       "tag": "listening",
+       "level": "B1"
+      }
+     ]
+    },
+    {
+     "title": "Calling the school office",
+     "level": "B1",
+     "script": [
+      {
+       "speaker": "Hafsa",
+       "text": "Good morning. Could you tell me what time school starts?"
+      },
+      {
+       "speaker": "Mr. Brown",
+       "text": "Students arrive at 8:15, and classes begin at 8:30."
+      },
+      {
+       "speaker": "Hafsa",
+       "text": "Thank you. Do you know if substitutes need to bring lunch?"
+      },
+      {
+       "speaker": "Mr. Brown",
+       "text": "You can buy lunch in the cafeteria, or you can bring your own."
+      },
+      {
+       "speaker": "Hafsa",
+       "text": "One more question. Could you tell me where I should park?"
+      },
+      {
+       "speaker": "Mr. Brown",
+       "text": "Behind the gym. The front lot is for parents, unless you have a permit."
+      }
+     ],
+     "questions": [
+      {
+       "type": "mcq",
+       "q": "What time do classes begin?",
+       "options": [
+        "8:30",
+        "8:15",
+        "9:00",
+        "7:45"
+       ],
+       "answer": 0,
+       "whyTr": "Mr. Brown: 'classes begin at 8:30'.",
+       "tag": "listening",
+       "level": "B1"
+      },
+      {
+       "type": "mcq",
+       "q": "What can substitutes do about lunch?",
+       "options": [
+        "Only bring their own",
+        "Buy it in the cafeteria or bring their own",
+        "Eat in the front office",
+        "Skip lunch"
+       ],
+       "answer": 1,
+       "whyTr": "Mr. Brown: 'buy lunch in the cafeteria, or ... bring your own'.",
+       "tag": "listening",
+       "level": "B1"
+      },
+      {
+       "type": "mcq",
+       "q": "Where should Hafsa park?",
+       "options": [
+        "In the front lot",
+        "Next to the cafeteria",
+        "Behind the gym",
+        "On the street"
+       ],
+       "answer": 2,
+       "whyTr": "Mr. Brown: 'Behind the gym.'",
+       "tag": "listening",
+       "level": "B1"
+      }
+     ]
+    },
+    {
+     "title": "Planning the field trip",
+     "level": "B1",
+     "script": [
+      {
+       "speaker": "Ms. Carter",
+       "text": "Our field trip is on Friday. If it rains, we'll go to the museum instead of the zoo."
+      },
+      {
+       "speaker": "Hafsa",
+       "text": "What will we do if the bus is late?"
+      },
+      {
+       "speaker": "Ms. Carter",
+       "text": "We'll wait inside. If we had a bigger bus, we would take both classes, but we only have one."
+      },
+      {
+       "speaker": "Hafsa",
+       "text": "So the other class stays at school?"
+      },
+      {
+       "speaker": "Ms. Carter",
+       "text": "Yes, unless the principal finds another bus."
+      }
+     ],
+     "questions": [
+      {
+       "type": "mcq",
+       "q": "Where will the class go if it rains?",
+       "options": [
+        "To the zoo",
+        "To the park",
+        "Back home",
+        "To the museum"
+       ],
+       "answer": 3,
+       "whyTr": "Ms. Carter: 'If it rains, we'll go to the museum'.",
+       "tag": "listening",
+       "level": "B1"
+      },
+      {
+       "type": "mcq",
+       "q": "Why can't both classes go?",
+       "options": [
+        "There is only one small bus.",
+        "The museum is closed.",
+        "The zoo is far away.",
+        "The principal said no."
+       ],
+       "answer": 0,
+       "whyTr": "Ms. Carter: 'If we had a bigger bus ... we only have one.'",
+       "tag": "listening",
+       "level": "B1"
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "writing": {
+  "promptTr": "Mülakat hazırlığı: 'Neden substitute teacher olmak istiyorsun?' sorusuna yazılı cevap ver (80-120 kelime). Deneyimini, nedenini ve bir 'if' cümlesiyle bir durumda ne yapacağını anlat.",
+  "promptEn": "Interview practice: Why do you want to be a substitute teacher? Write 80-120 words. Mention your experience, your reasons, and what you would do in one classroom situation (use an if-sentence).",
+  "minWords": 80,
+  "checklistTr": [
+   "Neden sorusuna cevap verdim mi (because / in order to / so that)?",
+   "Deneyimimi anlattım mı (I taught ... / I have volunteered ...)?",
+   "En az bir 'If I ..., I would ...' veya 'If ..., I will ...' cümlesi yazdım mı?",
+   "Bir ilgi cümleciği kullandım mı (who / which / where)?",
+   "Enjoy + -ing ve decide / want + to doğru mu?",
+   "Cümleler büyük harfle başlıyor ve nokta ile bitiyor mu?"
+  ],
+  "model": "I want to be a substitute teacher because I enjoy helping children learn. I taught English in Turkey for two years, and I have volunteered at Lincoln Elementary for six months. I am studying English every day so that I can work confidently in an American classroom. I am patient, organized and friendly. If two students started arguing, I would separate them and talk to each one quietly. If the problem continued, I would call the office. I believe that a calm teacher is a teacher who can help every student."
+ }
+}

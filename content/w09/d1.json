@@ -1,0 +1,793 @@
+{
+ "week": 9,
+ "day": 1,
+ "titleTr": "Okulda kim ne yapar? Who, which, that",
+ "theme": "school-staff",
+ "morning": {
+  "grammar": {
+   "topic": "Relative clauses: who / which / that",
+   "explainTr": [
+    "Bir kişiyi ya da şeyi tanımlamak için 'who', 'which' veya 'that' kullanırsın. Kişi için 'who' (ya da that), eşya ve yer için 'which' (ya da that): The librarian is the woman who helps students. This is the form which you must sign.",
+    "Bu kelimeler cümlede özne yerine geçiyorsa özne tekrar edilmez: The aide who helps me (who she helps me değil). Cümleciğin kendi öznesi varsa (the book that Linda gave me) 'that' ya da 'which' atılabilir.",
+    "Önce ana cümleyi, hemen ardından tanımlayan cümleciği yazarsın: The custodian who arrives early cleans the building."
+   ],
+   "compareTr": "Türkçede tanımlama fiilin başındaki bir sıfat-fiil ile yapılır: 'öğrencilere yardım eden kadın'. İngilizcede kişi sona gelir ve who ile bağlanır: the woman who helps students.",
+   "table": [
+    [
+     "Kişi",
+     "who / that",
+     "The coach who teaches gym"
+    ],
+    [
+     "Eşya, yer",
+     "which / that",
+     "The form which you sign"
+    ],
+    [
+     "Özne yerine geçerse",
+     "atılamaz",
+     "The man who works here"
+    ],
+    [
+     "Cümleciğin öznesi varsa",
+     "atılabilir",
+     "The book (that) I read"
+    ]
+   ],
+   "examples": [
+    {
+     "en": "The principal is the person who makes big decisions.",
+     "tr": "Müdür büyük kararları veren kişidir."
+    },
+    {
+     "en": "A cafeteria is a room that serves lunch.",
+     "tr": "Yemekhane öğle yemeği servis eden bir odadır."
+    },
+    {
+     "en": "This is the form which every substitute must sign.",
+     "tr": "Bu, her vekilin imzalaması gereken formdur."
+    },
+    {
+     "en": "The book that Linda gave me is great.",
+     "tr": "Linda'nın bana verdiği kitap harika."
+    }
+   ],
+   "exercises": [
+    {
+     "type": "mcq",
+     "q": "The woman ___ answers the phone is Mrs. Lee.",
+     "options": [
+      "who",
+      "which",
+      "whose",
+      "where"
+     ],
+     "answer": 0,
+     "whyTr": "Kişiyi anlatırken 'who' kullanılır.",
+     "tag": "pronouns",
+     "level": "B1"
+    },
+    {
+     "type": "mcq",
+     "q": "This is the form ___ you must sign today.",
+     "options": [
+      "who",
+      "which",
+      "whose",
+      "where"
+     ],
+     "answer": 1,
+     "whyTr": "Eşyayı anlatırken 'which' (ya da 'that') kullanılır.",
+     "tag": "pronouns",
+     "level": "B1"
+    },
+    {
+     "type": "mcq",
+     "q": "The man ___ fixes the heater works late.",
+     "options": [
+      "what",
+      "whom",
+      "that",
+      "whose"
+     ],
+     "answer": 2,
+     "whyTr": "Özne yerine geçen 'that' kişi ve eşya için kullanılır.",
+     "tag": "pronouns",
+     "level": "B1"
+    },
+    {
+     "type": "mcq",
+     "q": "A cafeteria is a room ___ serves breakfast and lunch.",
+     "options": [
+      "who",
+      "whose",
+      "what",
+      "that"
+     ],
+     "answer": 3,
+     "whyTr": "Yer ve eşya için 'that' (ya da 'which') gelir; 'who' yalnız kişi içindir.",
+     "tag": "pronouns",
+     "level": "B1"
+    },
+    {
+     "type": "mcq",
+     "q": "Which sentence is correct?",
+     "options": [
+      "The counselor who helps us is kind.",
+      "The counselor who she helps us is kind.",
+      "The counselor which helps us is kind.",
+      "The counselor helps us who is kind."
+     ],
+     "answer": 0,
+     "whyTr": "Who zaten özne yerine geçer; arkasına ikinci bir 'she' eklenmez.",
+     "tag": "pronouns",
+     "level": "B1"
+    },
+    {
+     "type": "mcq",
+     "q": "Where is the book ___ I left on my desk?",
+     "options": [
+      "who",
+      "which",
+      "whose",
+      "where"
+     ],
+     "answer": 1,
+     "whyTr": "Kitap bir eşya olduğu için 'which' (ya da 'that') kullanılır.",
+     "tag": "pronouns",
+     "level": "B1"
+    },
+    {
+     "type": "order",
+     "promptTr": "Cümleyi sırala:",
+     "words": [
+      "who",
+      "teaches",
+      "gym",
+      "is",
+      "very",
+      "friendly",
+      "The",
+      "coach"
+     ],
+     "answer": "The coach who teaches gym is very friendly",
+     "whyTr": "Who, kişiyi (coach) tanımlayan cümleciği başlatır.",
+     "tag": "pronouns",
+     "level": "B1"
+    },
+    {
+     "type": "order",
+     "promptTr": "Cümleyi sırala:",
+     "words": [
+      "the",
+      "paper",
+      "that",
+      "the",
+      "principal",
+      "signed",
+      "I",
+      "need"
+     ],
+     "answer": "I need the paper that the principal signed",
+     "whyTr": "'That the principal signed' kağıdı tanımlar.",
+     "tag": "pronouns",
+     "level": "B1"
+    },
+    {
+     "type": "mcq",
+     "q": "In which sentence can you leave out 'that'?",
+     "options": [
+      "The woman that called is Linda.",
+      "The man that works here is Mr. Brown.",
+      "The book that Linda gave me is good.",
+      "The student that sits there is new."
+     ],
+     "answer": 2,
+     "whyTr": "Cümlecikte kendi öznesi (Linda) varsa 'that' atılabilir; özne yerine geçiyorsa atılamaz.",
+     "tag": "pronouns",
+     "level": "B1"
+    },
+    {
+     "type": "mcq",
+     "q": "The custodian who ___ the hallway yesterday was very kind.",
+     "options": [
+      "cleans",
+      "clean",
+      "cleaning",
+      "cleaned"
+     ],
+     "answer": 3,
+     "whyTr": "Yesterday var; Past Simple: cleaned.",
+     "tag": "past-simple",
+     "level": "A2"
+    },
+    {
+     "type": "fill",
+     "q": "The aide ___ helps in my class is very kind.",
+     "accept": [
+      "who",
+      "that"
+     ],
+     "hintTr": "kişi için bağlaç",
+     "whyTr": "Kişiyi anlatırken 'who' (ya da 'that') kullanılır.",
+     "tag": "pronouns",
+     "level": "B1"
+    },
+    {
+     "type": "fill",
+     "q": "The book ___ I borrowed is due on Friday.",
+     "accept": [
+      "which",
+      "that"
+     ],
+     "hintTr": "eşya için bağlaç",
+     "whyTr": "Eşyayı anlatırken 'which' (ya da 'that') kullanılır.",
+     "tag": "pronouns",
+     "level": "B1"
+    }
+   ]
+  },
+  "vocab": [
+   {
+    "id": "principal",
+    "en": "principal",
+    "tr": "okul müdürü",
+    "pos": "noun",
+    "example": "The principal welcomes every family at the door.",
+    "exampleTr": "Okul müdürü her aileyi kapıda karşılıyor.",
+    "syn": [],
+    "ant": [],
+    "level": "B1"
+   },
+   {
+    "id": "counselor",
+    "en": "counselor",
+    "tr": "rehber öğretmen, danışman",
+    "pos": "noun",
+    "example": "The counselor talks with students about their plans.",
+    "exampleTr": "Rehber öğretmen öğrencilerle planları hakkında konuşuyor.",
+    "syn": [],
+    "ant": [],
+    "level": "B1"
+   },
+   {
+    "id": "custodian",
+    "en": "custodian",
+    "tr": "okul bakım ve temizlik görevlisi",
+    "pos": "noun",
+    "example": "The custodian opens the building at six.",
+    "exampleTr": "Temizlik görevlisi binayı altıda açıyor.",
+    "syn": [],
+    "ant": [],
+    "level": "B1"
+   },
+   {
+    "id": "librarian",
+    "en": "librarian",
+    "tr": "kütüphaneci",
+    "pos": "noun",
+    "example": "The librarian found a great book for me.",
+    "exampleTr": "Kütüphaneci bana harika bir kitap buldu.",
+    "syn": [],
+    "ant": [],
+    "level": "B1"
+   },
+   {
+    "id": "coach",
+    "en": "coach",
+    "tr": "antrenör, spor öğretmeni",
+    "pos": "noun",
+    "example": "The coach teaches gym and soccer.",
+    "exampleTr": "Antrenör beden eğitimi ve futbol öğretiyor.",
+    "syn": [],
+    "ant": [],
+    "level": "B1"
+   },
+   {
+    "id": "staff",
+    "en": "staff",
+    "tr": "personel, çalışanlar",
+    "pos": "noun",
+    "example": "The school staff meets every Monday.",
+    "exampleTr": "Okul personeli her pazartesi toplanıyor.",
+    "syn": [
+     "employees"
+    ],
+    "ant": [],
+    "level": "B1"
+   },
+   {
+    "id": "assistant",
+    "en": "assistant",
+    "tr": "yardımcı, asistan",
+    "pos": "noun",
+    "example": "An assistant helps the teacher in class.",
+    "exampleTr": "Bir yardımcı sınıfta öğretmene yardım ediyor.",
+    "syn": [
+     "helper"
+    ],
+    "ant": [],
+    "level": "B1"
+   },
+   {
+    "id": "supervise",
+    "en": "supervise",
+    "tr": "gözetmek, denetlemek",
+    "pos": "verb",
+    "example": "Teachers supervise the students at lunch.",
+    "exampleTr": "Öğretmenler öğle yemeğinde öğrencileri gözetiyor.",
+    "syn": [
+     "oversee"
+    ],
+    "ant": [],
+    "level": "B1"
+   },
+   {
+    "id": "responsible",
+    "en": "responsible",
+    "tr": "sorumlu",
+    "pos": "adjective",
+    "example": "The principal is responsible for student safety.",
+    "exampleTr": "Müdür öğrenci güvenliğinden sorumlu.",
+    "syn": [],
+    "ant": [
+     "irresponsible"
+    ],
+    "level": "B1"
+   },
+   {
+    "id": "behavior",
+    "en": "behavior",
+    "tr": "davranış",
+    "pos": "noun",
+    "example": "Good behavior makes a class calm.",
+    "exampleTr": "İyi davranış sınıfı sakin yapar.",
+    "syn": [],
+    "ant": [],
+    "level": "B1"
+   },
+   {
+    "id": "cafeteria",
+    "en": "cafeteria",
+    "tr": "okul yemekhanesi",
+    "pos": "noun",
+    "example": "The cafeteria serves hot lunch.",
+    "exampleTr": "Yemekhane sıcak öğle yemeği servis ediyor.",
+    "syn": [],
+    "ant": [],
+    "level": "B1"
+   },
+   {
+    "id": "attendance",
+    "en": "attendance",
+    "tr": "yoklama, devam",
+    "pos": "noun",
+    "example": "Please take attendance before the lesson.",
+    "exampleTr": "Lütfen dersten önce yoklama alın.",
+    "syn": [],
+    "ant": [],
+    "level": "B1"
+   },
+   {
+    "id": "substitute",
+    "en": "substitute",
+    "tr": "vekil; yerine geçmek",
+    "pos": "noun",
+    "example": "A substitute takes the class when the teacher is away.",
+    "exampleTr": "Vekil, öğretmen yokken sınıfı alır.",
+    "syn": [
+     "replacement"
+    ],
+    "ant": [],
+    "level": "B1"
+   },
+   {
+    "id": "employee",
+    "en": "employee",
+    "tr": "çalışan",
+    "pos": "noun",
+    "example": "Every school employee wears a badge.",
+    "exampleTr": "Her okul çalışanı bir kimlik kartı takar.",
+    "syn": [
+     "worker"
+    ],
+    "ant": [],
+    "level": "B1"
+   },
+   {
+    "id": "duty",
+    "en": "duty",
+    "tr": "görev, nöbet",
+    "pos": "noun",
+    "example": "I have lunch duty on Tuesdays.",
+    "exampleTr": "Salı günleri yemekhane nöbetim var.",
+    "syn": [
+     "responsibility"
+    ],
+    "ant": [],
+    "level": "B1"
+   }
+  ],
+  "reading": {
+   "title": "Who does what at Lincoln Elementary?",
+   "text": "On Monday, Hafsa goes to Lincoln Elementary School for a training day. Mr. Brown, who works in the front office, gives her a visitor badge and a list of the school staff.\n\n\"Let me explain who does what,\" he says. \"The principal is the person who makes the big decisions. She also talks to the parents when there is a serious problem. The counselor is someone who helps students with their feelings and their plans for the future. The custodian, who arrives before everyone else, cleans the building and fixes small problems. The librarian is the person that helps students find books.\"\n\nHafsa writes everything in her notebook. Then they walk to the cafeteria, which is a large room that serves breakfast and lunch. An assistant who works with a second-grade class is helping a boy who cannot find his lunch card. Hafsa smiles and thinks, \"I can do this kind of work.\"\n\nNext, Mr. Brown shows her the attendance form. \"This is the form that every substitute must complete in the first ten minutes,\" he says. \"Please do not forget it. The office needs it to know which students are at school.\"\n\nAt the end of the day, Hafsa feels nervous but happy. That evening she tells Emre, \"Now I know the people who keep the school running. They are a team that works very hard, and I want to be part of it.\"",
+   "glossary": [
+    {
+     "en": "training day",
+     "tr": "eğitim günü"
+    },
+    {
+     "en": "visitor badge",
+     "tr": "ziyaretçi kartı"
+    },
+    {
+     "en": "serious problem",
+     "tr": "ciddi sorun"
+    },
+    {
+     "en": "keep running",
+     "tr": "işleyişi sürdürmek"
+    }
+   ],
+   "questions": [
+    {
+     "type": "mcq",
+     "q": "Who makes the big decisions at the school?",
+     "options": [
+      "The principal",
+      "The counselor",
+      "The librarian",
+      "The coach"
+     ],
+     "answer": 0,
+     "whyTr": "Metin: 'The principal is the person who makes the big decisions.'",
+     "tag": "reading",
+     "level": "B1"
+    },
+    {
+     "type": "mcq",
+     "q": "What does the custodian do?",
+     "options": [
+      "He helps students find books.",
+      "He cleans the building and fixes small problems.",
+      "He talks to parents.",
+      "He teaches gym."
+     ],
+     "answer": 1,
+     "whyTr": "Metin: 'cleans the building and fixes small problems'.",
+     "tag": "reading",
+     "level": "B1"
+    },
+    {
+     "type": "mcq",
+     "q": "What must a substitute do in the first ten minutes?",
+     "options": [
+      "Visit the cafeteria",
+      "Call the parents",
+      "Complete the attendance form",
+      "Meet the counselor"
+     ],
+     "answer": 2,
+     "whyTr": "Metin: 'every substitute must complete in the first ten minutes'.",
+     "tag": "reading",
+     "level": "B1"
+    },
+    {
+     "type": "mcq",
+     "q": "How does Hafsa feel at the end of the day?",
+     "options": [
+      "Bored and tired",
+      "Angry and sad",
+      "Calm and sleepy",
+      "Nervous but happy"
+     ],
+     "answer": 3,
+     "whyTr": "Metin: 'Hafsa feels nervous but happy.'",
+     "tag": "reading",
+     "level": "B1"
+    }
+   ]
+  }
+ },
+ "evening": {
+  "listening": {
+   "title": "A tour of the school office",
+   "script": [
+    {
+     "speaker": "Hafsa",
+     "text": "Mr. Brown, who should I talk to if a student gets very upset?"
+    },
+    {
+     "speaker": "Mr. Brown",
+     "text": "Talk to Ms. Rivera. She is the counselor who works in room twelve."
+    },
+    {
+     "speaker": "Hafsa",
+     "text": "And who do I call if the lights stop working?"
+    },
+    {
+     "speaker": "Mr. Brown",
+     "text": "Call Mr. Davis. He is the custodian who fixes everything in this building."
+    },
+    {
+     "speaker": "Hafsa",
+     "text": "Is he the man who wears the blue cap?"
+    },
+    {
+     "speaker": "Mr. Brown",
+     "text": "Yes, that's him. Now, this is the form that you must fill out every morning."
+    },
+    {
+     "speaker": "Hafsa",
+     "text": "Is it the attendance form?"
+    },
+    {
+     "speaker": "Mr. Brown",
+     "text": "Right. Put it in the basket that is next to my desk before nine fifteen."
+    },
+    {
+     "speaker": "Hafsa",
+     "text": "What about lunch duty? Who supervises the students in the cafeteria?"
+    },
+    {
+     "speaker": "Mr. Brown",
+     "text": "The coach and two assistants who work there. You only walk with your class."
+    },
+    {
+     "speaker": "Hafsa",
+     "text": "That sounds easy. Thank you for explaining everything."
+    },
+    {
+     "speaker": "Mr. Brown",
+     "text": "You're welcome. The people here are friendly, and they are always ready to help."
+    }
+   ],
+   "questions": [
+    {
+     "type": "mcq",
+     "q": "Who should Hafsa talk to about an upset student?",
+     "options": [
+      "Ms. Rivera, the counselor",
+      "Mr. Davis, the custodian",
+      "The coach",
+      "Mr. Brown's assistant"
+     ],
+     "answer": 0,
+     "whyTr": "Mr. Brown: 'Talk to Ms. Rivera. She is the counselor.'",
+     "tag": "listening",
+     "level": "B1"
+    },
+    {
+     "type": "mcq",
+     "q": "Who fixes things in the building?",
+     "options": [
+      "Ms. Rivera",
+      "Mr. Davis",
+      "The librarian",
+      "The principal"
+     ],
+     "answer": 1,
+     "whyTr": "Mr. Brown: 'Mr. Davis ... the custodian who fixes everything'.",
+     "tag": "listening",
+     "level": "B1"
+    },
+    {
+     "type": "mcq",
+     "q": "Where does Hafsa put the attendance form?",
+     "options": [
+      "On the principal's chair",
+      "In the cafeteria",
+      "In the basket next to Mr. Brown's desk",
+      "On the whiteboard"
+     ],
+     "answer": 2,
+     "whyTr": "Mr. Brown: 'the basket that is next to my desk'.",
+     "tag": "listening",
+     "level": "B1"
+    },
+    {
+     "type": "mcq",
+     "q": "Who supervises students at lunch?",
+     "options": [
+      "The counselor",
+      "Hafsa alone",
+      "Mr. Davis",
+      "The coach and two assistants"
+     ],
+     "answer": 3,
+     "whyTr": "Mr. Brown: 'The coach and two assistants who work there.'",
+     "tag": "listening",
+     "level": "B1"
+    }
+   ]
+  },
+  "writing": {
+   "promptTr": "Bir arkadaşına, ziyaret ettiğin bir okuldaki 3 kişiyi 'who', 'that', 'which' ile anlatan kısa bir e-posta yaz (80-120 kelime).",
+   "promptEn": "Write a short email to a friend about three people you met at a school. Use who, that or which. (80-120 words)",
+   "frames": [
+    "Hi ..., I visited ... yesterday.",
+    "... is the person who ...",
+    "... is the counselor that ...",
+    "It is a school that ..."
+   ],
+   "model": "Hi Linda, I visited Lincoln Elementary School yesterday, and I met many interesting people. Mr. Brown is the secretary who works in the front office. He is a man who always smiles. Ms. Rivera is the counselor who helps students with their problems. Mr. Davis is the custodian that cleans the building every morning. I also saw the cafeteria, which serves hot lunch for four hundred students. It is a school that feels like a big family. I want to work there as a substitute teacher. Can we have coffee this weekend? I want to tell you everything. Hafsa",
+   "checklistTr": [
+    "Kişiler için who (ya da that), eşyalar için which (ya da that) kullandın mı?",
+    "Who'dan sonra ikinci bir özne (who she) eklemedin, değil mi?",
+    "En az üç kişiyi tanıttın mı?",
+    "Cümleler büyük harfle başlıyor ve noktayla bitiyor mu?"
+   ],
+   "minWords": 80
+  },
+  "examSet": [
+   {
+    "type": "mcq",
+    "q": "A librarian is a person ___ works with books.",
+    "options": [
+     "who",
+     "which",
+     "what",
+     "where"
+    ],
+    "answer": 0,
+    "whyTr": "Kişi için 'who'.",
+    "tag": "pronouns",
+    "level": "B1"
+   },
+   {
+    "type": "mcq",
+    "q": "The school has a gym ___ is very large.",
+    "options": [
+     "who",
+     "which",
+     "whose",
+     "whom"
+    ],
+    "answer": 1,
+    "whyTr": "Eşya/yer için 'which'.",
+    "tag": "pronouns",
+    "level": "B1"
+   },
+   {
+    "type": "mcq",
+    "q": "Which sentence is correct?",
+    "options": [
+     "The counselor which helps me is kind.",
+     "The counselor who he helps me is kind.",
+     "The counselor who helps me is kind.",
+     "The counselor helps who me is kind."
+    ],
+    "answer": 2,
+    "whyTr": "Kişi için 'who'; ikinci özne eklenmez.",
+    "tag": "pronouns",
+    "level": "B1"
+   },
+   {
+    "type": "mcq",
+    "q": "A ___ is a person who cleans and repairs a school building.",
+    "options": [
+     "principal",
+     "librarian",
+     "coach",
+     "custodian"
+    ],
+    "answer": 3,
+    "whyTr": "Bina bakım ve temizliği custodian'ın işi.",
+    "tag": "vocab",
+    "level": "B1"
+   },
+   {
+    "type": "mcq",
+    "q": "The principal is ___ for the safety of every student.",
+    "options": [
+     "responsible",
+     "absent",
+     "quiet",
+     "careless"
+    ],
+    "answer": 0,
+    "whyTr": "Sorumlu = responsible.",
+    "tag": "vocab",
+    "level": "B1"
+   },
+   {
+    "type": "mcq",
+    "q": "Which word is closest in meaning to 'employee'?",
+    "options": [
+     "visitor",
+     "worker",
+     "customer",
+     "neighbor"
+    ],
+    "answer": 1,
+    "whyTr": "Employee ve worker eş anlamlıdır.",
+    "tag": "synonym",
+    "level": "A2"
+   },
+   {
+    "type": "mcq",
+    "q": "Which word is closest in meaning to 'supervise'?",
+    "options": [
+     "forget",
+     "ignore",
+     "oversee",
+     "borrow"
+    ],
+    "answer": 2,
+    "whyTr": "Supervise = oversee (gözetmek).",
+    "tag": "synonym",
+    "level": "B1"
+   },
+   {
+    "type": "mcq",
+    "q": "What is the opposite of 'responsible'?",
+    "options": [
+     "polite",
+     "careful",
+     "helpful",
+     "irresponsible"
+    ],
+    "answer": 3,
+    "whyTr": "Responsible'ın zıttı irresponsible.",
+    "tag": "antonym",
+    "level": "B1"
+   },
+   {
+    "type": "mcq",
+    "q": "Yesterday Hafsa ___ the form to Mr. Brown.",
+    "options": [
+     "gave",
+     "give",
+     "gives",
+     "giving"
+    ],
+    "answer": 0,
+    "whyTr": "Yesterday: Past Simple, give'in geçmişi gave.",
+    "tag": "past-simple",
+    "level": "A2"
+   },
+   {
+    "type": "mcq",
+    "q": "Hafsa ___ in the U.S. for three years.",
+    "options": [
+     "lives",
+     "has lived",
+     "lived",
+     "is living"
+    ],
+    "answer": 1,
+    "whyTr": "'For three years' ile Present Perfect: has lived.",
+    "tag": "present-perfect",
+    "level": "B1"
+   },
+   {
+    "type": "mcq",
+    "q": "Ms. Lee is the librarian who works at Lincoln Elementary. She helps students who need books for projects. Today she is reading a story that a second-grader wrote.\n\nWhat is Ms. Lee reading today?",
+    "options": [
+     "A book about the principal",
+     "A list of students",
+     "A story written by a second-grader",
+     "A form for parents"
+    ],
+    "answer": 2,
+    "whyTr": "Metin: 'a story that a second-grader wrote'.",
+    "tag": "reading",
+    "level": "B1"
+   },
+   {
+    "type": "mcq",
+    "q": "Mr. Davis is the custodian who opens the school at six o'clock. He turns on the lights and checks the heater before anyone arrives. \"A warm school is a happy school,\" he says.\n\nWhy does Mr. Davis check the heater?",
+    "options": [
+     "To clean the floors",
+     "To call the principal",
+     "To teach a class",
+     "To make the school warm"
+    ],
+    "answer": 3,
+    "whyTr": "Metin: 'A warm school is a happy school.'",
+    "tag": "reading",
+    "level": "B1"
+   }
+  ]
+ }
+}

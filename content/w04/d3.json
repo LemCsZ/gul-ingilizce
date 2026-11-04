@@ -1,0 +1,781 @@
+{
+ "week": 4,
+ "day": 3,
+ "titleTr": "Ajandan: planlar ve randevular",
+ "theme": "schedule",
+ "morning": {
+  "grammar": {
+   "topic": "Present Continuous for future; will vs going to",
+   "explainTr": [
+    "Kesin ayarlanmış planlar için Present Continuous kullanılır: I am meeting Linda tomorrow at 2. Burada saat, gün ve kişi belli; yani randevu alınmış ya da bilet alınmıştır.",
+    "Üç yapıyı ayır: Ayarlanmış plan (saat, yer belli) → am meeting. Genel niyet / plan → am going to meet. Anlık karar, söz → will meet.",
+    "Çoğu zaman ayarlanmış plan ile going to aynı anlama gelir. Sınavda ipucu ararsın: 'at 4:00', 'on Friday' varsa Present Continuous çok uygundur."
+   ],
+   "compareTr": "Türkçede 'Yarın Linda'yla buluşuyorum' dersin; şimdiki zaman geleceği de anlatır. İngilizce de aynısını yapar: 'I am meeting Linda tomorrow.' Burada bu zaman Türkçeye çok benzer; sadece am/is/are'ı unutma.",
+   "table": [
+    [
+     "Ayarlanmış plan",
+     "am / is / are + fiil-ing",
+     "I'm seeing the dentist at 4."
+    ],
+    [
+     "Niyet, plan",
+     "am / is / are going to + fiil",
+     "I'm going to clean the house."
+    ],
+    [
+     "Anlık karar, söz",
+     "will + fiil",
+     "I'll answer the phone."
+    ],
+    [
+     "Soru",
+     "What are you doing on Friday?",
+     "I'm having lunch with Linda."
+    ],
+    [
+     "Olumsuz",
+     "am not / isn't / aren't + fiil-ing",
+     "He isn't coming."
+    ]
+   ],
+   "examples": [
+    {
+     "en": "I am meeting Mr. Brown on Monday at ten.",
+     "tr": "Pazartesi saat onda Mr. Brown'la buluşuyorum."
+    },
+    {
+     "en": "We are having lunch at noon.",
+     "tr": "Öğlen yemek yiyoruz."
+    },
+    {
+     "en": "What are you doing on Saturday?",
+     "tr": "Cumartesi ne yapıyorsun?"
+    },
+    {
+     "en": "Emre isn't coming tonight.",
+     "tr": "Emre bu akşam gelmiyor."
+    },
+    {
+     "en": "The phone is ringing. I'll answer it.",
+     "tr": "Telefon çalıyor. Ben bakarım."
+    }
+   ],
+   "exercises": [
+    {
+     "type": "mcq",
+     "q": "I ___ the dentist on Thursday at 4:00.",
+     "options": [
+      "am seeing",
+      "see",
+      "saw"
+     ],
+     "answer": 0,
+     "whyTr": "Kesin ayarlanmış randevu: Present Continuous.",
+     "tag": "future",
+     "level": "A2"
+    },
+    {
+     "type": "mcq",
+     "q": "Linda and I ___ lunch tomorrow at noon.",
+     "options": [
+      "has",
+      "are having",
+      "having",
+      "have"
+     ],
+     "answer": 1,
+     "whyTr": "We ile 'are having'; saat ve gün belli bir ayarlama.",
+     "tag": "future",
+     "level": "A2"
+    },
+    {
+     "type": "order",
+     "promptTr": "Cümleyi sırala:",
+     "words": [
+      "Monday",
+      "new",
+      "starting",
+      "a",
+      "job",
+      "is",
+      "son",
+      "My",
+      "on"
+     ],
+     "answer": "My son is starting a new job on Monday",
+     "whyTr": "Ayarlanmış gelecek: am/is/are + fiil-ing.",
+     "tag": "future",
+     "level": "A2"
+    },
+    {
+     "type": "mcq",
+     "q": "What ___ you doing on Saturday night?",
+     "options": [
+      "do",
+      "are",
+      "will"
+     ],
+     "answer": 1,
+     "whyTr": "Gelecek sorusu: What are you doing...?",
+     "tag": "future",
+     "level": "A1"
+    },
+    {
+     "type": "mcq",
+     "q": "The phone is ringing. I ___ answer it.",
+     "options": [
+      "am answering",
+      "will",
+      "am going to answer",
+      "answer"
+     ],
+     "answer": 1,
+     "whyTr": "Anlık karar: 'will'.",
+     "tag": "future",
+     "level": "A2"
+    },
+    {
+     "type": "mcq",
+     "q": "She has her ticket. She ___ to Chicago next week.",
+     "options": [
+      "flew",
+      "has flying",
+      "is flying",
+      "fly"
+     ],
+     "answer": 2,
+     "whyTr": "Bilet alınmış, ayarlanmış plan: is flying.",
+     "tag": "future",
+     "level": "A2"
+    },
+    {
+     "type": "order",
+     "promptTr": "Cümleyi sırala:",
+     "words": [
+      "Is",
+      "the",
+      "meeting?",
+      "to",
+      "Mr.",
+      "Brown",
+      "coming"
+     ],
+     "answer": "Is Mr. Brown coming to the meeting?",
+     "whyTr": "Soruda be fiili başa gelir.",
+     "tag": "question-form",
+     "level": "A2"
+    },
+    {
+     "type": "mcq",
+     "q": "Look at that car! It ___ hit the bus!",
+     "options": [
+      "is going to",
+      "hits",
+      "is hit",
+      "hit"
+     ],
+     "answer": 0,
+     "whyTr": "Gördüğün işarete bakarak tahmin: 'going to'.",
+     "tag": "future",
+     "level": "A2"
+    },
+    {
+     "type": "mcq",
+     "q": "I'm tired. I think I ___ go to bed early.",
+     "options": [
+      "am go",
+      "going",
+      "will",
+      "goes"
+     ],
+     "answer": 2,
+     "whyTr": "'I think I'll...' anlık karar.",
+     "tag": "future",
+     "level": "A2"
+    },
+    {
+     "type": "mcq",
+     "q": "Which sentence is correct?",
+     "options": [
+      "I meet am Linda tomorrow at 2.",
+      "I am meet Linda tomorrow at 2.",
+      "I meeting Linda tomorrow at 2.",
+      "I am meeting Linda tomorrow at 2."
+     ],
+     "answer": 3,
+     "whyTr": "Doğru yapı: am + fiil-ing.",
+     "tag": "future",
+     "level": "A2"
+    },
+    {
+     "type": "fill",
+     "q": "Emre ___ not coming to dinner tonight.",
+     "accept": [
+      "is"
+     ],
+     "hintTr": "Emre için to be",
+     "whyTr": "Emre tekil; 'is coming'.",
+     "tag": "future",
+     "level": "A2"
+    },
+    {
+     "type": "fill",
+     "q": "Hafsa ___ to the bank yesterday. (go)",
+     "accept": [
+      "went"
+     ],
+     "hintTr": "go fiilinin geçmişi",
+     "whyTr": "Go düzensiz fiildir: went.",
+     "tag": "past-simple",
+     "level": "A2"
+    }
+   ]
+  },
+  "vocab": [
+   {
+    "id": "meeting",
+    "en": "meeting",
+    "tr": "toplantı, görüşme",
+    "pos": "noun",
+    "example": "I have a meeting at ten.",
+    "exampleTr": "Saat onda bir toplantım var.",
+    "syn": [],
+    "ant": [],
+    "level": "A2"
+   },
+   {
+    "id": "agenda",
+    "en": "agenda",
+    "tr": "gündem; ajanda",
+    "pos": "noun",
+    "example": "What is on the agenda today?",
+    "exampleTr": "Bugünün gündeminde ne var?",
+    "syn": [],
+    "ant": [],
+    "level": "B1"
+   },
+   {
+    "id": "busy",
+    "en": "busy",
+    "tr": "meşgul, yoğun",
+    "pos": "adjective",
+    "example": "I'm busy on Friday.",
+    "exampleTr": "Cuma günü meşgulüm.",
+    "syn": [],
+    "ant": [
+     "free"
+    ],
+    "level": "A2"
+   },
+   {
+    "id": "free",
+    "en": "free",
+    "tr": "boş, müsait; bedava",
+    "pos": "adjective",
+    "example": "Are you free on Thursday?",
+    "exampleTr": "Perşembe günü boş musun?",
+    "syn": [
+     "available"
+    ],
+    "ant": [
+     "busy"
+    ],
+    "level": "A2"
+   },
+   {
+    "id": "cancel",
+    "en": "cancel",
+    "tr": "iptal etmek",
+    "pos": "verb",
+    "example": "I have to cancel the meeting.",
+    "exampleTr": "Toplantıyı iptal etmem lazım.",
+    "syn": [],
+    "ant": [
+     "confirm"
+    ],
+    "level": "A2"
+   },
+   {
+    "id": "reschedule",
+    "en": "reschedule",
+    "tr": "başka bir zamana almak",
+    "pos": "verb",
+    "example": "Can we reschedule for Friday?",
+    "exampleTr": "Cumaya alabilir miyiz?",
+    "syn": [],
+    "ant": [],
+    "level": "B1"
+   },
+   {
+    "id": "book",
+    "en": "book",
+    "tr": "ayırtmak, rezervasyon yapmak",
+    "pos": "verb",
+    "example": "I'll book a table for two.",
+    "exampleTr": "İki kişilik masa ayırtacağım.",
+    "syn": [],
+    "ant": [],
+    "level": "A2"
+   },
+   {
+    "id": "remind",
+    "en": "remind",
+    "tr": "hatırlatmak",
+    "pos": "verb",
+    "example": "Please remind me about the meeting.",
+    "exampleTr": "Lütfen bana toplantıyı hatırlat.",
+    "syn": [],
+    "ant": [],
+    "level": "A2"
+   },
+   {
+    "id": "available",
+    "en": "available",
+    "tr": "müsait",
+    "pos": "adjective",
+    "example": "Is Mr. Brown available at two?",
+    "exampleTr": "Mr. Brown saat ikide müsait mi?",
+    "syn": [
+     "free"
+    ],
+    "ant": [
+     "busy"
+    ],
+    "level": "A2"
+   },
+   {
+    "id": "deadline",
+    "en": "deadline",
+    "tr": "son tarih",
+    "pos": "noun",
+    "example": "The deadline is Friday.",
+    "exampleTr": "Son tarih cuma.",
+    "syn": [],
+    "ant": [],
+    "level": "A2"
+   },
+   {
+    "id": "interview",
+    "en": "interview",
+    "tr": "mülakat, görüşme",
+    "pos": "noun",
+    "example": "I have a job interview on Friday.",
+    "exampleTr": "Cuma günü iş mülakatım var.",
+    "syn": [],
+    "ant": [],
+    "level": "A2"
+   },
+   {
+    "id": "dentist",
+    "en": "dentist",
+    "tr": "diş doktoru",
+    "pos": "noun",
+    "example": "Emre is seeing the dentist today.",
+    "exampleTr": "Emre bugün diş doktoruna gidiyor.",
+    "syn": [],
+    "ant": [],
+    "level": "A2"
+   },
+   {
+    "id": "lunch",
+    "en": "lunch",
+    "tr": "öğle yemeği",
+    "pos": "noun",
+    "example": "We are having lunch at noon.",
+    "exampleTr": "Öğlen yemek yiyoruz.",
+    "syn": [],
+    "ant": [],
+    "level": "A2"
+   },
+   {
+    "id": "invitation",
+    "en": "invitation",
+    "tr": "davetiye, davet",
+    "pos": "noun",
+    "example": "I have an invitation to the party.",
+    "exampleTr": "Partiye davetiyem var.",
+    "syn": [],
+    "ant": [],
+    "level": "A2"
+   },
+   {
+    "id": "confirm",
+    "en": "confirm",
+    "tr": "onaylamak",
+    "pos": "verb",
+    "example": "Please confirm your time by email.",
+    "exampleTr": "Lütfen saatinizi e-postayla onaylayın.",
+    "syn": [],
+    "ant": [
+     "cancel"
+    ],
+    "level": "A2"
+   }
+  ],
+  "reading": {
+   "title": "Hafsa's busy week",
+   "text": "Hafsa has a busy week. On Monday morning, she is meeting Mr. Brown at the school office to talk about substitute jobs. On Tuesday, she is not working, so she is taking Emre to the dentist at 4:00. On Wednesday at noon, she is having lunch with Linda.\n\nOn Thursday, Hafsa is free. She is going to clean the house and call an old friend in Isparta. Then comes Friday. At 10:00, she is having an interview at a school. She is a little nervous, so she is going to practice her answers on Thursday night.\n\nLinda sees the calendar and says, \"That is a lot! Don't worry. You will do great.\" Hafsa laughs. \"I hope so. I'll call you on Friday afternoon!\"",
+   "glossary": [
+    {
+     "en": "nervous",
+     "tr": "gergin, heyecanlı"
+    },
+    {
+     "en": "practice",
+     "tr": "pratik yapmak"
+    },
+    {
+     "en": "old friend",
+     "tr": "eski arkadaş"
+    },
+    {
+     "en": "a lot",
+     "tr": "çok fazla"
+    }
+   ],
+   "questions": [
+    {
+     "type": "mcq",
+     "q": "What is Hafsa doing on Monday morning?",
+     "options": [
+      "Having lunch with Linda",
+      "Meeting Mr. Brown",
+      "Taking Emre to the dentist"
+     ],
+     "answer": 1,
+     "whyTr": "Metin: 'she is meeting Mr. Brown'.",
+     "tag": "reading",
+     "level": "A2"
+    },
+    {
+     "type": "mcq",
+     "q": "Who is going to the dentist on Tuesday?",
+     "options": [
+      "Linda",
+      "Mr. Brown",
+      "Emre"
+     ],
+     "answer": 2,
+     "whyTr": "Metin: 'she is taking Emre to the dentist'.",
+     "tag": "reading",
+     "level": "A2"
+    },
+    {
+     "type": "mcq",
+     "q": "When is Hafsa having lunch with Linda?",
+     "options": [
+      "On Tuesday",
+      "On Wednesday",
+      "On Friday"
+     ],
+     "answer": 1,
+     "whyTr": "Metin: 'On Wednesday at noon... lunch with Linda'.",
+     "tag": "reading",
+     "level": "A2"
+    },
+    {
+     "type": "mcq",
+     "q": "Why is Hafsa going to practice her answers?",
+     "options": [
+      "She has a test on Monday.",
+      "She is going to cook.",
+      "She has an interview on Friday."
+     ],
+     "answer": 2,
+     "whyTr": "Cuma günü mülakatı var.",
+     "tag": "reading",
+     "level": "A2"
+    }
+   ]
+  }
+ },
+ "evening": {
+  "listening": {
+   "title": "Changing a meeting",
+   "script": [
+    {
+     "speaker": "Mr. Brown",
+     "text": "Lincoln Elementary, front office. Mr. Brown speaking."
+    },
+    {
+     "speaker": "Hafsa",
+     "text": "Hello, Mr. Brown. This is Hafsa. I'm meeting the principal on Friday at ten, but I have a problem."
+    },
+    {
+     "speaker": "Mr. Brown",
+     "text": "What is the problem?"
+    },
+    {
+     "speaker": "Hafsa",
+     "text": "Emre is having a test that morning, and I'm driving him to school. Can we change the time?"
+    },
+    {
+     "speaker": "Mr. Brown",
+     "text": "Let me check the calendar. The principal is busy on Friday afternoon. Is Thursday good for you?"
+    },
+    {
+     "speaker": "Hafsa",
+     "text": "Thursday is fine. I'm free all day."
+    },
+    {
+     "speaker": "Mr. Brown",
+     "text": "Okay. Is two o'clock available?"
+    },
+    {
+     "speaker": "Hafsa",
+     "text": "Yes, two o'clock is perfect."
+    },
+    {
+     "speaker": "Mr. Brown",
+     "text": "Great. I'll put it in the calendar. I'll send you an email to confirm."
+    },
+    {
+     "speaker": "Hafsa",
+     "text": "Thank you. I'll check my email tonight."
+    },
+    {
+     "speaker": "Mr. Brown",
+     "text": "See you on Thursday at two."
+    },
+    {
+     "speaker": "Hafsa",
+     "text": "See you then. Thank you for your help!"
+    }
+   ],
+   "questions": [
+    {
+     "type": "mcq",
+     "q": "Why does Hafsa call Mr. Brown?",
+     "options": [
+      "She wants to change a meeting time.",
+      "She wants to cancel her job.",
+      "She wants to buy a ticket."
+     ],
+     "answer": 0,
+     "whyTr": "Hafsa: 'Can we change the time?'",
+     "tag": "listening",
+     "level": "A2"
+    },
+    {
+     "type": "mcq",
+     "q": "What day was the first meeting?",
+     "options": [
+      "Monday",
+      "Thursday",
+      "Friday"
+     ],
+     "answer": 2,
+     "whyTr": "Hafsa: 'on Friday at ten'.",
+     "tag": "listening",
+     "level": "A2"
+    },
+    {
+     "type": "mcq",
+     "q": "What is the new time?",
+     "options": [
+      "Thursday at two",
+      "Friday at two",
+      "Thursday at ten"
+     ],
+     "answer": 0,
+     "whyTr": "Mr. Brown: 'See you on Thursday at two.'",
+     "tag": "listening",
+     "level": "A2"
+    },
+    {
+     "type": "mcq",
+     "q": "What will Mr. Brown send?",
+     "options": [
+      "A letter",
+      "An email",
+      "A text"
+     ],
+     "answer": 1,
+     "whyTr": "Mr. Brown: 'I'll send you an email to confirm.'",
+     "tag": "listening",
+     "level": "A2"
+    }
+   ]
+  },
+  "writing": {
+   "promptTr": "Bu haftaki programını 4-5 cümleyle yaz (Present Continuous ile).",
+   "promptEn": "Write 4-5 sentences about your plans for this week.",
+   "frames": [
+    "On Monday, I am ...-ing ...",
+    "On Tuesday, I am meeting ...",
+    "I am not working on ...",
+    "I am free on ..."
+   ],
+   "model": "On Monday, I am meeting Mr. Brown at school. On Tuesday, I am taking Emre to the dentist. On Wednesday, I am having lunch with Linda. I am not working on Thursday. I am free all day.",
+   "checklistTr": [
+    "Fiillerin başında am/is/are var mı ve fiil -ing alıyor mu?",
+    "Gün ve saat belirttin mi (on Monday, at 4:00)?",
+    "Cümleler büyük harfle başlıyor ve noktayla bitiyor mu?"
+   ],
+   "minWords": 35
+  },
+  "examSet": [
+   {
+    "type": "mcq",
+    "q": "We ___ the doctor at 3:00 on Wednesday.",
+    "options": [
+     "sees",
+     "see to",
+     "are seeing",
+     "seeing"
+    ],
+    "answer": 2,
+    "whyTr": "Ayarlanmış randevu: are seeing.",
+    "tag": "future",
+    "level": "A2"
+   },
+   {
+    "type": "mcq",
+    "q": "Linda ___ dinner with us tonight. She has the time.",
+    "options": [
+     "have",
+     "are having",
+     "having",
+     "is having"
+    ],
+    "answer": 3,
+    "whyTr": "Linda tekil: is having.",
+    "tag": "future",
+    "level": "A2"
+   },
+   {
+    "type": "mcq",
+    "q": "Emre ___ not working on Saturday.",
+    "options": [
+     "are",
+     "does",
+     "is"
+    ],
+    "answer": 2,
+    "whyTr": "Be fiili: is not working.",
+    "tag": "future",
+    "level": "A1"
+   },
+   {
+    "type": "mcq",
+    "q": "It's hot. I think I ___ open the window.",
+    "options": [
+     "am opening to",
+     "goes",
+     "will",
+     "going"
+    ],
+    "answer": 2,
+    "whyTr": "Anlık karar: will.",
+    "tag": "future",
+    "level": "A2"
+   },
+   {
+    "type": "mcq",
+    "q": "Hafsa ___ the bank last week.",
+    "options": [
+     "visit",
+     "visits",
+     "visiting",
+     "visited"
+    ],
+    "answer": 3,
+    "whyTr": "Geçmiş zaman: visited.",
+    "tag": "past-simple",
+    "level": "A2"
+   },
+   {
+    "type": "mcq",
+    "q": "Hafsa has a meeting ___ Monday.",
+    "options": [
+     "on",
+     "in",
+     "at"
+    ],
+    "answer": 0,
+    "whyTr": "Günlerle 'on' kullanılır.",
+    "tag": "prepositions-time",
+    "level": "A2"
+   },
+   {
+    "type": "mcq",
+    "q": "Please ___ me about the meeting. I forget things.",
+    "options": [
+     "cancel",
+     "book",
+     "remind"
+    ],
+    "answer": 2,
+    "whyTr": "Hatırlatmak = remind.",
+    "tag": "vocab",
+    "level": "A2"
+   },
+   {
+    "type": "mcq",
+    "q": "I have a job ___ on Friday. I'm a little nervous.",
+    "options": [
+     "interview",
+     "deadline",
+     "dentist"
+    ],
+    "answer": 0,
+    "whyTr": "İş görüşmesi = interview.",
+    "tag": "vocab",
+    "level": "A2"
+   },
+   {
+    "type": "mcq",
+    "q": "What is the opposite of \"busy\"?",
+    "options": [
+     "early",
+     "free",
+     "loud"
+    ],
+    "answer": 1,
+    "whyTr": "Busy'nin zıttı free.",
+    "tag": "antonym",
+    "level": "A2"
+   },
+   {
+    "type": "mcq",
+    "q": "Which word means almost the same as \"free\" (not busy)?",
+    "options": [
+     "available",
+     "delicious",
+     "crowded"
+    ],
+    "answer": 0,
+    "whyTr": "Free ve available: müsait.",
+    "tag": "synonym",
+    "level": "A2"
+   },
+   {
+    "type": "mcq",
+    "q": "Ben has a busy day. He is meeting his boss at 9:00. Then he is having lunch with a friend. In the evening, he is not working.\n\nWhat is Ben doing at 9:00?",
+    "options": [
+     "Having lunch",
+     "Meeting his boss",
+     "Working"
+    ],
+    "answer": 1,
+    "whyTr": "Metin: 'meeting his boss at 9:00'.",
+    "tag": "reading",
+    "level": "A2"
+   },
+   {
+    "type": "mcq",
+    "q": "Sara cancels her dentist visit. \"I'm sorry,\" she says. \"I'm sick today. Can we move it to Friday?\"\n\nWhat does Sara want to do?",
+    "options": [
+     "Go to work",
+     "Visit a friend",
+     "Change the day"
+    ],
+    "answer": 2,
+    "whyTr": "Sara randevuyu cumaya almak istiyor.",
+    "tag": "reading",
+    "level": "A2"
+   }
+  ]
+ }
+}

@@ -1,0 +1,762 @@
+{
+ "week": 2,
+ "day": 6,
+ "titleTr": "Okulda bir gün: Genelde ve şu an",
+ "theme": "school",
+ "morning": {
+  "grammar": {
+   "topic": "Present Simple ile Present Continuous farkı ve stative verbs",
+   "explainTr": [
+    "Present Simple rutinleri, alışkanlıkları ve genel gerçekleri anlatır: The bell rings at eight. Present Continuous şu an olan işi anlatır: The students are writing now.",
+    "Bazı fiiller durum, duygu ya da düşünce bildirir (stative): know, understand, want, need, like, love, have (sahip olmak). Bunlar genelde -ing almaz: I understand. (I am understanding değil.) She wants a pencil.",
+    "Soru yaparken ipucuna bak: every day, usually, often → Do/Does. now, right now, at the moment, Look! → Am/Is/Are + -ing."
+   ],
+   "compareTr": "Türkçede 'anlıyorum' şu anı da alışkanlığı da kapsar. İngilizcede 'anlıyorum' için I understand (Present Simple) dersin; 'I am understanding' yanlıştır. 'Şu an yürüyorum' ise I am walking.",
+   "table": [
+    [
+     "Rutin",
+     "Present Simple",
+     "She teaches every day."
+    ],
+    [
+     "Şu an",
+     "Present Continuous",
+     "She is teaching now."
+    ],
+    [
+     "Stative fiil",
+     "hep Present Simple",
+     "I know. I want. I need."
+    ],
+    [
+     "İpucu: rutin",
+     "every day, usually",
+     "Do you walk every day?"
+    ],
+    [
+     "İpucu: şu an",
+     "now, Look!",
+     "Are you walking now?"
+    ]
+   ],
+   "examples": [
+    {
+     "en": "The bell rings at eight thirty.",
+     "tr": "Zil sekiz buçukta çalar."
+    },
+    {
+     "en": "The students are writing now.",
+     "tr": "Öğrenciler şu an yazıyor."
+    },
+    {
+     "en": "I understand the lesson.",
+     "tr": "Dersi anlıyorum."
+    },
+    {
+     "en": "Emre wants a new backpack.",
+     "tr": "Emre yeni bir sırt çantası istiyor."
+    },
+    {
+     "en": "What are you doing right now?",
+     "tr": "Şu anda ne yapıyorsun?"
+    }
+   ],
+   "exercises": [
+    {
+     "type": "mcq",
+     "q": "Ms. Carter usually ___ the students at eight.",
+     "options": [
+      "greets",
+      "is greeting",
+      "greet"
+     ],
+     "answer": 0,
+     "whyTr": "Alışkanlık/rutin: Present Simple.",
+     "tag": "present-simple",
+     "level": "A2"
+    },
+    {
+     "type": "mcq",
+     "q": "Look! The students ___ to the hallway.",
+     "options": [
+      "walk",
+      "are walking",
+      "walks"
+     ],
+     "answer": 1,
+     "whyTr": "'Look!' şu an olan iş: Present Continuous.",
+     "tag": "present-continuous",
+     "level": "A2"
+    },
+    {
+     "type": "mcq",
+     "q": "I ___ the answer. It is on page ten.",
+     "options": [
+      "am knowing",
+      "knowing",
+      "know"
+     ],
+     "answer": 2,
+     "whyTr": "Know durum bildiren (stative) fiildir; -ing almaz.",
+     "tag": "present-simple",
+     "level": "A2"
+    },
+    {
+     "type": "mcq",
+     "q": "Emre ___ a new backpack. He loves it.",
+     "options": [
+      "wants",
+      "is wanting",
+      "want"
+     ],
+     "answer": 0,
+     "whyTr": "Want durum fiilidir; Present Simple kullanılır: wants.",
+     "tag": "present-simple",
+     "level": "A2"
+    },
+    {
+     "type": "order",
+     "promptTr": "Cümleyi sırala:",
+     "words": [
+      "the",
+      "understand",
+      "lesson",
+      "I"
+     ],
+     "answer": "I understand the lesson",
+     "whyTr": "Understand -ing almaz; Present Simple.",
+     "tag": "word-order",
+     "level": "A2"
+    },
+    {
+     "type": "mcq",
+     "q": "Right now, the principal ___ with a parent.",
+     "options": [
+      "talks",
+      "is talking",
+      "talk"
+     ],
+     "answer": 1,
+     "whyTr": "'Right now' = Present Continuous.",
+     "tag": "present-continuous",
+     "level": "A2"
+    },
+    {
+     "type": "mcq",
+     "q": "What ___ you do every morning?",
+     "options": [
+      "are",
+      "does",
+      "do"
+     ],
+     "answer": 2,
+     "whyTr": "Rutin sorusu: What do you do?",
+     "tag": "question-form",
+     "level": "A2"
+    },
+    {
+     "type": "mcq",
+     "q": "What ___ you doing at the moment?",
+     "options": [
+      "do",
+      "are",
+      "does"
+     ],
+     "answer": 1,
+     "whyTr": "Şu an için: What are you doing?",
+     "tag": "question-form",
+     "level": "A2"
+    },
+    {
+     "type": "mcq",
+     "q": "She ___ to the teacher now.",
+     "options": [
+      "listens",
+      "is listening",
+      "listen"
+     ],
+     "answer": 1,
+     "whyTr": "'Now' ile Present Continuous.",
+     "tag": "present-continuous",
+     "level": "A2"
+    },
+    {
+     "type": "mcq",
+     "q": "Which sentence is correct?",
+     "options": [
+      "I am needing a pencil.",
+      "I needing a pencil.",
+      "I need a pencil."
+     ],
+     "answer": 2,
+     "whyTr": "Need stative fiil; -ing almaz.",
+     "tag": "present-simple",
+     "level": "A2"
+    },
+    {
+     "type": "order",
+     "promptTr": "Cümleyi sırala:",
+     "words": [
+      "is",
+      "Mr. Brown",
+      "answering",
+      "the",
+      "phone"
+     ],
+     "answer": "Mr. Brown is answering the phone",
+     "whyTr": "Present Continuous: özne + is + fiil-ing.",
+     "tag": "present-continuous",
+     "level": "A2"
+    },
+    {
+     "type": "fill",
+     "q": "The bell ___ (ring) at eight every day.",
+     "accept": [
+      "rings"
+     ],
+     "hintTr": "alışkanlık; it için fiil",
+     "whyTr": "Her gün olan olay: Present Simple; it için -s: rings.",
+     "tag": "present-simple",
+     "level": "A2"
+    }
+   ]
+  },
+  "vocab": [
+   {
+    "id": "principal",
+    "en": "principal",
+    "tr": "okul müdürü",
+    "pos": "noun",
+    "example": "The principal talks to the parents.",
+    "exampleTr": "Okul müdürü velilerle konuşuyor.",
+    "syn": [],
+    "ant": [],
+    "level": "A1"
+   },
+   {
+    "id": "attendance",
+    "en": "attendance",
+    "tr": "yoklama; devam",
+    "pos": "noun",
+    "example": "The teacher takes attendance every morning.",
+    "exampleTr": "Öğretmen her sabah yoklama alır.",
+    "syn": [],
+    "ant": [],
+    "level": "A1"
+   },
+   {
+    "id": "recess",
+    "en": "recess",
+    "tr": "teneffüs (oyun molası)",
+    "pos": "noun",
+    "example": "Children play outside at recess.",
+    "exampleTr": "Çocuklar teneffüste dışarıda oynar.",
+    "syn": [
+     "break"
+    ],
+    "ant": [],
+    "level": "A1"
+   },
+   {
+    "id": "bell",
+    "en": "bell",
+    "tr": "zil",
+    "pos": "noun",
+    "example": "The bell rings at three o'clock.",
+    "exampleTr": "Zil saat üçte çalar.",
+    "syn": [],
+    "ant": [],
+    "level": "A1"
+   },
+   {
+    "id": "hallway",
+    "en": "hallway",
+    "tr": "koridor",
+    "pos": "noun",
+    "example": "Please walk in the hallway.",
+    "exampleTr": "Lütfen koridorda yürüyün.",
+    "syn": [
+     "corridor"
+    ],
+    "ant": [],
+    "level": "A1"
+   },
+   {
+    "id": "backpack",
+    "en": "backpack",
+    "tr": "sırt çantası",
+    "pos": "noun",
+    "example": "His backpack is heavy.",
+    "exampleTr": "Sırt çantası ağır.",
+    "syn": [],
+    "ant": [],
+    "level": "A1"
+   },
+   {
+    "id": "lesson",
+    "en": "lesson",
+    "tr": "ders",
+    "pos": "noun",
+    "example": "Today's lesson is about animals.",
+    "exampleTr": "Bugünkü ders hayvanlar hakkında.",
+    "syn": [],
+    "ant": [],
+    "level": "A1"
+   },
+   {
+    "id": "grade",
+    "en": "grade",
+    "tr": "sınıf; not",
+    "pos": "noun",
+    "example": "Emre is in third grade.",
+    "exampleTr": "Emre üçüncü sınıfta.",
+    "syn": [],
+    "ant": [],
+    "level": "A1"
+   },
+   {
+    "id": "test",
+    "en": "test",
+    "tr": "sınav, test",
+    "pos": "noun",
+    "example": "We have a math test on Friday.",
+    "exampleTr": "Cuma günü matematik sınavımız var.",
+    "syn": [
+     "exam"
+    ],
+    "ant": [],
+    "level": "A1"
+   },
+   {
+    "id": "pencil",
+    "en": "pencil",
+    "tr": "kurşun kalem",
+    "pos": "noun",
+    "example": "Please bring a pencil.",
+    "exampleTr": "Lütfen bir kurşun kalem getirin.",
+    "syn": [],
+    "ant": [],
+    "level": "A1"
+   },
+   {
+    "id": "learn",
+    "en": "learn",
+    "tr": "öğrenmek",
+    "pos": "verb",
+    "example": "Children learn fast.",
+    "exampleTr": "Çocuklar hızlı öğrenir.",
+    "syn": [],
+    "ant": [
+     "forget"
+    ],
+    "level": "A1"
+   },
+   {
+    "id": "teach",
+    "en": "teach",
+    "tr": "öğretmek",
+    "pos": "verb",
+    "example": "Ms. Carter teaches math.",
+    "exampleTr": "Bayan Carter matematik öğretir.",
+    "syn": [],
+    "ant": [
+     "learn"
+    ],
+    "level": "A1"
+   },
+   {
+    "id": "understand",
+    "en": "understand",
+    "tr": "anlamak",
+    "pos": "verb",
+    "example": "I don't understand this word.",
+    "exampleTr": "Bu kelimeyi anlamıyorum.",
+    "syn": [],
+    "ant": [],
+    "level": "A1"
+   },
+   {
+    "id": "need",
+    "en": "need",
+    "tr": "ihtiyacı olmak",
+    "pos": "verb",
+    "example": "Students need a quiet room.",
+    "exampleTr": "Öğrencilerin sessiz bir odaya ihtiyacı var.",
+    "syn": [],
+    "ant": [],
+    "level": "A1"
+   },
+   {
+    "id": "want",
+    "en": "want",
+    "tr": "istemek",
+    "pos": "verb",
+    "example": "Hafsa wants to be a substitute teacher.",
+    "exampleTr": "Hafsa vekil öğretmen olmak istiyor.",
+    "syn": [],
+    "ant": [],
+    "level": "A1"
+   }
+  ],
+  "reading": {
+   "title": "A day at Lincoln Elementary",
+   "text": "Today Hafsa is a visitor at Lincoln Elementary School. She usually works in the cafeteria, but this morning she is watching Ms. Carter's class. The bell rings at eight thirty, and the students come in. Ms. Carter takes attendance every day, and she knows all the names.\n\nRight now, the students are writing in their notebooks. Ms. Carter is walking around the room. She helps a boy who doesn't understand the lesson. Hafsa wants to learn, too, so she is taking notes.\n\nAt ten thirty, it is recess. The children run outside and play. They usually eat lunch at noon in the cafeteria, and Hafsa often helps there. The principal, Mr. Adams, sometimes visits the classrooms. He is smiling at the students now. Hafsa thinks, \"I love this place. I want to work in a classroom someday.\"",
+   "glossary": [
+    {
+     "en": "visitor",
+     "tr": "ziyaretçi"
+    },
+    {
+     "en": "take notes",
+     "tr": "not almak"
+    },
+    {
+     "en": "someday",
+     "tr": "bir gün"
+    },
+    {
+     "en": "take attendance",
+     "tr": "yoklama almak"
+    }
+   ],
+   "questions": [
+    {
+     "type": "mcq",
+     "q": "Where does Hafsa usually work?",
+     "options": [
+      "In the cafeteria",
+      "In a classroom",
+      "In the office"
+     ],
+     "answer": 0,
+     "whyTr": "Metin: 'She usually works in the cafeteria'.",
+     "tag": "reading",
+     "level": "A2"
+    },
+    {
+     "type": "mcq",
+     "q": "What are the students doing right now?",
+     "options": [
+      "They are playing.",
+      "They are writing.",
+      "They are eating."
+     ],
+     "answer": 1,
+     "whyTr": "Metin: 'the students are writing in their notebooks'.",
+     "tag": "reading",
+     "level": "A2"
+    },
+    {
+     "type": "mcq",
+     "q": "Why is Hafsa taking notes?",
+     "options": [
+      "She is the teacher.",
+      "She has a test.",
+      "She wants to learn."
+     ],
+     "answer": 2,
+     "whyTr": "Metin: 'Hafsa wants to learn, too'.",
+     "tag": "reading",
+     "level": "A2"
+    },
+    {
+     "type": "mcq",
+     "q": "What does Hafsa want to do someday?",
+     "options": [
+      "Work in a classroom",
+      "Be a principal",
+      "Work in the cafeteria"
+     ],
+     "answer": 0,
+     "whyTr": "Metin: 'I want to work in a classroom someday.'",
+     "tag": "reading",
+     "level": "A2"
+    }
+   ]
+  }
+ },
+ "evening": {
+  "listening": {
+   "title": "Mr. Brown calls a substitute teacher",
+   "script": [
+    {
+     "speaker": "Mr. Brown",
+     "text": "Hello, Hafsa. This is Mr. Brown from Lincoln Elementary. Are you busy right now?"
+    },
+    {
+     "speaker": "Hafsa",
+     "text": "Hello, Mr. Brown. I'm cooking dinner, but I can talk."
+    },
+    {
+     "speaker": "Mr. Brown",
+     "text": "Good. Ms. Carter is sick tomorrow. Do you want to help in her class?"
+    },
+    {
+     "speaker": "Hafsa",
+     "text": "Really? I want to, but I'm not a teacher."
+    },
+    {
+     "speaker": "Mr. Brown",
+     "text": "You don't need to teach. The principal is looking for an assistant for the day."
+    },
+    {
+     "speaker": "Hafsa",
+     "text": "Oh, I see. What do I do?"
+    },
+    {
+     "speaker": "Mr. Brown",
+     "text": "You help the students, and you take attendance. Ms. Carter is writing a lesson plan now. She is sending it by email."
+    },
+    {
+     "speaker": "Hafsa",
+     "text": "Does the class start at eight thirty?"
+    },
+    {
+     "speaker": "Mr. Brown",
+     "text": "Yes, it does. The bell rings at eight thirty. Please come at eight."
+    },
+    {
+     "speaker": "Hafsa",
+     "text": "I understand. Where is the room?"
+    },
+    {
+     "speaker": "Mr. Brown",
+     "text": "It's in the hallway on the left. I am standing there now, and the door is open."
+    },
+    {
+     "speaker": "Hafsa",
+     "text": "Great, I'm very happy. Thank you!"
+    }
+   ],
+   "questions": [
+    {
+     "type": "mcq",
+     "q": "Why does Mr. Brown call Hafsa?",
+     "options": [
+      "Emre is sick.",
+      "The bell is broken.",
+      "Ms. Carter is sick."
+     ],
+     "answer": 2,
+     "whyTr": "Mr. Brown: 'Ms. Carter is sick tomorrow.'",
+     "tag": "listening",
+     "level": "A2"
+    },
+    {
+     "type": "mcq",
+     "q": "What does Hafsa do tomorrow?",
+     "options": [
+      "Cook in the cafeteria",
+      "Teach alone",
+      "Help in the class"
+     ],
+     "answer": 2,
+     "whyTr": "Mr. Brown: 'You help the students, and you take attendance.'",
+     "tag": "listening",
+     "level": "A2"
+    },
+    {
+     "type": "mcq",
+     "q": "When does the bell ring?",
+     "options": [
+      "At eight thirty",
+      "At eight",
+      "At nine"
+     ],
+     "answer": 0,
+     "whyTr": "Mr. Brown: 'The bell rings at eight thirty.'",
+     "tag": "listening",
+     "level": "A2"
+    },
+    {
+     "type": "mcq",
+     "q": "What is Hafsa doing now?",
+     "options": [
+      "She is driving.",
+      "She is cooking dinner.",
+      "She is walking in the hallway."
+     ],
+     "answer": 1,
+     "whyTr": "Hafsa: 'I'm cooking dinner'.",
+     "tag": "listening",
+     "level": "A2"
+    }
+   ]
+  },
+  "writing": {
+   "promptTr": "Okulda bir günü anlat (5-6 cümle): genelde ne olur, şu an ne oluyor?",
+   "promptEn": "Write 5-6 sentences about a school day. What usually happens, and what is happening now?",
+   "frames": [
+    "Every day, the bell ...",
+    "The students usually ...",
+    "Right now, the teacher is ...",
+    "I want to ... / I understand ..."
+   ],
+   "model": "Every day, the bell rings at eight thirty. The students usually write in their notebooks. At ten thirty, they go to recess. Right now, the teacher is helping a student. I want to work in a school someday.",
+   "checklistTr": [
+    "Rutin için Present Simple, şu an için Present Continuous kullandın mı?",
+    "want, need, know, understand fiillerini -ing yapmadın değil mi?",
+    "He/she/it ile fiilde -s var mı?"
+   ],
+   "minWords": 35
+  },
+  "examSet": [
+   {
+    "type": "mcq",
+    "q": "Emre ___ a lot of homework every day.",
+    "options": [
+     "is having",
+     "have",
+     "has"
+    ],
+    "answer": 2,
+    "whyTr": "Rutin + stative 'have' (sahip olmak): has.",
+    "tag": "present-simple",
+    "level": "A2"
+   },
+   {
+    "type": "mcq",
+    "q": "Look! The principal ___ in the hallway.",
+    "options": [
+     "is walking",
+     "walks",
+     "walk"
+    ],
+    "answer": 0,
+    "whyTr": "'Look!' = şu an: is walking.",
+    "tag": "present-continuous",
+    "level": "A2"
+   },
+   {
+    "type": "mcq",
+    "q": "I ___ the question. Can you explain it again?",
+    "options": [
+     "am not understanding",
+     "don't understand",
+     "doesn't understand"
+    ],
+    "answer": 1,
+    "whyTr": "Understand stative; olumsuz: don't understand.",
+    "tag": "negative-form",
+    "level": "A2"
+   },
+   {
+    "type": "mcq",
+    "q": "___ Ms. Carter teach math?",
+    "options": [
+     "Does",
+     "Do",
+     "Is"
+    ],
+    "answer": 0,
+    "whyTr": "Dünün konusu: Ms. Carter = she; Does.",
+    "tag": "question-form",
+    "level": "A2"
+   },
+   {
+    "type": "mcq",
+    "q": "Which word means almost the same as \"test\"?",
+    "options": [
+     "exam",
+     "lesson",
+     "recess"
+    ],
+    "answer": 0,
+    "whyTr": "Test ve exam yakın anlamlı.",
+    "tag": "synonym",
+    "level": "A2"
+   },
+   {
+    "type": "mcq",
+    "q": "What is the opposite of \"teach\"?",
+    "options": [
+     "want",
+     "learn",
+     "need"
+    ],
+    "answer": 1,
+    "whyTr": "Öğretmek / öğrenmek zıt yönlü: teach ↔ learn.",
+    "tag": "antonym",
+    "level": "A2"
+   },
+   {
+    "type": "mcq",
+    "q": "Which word means almost the same as \"hallway\"?",
+    "options": [
+     "backpack",
+     "pencil",
+     "corridor"
+    ],
+    "answer": 2,
+    "whyTr": "Hallway ve corridor eş anlamlı.",
+    "tag": "synonym",
+    "level": "A2"
+   },
+   {
+    "type": "mcq",
+    "q": "The teacher takes ___ every morning. She counts the students.",
+    "options": [
+     "attendance",
+     "recess",
+     "grade"
+    ],
+    "answer": 0,
+    "whyTr": "Yoklama = attendance.",
+    "tag": "vocab",
+    "level": "A2"
+   },
+   {
+    "type": "mcq",
+    "q": "My son ___ at the table now.",
+    "options": [
+     "sits",
+     "is sitting",
+     "sit"
+    ],
+    "answer": 1,
+    "whyTr": "'Now' ile Present Continuous.",
+    "tag": "present-continuous",
+    "level": "A2"
+   },
+   {
+    "type": "mcq",
+    "q": "Ben usually walks to school. Today it is raining, so he is taking the bus.\n\nHow is Ben going to school today?",
+    "options": [
+     "On foot",
+     "By car",
+     "By bus"
+    ],
+    "answer": 2,
+    "whyTr": "Metin: 'he is taking the bus'.",
+    "tag": "reading",
+    "level": "A2"
+   },
+   {
+    "type": "mcq",
+    "q": "I ___ in the park every Saturday. (Dünün konusu)",
+    "options": [
+     "walk always",
+     "always walk",
+     "always walks"
+    ],
+    "answer": 1,
+    "whyTr": "Sıklık zarfı + yalın fiil (I ile).",
+    "tag": "word-order",
+    "level": "A2"
+   },
+   {
+    "type": "mcq",
+    "q": "\"___ I use your pencil?\" (Hafta 1 tekrarı)",
+    "options": [
+     "Do",
+     "Can",
+     "Am"
+    ],
+    "answer": 1,
+    "whyTr": "İzin: Can I...?",
+    "tag": "modals",
+    "level": "A1"
+   }
+  ]
+ }
+}

@@ -1,0 +1,956 @@
+{
+ "week": 16,
+ "day": 4,
+ "titleTr": "Modallar: kurallar, çıkarımlar, pişmanlıklar",
+ "theme": "school-rules",
+ "morning": {
+  "grammar": {
+   "topic": "Modal verbs: present and past",
+   "explainTr": [
+    "Modallerden sonra her zaman yalın fiil gelir. Zorunluluk: must / have to. Yasak: mustn't. Gerek yok: don't have to / needn't. Tavsiye: should / ought to. İzin ve rica: can, could, may. Olasılık: must (kesin), might / may / could (belki), can't (imkânsız).",
+    "Geçmiş için modal + have + V3 kullanılır. Çıkarım: must have left (kesin ayrıldı), can't have left (ayrılmış olamaz), might have left (belki ayrıldı). Pişmanlık/eleştiri: should have called (aramalıydı). Gereksiz iş: needn't have hurried (acele etmeseydin de olurdu).",
+    "En sık karışan çift: mustn't ve don't have to. 'You mustn't run' koşmak yasak demektir; 'You don't have to run' koşman şart değil demektir."
+   ],
+   "compareTr": "Türkçede 'gitmeli', 'gitmek zorunda', 'gitmeyebilir' farklı eklerle verilir. İngilizcede ayrı kelimeler var ve zamanı have + V3 taşır: 'Gitmeliydin' = You should have gone.",
+   "table": [
+    [
+     "Zorunluluk",
+     "must / have to + V",
+     "You must sign in."
+    ],
+    [
+     "Yasak",
+     "mustn't + V",
+     "You mustn't run."
+    ],
+    [
+     "Gerek yok",
+     "don't have to / needn't",
+     "You don't have to stay."
+    ],
+    [
+     "Tavsiye",
+     "should / ought to",
+     "You should rest."
+    ],
+    [
+     "Çıkarım (geçmiş)",
+     "must / can't / might have + V3",
+     "She must have left."
+    ],
+    [
+     "Pişmanlık",
+     "should have + V3",
+     "I should have called."
+    ]
+   ],
+   "examples": [
+    {
+     "en": "Visitors must sign in at the front office.",
+     "tr": "Ziyaretçiler ön ofiste imza atmalı."
+    },
+    {
+     "en": "You mustn't share photos of students.",
+     "tr": "Öğrenci fotoğraflarını paylaşmamalısın."
+    },
+    {
+     "en": "You don't have to grade the tests.",
+     "tr": "Sınavları notlamak zorunda değilsin."
+    },
+    {
+     "en": "She must have forgotten her badge.",
+     "tr": "Rozetini unutmuş olmalı."
+    },
+    {
+     "en": "I should have asked earlier.",
+     "tr": "Daha önce sormalıydım."
+    }
+   ],
+   "exercises": [
+    {
+     "type": "mcq",
+     "q": "Visitors ___ sign in at the front office. It is a school rule.",
+     "options": [
+      "must",
+      "might",
+      "could",
+      "may not"
+     ],
+     "answer": 0,
+     "whyTr": "Kural/zorunluluk: must.",
+     "tag": "modals",
+     "level": "B2"
+    },
+    {
+     "type": "mcq",
+     "q": "You ___ bring a lunch. The cafeteria serves free meals today.",
+     "options": [
+      "mustn't",
+      "can't",
+      "shouldn't",
+      "don't have to"
+     ],
+     "answer": 3,
+     "whyTr": "Gerek yok = don't have to; mustn't yasak anlamı taşır.",
+     "tag": "modals",
+     "level": "B2"
+    },
+    {
+     "type": "mcq",
+     "q": "Students ___ use phones during tests. It is forbidden.",
+     "options": [
+      "needn't",
+      "may",
+      "mustn't",
+      "don't have to"
+     ],
+     "answer": 2,
+     "whyTr": "Yasak = mustn't.",
+     "tag": "modals",
+     "level": "B2"
+    },
+    {
+     "type": "mcq",
+     "q": "Cell phones ___ allowed during tests.",
+     "options": [
+      "don't",
+      "aren't",
+      "isn't",
+      "not are"
+     ],
+     "answer": 1,
+     "whyTr": "Phones çoğul; pasif olumsuz: aren't allowed.",
+     "tag": "passive",
+     "level": "B2"
+    },
+    {
+     "type": "mcq",
+     "q": "She isn't at her desk. She ___ be in the library.",
+     "options": [
+      "must have",
+      "might",
+      "should have",
+      "would"
+     ],
+     "answer": 1,
+     "whyTr": "Olasılık (emin değil): might.",
+     "tag": "modals",
+     "level": "B2"
+    },
+    {
+     "type": "mcq",
+     "q": "The lights are off and the door is locked. Nobody ___ be inside.",
+     "options": [
+      "can't",
+      "mustn't",
+      "needn't",
+      "shouldn't have"
+     ],
+     "answer": 0,
+     "whyTr": "Güçlü olumsuz çıkarım: can't be.",
+     "tag": "modals",
+     "level": "B2"
+    },
+    {
+     "type": "mcq",
+     "q": "I forgot my badge. I ___ gone back for it.",
+     "options": [
+      "must have",
+      "might",
+      "can have",
+      "should have"
+     ],
+     "answer": 3,
+     "whyTr": "Geçmişte yapılmayan doğru iş: should have + V3.",
+     "tag": "modals",
+     "level": "B2"
+    },
+    {
+     "type": "mcq",
+     "q": "He didn't turn left. He ___ have seen the sign; it was hidden behind a door.",
+     "options": [
+      "mustn't",
+      "shouldn't",
+      "can't",
+      "needn't"
+     ],
+     "answer": 2,
+     "whyTr": "Geçmiş hakkında güçlü olumsuz çıkarım: can't have + V3.",
+     "tag": "modals",
+     "level": "B2"
+    },
+    {
+     "type": "mcq",
+     "q": "We ___ have hurried. The bus was late anyway.",
+     "options": [
+      "mustn't",
+      "can't",
+      "needn't",
+      "wouldn't to"
+     ],
+     "answer": 2,
+     "whyTr": "Gereksiz yapılmış iş: needn't have + V3.",
+     "tag": "modals",
+     "level": "B2"
+    },
+    {
+     "type": "order",
+     "promptTr": "Cümleyi sırala:",
+     "words": [
+      "You",
+      "should",
+      "have",
+      "called",
+      "the",
+      "office",
+      "earlier"
+     ],
+     "answer": "You should have called the office earlier",
+     "whyTr": "should have + V3 geçmiş pişmanlığı/eleştiriyi anlatır.",
+     "tag": "modals",
+     "level": "B2"
+    },
+    {
+     "type": "fill",
+     "q": "If it ___ tomorrow, we will cancel the trip.",
+     "accept": [
+      "rains"
+     ],
+     "hintTr": "yağmur yağmak, 3. tekil",
+     "whyTr": "If cümlesinde gelecek için present simple: rains.",
+     "tag": "conditionals",
+     "level": "B2"
+    },
+    {
+     "type": "fill",
+     "q": "When I was a child, I ___ to wear a uniform.",
+     "accept": [
+      "had"
+     ],
+     "hintTr": "geçmişte zorunluluk",
+     "whyTr": "Geçmiş zorunluluk: had to.",
+     "tag": "modals",
+     "level": "B2"
+    }
+   ]
+  },
+  "vocab": [
+   {
+    "id": "permit",
+    "en": "permit",
+    "tr": "izin vermek; izin belgesi",
+    "pos": "verb",
+    "example": "The school does not permit students to leave early.",
+    "exampleTr": "Okul öğrencilerin erken ayrılmasına izin vermez.",
+    "syn": [
+     "allow"
+    ],
+    "ant": [
+     "forbid"
+    ],
+    "level": "B2"
+   },
+   {
+    "id": "prohibit",
+    "en": "prohibit",
+    "tr": "yasaklamak",
+    "pos": "verb",
+    "example": "District rules prohibit teachers from sharing photos.",
+    "exampleTr": "Bölge kuralları öğretmenlerin fotoğraf paylaşmasını yasaklar.",
+    "syn": [
+     "ban"
+    ],
+    "ant": [
+     "allow"
+    ],
+    "level": "B2"
+   },
+   {
+    "id": "forbid",
+    "en": "forbid",
+    "tr": "yasaklamak, izin vermemek",
+    "pos": "verb",
+    "example": "The principal forbids running in the halls.",
+    "exampleTr": "Müdür koridorlarda koşmayı yasaklıyor.",
+    "syn": [
+     "prohibit"
+    ],
+    "ant": [
+     "permit"
+    ],
+    "level": "B2"
+   },
+   {
+    "id": "advisable",
+    "en": "advisable",
+    "tr": "tavsiye edilir, akıllıca",
+    "pos": "adjective",
+    "example": "It is advisable to arrive early on your first day.",
+    "exampleTr": "İlk gün erken gelmek akıllıca olur.",
+    "syn": [
+     "wise"
+    ],
+    "ant": [
+     "unwise"
+    ],
+    "level": "B2"
+   },
+   {
+    "id": "essential",
+    "en": "essential",
+    "tr": "çok önemli, şart",
+    "pos": "adjective",
+    "example": "Clear instructions are essential for a good lesson.",
+    "exampleTr": "Net talimatlar iyi bir ders için şarttır.",
+    "syn": [
+     "vital"
+    ],
+    "ant": [
+     "unnecessary"
+    ],
+    "level": "B2"
+   },
+   {
+    "id": "optional",
+    "en": "optional",
+    "tr": "isteğe bağlı",
+    "pos": "adjective",
+    "example": "Wearing a school T-shirt on Friday is optional.",
+    "exampleTr": "Cuma günü okul tişörtü giymek isteğe bağlı.",
+    "syn": [
+     "voluntary"
+    ],
+    "ant": [
+     "mandatory"
+    ],
+    "level": "B2"
+   },
+   {
+    "id": "precaution",
+    "en": "precaution",
+    "tr": "önlem",
+    "pos": "noun",
+    "example": "Locking the door is a simple safety precaution.",
+    "exampleTr": "Kapıyı kilitlemek basit bir güvenlik önlemidir.",
+    "syn": [
+     "safeguard"
+    ],
+    "ant": [],
+    "level": "B2"
+   },
+   {
+    "id": "restrict",
+    "en": "restrict",
+    "tr": "kısıtlamak",
+    "pos": "verb",
+    "example": "The school restricts visitors to the front office.",
+    "exampleTr": "Okul ziyaretçileri ön ofisle sınırlar.",
+    "syn": [
+     "limit"
+    ],
+    "ant": [],
+    "level": "B2"
+   },
+   {
+    "id": "violate",
+    "en": "violate",
+    "tr": "ihlal etmek",
+    "pos": "verb",
+    "example": "Sharing students' names would violate privacy rules.",
+    "exampleTr": "Öğrenci isimlerini paylaşmak gizlilik kurallarını ihlal eder.",
+    "syn": [
+     "break"
+    ],
+    "ant": [
+     "obey"
+    ],
+    "level": "B2"
+   },
+   {
+    "id": "comply",
+    "en": "comply",
+    "tr": "uymak",
+    "pos": "verb",
+    "example": "All staff must comply with the safety rules.",
+    "exampleTr": "Tüm personel güvenlik kurallarına uymalıdır.",
+    "syn": [
+     "obey"
+    ],
+    "ant": [
+     "defy"
+    ],
+    "level": "B2"
+   },
+   {
+    "id": "accommodate",
+    "en": "accommodate",
+    "tr": "uyum sağlamak, ağırlamak",
+    "pos": "verb",
+    "example": "The teacher tried to accommodate each student's needs.",
+    "exampleTr": "Öğretmen her öğrencinin ihtiyacına uyum sağlamaya çalıştı.",
+    "syn": [
+     "adjust"
+    ],
+    "ant": [],
+    "level": "B2"
+   },
+   {
+    "id": "contribute",
+    "en": "contribute",
+    "tr": "katkıda bulunmak",
+    "pos": "verb",
+    "example": "Every student can contribute an idea to the project.",
+    "exampleTr": "Her öğrenci projeye bir fikirle katkıda bulunabilir.",
+    "syn": [
+     "add"
+    ],
+    "ant": [],
+    "level": "B2"
+   },
+   {
+    "id": "acceptable",
+    "en": "acceptable",
+    "tr": "kabul edilebilir",
+    "pos": "adjective",
+    "example": "Noise is acceptable during art time, but not during tests.",
+    "exampleTr": "Sanat saatinde gürültü kabul edilir, sınavda edilmez.",
+    "syn": [
+     "satisfactory"
+    ],
+    "ant": [
+     "unacceptable"
+    ],
+    "level": "B2"
+   },
+   {
+    "id": "inappropriate",
+    "en": "inappropriate",
+    "tr": "uygunsuz",
+    "pos": "adjective",
+    "example": "Rude jokes are inappropriate in a classroom.",
+    "exampleTr": "Kaba şakalar sınıfta uygunsuzdur.",
+    "syn": [
+     "unsuitable"
+    ],
+    "ant": [
+     "appropriate"
+    ],
+    "level": "B2"
+   },
+   {
+    "id": "prompt",
+    "en": "prompt",
+    "tr": "çabuk, zamanında",
+    "pos": "adjective",
+    "example": "Thank you for your prompt reply.",
+    "exampleTr": "Hızlı cevabınız için teşekkürler.",
+    "syn": [
+     "quick"
+    ],
+    "ant": [
+     "slow"
+    ],
+    "level": "B2"
+   }
+  ],
+  "reading": {
+   "title": "Safety first at orientation",
+   "text": "On Friday afternoon, Hafsa attended an orientation for new substitutes at Jefferson Elementary. The assistant principal, Mr. Collins, began with a simple sentence: \"You must never leave a classroom unsupervised.\" He explained that this rule is essential because children can get hurt in a minute.\n\nNext, he talked about phones. \"You may use your phone for emergencies, but you shouldn't check messages while teaching,\" he said. \"Students notice everything.\" A teacher in the back asked whether substitutes could take photos of the class. Mr. Collins shook his head. \"No. You mustn't post or share any photos. That would violate district policy.\"\n\nMr. Collins also reminded them of what they don't have to do. \"You don't have to grade tests unless the sub plan says so, and you needn't stay after four o'clock. But if you notice a safety problem, you ought to report it immediately.\" He gave an example from last winter. A substitute had seen a wet floor near the gym, but she hadn't told anyone. A student slipped and broke his wrist. \"She should have called the office,\" he said quietly. \"It might have prevented the accident.\"\n\nHafsa listened carefully and wrote everything in her notebook. During the break, she talked to a young teacher named Ms. Chen. \"I was so nervous in my first week,\" Ms. Chen admitted. \"I couldn't remember anything. I must have looked terrible.\" Hafsa laughed. \"I'm sure you looked fine. I think being nervous is normal.\"\n\nAt the end, Mr. Collins handed out a card with emergency numbers. \"Keep it in your pocket. You can't be too careful,\" he said. As Hafsa walked to the bus stop, she felt both tired and proud. She knew that she could not remember every rule yet, but she could always ask for help. \"That is what colleagues are for,\" she thought.",
+   "glossary": [
+    {
+     "en": "unsupervised",
+     "tr": "gözetimsiz"
+    },
+    {
+     "en": "wet floor",
+     "tr": "ıslak zemin"
+    },
+    {
+     "en": "wrist",
+     "tr": "bilek"
+    },
+    {
+     "en": "prevent",
+     "tr": "önlemek"
+    },
+    {
+     "en": "hand out",
+     "tr": "dağıtmak"
+    }
+   ],
+   "questions": [
+    {
+     "type": "mcq",
+     "q": "Why is the rule about leaving the classroom essential?",
+     "options": [
+      "Teachers need breaks",
+      "Children can get hurt very quickly",
+      "The room might be cold",
+      "Parents may call"
+     ],
+     "answer": 1,
+     "whyTr": "Metin: 'children can get hurt in a minute'.",
+     "tag": "reading",
+     "level": "B2"
+    },
+    {
+     "type": "mcq",
+     "q": "What mustn't substitutes do with photos of the class?",
+     "options": [
+      "Post or share them",
+      "Print them",
+      "Look at them",
+      "Show them to the principal"
+     ],
+     "answer": 0,
+     "whyTr": "Metin: 'You mustn't post or share any photos.'",
+     "tag": "reading",
+     "level": "B2"
+    },
+    {
+     "type": "mcq",
+     "q": "What did the earlier substitute do wrong?",
+     "options": [
+      "She left the school early",
+      "She lost the roster",
+      "She shouted at a student",
+      "She did not report the wet floor"
+     ],
+     "answer": 3,
+     "whyTr": "Metin: 'She should have called the office.'",
+     "tag": "reading",
+     "level": "B2"
+    },
+    {
+     "type": "mcq",
+     "q": "What did Ms. Chen admit?",
+     "options": [
+      "She forgot her badge",
+      "She disliked the job",
+      "She left her first school",
+      "She was nervous in her first week"
+     ],
+     "answer": 3,
+     "whyTr": "Metin: 'I was so nervous in my first week.'",
+     "tag": "reading",
+     "level": "B2"
+    }
+   ]
+  }
+ },
+ "evening": {
+  "listening": {
+   "title": "Asking permission at the office",
+   "script": [
+    {
+     "speaker": "Hafsa",
+     "text": "Excuse me, Mr. Brown. May I use the copier?"
+    },
+    {
+     "speaker": "Mr. Brown",
+     "text": "Of course, but you have to use your code. It is printed on your badge, so you needn't write it down."
+    },
+    {
+     "speaker": "Hafsa",
+     "text": "Thank you. Must I stay in the building during lunch?"
+    },
+    {
+     "speaker": "Mr. Brown",
+     "text": "On Tuesdays you're on lunch duty, so you have to be in the cafeteria. On other days you can go out."
+    },
+    {
+     "speaker": "Hafsa",
+     "text": "I see. Could I leave early on Friday? I have a doctor's appointment."
+    },
+    {
+     "speaker": "Mr. Brown",
+     "text": "You should tell Mrs. Lopez today. She might find someone to cover your last class."
+    },
+    {
+     "speaker": "Hafsa",
+     "text": "I should have asked earlier. I'm sorry."
+    },
+    {
+     "speaker": "Mr. Brown",
+     "text": "Don't worry. It's not too late. You must fill out a leave form, though."
+    },
+    {
+     "speaker": "Hafsa",
+     "text": "Where can I find it?"
+    },
+    {
+     "speaker": "Mr. Brown",
+     "text": "It's on the door of my office. Please hand it in before Thursday."
+    },
+    {
+     "speaker": "Hafsa",
+     "text": "I will do it right away. Thanks for your help."
+    },
+    {
+     "speaker": "Mr. Brown",
+     "text": "You're welcome. Take care of yourself."
+    }
+   ],
+   "questions": [
+    {
+     "type": "mcq",
+     "q": "What does Hafsa need to use the copier?",
+     "options": [
+      "A key",
+      "A permission letter",
+      "A code",
+      "A new badge"
+     ],
+     "answer": 2,
+     "whyTr": "'you have to use your code'.",
+     "tag": "listening",
+     "level": "B2"
+    },
+    {
+     "type": "mcq",
+     "q": "What does Hafsa have to do on Tuesdays?",
+     "options": [
+      "Teach art",
+      "Lunch duty in the cafeteria",
+      "Leave early",
+      "Meet parents"
+     ],
+     "answer": 1,
+     "whyTr": "'On Tuesdays you're on lunch duty'.",
+     "tag": "listening",
+     "level": "B2"
+    },
+    {
+     "type": "mcq",
+     "q": "Why does Hafsa want to leave early on Friday?",
+     "options": [
+      "She has a doctor's appointment",
+      "She has a job interview",
+      "She has to pick up Emre",
+      "She is sick of work"
+     ],
+     "answer": 0,
+     "whyTr": "'I have a doctor's appointment'.",
+     "tag": "listening",
+     "level": "B2"
+    },
+    {
+     "type": "mcq",
+     "q": "What must Hafsa fill out?",
+     "options": [
+      "A leave form",
+      "A lunch menu",
+      "A visitor badge",
+      "A sub plan"
+     ],
+     "answer": 0,
+     "whyTr": "'You must fill out a leave form'.",
+     "tag": "listening",
+     "level": "B2"
+    }
+   ]
+  },
+  "writing": {
+   "promptTr": "Yeni başlayan bir vekil öğretmen arkadaşına tavsiye mektubu yaz (120-180 kelime): okulda neleri yapmalı (must, have to), neleri yapmamalı (mustn't), nelerin zorunlu olmadığını (don't have to) ve sen ilk gün neyi farklı yapardın (should have) anlat.",
+   "promptEn": "Write an advice note (120-180 words) to a new substitute teacher. Use must, mustn't, don't have to, should and should have.",
+   "frames": [
+    "Dear new colleague,",
+    "You must always ...",
+    "You mustn't ...",
+    "You don't have to ...",
+    "If I were you, I would ...",
+    "On my first day, I should have ..."
+   ],
+   "model": "Dear new colleague,\n\nCongratulations on your new job! I would like to share a few tips from my first weeks. First of all, you must always follow the sub plan. The regular teacher has prepared it carefully, and the students will feel more comfortable if the day looks familiar.\n\nYou mustn't leave the classroom unsupervised, even for a minute. If you need help, call the front office. You also mustn't share photos of students, because it violates district policy. You don't have to grade the tests unless the plan says so, and you needn't stay after the last bell.\n\nYou should arrive at least twenty minutes early. On my first day, I came late, and I should have checked the plan before the students arrived. It made my morning much harder. If I were you, I would also learn the names of two or three students quickly, because names help you build respect.\n\nMost importantly, you can always ask Mr. Brown for help. Good luck!\n\nHafsa",
+   "checklistTr": [
+    "must, mustn't ve don't have to arasındaki farkı doğru kullandın mı?",
+    "En az bir 'should have + V3' cümlen var mı?",
+    "Modallerden sonra yalın fiil kullandın mı?",
+    "Samimi bir giriş ve kapanış var mı?"
+   ],
+   "minWords": 120
+  },
+  "examSet": [
+   {
+    "type": "mcq",
+    "q": "She ___ here since September.",
+    "options": [
+     "works",
+     "worked",
+     "is working",
+     "has worked"
+    ],
+    "answer": 3,
+    "whyTr": "Since + başlangıç noktası: present perfect.",
+    "tag": "present-perfect",
+    "level": "B2"
+   },
+   {
+    "type": "mcq",
+    "q": "While the students ___ the test, the fire alarm went off.",
+    "options": [
+     "took",
+     "have taken",
+     "were taking",
+     "had taking"
+    ],
+    "answer": 2,
+    "whyTr": "Süren eylem araya girdi: past continuous.",
+    "tag": "past-continuous",
+    "level": "B2"
+   },
+   {
+    "type": "mcq",
+    "q": "If the principal ___ me, I will tell her the truth.",
+    "options": [
+     "will ask",
+     "asks",
+     "asked",
+     "would ask"
+    ],
+    "answer": 1,
+    "whyTr": "Type 1: if + present simple.",
+    "tag": "conditionals",
+    "level": "B2"
+   },
+   {
+    "type": "mcq",
+    "q": "The gym ___ by the kindergarten class right now.",
+    "options": [
+     "is used",
+     "is being used",
+     "uses",
+     "has used"
+    ],
+    "answer": 1,
+    "whyTr": "Şu an süren pasif: is being + V3.",
+    "tag": "passive",
+    "level": "B2"
+   },
+   {
+    "type": "mcq",
+    "q": "He told us that the trip ___ canceled.",
+    "options": [
+     "had been",
+     "has been",
+     "is",
+     "was being"
+    ],
+    "answer": 0,
+    "whyTr": "Reported speech'te geçmiş olay: had been.",
+    "tag": "reported-speech",
+    "level": "B2"
+   },
+   {
+    "type": "mcq",
+    "q": "Excuse me, ___ I borrow your pen?",
+    "options": [
+     "must",
+     "would",
+     "need",
+     "may"
+    ],
+    "answer": 3,
+    "whyTr": "İzin istemek için may / can kullanılır.",
+    "tag": "modals",
+    "level": "B2"
+   },
+   {
+    "type": "mcq",
+    "q": "You ___ be 18 to work as a substitute in most districts.",
+    "options": [
+     "can",
+     "might",
+     "have to",
+     "should have"
+    ],
+    "answer": 2,
+    "whyTr": "Yasal zorunluluk: have to / must.",
+    "tag": "modals",
+    "level": "B2"
+   },
+   {
+    "type": "mcq",
+    "q": "Her coat isn't here. She ___ left already.",
+    "options": [
+     "must",
+     "should",
+     "must have",
+     "can have"
+    ],
+    "answer": 2,
+    "whyTr": "Geçmiş hakkında güçlü çıkarım: must have + V3.",
+    "tag": "modals",
+    "level": "B2"
+   },
+   {
+    "type": "mcq",
+    "q": "It is ___ to arrive early on your first day.",
+    "options": [
+     "advice",
+     "advisable",
+     "advise",
+     "advising"
+    ],
+    "answer": 1,
+    "whyTr": "Boşlukta sıfat gerekir: advisable.",
+    "tag": "word-formation",
+    "level": "B2"
+   },
+   {
+    "type": "mcq",
+    "q": "Which word is closest in meaning to \"prohibit\"?",
+    "options": [
+     "ban",
+     "allow",
+     "plan",
+     "finish"
+    ],
+    "answer": 0,
+    "whyTr": "Prohibit = ban (yasaklamak).",
+    "tag": "synonym",
+    "level": "B2"
+   },
+   {
+    "type": "mcq",
+    "q": "Which word is closest in meaning to \"comply\"?",
+    "options": [
+     "argue",
+     "leave",
+     "copy",
+     "obey"
+    ],
+    "answer": 3,
+    "whyTr": "Comply = obey (uymak).",
+    "tag": "synonym",
+    "level": "B2"
+   },
+   {
+    "type": "mcq",
+    "q": "What is the opposite of \"essential\"?",
+    "options": [
+     "important",
+     "basic",
+     "vital",
+     "unnecessary"
+    ],
+    "answer": 3,
+    "whyTr": "Essential (şart) ↔ unnecessary (gereksiz).",
+    "tag": "antonym",
+    "level": "B2"
+   },
+   {
+    "type": "mcq",
+    "q": "What is the opposite of \"inappropriate\"?",
+    "options": [
+     "unsuitable",
+     "improper",
+     "appropriate",
+     "rude"
+    ],
+    "answer": 2,
+    "whyTr": "Inappropriate ↔ appropriate.",
+    "tag": "antonym",
+    "level": "B2"
+   },
+   {
+    "type": "mcq",
+    "q": "The school has a ___ policy against bullying.",
+    "options": [
+     "heavy",
+     "strict",
+     "hard",
+     "tall"
+    ],
+    "answer": 1,
+    "whyTr": "Kalıp: strict policy.",
+    "tag": "collocations",
+    "level": "B2"
+   },
+   {
+    "type": "mcq",
+    "q": "Please ___ the form and return it by Friday.",
+    "options": [
+     "hand in",
+     "hand out",
+     "hand up",
+     "hand on"
+    ],
+    "answer": 0,
+    "whyTr": "Teslim etmek = hand in.",
+    "tag": "phrasal-verbs",
+    "level": "B2"
+   },
+   {
+    "type": "mcq",
+    "q": "The nurse's office is ___ the end of the hall.",
+    "options": [
+     "at",
+     "on",
+     "in",
+     "by"
+    ],
+    "answer": 0,
+    "whyTr": "Kalıp: at the end of.",
+    "tag": "prepositions-place",
+    "level": "B2"
+   },
+   {
+    "type": "mcq",
+    "q": "This week was ___ than last week.",
+    "options": [
+     "more busy",
+     "busiest",
+     "most busier",
+     "busier"
+    ],
+    "answer": 3,
+    "whyTr": "-y ile biten sıfat: busy → busier.",
+    "tag": "comparatives",
+    "level": "B2"
+   },
+   {
+    "type": "mcq",
+    "q": "She avoids ___ in front of large groups.",
+    "options": [
+     "to speak",
+     "speak",
+     "speaking",
+     "speaks"
+    ],
+    "answer": 2,
+    "whyTr": "avoid + V-ing.",
+    "tag": "gerund-infinitive",
+    "level": "B2"
+   },
+   {
+    "type": "mcq",
+    "q": "Notice: Students who arrive after 8:10 must get a tardy pass from the front office. Parents may sign in their children until 8:30. After that, the entrance doors are locked.\n\nWhat happens after 8:30?",
+    "options": [
+     "Students get a tardy pass",
+     "The entrance doors are locked",
+     "Parents must wait outside",
+     "School begins"
+    ],
+    "answer": 1,
+    "whyTr": "Metin: 'After that, the entrance doors are locked.'",
+    "tag": "reading",
+    "level": "B2"
+   },
+   {
+    "type": "mcq",
+    "q": "Ms. Chen couldn't find the markers, so she borrowed some from Room 4. Later she realized the supply closet had been unlocked all along.\n\nWhat can we say about Ms. Chen?",
+    "options": [
+     "She stole the markers",
+     "She didn't need to borrow markers",
+     "The closet was locked",
+     "She found them in Room 4"
+    ],
+    "answer": 1,
+    "whyTr": "Dolap açıktı; ödünç almasına gerek yoktu.",
+    "tag": "reading",
+    "level": "B2"
+   }
+  ]
+ }
+}

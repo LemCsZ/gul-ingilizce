@@ -1,0 +1,916 @@
+{
+ "week": 12,
+ "day": 3,
+ "titleTr": "Yarın bu saatte: will be + V-ing",
+ "theme": "substitute-schedule",
+ "morning": {
+  "grammar": {
+   "topic": "Future Continuous (will be + V-ing)",
+   "explainTr": [
+    "Gelecekteki belirli bir anda devam etmekte olacak eylemi anlatır: will be + V-ing. This time tomorrow, I will be teaching fourth grade. (Yarın bu saatte dördüncü sınıfa ders veriyor olacağım.)",
+    "Başka bir kullanım, programda zaten yer alan işleri nazikçe sormaktır: Will you be using the copier? Bu soru 'Copier'ı kullanacak mısın?' diye zorlamaz, sadece planını sorar. Bu yüzden iş yerinde çok kibar durur.",
+    "Anlık karar ya da söz için future continuous değil, 'will' kullanılır: The phone is ringing. I'll get it. Durum fiilleri (know, want, have) continuous yapılmaz; onlar için düz will kullan: I will know the results on Friday."
+   ],
+   "compareTr": "Türkçede 'Yarın bu saatte ders veriyor olacağım' tek bir ek zinciriyle söylenir (-iyor olacağım). İngilizcede ek yok; üç parça var: will + be + teaching.",
+   "table": [
+    [
+     "Olumlu",
+     "will be + V-ing",
+     "I will be teaching."
+    ],
+    [
+     "Olumsuz",
+     "won't be + V-ing",
+     "She won't be working."
+    ],
+    [
+     "Soru",
+     "Will + özne + be + V-ing?",
+     "Will you be using it?"
+    ],
+    [
+     "Zaman ifadeleri",
+     "this time tomorrow, at 8 a.m. on Monday",
+     "At noon, we will be eating."
+    ]
+   ],
+   "examples": [
+    {
+     "en": "At 7:45 tomorrow, Hafsa will be welcoming students.",
+     "tr": "Yarın 7:45'te Hafsa öğrencileri karşılıyor olacak."
+    },
+    {
+     "en": "This time next week, I will be working at a new school.",
+     "tr": "Gelecek hafta bu saatte yeni bir okulda çalışıyor olacağım."
+    },
+    {
+     "en": "Will you be using the projector this afternoon?",
+     "tr": "Bu öğleden sonra projektörü kullanıyor olacak mısın?"
+    },
+    {
+     "en": "Don't call at noon. I will be supervising lunch.",
+     "tr": "Öğlen arama. Yemekhane nöbetinde olacağım."
+    }
+   ],
+   "exercises": [
+    {
+     "type": "mcq",
+     "q": "This time tomorrow, I ___ in Room 12.",
+     "options": [
+      "teach",
+      "am taught",
+      "will be teaching",
+      "have taught"
+     ],
+     "answer": 2,
+     "whyTr": "Gelecekteki belirli bir anda süren eylem: will be + V-ing.",
+     "tag": "future",
+     "level": "B2"
+    },
+    {
+     "type": "mcq",
+     "q": "At 10:00 tomorrow, the students ___ their math test.",
+     "options": [
+      "took",
+      "are taken",
+      "have taken",
+      "will be taking"
+     ],
+     "answer": 3,
+     "whyTr": "'At 10:00 tomorrow' o anda devam edecek eylem: will be taking.",
+     "tag": "future",
+     "level": "B2"
+    },
+    {
+     "type": "order",
+     "promptTr": "Cümleyi sırala:",
+     "words": [
+      "At",
+      "lunchroom",
+      "will",
+      "supervising",
+      "I",
+      "noon",
+      "be",
+      "the"
+     ],
+     "answer": "At noon I will be supervising the lunchroom",
+     "whyTr": "Zaman ifadesi + özne + will be + V-ing.",
+     "tag": "future",
+     "level": "B2"
+    },
+    {
+     "type": "mcq",
+     "q": "Don't call me at 8:30. I ___ the first lesson.",
+     "options": [
+      "gave",
+      "have given",
+      "will be giving",
+      "was giving"
+     ],
+     "answer": 2,
+     "whyTr": "Gelecekteki o anda meşgul olacak: will be giving.",
+     "tag": "future",
+     "level": "B2"
+    },
+    {
+     "type": "mcq",
+     "q": "___ you be using the projector this afternoon? I'd like to borrow it.",
+     "options": [
+      "Will",
+      "Do",
+      "Are",
+      "Have"
+     ],
+     "answer": 0,
+     "whyTr": "Planı kibarca sormak için Will you be + V-ing?",
+     "tag": "future",
+     "level": "B2"
+    },
+    {
+     "type": "order",
+     "promptTr": "Soruyu sırala:",
+     "words": [
+      "to",
+      "meeting",
+      "on",
+      "Will",
+      "you",
+      "be",
+      "the",
+      "staff",
+      "Friday?",
+      "coming"
+     ],
+     "answer": "Will you be coming to the staff meeting on Friday?",
+     "whyTr": "Soru: Will + özne + be + V-ing?",
+     "tag": "question-form",
+     "level": "B2"
+    },
+    {
+     "type": "mcq",
+     "q": "\"I can't carry all these boxes.\" \"Wait, I ___ you.\"",
+     "options": [
+      "will help",
+      "will be helping",
+      "help",
+      "have helped"
+     ],
+     "answer": 0,
+     "whyTr": "Anlık karar ya da teklif için düz will kullanılır.",
+     "tag": "future",
+     "level": "B2"
+    },
+    {
+     "type": "fill",
+     "q": "This time next week, Hafsa ___ be working at a new school.",
+     "accept": [
+      "will"
+     ],
+     "hintTr": "will",
+     "whyTr": "Gelecekteki an: will be working.",
+     "tag": "future",
+     "level": "B2"
+    },
+    {
+     "type": "mcq",
+     "q": "I ___ Mr. Brown at three o'clock tomorrow; it's in my calendar.",
+     "options": [
+      "had met",
+      "am meeting",
+      "have met",
+      "was meeting"
+     ],
+     "answer": 1,
+     "whyTr": "Takvime yazılmış kesin plan: present continuous.",
+     "tag": "future",
+     "level": "B1"
+    },
+    {
+     "type": "mcq",
+     "q": "Hafsa was tired because she ___ all day.",
+     "options": [
+      "has been working",
+      "will be working",
+      "works",
+      "had been working"
+     ],
+     "answer": 3,
+     "whyTr": "Geçmişteki sebep olan süreç: had been working.",
+     "tag": "past-simple",
+     "level": "B2"
+    },
+    {
+     "type": "mcq",
+     "q": "Look at those clouds! It ___ rain.",
+     "options": [
+      "will be",
+      "is going to",
+      "is going",
+      "going to"
+     ],
+     "answer": 1,
+     "whyTr": "Şimdiki işarete dayanan tahmin: is going to.",
+     "tag": "future",
+     "level": "B1"
+    },
+    {
+     "type": "mcq",
+     "q": "Which sentence is correct?",
+     "options": [
+      "At six tomorrow, I will be know the results.",
+      "At six tomorrow, I wills be waiting for the results.",
+      "At six tomorrow, I will being wait for the results.",
+      "At six tomorrow, I will be waiting for the results."
+     ],
+     "answer": 3,
+     "whyTr": "Will be + V-ing; 'know' durum fiilidir, continuous olmaz.",
+     "tag": "future",
+     "level": "B2"
+    }
+   ]
+  },
+  "vocab": [
+   {
+    "id": "rotation",
+    "en": "rotation",
+    "tr": "nöbet sırası, dönüşümlü çalışma",
+    "pos": "noun",
+    "example": "Playground duty is on a weekly rotation.",
+    "exampleTr": "Oyun alanı nöbeti haftalık sırayla tutuluyor.",
+    "syn": [],
+    "ant": [],
+    "level": "B2"
+   },
+   {
+    "id": "cover",
+    "en": "cover",
+    "tr": "yerine bakmak; kapsamak",
+    "pos": "verb",
+    "example": "Can you cover my class at ten?",
+    "exampleTr": "Saat ondaki dersime girebilir misin?",
+    "syn": [],
+    "ant": [],
+    "level": "B2"
+   },
+   {
+    "id": "coverage",
+    "en": "coverage",
+    "tr": "(derse) vekil bakma, kapsam",
+    "pos": "noun",
+    "example": "Sick-day coverage is arranged by the front office.",
+    "exampleTr": "Hastalık günü vekil ayarlamasını ön ofis yapar.",
+    "syn": [],
+    "ant": [],
+    "level": "B2"
+   },
+   {
+    "id": "gymnasium",
+    "en": "gymnasium",
+    "tr": "spor salonu",
+    "pos": "noun",
+    "example": "The gymnasium is also used for assemblies.",
+    "exampleTr": "Spor salonu okul toplantıları için de kullanılır.",
+    "syn": [],
+    "ant": [],
+    "level": "B2"
+   },
+   {
+    "id": "monitor",
+    "en": "monitor",
+    "tr": "gözlemlemek, izlemek",
+    "pos": "verb",
+    "example": "She monitors the hallway during breaks.",
+    "exampleTr": "Teneffüslerde koridoru gözetliyor.",
+    "syn": [
+     "watch"
+    ],
+    "ant": [],
+    "level": "B2"
+   },
+   {
+    "id": "crosswalk",
+    "en": "crosswalk",
+    "tr": "yaya geçidi",
+    "pos": "noun",
+    "example": "A crossing guard helps children at the crosswalk.",
+    "exampleTr": "Bir görevli çocuklara yaya geçidinde yardım eder.",
+    "syn": [],
+    "ant": [],
+    "level": "B2"
+   },
+   {
+    "id": "carpool",
+    "en": "carpool",
+    "tr": "ortak araba paylaşımı",
+    "pos": "noun",
+    "example": "Linda drives the carpool on Tuesdays.",
+    "exampleTr": "Linda salı günleri ortak arabayı kullanıyor.",
+    "syn": [],
+    "ant": [],
+    "level": "B2"
+   },
+   {
+    "id": "ceremony",
+    "en": "ceremony",
+    "tr": "tören",
+    "pos": "noun",
+    "example": "The award ceremony starts at ten.",
+    "exampleTr": "Ödül töreni ona başlıyor.",
+    "syn": [],
+    "ant": [],
+    "level": "B2"
+   },
+   {
+    "id": "rehearse",
+    "en": "rehearse",
+    "tr": "prova yapmak",
+    "pos": "verb",
+    "example": "The third graders will rehearse the play tomorrow.",
+    "exampleTr": "Üçüncü sınıflar yarın oyunun provasını yapacak.",
+    "syn": [
+     "practice"
+    ],
+    "ant": [],
+    "level": "B2"
+   },
+   {
+    "id": "proctor",
+    "en": "proctor",
+    "tr": "sınav gözetmeni; sınav gözetmek",
+    "pos": "noun",
+    "example": "She will proctor the state test.",
+    "exampleTr": "Eyalet sınavında gözetmenlik yapacak.",
+    "syn": [],
+    "ant": [],
+    "level": "B2"
+   },
+   {
+    "id": "session",
+    "en": "session",
+    "tr": "oturum, ders saati",
+    "pos": "noun",
+    "example": "The tutoring session lasts forty minutes.",
+    "exampleTr": "Özel destek oturumu kırk dakika sürüyor.",
+    "syn": [],
+    "ant": [],
+    "level": "B2"
+   },
+   {
+    "id": "willing",
+    "en": "willing",
+    "tr": "istekli, gönüllü",
+    "pos": "adjective",
+    "example": "Are you willing to work on short notice?",
+    "exampleTr": "Kısa sürede çalışmaya istekli misin?",
+    "syn": [
+     "ready"
+    ],
+    "ant": [
+     "reluctant"
+    ],
+    "level": "B2"
+   },
+   {
+    "id": "flexible",
+    "en": "flexible",
+    "tr": "esnek",
+    "pos": "adjective",
+    "example": "Subs need a flexible schedule.",
+    "exampleTr": "Vekil öğretmenlerin esnek bir programı olmalı.",
+    "syn": [
+     "adaptable"
+    ],
+    "ant": [
+     "rigid"
+    ],
+    "level": "B2"
+   },
+   {
+    "id": "verify",
+    "en": "verify",
+    "tr": "doğrulamak",
+    "pos": "verb",
+    "example": "Please verify the time by email.",
+    "exampleTr": "Lütfen saati e-postayla doğrulayın.",
+    "syn": [
+     "confirm"
+    ],
+    "ant": [],
+    "level": "B2"
+   },
+   {
+    "id": "anticipate",
+    "en": "anticipate",
+    "tr": "öngörmek, beklemek",
+    "pos": "verb",
+    "example": "We anticipate about 400 students tomorrow.",
+    "exampleTr": "Yarın yaklaşık 400 öğrenci öngörüyoruz.",
+    "syn": [
+     "expect"
+    ],
+    "ant": [],
+    "level": "B2"
+   }
+  ],
+  "reading": {
+   "title": "Hafsa's schedule for Monday",
+   "text": "On Sunday evening, Hafsa sat at her kitchen table with her laptop and a cup of tea. Mr. Brown had just sent her the schedule for Monday, and she wanted to understand every line of it. She had never been responsible for an entire school day, so she read the email twice.\n\n\"At 7:45 a.m. you will be standing at the front entrance, welcoming students,\" it began. \"From 8:15 to 11:30 you will be covering Ms. Carter's fourth-grade class. At 11:30 you will be supervising the cafeteria with Ms. Reed. After lunch, you will be taking the students to the library, and at 3:10 you will be helping with bus pickup.\" At the bottom, Mr. Brown had added a short note: \"Please confirm that you are available.\"\n\nHafsa typed a quick reply, but then she stopped and looked at the ceiling. She imagined the next day. This time tomorrow, she would be standing in a noisy cafeteria, watching two hundred children eat sandwiches. At noon, she would be walking down the hallway with a list in her hand. She laughed at herself. A few weeks ago, she had been afraid to speak English on the phone.\n\nHer neighbor Linda called a few minutes later. \"Will you be working all day tomorrow?\" Linda asked. \"Yes, from morning until the buses leave,\" said Hafsa. \"Then I will bring dinner at six,\" Linda said. \"You will be exhausted, and you won't be cooking.\" Hafsa tried to refuse, but Linda would not listen.\n\nBefore bed, Hafsa packed her bag: a water bottle, a notebook, two pens, and a small bag of nuts. She set her alarm for 5:30. At the door she said quietly to herself, \"Tomorrow at eight, I will be a real teacher for the day.\" She turned off the light. For the first time in weeks, she did not feel nervous. She felt ready.",
+   "glossary": [
+    {
+     "en": "entrance",
+     "tr": "giriş"
+    },
+    {
+     "en": "welcome",
+     "tr": "karşılamak"
+    },
+    {
+     "en": "refuse",
+     "tr": "reddetmek"
+    },
+    {
+     "en": "ceiling",
+     "tr": "tavan"
+    },
+    {
+     "en": "responsible for",
+     "tr": "sorumlu"
+    }
+   ],
+   "questions": [
+    {
+     "type": "mcq",
+     "q": "What will Hafsa be doing at 7:45 a.m.?",
+     "options": [
+      "Welcoming students at the entrance",
+      "Teaching math",
+      "Supervising the cafeteria",
+      "Helping with bus pickup"
+     ],
+     "answer": 0,
+     "whyTr": "E-posta: 'At 7:45 a.m. you will be standing at the front entrance, welcoming students.'",
+     "tag": "reading",
+     "level": "B2"
+    },
+    {
+     "type": "mcq",
+     "q": "Why does Hafsa laugh at herself?",
+     "options": [
+      "She forgot to answer Mr. Brown.",
+      "She made a mistake in the schedule.",
+      "A few weeks ago she was afraid to speak English on the phone.",
+      "She thinks Linda is joking."
+     ],
+     "answer": 2,
+     "whyTr": "Metin: 'A few weeks ago, she had been afraid to speak English on the phone.'",
+     "tag": "reading",
+     "level": "B2"
+    },
+    {
+     "type": "mcq",
+     "q": "What does Linda offer to do?",
+     "options": [
+      "Drive Hafsa to school",
+      "Teach in her place",
+      "Call Mr. Brown",
+      "Bring dinner at six"
+     ],
+     "answer": 3,
+     "whyTr": "Linda: 'I will bring dinner at six.'",
+     "tag": "reading",
+     "level": "B2"
+    },
+    {
+     "type": "mcq",
+     "q": "How does Hafsa feel at the end?",
+     "options": [
+      "Afraid",
+      "Ready",
+      "Angry",
+      "Bored"
+     ],
+     "answer": 1,
+     "whyTr": "Metin: 'She felt ready.'",
+     "tag": "reading",
+     "level": "B2"
+    }
+   ]
+  }
+ },
+ "evening": {
+  "listening": {
+   "title": "Cafeteria duty",
+   "script": [
+    {
+     "speaker": "Ms. Reed",
+     "text": "Hi, you must be Hafsa. I'm Janet Reed. We'll be sharing cafeteria duty tomorrow."
+    },
+    {
+     "speaker": "Hafsa",
+     "text": "Nice to meet you. What will we be doing exactly?"
+    },
+    {
+     "speaker": "Ms. Reed",
+     "text": "From 11:30 we'll be watching the lunch lines. The first graders come first, and they usually need help opening their milk."
+    },
+    {
+     "speaker": "Hafsa",
+     "text": "And what will you be doing while I'm at the tables?"
+    },
+    {
+     "speaker": "Ms. Reed",
+     "text": "I'll be standing by the trash cans, reminding the kids to recycle."
+    },
+    {
+     "speaker": "Hafsa",
+     "text": "Will you be using a radio?"
+    },
+    {
+     "speaker": "Ms. Reed",
+     "text": "Yes, we'll both be carrying radios. If a child is sick, just call the front office."
+    },
+    {
+     "speaker": "Hafsa",
+     "text": "Good. Will we be eating lunch there too?"
+    },
+    {
+     "speaker": "Ms. Reed",
+     "text": "Sadly, no. We'll be eating at one o'clock in the teachers' lounge, once the last group leaves."
+    },
+    {
+     "speaker": "Hafsa",
+     "text": "That's fine. I'll bring a sandwich."
+    },
+    {
+     "speaker": "Ms. Reed",
+     "text": "Perfect. See you at eleven thirty. Don't forget your badge!"
+    },
+    {
+     "speaker": "Hafsa",
+     "text": "I won't. Thanks, Janet."
+    }
+   ],
+   "questions": [
+    {
+     "type": "mcq",
+     "q": "What will the first graders need help with?",
+     "options": [
+      "Finding their seats",
+      "Carrying their trays",
+      "Opening their milk",
+      "Using the radio"
+     ],
+     "answer": 2,
+     "whyTr": "Ms. Reed: 'they usually need help opening their milk.'",
+     "tag": "listening",
+     "level": "B2"
+    },
+    {
+     "type": "mcq",
+     "q": "What will Ms. Reed be doing by the trash cans?",
+     "options": [
+      "Reminding kids to recycle",
+      "Opening milk",
+      "Calling the office",
+      "Eating lunch"
+     ],
+     "answer": 0,
+     "whyTr": "Ms. Reed: 'reminding the kids to recycle'.",
+     "tag": "listening",
+     "level": "B2"
+    },
+    {
+     "type": "mcq",
+     "q": "How will they contact the front office?",
+     "options": [
+      "By email",
+      "By text message",
+      "By radio",
+      "In person"
+     ],
+     "answer": 2,
+     "whyTr": "Ms. Reed: 'we'll both be carrying radios... call the front office.'",
+     "tag": "listening",
+     "level": "B2"
+    },
+    {
+     "type": "mcq",
+     "q": "When will they eat lunch?",
+     "options": [
+      "At one o'clock",
+      "At eleven thirty",
+      "At noon",
+      "At two o'clock"
+     ],
+     "answer": 0,
+     "whyTr": "Ms. Reed: 'We'll be eating at one o'clock.'",
+     "tag": "listening",
+     "level": "B2"
+    }
+   ]
+  },
+  "writing": {
+   "promptTr": "Yarın bu saatte (ya da gelecek hafta) neler yapıyor olacağını anlat. Future continuous ile en az üç cümle kur ve bir arkadaşa kibar bir soru ekle.",
+   "promptEn": "Write a paragraph (120-180 words) about what you will be doing this time tomorrow or next week. Use the future continuous and add one polite question.",
+   "frames": [
+    "This time tomorrow, I will be ...",
+    "At noon, I will be ...-ing, so please don't ...",
+    "Will you be ...-ing this afternoon?",
+    "By the evening, I will be ..."
+   ],
+   "model": "This time tomorrow, I will be standing in front of a fourth-grade class at Lincoln Elementary. At eight o'clock I will be welcoming the students at the door, and at nine we will be reading a short story together. Around noon, I will be supervising the cafeteria with Ms. Reed, so please don't call me then. In the afternoon, I will be walking the children to the library, and I will be helping them choose a book. I think I will be feeling a little nervous at first, but I hope I will be smiling by lunchtime. Linda, will you be working from home tomorrow evening? If you are available, I would love to tell you about my day over tea. At six o'clock I will probably be cooking dinner for Emre, so you can join us. I hope the buses will be on time, and I hope the children will be happy.",
+   "checklistTr": [
+    "En az üç cümlede will be + V-ing var mı?",
+    "Kibar bir 'Will you be ...-ing?' sorusu ekledin mi?",
+    "Durum fiillerini (know, want) continuous yapmadın mı?",
+    "Cümleler büyük harfle başlıyor ve noktayla bitiyor mu?"
+   ],
+   "minWords": 120
+  },
+  "examSet": [
+   {
+    "type": "mcq",
+    "q": "At nine tomorrow, the students ___ their reading test.",
+    "options": [
+     "took",
+     "will be taking",
+     "have taken",
+     "are taken"
+    ],
+    "answer": 1,
+    "whyTr": "Gelecekteki o anda süren eylem: will be taking.",
+    "tag": "future",
+    "level": "B2"
+   },
+   {
+    "type": "mcq",
+    "q": "Don't phone at noon. We ___ lunch.",
+    "options": [
+     "had",
+     "have had",
+     "are had",
+     "will be having"
+    ],
+    "answer": 3,
+    "whyTr": "Gelecekte o anda meşgul olacağız: will be having.",
+    "tag": "future",
+    "level": "B2"
+   },
+   {
+    "type": "order",
+    "promptTr": "Soruyu sırala:",
+    "words": [
+     "next",
+     "time",
+     "be",
+     "will",
+     "this",
+     "What",
+     "doing",
+     "you",
+     "week?"
+    ],
+    "answer": "What will you be doing this time next week?",
+    "whyTr": "Soru: What + will + özne + be + V-ing?",
+    "tag": "question-form",
+    "level": "B2"
+   },
+   {
+    "type": "fill",
+    "q": "Will you ___ using the copier this morning?",
+    "accept": [
+     "be"
+    ],
+    "hintTr": "will ___ + V-ing",
+    "whyTr": "Will you be using...? kalıbı.",
+    "tag": "future",
+    "level": "B2"
+   },
+   {
+    "type": "mcq",
+    "q": "Look! The sky is dark. It ___ to rain.",
+    "options": [
+     "will be going",
+     "was going",
+     "goes",
+     "is going"
+    ],
+    "answer": 3,
+    "whyTr": "Şimdiki işarete dayanan tahmin: is going to rain.",
+    "tag": "future",
+    "level": "B1"
+   },
+   {
+    "type": "mcq",
+    "q": "Please ___ your attendance by email before Friday.",
+    "options": [
+     "verify",
+     "rehearse",
+     "cover",
+     "anticipate"
+    ],
+    "answer": 0,
+    "whyTr": "Katılımı doğrulamak: verify.",
+    "tag": "vocab",
+    "level": "B2"
+   },
+   {
+    "type": "mcq",
+    "q": "The third graders will ___ the play on Thursday.",
+    "options": [
+     "confirm",
+     "monitor",
+     "rehearse",
+     "cover"
+    ],
+    "answer": 2,
+    "whyTr": "Oyun için prova yapmak: rehearse.",
+    "tag": "vocab",
+    "level": "B2"
+   },
+   {
+    "type": "mcq",
+    "q": "Which word is closest in meaning to \"anticipate\"?",
+    "options": [
+     "ignore",
+     "forget",
+     "cancel",
+     "expect"
+    ],
+    "answer": 3,
+    "whyTr": "Anticipate ve expect benzer anlamlıdır.",
+    "tag": "synonym",
+    "level": "B2"
+   },
+   {
+    "type": "mcq",
+    "q": "What is the opposite of \"flexible\"?",
+    "options": [
+     "easy",
+     "rigid",
+     "calm",
+     "helpful"
+    ],
+    "answer": 1,
+    "whyTr": "Flexible'ın zıddı rigid.",
+    "tag": "antonym",
+    "level": "B2"
+   },
+   {
+    "type": "mcq",
+    "q": "A person who watches students during a test is a ___.",
+    "options": [
+     "carpool",
+     "session",
+     "proctor",
+     "duty"
+    ],
+    "answer": 2,
+    "whyTr": "Sınav gözetmeni: proctor.",
+    "tag": "vocab",
+    "level": "B2"
+   },
+   {
+    "type": "mcq",
+    "q": "Mr. Lee will be flying to Chicago at six tomorrow morning, so he will not be at school. A substitute will be teaching his classes.\n\nWho will teach Mr. Lee's classes?",
+    "options": [
+     "A substitute",
+     "The principal",
+     "Mr. Lee",
+     "Nobody"
+    ],
+    "answer": 0,
+    "whyTr": "Metin: 'A substitute will be teaching his classes.'",
+    "tag": "reading",
+    "level": "B2"
+   },
+   {
+    "type": "mcq",
+    "q": "On Friday at 2:00, Hafsa will be meeting a parent. Before that, she will be grading quizzes in the library.\n\nWhat will Hafsa be doing before the meeting?",
+    "options": [
+     "Teaching math",
+     "Eating lunch",
+     "Grading quizzes",
+     "Calling the bus"
+    ],
+    "answer": 2,
+    "whyTr": "Metin: 'she will be grading quizzes in the library'.",
+    "tag": "reading",
+    "level": "B2"
+   },
+   {
+    "type": "mcq",
+    "q": "By the time the bell rang, the students ___ for an hour.",
+    "options": [
+     "had been working",
+     "have been working",
+     "will be working",
+     "were worked"
+    ],
+    "answer": 0,
+    "whyTr": "Geçmişteki bir ana kadar süren eylem: had been working.",
+    "tag": "past-simple",
+    "level": "B2"
+   },
+   {
+    "type": "mcq",
+    "q": "When I walked into the room, the children ___ on the floor.",
+    "options": [
+     "sat",
+     "were sitting",
+     "had sat",
+     "sit"
+    ],
+    "answer": 1,
+    "whyTr": "Arka planda devam eden eylem: were sitting.",
+    "tag": "past-simple",
+    "level": "B2"
+   },
+   {
+    "type": "mcq",
+    "q": "She ___ to that school three times this month.",
+    "options": [
+     "went",
+     "had been going",
+     "is being",
+     "has been"
+    ],
+    "answer": 3,
+    "whyTr": "Bu ay içinde süren dönem: present perfect.",
+    "tag": "present-perfect",
+    "level": "B1"
+   },
+   {
+    "type": "mcq",
+    "q": "Which sentence uses the future continuous correctly?",
+    "options": [
+     "At noon I will eating lunch.",
+     "At noon I will be eating lunch.",
+     "At noon I be eating lunch.",
+     "At noon I will be eat lunch."
+    ],
+    "answer": 1,
+    "whyTr": "Kalıp: will be + V-ing.",
+    "tag": "future",
+    "level": "B2"
+   },
+   {
+    "type": "mcq",
+    "q": "\"The phone is ringing.\" \"I ___ it.\"",
+    "options": [
+     "will be getting",
+     "get",
+     "have got",
+     "will get"
+    ],
+    "answer": 3,
+    "whyTr": "Anlık karar: düz will.",
+    "tag": "future",
+    "level": "B2"
+   },
+   {
+    "type": "mcq",
+    "q": "I'm going to bed early tonight ___ I won't be tired tomorrow.",
+    "options": [
+     "so that",
+     "although",
+     "because",
+     "but"
+    ],
+    "answer": 0,
+    "whyTr": "Amaç bildirir: so that.",
+    "tag": "linkers",
+    "level": "B1"
+   },
+   {
+    "type": "mcq",
+    "q": "Students ___ run in the hallway. It is against the rule.",
+    "options": [
+     "don't have to",
+     "might not",
+     "must not",
+     "needn't"
+    ],
+    "answer": 2,
+    "whyTr": "Yasak: must not (mustn't).",
+    "tag": "modals",
+    "level": "B1"
+   },
+   {
+    "type": "mcq",
+    "q": "Which time expression goes with the future continuous?",
+    "options": [
+     "yesterday at six",
+     "last week",
+     "two days ago",
+     "this time tomorrow"
+    ],
+    "answer": 3,
+    "whyTr": "Gelecekteki an: this time tomorrow.",
+    "tag": "future",
+    "level": "B2"
+   }
+  ]
+ }
+}

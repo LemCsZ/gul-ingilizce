@@ -1,0 +1,787 @@
+{
+ "week": 9,
+ "day": 2,
+ "titleTr": "Okul binası ve sınıflar: where ve whose",
+ "theme": "school-building",
+ "morning": {
+  "grammar": {
+   "topic": "Relative clauses: where / whose",
+   "explainTr": [
+    "Bir yeri tanımlamak için 'where' kullanırsın: The library is the place where students borrow books. 'Where' kendi başına 'in which' anlamını taşır, bu yüzden cümlenin sonuna 'in' veya 'there' eklemezsin.",
+    "Sahiplik (kimin?) için 'whose' kullanırsın ve hemen ardından bir isim gelir: She is the teacher whose classroom is next to the gym. 'Whose' ile 'who's' (who is) karıştırılmamalı.",
+    "Her ikisi de ana cümlenin içinde bir ismi tanımlar: the room where..., the boy whose..."
+   ],
+   "compareTr": "Türkçede 'sınıfı spor salonunun yanında olan öğretmen' diye uzun bir sıfat-fiil kurarsın. İngilizcede aynı fikri sona koyarsın: the teacher whose classroom is next to the gym.",
+   "table": [
+    [
+     "Yer",
+     "where",
+     "The room where we eat lunch"
+    ],
+    [
+     "Sahiplik",
+     "whose + isim",
+     "The boy whose locker is broken"
+    ],
+    [
+     "Yanlış",
+     "where ... in it",
+     "the room where I teach in it (yanlış)"
+    ],
+    [
+     "Karıştırma",
+     "whose / who's",
+     "Whose coat is this? Who's that?"
+    ]
+   ],
+   "examples": [
+    {
+     "en": "This is the gym where we play basketball.",
+     "tr": "Burası basketbol oynadığımız spor salonu."
+    },
+    {
+     "en": "The library is the place where students read.",
+     "tr": "Kütüphane öğrencilerin okuduğu yerdir."
+    },
+    {
+     "en": "She is the teacher whose classroom is near the gym.",
+     "tr": "O, sınıfı spor salonunun yanında olan öğretmendir."
+    },
+    {
+     "en": "I met a boy whose backpack was huge.",
+     "tr": "Sırt çantası kocaman olan bir çocukla tanıştım."
+    }
+   ],
+   "exercises": [
+    {
+     "type": "mcq",
+     "q": "This is the room ___ the students eat lunch.",
+     "options": [
+      "where",
+      "which",
+      "whose",
+      "who"
+     ],
+     "answer": 0,
+     "whyTr": "Yer için 'where' kullanılır.",
+     "tag": "pronouns",
+     "level": "B1"
+    },
+    {
+     "type": "mcq",
+     "q": "She is the teacher ___ classroom is next to the gym.",
+     "options": [
+      "who",
+      "whose",
+      "which",
+      "where"
+     ],
+     "answer": 1,
+     "whyTr": "Sahiplik (onun sınıfı) için 'whose' kullanılır.",
+     "tag": "pronouns",
+     "level": "B1"
+    },
+    {
+     "type": "mcq",
+     "q": "The library is the place ___ students borrow books.",
+     "options": [
+      "whose",
+      "who",
+      "where",
+      "what"
+     ],
+     "answer": 2,
+     "whyTr": "Place kelimesinden sonra 'where' gelir.",
+     "tag": "pronouns",
+     "level": "B1"
+    },
+    {
+     "type": "mcq",
+     "q": "That is the student ___ backpack is on the floor.",
+     "options": [
+      "who's",
+      "which",
+      "who",
+      "whose"
+     ],
+     "answer": 3,
+     "whyTr": "'Whose' sahiplik içindir; 'who's' (who is) burada yanlış.",
+     "tag": "pronouns",
+     "level": "B1"
+    },
+    {
+     "type": "mcq",
+     "q": "Which sentence is correct?",
+     "options": [
+      "This is the room where I teach.",
+      "This is the room where I teach in it.",
+      "This is the room which I teach there.",
+      "This is the room whose I teach."
+     ],
+     "answer": 0,
+     "whyTr": "Where zaten 'in which' anlamı taşır; sonuna ayrıca 'in it' eklenmez.",
+     "tag": "pronouns",
+     "level": "B1"
+    },
+    {
+     "type": "mcq",
+     "q": "I know a man ___ son goes to this school.",
+     "options": [
+      "who",
+      "whose",
+      "where",
+      "which"
+     ],
+     "answer": 1,
+     "whyTr": "Adamın oğlu: sahiplik, yani 'whose'.",
+     "tag": "pronouns",
+     "level": "B1"
+    },
+    {
+     "type": "order",
+     "promptTr": "Cümleyi sırala:",
+     "words": [
+      "the",
+      "gym",
+      "where",
+      "we",
+      "play",
+      "basketball",
+      "This",
+      "is"
+     ],
+     "answer": "This is the gym where we play basketball",
+     "whyTr": "Where, yeri (gym) tanımlayan cümleciği başlatır.",
+     "tag": "pronouns",
+     "level": "B1"
+    },
+    {
+     "type": "order",
+     "promptTr": "Cümleyi sırala:",
+     "words": [
+      "the",
+      "girl",
+      "whose",
+      "locker",
+      "is",
+      "broken",
+      "She",
+      "is"
+     ],
+     "answer": "She is the girl whose locker is broken",
+     "whyTr": "'Whose' + isim, sahipliği gösterir.",
+     "tag": "pronouns",
+     "level": "B1"
+    },
+    {
+     "type": "mcq",
+     "q": "___ twenty desks in the science lab.",
+     "options": [
+      "Is there",
+      "It is",
+      "There are",
+      "There is"
+     ],
+     "answer": 2,
+     "whyTr": "Çoğul isim (twenty desks) ile 'There are' kullanılır.",
+     "tag": "there-is",
+     "level": "A2"
+    },
+    {
+     "type": "mcq",
+     "q": "The playground is ___ the cafeteria and the gym.",
+     "options": [
+      "among",
+      "in",
+      "at",
+      "between"
+     ],
+     "answer": 3,
+     "whyTr": "İki yer arasında: between.",
+     "tag": "prepositions-place",
+     "level": "A2"
+    },
+    {
+     "type": "fill",
+     "q": "That is the office ___ I filled out the form.",
+     "accept": [
+      "where"
+     ],
+     "hintTr": "yer için bağlaç",
+     "whyTr": "Ofis bir yer olduğu için 'where' kullanılır.",
+     "tag": "pronouns",
+     "level": "B1"
+    },
+    {
+     "type": "fill",
+     "q": "He is the student ___ pencil case is on my desk.",
+     "accept": [
+      "whose"
+     ],
+     "hintTr": "sahiplik",
+     "whyTr": "Öğrencinin kalem kutusu: 'whose'.",
+     "tag": "pronouns",
+     "level": "B1"
+    }
+   ]
+  },
+  "vocab": [
+   {
+    "id": "gym",
+    "en": "gym",
+    "tr": "spor salonu",
+    "pos": "noun",
+    "example": "The students play basketball in the gym.",
+    "exampleTr": "Öğrenciler spor salonunda basketbol oynuyor.",
+    "syn": [],
+    "ant": [],
+    "level": "B1"
+   },
+   {
+    "id": "library",
+    "en": "library",
+    "tr": "kütüphane",
+    "pos": "noun",
+    "example": "You can borrow books from the library.",
+    "exampleTr": "Kütüphaneden kitap ödünç alabilirsin.",
+    "syn": [],
+    "ant": [],
+    "level": "B1"
+   },
+   {
+    "id": "hallway",
+    "en": "hallway",
+    "tr": "koridor",
+    "pos": "noun",
+    "example": "Please walk in the hallway.",
+    "exampleTr": "Lütfen koridorda yürüyün.",
+    "syn": [],
+    "ant": [],
+    "level": "B1"
+   },
+   {
+    "id": "entrance",
+    "en": "entrance",
+    "tr": "giriş",
+    "pos": "noun",
+    "example": "Mr. Brown waits at the main entrance.",
+    "exampleTr": "Mr. Brown ana girişte bekliyor.",
+    "syn": [],
+    "ant": [
+     "exit"
+    ],
+    "level": "B1"
+   },
+   {
+    "id": "exit",
+    "en": "exit",
+    "tr": "çıkış",
+    "pos": "noun",
+    "example": "The nearest exit is next to the stairs.",
+    "exampleTr": "En yakın çıkış merdivenin yanında.",
+    "syn": [],
+    "ant": [
+     "entrance"
+    ],
+    "level": "B1"
+   },
+   {
+    "id": "auditorium",
+    "en": "auditorium",
+    "tr": "konferans salonu, tören salonu",
+    "pos": "noun",
+    "example": "The school concert is in the auditorium.",
+    "exampleTr": "Okul konseri tören salonunda.",
+    "syn": [],
+    "ant": [],
+    "level": "B1"
+   },
+   {
+    "id": "playground",
+    "en": "playground",
+    "tr": "oyun alanı",
+    "pos": "noun",
+    "example": "The children run on the playground at recess.",
+    "exampleTr": "Çocuklar teneffüste oyun alanında koşuyor.",
+    "syn": [],
+    "ant": [],
+    "level": "B1"
+   },
+   {
+    "id": "restroom",
+    "en": "restroom",
+    "tr": "tuvalet",
+    "pos": "noun",
+    "example": "The restroom is down the hall.",
+    "exampleTr": "Tuvalet koridorun sonunda.",
+    "syn": [],
+    "ant": [],
+    "level": "B1"
+   },
+   {
+    "id": "locker",
+    "en": "locker",
+    "tr": "dolap, kilitli dolap",
+    "pos": "noun",
+    "example": "I keep my coat in my locker.",
+    "exampleTr": "Montumu dolabımda tutuyorum.",
+    "syn": [],
+    "ant": [],
+    "level": "B1"
+   },
+   {
+    "id": "laboratory",
+    "en": "laboratory",
+    "tr": "laboratuvar",
+    "pos": "noun",
+    "example": "The fifth graders do experiments in the laboratory.",
+    "exampleTr": "Beşinci sınıflar laboratuvarda deney yapıyor.",
+    "syn": [],
+    "ant": [],
+    "level": "B1"
+   },
+   {
+    "id": "floor",
+    "en": "floor",
+    "tr": "kat; zemin",
+    "pos": "noun",
+    "example": "The library is on the second floor.",
+    "exampleTr": "Kütüphane ikinci katta.",
+    "syn": [],
+    "ant": [],
+    "level": "B1"
+   },
+   {
+    "id": "building",
+    "en": "building",
+    "tr": "bina",
+    "pos": "noun",
+    "example": "The old building has four hallways.",
+    "exampleTr": "Eski binanın dört koridoru var.",
+    "syn": [],
+    "ant": [],
+    "level": "B1"
+   },
+   {
+    "id": "supplies",
+    "en": "supplies",
+    "tr": "malzemeler",
+    "pos": "noun",
+    "example": "The art supplies are in the closet.",
+    "exampleTr": "Resim malzemeleri dolapta.",
+    "syn": [
+     "materials"
+    ],
+    "ant": [],
+    "level": "B1"
+   },
+   {
+    "id": "stairs",
+    "en": "stairs",
+    "tr": "merdiven",
+    "pos": "noun",
+    "example": "Walk slowly on the stairs.",
+    "exampleTr": "Merdivende yavaş yürüyün.",
+    "syn": [],
+    "ant": [],
+    "level": "B1"
+   },
+   {
+    "id": "office",
+    "en": "office",
+    "tr": "ofis, idare odası",
+    "pos": "noun",
+    "example": "Please bring the form to the front office.",
+    "exampleTr": "Lütfen formu ön ofise getirin.",
+    "syn": [],
+    "ant": [],
+    "level": "B1"
+   }
+  ],
+  "reading": {
+   "title": "Finding Room 114",
+   "text": "It is Hafsa's first day as a substitute, and she is looking for Room 114. She has a map, but it is hard to read. Lincoln Elementary is a big building that has two floors and four hallways.\n\nAt the entrance, she meets a girl whose backpack is almost bigger than she is. \"Excuse me, do you know where Room 114 is?\" Hafsa asks. \"Yes! It's the room where Mr. Ortiz teaches fourth grade,\" the girl says. \"Go down this hallway and turn left after the library. The library is the place where we borrow books. It is next to the gym.\" Hafsa thanks her and walks away.\n\nShe finds the room, but the door is locked. A custodian whose keys make a loud noise comes by and opens it for her. \"This is the room where the students keep their art supplies,\" he says. Inside, Hafsa finds a note on the desk from Mr. Ortiz, whose handwriting is very neat. \"Welcome! The lesson plan is in the blue folder. Lunch is at 11:45 in the cafeteria. If you need help, ask Ms. Lopez, whose classroom is across the hall.\"\n\nHafsa takes a deep breath. The school is not so scary now. She knows where everything is, and she knows whose door to knock on.",
+   "glossary": [
+    {
+     "en": "hard to read",
+     "tr": "okuması zor"
+    },
+    {
+     "en": "locked",
+     "tr": "kilitli"
+    },
+    {
+     "en": "handwriting",
+     "tr": "el yazısı"
+    },
+    {
+     "en": "lesson plan",
+     "tr": "ders planı"
+    }
+   ],
+   "questions": [
+    {
+     "type": "mcq",
+     "q": "Where does Hafsa meet the girl?",
+     "options": [
+      "At the entrance",
+      "In the library",
+      "In the gym",
+      "In Room 114"
+     ],
+     "answer": 0,
+     "whyTr": "Metin: 'At the entrance, she meets a girl'.",
+     "tag": "reading",
+     "level": "B1"
+    },
+    {
+     "type": "mcq",
+     "q": "Where is the library?",
+     "options": [
+      "Next to the cafeteria",
+      "Next to the gym",
+      "On the second floor",
+      "Across from Room 114"
+     ],
+     "answer": 1,
+     "whyTr": "Metin: 'It is next to the gym.'",
+     "tag": "reading",
+     "level": "B1"
+    },
+    {
+     "type": "mcq",
+     "q": "Who can help Hafsa if she needs help?",
+     "options": [
+      "Mr. Ortiz",
+      "The custodian",
+      "Ms. Lopez",
+      "The girl with the backpack"
+     ],
+     "answer": 2,
+     "whyTr": "Metin: 'ask Ms. Lopez, whose classroom is across the hall'.",
+     "tag": "reading",
+     "level": "B1"
+    },
+    {
+     "type": "mcq",
+     "q": "Where is the lesson plan?",
+     "options": [
+      "On the whiteboard",
+      "In the cafeteria",
+      "In the girl's backpack",
+      "In the blue folder"
+     ],
+     "answer": 3,
+     "whyTr": "Metin: 'The lesson plan is in the blue folder.'",
+     "tag": "reading",
+     "level": "B1"
+    }
+   ]
+  }
+ },
+ "evening": {
+  "listening": {
+   "title": "A walk through the school",
+   "script": [
+    {
+     "speaker": "Ms. Lopez",
+     "text": "Welcome, Hafsa. Let me show you where things are."
+    },
+    {
+     "speaker": "Hafsa",
+     "text": "Thank you. Where is the restroom for teachers?"
+    },
+    {
+     "speaker": "Ms. Lopez",
+     "text": "It's at the end of this hallway, near the stairs. The students' restrooms are downstairs."
+    },
+    {
+     "speaker": "Hafsa",
+     "text": "And where do I take my class for lunch?"
+    },
+    {
+     "speaker": "Ms. Lopez",
+     "text": "To the cafeteria. It's the big room where you smell pizza on Fridays."
+    },
+    {
+     "speaker": "Hafsa",
+     "text": "What about the gym? Do the children go there every day?"
+    },
+    {
+     "speaker": "Ms. Lopez",
+     "text": "The gym is where they have recess when it rains. In sunny weather they go to the playground."
+    },
+    {
+     "speaker": "Hafsa",
+     "text": "Whose coat is that on the floor?"
+    },
+    {
+     "speaker": "Ms. Lopez",
+     "text": "It belongs to a boy whose locker is broken. I'll take it to the office."
+    },
+    {
+     "speaker": "Hafsa",
+     "text": "What about the science laboratory?"
+    },
+    {
+     "speaker": "Ms. Lopez",
+     "text": "That's where the fifth graders do experiments. It's locked, so ask Mr. Brown for the key."
+    },
+    {
+     "speaker": "Hafsa",
+     "text": "Great. I think I understand now."
+    },
+    {
+     "speaker": "Ms. Lopez",
+     "text": "If you get lost, ask any student. They know every corner of this building."
+    }
+   ],
+   "questions": [
+    {
+     "type": "mcq",
+     "q": "Where is the restroom for teachers?",
+     "options": [
+      "Near the stairs, at the end of the hallway",
+      "Next to the gym",
+      "Downstairs",
+      "In the cafeteria"
+     ],
+     "answer": 0,
+     "whyTr": "Ms. Lopez: 'at the end of this hallway, near the stairs'.",
+     "tag": "listening",
+     "level": "B1"
+    },
+    {
+     "type": "mcq",
+     "q": "When do the children have recess in the gym?",
+     "options": [
+      "On Fridays",
+      "When it rains",
+      "In sunny weather",
+      "After lunch every day"
+     ],
+     "answer": 1,
+     "whyTr": "Ms. Lopez: 'The gym is where they have recess when it rains.'",
+     "tag": "listening",
+     "level": "B1"
+    },
+    {
+     "type": "mcq",
+     "q": "Whose coat is on the floor?",
+     "options": [
+      "Ms. Lopez's coat",
+      "Mr. Brown's coat",
+      "A boy whose locker is broken",
+      "A fifth grader's coat"
+     ],
+     "answer": 2,
+     "whyTr": "Ms. Lopez: 'a boy whose locker is broken'.",
+     "tag": "listening",
+     "level": "B1"
+    },
+    {
+     "type": "mcq",
+     "q": "Who has the key to the laboratory?",
+     "options": [
+      "Ms. Lopez",
+      "The coach",
+      "The custodian",
+      "Mr. Brown"
+     ],
+     "answer": 3,
+     "whyTr": "Ms. Lopez: 'ask Mr. Brown for the key'.",
+     "tag": "listening",
+     "level": "B1"
+    }
+   ]
+  },
+  "writing": {
+   "promptTr": "Bir okulu ya da iş yerini anlat: 3 yeri 'where' ile, 2 kişiyi 'whose' ile tanıt (80-120 kelime).",
+   "promptEn": "Describe a school or a workplace. Use where for three places and whose for two people. (80-120 words)",
+   "frames": [
+    "The library is the place where ...",
+    "The gym is the room where ...",
+    "I met ..., whose ...",
+    "I think this is a school where ..."
+   ],
+   "model": "Last week I visited Lincoln Elementary School. It is a big school with a lot of nice places. The library is the place where students read quietly. The gym is the room where they play basketball. The playground is a place where children run at recess. I met Ms. Lopez, whose classroom is near the entrance. She is a teacher whose students really love her. I also met a boy whose backpack was bigger than he was! I think this is a school where I can learn a lot. Maybe I can work there someday.",
+   "checklistTr": [
+    "Yerler için 'where' kullandın mı?",
+    "Sahiplik için 'whose' + isim yazdın mı (whose classroom)?",
+    "'Whose' ile 'who's' karışmadı, değil mi?",
+    "Cümleler büyük harfle başlıyor ve noktayla bitiyor mu?"
+   ],
+   "minWords": 80
+  },
+  "examSet": [
+   {
+    "type": "mcq",
+    "q": "The gym is the place ___ the students play basketball.",
+    "options": [
+     "where",
+     "whose",
+     "who",
+     "what"
+    ],
+    "answer": 0,
+    "whyTr": "Yer için 'where'.",
+    "tag": "pronouns",
+    "level": "B1"
+   },
+   {
+    "type": "mcq",
+    "q": "Ms. Lopez is the teacher ___ classroom is next to mine.",
+    "options": [
+     "who",
+     "whose",
+     "where",
+     "which"
+    ],
+    "answer": 1,
+    "whyTr": "Sahiplik: whose.",
+    "tag": "pronouns",
+    "level": "B1"
+   },
+   {
+    "type": "mcq",
+    "q": "Which sentence is correct?",
+    "options": [
+     "I know a girl who her mother works here.",
+     "I know a girl which mother works here.",
+     "I know a girl whose mother works here.",
+     "I know a girl whose her mother works here."
+    ],
+    "answer": 2,
+    "whyTr": "'Whose' zaten 'onun' anlamı taşır; 'her' eklenmez.",
+    "tag": "pronouns",
+    "level": "B1"
+   },
+   {
+    "type": "mcq",
+    "q": "You can borrow books from the ___.",
+    "options": [
+     "locker",
+     "stairs",
+     "exit",
+     "library"
+    ],
+    "answer": 3,
+    "whyTr": "Kitap ödünç alınan yer: library.",
+    "tag": "vocab",
+    "level": "A2"
+   },
+   {
+    "type": "mcq",
+    "q": "Students keep their coats and books in a ___.",
+    "options": [
+     "locker",
+     "laboratory",
+     "playground",
+     "entrance"
+    ],
+    "answer": 0,
+    "whyTr": "Dolap = locker.",
+    "tag": "vocab",
+    "level": "B1"
+   },
+   {
+    "type": "mcq",
+    "q": "What is the opposite of 'entrance'?",
+    "options": [
+     "floor",
+     "exit",
+     "office",
+     "stairs"
+    ],
+    "answer": 1,
+    "whyTr": "Giriş (entrance) ile çıkış (exit) zıttır.",
+    "tag": "antonym",
+    "level": "B1"
+   },
+   {
+    "type": "mcq",
+    "q": "Which word is closest in meaning to 'supplies'?",
+    "options": [
+     "visitors",
+     "rules",
+     "materials",
+     "floors"
+    ],
+    "answer": 2,
+    "whyTr": "Supplies = materials (malzemeler).",
+    "tag": "synonym",
+    "level": "B1"
+   },
+   {
+    "type": "mcq",
+    "q": "The science experiment is in the ___.",
+    "options": [
+     "hallway",
+     "restroom",
+     "auditorium",
+     "laboratory"
+    ],
+    "answer": 3,
+    "whyTr": "Deney laboratuvarda yapılır.",
+    "tag": "vocab",
+    "level": "B1"
+   },
+   {
+    "type": "mcq",
+    "q": "The new gym is ___ than the old one.",
+    "options": [
+     "bigger",
+     "more big",
+     "biggest",
+     "big"
+    ],
+    "answer": 0,
+    "whyTr": "Kısa sıfat + er: bigger.",
+    "tag": "comparatives",
+    "level": "A2"
+   },
+   {
+    "type": "mcq",
+    "q": "Right now the students ___ in the auditorium.",
+    "options": [
+     "sit",
+     "are sitting",
+     "sits",
+     "sat"
+    ],
+    "answer": 1,
+    "whyTr": "'Right now' ile Present Continuous: are sitting.",
+    "tag": "present-continuous",
+    "level": "A2"
+   },
+   {
+    "type": "mcq",
+    "q": "Emre's school has a small playground whose slide is very old. The principal wants to build a new playground where children can play safely. Parents are helping to collect money.\n\nWhat does the principal want?",
+    "options": [
+     "To buy a new slide only",
+     "To close the school",
+     "To build a new playground",
+     "To hire more parents"
+    ],
+    "answer": 2,
+    "whyTr": "Metin: 'wants to build a new playground'.",
+    "tag": "reading",
+    "level": "B1"
+   },
+   {
+    "type": "mcq",
+    "q": "The auditorium is a large room where schools hold concerts. On Friday, a class whose teacher is sick will watch a movie there. Mr. Brown will put a sign on the door.\n\nWhere will the class watch a movie?",
+    "options": [
+     "In the gym",
+     "In the library",
+     "In the cafeteria",
+     "In the auditorium"
+    ],
+    "answer": 3,
+    "whyTr": "Metin: 'will watch a movie there' (there = auditorium).",
+    "tag": "reading",
+    "level": "B1"
+   }
+  ]
+ }
+}
