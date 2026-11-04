@@ -1,5 +1,5 @@
 // Çevrimdışı çalışma: önce ağ, olmazsa önbellek.
-const CACHE = 'gul-v16';
+const CACHE = 'gul-v18';
 const CORE = [
   './',
   'index.html',
@@ -9,15 +9,18 @@ const CORE = [
   'icons/rose-192.png',
   'icons/rose-512.png',
   'js/app.js',
+  'js/guide.js',
   'js/player.js',
   'js/report.js',
   'js/rose.js',
   'js/speech.js',
   'js/srs.js',
   'js/store.js',
+  'js/translate.js',
   'content/program.json',
   'content/diagnostic.json',
   'content/synant.json',
+  'content/dict.json',
   'content/mocks/m03.json',
   'content/mocks/m05.json',
   'content/mocks/m07.json',

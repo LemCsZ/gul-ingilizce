@@ -3,6 +3,8 @@ import * as srs from './srs.js';
 import { rose, petalIcon } from './rose.js';
 import { buildSession, buildPractice, play } from './player.js';
 import { renderReport, reportText, exportCode, importCode } from './report.js';
+import { initTranslator } from './translate.js';
+import { renderGuide } from './guide.js';
 
 const app = document.getElementById('app');
 const esc = s => String(s ?? '').replace(/[&<>"']/g, c => ({ '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;', "'": '&#39;' }[c]));
@@ -101,6 +103,7 @@ function home() {
     ${todayHtml}
     ${fastPath()}
     <section class="this-week"><h3>Bu hafta</h3>${weekRow(cur ? cur.week : 1, cur)}</section>
+    <p class="guide-link"><a href="#/rehber">Uygulama nasıl çalışır?</a></p>
   </div>${nav('')}`;
   bindFastPath();
 }
@@ -159,6 +162,11 @@ function settings() {
       <h2>Oğlum için rapor</h2>
       <p class="muted">Çalışma süresini, başarıyı ve yazdıklarını gösterir. Paylaş düğmesiyle WhatsApp'tan gönderebilirsin.</p>
       <a class="btn lake" href="#/rapor">Raporu aç</a>
+    </section>
+    <section class="card">
+      <h2>Rehber</h2>
+      <p class="muted">Çalışma planını ve uygulamanın nasıl kullanıldığını kısaca anlatır.</p>
+      <a class="btn ghost" href="#/rehber">Rehberi aç</a>
     </section>
     <section class="card">
       <h2>Yedek</h2>
@@ -222,6 +230,7 @@ async function lessonView(id, part) {
     else if (lesson.kind === 'lesson' || lesson.kind === 'mock') data = await json(lesson.file);
     if (lesson.kind === 'light') extra.synant = await json('synant.json');
     const steps = buildSession(lesson, part, data, extra);
+    document.body.classList.toggle('exam', lesson.kind === 'mock' || lesson.kind === 'diagnostic'); // sınavda çevirmen kapalı
     play(app, { steps, lesson, part, onExit: () => (location.hash = '#/') });
   } catch (e) {
     app.innerHTML = `<div class="page"><section class="card"><h2>Bu ders açılamadı</h2><p>İnternet bağlantını kontrol edip tekrar dene.</p><a class="btn primary" href="#/">Ana sayfa</a></section></div>`;
@@ -238,6 +247,9 @@ async function practiceView(kind) {
 async function route() {
   const [, a, b, c] = (location.hash || '#/').split('/');
   window.scrollTo(0, 0);
+  app.onclick = null;
+  document.body.classList.remove('exam', 'guide-on');
+  if (a === 'rehber') { document.body.classList.add('guide-on'); return renderGuide(app, program, () => (location.hash = '#/')); }
   if (a === 'ders') return lessonView(b, c);
   if (a === 'calis') return practiceView(b);
   if (a === 'tekrar') return practice();
@@ -251,7 +263,9 @@ async function start() {
   applyPrefs();
   program = await json('program.json');
   window.addEventListener('hashchange', route);
-  route();
+  initTranslator();
+  if (!store.get().profile.guideSeen && !location.hash.startsWith('#/rehber')) location.hash = '#/rehber';
+  else route();
   if ('serviceWorker' in navigator && location.protocol !== 'file:') {
     navigator.serviceWorker.register('sw.js').catch(() => {});
   }
