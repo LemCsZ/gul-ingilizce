@@ -1,5 +1,5 @@
 // Çevrimdışı çalışma: önce ağ, olmazsa önbellek.
-const CACHE = 'gul-v18';
+const CACHE = 'gul-v20';
 const CORE = [
   './',
   'index.html',

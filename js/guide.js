@@ -43,7 +43,8 @@ function slides(program) {
       title: 'Tekrar ve çevirmen',
       body: `<ul class="g-list">
           <li><strong>Tekrar:</strong> öğrendiğin kelimeler unutulmadan önce geri gelir. Yanlış yaptığın sorular da birkaç gün sonra tekrar sorulur.</li>
-          <li><strong>Çevir düğmesi:</strong> bilmediğin bir kelimeye parmağını basılı tut. Kelime seçilince sağ alttaki <strong>Çevir</strong> düğmesine dokun. İstersen düğmeye dokunup kelimeyi kendin de yazabilirsin.</li>
+          <li><strong>Ara vermek serbest:</strong> dersin ortasında çıkarsan kaldığın yer kaydedilir; sonra oradan devam edersin.</li>
+          <li><strong>Çevir düğmesi:</strong> bilmediğin bir kelimeye parmağını basılı tut. Kelime seçilince <strong>Çevir</strong> düğmesine dokun: derslerde sağ altta, diğer sayfalarda alt menüde. İstersen kelimeyi kendin de yazabilirsin; beğendiğin kelimeyi tekrar kartlarına ekleyebilirsin.</li>
         </ul>
         <p class="muted">Seviye testinde ve deneme sınavlarında çevirmen kapalıdır, çünkü orada gerçek seviyeni görmek istiyoruz.</p>`,
     },

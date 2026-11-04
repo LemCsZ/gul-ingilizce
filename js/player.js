@@ -84,6 +84,21 @@ export function buildSession(lesson, part, data, extra = {}) {
   return steps;
 }
 
+// Yazı için basit, cezasız yazım ipuçları (dil bilgisi denetimi değil).
+export function writingChecks(text, w = {}) {
+  if (!text) return ['Bu sefer boş bıraktın. Bir sonraki yazıda iki üç cümle bile yazsan çok işe yarar.'];
+  const out = [];
+  const words = text.split(/\s+/).filter(Boolean).length;
+  if (w.minWords && words < w.minWords) out.push(`${words} kelime yazdın; hedef ${w.minWords} ve üstü. Bir iki cümle daha ekleyebilirsin.`);
+  if (/[çğışöüÇĞİŞÖÜ]/.test(text)) out.push('Türkçe harf var (ç, ğ, ı, ş, ö, ü). İngilizce kelimelerle yazmayı dene.');
+  if (/(^|[\s(])i(?=[\s'’,.!?]|$)/.test(text)) out.push('"I" (ben) her zaman büyük harfle yazılır: I am, I have.');
+  if (text.split(/[.!?]+\s+/).some(x => /^[a-z]/.test(x.trim()))) out.push('Her cümleye büyük harfle başla.');
+  if (!/[.!?]["')’]?$/.test(text.trim())) out.push('Son cümlenin sonuna nokta koymayı unutma.');
+  const dup = text.match(/\b(\w+) \1\b/i);
+  if (dup && !/^(had|that)$/i.test(dup[1])) out.push(`"${dup[1]}" kelimesi art arda iki kez yazılmış; kontrol et.`);
+  return out;
+}
+
 function vocabCheck(v, all) {
   const others = srs.shuffle(all.filter(o => o.id !== v.id)).slice(0, 3);
   const opts = srs.shuffle([v, ...others]);
@@ -107,21 +122,24 @@ export function buildPractice(kind, extra) {
 
 // ---------- Oynatıcı ----------
 
-export function play(root, { steps, lesson, part, onExit }) {
-  let i = 0;
-  const started = Date.now();
-  const score = { correct: 0, total: 0, bySection: {}, byLevel: {} };
+export function play(root, { steps, lesson, part, onExit, resume }) {
+  let i = resume?.i || 0;
+  const started = Date.now() - (resume?.elapsed || 0);
+  const score = resume?.score || { correct: 0, total: 0, bySection: {}, byLevel: {} };
+  const rkey = lesson && part ? `${lesson.id}:${part}` : null;
+  // Her adım geçişinde yer kaydedilir; uygulama kapansa da ders kaldığı yerden sürer.
+  const persist = () => { if (rkey && i > 0 && steps[i] && steps[i].t !== 'done') store.setResume(rkey, { i, steps, score, elapsed: Date.now() - started }); };
 
   const header = () => {
     const pct = Math.round((i / (steps.length - 1)) * 100);
     return `<header class="play-head">
-      <button class="icon-btn" data-act="exit" aria-label="Dersten çık">✕</button>
+      <button class="icon-btn" data-act="exit" aria-label="Dersten çık; kaldığın yer kaydedilir">✕</button>
       <div class="stem-bar" role="progressbar" aria-valuenow="${pct}" aria-valuemin="0" aria-valuemax="100"><span style="width:${pct}%"></span></div>
       <span class="step-count">${Math.min(i + 1, steps.length - 1)}/${steps.length - 1}</span>
     </header>`;
   };
 
-  function next() { stop(); i++; render(); window.scrollTo(0, 0); }
+  function next() { stop(); i++; persist(); render(); window.scrollTo(0, 0); }
 
   function render() {
     const s = steps[i];
@@ -189,7 +207,7 @@ export function play(root, { steps, lesson, part, onExit }) {
     return `<section class="card listening">
       <p class="kicker">Dinleme</p><h2 lang="en">${esc(l.title)}</h2>
       <p>Önce metni görmeden dinle. İstersen iki kez dinleyebilirsin.</p>
-      ${canSpeak() ? `<button class="btn lake" data-act="play">▶ Dinle</button>` : `<p class="warn">Bu cihazda ses çalışmıyor; metni okuyarak devam edebilirsin.</p>`}
+      ${canSpeak() ? `<div class="listen-row"><button class="btn lake" data-act="play">▶ Dinle</button><button class="btn ghost" data-act="playslow">Yavaş dinle</button></div>` : `<p class="warn">Bu cihazda ses çalışmıyor; metni okuyarak devam edebilirsin.</p>`}
       <details class="script" ${canSpeak() ? '' : 'open'}><summary>Metni göster</summary>${scriptHtml(l)}</details>
       <button class="btn primary" data-act="next">Sorulara geç</button></section>`;
   }
@@ -206,6 +224,7 @@ export function play(root, { steps, lesson, part, onExit }) {
       <textarea id="wtext" rows="7" lang="en" placeholder="Buraya İngilizce yaz…" autocapitalize="sentences">${esc(prev)}</textarea>
       <p class="small" id="wcount"></p>
       <div id="wmodel" hidden>
+        <aside class="wcheck" id="wcheck"></aside>
         ${w.model ? `<aside class="compare"><strong>Örnek cevap</strong><p lang="en">${esc(w.model)}</p></aside>` : ''}
         ${w.checklistTr?.length ? `<p><strong>Kendini kontrol et</strong></p><ul class="check">${w.checklistTr.map(c => `<li>${esc(c)}</li>`).join('')}</ul>` : ''}
       </div>
@@ -215,7 +234,7 @@ export function play(root, { steps, lesson, part, onExit }) {
   function contextBlock(s) {
     if (!s.context) return '';
     if (s.context.kind === 'reading') return `<details class="ctx"><summary>Metni göster</summary><div class="passage">${textHtml(s.context.r)}</div></details>`;
-    return `<div class="ctx-listen">${canSpeak() ? `<button class="btn ghost" data-act="play">▶ Tekrar dinle</button>` : ''}<details class="ctx"><summary>Metni göster</summary>${scriptHtml(s.context.l)}</details></div>`;
+    return `<div class="ctx-listen">${canSpeak() ? `<div class="listen-row"><button class="btn ghost" data-act="play">▶ Tekrar dinle</button><button class="btn ghost" data-act="playslow">Yavaş</button></div>` : ''}<details class="ctx"><summary>Metni göster</summary>${scriptHtml(s.context.l)}</details></div>`;
   }
 
   function itemView(s) {
@@ -256,6 +275,7 @@ export function play(root, { steps, lesson, part, onExit }) {
     const isLesson = lesson && part;
     if (isLesson && !steps.saved) {
       steps.saved = true;
+      store.clearResume(rkey);
       store.addMinutes(minutes);
       const result = { correct: score.correct, total: score.total, minutes };
       if (lesson.kind === 'diagnostic') result.diag = { bySection: score.bySection, byLevel: score.byLevel };
@@ -351,10 +371,10 @@ export function play(root, { steps, lesson, part, onExit }) {
       if (b.dataset.say) return speak(b.dataset.say);
       if (act === 'exit') { stop(); return onExit(); }
       if (act === 'next') return next();
-      if (act === 'play') {
+      if (act === 'play' || act === 'playslow') {
         const l = s.l || s.context?.l;
         b.disabled = true;
-        return speak(l.script, { onEnd: () => (b.disabled = false) });
+        return speak(l.script, { rate: act === 'playslow' ? 0.65 : undefined, onEnd: () => (b.disabled = false) });
       }
       if (b.dataset.opt !== undefined && s.t === 'item') {
         if (root.querySelector('.opt[aria-pressed]')) return;
@@ -397,6 +417,8 @@ export function play(root, { steps, lesson, part, onExit }) {
         const st = store.get();
         st.writings[s.id] = { text, at: new Date().toISOString(), prompt: s.w.promptTr };
         store.save();
+        const tips = writingChecks(text, s.w);
+        root.querySelector('#wcheck').innerHTML = `<strong>Otomatik kontrol</strong>${tips.length ? `<ul>${tips.map(t => `<li>${esc(t)}</li>`).join('')}</ul>` : '<p>Yazım kurallarında bir sorun görmedim. Şimdi örnek cevapla karşılaştır.</p>'}<p class="small">Bu kontrol yalnız yazım kurallarına bakar. Dil bilgisini örnek cevap ve kontrol listesiyle karşılaştır.</p>`;
         root.querySelector('#wmodel').hidden = false;
         b.textContent = 'Devam';
         b.dataset.act = 'next';

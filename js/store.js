@@ -40,6 +40,7 @@ export function replace(next) {
 export function reset() {
   state = fresh();
   save();
+  clearResume();
 }
 
 export const today = () => {
@@ -74,4 +75,23 @@ export function sessionDone(id, part) {
 export function finishSession(id, part, result) {
   state.sessions[`${id}:${part}`] = { doneAt: new Date().toISOString(), ...result };
   save();
+}
+
+// Yarım kalan oturumlar (ayrı anahtarda; yedek koduna girmez). key "w05d2:morning" -> { i, steps, score, elapsed, at }
+const RKEY = 'gul-ingilizce-resume';
+const readResume = () => { try { return JSON.parse(localStorage.getItem(RKEY)) || {}; } catch { return {}; } };
+export function getResume(key) {
+  const r = readResume()[key];
+  return r && Date.now() - r.at < 7 * 864e5 ? r : null;
+}
+export function setResume(key, rec) {
+  const all = readResume();
+  all[key] = { ...rec, at: Date.now() };
+  const keep = Object.entries(all).sort((a, b) => b[1].at - a[1].at).slice(0, 3); // en yeni 3 oturum
+  try { localStorage.setItem(RKEY, JSON.stringify(Object.fromEntries(keep))); } catch { /* yer yoksa sessizce geç */ }
+}
+export function clearResume(key) {
+  const all = readResume();
+  if (key) delete all[key]; else for (const k in all) delete all[k];
+  localStorage.setItem(RKEY, JSON.stringify(all));
 }

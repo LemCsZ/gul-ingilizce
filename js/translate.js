@@ -3,6 +3,8 @@
 // Seviye testinde ve deneme sınavlarında gizlidir (body.exam).
 import { speak, stop, canSpeak } from './speech.js';
 import { petalIcon } from './rose.js';
+import { get } from './store.js';
+import { addCards } from './srs.js';
 
 const esc = s => String(s ?? '').replace(/[&<>"']/g, c => ({ '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;', "'": '&#39;' }[c]));
 const TR_CHARS = /[çğıöşüÇĞİÖŞÜ]/;
@@ -123,6 +125,14 @@ function onSelection() {
 
 const pending = () => selText() || (Date.now() - lastSel.at < 5000 ? lastSel.text : '');
 
+// Çevrilen kelimeyi aralıklı tekrar kartı yapar; ders kelimesiyle aynı kimliği alır, iki kez eklenmez.
+const slug = en => en.toLowerCase().replace(/[^a-z0-9]+/g, '-').replace(/^-|-$/g, '');
+function addBtn(en, tr, ex = '', exTr = '') {
+  const has = get().cards[slug(en)] || Object.values(get().cards).some(c => c.en.toLowerCase() === en.toLowerCase());
+  return has ? '<p class="tr-note">Bu kelime tekrar kartlarında var.</p>'
+    : `<button type="button" class="btn ghost tr-add" data-tradd="${esc(JSON.stringify([en, tr, ex, exTr]))}">Tekrar kartlarıma ekle</button>`;
+}
+
 function result(r) {
   const gt = `https://translate.google.com/?sl=${r.from || (r.kind === 'dict-tr' ? 'tr' : 'en')}&tl=${r.to || (r.kind === 'dict-tr' ? 'en' : 'tr')}&text=${encodeURIComponent(r.text)}&op=translate`;
   const more = `<a class="tr-more" href="${gt}" target="_blank" rel="noopener">Google Çeviri'de aç</a>`;
@@ -132,7 +142,7 @@ function result(r) {
       ${r.from && r.from !== r.key ? `<p class="small">“${esc(r.from)}” kelimesinin yalın hali</p>` : ''}
       <p class="tr-mean">${esc(tr)}</p>
       ${ex ? `<p class="ex">${say(ex)}<span><span lang="en">${esc(ex)}</span><small>${esc(exTr)}</small></span></p>` : ''}
-      <p class="tr-note">Ders sözlüğünden</p></div>${more}`;
+      <p class="tr-note">Ders sözlüğünden</p>${addBtn(r.key, tr, ex, exTr)}</div>${more}`;
   }
   if (r.kind === 'dict-tr') {
     return `<div class="tr-hit"><p class="small">“${esc(r.text)}” İngilizcede:</p>
@@ -143,7 +153,8 @@ function result(r) {
     const en = r.from === 'en' ? r.text : r.out;
     return `<div class="tr-hit"><p class="tr-word small" ${r.from === 'en' ? 'lang="en"' : ''}>${r.from === 'en' ? say(en) : ''}${esc(r.text)}</p>
       <p class="tr-mean" ${r.to === 'en' ? 'lang="en"' : ''}>${r.to === 'en' ? say(en) : ''}${esc(r.out)}</p>
-      <p class="tr-note">İnternetten otomatik çeviri; küçük hatalar olabilir.</p></div>${more}`;
+      <p class="tr-note">İnternetten otomatik çeviri; küçük hatalar olabilir.</p>
+      ${r.from === 'en' && r.text.split(' ').length <= 4 ? addBtn(normEn(r.text), r.out) : ''}</div>${more}`;
   }
   return `<div class="tr-hit"><p>Bu kelime ders sözlüğünde yok, internetten de çeviri alınamadı. İnternet bağlantını kontrol edip tekrar dene.</p></div>${more}`;
 }
@@ -176,7 +187,13 @@ function build() {
   sheet.addEventListener('click', e => {
     if (e.target.closest('[data-trclose]')) return close();
     const b = e.target.closest('[data-trsay]');
-    if (b) speak(b.dataset.trsay);
+    if (b) return speak(b.dataset.trsay);
+    const add = e.target.closest('[data-tradd]');
+    if (add) {
+      const [en, tr, example, exampleTr] = JSON.parse(add.dataset.tradd);
+      addCards([{ id: slug(en), en, tr, example, exampleTr }]);
+      add.outerHTML = '<p class="tr-note" role="status">Eklendi. Bu kelime yarından itibaren Tekrar bölümünde karşına çıkacak.</p>';
+    }
   });
   sheet.querySelector('form').addEventListener('submit', e => { e.preventDefault(); const v = sheet.querySelector('#trIn').value; sheet.querySelector('#trIn').blur(); run(v); });
   sheet.addEventListener('keydown', e => {
@@ -219,6 +236,9 @@ export function initTranslator() {
   fab.addEventListener('click', () => { const t = grabbed || pending(); grabbed = ''; lastSel = { text: '', at: 0 }; openTranslator(t); });
   document.body.append(fab);
   document.addEventListener('selectionchange', onSelection);
+  // Alt menüdeki Çevir düğmesi
+  document.addEventListener('pointerdown', e => { if (e.target.closest?.('[data-tr-open]')) grabbed = pending(); }, true);
+  document.addEventListener('click', e => { if (e.target.closest?.('[data-tr-open]')) { const t = grabbed || pending(); grabbed = ''; openTranslator(t); } });
   window.addEventListener('hashchange', close);
   loadDict();
 }

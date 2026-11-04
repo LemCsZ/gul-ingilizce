@@ -39,7 +39,53 @@ function greeting() {
 
 function nav(active) {
   const items = [['', 'Bugün'], ['tekrar', 'Tekrar'], ['bahce', 'Bahçem'], ['ayarlar', 'Ayarlar']];
-  return `<nav class="tabbar">${items.map(([h, t]) => `<a href="#/${h}" class="${active === h ? 'on' : ''}" ${active === h ? 'aria-current="page"' : ''}>${petalIcon(16, active === h ? '#A8204A' : '#D9A3B3')}<span>${t}</span></a>`).join('')}</nav>`;
+  return `<nav class="tabbar">${items.map(([h, t]) => `<a href="#/${h}" class="${active === h ? 'on' : ''}" ${active === h ? 'aria-current="page"' : ''}>${petalIcon(16, active === h ? '#A8204A' : '#D9A3B3')}<span>${t}</span></a>`).join('')}
+    <button type="button" class="tab-tr" data-tr-open aria-label="Çevirmeni aç"><span class="tab-tr-ic" aria-hidden="true">Aa</span><span>Çevir</span></button></nav>`;
+}
+
+const PART_TR = { morning: 'Sabah dersi', evening: 'Akşam dersi', exam: 'Deneme sınavı', light: 'Hafif gün' };
+function resumeNote(id, part) {
+  const r = !store.sessionDone(id, part) && store.getResume(`${id}:${part}`);
+  return r ? ` · kaldığın yer ${r.i + 1}/${r.steps.length - 1}` : '';
+}
+
+// Rapor en son 7 günden önce paylaşıldıysa hatırlat (ilerleme yalnız telefonda durduğu için)
+function reportNudge() {
+  const s = store.get();
+  const done = Object.keys(s.sessions).length;
+  const last = s.profile.lastShared ? Date.parse(s.profile.lastShared) : 0;
+  if (done < 3 || Date.now() - last < 7 * 864e5) return '';
+  return `<section class="card nudge"><h2>Raporunu gönderme zamanı</h2>
+    <p class="muted">${last ? 'Son raporu bir haftadan uzun süre önce gönderdin.' : 'Henüz rapor göndermedin.'} Rapor oğlunun ilerlemeni görmesini sağlar, yedek kodu da taşır.</p>
+    <a class="btn lake" href="#/rapor">Raporu aç</a></section>`;
+}
+
+// Deneme sınavı puanları ve sınav hedefi (WUST: 31-38 ESL 300, 39-45 ESL 400, 46-50 B2 üstü)
+const band = n => (n >= 46 ? 'B2 üstü' : n >= 39 ? 'ESL 400' : n >= 31 ? 'ESL 300' : 'ESL 300 altı');
+function examTarget() {
+  const s = store.get();
+  const mocks = s.exams.filter(e => (e.kind || '').startsWith('deneme') && e.total);
+  const rows = [{ label: 'Gerçek sınav (16 Ekim)', n: 33 }, ...mocks.map(e => ({ label: `${e.week}. hafta denemesi`, n: Math.round((e.correct / e.total) * 50) }))];
+  const bar = r => `<li><span class="tl">${esc(r.label)}</span><span class="tbar" role="img" aria-label="50 üzerinden ${r.n}"><i style="width:${r.n * 2}%"></i><b class="m39"></b><b class="m46"></b></span><strong>${r.n}</strong><small>${band(r.n)}</small></li>`;
+  return `<section class="card target"><h2>Sınav hedefi</h2>
+    <p class="muted">50 soru üzerinden. Hedef: 9. haftada 39 ve üstü (ESL 400), son haftalarda 46 ve üstü (B2 üstü).</p>
+    <ul class="tbars">${rows.map(bar).join('')}</ul>
+    <p class="small"><span class="key k39"></span>39 ve <span class="key k46"></span>46 çizgileri${mocks.length ? '' : '. İlk deneme sınavı 3. haftanın sonunda.'}</p></section>`;
+}
+
+// Takvime günlük ders hatırlatıcısı (.ics); sunucu gerekmez
+function icsFile(morning, evening) {
+  const d = new Date();
+  const ymd = `${d.getFullYear()}${String(d.getMonth() + 1).padStart(2, '0')}${String(d.getDate()).padStart(2, '0')}`;
+  const url = location.origin + location.pathname;
+  const ev = (time, title, uid) => {
+    const hm = time.replace(':', '');
+    return ['BEGIN:VEVENT', `UID:${uid}-${ymd}@gul-ingilizce`, `DTSTAMP:${ymd}T000000Z`, `DTSTART:${ymd}T${hm}00`, 'DURATION:PT1H',
+      'RRULE:FREQ=DAILY;COUNT=120', `SUMMARY:${title}`, `DESCRIPTION:Gül İngilizce: ${url}`, `URL:${url}`,
+      'BEGIN:VALARM', 'ACTION:DISPLAY', `DESCRIPTION:${title}`, 'TRIGGER:PT0M', 'END:VALARM', 'END:VEVENT'].join('\r\n');
+  };
+  return ['BEGIN:VCALENDAR', 'VERSION:2.0', 'PRODID:-//Gul Ingilizce//TR', 'CALSCALE:GREGORIAN',
+    ev(morning, 'İngilizce: sabah dersi', 'sabah'), ev(evening, 'İngilizce: akşam dersi', 'aksam'), 'END:VCALENDAR'].join('\r\n');
 }
 
 function weekRow(week, cur) {
@@ -88,9 +134,9 @@ function home() {
     const parts = cur.kind === 'light'
       ? `<a class="session-btn" href="#/ders/${cur.id}/light"><strong>Hafif gün</strong><span>20-30 dakika: tekrar ve kelime oyunu</span></a>`
       : cur.kind === 'mock'
-      ? `<a class="session-btn" href="#/ders/${cur.id}/exam"><strong>Deneme sınavı</strong><span>50 soru ve kısa yazı, gerçek sınav gibi · ~60 dk</span></a>`
-      : `<a class="session-btn ${mDone ? 'done' : ''}" href="#/ders/${cur.id}/morning"><strong>${mDone ? '✓ ' : ''}Sabah dersi</strong><span>${cur.kind === 'diagnostic' ? 'Dil bilgisi ve kelime, ~30 dk' : 'Tekrar, dil bilgisi, yeni kelimeler, okuma · 60 dk'}</span></a>
-         <a class="session-btn evening ${eDone ? 'done' : ''}" href="#/ders/${cur.id}/evening"><strong>${eDone ? '✓ ' : ''}Akşam dersi</strong><span>${cur.kind === 'diagnostic' ? 'Okuma, dinleme ve yazma, ~30 dk' : 'Dinleme, yazma, sınav pratiği · 60 dk'}</span></a>`;
+      ? `<a class="session-btn" href="#/ders/${cur.id}/exam"><strong>Deneme sınavı</strong><span>50 soru ve kısa yazı, gerçek sınav gibi · ~60 dk${resumeNote(cur.id, 'exam')}</span></a>`
+      : `<a class="session-btn ${mDone ? 'done' : ''}" href="#/ders/${cur.id}/morning"><strong>${mDone ? '✓ ' : ''}Sabah dersi</strong><span>${cur.kind === 'diagnostic' ? 'Dil bilgisi ve kelime, ~30 dk' : 'Tekrar, dil bilgisi, yeni kelimeler, okuma · 60 dk'}${resumeNote(cur.id, 'morning')}</span></a>
+         <a class="session-btn evening ${eDone ? 'done' : ''}" href="#/ders/${cur.id}/evening"><strong>${eDone ? '✓ ' : ''}Akşam dersi</strong><span>${cur.kind === 'diagnostic' ? 'Okuma, dinleme ve yazma, ~30 dk' : 'Dinleme, yazma, sınav pratiği · 60 dk'}${resumeNote(cur.id, 'evening')}</span></a>`;
     todayHtml = `<section class="today">
       <div class="today-rose">${rose(st, { size: 120, label: 'Bugünün gülü' })}</div>
       <p class="when">${cur.week}. hafta, ${cur.day}. gün</p>
@@ -102,6 +148,7 @@ function home() {
       <p>${mins ? `Bugün ${Math.round(mins)} dakika çalıştın.` : 'Bugünkü dersin seni bekliyor.'}${due ? ` ${due} tekrar kartın var.` : ''}</p></header>
     ${todayHtml}
     ${fastPath()}
+    ${reportNudge()}
     <section class="this-week"><h3>Bu hafta</h3>${weekRow(cur ? cur.week : 1, cur)}</section>
     <p class="guide-link"><a href="#/rehber">Uygulama nasıl çalışır?</a></p>
   </div>${nav('')}`;
@@ -142,6 +189,7 @@ function garden() {
       <div><strong>${words}</strong><span>kelime kartı</span></div>
       <div><strong>${learned}</strong><span>kelime oturdu</span></div>
     </section>
+    ${examTarget()}
     ${d ? `<section class="card"><h2>Seviye testi sonucu</h2><p class="big-num">${d.level}</p><p class="muted">${d.correct}/${d.total} doğru, ${d.date}. Bu bir tahmin; dersler ilerledikçe güncellenir.</p></section>` : ''}
     <section class="garden">${weeks.map(w => `<div class="garden-week"><h3>${w}. hafta <small>${phase(w)}</small></h3>${weekRow(w, cur)}</div>`).join('')}</section>
   </div>${nav('bahce')}`;
@@ -163,6 +211,12 @@ function settings() {
       <p class="muted">Çalışma süresini, başarıyı ve yazdıklarını gösterir. Paylaş düğmesiyle WhatsApp'tan gönderebilirsin.</p>
       <a class="btn lake" href="#/rapor">Raporu aç</a>
     </section>
+    <section class="card form">
+      <h2>Ders hatırlatıcısı</h2>
+      <p class="muted">Telefonunun takvimine her gün iki hatırlatma ekler. Saatleri seç, sonra açılan dosyada "Takvime ekle"ye dokun.</p>
+      <div class="times"><label>Sabah<input type="time" id="tm" value="${esc(p.remindMorning || '09:00')}"></label><label>Akşam<input type="time" id="te" value="${esc(p.remindEvening || '19:00')}"></label></div>
+      <button class="btn ghost" id="ics">Takvimime ekle</button>
+    </section>
     <section class="card">
       <h2>Rehber</h2>
       <p class="muted">Çalışma planını ve uygulamanın nasıl kullanıldığını kısaca anlatır.</p>
@@ -177,6 +231,14 @@ function settings() {
     </section>
     ${(store.get().skipped || []).length ? `<section class="card"><h2>Atlanan haftalar</h2><p class="muted">${store.get().skipped.join('. ve ')}. haftayı atladın.</p><button class="btn ghost" id="unskip">Atlanan haftaları geri aç</button></section>` : ''}
     </div>${nav('ayarlar')}`;
+  app.querySelector('#ics').onclick = () => {
+    const m = app.querySelector('#tm').value || '09:00', e = app.querySelector('#te').value || '19:00';
+    p.remindMorning = m; p.remindEvening = e; store.save();
+    const url = URL.createObjectURL(new Blob([icsFile(m, e)], { type: 'text/calendar' }));
+    const a = Object.assign(document.createElement('a'), { href: url, download: 'gul-ingilizce-hatirlatici.ics' });
+    document.body.append(a); a.click(); a.remove();
+    setTimeout(() => URL.revokeObjectURL(url), 60000);
+  };
   const un = app.querySelector('#unskip');
   if (un) un.onclick = () => { store.get().skipped = []; store.save(); settings(); };
   const msg = t => (app.querySelector('#msg').textContent = t);
@@ -210,6 +272,7 @@ function report() {
     try {
       if (navigator.share) await navigator.share({ title: 'İngilizce çalışma raporu', text: full });
       else { await navigator.clipboard.writeText(full); app.querySelector('#msg').textContent = 'Rapor kopyalandı; mesaja yapıştırabilirsin.'; }
+      store.get().profile.lastShared = new Date().toISOString(); store.save();
     } catch { /* paylaşım iptal edildi */ }
   };
   app.querySelector('#view').onclick = () => {
@@ -231,7 +294,21 @@ async function lessonView(id, part) {
     if (lesson.kind === 'light') extra.synant = await json('synant.json');
     const steps = buildSession(lesson, part, data, extra);
     document.body.classList.toggle('exam', lesson.kind === 'mock' || lesson.kind === 'diagnostic'); // sınavda çevirmen kapalı
-    play(app, { steps, lesson, part, onExit: () => (location.hash = '#/') });
+    const key = `${lesson.id}:${part}`;
+    const onExit = () => (location.hash = '#/');
+    const r = store.getResume(key);
+    if (!r || store.sessionDone(lesson.id, part) || !(r.i > 0 && r.i < r.steps.length - 1)) {
+      if (r) store.clearResume(key);
+      return play(app, { steps, lesson, part, onExit });
+    }
+    app.innerHTML = `<div class="page"><section class="card resume">
+      <div class="today-rose">${rose(1, { size: 90 })}</div>
+      <h2>Kaldığın yerden devam edelim mi?</h2>
+      <p>${esc(PART_TR[part] || '')}: ${r.steps.length - 1} adımın ${r.i}. adımını bitirmiştin.</p>
+      <button class="btn primary" id="rgo">Kaldığım yerden devam et</button>
+      <button class="btn ghost" id="rnew">Baştan başla</button></section></div>`;
+    app.querySelector('#rgo').onclick = () => play(app, { steps: r.steps, lesson, part, onExit, resume: r });
+    app.querySelector('#rnew').onclick = () => { store.clearResume(key); play(app, { steps, lesson, part, onExit }); };
   } catch (e) {
     app.innerHTML = `<div class="page"><section class="card"><h2>Bu ders açılamadı</h2><p>İnternet bağlantını kontrol edip tekrar dene.</p><a class="btn primary" href="#/">Ana sayfa</a></section></div>`;
   }
@@ -249,14 +326,13 @@ async function route() {
   window.scrollTo(0, 0);
   app.onclick = null;
   document.body.classList.remove('exam', 'guide-on');
-  if (a === 'rehber') { document.body.classList.add('guide-on'); return renderGuide(app, program, () => (location.hash = '#/')); }
-  if (a === 'ders') return lessonView(b, c);
-  if (a === 'calis') return practiceView(b);
-  if (a === 'tekrar') return practice();
-  if (a === 'bahce') return garden();
-  if (a === 'ayarlar') return settings();
-  if (a === 'rapor') return report();
-  return home();
+  if (a === 'rehber') document.body.classList.add('guide-on');
+  const view = a === 'rehber' ? () => renderGuide(app, program, () => (location.hash = '#/'))
+    : a === 'ders' ? () => lessonView(b, c) : a === 'calis' ? () => practiceView(b)
+    : { tekrar: practice, bahce: garden, ayarlar: settings, rapor: report }[a] || home;
+  document.body.classList.remove('has-tabbar');
+  await view();
+  document.body.classList.toggle('has-tabbar', !!app.querySelector('.tabbar'));
 }
 
 async function start() {
